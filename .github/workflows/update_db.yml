@@ -6,7 +6,7 @@ on:
   workflow_dispatch:         # manual trigger
 
 jobs:
-  crawl:
+  update:
     runs-on: ubuntu-latest
 
     steps:
