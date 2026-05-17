@@ -20,7 +20,6 @@ NEXUS_API_BASE   = "https://api.nexusmods.com"
 VALID_CATEGORIES = {1, 2, 3}
 
 OUTPUT_FILE = "uuid_nexus_db.json"
-STATE_FILE  = "db_state.json"
 
 # ── Client ────────────────────────────────────────────────────────────────
 
@@ -107,22 +106,18 @@ def format_entry(mod_id: str, entry: dict) -> str:
         f'"paks":[\n{paks}\n]}}'
     )
 
-def save_db(db: dict):
-    entries = ",\n".join(format_entry(k, v) for k, v in db.items())
+def save_db(db: dict, last_run: str = None, total_mods: int = 0):
+    meta    = json.dumps({"last_run": last_run, "total_mods": total_mods},
+                         ensure_ascii=False, separators=(",", ":"))
+    entries = ",\n".join(format_entry(k, v) for k, v in db.items() if k != "_meta")
     with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
-        f.write("{" + entries + "}")
+        f.write('{"_meta":' + meta + ",\n" + entries + "}")
 
 # ── State ─────────────────────────────────────────────────────────────────
 
-def load_state() -> dict:
-    if os.path.exists(STATE_FILE):
-        with open(STATE_FILE, "r") as f:
-            return json.load(f)
-    return {"last_run": None}
-
-def save_state():
-    with open(STATE_FILE, "w") as f:
-        json.dump({"last_run": datetime.datetime.now(datetime.timezone.utc).isoformat()}, f)
+def load_state(db: dict) -> dict:
+    meta = db.get("_meta", {})
+    return {"last_run": meta.get("last_run")}
 
 def get_period(last_run_iso: str | None) -> str:
     if not last_run_iso:
@@ -210,7 +205,7 @@ def main():
 
     client = NexusClient(args.api_key)
     db     = load_db()
-    state  = load_state()
+    state  = load_state(db)
 
     period = args.force_period or get_period(state.get("last_run"))
     print(f"Period: {period} | Last run: {state.get('last_run') or 'never'}")
@@ -241,8 +236,8 @@ def main():
             added += 1
         db[str(mod_id)] = entry
 
-    save_db(db)
-    save_state()
+    now = datetime.datetime.now(datetime.timezone.utc).isoformat()
+    save_db(db, last_run=now, total_mods=len(db))
     print(f"\n\nDone. Added={added} Updated={updated} Skipped={skipped} Total={len(db)}")
 
 if __name__ == "__main__":
