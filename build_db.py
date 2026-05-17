@@ -33,7 +33,7 @@ class NexusClient:
         if d: self.daily_remaining  = int(d)
 
     def get(self, path: str) -> dict | None:
-        # Daily 소진 시 자정까지 대기
+        # Wait until midnight on daily limit
         if self.daily_remaining <= 10:
             now      = datetime.datetime.utcnow()
             midnight = (now + datetime.timedelta(days=1)).replace(
@@ -43,7 +43,7 @@ class NexusClient:
                   f"Waiting until {midnight.strftime('%m/%d %H:%M')} UTC ({wait/3600:.1f}h)...")
             time.sleep(wait)
 
-            # 자정 이후 5분마다 회복 확인
+            # Check recovery every 5 min after midnight
             while True:
                 resp = requests.get(
                     f"{NEXUS_API_BASE}/v1/users/validate.json",
@@ -189,7 +189,7 @@ def main():
     start_id = args.start if args.start is not None else load_checkpoint(args.output) + 1
     end_id   = args.end   if args.end   is not None else get_latest_mod_id(args.api_key)
 
-    # 시작 전 API 잔여 횟수 확인
+    # Check API limits before starting
     resp = requests.get(
         f"{NEXUS_API_BASE}/v1/users/validate.json",
         headers={"apikey": args.api_key, "User-Agent": "bg3-nexus-uuid-db/1.0"},

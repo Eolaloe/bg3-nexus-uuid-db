@@ -42,7 +42,7 @@ class NexusClient:
         if d: self.daily_remaining  = int(d)
 
     def get(self, path: str) -> dict | list | None:
-        # Daily 소진 시 GMT 자정까지 대기 후 5분마다 회복 확인
+        # Wait until GMT midnight on daily limit, then retry every 5 min
         if self.daily_remaining <= 10:
             now      = datetime.datetime.utcnow()
             midnight = (now + datetime.timedelta(days=1)).replace(
