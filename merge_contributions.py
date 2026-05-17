@@ -16,6 +16,38 @@ CONTRIBUTIONS_DIR = "contributions"
 DB_FILE           = "uuid_nexus_db.json"
 
 
+# ── Serializer (must match update_db.py's save_db format) ─────────────────
+
+def format_entry(mod_id: str, entry: dict) -> str:
+    paks = ",\n".join(
+        json.dumps(p, ensure_ascii=False, separators=(",", ":"))
+        for p in entry["paks"]
+    )
+    return (
+        f'"{mod_id}":'
+        f'{{"modName":{json.dumps(entry["modName"], ensure_ascii=False)},'
+        f'"uploadedBy":{json.dumps(entry.get("uploadedBy",""), ensure_ascii=False)},'
+        f'"modId":{entry["modId"]},'
+        f'"paks":[\n{paks}\n]}}'
+    )
+
+def save_db(db: dict):
+    """update_db.py와 동일한 포맷으로 저장. modId 정수 순 정렬, _meta 그대로 보존."""
+    meta_obj = db.get("_meta", {})
+    meta_str = json.dumps(meta_obj, ensure_ascii=False, separators=(",", ":"))
+
+    sorted_items = sorted(
+        ((k, v) for k, v in db.items() if k != "_meta"),
+        key=lambda kv: int(kv[0])
+    )
+    entries = ",\n".join(format_entry(k, v) for k, v in sorted_items)
+
+    with open(DB_FILE, "w", encoding="utf-8") as f:
+        f.write('{"_meta":' + meta_str + ",\n" + entries + "}")
+
+
+# ── Main ──────────────────────────────────────────────────────────────────
+
 def main():
     files = glob.glob(os.path.join(CONTRIBUTIONS_DIR, "*.json"))
 
@@ -81,6 +113,8 @@ def main():
 
     merged = 0
     for mod_id, mod_data in db.items():
+        if mod_id == "_meta":
+            continue
         for pak in mod_data.get("paks", []):
             pak_lower = pak.get("pakFileName", "").lower()
             if pak_lower in confirmed:
@@ -89,8 +123,7 @@ def main():
                     merged += 1
 
     if merged > 0:
-        with open(DB_FILE, "w", encoding="utf-8") as f:
-            json.dump(db, f, ensure_ascii=False, indent=2)
+        save_db(db)
         print(f"Merged {merged} UUID(s) into {DB_FILE}")
     else:
         print("No new UUIDs to merge into DB.")

@@ -107,9 +107,14 @@ def format_entry(mod_id: str, entry: dict) -> str:
     )
 
 def save_db(db: dict, last_run: str = None, total_mods: int = 0):
-    meta    = json.dumps({"last_run": last_run, "total_mods": total_mods},
-                         ensure_ascii=False, separators=(",", ":"))
-    entries = ",\n".join(format_entry(k, v) for k, v in db.items() if k != "_meta")
+    meta = json.dumps({"last_run": last_run, "total_mods": total_mods},
+                      ensure_ascii=False, separators=(",", ":"))
+    # modId(키) 정수 순으로 정렬해서 저장 ('_meta' 제외)
+    sorted_items = sorted(
+        ((k, v) for k, v in db.items() if k != "_meta"),
+        key=lambda kv: int(kv[0])
+    )
+    entries = ",\n".join(format_entry(k, v) for k, v in sorted_items)
     with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
         f.write('{"_meta":' + meta + ",\n" + entries + "}")
 
