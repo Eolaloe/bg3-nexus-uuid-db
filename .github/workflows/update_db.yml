@@ -1,0 +1,35 @@
+name: DB Update
+
+on:
+  schedule:
+    - cron: '0 */3 * * *'  # every 3 hours (GMT)
+  workflow_dispatch:         # manual trigger
+
+jobs:
+  crawl:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Run incremental DB update
+        env:
+          NEXUS_API_KEY: ${{ secrets.NEXUS_API_KEY }}
+        run: python update_db.py --api-key "$NEXUS_API_KEY"
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add uuid_nexus_db.json crawl_state.json
+          git diff --cached --quiet || git commit -m "Auto: incremental crawl $(date -u '+%Y-%m-%d %H:%M') UTC"
+          git push
