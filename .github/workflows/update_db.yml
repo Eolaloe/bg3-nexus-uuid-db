@@ -30,6 +30,6 @@ jobs:
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add uuid_nexus_db.json crawl_state.json
+          git add uuid_nexus_db.json db_state.json
           git diff --cached --quiet || git commit -m "Auto: incremental crawl $(date -u '+%Y-%m-%d %H:%M') UTC"
           git push
