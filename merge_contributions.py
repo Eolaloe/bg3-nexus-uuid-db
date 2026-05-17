@@ -10,6 +10,7 @@ then deletes processed contribution files.
 import json
 import os
 import glob
+import time
 
 CONTRIBUTIONS_DIR = "contributions"
 DB_FILE           = "uuid_nexus_db.json"
@@ -107,5 +108,32 @@ def _delete_files(files):
     print(f"Deleted {len(files)} contribution file(s).")
 
 
+def cleanup_ip_logs():
+    """Delete ip_logs files older than 24 hours."""
+    ip_dir = "ip_logs"
+    if not os.path.exists(ip_dir):
+        return
+
+    now   = time.time() * 1000  # milliseconds
+    limit = 24 * 60 * 60 * 1000
+
+    deleted = 0
+    for fname in os.listdir(ip_dir):
+        if not fname.endswith(".json"):
+            continue
+        try:
+            parts = fname.replace(".json", "").split("_")
+            ts    = int(parts[1])
+            if now - ts > limit:
+                os.remove(os.path.join(ip_dir, fname))
+                deleted += 1
+        except Exception:
+            pass
+
+    if deleted > 0:
+        print(f"Deleted {deleted} expired ip_log(s).")
+
+
 if __name__ == "__main__":
     main()
+    cleanup_ip_logs()
