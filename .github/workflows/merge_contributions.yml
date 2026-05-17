@@ -1,0 +1,30 @@
+name: Merge Contributions
+
+on:
+  schedule:
+    - cron: '10 * * * *'  # every hour at :10 (10 min after DB update)
+  workflow_dispatch:        # manual trigger
+
+jobs:
+  merge:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Merge contributions into DB
+        run: python merge_contributions.py
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add uuid_nexus_db.json
+          git diff --cached --quiet || git commit -m "Auto: merge contributions $(date -u '+%Y-%m-%d %H:%M') UTC"
+          git push
