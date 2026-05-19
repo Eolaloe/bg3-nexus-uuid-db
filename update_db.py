@@ -100,9 +100,9 @@ def format_entry(mod_id: str, entry: dict) -> str:
     )
     return (
         f'"{mod_id}":'
-        f'{{"modName":{json.dumps(entry["modName"], ensure_ascii=False)},'
-        f'"uploadedBy":{json.dumps(entry.get("uploadedBy",""), ensure_ascii=False)},'
-        f'"modId":{entry["modId"]},'
+        f'{{"nexusModName":{json.dumps(entry["nexusModName"], ensure_ascii=False)},'
+        f'"nexusUploadedBy":{json.dumps(entry.get("nexusUploadedBy",""), ensure_ascii=False)},'
+        f'"nexusModId":{entry["nexusModId"]},'
         f'"paks":[\n{paks}\n]}}'
     )
 
@@ -151,8 +151,8 @@ def crawl_mod(client: NexusClient, mod_id: int, existing_entry: dict | None) -> 
     existing_uuid_map = {}
     if existing_entry:
         for pak in existing_entry.get("paks", []):
-            if pak.get("uuid"):
-                existing_uuid_map[pak["pakFileName"]] = pak["uuid"]
+            if pak.get("metaUuid"):
+                existing_uuid_map[pak["pakFileName"]] = pak["metaUuid"]
 
     paks = []
     for f in valid_files:
@@ -163,21 +163,21 @@ def crawl_mod(client: NexusClient, mod_id: int, existing_entry: dict | None) -> 
             continue
         for pak_name in client.get_pak_names(preview_url):
             paks.append({
-                "fileName":    file_name,
-                "version":     f.get("version", ""),
-                "pakFileName": pak_name,
-                "fileId":      file_id,
-                "uuid":        existing_uuid_map.get(pak_name),
+                "nexusFileName":    file_name,
+                "nexusFileVersion": f.get("version", ""),
+                "pakFileName":      pak_name,
+                "nexusFileId":      file_id,
+                "metaUuid":         existing_uuid_map.get(pak_name),
             })
 
     if not paks:
         return None
 
     return {
-        "modName":    mod_data.get("name", ""),
-        "uploadedBy": mod_data.get("uploaded_by", ""),
-        "modId":      mod_id,
-        "paks":       paks,
+        "nexusModName":    mod_data.get("name", ""),
+        "nexusUploadedBy": mod_data.get("uploaded_by", ""),
+        "nexusModId":      mod_id,
+        "paks":            paks,
     }
 
 def get_mod_ids_to_update(client: NexusClient, period: str) -> set[int]:

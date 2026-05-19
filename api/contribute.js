@@ -128,13 +128,13 @@ export default async function handler(req, res) {
         item &&
         typeof item.pakFileName === "string" &&
         item.pakFileName.toLowerCase().endsWith(".pak") &&
-        typeof item.uuid === "string" &&
-        UUID_REGEX.test(item.uuid)
+        typeof item.metaUuid === "string" &&
+        UUID_REGEX.test(item.metaUuid)
     ).map(item => ({
-        pakFileName: item.pakFileName,
-        uuid:        item.uuid,
-        modId:       item.modId  || null,
-        fileId:      item.fileId || null,
+        pakFileName:  item.pakFileName,
+        metaUuid:     item.metaUuid,
+        nexusModId:   item.nexusModId  || null,
+        nexusFileId:  item.nexusFileId || null,
     }));
 
     if (valid.length === 0) {

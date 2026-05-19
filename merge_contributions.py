@@ -25,9 +25,9 @@ def format_entry(mod_id: str, entry: dict) -> str:
     )
     return (
         f'"{mod_id}":'
-        f'{{"modName":{json.dumps(entry["modName"], ensure_ascii=False)},'
-        f'"uploadedBy":{json.dumps(entry.get("uploadedBy",""), ensure_ascii=False)},'
-        f'"modId":{entry["modId"]},'
+        f'{{"nexusModName":{json.dumps(entry["nexusModName"], ensure_ascii=False)},'
+        f'"nexusUploadedBy":{json.dumps(entry.get("nexusUploadedBy",""), ensure_ascii=False)},'
+        f'"nexusModId":{entry["nexusModId"]},'
         f'"paks":[\n{paks}\n]}}'
     )
 
@@ -71,16 +71,16 @@ def main():
 
             for item in items:
                 pak  = item.get("pakFileName", "").lower()
-                uuid = item.get("uuid", "")
+                uuid = item.get("metaUuid", "")
                 if not pak or not uuid:
                     continue
                 votes.setdefault(pak, {})
                 votes[pak][uuid] = votes[pak].get(uuid, 0) + 1
 
-                if item.get("modId") and pak not in mod_map:
+                if item.get("nexusModId") and pak not in mod_map:
                     mod_map[pak] = {
-                        "modId":  item["modId"],
-                        "fileId": item.get("fileId"),
+                        "nexusModId":  item["nexusModId"],
+                        "nexusFileId": item.get("nexusFileId"),
                     }
         except Exception as e:
             print(f"  Skip {fpath}: {e}")
@@ -118,8 +118,8 @@ def main():
         for pak in mod_data.get("paks", []):
             pak_lower = pak.get("pakFileName", "").lower()
             if pak_lower in confirmed:
-                if pak.get("uuid") != confirmed[pak_lower]:
-                    pak["uuid"] = confirmed[pak_lower]
+                if pak.get("metaUuid") != confirmed[pak_lower]:
+                    pak["metaUuid"] = confirmed[pak_lower]
                     merged += 1
 
     if merged > 0:
