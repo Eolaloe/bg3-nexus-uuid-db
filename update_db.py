@@ -80,10 +80,19 @@ class NexusClient:
                                 headers={"User-Agent": "bg3-nexus-uuid-db/1.0"})
             if not resp.ok:
                 return []
-            return [c["name"] for c in resp.json().get("children", [])
-                    if str(c.get("name", "")).lower().endswith(".pak")]
+            return self._collect_pak_names(resp.json().get("children", []))
         except Exception:
             return []
+
+    def _collect_pak_names(self, children: list) -> list[str]:
+        result = []
+        for node in children:
+            name = str(node.get("name", ""))
+            if name.lower().endswith(".pak"):
+                result.append(name)
+            elif "children" in node:
+                result.extend(self._collect_pak_names(node["children"]))
+        return result
 
 # ── DB ────────────────────────────────────────────────────────────────────
 
