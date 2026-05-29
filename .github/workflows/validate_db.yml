@@ -1,10 +1,10 @@
 name: Validate Nexus Mod IDs
 
 on:
-  workflow_dispatch:   # 크론잡에서 외부 트리거 (update_db.yml과 동일 방식)
+  workflow_dispatch:   # Triggered externally via cron job (same pattern as update_db.yml)
 
 concurrency:
-  group: db-write      # update_db.yml과 같은 그룹 → 동시 실행 방지, 순서 대기
+  group: db-write      # Same group as update_db.yml — prevents simultaneous runs, queues instead
   cancel-in-progress: false
 
 jobs:
