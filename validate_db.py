@@ -1,16 +1,16 @@
 """
 BG3 Nexus DB Validation Script
-- DB에 등록된 modId만 대상 (전체 순회 아님)
-- 셔플 사이클: 전체 1회씩 보장, 완료 후 재셔플
-- 신규 추가 modId: 셔플풀 외부 감지 → 우선 처리
-- 콜 예산 기준 중단 (최대 498콜/실행)
-- 커서: validation_cursor.json 별도 저장 (update_db.py 간섭 없음)
+- Validates only modIds already registered in DB (not full 1~24000 scan)
+- Shuffle cycle: guarantees every modId is checked once per cycle, reshuffles on completion
+- Newly added modIds: detected outside shuffle pool -> processed first (priority)
+- Stops based on call budget (not fixed count), max 498 calls/run
+- Cursor stored in validation_cursor.json (separate from update_db.py, no interference)
 
-전략 (1~2콜/modId):
-  files.json → 200 : mod 정상 + fileId 비교 → 1콜 완료
-  files.json → 403 : removed or hidden → mods/{id}.json 추가 확인 → 2콜
-    removed → DB 삭제
-    hidden  → DB 유지 (재공개 시 자동 복구)
+Strategy (1~2 calls/modId):
+  files.json -> 200 : mod alive + fileId comparison done -> 1 call
+  files.json -> 403 : removed or hidden -> check mods/{id}.json -> 2 calls
+    removed -> delete from DB
+    hidden  -> keep in DB (auto-recovered when mod is re-published)
 """
 
 import argparse
@@ -33,9 +33,9 @@ class NexusClient:
     def __init__(self, api_key: str):
         self.session = requests.Session()
         self.session.headers.update({
-            "apikey":       api_key,
-            "User-Agent":   "bg3-nexus-uuid-db-validator/1.0",
-            "Accept":       "application/json",
+            "apikey":     api_key,
+            "User-Agent": "bg3-nexus-uuid-db-validator/1.0",
+            "Accept":     "application/json",
         })
         self.hourly_remaining = 500
         self.daily_remaining  = 20000
@@ -47,23 +47,24 @@ class NexusClient:
         if d: self.daily_remaining  = int(d)
 
     def get_raw(self, path: str) -> requests.Response | None:
+        """Returns full response including status code (403 is a valid result, not an error)."""
         if self.daily_remaining <= 10:
             now      = datetime.datetime.utcnow()
             midnight = (now + datetime.timedelta(days=1)).replace(
                 hour=0, minute=1, second=0, microsecond=0)
             wait = (midnight - now).total_seconds()
-            print(f"\n[!] 일일 한도 초과. {wait/3600:.1f}시간 대기...")
+            print(f"\n[!] Daily limit low. Waiting {wait/3600:.1f}h until reset...")
             time.sleep(wait)
         try:
             resp = self.session.get(NEXUS_API + path, timeout=15)
             self._update_limits(resp)
             if resp.status_code == 429:
-                print("\n[!] 429 rate limit. 5분 대기...")
+                print("\n[!] 429 rate limit hit. Waiting 5 min...")
                 time.sleep(300)
                 return self.get_raw(path)
             return resp
         except Exception as e:
-            print(f"\n[!] 요청 실패: {path} — {e}")
+            print(f"\n[!] Request failed: {path} — {e}")
             return None
 
 # ── DB ───────────────────────────────────────────────────────────────────
@@ -75,6 +76,7 @@ def load_db() -> dict:
         return json.load(f)
 
 def format_entry(mod_id: str, entry: dict) -> str:
+    """Same format as update_db.py to maintain compatibility."""
     paks = ",\n".join(
         json.dumps(p, ensure_ascii=False, separators=(",", ":"))
         for p in entry["paks"]
@@ -88,7 +90,7 @@ def format_entry(mod_id: str, entry: dict) -> str:
     )
 
 def save_db(db: dict):
-    """_meta 전체 보존 — update_db.py의 last_run/total_mods 덮어쓰지 않음"""
+    """Preserves full _meta as-is — does not overwrite last_run/total_mods set by update_db.py."""
     meta     = db.get("_meta", {})
     meta_str = json.dumps(meta, ensure_ascii=False, separators=(",", ":"))
     sorted_items = sorted(
@@ -123,8 +125,8 @@ def save_cursor(index: int, order: list):
 
 def check_mod(client: NexusClient, mod_id: int, db: dict) -> int:
     """
-    modId 하나 검증. 사용 콜 수 반환 (1 or 2).
-    삭제/pak제거 발생 시 db 직접 수정.
+    Validates a single modId. Returns number of API calls used (1 or 2).
+    Modifies db directly if deletion is required.
     """
     key   = str(mod_id)
     entry = db.get(key)
@@ -133,35 +135,35 @@ def check_mod(client: NexusClient, mod_id: int, db: dict) -> int:
 
     name = entry.get("nexusModName", "")
 
-    # 1콜: files.json
+    # Call 1: files.json
     r1 = client.get_raw(f"/v1/games/{GAME_DOMAIN}/mods/{mod_id}/files.json")
     if r1 is None:
         return 1
 
     if r1.status_code == 200:
-        # mod 정상 → fileId 비교
+        # Mod is alive — compare fileIds
         live_ids = {f["file_id"] for f in r1.json().get("files", [])}
         before   = len(entry["paks"])
         entry["paks"] = [p for p in entry["paks"] if p["nexusFileId"] in live_ids]
         removed  = before - len(entry["paks"])
         if removed:
-            print(f"\n  [PAK] modId={mod_id} '{name}': {removed}개 파일 삭제됨")
+            print(f"\n  [PAK REMOVED] modId={mod_id} '{name}': {removed} file(s) deleted")
         if not entry["paks"]:
             del db[key]
-            print(f"  [MOD] modId={mod_id}: pak 없어서 항목 제거")
+            print(f"  [MOD REMOVED] modId={mod_id}: no paks left, entry deleted")
         return 1
 
     elif r1.status_code == 403:
-        # 2콜: removed vs hidden 구분
+        # Call 2: distinguish removed vs hidden
         r2 = client.get_raw(f"/v1/games/{GAME_DOMAIN}/mods/{mod_id}.json")
         if r2 and r2.status_code == 200:
             status = r2.json().get("status", "")
             if status == "removed":
                 del db[key]
-                print(f"\n  [MOD] modId={mod_id} '{name}': Nexus 삭제됨 → DB 제거")
+                print(f"\n  [MOD REMOVED] modId={mod_id} '{name}': deleted on Nexus")
             else:
-                # hidden → 보존 (재공개 시 files.json 200으로 자동 복구)
-                print(f"\n  [SKIP] modId={mod_id} '{name}': hidden → 유지")
+                # hidden — keep in DB; auto-recovers when mod is re-published
+                print(f"\n  [SKIP] modId={mod_id} '{name}': hidden, keeping entry")
         return 2
 
     return 1
@@ -169,14 +171,14 @@ def check_mod(client: NexusClient, mod_id: int, db: dict) -> int:
 def run_validation(client: NexusClient, db: dict,
                    priority: list, regular: list):
     """
-    priority(신규) 먼저, 이어서 regular(셔플 순서).
-    MAX_CALLS 소진 시 중단.
-    반환: (calls_used, regular_processed)
+    Processes priority (new modIds) first, then continues regular (shuffle order).
+    Stops when MAX_CALLS budget is exhausted.
+    Returns: (calls_used, regular_processed_count)
     """
     calls_used        = 0
     regular_processed = 0
 
-    # ① 신규 modId 우선
+    # Step 1: new modIds not yet in shuffle pool
     for mod_id in priority:
         if calls_used >= MAX_CALLS - 1:
             return calls_used, regular_processed
@@ -184,7 +186,7 @@ def run_validation(client: NexusClient, db: dict,
               f"hourly={client.hourly_remaining}", end="", flush=True)
         calls_used += check_mod(client, mod_id, db)
 
-    # ② 기존 셔플 순서 이어서
+    # Step 2: continue through shuffle order from cursor
     for mod_id in regular:
         if calls_used >= MAX_CALLS - 1:
             return calls_used, regular_processed
@@ -211,20 +213,21 @@ def main():
     order   = cursor.get("order", [])
     index   = cursor.get("index", 0)
 
-    # 사이클 완료 또는 첫 실행 → 재셔플
+    # Cycle complete or first run — reshuffle
     if not order or index >= len(order):
         order = all_ids.copy()
         random.shuffle(order)
         index = 0
-        print(f"새 사이클 시작: {len(order)}개 셔플 완료")
+        print(f"New cycle started: {len(order)} modIds shuffled")
 
-    # 셔플풀에 없는 신규 modId → 우선 처리
+    # Detect new modIds added after the current shuffle was created
     pool_ids = set(order)
     new_ids  = [mid for mid in all_ids if mid not in pool_ids]
 
     regular = order[index:]
-    print(f"DB: {len(all_ids)}개 | 신규(우선): {len(new_ids)}개 | "
-          f"사이클: {index}/{len(order)} ({index/len(order)*100:.1f}%)" if order else "")
+    cycle_pct = index / len(order) * 100 if order else 0
+    print(f"DB: {len(all_ids)} entries | New (priority): {len(new_ids)} | "
+          f"Cycle: {index}/{len(order)} ({cycle_pct:.1f}%)")
     print("-" * 60)
 
     db_before = len([k for k in db if k != "_meta"])
@@ -237,11 +240,11 @@ def main():
     save_cursor(new_index, order)
     save_db(db)
 
-    db_after = len([k for k in db if k != "_meta"])
+    db_after  = len([k for k in db if k != "_meta"])
     cycle_pct = new_index / len(order) * 100 if order else 0
-    print(f"\n\n완료 | API콜={calls_used} | "
-          f"DB: {db_before} → {db_after} ({db_before - db_after}개 제거) | "
-          f"사이클: {new_index}/{len(order)} ({cycle_pct:.1f}%)")
+    print(f"\n\nDone | calls={calls_used} | "
+          f"DB: {db_before} -> {db_after} ({db_before - db_after} removed) | "
+          f"Cycle: {new_index}/{len(order)} ({cycle_pct:.1f}%)")
 
 if __name__ == "__main__":
     main()
