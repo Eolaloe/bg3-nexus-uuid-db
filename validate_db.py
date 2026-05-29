@@ -46,6 +46,12 @@ class NexusClient:
         if h: self.hourly_remaining = int(h)
         if d: self.daily_remaining  = int(d)
 
+    def preflight(self):
+        """Fetch actual rate limit status before starting work (costs 1 call)."""
+        r = self.get_raw("/v1/users/validate.json")
+        if r:
+            print(f"API limits — hourly: {self.hourly_remaining}, daily: {self.daily_remaining}")
+
     def get_raw(self, path: str) -> requests.Response | None:
         """Returns full response including status code (403 is a valid result, not an error)."""
         if self.daily_remaining <= 10:
@@ -206,6 +212,7 @@ def main():
     args = parser.parse_args()
 
     client = NexusClient(args.api_key)
+    client.preflight()
     db     = load_db()
     cursor = load_cursor()
 
