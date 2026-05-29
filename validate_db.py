@@ -243,6 +243,10 @@ def main():
         client, db, priority=new_ids, regular=regular
     )
 
+    # Merge newly processed modIds into order so they won't be detected as new next run
+    if new_ids:
+        order.extend(new_ids)
+
     new_index = index + regular_processed
     save_cursor(new_index, order)
     save_db(db)
