@@ -1,0 +1,35 @@
+name: Validate Nexus Mod IDs
+
+on:
+  workflow_dispatch:   # 크론잡에서 외부 트리거 (update_db.yml과 동일 방식)
+
+concurrency:
+  group: db-write      # update_db.yml과 같은 그룹 → 동시 실행 방지, 순서 대기
+  cancel-in-progress: false
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    env:
+      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Run validation
+        run: python validate_db.py --api-key ${{ secrets.NEXUS_VALIDATOR_KEY }}
+
+      - name: Commit changes
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add uuid_nexus_db.json validation_cursor.json
+          git diff --cached --quiet || git commit -m "Auto: validate mod IDs [$(date -u '+%Y-%m-%d %H:%M UTC')]"
+          git push
