@@ -164,12 +164,12 @@ def check_mod(client: NexusClient, mod_id: int, db: dict) -> int:
         r2 = client.get_raw(f"/v1/games/{GAME_DOMAIN}/mods/{mod_id}.json")
         if r2 and r2.status_code == 200:
             status = r2.json().get("status", "")
-            if status in ("removed", "wastebinned"):
+            if status in ("removed", "wastebinned", "hidden"):
                 del db[key]
-                print(f"\n  [MOD REMOVED] modId={mod_id} '{name}': deleted on Nexus")
+                print(f"\n  [MOD REMOVED] modId={mod_id} '{name}': status={status}, deleted")
             else:
-                # hidden — keep in DB; auto-recovers when mod is re-published
-                print(f"\n  [SKIP] modId={mod_id} '{name}': hidden, keeping entry")
+                # unknown status — keep in DB as a safety net
+                print(f"\n  [SKIP] modId={mod_id} '{name}': unknown status={status}, keeping entry")
         return 2
 
     return 1
