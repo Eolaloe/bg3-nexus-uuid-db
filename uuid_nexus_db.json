@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-06-01T21:51:41.250181+00:00","total_mods":16416},
+{"_meta":{"last_run":"2026-06-01T22:51:25.622550+00:00","total_mods":16416},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -60978,7 +60978,7 @@
 {"nexusFileName":"Wands - An alternative to staves for Korean","nexusFileVersion":"1.5","pakFileName":"WandPack_kr.pak","nexusFileId":115488,"metaUuid":"9a9d0472-d83a-4e2b-b969-a8d3c1b1f685"}
 ]},
 "21626":{"nexusModName":"Psionic Equipment - Ring of Divine Accuracy for Korean","nexusUploadedBy":"Eolaloe","nexusModId":21626,"paks":[
-{"nexusFileName":"Psionic Equipment for Korean","nexusFileVersion":"1.0.0.48","pakFileName":"githyanki_legendary_armor_kr.pak","nexusFileId":115511,"metaUuid":"c9f1a7aa-aad1-4deb-beaf-57bbefb2ae22"}
+{"nexusFileName":"Psionic Equipment for Korean","nexusFileVersion":"1.0.0.48-1","pakFileName":"githyanki_legendary_armor_kr.pak","nexusFileId":122599,"metaUuid":"c9f1a7aa-aad1-4deb-beaf-57bbefb2ae22"}
 ]},
 "21628":{"nexusModName":"Followers of Ao - Spacelings for Japanese","nexusUploadedBy":"Eolaloe","nexusModId":21628,"paks":[
 {"nexusFileName":"Followers of Ao - Spacelings for Japanese","nexusFileVersion":"1.0.2","pakFileName":"Spaceling_jp.pak","nexusFileId":115672,"metaUuid":null}
@@ -64858,7 +64858,7 @@
 {"nexusFileName":"SGT_KillerQueen","nexusFileVersion":"1","pakFileName":"SGT_KillerQueen.pak","nexusFileId":122428,"metaUuid":null}
 ]},
 "23113":{"nexusModName":"(Beta) FeatMaker - MCM","nexusUploadedBy":"wtfbengt","nexusModId":23113,"paks":[
-{"nexusFileName":"FeatMaker","nexusFileVersion":"0.0.0.1","pakFileName":"FeatMaker.pak","nexusFileId":122429,"metaUuid":null}
+{"nexusFileName":"FeatMaker","nexusFileVersion":"0.0.0.2","pakFileName":"FeatMaker.pak","nexusFileId":122603,"metaUuid":null}
 ]},
 "23114":{"nexusModName":"Ranged Paladin Option","nexusUploadedBy":"TheWailingBard","nexusModId":23114,"paks":[
 {"nexusFileName":"Ranged Paladin Option","nexusFileVersion":"1.0.0.7","pakFileName":"WBRangedPaladin_a42867d9-9db1-51b6-a13b-6dd4e8b489a1.pak","nexusFileId":122432,"metaUuid":null}
@@ -64969,4 +64969,7 @@
 ]},
 "23165":{"nexusModName":"Karlach better Infernal Iron Buffs","nexusUploadedBy":"mc1r","nexusModId":23165,"paks":[
 {"nexusFileName":"Mamma K - Better Buffs","nexusFileVersion":"1","pakFileName":"Buff_Mamma_K_bbff916a-f7e6-faa0-04e2-3270dd91548a.pak","nexusFileId":122595,"metaUuid":null}
+]},
+"23167":{"nexusModName":"Bhaalholder Magazine Poses","nexusUploadedBy":"tinabalducci","nexusModId":23167,"paks":[
+{"nexusFileName":"Bhaalholder Magazine - Y2K Edition","nexusFileVersion":"1.0.0.1","pakFileName":"bhaalholdermagazine_92b309b3-7df5-8a0a-e96f-3b49731b4a53.pak","nexusFileId":122600,"metaUuid":null}
 ]}}
