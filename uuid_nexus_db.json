@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-06-01T19:51:42.900563+00:00","total_mods":16415},
+{"_meta":{"last_run":"2026-06-01T20:51:42.122479+00:00","total_mods":16415},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -41406,7 +41406,7 @@
 "14737":{"nexusModName":"Cut Items Restored","nexusUploadedBy":"StellarExile","nexusModId":14737,"paks":[
 {"nexusFileName":"CutItems","nexusFileVersion":"1","pakFileName":"Cut_Items.pak","nexusFileId":84502,"metaUuid":null}
 ]},
-"14738":{"nexusModName":"Moonlight Glaive with Finesse (Balanced)","nexusUploadedBy":"darcyy77","nexusModId":14738,"paks":[
+"14738":{"nexusModName":"Moonlight Glaive with Finesse and Proficiency","nexusUploadedBy":"darcyy77","nexusModId":14738,"paks":[
 {"nexusFileName":"Moonlight Glaive with Finesse and Proficiency","nexusFileVersion":"3","pakFileName":"glaive_by_darcyy.pak","nexusFileId":122570,"metaUuid":null}
 ]},
 "14739":{"nexusModName":"Elven Weaponry - Longbows and Quivers - BR","nexusUploadedBy":"ridaugo","nexusModId":14739,"paks":[
@@ -64916,8 +64916,8 @@
 {"nexusFileName":"Vampiric Head Pack","nexusFileVersion":"1","pakFileName":"Vampiric_head_pack.pak","nexusFileId":122520,"metaUuid":null}
 ]},
 "23139":{"nexusModName":"SoloLeveling - Shadow Monarch","nexusUploadedBy":"n007kass3m","nexusModId":23139,"paks":[
-{"nexusFileName":"SoloLeveling v1.0","nexusFileVersion":"1","pakFileName":"SoloLeveling_b9c1d5f0-c0b6-8a01-00dc-14bbf18057a0.pak","nexusFileId":122531,"metaUuid":null},
-{"nexusFileName":"SoloLeveling v1.0 - No plus 5 to all Abilities","nexusFileVersion":"1","pakFileName":"SoloLeveling_b9c1d5f0-c0b6-8a01-00dc-14bbf18057a0.pak","nexusFileId":122561,"metaUuid":null}
+{"nexusFileName":"SoloLeveling v1.5","nexusFileVersion":"1.5","pakFileName":"SoloLeveling_b9c1d5f0-c0b6-8a01-00dc-14bbf18057a0.pak","nexusFileId":122592,"metaUuid":null},
+{"nexusFileName":"SoloLeveling v1.5 - 12 instead of 6 shadows","nexusFileVersion":"1.5","pakFileName":"SoloLeveling_b9c1d5f0-c0b6-8a01-00dc-14bbf18057a0.pak","nexusFileId":122593,"metaUuid":null}
 ]},
 "23140":{"nexusModName":"Spell Mods Data","nexusUploadedBy":"Nzx","nexusModId":23140,"paks":[
 {"nexusFileName":"SpellModsData","nexusFileVersion":"1","pakFileName":"SpellModsData.pak","nexusFileId":122536,"metaUuid":null}
@@ -64966,4 +64966,7 @@
 ]},
 "23161":{"nexusModName":"Wyll's Better Starting Gear JP","nexusUploadedBy":"Akazonae36","nexusModId":23161,"paks":[
 {"nexusFileName":"Wylls Better Starting Gear JP","nexusFileVersion":"1","pakFileName":"Wylls Better Starting Gear_JP.pak","nexusFileId":122586,"metaUuid":null}
+]},
+"23164":{"nexusModName":"Origin Wyll Quest - Better rewards","nexusUploadedBy":"mc1r","nexusModId":23164,"paks":[
+{"nexusFileName":"Wyll Quest Overhaul","nexusFileVersion":"1","pakFileName":"KILL_KARLACH_d33e8b6a-885d-ea5f-3772-663e71562c29.pak","nexusFileId":122594,"metaUuid":null}
 ]}}
