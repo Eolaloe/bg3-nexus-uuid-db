@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-06-01T08:51:28.417591+00:00","total_mods":16407},
+{"_meta":{"last_run":"2026-06-01T09:51:32.864663+00:00","total_mods":16409},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -64868,6 +64868,9 @@
 "23112":{"nexusModName":"Killer Queen - Head preset","nexusUploadedBy":"SweetGenerousThing","nexusModId":23112,"paks":[
 {"nexusFileName":"SGT_KillerQueen","nexusFileVersion":"1","pakFileName":"SGT_KillerQueen.pak","nexusFileId":122428,"metaUuid":null}
 ]},
+"23113":{"nexusModName":"(Beta) FeatMaker - MCM","nexusUploadedBy":"wtfbengt","nexusModId":23113,"paks":[
+{"nexusFileName":"FeatMaker","nexusFileVersion":"0.0.0.1","pakFileName":"FeatMaker.pak","nexusFileId":122429,"metaUuid":null}
+]},
 "23114":{"nexusModName":"Ranged Paladin Option","nexusUploadedBy":"TheWailingBard","nexusModId":23114,"paks":[
 {"nexusFileName":"Ranged Paladin Option","nexusFileVersion":"1.0.0.7","pakFileName":"WBRangedPaladin_a42867d9-9db1-51b6-a13b-6dd4e8b489a1.pak","nexusFileId":122432,"metaUuid":null}
 ]},
@@ -64944,4 +64947,7 @@
 ]},
 "23148":{"nexusModName":"Voiceline Player","nexusUploadedBy":"moxifer3","nexusModId":23148,"paks":[
 {"nexusFileName":"MOXI Voiceline Player","nexusFileVersion":"1","pakFileName":"MOXI_Voiceline_Player.pak","nexusFileId":122557,"metaUuid":null}
+]},
+"23150":{"nexusModName":"OathOftheColossusCHS","nexusUploadedBy":"yangyangmeiiii","nexusModId":23150,"paks":[
+{"nexusFileName":"OathOftheColossus CHS","nexusFileVersion":"1.0.4","pakFileName":"OathOftheColossus_CHS.pak","nexusFileId":122564,"metaUuid":null}
 ]}}
