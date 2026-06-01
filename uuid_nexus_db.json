@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-06-01T16:51:41.728103+00:00","total_mods":16412},
+{"_meta":{"last_run":"2026-06-01T17:51:55.124592+00:00","total_mods":16414},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -64074,8 +64074,9 @@
 {"nexusFileName":"KAVTHairyNormies","nexusFileVersion":"1.0","pakFileName":"KAVTHairyNormies.pak","nexusFileId":120661,"metaUuid":null}
 ]},
 "22740":{"nexusModName":"Trickery Domain Cleric - Full Rework","nexusUploadedBy":"Chlamydia1","nexusModId":22740,"paks":[
-{"nexusFileName":"Shadow Burst Level 9","nexusFileVersion":"1","pakFileName":"Shadow Burst Level 9.pak","nexusFileId":120703,"metaUuid":null},
-{"nexusFileName":"Trickery Domain Reworked","nexusFileVersion":"1.2","pakFileName":"Trickery Domain Reworked.pak","nexusFileId":120706,"metaUuid":null}
+{"nexusFileName":"Trickery Domain Reworked","nexusFileVersion":"2.0","pakFileName":"Trickery Domain Reworked.pak","nexusFileId":122587,"metaUuid":null},
+{"nexusFileName":"Shadow Burst Level 9","nexusFileVersion":"2.0","pakFileName":"Shadow Burst Level 9.pak","nexusFileId":122588,"metaUuid":null},
+{"nexusFileName":"TDR Old Cantrips","nexusFileVersion":"2.0","pakFileName":"TDR Old Cantrips.pak","nexusFileId":122589,"metaUuid":null}
 ]},
 "22743":{"nexusModName":"Force Pause","nexusUploadedBy":"TimeReprise","nexusModId":22743,"paks":[
 {"nexusFileName":"Force FTB","nexusFileVersion":"1","pakFileName":"Force_FTB.pak","nexusFileId":120892,"metaUuid":null}
@@ -64810,8 +64811,8 @@
 {"nexusFileName":"Dance Bard Equipment","nexusFileVersion":"1","pakFileName":"Dance_Bard_Equipment.pak","nexusFileId":122326,"metaUuid":null}
 ]},
 "23088":{"nexusModName":"Skimpy Sorcerer Robe - Dragonborn (SBBF)","nexusUploadedBy":"3BuBu3","nexusModId":23088,"paks":[
-{"nexusFileName":"SkimpySorcererRobeDGB SBBF","nexusFileVersion":"1","pakFileName":"SkimpySorcererRobeDGB_SBBF.pak","nexusFileId":122329,"metaUuid":null},
-{"nexusFileName":"SkimpierSorcererRobeDGB SBBF","nexusFileVersion":"1","pakFileName":"SkimpierSorcererRobeDGB_SBBF_22b56f67-9a64-942f-3054-71be478831c1.pak","nexusFileId":122483,"metaUuid":null}
+{"nexusFileName":"SkimpierSorcererRobeDGB SBBF","nexusFileVersion":"1","pakFileName":"SkimpierSorcererRobeDGB_SBBF_22b56f67-9a64-942f-3054-71be478831c1.pak","nexusFileId":122483,"metaUuid":null},
+{"nexusFileName":"SkimpySorcererRobeDGB SBBF","nexusFileVersion":"1.1","pakFileName":"SkimpySorcererRobeDGB_SBBF_2af5c438-8480-f4a1-fff4-0463a7e2312d.pak","nexusFileId":122585,"metaUuid":null}
 ]},
 "23089":{"nexusModName":"Role-Play Rest","nexusUploadedBy":"NecroticFlame","nexusModId":23089,"paks":[
 {"nexusFileName":"Role-Play Rest","nexusFileVersion":"1.0.0","pakFileName":"RolePlayRest_8ed9689c-f4c2-5d38-2b9c-b01dd6ffcc04.pak","nexusFileId":122397,"metaUuid":null}
@@ -64956,4 +64957,13 @@
 ]},
 "23157":{"nexusModName":"NPC Redesign - Cazador Szarr JP","nexusUploadedBy":"Akazonae36","nexusModId":23157,"paks":[
 {"nexusFileName":"Aza NPCre Cazador Blossom JP","nexusFileVersion":"1","pakFileName":"Aza_NPCre_Cazador_Blossom_JP.pak","nexusFileId":122582,"metaUuid":null}
+]},
+"23159":{"nexusModName":"Shadowheart's Better Starting Gear JP","nexusUploadedBy":"Akazonae36","nexusModId":23159,"paks":[
+{"nexusFileName":"Aza Shart Halfplate JP","nexusFileVersion":"1","pakFileName":"Aza_Shart_Halfplate_JP.pak","nexusFileId":122583,"metaUuid":null}
+]},
+"23160":{"nexusModName":"Dream Visitor's Dress and Playsuit JP","nexusUploadedBy":"Akazonae36","nexusModId":23160,"paks":[
+{"nexusFileName":"DreamGuardian DaisyDress JP","nexusFileVersion":"1","pakFileName":"DreamGuardian_DaisyDress_JP.pak","nexusFileId":122584,"metaUuid":null}
+]},
+"23161":{"nexusModName":"Wyll's Better Starting Gear JP","nexusUploadedBy":"Akazonae36","nexusModId":23161,"paks":[
+{"nexusFileName":"Wylls Better Starting Gear JP","nexusFileVersion":"1","pakFileName":"Wylls Better Starting Gear_JP.pak","nexusFileId":122586,"metaUuid":null}
 ]}}
