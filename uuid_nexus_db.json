@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-06-01T02:51:33.118443+00:00","total_mods":16403},
+{"_meta":{"last_run":"2026-06-01T03:51:41.918024+00:00","total_mods":16404},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -50961,10 +50961,10 @@
 "18305":{"nexusModName":"A Dream of Silence ReVamped - Act 1 - Custom Campaign Story Mod","nexusUploadedBy":"lizardphunk","nexusModId":18305,"paks":[
 {"nexusFileName":"ADOSreVampedAct1","nexusFileVersion":"1.0.0","pakFileName":"DAY1_152_cb3ced5e-72ba-d826-1002-0a554c5addde.pak","nexusFileId":101282,"metaUuid":null}
 ]},
-"18306":{"nexusModName":"5e Oath of the Watchers - Paladin Subclass Lv20 Expansion","nexusUploadedBy":"Ahdarugo","nexusModId":18306,"paks":[
+"18306":{"nexusModName":"Oath of the Watchers - Paladin Subclass Lv20 Expansion","nexusUploadedBy":"Ahdarugo","nexusModId":18306,"paks":[
 {"nexusFileName":"OPTION) Aura of Sentinel range increased 3 to 6","nexusFileVersion":"1.2","pakFileName":"Oath_Watchers_Aura_6_52e33de8-1ad8-dd7a-9c88-4a78beb97b0c.pak","nexusFileId":109152,"metaUuid":null},
 {"nexusFileName":"OPTIONAL) 5e Spells Compatibility_Add On","nexusFileVersion":"1.0.1","pakFileName":"Oath_Watchers_5eSpellsCompatibility.pak","nexusFileId":109178,"metaUuid":null},
-{"nexusFileName":"5e Oath of the Watchers - Paladin Subclass","nexusFileVersion":"2.0.1.34","pakFileName":"Oath_Watchers_e0e1ffe2-6e39-489b-9b70-b30e9025c5c7.pak","nexusFileId":120292,"metaUuid":null}
+{"nexusFileName":"Oath of the Watchers - Paladin Subclass","nexusFileVersion":"2.0.1.34","pakFileName":"Oath_Watchers_e0e1ffe2-6e39-489b-9b70-b30e9025c5c7.pak","nexusFileId":120292,"metaUuid":null}
 ]},
 "18307":{"nexusModName":"Alfira Joins The Party - FR 3.0","nexusUploadedBy":"KingOmega95","nexusModId":18307,"paks":[
 {"nexusFileName":"Alfira Joins The Party - Fr","nexusFileVersion":"3.0.0.0","pakFileName":"alfirajoinstheparty_fr.pak","nexusFileId":101286,"metaUuid":null}
@@ -52983,7 +52983,7 @@
 "19026":{"nexusModName":"Walk and Run Swap - Female (Body Type 1)","nexusUploadedBy":"JayDiligent","nexusModId":19026,"paks":[
 {"nexusFileName":"Walk and Run Swap","nexusFileVersion":"1.1","pakFileName":"RunandWalkSwap.pak","nexusFileId":104455,"metaUuid":null}
 ]},
-"19027":{"nexusModName":"5e Oath of Glory - Paladin Subclass Lv20 Expansion","nexusUploadedBy":"Ahdarugo","nexusModId":19027,"paks":[
+"19027":{"nexusModName":"Oath of Glory - Paladin Subclass Lv20 Expansion","nexusUploadedBy":"Ahdarugo","nexusModId":19027,"paks":[
 {"nexusFileName":"OPTION) Aura of Alacrity range increased 3 to 6","nexusFileVersion":"1.2","pakFileName":"Oath_Glory_Aura_6_1e023724-8006-8223-438e-7207f444e729.pak","nexusFileId":109133,"metaUuid":null},
 {"nexusFileName":"5e Oath of Glory - Paladin Subclass","nexusFileVersion":"2.0.2.33","pakFileName":"Oath_Glory_689f22b4-38e9-40a7-aa81-3d3e7ed8d38c.pak","nexusFileId":121804,"metaUuid":null}
 ]},
@@ -60943,7 +60943,7 @@
 {"nexusFileName":"Followers of Ao - Spacelings for Korean","nexusFileVersion":"1.0.1","pakFileName":"Spaceling_kr.pak","nexusFileId":115502,"metaUuid":"980e2a58-254e-41cb-9705-9d14a814e6ae"}
 ]},
 "21610":{"nexusModName":"ZillionZ of Expressions by Echo","nexusUploadedBy":"ECH020","nexusModId":21610,"paks":[
-{"nexusFileName":"ZillionZ of Expressions by Echo","nexusFileVersion":"1.0.0.16","pakFileName":"ZillionZ_of_Expressions_by_Echo_01c8ef36-fa9e-319c-66b1-8468d0078701.pak","nexusFileId":116085,"metaUuid":null}
+{"nexusFileName":"ZillionZ of Expressions by Echo","nexusFileVersion":"1.0.0.32","pakFileName":"ZillionZ_of_Expressions_by_Echo_01c8ef36-fa9e-319c-66b1-8468d0078701.pak","nexusFileId":122547,"metaUuid":null}
 ]},
 "21611":{"nexusModName":"Yenna's New Clothes","nexusUploadedBy":"Poppeii","nexusModId":21611,"paks":[
 {"nexusFileName":"poppeii_yennareplacer1_aea5c4f-2e77","nexusFileVersion":"1.0.0.3","pakFileName":"Poppeii_YennaReplacer1_aea5c4f5-1867-7aa3-dd78-4e73c831eb2d.pak","nexusFileId":115451,"metaUuid":null}
@@ -64930,4 +64930,7 @@
 ]},
 "23144":{"nexusModName":"Sword Sigil Sorcery Subclass for Chinese","nexusUploadedBy":"hanli","nexusModId":23144,"paks":[
 {"nexusFileName":"Sword Sigil Sorcerer Standalone CHS","nexusFileVersion":"1.2.2.4","pakFileName":"Sword_Sigil_Sorcerer_Standalone_CHS.pak","nexusFileId":122545,"metaUuid":null}
+]},
+"23145":{"nexusModName":"Huffman's Magus - A Class of Spell and Steel for Chinese","nexusUploadedBy":"hanli","nexusModId":23145,"paks":[
+{"nexusFileName":"Huffman'S Magus   CHS","nexusFileVersion":"1.0.0.15","pakFileName":"Huffman's Magus - CHS.pak","nexusFileId":122546,"metaUuid":null}
 ]}}
