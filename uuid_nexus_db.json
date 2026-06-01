@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-06-01T20:51:42.122479+00:00","total_mods":16415},
+{"_meta":{"last_run":"2026-06-01T21:51:41.250181+00:00","total_mods":16416},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -35970,7 +35970,7 @@
 ]},
 "12727":{"nexusModName":"DnD 5.5e All-in-One BEYOND","nexusUploadedBy":"yoonmoonsik43","nexusModId":12727,"paks":[
 {"nexusFileName":"dnd2024 - V3 Legacy","nexusFileVersion":"3.4.6.4","pakFileName":"DnD2024_897914ef-5c96-053c-44af-0be823f895fe.pak","nexusFileId":115523,"metaUuid":null},
-{"nexusFileName":"Dnd2024","nexusFileVersion":"4.4.0.0","pakFileName":"DnD2024_897914ef-5c96-053c-44af-0be823f895fe.pak","nexusFileId":122568,"metaUuid":null}
+{"nexusFileName":"Dnd2024","nexusFileVersion":"4.4.1.1","pakFileName":"DnD2024_897914ef-5c96-053c-44af-0be823f895fe.pak","nexusFileId":122597,"metaUuid":null}
 ]},
 "12728":{"nexusModName":"Origin-Themed Headwear KR","nexusUploadedBy":"Soorawang","nexusModId":12728,"paks":[
 {"nexusFileName":"Origin-Themed Headwear KR","nexusFileVersion":"1.0","pakFileName":"OriginHeadwear_kr.pak","nexusFileId":73692,"metaUuid":null}
@@ -64969,4 +64969,7 @@
 ]},
 "23164":{"nexusModName":"Origin Wyll Quest - Better rewards","nexusUploadedBy":"mc1r","nexusModId":23164,"paks":[
 {"nexusFileName":"Wyll Quest Overhaul","nexusFileVersion":"1","pakFileName":"KILL_KARLACH_d33e8b6a-885d-ea5f-3772-663e71562c29.pak","nexusFileId":122594,"metaUuid":null}
+]},
+"23165":{"nexusModName":"Karlach better Infernal Iron Buffs","nexusUploadedBy":"mc1r","nexusModId":23165,"paks":[
+{"nexusFileName":"Mamma K - Better Buffs","nexusFileVersion":"1","pakFileName":"Buff_Mamma_K_bbff916a-f7e6-faa0-04e2-3270dd91548a.pak","nexusFileId":122595,"metaUuid":null}
 ]}}
