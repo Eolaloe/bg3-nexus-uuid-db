@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-06-01T03:51:41.918024+00:00","total_mods":16404},
+{"_meta":{"last_run":"2026-06-01T04:51:36.104791+00:00","total_mods":16405},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -35973,7 +35973,7 @@
 ]},
 "12727":{"nexusModName":"DnD 5.5e All-in-One BEYOND","nexusUploadedBy":"yoonmoonsik43","nexusModId":12727,"paks":[
 {"nexusFileName":"dnd2024 - V3 Legacy","nexusFileVersion":"3.4.6.4","pakFileName":"DnD2024_897914ef-5c96-053c-44af-0be823f895fe.pak","nexusFileId":115523,"metaUuid":null},
-{"nexusFileName":"Dnd2024","nexusFileVersion":"4.3.19.4","pakFileName":"DnD2024_897914ef-5c96-053c-44af-0be823f895fe.pak","nexusFileId":122528,"metaUuid":null}
+{"nexusFileName":"Dnd2024","nexusFileVersion":"4.3.19.5","pakFileName":"DnD2024_897914ef-5c96-053c-44af-0be823f895fe.pak","nexusFileId":122555,"metaUuid":null}
 ]},
 "12728":{"nexusModName":"Origin-Themed Headwear KR","nexusUploadedBy":"Soorawang","nexusModId":12728,"paks":[
 {"nexusFileName":"Origin-Themed Headwear KR","nexusFileVersion":"1.0","pakFileName":"OriginHeadwear_kr.pak","nexusFileId":73692,"metaUuid":null}
@@ -56465,7 +56465,7 @@
 {"nexusFileName":"Cleric and Domains PHB2024 DnD 5R for Korean","nexusFileVersion":"4.7.7","pakFileName":"ClericPHB2024_kr.pak","nexusFileId":116550,"metaUuid":"6380b0e5-b7cb-4dfc-b14a-0cf167b404c5"}
 ]},
 "20054":{"nexusModName":"chizfreak's Dragonborn and Breath Weapon Enhanced - inspired by Fizban's Treasury of Dragons for Korean","nexusUploadedBy":"Eolaloe","nexusModId":20054,"paks":[
-{"nexusFileName":"Dragonborn and Breath Weapon Enhanced for Korean","nexusFileVersion":"4.2.2","pakFileName":"DragonbornBreathChanges_kr.pak","nexusFileId":109265,"metaUuid":null}
+{"nexusFileName":"Dragonborn and Breath Weapon Enhanced for Korean","nexusFileVersion":"4.2.2-1","pakFileName":"DragonbornBreathChanges_kr.pak","nexusFileId":122554,"metaUuid":null}
 ]},
 "20055":{"nexusModName":"Siaell's Umbral Archer - Ranger subclass for Korean","nexusUploadedBy":"Eolaloe","nexusModId":20055,"paks":[
 {"nexusFileName":"Umbral Archer - Ranger subclass for Korean","nexusFileVersion":"1.5.1","pakFileName":"Umbral Archer_kr.pak","nexusFileId":119167,"metaUuid":"c2b8e953-b19d-477a-8248-8d4423fcefb4"},
@@ -60056,8 +60056,9 @@
 {"nexusFileName":"Path Of Undeath for Korean","nexusFileVersion":"1.16","pakFileName":"Path of Undeath_kr.pak","nexusFileId":121146,"metaUuid":null}
 ]},
 "21317":{"nexusModName":"Deadlier Honour Mode for Korean","nexusUploadedBy":"Eolaloe","nexusModId":21317,"paks":[
-{"nexusFileName":"Blessings of Deities - Standalone for Korean","nexusFileVersion":"1.2.1.240","pakFileName":"DeadlierHonourModeBOTD_kr.pak","nexusFileId":114194,"metaUuid":null},
-{"nexusFileName":"Deadlier Honour Mode for Korean","nexusFileVersion":"1.2.1.319","pakFileName":"SlightlyDeadlierHonourMode_kr.pak","nexusFileId":114709,"metaUuid":"1c15488c-33a6-4093-ad6b-89ab7490a55d"}
+{"nexusFileName":"0. Equilibrium - Health Pool Balance for Korean","nexusFileVersion":"1.0.0.10","pakFileName":"Equilibrium_kr.pak","nexusFileId":122548,"metaUuid":null},
+{"nexusFileName":"Deadlier Honour Mode for Korean","nexusFileVersion":"1.2.1.319-1","pakFileName":"SlightlyDeadlierHonourMode_kr.pak","nexusFileId":122549,"metaUuid":"1c15488c-33a6-4093-ad6b-89ab7490a55d"},
+{"nexusFileName":"1.1. Blessings of Deities - Standalone for Korean","nexusFileVersion":"1.2.1.240","pakFileName":"DeadlierHonourModeBOTD_kr.pak","nexusFileId":122550,"metaUuid":null}
 ]},
 "21318":{"nexusModName":"Tyrant Alive - Saving Gortash mod","nexusUploadedBy":"Nuage12","nexusModId":21318,"paks":[
 {"nexusFileName":"Main file","nexusFileVersion":"2.0.33","pakFileName":"gortsuvive_548e5100-809f-2ac8-a7e9-94b309f93357.pak","nexusFileId":120911,"metaUuid":null}
@@ -60087,7 +60088,7 @@
 {"nexusFileName":"Royal Knight_KR","nexusFileVersion":"1.0.0.4","pakFileName":"RKNghtbrs_c21250da-3aa7-d2ea-0e87-f805a8cc27a6_KR.pak","nexusFileId":114248,"metaUuid":null}
 ]},
 "21328":{"nexusModName":"Displacer Class for Korean","nexusUploadedBy":"Eolaloe","nexusModId":21328,"paks":[
-{"nexusFileName":"Displacer Class for Korean","nexusFileVersion":"2.20","pakFileName":"Displacer_kr.pak","nexusFileId":114228,"metaUuid":null}
+{"nexusFileName":"Displacer Class for Korean","nexusFileVersion":"2.20-1","pakFileName":"Displacer_kr.pak","nexusFileId":122552,"metaUuid":null}
 ]},
 "21329":{"nexusModName":"Automated-Combat for Korean","nexusUploadedBy":"Eolaloe","nexusModId":21329,"paks":[
 {"nexusFileName":"Automated-Combat for Korean","nexusFileVersion":"1.0.0.9","pakFileName":"Automated-Companion-Combat_kr.pak","nexusFileId":115981,"metaUuid":null}
@@ -64933,4 +64934,7 @@
 ]},
 "23145":{"nexusModName":"Huffman's Magus - A Class of Spell and Steel for Chinese","nexusUploadedBy":"hanli","nexusModId":23145,"paks":[
 {"nexusFileName":"Huffman'S Magus   CHS","nexusFileVersion":"1.0.0.15","pakFileName":"Huffman's Magus - CHS.pak","nexusFileId":122546,"metaUuid":null}
+]},
+"23146":{"nexusModName":"Flowing Clouds","nexusUploadedBy":"Crimsonia3DArt","nexusModId":23146,"paks":[
+{"nexusFileName":"FlowingClouds 1007","nexusFileVersion":"1.0.0.7","pakFileName":"FlowingClouds_19d96c16-2124-5c0d-2361-c1fa28fb6d0f.pak","nexusFileId":122553,"metaUuid":null}
 ]}}
