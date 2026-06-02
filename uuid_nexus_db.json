@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-06-02T14:51:53.321910+00:00","total_mods":16417},
+{"_meta":{"last_run":"2026-06-02T15:51:37.292596+00:00","total_mods":16417},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -40070,7 +40070,7 @@
 {"nexusFileName":"Sunbeam for Light Clerics","nexusFileVersion":"1.0","pakFileName":"Sunbeam for Light Clerics.pak","nexusFileId":81580,"metaUuid":null}
 ]},
 "14230":{"nexusModName":"5R Druid CHS","nexusUploadedBy":"Ruojo","nexusModId":14230,"paks":[
-{"nexusFileName":"5r Druid CHS","nexusFileVersion":"1.0.0.0","pakFileName":"5R_Druid_CHS.pak","nexusFileId":94702,"metaUuid":null}
+{"nexusFileName":"5r Druid CHS","nexusFileVersion":"1.0.0.1","pakFileName":"5R_Druid_CHS.pak","nexusFileId":122637,"metaUuid":null}
 ]},
 "14231":{"nexusModName":"ScroungerCHS-v8.0.1","nexusUploadedBy":"DeeeeeeK","nexusModId":14231,"paks":[
 {"nexusFileName":"Scrounger_CHS","nexusFileVersion":"V8.0.1","pakFileName":"Scrounger v8d0 i3 CHS.pak","nexusFileId":81584,"metaUuid":null}
@@ -40150,7 +40150,7 @@
 {"nexusFileName":"Armaments of the Astral Forge","nexusFileVersion":"1.0.0","pakFileName":"GithArmors.pak","nexusFileId":81858,"metaUuid":null}
 ]},
 "14265":{"nexusModName":"Cleric and Domains PHB2024 CHS","nexusUploadedBy":"Ruojo","nexusModId":14265,"paks":[
-{"nexusFileName":"ClericPHB2024_CHS","nexusFileVersion":"1.0.0.0","pakFileName":"ClericPHB2024_CHS.pak","nexusFileId":93719,"metaUuid":null}
+{"nexusFileName":"ClericPHB2024_CHS","nexusFileVersion":"1.0.0.1","pakFileName":"ClericPHB2024_CHS.pak","nexusFileId":122636,"metaUuid":null}
 ]},
 "14268":{"nexusModName":"Cantrip Tweaks","nexusUploadedBy":"nic697","nexusModId":14268,"paks":[
 {"nexusFileName":"Cantrip Tweaks","nexusFileVersion":"1.0","pakFileName":"Cantrip_Rebalance_5a9ef7b1-c0df-4901-fa07-18541f033f5a.pak","nexusFileId":81739,"metaUuid":null}
@@ -44849,7 +44849,7 @@
 {"nexusFileName":"FengShuiShi","nexusFileVersion":"1.0.0","pakFileName":"主职-风水师.pak","nexusFileId":90818,"metaUuid":null}
 ]},
 "16148":{"nexusModName":"PaladinPHB2024_CHS","nexusUploadedBy":"Ruojo","nexusModId":16148,"paks":[
-{"nexusFileName":"PaladinPHB2024_CHS","nexusFileVersion":"1.0.0.0","pakFileName":"PaladinPHB2024_CHS.pak","nexusFileId":105081,"metaUuid":null}
+{"nexusFileName":"PaladinPHB2024_CHS","nexusFileVersion":"1.0.0.1","pakFileName":"PaladinPHB2024_CHS.pak","nexusFileId":122638,"metaUuid":null}
 ]},
 "16149":{"nexusModName":"Tactician Enhanced_KOR","nexusUploadedBy":"Ahdarugo","nexusModId":16149,"paks":[
 {"nexusFileName":"Tactician Enhanced_KOR","nexusFileVersion":"1.0","pakFileName":"Tactician Enhanced_KOR.pak","nexusFileId":90831,"metaUuid":null}
@@ -64911,7 +64911,9 @@
 ]},
 "23139":{"nexusModName":"SoloLeveling - Shadow Monarch","nexusUploadedBy":"n007kass3m","nexusModId":23139,"paks":[
 {"nexusFileName":"SoloLeveling 6 Shadows - permanent death","nexusFileVersion":"1.55","pakFileName":"SoloLeveling_b9c1d5f0-c0b6-8a01-00dc-14bbf18057a0.pak","nexusFileId":122619,"metaUuid":null},
-{"nexusFileName":"SoloLeveling 12 Shadows - permanent death","nexusFileVersion":"1.55","pakFileName":"SoloLeveling_b9c1d5f0-c0b6-8a01-00dc-14bbf18057a0.pak","nexusFileId":122620,"metaUuid":null}
+{"nexusFileName":"SoloLeveling 12 Shadows - permanent death","nexusFileVersion":"1.55","pakFileName":"SoloLeveling_b9c1d5f0-c0b6-8a01-00dc-14bbf18057a0.pak","nexusFileId":122620,"metaUuid":null},
+{"nexusFileName":"SoloLeveling 6 On death Return to Shadow Domain","nexusFileVersion":"1.60","pakFileName":"SoloLeveling_b9c1d5f0-c0b6-8a01-00dc-14bbf18057a0.pak","nexusFileId":122634,"metaUuid":null},
+{"nexusFileName":"SoloLeveling 12 On death Return to Shadow Domain","nexusFileVersion":"1.60","pakFileName":"SoloLeveling_b9c1d5f0-c0b6-8a01-00dc-14bbf18057a0.pak","nexusFileId":122635,"metaUuid":null}
 ]},
 "23140":{"nexusModName":"Spell Mods Data","nexusUploadedBy":"Nzx","nexusModId":23140,"paks":[
 {"nexusFileName":"SpellModsData","nexusFileVersion":"1","pakFileName":"SpellModsData.pak","nexusFileId":122536,"metaUuid":null}
