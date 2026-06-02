@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-06-02T10:51:49.932314+00:00","total_mods":16416},
+{"_meta":{"last_run":"2026-06-02T11:51:54.107421+00:00","total_mods":16416},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -20095,8 +20095,8 @@
 {"nexusFileName":"Battlerager5eRu","nexusFileVersion":"1.0","pakFileName":"Battlerager5eRu.pak","nexusFileId":42992,"metaUuid":null}
 ]},
 "6433":{"nexusModName":"Hammer of Disenchantment","nexusUploadedBy":"lokia2","nexusModId":6433,"paks":[
-{"nexusFileName":"Hammer of Disenchantment (quest)","nexusFileVersion":"1.6","pakFileName":"Hammer_Of_Disenchantment_quest.pak","nexusFileId":53737,"metaUuid":null},
-{"nexusFileName":"Hammer of Disenchantment Tutorial Chest 1.6011","nexusFileVersion":"1.6011","pakFileName":"Hammer_Of_Disenchantment_tutorial_chest.pak","nexusFileId":73254,"metaUuid":null}
+{"nexusFileName":"Hammer of Disenchantment Tutorial Chest 1.6011","nexusFileVersion":"1.6011","pakFileName":"Hammer_Of_Disenchantment_tutorial_chest.pak","nexusFileId":73254,"metaUuid":null},
+{"nexusFileName":"Hammer of Disenchantment (quest) (2.0)","nexusFileVersion":"2.0","pakFileName":"Hammer_Of_Disenchantment_quest.pak","nexusFileId":122625,"metaUuid":null}
 ]},
 "6434":{"nexusModName":"RAW addon","nexusUploadedBy":"Aigleborgne","nexusModId":6434,"paks":[
 {"nexusFileName":"bg3-RAW-addon","nexusFileVersion":"1.5.0","pakFileName":"RAW-addon-barbarian.pak","nexusFileId":84895,"metaUuid":null},
@@ -64912,9 +64912,7 @@
 ]},
 "23139":{"nexusModName":"SoloLeveling - Shadow Monarch","nexusUploadedBy":"n007kass3m","nexusModId":23139,"paks":[
 {"nexusFileName":"SoloLeveling 6 Shadows - permanent death","nexusFileVersion":"1.55","pakFileName":"SoloLeveling_b9c1d5f0-c0b6-8a01-00dc-14bbf18057a0.pak","nexusFileId":122619,"metaUuid":null},
-{"nexusFileName":"SoloLeveling 12 Shadows - permanent death","nexusFileVersion":"1.55","pakFileName":"SoloLeveling_b9c1d5f0-c0b6-8a01-00dc-14bbf18057a0.pak","nexusFileId":122620,"metaUuid":null},
-{"nexusFileName":"SoloLeveling 6 On death Return to Shadow Domain","nexusFileVersion":"1.55","pakFileName":"SoloLeveling_b9c1d5f0-c0b6-8a01-00dc-14bbf18057a0.pak","nexusFileId":122621,"metaUuid":null},
-{"nexusFileName":"SoloLeveling 12 On death Return to Shadow Domain","nexusFileVersion":"1.55","pakFileName":"SoloLeveling_b9c1d5f0-c0b6-8a01-00dc-14bbf18057a0.pak","nexusFileId":122622,"metaUuid":null}
+{"nexusFileName":"SoloLeveling 12 Shadows - permanent death","nexusFileVersion":"1.55","pakFileName":"SoloLeveling_b9c1d5f0-c0b6-8a01-00dc-14bbf18057a0.pak","nexusFileId":122620,"metaUuid":null}
 ]},
 "23140":{"nexusModName":"Spell Mods Data","nexusUploadedBy":"Nzx","nexusModId":23140,"paks":[
 {"nexusFileName":"SpellModsData","nexusFileVersion":"1","pakFileName":"SpellModsData.pak","nexusFileId":122536,"metaUuid":null}
