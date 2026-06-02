@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-06-02T22:51:30.478683+00:00","total_mods":16423},
+{"_meta":{"last_run":"2026-06-02T23:51:50.800910+00:00","total_mods":16424},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -62911,7 +62911,7 @@
 "22307":{"nexusModName":"Companion Permadeath","nexusUploadedBy":"NecroticFlame","nexusModId":22307,"paks":[
 {"nexusFileName":"Companion Permadeath","nexusFileVersion":"1.0.1","pakFileName":"Permadeath_a5dddc84-e8a6-3401-3491-ff5fb6217501.pak","nexusFileId":118240,"metaUuid":null}
 ]},
-"22309":{"nexusModName":"Loadout  Restored","nexusUploadedBy":"NecroticFlame","nexusModId":22309,"paks":[
+"22309":{"nexusModName":"Starting Equipment Restored","nexusUploadedBy":"NecroticFlame","nexusModId":22309,"paks":[
 {"nexusFileName":"Loadout Restored","nexusFileVersion":"1.2.0","pakFileName":"LoadoutRestored_ba8db12c-8ea9-4e81-3a01-decbf3bdb5ec.pak","nexusFileId":121650,"metaUuid":null}
 ]},
 "22310":{"nexusModName":"YoRHa Unofficial Ceremonial Attire at Home","nexusUploadedBy":"aruless","nexusModId":22310,"paks":[
@@ -64805,7 +64805,7 @@
 {"nexusFileName":"SkimpierSorcererRobeDGB SBBF","nexusFileVersion":"1","pakFileName":"SkimpierSorcererRobeDGB_SBBF_22b56f67-9a64-942f-3054-71be478831c1.pak","nexusFileId":122483,"metaUuid":null},
 {"nexusFileName":"SkimpySorcererRobeDGB SBBF","nexusFileVersion":"1.1","pakFileName":"SkimpySorcererRobeDGB_SBBF_2af5c438-8480-f4a1-fff4-0463a7e2312d.pak","nexusFileId":122585,"metaUuid":null}
 ]},
-"23089":{"nexusModName":"Role-Play Rest","nexusUploadedBy":"NecroticFlame","nexusModId":23089,"paks":[
+"23089":{"nexusModName":"Role-Play Partial Rest","nexusUploadedBy":"NecroticFlame","nexusModId":23089,"paks":[
 {"nexusFileName":"Role-Play Rest","nexusFileVersion":"1.0.0","pakFileName":"RolePlayRest_8ed9689c-f4c2-5d38-2b9c-b01dd6ffcc04.pak","nexusFileId":122397,"metaUuid":null}
 ]},
 "23091":{"nexusModName":"Netherlords' Finery","nexusUploadedBy":"OneEyeAskew","nexusModId":23091,"paks":[
@@ -64992,4 +64992,7 @@
 ]},
 "23180":{"nexusModName":"Githheart","nexusUploadedBy":"yoonmoonsik43","nexusModId":23180,"paks":[
 {"nexusFileName":"Githheart 94a5f4bd D11e Dc24 2 Cymy","nexusFileVersion":"1","pakFileName":"Githheart_94a5f4bd-d11e-dc24-251e-9fca3c0a30a9.pak","nexusFileId":122648,"metaUuid":null}
+]},
+"23182":{"nexusModName":"Path of Undeath (PT-BR - 1.16)","nexusUploadedBy":"Firetoga","nexusModId":23182,"paks":[
+{"nexusFileName":"Path Of Undeath (PT-BR)","nexusFileVersion":"1.16","pakFileName":"Path of Undeath_BR.pak","nexusFileId":122654,"metaUuid":null}
 ]}}
