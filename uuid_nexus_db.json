@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-06-03T10:51:16.248362+00:00","total_mods":16424},
+{"_meta":{"last_run":"2026-06-03T11:51:11.919556+00:00","total_mods":16424},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -54056,7 +54056,7 @@
 {"nexusFileName":"the elder-chs","nexusFileVersion":"1","pakFileName":"elder-chs.pak","nexusFileId":106304,"metaUuid":null}
 ]},
 "19441":{"nexusModName":"Merchant's Chest","nexusUploadedBy":"swissfred","nexusModId":19441,"paks":[
-{"nexusFileName":"Merchant's Chest","nexusFileVersion":"2.4.8.0","pakFileName":"MerchantsChest_d52251d7-183f-8542-d185-b07c2647470a.pak","nexusFileId":116021,"metaUuid":"d52251d7-183f-8542-d185-b07c2647470a"}
+{"nexusFileName":"Merchant's Chest","nexusFileVersion":"2.4.8.2","pakFileName":"MerchantsChest_d52251d7-183f-8542-d185-b07c2647470a.pak","nexusFileId":122679,"metaUuid":"d52251d7-183f-8542-d185-b07c2647470a"}
 ]},
 "19442":{"nexusModName":"Entwined - An Emperor Epilogue","nexusUploadedBy":"SASUKE173138","nexusModId":19442,"paks":[
 {"nexusFileName":"Entwined - An Emperor Epilogue","nexusFileVersion":"1.0.0","pakFileName":"EmperorEpilogue.pak","nexusFileId":106321,"metaUuid":null},
@@ -63034,7 +63034,7 @@
 {"nexusFileName":"Forest Cantrips  (Lower Damage)","nexusFileVersion":"1","pakFileName":"Forest Cantrips - Lower damage.pak","nexusFileId":119517,"metaUuid":null}
 ]},
 "22363":{"nexusModName":"Ring of Unified Sigils","nexusUploadedBy":"swissfred","nexusModId":22363,"paks":[
-{"nexusFileName":"Ring of Unified Sigils","nexusFileVersion":"6.0.8.10","pakFileName":"RingMerger_5ebfa2b8-80fc-9f85-2a09-45923353b1da.pak","nexusFileId":119572,"metaUuid":"5ebfa2b8-80fc-9f85-2a09-45923353b1da"}
+{"nexusFileName":"Ring of Unified Sigils","nexusFileVersion":"6.0.8.12","pakFileName":"RingMerger_5ebfa2b8-80fc-9f85-2a09-45923353b1da.pak","nexusFileId":122674,"metaUuid":"5ebfa2b8-80fc-9f85-2a09-45923353b1da"}
 ]},
 "22364":{"nexusModName":"swissfred's Ring of Unified Sigils for Korean","nexusUploadedBy":"Eolaloe","nexusModId":22364,"paks":[
 {"nexusFileName":"Ring of Unified Sigils for Korean","nexusFileVersion":"6.0.8.10","pakFileName":"RingMerger_kr.pak","nexusFileId":119574,"metaUuid":null}
@@ -64903,10 +64903,14 @@
 {"nexusFileName":"Vampiric Head Pack","nexusFileVersion":"1","pakFileName":"Vampiric_head_pack.pak","nexusFileId":122520,"metaUuid":null}
 ]},
 "23139":{"nexusModName":"SoloLeveling - Shadow Monarch","nexusUploadedBy":"n007kass3m","nexusModId":23139,"paks":[
-{"nexusFileName":"SoloLeveling 6 Shadows - permanent death","nexusFileVersion":"1.55","pakFileName":"SoloLeveling_b9c1d5f0-c0b6-8a01-00dc-14bbf18057a0.pak","nexusFileId":122619,"metaUuid":null},
-{"nexusFileName":"SoloLeveling 12 Shadows - permanent death","nexusFileVersion":"1.55","pakFileName":"SoloLeveling_b9c1d5f0-c0b6-8a01-00dc-14bbf18057a0.pak","nexusFileId":122620,"metaUuid":null},
+{"nexusFileName":"SoloLeveling 6 Shadows - permanent death","nexusFileVersion":"1.60","pakFileName":"SoloLeveling_b9c1d5f0-c0b6-8a01-00dc-14bbf18057a0.pak","nexusFileId":122619,"metaUuid":null},
+{"nexusFileName":"SoloLeveling 12 Shadows - permanent death","nexusFileVersion":"1.60","pakFileName":"SoloLeveling_b9c1d5f0-c0b6-8a01-00dc-14bbf18057a0.pak","nexusFileId":122620,"metaUuid":null},
 {"nexusFileName":"SoloLeveling 6 On death Return to Shadow Domain","nexusFileVersion":"1.60","pakFileName":"SoloLeveling_b9c1d5f0-c0b6-8a01-00dc-14bbf18057a0.pak","nexusFileId":122634,"metaUuid":null},
-{"nexusFileName":"SoloLeveling 12 On death Return to Shadow Domain","nexusFileVersion":"1.60","pakFileName":"SoloLeveling_b9c1d5f0-c0b6-8a01-00dc-14bbf18057a0.pak","nexusFileId":122635,"metaUuid":null}
+{"nexusFileName":"SoloLeveling 12 On death Return to Shadow Domain","nexusFileVersion":"1.60","pakFileName":"SoloLeveling_b9c1d5f0-c0b6-8a01-00dc-14bbf18057a0.pak","nexusFileId":122635,"metaUuid":null},
+{"nexusFileName":"SoloLeveling 30 On death Return to Shadow Domain","nexusFileVersion":"1.60","pakFileName":"SoloLeveling_b9c1d5f0-c0b6-8a01-00dc-14bbf18057a0.pak","nexusFileId":122675,"metaUuid":null},
+{"nexusFileName":"SoloLeveling 100 On death Return to Shadow Domain","nexusFileVersion":"1.60","pakFileName":"SoloLeveling_b9c1d5f0-c0b6-8a01-00dc-14bbf18057a0.pak","nexusFileId":122676,"metaUuid":null},
+{"nexusFileName":"SoloLeveling 30 Shadows - permanent death","nexusFileVersion":"1.60","pakFileName":"SoloLeveling_b9c1d5f0-c0b6-8a01-00dc-14bbf18057a0.pak","nexusFileId":122677,"metaUuid":null},
+{"nexusFileName":"SoloLeveling 100 Shadows - permanent death","nexusFileVersion":"1.60","pakFileName":"SoloLeveling_b9c1d5f0-c0b6-8a01-00dc-14bbf18057a0.pak","nexusFileId":122678,"metaUuid":null}
 ]},
 "23140":{"nexusModName":"Spell Mods Data","nexusUploadedBy":"Nzx","nexusModId":23140,"paks":[
 {"nexusFileName":"SpellModsData","nexusFileVersion":"1","pakFileName":"SpellModsData.pak","nexusFileId":122536,"metaUuid":null}
