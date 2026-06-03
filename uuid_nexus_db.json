@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-06-03T17:51:25.734003+00:00","total_mods":16430},
+{"_meta":{"last_run":"2026-06-03T18:51:30.992185+00:00","total_mods":16430},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -3389,9 +3389,9 @@
 {"nexusFileName":"Battle Master Maneuver Fixes","pakFileName":"DrKekyll_ManeuverFixes.pak","nexusFileId":103763,"metaUuid":"df97a6f1-5be7-4830-84a5-692458fad780"}
 ]},
 "1258":{"nexusModName":"Valkrana's Spellbook - 15 New Necromancy Spells","nexusUploadedBy":"actualsailorcat","nexusModId":1258,"paks":[
-{"nexusFileName":"Valkrana's Impart Undeath Feat","pakFileName":"Valkrana's Impart Undeath Feat.pak","nexusFileId":115684,"metaUuid":"3d311d0d-a184-420e-b4d4-849b23d4a2d5"},
-{"nexusFileName":"Valkrana's Spellbook Limited Lists","pakFileName":"Valkrana's Spellbook Limited Lists.pak","nexusFileId":115860,"metaUuid":null},
-{"nexusFileName":"Valkrana's Spellbook","pakFileName":"Valkrana's Spellbook.pak","nexusFileId":119972,"metaUuid":"9deeb371-f01e-41b4-b20e-c5eee0751b12"}
+{"nexusFileName":"Valkrana's Impart Undeath Feat","nexusFileVersion":"1.01.00","pakFileName":"Valkrana's Impart Undeath Feat.pak","nexusFileId":115684,"metaUuid":"3d311d0d-a184-420e-b4d4-849b23d4a2d5"},
+{"nexusFileName":"Valkrana's Spellbook Limited Lists","nexusFileVersion":"1.00.02","pakFileName":"Valkrana's Spellbook Limited Lists.pak","nexusFileId":115860,"metaUuid":null},
+{"nexusFileName":"Valkrana's Spellbook","nexusFileVersion":"2.13.00","pakFileName":"Valkrana's Spellbook.pak","nexusFileId":122705,"metaUuid":"9deeb371-f01e-41b4-b20e-c5eee0751b12"}
 ]},
 "1259":{"nexusModName":"Great Old One Dice","nexusUploadedBy":"WingedAsarath","nexusModId":1259,"paks":[
 {"nexusFileName":"Great Old One Dice","pakFileName":"GreatOldOneDice.pak","nexusFileId":9187,"metaUuid":null}
@@ -46922,13 +46922,13 @@
 {"nexusFileName":"Locket of Ifan ben Mezd","nexusFileVersion":"1.0.0.7","pakFileName":"IfanLocket.pak","nexusFileId":94475,"metaUuid":null}
 ]},
 "16908":{"nexusModName":"Common Actions Consolidated","nexusUploadedBy":"Mueffel","nexusModId":16908,"paks":[
-{"nexusFileName":"Common Actions Consolidated","nexusFileVersion":"1.0.2","pakFileName":"Common Actions_consolidated.pak","nexusFileId":94891,"metaUuid":"6269aa39-f171-47c0-9e6b-b4ad63e08c61"},
 {"nexusFileName":"Common Actions Consolidated - I Surrender Patch","nexusFileVersion":"1.0.1","pakFileName":"Common Actions_consolidated - iSurrender Patch.pak","nexusFileId":122521,"metaUuid":null},
 {"nexusFileName":"Common Actions Consolidated - Mass Unsummon Patch","nexusFileVersion":"1.0.1","pakFileName":"Common Actions_consolidated - Mass Unsummon Patch.pak","nexusFileId":122522,"metaUuid":null},
 {"nexusFileName":"Common Actions Consolidated - 5e Dodge Patch","nexusFileVersion":"1.0.0","pakFileName":"Common Actions_consolidated - 5e Dodge Action Patch.pak","nexusFileId":122525,"metaUuid":null},
 {"nexusFileName":"Common Actions Consolidated - Get Ready Patch","nexusFileVersion":"1.0.0","pakFileName":"Common Actions_consolidated - Get Ready Patch.pak","nexusFileId":122532,"metaUuid":null},
 {"nexusFileName":"Common Actions Consolidated - Hurry Up Patch","nexusFileVersion":"1.0.0","pakFileName":"Common Actions_consolidated - Hurry Up Patch.pak","nexusFileId":122533,"metaUuid":null},
-{"nexusFileName":"Common Actions Consolidated - Swap Places Patch","nexusFileVersion":"1.0.0","pakFileName":"Common Actions_consolidated - Swap Places Patch.pak","nexusFileId":122534,"metaUuid":null}
+{"nexusFileName":"Common Actions Consolidated - Swap Places Patch","nexusFileVersion":"1.0.0","pakFileName":"Common Actions_consolidated - Swap Places Patch.pak","nexusFileId":122534,"metaUuid":null},
+{"nexusFileName":"Common Actions Consolidated","nexusFileVersion":"1.0.3","pakFileName":"Common Actions_consolidated.pak","nexusFileId":122706,"metaUuid":"6269aa39-f171-47c0-9e6b-b4ad63e08c61"}
 ]},
 "16909":{"nexusModName":"Cazador Drops His Outfit","nexusUploadedBy":"xJustAdam","nexusModId":16909,"paks":[
 {"nexusFileName":"Cazador Drops His Outfit","nexusFileVersion":"1.0","pakFileName":"Cazador Drops His Outfit.pak","nexusFileId":94477,"metaUuid":null},
