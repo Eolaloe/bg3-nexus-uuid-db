@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-06-03T15:51:35.778884+00:00","total_mods":16430},
+{"_meta":{"last_run":"2026-06-03T16:51:34.236409+00:00","total_mods":16430},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -64616,7 +64616,7 @@
 {"nexusFileName":"Dynamic Difficulty Scaling","nexusFileVersion":"1.0.0.6","pakFileName":"DynamicDifficultyScaling_51c67d03-954d-67d8-d5ea-c3f04d7be8bb.pak","nexusFileId":122576,"metaUuid":"51c67d03-954d-67d8-d5ea-c3f04d7be8bb"}
 ]},
 "23014":{"nexusModName":"Nyxra Head Preset","nexusUploadedBy":"manuliparoni","nexusModId":23014,"paks":[
-{"nexusFileName":"Nyxra Head","nexusFileVersion":"2","pakFileName":"Nyxra_head.pak","nexusFileId":121984,"metaUuid":null}
+{"nexusFileName":"Nyxra Head","nexusFileVersion":"3","pakFileName":"Nyxra_head.pak","nexusFileId":122703,"metaUuid":null}
 ]},
 "23015":{"nexusModName":"Lord Protector - Corvo Attano's outfit","nexusUploadedBy":"yonhi","nexusModId":23015,"paks":[
 {"nexusFileName":"Lord Protector","nexusFileVersion":"1","pakFileName":"LordProtector_f704b0ce-a9e5-5a71-ca68-7aabd753b32f.pak","nexusFileId":121958,"metaUuid":null}
@@ -64904,14 +64904,14 @@
 {"nexusFileName":"Vampiric Head Pack","nexusFileVersion":"1","pakFileName":"Vampiric_head_pack.pak","nexusFileId":122520,"metaUuid":null}
 ]},
 "23139":{"nexusModName":"SoloLeveling - Shadow Monarch","nexusUploadedBy":"n007kass3m","nexusModId":23139,"paks":[
-{"nexusFileName":"SoloLeveling 6 Shadows - permanent death","nexusFileVersion":"1.60","pakFileName":"SoloLeveling_b9c1d5f0-c0b6-8a01-00dc-14bbf18057a0.pak","nexusFileId":122619,"metaUuid":null},
-{"nexusFileName":"SoloLeveling 12 Shadows - permanent death","nexusFileVersion":"1.60","pakFileName":"SoloLeveling_b9c1d5f0-c0b6-8a01-00dc-14bbf18057a0.pak","nexusFileId":122620,"metaUuid":null},
-{"nexusFileName":"SoloLeveling 6 On death Return to Shadow Domain","nexusFileVersion":"1.60","pakFileName":"SoloLeveling_b9c1d5f0-c0b6-8a01-00dc-14bbf18057a0.pak","nexusFileId":122634,"metaUuid":null},
-{"nexusFileName":"SoloLeveling 12 On death Return to Shadow Domain","nexusFileVersion":"1.60","pakFileName":"SoloLeveling_b9c1d5f0-c0b6-8a01-00dc-14bbf18057a0.pak","nexusFileId":122635,"metaUuid":null},
-{"nexusFileName":"SoloLeveling 30 On death Return to Shadow Domain","nexusFileVersion":"1.60","pakFileName":"SoloLeveling_b9c1d5f0-c0b6-8a01-00dc-14bbf18057a0.pak","nexusFileId":122675,"metaUuid":null},
-{"nexusFileName":"SoloLeveling 100 On death Return to Shadow Domain","nexusFileVersion":"1.60","pakFileName":"SoloLeveling_b9c1d5f0-c0b6-8a01-00dc-14bbf18057a0.pak","nexusFileId":122676,"metaUuid":null},
-{"nexusFileName":"SoloLeveling 30 Shadows - permanent death","nexusFileVersion":"1.60","pakFileName":"SoloLeveling_b9c1d5f0-c0b6-8a01-00dc-14bbf18057a0.pak","nexusFileId":122677,"metaUuid":null},
-{"nexusFileName":"SoloLeveling 100 Shadows - permanent death","nexusFileVersion":"1.60","pakFileName":"SoloLeveling_b9c1d5f0-c0b6-8a01-00dc-14bbf18057a0.pak","nexusFileId":122678,"metaUuid":null}
+{"nexusFileName":"SoloLeveling 6 Shadows - permanent death","nexusFileVersion":"1.65","pakFileName":"SoloLeveling_b9c1d5f0-c0b6-8a01-00dc-14bbf18057a0.pak","nexusFileId":122695,"metaUuid":null},
+{"nexusFileName":"SoloLeveling 12 Shadows - permanent death","nexusFileVersion":"1.65","pakFileName":"SoloLeveling_b9c1d5f0-c0b6-8a01-00dc-14bbf18057a0.pak","nexusFileId":122696,"metaUuid":null},
+{"nexusFileName":"SoloLeveling 30 Shadows - permanent death","nexusFileVersion":"1.65","pakFileName":"SoloLeveling_b9c1d5f0-c0b6-8a01-00dc-14bbf18057a0.pak","nexusFileId":122697,"metaUuid":null},
+{"nexusFileName":"SoloLeveling 100 Shadows - permanent death","nexusFileVersion":"1.65","pakFileName":"SoloLeveling_b9c1d5f0-c0b6-8a01-00dc-14bbf18057a0.pak","nexusFileId":122698,"metaUuid":null},
+{"nexusFileName":"SoloLeveling 6 On death Return to Shadow Domain","nexusFileVersion":"1.65","pakFileName":"SoloLeveling_b9c1d5f0-c0b6-8a01-00dc-14bbf18057a0.pak","nexusFileId":122699,"metaUuid":null},
+{"nexusFileName":"SoloLeveling 12 On death Return to Shadow Domain","nexusFileVersion":"1.65","pakFileName":"SoloLeveling_b9c1d5f0-c0b6-8a01-00dc-14bbf18057a0.pak","nexusFileId":122700,"metaUuid":null},
+{"nexusFileName":"SoloLeveling 30 On death Return to Shadow Domain","nexusFileVersion":"1.65","pakFileName":"SoloLeveling_b9c1d5f0-c0b6-8a01-00dc-14bbf18057a0.pak","nexusFileId":122701,"metaUuid":null},
+{"nexusFileName":"SoloLeveling 100 On death Return to Shadow Domain","nexusFileVersion":"1.65","pakFileName":"SoloLeveling_b9c1d5f0-c0b6-8a01-00dc-14bbf18057a0.pak","nexusFileId":122702,"metaUuid":null}
 ]},
 "23140":{"nexusModName":"Spell Mods Data","nexusUploadedBy":"Nzx","nexusModId":23140,"paks":[
 {"nexusFileName":"SpellModsData","nexusFileVersion":"1","pakFileName":"SpellModsData.pak","nexusFileId":122536,"metaUuid":null}
@@ -65016,5 +65016,5 @@
 {"nexusFileName":"DeathPosePhotoMode 1.0.0 Nexus","nexusFileVersion":"1","pakFileName":"DeathPosePhotoMode_7d731f78-28f6-4f22-bef0-2fa79f30b1d2.pak","nexusFileId":122692,"metaUuid":null}
 ]},
 "23191":{"nexusModName":"Zenin Path - A Jujutsu Kaisen Class for Korean","nexusUploadedBy":"Eolaloe","nexusModId":23191,"paks":[
-{"nexusFileName":"Zenin Path - A Jujutsu Kaisen Class for Korean","nexusFileVersion":"1.0.0.0","pakFileName":"ZeninPath_kr.pak","nexusFileId":122693,"metaUuid":null}
+{"nexusFileName":"Zenin Path - A Jujutsu Kaisen Class for Korean","nexusFileVersion":"1.0.0.0","pakFileName":"ZeninPath_kr.pak","nexusFileId":122704,"metaUuid":null}
 ]}}
