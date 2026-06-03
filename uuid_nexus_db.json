@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-06-03T09:51:11.179560+00:00","total_mods":16423},
+{"_meta":{"last_run":"2026-06-03T10:51:16.248362+00:00","total_mods":16424},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -35965,7 +35965,7 @@
 ]},
 "12727":{"nexusModName":"DnD 5.5e All-in-One BEYOND","nexusUploadedBy":"yoonmoonsik43","nexusModId":12727,"paks":[
 {"nexusFileName":"dnd2024 - V3 Legacy","nexusFileVersion":"3.4.6.4","pakFileName":"DnD2024_897914ef-5c96-053c-44af-0be823f895fe.pak","nexusFileId":115523,"metaUuid":null},
-{"nexusFileName":"Dnd2024","nexusFileVersion":"4.4.2.7","pakFileName":"DnD2024_897914ef-5c96-053c-44af-0be823f895fe.pak","nexusFileId":122664,"metaUuid":null}
+{"nexusFileName":"Dnd2024","nexusFileVersion":"4.4.2.8","pakFileName":"DnD2024_897914ef-5c96-053c-44af-0be823f895fe.pak","nexusFileId":122673,"metaUuid":null}
 ]},
 "12728":{"nexusModName":"Origin-Themed Headwear KR","nexusUploadedBy":"Soorawang","nexusModId":12728,"paks":[
 {"nexusFileName":"Origin-Themed Headwear KR","nexusFileVersion":"1.0","pakFileName":"OriginHeadwear_kr.pak","nexusFileId":73692,"metaUuid":null}
@@ -63266,7 +63266,7 @@
 {"nexusFileName":"Graveyard Scene Extended","nexusFileVersion":"1.0.0.2","pakFileName":"GraveyardSceneExtended_1.0.0.2.pak","nexusFileId":119087,"metaUuid":null}
 ]},
 "22448":{"nexusModName":"Gloves of Unified Sigils","nexusUploadedBy":"swissfred","nexusModId":22448,"paks":[
-{"nexusFileName":"Gloves of Unified Sigils","nexusFileVersion":"6.0.8.2","pakFileName":"GlovesOfUnifiedSigils_30cfb3c7-89d6-8cee-e9d7-4c365c20401f.pak","nexusFileId":122403,"metaUuid":"30cfb3c7-89d6-8cee-e9d7-4c365c20401f"}
+{"nexusFileName":"Gloves of Unified Sigils","nexusFileVersion":"6.0.8.4","pakFileName":"GlovesOfUnifiedSigils_30cfb3c7-89d6-8cee-e9d7-4c365c20401f.pak","nexusFileId":122672,"metaUuid":"30cfb3c7-89d6-8cee-e9d7-4c365c20401f"}
 ]},
 "22449":{"nexusModName":"Pack Rats","nexusUploadedBy":"VahnSmash","nexusModId":22449,"paks":[
 {"nexusFileName":"Pack Rats","nexusFileVersion":"1.8","pakFileName":"VSH_PackRat_a8d00b10-acb5-8b1b-b1be-31da9ce26850.pak","nexusFileId":120444,"metaUuid":"a8d00b10-acb5-8b1b-b1be-31da9ce26850"}
@@ -64991,4 +64991,7 @@
 ]},
 "23183":{"nexusModName":"Spawn Astarion - Epilogue Party Affection Dialog","nexusUploadedBy":"moxifer3","nexusModId":23183,"paks":[
 {"nexusFileName":"MOXI Epilogue Astarion Affection","nexusFileVersion":"1","pakFileName":"MOXI_Epilogue_Astarion_Affection.pak","nexusFileId":122661,"metaUuid":null}
+]},
+"23186":{"nexusModName":"(Demo) Summon Greater Steed - Motorcycles fo VP","nexusUploadedBy":"Utrennyaya","nexusModId":23186,"paks":[
+{"nexusFileName":"GreaterSteed - Teaser","nexusFileVersion":"1","pakFileName":"GreaterSteed_Teaser_0df64814-4be3-16d7-31da-f4876d013e06.pak","nexusFileId":122671,"metaUuid":null}
 ]}}
