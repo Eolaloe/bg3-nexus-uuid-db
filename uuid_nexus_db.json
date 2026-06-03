@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-06-03T05:51:11.894293+00:00","total_mods":16423},
+{"_meta":{"last_run":"2026-06-03T06:51:08.743406+00:00","total_mods":16424},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -62978,7 +62978,7 @@
 {"nexusFileName":"Necri Soul Wand","nexusFileVersion":"2","pakFileName":"Necri_Soul_Wand_bce292ff-3506-4e26-6675-4efc93289dcc.pak","nexusFileId":118999,"metaUuid":null}
 ]},
 "22334":{"nexusModName":"Fade's Dynamic Enemy Encounters for Korean","nexusUploadedBy":"Eolaloe","nexusModId":22334,"paks":[
-{"nexusFileName":"Dynamic Enemy Encounters for Korean","nexusFileVersion":"1.0.0.20","pakFileName":"DynamicExtraEncounters_kr.pak","nexusFileId":122360,"metaUuid":"685f72ea-ff40-47b2-9a4b-8c091b714ff1"}
+{"nexusFileName":"Dynamic Enemy Encounters for Korean","nexusFileVersion":"1.0.0.21","pakFileName":"DynamicExtraEncounters_kr.pak","nexusFileId":122662,"metaUuid":"685f72ea-ff40-47b2-9a4b-8c091b714ff1"}
 ]},
 "22335":{"nexusModName":"Soulmate Pose Pack","nexusUploadedBy":"Marymeeee","nexusModId":22335,"paks":[
 {"nexusFileName":"Soulmate Pose Pack Cat's Patch","nexusFileVersion":"1","pakFileName":"Soulmate_c1f06c22-7238-3b1a-af32-3494012656e4 (1).pak","nexusFileId":118481,"metaUuid":null}
@@ -62997,7 +62997,7 @@
 {"nexusFileName":"DynamicExtraEncounters - PTBR","nexusFileVersion":"1.0.0.10","pakFileName":"DynamicExtraEncounters - PTBR.pak","nexusFileId":119329,"metaUuid":null}
 ]},
 "22341":{"nexusModName":"Fade's Dynamic Enemy Encounters for Japanese","nexusUploadedBy":"Eolaloe","nexusModId":22341,"paks":[
-{"nexusFileName":"Dynamic Enemy Encounters for Japanese","nexusFileVersion":"1.0.0.20","pakFileName":"DynamicExtraEncounters_jp.pak","nexusFileId":122361,"metaUuid":null}
+{"nexusFileName":"Dynamic Enemy Encounters for Japanese","nexusFileVersion":"1.0.0.21","pakFileName":"DynamicExtraEncounters_jp.pak","nexusFileId":122663,"metaUuid":null}
 ]},
 "22342":{"nexusModName":"Quivers - PTBR","nexusUploadedBy":"TAPAtlas","nexusModId":22342,"paks":[
 {"nexusFileName":"Quivers - PTBR","nexusFileVersion":"1.0.0.0","pakFileName":"Quivers - Tradução PT-BR.pak","nexusFileId":118430,"metaUuid":null}
@@ -64992,4 +64992,7 @@
 ]},
 "23182":{"nexusModName":"Path of Undeath (PT-BR - 1.16)","nexusUploadedBy":"Firetoga","nexusModId":23182,"paks":[
 {"nexusFileName":"Path Of Undeath (PT-BR)","nexusFileVersion":"1.16","pakFileName":"Path of Undeath_BR.pak","nexusFileId":122654,"metaUuid":null}
+]},
+"23183":{"nexusModName":"Spawn Astarion - Epilogue Party Affection Dialog","nexusUploadedBy":"moxifer3","nexusModId":23183,"paks":[
+{"nexusFileName":"MOXI Epilogue Astarion Affection","nexusFileVersion":"1","pakFileName":"MOXI_Epilogue_Astarion_Affection.pak","nexusFileId":122661,"metaUuid":null}
 ]}}
