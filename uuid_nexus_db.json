@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-06-03T21:51:23.156931+00:00","total_mods":16432},
+{"_meta":{"last_run":"2026-06-03T22:51:26.068234+00:00","total_mods":16437},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -47991,7 +47991,7 @@
 {"nexusFileName":"Lay on Hands","nexusFileVersion":"1.1.0","pakFileName":"Lightbringer Reforged - Lay on Hands.pak","nexusFileId":112536,"metaUuid":null},
 {"nexusFileName":"Paladin Auras","nexusFileVersion":"1.1.0","pakFileName":"Lightbringer Reforged - Paladin Auras.pak","nexusFileId":119725,"metaUuid":null},
 {"nexusFileName":"Blessed Hammer and Imbue Weapon","nexusFileVersion":"1.3.0","pakFileName":"Lightbringer Reforged - Blessed Hammer and Imbue Weapon.pak","nexusFileId":120311,"metaUuid":null},
-{"nexusFileName":"Judgments (Smite Rework)","nexusFileVersion":"2.0.0","pakFileName":"Lightbringer Reforged - Judgments (Smite Rework).pak","nexusFileId":120314,"metaUuid":null}
+{"nexusFileName":"Judgments (Smite Rework)","nexusFileVersion":"3.0.0","pakFileName":"Lightbringer Reforged - Judgments (Smite Rework).pak","nexusFileId":122712,"metaUuid":null}
 ]},
 "17293":{"nexusModName":"Sickle Variants","nexusUploadedBy":"Headbobbie","nexusModId":17293,"paks":[
 {"nexusFileName":"Sickle Variants","nexusFileVersion":"1.0.1","pakFileName":"HBB_Sickle_Variants.pak","nexusFileId":96841,"metaUuid":null},
@@ -65024,4 +65024,19 @@
 ]},
 "23191":{"nexusModName":"Zenin Path - A Jujutsu Kaisen Class for Korean","nexusUploadedBy":"Eolaloe","nexusModId":23191,"paks":[
 {"nexusFileName":"Zenin Path - A Jujutsu Kaisen Class for Korean","nexusFileVersion":"1.0.0.0","pakFileName":"ZeninPath_kr.pak","nexusFileId":122704,"metaUuid":null}
+]},
+"23197":{"nexusModName":"5e Barbarian Subclasses Combined JP","nexusUploadedBy":"Akazonae36","nexusModId":23197,"paks":[
+{"nexusFileName":"5e Barbarian Subclasses Combined JP","nexusFileVersion":"1","pakFileName":"5e Barbarian Subclasses5e Combined_JP.pak","nexusFileId":122711,"metaUuid":null}
+]},
+"23198":{"nexusModName":"5e Fighter Subclasses Combined_JP","nexusUploadedBy":"Akazonae36","nexusModId":23198,"paks":[
+{"nexusFileName":"5e Fighter Subclasses Combined JP","nexusFileVersion":"1","pakFileName":"5e Fighter Subclasses Combined_JP.pak","nexusFileId":122713,"metaUuid":null}
+]},
+"23199":{"nexusModName":"5e Ranger Subclasses Combined_JP","nexusUploadedBy":"Akazonae36","nexusModId":23199,"paks":[
+{"nexusFileName":"5e Ranger Subclasses Combined JP","nexusFileVersion":"1","pakFileName":"5e Ranger Subclasses Combined_JP.pak","nexusFileId":122714,"metaUuid":null}
+]},
+"23200":{"nexusModName":"5e Monk Subclasses Combined_JP","nexusUploadedBy":"Akazonae36","nexusModId":23200,"paks":[
+{"nexusFileName":"5e Monk Subclasses Combined JP","nexusFileVersion":"1","pakFileName":"5e Monk Subclasses Combined_JP.pak","nexusFileId":122715,"metaUuid":null}
+]},
+"23202":{"nexusModName":"5e Cleric Subclasses Combined_JP","nexusUploadedBy":"Akazonae36","nexusModId":23202,"paks":[
+{"nexusFileName":"5e Cleric Subclasses Combined JP","nexusFileVersion":"1","pakFileName":"5e Cleric Subclasses Combined_JP.pak","nexusFileId":122716,"metaUuid":null}
 ]}}
