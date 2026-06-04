@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-06-04T15:52:23.791490+00:00","total_mods":16440},
+{"_meta":{"last_run":"2026-06-04T16:52:20.459393+00:00","total_mods":16440},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -624,7 +624,8 @@
 {"nexusFileName":"Horns of Faerun","pakFileName":"Aloija_New_Horns_192f57e4-a961-47be-ab94-e70042f9d211.pak","nexusFileId":113252,"metaUuid":"192f57e4-a961-47be-ab94-e70042f9d211"}
 ]},
 "470":{"nexusModName":"Loulette Heads","nexusUploadedBy":"loulette","nexusModId":470,"paks":[
-{"nexusFileName":"Loulette New Head","pakFileName":"Loulette_New_Heads_858e5621-d625-6b87-5b0b-954c0f95f969.pak","nexusFileId":74165,"metaUuid":null}
+{"nexusFileName":"Loulette New Head","nexusFileVersion":"1.0.0.7","pakFileName":"Loulette_New_Heads_858e5621-d625-6b87-5b0b-954c0f95f969.pak","nexusFileId":74165,"metaUuid":null},
+{"nexusFileName":"Loulette Wolf","nexusFileVersion":"1","pakFileName":"Loulette Wolf.pak","nexusFileId":122794,"metaUuid":null}
 ]},
 "471":{"nexusModName":"Circle of Spores Druid Subclass (DEPRECATED)","nexusUploadedBy":"havsglimt","nexusModId":471,"paks":[
 {"nexusFileName":"Circle of Spores - Naturalesque Decay","pakFileName":"CircleofSpores.pak","nexusFileId":4747,"metaUuid":null},
