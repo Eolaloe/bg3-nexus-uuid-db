@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-06-04T22:52:34.112834+00:00","total_mods":16446},
+{"_meta":{"last_run":"2026-06-04T23:52:25.757370+00:00","total_mods":16446},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -1353,10 +1353,10 @@
 {"nexusFileName":"Version 1.1","pakFileName":"Start With Dragon Scale.pak","nexusFileId":5696,"metaUuid":null}
 ]},
 "642":{"nexusModName":"Necromancy Reanimated (Formerly Animate Dead Plus Plus)","nexusUploadedBy":"actualsailorcat","nexusModId":642,"paks":[
-{"nexusFileName":"Undead Automation SE","pakFileName":"Animate Dead++ SE Automation.pak","nexusFileId":75195,"metaUuid":"1e8d77fd-ceff-4ebc-be68-9abb2d520a39"},
-{"nexusFileName":"Fix - Submod of ADPP and VS","pakFileName":"ADPPnVS Submod Fix.pak","nexusFileId":81184,"metaUuid":"a9fbfcea-ff68-4884-85cb-90c6086cce25"},
-{"nexusFileName":"Spell List Addon","pakFileName":"Animate Dead++ Spell List Addon.pak","nexusFileId":108810,"metaUuid":null},
-{"nexusFileName":"Necromancy Reanimated","pakFileName":"Necromancy Reanimated.pak","nexusFileId":120648,"metaUuid":"f323b958-b845-4c79-b139-d39570658fbb"}
+{"nexusFileName":"Undead Automation SE","nexusFileVersion":"1.00.01","pakFileName":"Animate Dead++ SE Automation.pak","nexusFileId":75195,"metaUuid":"1e8d77fd-ceff-4ebc-be68-9abb2d520a39"},
+{"nexusFileName":"Fix - Submod of ADPP and VS","nexusFileVersion":"1.00.05","pakFileName":"ADPPnVS Submod Fix.pak","nexusFileId":81184,"metaUuid":"a9fbfcea-ff68-4884-85cb-90c6086cce25"},
+{"nexusFileName":"Spell List Addon","nexusFileVersion":"1.06.00","pakFileName":"Animate Dead++ Spell List Addon.pak","nexusFileId":108810,"metaUuid":null},
+{"nexusFileName":"Necromancy Reanimated","nexusFileVersion":"1.42.07","pakFileName":"Necromancy Reanimated.pak","nexusFileId":122810,"metaUuid":"f323b958-b845-4c79-b139-d39570658fbb"}
 ]},
 "644":{"nexusModName":"Approval Tweaks","nexusUploadedBy":"Koriik","nexusModId":644,"paks":[
 {"nexusFileName":"(Version A) Natural","pakFileName":"ApprovalTweaks.pak","nexusFileId":6160,"metaUuid":null},
@@ -32682,7 +32682,7 @@
 {"nexusFileName":"SR Divinity Main Rus","nexusFileVersion":"1.0","pakFileName":"SR_Divinity_Rus.pak","nexusFileId":66381,"metaUuid":null}
 ]},
 "11442":{"nexusModName":"Wyll's Act 3 Romance Tweaks","nexusUploadedBy":"magnetuning","nexusModId":11442,"paks":[
-{"nexusFileName":"Wylls Act 3 Romance Tweaks - PAK","nexusFileVersion":"1.1.0.0","pakFileName":"MGNTN_WyllROM3Tweaks.pak","nexusFileId":77781,"metaUuid":null}
+{"nexusFileName":"Wylls Act 3 Romance Tweaks - PAK","nexusFileVersion":"1.2.0.0","pakFileName":"MGNTN_WyllROM3Tweaks.pak","nexusFileId":122808,"metaUuid":null}
 ]},
 "11443":{"nexusModName":"Stat Boosting Items Rebalanced","nexusUploadedBy":"Rhonin25","nexusModId":11443,"paks":[
 {"nexusFileName":"StatBoostingItemsRebalance","nexusFileVersion":"1.3","pakFileName":"StatBoostingItemRebalance.pak","nexusFileId":67589,"metaUuid":null}
