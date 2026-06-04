@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-06-04T16:52:20.459393+00:00","total_mods":16440},
+{"_meta":{"last_run":"2026-06-04T17:52:13.800744+00:00","total_mods":16442},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -64906,14 +64906,7 @@
 {"nexusFileName":"Vampiric Head Pack","nexusFileVersion":"1","pakFileName":"Vampiric_head_pack.pak","nexusFileId":122520,"metaUuid":null}
 ]},
 "23139":{"nexusModName":"SoloLeveling - Shadow Monarch","nexusUploadedBy":"n007kass3m","nexusModId":23139,"paks":[
-{"nexusFileName":"SoloLeveling 6 Shadows - permanent death","nexusFileVersion":"1.70","pakFileName":"SoloLeveling_b9c1d5f0-c0b6-8a01-00dc-14bbf18057a0.pak","nexusFileId":122765,"metaUuid":null},
-{"nexusFileName":"SoloLeveling 12 Shadows - permanent death","nexusFileVersion":"1.70","pakFileName":"SoloLeveling_b9c1d5f0-c0b6-8a01-00dc-14bbf18057a0.pak","nexusFileId":122766,"metaUuid":null},
-{"nexusFileName":"SoloLeveling 30 Shadows - permanent death","nexusFileVersion":"1.70","pakFileName":"SoloLeveling_b9c1d5f0-c0b6-8a01-00dc-14bbf18057a0.pak","nexusFileId":122767,"metaUuid":null},
-{"nexusFileName":"SoloLeveling 100 Shadows - permanent death","nexusFileVersion":"1.70","pakFileName":"SoloLeveling_b9c1d5f0-c0b6-8a01-00dc-14bbf18057a0.pak","nexusFileId":122768,"metaUuid":null},
-{"nexusFileName":"SoloLeveling 6 On death Return to Shadow Domain","nexusFileVersion":"1.70","pakFileName":"SoloLeveling_b9c1d5f0-c0b6-8a01-00dc-14bbf18057a0.pak","nexusFileId":122769,"metaUuid":null},
-{"nexusFileName":"SoloLeveling 12 On death Return to Shadow Domain","nexusFileVersion":"1.70","pakFileName":"SoloLeveling_b9c1d5f0-c0b6-8a01-00dc-14bbf18057a0.pak","nexusFileId":122770,"metaUuid":null},
-{"nexusFileName":"SoloLeveling 30 On death Return to Shadow Domain","nexusFileVersion":"1.70","pakFileName":"SoloLeveling_b9c1d5f0-c0b6-8a01-00dc-14bbf18057a0.pak","nexusFileId":122771,"metaUuid":null},
-{"nexusFileName":"SoloLeveling 100 On death Return to Shadow Domain","nexusFileVersion":"1.70","pakFileName":"SoloLeveling_b9c1d5f0-c0b6-8a01-00dc-14bbf18057a0.pak","nexusFileId":122772,"metaUuid":null}
+{"nexusFileName":"SoloLeveling 6 Shadows -  MCM","nexusFileVersion":"2.0","pakFileName":"SoloLeveling_b9c1d5f0-c0b6-8a01-00dc-14bbf18057a0.pak","nexusFileId":122797,"metaUuid":null}
 ]},
 "23140":{"nexusModName":"Spell Mods Data","nexusUploadedBy":"Nzx","nexusModId":23140,"paks":[
 {"nexusFileName":"SpellModsData","nexusFileVersion":"1","pakFileName":"SpellModsData.pak","nexusFileId":122536,"metaUuid":null}
@@ -64988,6 +64981,9 @@
 "23173":{"nexusModName":"Hounds' Prettier Mantle of Inspiration","nexusUploadedBy":"julesberry","nexusModId":23173,"paks":[
 {"nexusFileName":"Hounds' Prettier Mantle of Inspiration","nexusFileVersion":"1","pakFileName":"HoundsFunnyMod_db7c9082-a94b-de11-70ed-203b45fcd74c.pak","nexusFileId":122632,"metaUuid":null}
 ]},
+"23175":{"nexusModName":"5e Barbarian Subclasses Combined - PTBR (2026)","nexusUploadedBy":"BarovZx","nexusModId":23175,"paks":[
+{"nexusFileName":"Barbarian Subclasses 5e Combined PTBR","nexusFileVersion":"16.11.2025","pakFileName":"Barbarian Subclasses 5e Combined PTBR.pak","nexusFileId":122796,"metaUuid":null}
+]},
 "23176":{"nexusModName":"Act 3 NPCs Redesign","nexusUploadedBy":"koboldJuno","nexusModId":23176,"paks":[
 {"nexusFileName":"Act3 NPCs Redesign","nexusFileVersion":"1.0","pakFileName":"Act3NPCsRedesign_0e0419f8-1f3b-7daa-1d0e-8ebdaaefa31f.pak","nexusFileId":122644,"metaUuid":null}
 ]},
@@ -65044,6 +65040,9 @@
 ]},
 "23202":{"nexusModName":"5e Cleric Subclasses Combined_JP","nexusUploadedBy":"Akazonae36","nexusModId":23202,"paks":[
 {"nexusFileName":"5e Cleric Subclasses Combined JP","nexusFileVersion":"1","pakFileName":"5e Cleric Subclasses Combined_JP.pak","nexusFileId":122716,"metaUuid":null}
+]},
+"23206":{"nexusModName":"Faithfully Fixed Slayer Form","nexusUploadedBy":"Sw1shyFishy","nexusModId":23206,"paks":[
+{"nexusFileName":"SwishyFishy Slayer","nexusFileVersion":"1","pakFileName":"SwishyFishy_Slayer_v2.pak","nexusFileId":122795,"metaUuid":null}
 ]},
 "23207":{"nexusModName":"CombatBodysuit_TheFirstDescendant_Ines","nexusUploadedBy":"zxccxzzxcasdq","nexusModId":23207,"paks":[
 {"nexusFileName":"CombatBodysuit TheFirstDescendant Ines","nexusFileVersion":"1","pakFileName":"CombatBodysuit_TheFirstDescendant_Ines.pak","nexusFileId":122793,"metaUuid":null}
