@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-06-04T08:51:43.592414+00:00","total_mods":16439},
+{"_meta":{"last_run":"2026-06-04T09:51:46.408468+00:00","total_mods":16439},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -18366,11 +18366,8 @@
 "5828":{"nexusModName":"Remington 870 - Shotgun","nexusUploadedBy":"Palmaman33","nexusModId":5828,"paks":[
 {"nexusFileName":"Remington 870","nexusFileVersion":"1.0.0","pakFileName":"P33_Remington.pak","nexusFileId":41119,"metaUuid":null}
 ]},
-"5830":{"nexusModName":"Orin's Twin","nexusUploadedBy":"Elmvick","nexusModId":5830,"paks":[
-{"nexusFileName":"Orin - Generated Human female","nexusFileVersion":"1.0","pakFileName":"Orin - Generated Human.pak","nexusFileId":39601,"metaUuid":null},
-{"nexusFileName":"Orin's Twin OP 1.3.2","nexusFileVersion":"1.3.2","pakFileName":"Orin.pak","nexusFileId":41068,"metaUuid":null},
-{"nexusFileName":"Orin's Twin - Balanced v1.3.2","nexusFileVersion":"1.3.2","pakFileName":"Orin - Balanced.pak","nexusFileId":41091,"metaUuid":null},
-{"nexusFileName":"Orin OP - Not Dark Urge","nexusFileVersion":"1.3.2.0","pakFileName":"Orin.pak","nexusFileId":44017,"metaUuid":null}
+"5830":{"nexusModName":"Orin Origin Dark Urge","nexusUploadedBy":"Elmvick","nexusModId":5830,"paks":[
+{"nexusFileName":"Orin Origin Dark Urge","nexusFileVersion":"1.3.2","pakFileName":"Orin.pak","nexusFileId":122764,"metaUuid":null}
 ]},
 "5831":{"nexusModName":"Learn Become the Bulwark","nexusUploadedBy":"BitterPast","nexusModId":5831,"paks":[
 {"nexusFileName":"Learn Become the Bulwark","nexusFileVersion":"1.0.0","pakFileName":"LearnBecomeTheBulwark.pak","nexusFileId":39224,"metaUuid":null}
@@ -58406,10 +58403,10 @@
 {"nexusFileName":"BG3SX Racial Compatibility Framework Chinese","nexusFileVersion":"1.0.0","pakFileName":"实验室-种族兼容框架.pak","nexusFileId":112410,"metaUuid":null}
 ]},
 "20741":{"nexusModName":"chizfreak's No Divine Smite for Oathbreakers for Korean","nexusUploadedBy":"Eolaloe","nexusModId":20741,"paks":[
-{"nexusFileName":"No Divine Smite for Oathbreakers for Korean","nexusFileVersion":"5.0","pakFileName":"RemoveDivineSmiteFromOathbreak_kr.pak","nexusFileId":112309,"metaUuid":null}
+{"nexusFileName":"No Divine Smite for Oathbreakers for Korean","nexusFileVersion":"5.0-1","pakFileName":"RemoveDivineSmiteFromOathbreak_kr.pak","nexusFileId":122760,"metaUuid":null}
 ]},
 "20742":{"nexusModName":"chizfreak's No Divine Smite for Oathbreakers for Japanese","nexusUploadedBy":"Eolaloe","nexusModId":20742,"paks":[
-{"nexusFileName":"No Divine Smite for Oathbreakers for Japanese","nexusFileVersion":"5.0","pakFileName":"RemoveDivineSmiteFromOathbreak_jp.pak","nexusFileId":112313,"metaUuid":null}
+{"nexusFileName":"No Divine Smite for Oathbreakers for Japanese","nexusFileVersion":"5.0-1","pakFileName":"RemoveDivineSmiteFromOathbreak_jp.pak","nexusFileId":122762,"metaUuid":null}
 ]},
 "20743":{"nexusModName":"chizfreak's Improved Unholy Smite for Oathbreakers for Korean","nexusUploadedBy":"Eolaloe","nexusModId":20743,"paks":[
 {"nexusFileName":"Improved Unholy Smite for Oathbreakers for Korean","nexusFileVersion":"2.2-1","pakFileName":"ImprovedUnholySmite_kr.pak","nexusFileId":122757,"metaUuid":null}
@@ -61487,10 +61484,9 @@
 {"nexusFileName":"C. Steady-Eyed Aura range increased 3 to 6","nexusFileVersion":"1.0","pakFileName":"TheGunslinger_Aura_6_c04f9861-b4fc-29f8-7224-2ee8634c7ba4.pak","nexusFileId":116313,"metaUuid":null},
 {"nexusFileName":"A. The Gunslinger Extra Feats Every 2 Levels","nexusFileVersion":"1.0.0.3","pakFileName":"TheGunslinge_ExtraFeats2Levels_1043510a-69e0-f71d-6eb0-a89c2be1d13a.pak","nexusFileId":117484,"metaUuid":null},
 {"nexusFileName":"B. Chage Firearm attribute","nexusFileVersion":"1.0.0.1","pakFileName":"TheGunslingerAddOnLongbow_b0792da9-16ac-6973-bdb6-b3e8f454c4e5.pak","nexusFileId":117489,"metaUuid":null},
-{"nexusFileName":"E. The Gunslinger Addon Haste Fix","nexusFileVersion":"1.0.0.2","pakFileName":"TheGunslingerHasteAddon_77662790-dede-4a96-880e-f37196548fe6.pak","nexusFileId":119714,"metaUuid":null},
 {"nexusFileName":"D. NoNeedBonusActionfortherevolver'soffhand","nexusFileVersion":"1.0.0.5","pakFileName":"TheGunslingerOffHandAddon_db9c5c90-6f70-f07a-153e-d873fc5f803d.pak","nexusFileId":120665,"metaUuid":null},
-{"nexusFileName":"The Gunslinger Class (ENG-KOR)","nexusFileVersion":"1.0.3.14","pakFileName":"TheGunslinger_1f2b82d7-19c8-734b-5f43-05d57d3e7601.pak","nexusFileId":122724,"metaUuid":null},
-{"nexusFileName":"F. The Gunslinger Warlock Invocations Addon","nexusFileVersion":"1.0.0.1","pakFileName":"TheGunslingerWarlockInvocations_Addon.pak","nexusFileId":122725,"metaUuid":null}
+{"nexusFileName":"E. The Gunslinger Warlock Invocations Addon","nexusFileVersion":"1.0.0.1","pakFileName":"TheGunslingerWarlockInvocations_Addon.pak","nexusFileId":122725,"metaUuid":null},
+{"nexusFileName":"The Gunslinger Class (ENG-KOR)","nexusFileVersion":"1.0.3.18","pakFileName":"TheGunslinger_1f2b82d7-19c8-734b-5f43-05d57d3e7601.pak","nexusFileId":122763,"metaUuid":null}
 ]},
 "21796":{"nexusModName":"Em's Misc Head Collection","nexusUploadedBy":"emsthings","nexusModId":21796,"paks":[
 {"nexusFileName":"Em's Head Collection","nexusFileVersion":"1.0.0","pakFileName":"Ems_Heads_41f62b28-72fa-cd43-2b54-e521a962a342.pak","nexusFileId":116314,"metaUuid":null}
