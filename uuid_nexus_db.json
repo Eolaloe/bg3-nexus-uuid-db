@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-06-04T14:51:57.409789+00:00","total_mods":16439},
+{"_meta":{"last_run":"2026-06-04T15:52:23.791490+00:00","total_mods":16440},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -33146,10 +33146,10 @@
 {"nexusFileName":"Dylan Head","nexusFileVersion":"1.3","pakFileName":"0000Dylan Head.pak","nexusFileId":67633,"metaUuid":null}
 ]},
 "11639":{"nexusModName":"Many More Monsters","nexusUploadedBy":"Palderon","nexusModId":11639,"paks":[
-{"nexusFileName":"Encounters Overhaul Compatibility Patch","nexusFileVersion":"3.5.0.0","pakFileName":"ManyMoreMonsters_EOPatch.pak","nexusFileId":111629,"metaUuid":null},
-{"nexusFileName":"Zero Exp","nexusFileVersion":"3.5.0.0","pakFileName":"ManyMoreMonsters_ZeroExp.pak","nexusFileId":111630,"metaUuid":null},
-{"nexusFileName":"Variable HP","nexusFileVersion":"3.5.0.0","pakFileName":"ManyMoreMonsters_VariableHP.pak","nexusFileId":111631,"metaUuid":null},
-{"nexusFileName":"Many More Monsters","nexusFileVersion":"3.5.2.0","pakFileName":"ManyMoreMonsters.pak","nexusFileId":117181,"metaUuid":"1b215646-6200-451a-9c4a-b21406f69edd"}
+{"nexusFileName":"Encounters Overhaul Compatibility Patch","nexusFileVersion":"4.0.0.0","pakFileName":"ManyMoreMonsters_EOPatch.pak","nexusFileId":122787,"metaUuid":null},
+{"nexusFileName":"Variable HP","nexusFileVersion":"4.0.0.0","pakFileName":"ManyMoreMonsters_VariableHP.pak","nexusFileId":122788,"metaUuid":null},
+{"nexusFileName":"Zero Exp","nexusFileVersion":"4.0.0.0","pakFileName":"ManyMoreMonsters_ZeroExp.pak","nexusFileId":122789,"metaUuid":null},
+{"nexusFileName":"Many More Monsters","nexusFileVersion":"4.0.0.0","pakFileName":"ManyMoreMonsters.pak","nexusFileId":122790,"metaUuid":"1b215646-6200-451a-9c4a-b21406f69edd"}
 ]},
 "11640":{"nexusModName":"Hellish Rebuke for Karlach","nexusUploadedBy":"robogena","nexusModId":11640,"paks":[
 {"nexusFileName":"Hellish Rebuke for Karlach","nexusFileVersion":"2.0","pakFileName":"robogena_HellishRebukeforKarlach.pak","nexusFileId":72001,"metaUuid":null}
@@ -36268,7 +36268,7 @@
 {"nexusFileName":"TheTrueChampion_v1.2 - BR","nexusFileVersion":"1.0","pakFileName":"TheTrueChampion_v1.2 - BR.pak","nexusFileId":74189,"metaUuid":null}
 ]},
 "12834":{"nexusModName":"Goon's Library - Passives Functions Spells and More","nexusUploadedBy":"BaldursGoonsack","nexusModId":12834,"paks":[
-{"nexusFileName":"Goon's Library","nexusFileVersion":"4.5.2.0","pakFileName":"Goon's Library.pak","nexusFileId":122341,"metaUuid":"07fbc2f1-f359-4b9d-b243-fe28bd783e4c"}
+{"nexusFileName":"Goon's Library","nexusFileVersion":"4.5.3.0","pakFileName":"Goon's Library.pak","nexusFileId":122792,"metaUuid":"07fbc2f1-f359-4b9d-b243-fe28bd783e4c"}
 ]},
 "12835":{"nexusModName":"Fiendish Races (Succubus and Cambions)","nexusUploadedBy":"haytur","nexusModId":12835,"paks":[
 {"nexusFileName":"Fiendish Races","nexusFileVersion":"1.5","pakFileName":"CambionRace.pak","nexusFileId":99769,"metaUuid":null}
@@ -65043,4 +65043,7 @@
 ]},
 "23202":{"nexusModName":"5e Cleric Subclasses Combined_JP","nexusUploadedBy":"Akazonae36","nexusModId":23202,"paks":[
 {"nexusFileName":"5e Cleric Subclasses Combined JP","nexusFileVersion":"1","pakFileName":"5e Cleric Subclasses Combined_JP.pak","nexusFileId":122716,"metaUuid":null}
+]},
+"23207":{"nexusModName":"CombatBodysuit_TheFirstDescendant_Ines","nexusUploadedBy":"zxccxzzxcasdq","nexusModId":23207,"paks":[
+{"nexusFileName":"CombatBodysuit TheFirstDescendant Ines","nexusFileVersion":"1","pakFileName":"CombatBodysuit_TheFirstDescendant_Ines.pak","nexusFileId":122793,"metaUuid":null}
 ]}}
