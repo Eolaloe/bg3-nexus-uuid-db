@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-06-04T19:51:59.984329+00:00","total_mods":16444},
+{"_meta":{"last_run":"2026-06-04T20:51:56.901290+00:00","total_mods":16446},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -310,7 +310,7 @@
 ]},
 "279":{"nexusModName":"Expansion Level 13-20 (Configurable)","nexusUploadedBy":"DiZ91891","nexusModId":279,"paks":[
 {"nexusFileName":"Bladesinger","nexusFileVersion":"2.1.0.0","pakFileName":"Bladesinger.pak","nexusFileId":89421,"metaUuid":null},
-{"nexusFileName":"Expansion","nexusFileVersion":"1.7.3.4","pakFileName":"Expansion.pak","nexusFileId":122499,"metaUuid":"a2c4b0fc-e745-41df-81b7-fa53950d86a0"}
+{"nexusFileName":"Expansion","nexusFileVersion":"1.7.3.5","pakFileName":"Expansion.pak","nexusFileId":122802,"metaUuid":"a2c4b0fc-e745-41df-81b7-fa53950d86a0"}
 ]},
 "280":{"nexusModName":"Origin Unlocker and Warlock Fireball - TEST","nexusUploadedBy":"Gryffindor777","nexusModId":280,"paks":[
 {"nexusFileName":"ORIGIN UNLOCKER and WARLOCK FIREBALL","nexusFileVersion":"1","pakFileName":"Gustav.pak","nexusFileId":2180,"metaUuid":null},
@@ -65023,6 +65023,9 @@
 "23192":{"nexusModName":"Elemental Flow - a complete rework of Monk (Way of the Four Elements)","nexusUploadedBy":"dddzmpzmp","nexusModId":23192,"paks":[
 {"nexusFileName":"Elemental Flow v1.0.0","nexusFileVersion":"1","pakFileName":"Elemental_Flow_1_0_0.pak","nexusFileId":122723,"metaUuid":null}
 ]},
+"23194":{"nexusModName":"Mazzle's Group Climbing Fix","nexusUploadedBy":"Mazzle23","nexusModId":23194,"paks":[
+{"nexusFileName":"Mazzle Group Climbing 1.0.2","nexusFileVersion":"1.0.2","pakFileName":"Mazzle_Group_Climbing.pak","nexusFileId":122801,"metaUuid":null}
+]},
 "23197":{"nexusModName":"5e Barbarian Subclasses Combined JP","nexusUploadedBy":"Akazonae36","nexusModId":23197,"paks":[
 {"nexusFileName":"5e Barbarian Subclasses Combined JP","nexusFileVersion":"1","pakFileName":"5e Barbarian Subclasses5e Combined_JP.pak","nexusFileId":122711,"metaUuid":null}
 ]},
@@ -65052,4 +65055,7 @@
 ]},
 "23210":{"nexusModName":"Bow Lingerie","nexusUploadedBy":"meepmeganmeep","nexusModId":23210,"paks":[
 {"nexusFileName":"Bow Lingerie","nexusFileVersion":"1","pakFileName":"Bow_Lingerie_3b1720a9-53cb-3d42-7470-39e36667bc94.pak","nexusFileId":122799,"metaUuid":null}
+]},
+"23211":{"nexusModName":"CHAR's Ribbon Requiem Outfit","nexusUploadedBy":"char","nexusModId":23211,"paks":[
+{"nexusFileName":"Ribbon Requiem","nexusFileVersion":"1","pakFileName":"CHAR_RibbonRequiem_4a01a3ac-31cb-374b-3189-0104df9b7dc6.pak","nexusFileId":122803,"metaUuid":null}
 ]}}
