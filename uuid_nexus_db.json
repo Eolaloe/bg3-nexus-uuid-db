@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-06-05T16:52:04.045316+00:00","total_mods":16452},
+{"_meta":{"last_run":"2026-06-05T17:52:14.480933+00:00","total_mods":16453},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -33150,7 +33150,7 @@
 {"nexusFileName":"Encounters Overhaul Compatibility Patch","nexusFileVersion":"4.0.0.0","pakFileName":"ManyMoreMonsters_EOPatch.pak","nexusFileId":122787,"metaUuid":null},
 {"nexusFileName":"Variable HP","nexusFileVersion":"4.0.0.0","pakFileName":"ManyMoreMonsters_VariableHP.pak","nexusFileId":122788,"metaUuid":null},
 {"nexusFileName":"Zero Exp","nexusFileVersion":"4.0.0.0","pakFileName":"ManyMoreMonsters_ZeroExp.pak","nexusFileId":122789,"metaUuid":null},
-{"nexusFileName":"Many More Monsters","nexusFileVersion":"4.0.0.0","pakFileName":"ManyMoreMonsters.pak","nexusFileId":122790,"metaUuid":"1b215646-6200-451a-9c4a-b21406f69edd"}
+{"nexusFileName":"Many More Monsters","nexusFileVersion":"4.1.1.0","pakFileName":"ManyMoreMonsters.pak","nexusFileId":122864,"metaUuid":"1b215646-6200-451a-9c4a-b21406f69edd"}
 ]},
 "11640":{"nexusModName":"Hellish Rebuke for Karlach","nexusUploadedBy":"robogena","nexusModId":11640,"paks":[
 {"nexusFileName":"Hellish Rebuke for Karlach","nexusFileVersion":"2.0","pakFileName":"robogena_HellishRebukeforKarlach.pak","nexusFileId":72001,"metaUuid":null}
@@ -38559,7 +38559,8 @@
 {"nexusFileName":"(Face) Bambi's Antonella (patreon. free)","nexusFileVersion":"compatibility-3.2","pakFileName":"Bambi's Antonella @SN.pak","nexusFileId":121324,"metaUuid":null},
 {"nexusFileName":"(Face) Bambi's Hazel (patreon. free)","nexusFileVersion":"compatibility-3.2","pakFileName":"Bambi's Hazel @SN.pak","nexusFileId":121327,"metaUuid":null},
 {"nexusFileName":"(Face) Bambi's Heads 1 (15428)","nexusFileVersion":"compatibility-3.2","pakFileName":"Bambi's Heads 1 @SN.pak","nexusFileId":121329,"metaUuid":null},
-{"nexusFileName":"Beyond Simple Nymph","nexusFileVersion":"2.3.10.515","pakFileName":"SimpleNymph.pak","nexusFileId":121847,"metaUuid":null}
+{"nexusFileName":"Beyond Simple Nymph","nexusFileVersion":"2.3.10.515","pakFileName":"SimpleNymph.pak","nexusFileId":121847,"metaUuid":null},
+{"nexusFileName":"(Hair) LM Hairstyles (patreon. free)","nexusFileVersion":"compatibility-3.2","pakFileName":"PK_Hair_Pack_2 @SN.pak","nexusFileId":122858,"metaUuid":null}
 ]},
 "13683":{"nexusModName":"LeggyEquip_SHV_CHS","nexusUploadedBy":"shenshengxuweiduo","nexusModId":13683,"paks":[
 {"nexusFileName":"LeggyEquip_SHV_CHS","nexusFileVersion":"1.1.1.0","pakFileName":"LeggyEquip_SHV_CHS.pak","nexusFileId":78260,"metaUuid":null}
@@ -61811,7 +61812,8 @@
 {"nexusFileName":"Minthara Auto-Knockout - Full Auto for Japanese","nexusFileVersion":"1.0.1.7","pakFileName":"Minthara_Auto-KO_Full_Auto_jp.pak","nexusFileId":119155,"metaUuid":null}
 ]},
 "21906":{"nexusModName":"5rdnd2024 Spell cast rule","nexusUploadedBy":"Ruojo","nexusModId":21906,"paks":[
-{"nexusFileName":"SpellRuleRebalance_2e5ded1f-7228-267d-aa99-c22eb21","nexusFileVersion":"1.0.0.0","pakFileName":"SpellRuleRebalance_2e5ded1f-7228-267d-aa99-c22eb2147450.pak","nexusFileId":116844,"metaUuid":null}
+{"nexusFileName":"SpellRuleRebalance_2e5ded1f-7228-267d-aa99-c22eb21","nexusFileVersion":"1.0.0.1","pakFileName":"SpellRuleRebalance_2e5ded1f-7228-267d-aa99-c22eb2147450.pak","nexusFileId":122859,"metaUuid":null},
+{"nexusFileName":"SpellDriverFeatEnhance","nexusFileVersion":"1.0.0.1","pakFileName":"SpellDriverFeatEnhance.pak","nexusFileId":122861,"metaUuid":null}
 ]},
 "21908":{"nexusModName":"NoRacialRequirementGear for Korean","nexusUploadedBy":"Eolaloe","nexusModId":21908,"paks":[
 {"nexusFileName":"NoRacialRequirementGear for Korean","nexusFileVersion":"1.0.1","pakFileName":"NoRacialRequirementGear_kr.pak","nexusFileId":116857,"metaUuid":null}
@@ -65081,4 +65083,7 @@
 ]},
 "23219":{"nexusModName":"Toggleable Dire Raven Darkness","nexusUploadedBy":"koboldJuno","nexusModId":23219,"paks":[
 {"nexusFileName":"Toggleable Dire Raven Fly","nexusFileVersion":"1.0","pakFileName":"ToggleableDireRavenFly.pak","nexusFileId":122851,"metaUuid":null}
+]},
+"23221":{"nexusModName":"Grim Surgeon Rogue Subclass_JP","nexusUploadedBy":"Akazonae36","nexusModId":23221,"paks":[
+{"nexusFileName":"Grim Surgeon Rogue Subclass JP","nexusFileVersion":"1","pakFileName":"Grim Surgeon Rogue Subclass_JP.pak","nexusFileId":122863,"metaUuid":null}
 ]}}
