@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-06-05T05:52:27.680063+00:00","total_mods":16447},
+{"_meta":{"last_run":"2026-06-05T06:52:19.337319+00:00","total_mods":16448},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -18368,7 +18368,7 @@
 {"nexusFileName":"Remington 870","nexusFileVersion":"1.0.0","pakFileName":"P33_Remington.pak","nexusFileId":41119,"metaUuid":null}
 ]},
 "5830":{"nexusModName":"Orin Origin Dark Urge","nexusUploadedBy":"Elmvick","nexusModId":5830,"paks":[
-{"nexusFileName":"Orin Origin Dark Urge","nexusFileVersion":"1.3.3","pakFileName":"Orin.pak","nexusFileId":122826,"metaUuid":null}
+{"nexusFileName":"Orin Origin Dark Urge","nexusFileVersion":"1.3.4","pakFileName":"Orin.pak","nexusFileId":122831,"metaUuid":null}
 ]},
 "5831":{"nexusModName":"Learn Become the Bulwark","nexusUploadedBy":"BitterPast","nexusModId":5831,"paks":[
 {"nexusFileName":"Learn Become the Bulwark","nexusFileVersion":"1.0.0","pakFileName":"LearnBecomeTheBulwark.pak","nexusFileId":39224,"metaUuid":null}
@@ -64464,7 +64464,7 @@
 {"nexusFileName":"SpellSmithClass BR","nexusFileVersion":"2.3","pakFileName":"SpellSmithClass_BR.pak","nexusFileId":121516,"metaUuid":null}
 ]},
 "22925":{"nexusModName":"Ascended Transforms","nexusUploadedBy":"moxifer3","nexusModId":22925,"paks":[
-{"nexusFileName":"Ascended Transforms","nexusFileVersion":"1.1","pakFileName":"MOXI_Ascended_Transforms.pak","nexusFileId":122446,"metaUuid":null}
+{"nexusFileName":"Ascended Transforms 1.2","nexusFileVersion":"1.2","pakFileName":"MOXI_Ascended_Transforms.pak","nexusFileId":122833,"metaUuid":null}
 ]},
 "22926":{"nexusModName":"Add Aura of Hate to Oath of Vengeance Paladin","nexusUploadedBy":"Yuri8","nexusModId":22926,"paks":[
 {"nexusFileName":"AuraOfVengeance","nexusFileVersion":"1","pakFileName":"AuraOfVengeance.pak","nexusFileId":121527,"metaUuid":null}
@@ -65065,4 +65065,7 @@
 "23213":{"nexusModName":"Blood-Soaked Lunatics and Tools of Bhaal (CPF Settings)","nexusUploadedBy":"CaylePolin","nexusModId":23213,"paks":[
 {"nexusFileName":"The Tools of Bhaal","nexusFileVersion":"1","pakFileName":"CPF_ThePatriarofBhaal_WeakLittleBarben_a1771422-6f.pak","nexusFileId":122820,"metaUuid":null},
 {"nexusFileName":"Blood-Soaked Lunatics","nexusFileVersion":"1","pakFileName":"CPF_Brithmaur_Barben_6209189d-a814-400f-b341-c8c4c.pak","nexusFileId":122821,"metaUuid":null}
+]},
+"23216":{"nexusModName":"SoloLeveling - Shadow Monarch MCM - PTBR","nexusUploadedBy":"BarovZx","nexusModId":23216,"paks":[
+{"nexusFileName":"Solo Leveling PTBR","nexusFileVersion":"04.06.2026","pakFileName":"Solo Leveling PTBR.pak","nexusFileId":122832,"metaUuid":null}
 ]}}
