@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-06-05T21:51:58.945853+00:00","total_mods":16458},
+{"_meta":{"last_run":"2026-06-05T22:52:06.568246+00:00","total_mods":16459},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -57297,8 +57297,8 @@
 {"nexusFileName":"Slipping Through My Fingers","nexusFileVersion":"1.1.1","pakFileName":"SlippingThroughMyFingers_eb1b8fe4-09cd-5f83-b201-4a2bb748d8a8.pak","nexusFileId":110493,"metaUuid":null}
 ]},
 "20343":{"nexusModName":"LootAura - Loot Pickup Aura with In-World Tooltips","nexusUploadedBy":"pokersillo","nexusModId":20343,"paks":[
-{"nexusFileName":"LootAura - Loot Pickup Aura with In-World Tooltips","nexusFileVersion":"8.4.2.5","pakFileName":"LootAura - Loot Pickup Aura with In-World Tooltips.pak","nexusFileId":116418,"metaUuid":null},
-{"nexusFileName":"Loot Pickup Aura WITHOUT In-World Tooltips","nexusFileVersion":"8.4.2.5","pakFileName":"LootAura - Loot Pickup Aura WITHOUT In-World Tooltips.pak","nexusFileId":116443,"metaUuid":null}
+{"nexusFileName":"Loot Pickup Aura WITHOUT In-World Tooltips","nexusFileVersion":"8.4.2.6","pakFileName":"LootAura - Loot Pickup Aura WITHOUT In-World Tooltips.pak","nexusFileId":122879,"metaUuid":null},
+{"nexusFileName":"LootAura - Loot Pickup Aura with In-World Tooltips","nexusFileVersion":"8.4.2.6","pakFileName":"LootAura - Loot Pickup Aura with In-World Tooltips.pak","nexusFileId":122880,"metaUuid":null}
 ]},
 "20344":{"nexusModName":"PHB2024 - Bigby Presents Glory of the Giants Feats and Backgrounds","nexusUploadedBy":"holypolarpanda","nexusModId":20344,"paks":[
 {"nexusFileName":"PHB2024_BigbyPresents_Backgrounds_Feats","nexusFileVersion":"v1.1.0","pakFileName":"PHB2024_BigbyPresents_Backgrounds_Feats.pak","nexusFileId":112644,"metaUuid":null}
@@ -63740,7 +63740,7 @@
 {"nexusFileName":"HT_NoWoundFlaresDuringPartyBanter","nexusFileVersion":"1.0.0.10","pakFileName":"HT_ShutUpShar_9c09be69-50e8-cfcf-cea9-1576947a6a2d.pak","nexusFileId":121599,"metaUuid":"9c09be69-50e8-cfcf-cea9-1576947a6a2d"}
 ]},
 "22615":{"nexusModName":"5eSpells and Expansion - Japanese","nexusUploadedBy":"hawchangJA","nexusModId":22615,"paks":[
-{"nexusFileName":"5eSpells And Expansion Level 13 20   Japanese","nexusFileVersion":"2.4.3.0-3.4","pakFileName":"5eSpells and Expansion Level 13-20 - Japanese.pak","nexusFileId":122513,"metaUuid":null}
+{"nexusFileName":"5eSpells And Expansion Level 13 20   Japanese","nexusFileVersion":"2.4.3.0-3.5","pakFileName":"5eSpells and Expansion Level 13-20 - Japanese.pak","nexusFileId":122878,"metaUuid":null}
 ]},
 "22616":{"nexusModName":"5eSpells and Expansion Patch_KOR","nexusUploadedBy":"Ahdarugo","nexusModId":22616,"paks":[
 {"nexusFileName":"5eSpellsExpansionLevelPatch KOR","nexusFileVersion":"2.4.3.0","pakFileName":"5eSpellsExpansionLevelPatch_KOR.pak","nexusFileId":122193,"metaUuid":null}
@@ -64592,6 +64592,16 @@
 ]},
 "22999":{"nexusModName":"Fallen Midas Outfit","nexusUploadedBy":"Lyniara","nexusModId":22999,"paks":[
 {"nexusFileName":"Fallen Midas Outfit","nexusFileVersion":"1.2","pakFileName":"LynFallenMidas.pak","nexusFileId":121848,"metaUuid":null}
+]},
+"23000":{"nexusModName":"Soft Eyes - EOTB Preset","nexusUploadedBy":"Lyniara","nexusModId":23000,"paks":[
+{"nexusFileName":"LYN Soft Eyes   Base","nexusFileVersion":"1","pakFileName":"LYN_Soft_Eyes.pak","nexusFileId":121851,"metaUuid":null},
+{"nexusFileName":"LYN Soft Eyes   Cat","nexusFileVersion":"1","pakFileName":"LYN_Soft_Eyes - Cat.pak","nexusFileId":121852,"metaUuid":null},
+{"nexusFileName":"LYN Soft Eyes   Circle","nexusFileVersion":"1","pakFileName":"LYN_Soft_Eyes - Circle.pak","nexusFileId":121853,"metaUuid":null},
+{"nexusFileName":"LYN Soft Eyes   Goat","nexusFileVersion":"1","pakFileName":"LYN_Soft_Eyes - Goat.pak","nexusFileId":121854,"metaUuid":null},
+{"nexusFileName":"LYN Soft Eyes   Heart","nexusFileVersion":"1","pakFileName":"LYN_Soft_Eyes - Heart.pak","nexusFileId":121855,"metaUuid":null},
+{"nexusFileName":"LYN Soft Eyes   Slit","nexusFileVersion":"1","pakFileName":"LYN_Soft_Eyes - Slit.pak","nexusFileId":121856,"metaUuid":null},
+{"nexusFileName":"LYN Soft Eyes   Sparkles","nexusFileVersion":"1","pakFileName":"LYN_Soft_Eyes - Sparkles.pak","nexusFileId":121857,"metaUuid":null},
+{"nexusFileName":"LYN Soft Eyes   Star","nexusFileVersion":"1","pakFileName":"LYN_Soft_Eyes - Star.pak","nexusFileId":121858,"metaUuid":null}
 ]},
 "23002":{"nexusModName":"Patch Edit for True Darkness 5e RAW_KOR","nexusUploadedBy":"Ahdarugo","nexusModId":23002,"paks":[
 {"nexusFileName":"TrueDarkness KOR","nexusFileVersion":"1","pakFileName":"TrueDarkness_KOR.pak","nexusFileId":121879,"metaUuid":null}
