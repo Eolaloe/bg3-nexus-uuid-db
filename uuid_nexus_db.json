@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-06-04T23:52:25.757370+00:00","total_mods":16446},
+{"_meta":{"last_run":"2026-06-05T00:52:27.930242+00:00","total_mods":16446},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -25064,7 +25064,8 @@
 {"nexusFileName":"Thunderstone","nexusFileVersion":"1","pakFileName":"Thunderstone.pak","nexusFileId":82099,"metaUuid":null}
 ]},
 "8435":{"nexusModName":"Vemperen's heads with fangs","nexusUploadedBy":"AGbunny","nexusModId":8435,"paks":[
-{"nexusFileName":"Vemperen Heads Fixed","nexusFileVersion":"1","pakFileName":"Vemperen_Heads_Fixed.pak","nexusFileId":122752,"metaUuid":null}
+{"nexusFileName":"Vemperen Heads with fangs","nexusFileVersion":"2","pakFileName":"Vemperen_fangs.pak","nexusFileId":122811,"metaUuid":null},
+{"nexusFileName":"Vemperen Heads Fixed fangs 2 back up","nexusFileVersion":"1","pakFileName":"Vemperen_Heads_Fixed.pak","nexusFileId":122815,"metaUuid":null}
 ]},
 "8436":{"nexusModName":"Bloody Demonic Equipment - Reimagined - PTBR","nexusUploadedBy":"RowenaRaweclaw","nexusModId":8436,"paks":[
 {"nexusFileName":"Bloody Demonic Equipment - Reimagined - PTBR","nexusFileVersion":"2.0","pakFileName":"AwakeningBloodyRebuilded-PTBR.pak","nexusFileId":52250,"metaUuid":null}
@@ -42717,7 +42718,7 @@
 {"nexusFileName":"No StackID Patch","nexusFileVersion":"1.0","pakFileName":"robogena_CreationsEchoFix_zNoStackID.pak","nexusFileId":86928,"metaUuid":null}
 ]},
 "15266":{"nexusModName":"Way of the Four Elements Monk Overhaul","nexusUploadedBy":"Hackedmojo","nexusModId":15266,"paks":[
-{"nexusFileName":"Way of the Elements Monk Overhaul","nexusFileVersion":"2.3.0.49","pakFileName":"FourElementsMonk_13-20_2b79fdb0-2104-4ee4-a0f6-75da55d4eafe.pak","nexusFileId":122660,"metaUuid":null}
+{"nexusFileName":"Way of the Elements Monk Overhaul","nexusFileVersion":"2.3.0.54","pakFileName":"FourElementsMonk_13-20_2b79fdb0-2104-4ee4-a0f6-75da55d4eafe.pak","nexusFileId":122813,"metaUuid":null}
 ]},
 "15267":{"nexusModName":"Chaos and Control - Sorcerer Equipment - Ukrainian Translation","nexusUploadedBy":"PONYDIET","nexusModId":15267,"paks":[
 {"nexusFileName":"Chaos and Control Sorcerer Equipment Ukr","nexusFileVersion":"1.0.0.0","pakFileName":"Chaos and Control Sorcerer Equipment Ukrainian Translation.pak","nexusFileId":86932,"metaUuid":null}
@@ -63717,7 +63718,7 @@
 "22606":{"nexusModName":"Blood in the Water - Pirate Queen SBBF Rus","nexusUploadedBy":"DarSamedi","nexusModId":22606,"paks":[
 {"nexusFileName":"CL PirateQueen Rus","nexusFileVersion":"1.0.0.40","pakFileName":"CL_PirateQueen_rus.pak","nexusFileId":120496,"metaUuid":null}
 ]},
-"22607":{"nexusModName":"CombatBodysuit_Core","nexusUploadedBy":"zxccxzzxcasdq","nexusModId":22607,"paks":[
+"22607":{"nexusModName":"CombatBodysuit_Core","nexusUploadedBy":"EvilRecluse","nexusModId":22607,"paks":[
 {"nexusFileName":"CombatBodysuit Core","nexusFileVersion":"1","pakFileName":"CombatBodysuit_Core.pak","nexusFileId":120233,"metaUuid":null}
 ]},
 "22608":{"nexusModName":"The Fairy Garden Tea Party - A Map for VP","nexusUploadedBy":"inkyplz","nexusModId":22608,"paks":[
@@ -63804,10 +63805,10 @@
 "22639":{"nexusModName":"Infinitum Scroll","nexusUploadedBy":"wqlgh","nexusModId":22639,"paks":[
 {"nexusFileName":"Infinitum Scroll","nexusFileVersion":"1","pakFileName":"InfinitumScroll_8f3c231e-a491-82ef-414b-cd12d32fc0a7.pak","nexusFileId":120217,"metaUuid":null}
 ]},
-"22640":{"nexusModName":"CombatBodysuit_StellarBlade_RavenNanosuit","nexusUploadedBy":"zxccxzzxcasdq","nexusModId":22640,"paks":[
+"22640":{"nexusModName":"CombatBodysuit_StellarBlade_RavenNanosuit","nexusUploadedBy":"EvilRecluse","nexusModId":22640,"paks":[
 {"nexusFileName":"CombatBodysuit StellarBlade RavenNanosuit","nexusFileVersion":"1","pakFileName":"CombatBodysuit_StellarBlade_RavenNanosuit.pak","nexusFileId":120234,"metaUuid":null}
 ]},
-"22641":{"nexusModName":"CombatBodysuit_TheFirstDescendant_GelyThirster","nexusUploadedBy":"zxccxzzxcasdq","nexusModId":22641,"paks":[
+"22641":{"nexusModName":"CombatBodysuit_TheFirstDescendant_GelyThirster","nexusUploadedBy":"EvilRecluse","nexusModId":22641,"paks":[
 {"nexusFileName":"CombatBodysuit TheFirstDescendant GelyThirster","nexusFileVersion":"1","pakFileName":"CombatBodysuit_TheFirstDescendant_GelyThirster.pak","nexusFileId":120238,"metaUuid":null}
 ]},
 "22642":{"nexusModName":"Planar Equality","nexusUploadedBy":"adriant1978","nexusModId":22642,"paks":[
@@ -63876,7 +63877,7 @@
 {"nexusFileName":"AberrantMind TH","nexusFileVersion":"1","pakFileName":"AberrantMind_TH.pak","nexusFileId":120330,"metaUuid":null},
 {"nexusFileName":"AberrantMind ENG(Thai)","nexusFileVersion":"1","pakFileName":"AberrantMind_ENG(Thai).pak","nexusFileId":120331,"metaUuid":null}
 ]},
-"22668":{"nexusModName":"CombatBodysuit_OverHit_Lilietta","nexusUploadedBy":"zxccxzzxcasdq","nexusModId":22668,"paks":[
+"22668":{"nexusModName":"CombatBodysuit_OverHit_Lilietta","nexusUploadedBy":"EvilRecluse","nexusModId":22668,"paks":[
 {"nexusFileName":"CombatBodysuit OverHit Lilietta","nexusFileVersion":"1","pakFileName":"CombatBodysuit_OverHit_Lilietta.pak","nexusFileId":120338,"metaUuid":null}
 ]},
 "22669":{"nexusModName":"Ring of Unified Sigils ITA","nexusUploadedBy":"Rahl81","nexusModId":22669,"paks":[
@@ -63915,7 +63916,7 @@
 "22679":{"nexusModName":"Shadowheart edit","nexusUploadedBy":"kudamix12","nexusModId":22679,"paks":[
 {"nexusFileName":"Hadowheart edit","nexusFileVersion":"1.0","pakFileName":"CPF_Shadowheartjohancustom_1ec6b3c0-5a0a-4887-93f0.pak","nexusFileId":120373,"metaUuid":null}
 ]},
-"22680":{"nexusModName":"CombatBodysuit_TheFirstDescendant_Bunny","nexusUploadedBy":"zxccxzzxcasdq","nexusModId":22680,"paks":[
+"22680":{"nexusModName":"CombatBodysuit_TheFirstDescendant_Bunny","nexusUploadedBy":"EvilRecluse","nexusModId":22680,"paks":[
 {"nexusFileName":"CombatBodysuit TheFirstDescendant Bunny","nexusFileVersion":"1","pakFileName":"CombatBodysuit_TheFirstDescendant_Bunny.pak","nexusFileId":120379,"metaUuid":null}
 ]},
 "22681":{"nexusModName":"Yuan-ti Purebloods (Redux) - Spanish","nexusUploadedBy":"elalejin","nexusModId":22681,"paks":[
@@ -64168,7 +64169,7 @@
 "22783":{"nexusModName":"Sphinx Class","nexusUploadedBy":"oaklei","nexusModId":22783,"paks":[
 {"nexusFileName":"Sphinx class","nexusFileVersion":"2","pakFileName":"Sphinx_8e27345a-f679-4f14-4a22-dd0b425472b2.pak","nexusFileId":122391,"metaUuid":null}
 ]},
-"22785":{"nexusModName":"CombatBodysuit_TheFirstDescendant_BunnyApePredator","nexusUploadedBy":"zxccxzzxcasdq","nexusModId":22785,"paks":[
+"22785":{"nexusModName":"CombatBodysuit_TheFirstDescendant_BunnyApePredator","nexusUploadedBy":"EvilRecluse","nexusModId":22785,"paks":[
 {"nexusFileName":"CombatBodysuit TheFirstDescendant BunnyApePredator","nexusFileVersion":"1","pakFileName":"CombatBodysuit_TheFirstDescendant_BunnyApePredator.pak","nexusFileId":120888,"metaUuid":null}
 ]},
 "22786":{"nexusModName":"Valkrana's Necrobroker - Wizard Subclass - Spanish","nexusUploadedBy":"elalejin","nexusModId":22786,"paks":[
@@ -64522,7 +64523,7 @@
 "22966":{"nexusModName":"Transformer Flute-CHS","nexusUploadedBy":"AgleafSdan","nexusModId":22966,"paks":[
 {"nexusFileName":"Transformer Flute CHS","nexusFileVersion":"2","pakFileName":"Transformer Flute-CHS.pak","nexusFileId":122283,"metaUuid":null}
 ]},
-"22967":{"nexusModName":"CombatBodysuit_AscendantOne_Artemis","nexusUploadedBy":"zxccxzzxcasdq","nexusModId":22967,"paks":[
+"22967":{"nexusModName":"CombatBodysuit_AscendantOne_Artemis","nexusUploadedBy":"EvilRecluse","nexusModId":22967,"paks":[
 {"nexusFileName":"CombatBodysuit AscendantOne Artemis","nexusFileVersion":"2","pakFileName":"CombatBodysuit_AscendantOne_Artemis.pak","nexusFileId":122033,"metaUuid":null}
 ]},
 "22968":{"nexusModName":"Necromancer Warlock - The Dread Overlord - Hotfix 36 Compatible - PTBR (2026)","nexusUploadedBy":"BarovZx","nexusModId":22968,"paks":[
@@ -65047,11 +65048,12 @@
 "23206":{"nexusModName":"Faithfully Fixed Slayer Form","nexusUploadedBy":"Sw1shyFishy","nexusModId":23206,"paks":[
 {"nexusFileName":"SwishyFishy Slayer","nexusFileVersion":"1","pakFileName":"SwishyFishy_Slayer_v2.pak","nexusFileId":122795,"metaUuid":null}
 ]},
-"23207":{"nexusModName":"CombatBodysuit_TheFirstDescendant_Ines","nexusUploadedBy":"zxccxzzxcasdq","nexusModId":23207,"paks":[
+"23207":{"nexusModName":"CombatBodysuit_TheFirstDescendant_Ines","nexusUploadedBy":"EvilRecluse","nexusModId":23207,"paks":[
 {"nexusFileName":"CombatBodysuit TheFirstDescendant Ines","nexusFileVersion":"1","pakFileName":"CombatBodysuit_TheFirstDescendant_Ines.pak","nexusFileId":122793,"metaUuid":null}
 ]},
 "23209":{"nexusModName":"Baldur's City - A Custom Map for VP","nexusUploadedBy":"inkyplz","nexusModId":23209,"paks":[
-{"nexusFileName":"Baldur's City","nexusFileVersion":"1.0.0.8","pakFileName":"Inky_City_85c29afa-6022-a72b-d063-d6e75d06f984.pak","nexusFileId":122800,"metaUuid":null}
+{"nexusFileName":"Baldur's City","nexusFileVersion":"1.0.0.8","pakFileName":"Inky_City_85c29afa-6022-a72b-d063-d6e75d06f984.pak","nexusFileId":122800,"metaUuid":null},
+{"nexusFileName":"Baldur's City - 1.0.0.10","nexusFileVersion":"1.0.0.10","pakFileName":"Inky_City_85c29afa-6022-a72b-d063-d6e75d06f984.pak","nexusFileId":122814,"metaUuid":null}
 ]},
 "23210":{"nexusModName":"Bow Lingerie","nexusUploadedBy":"meepmeganmeep","nexusModId":23210,"paks":[
 {"nexusFileName":"Bow Lingerie","nexusFileVersion":"1","pakFileName":"Bow_Lingerie_3b1720a9-53cb-3d42-7470-39e36667bc94.pak","nexusFileId":122799,"metaUuid":null}
