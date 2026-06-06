@@ -1,0 +1,3266 @@
+[
+  {
+    "pakFileName": "4MASKS.pak",
+    "metaUuid": "36313e59-2915-42d8-a15b-0be1e8ee47ec",
+    "nexusModId": 10505,
+    "nexusFileId": 67016
+  },
+  {
+    "pakFileName": "5e Harm.pak",
+    "metaUuid": "51794555-cae8-48e1-831c-a73e1ab25200",
+    "nexusModId": 14987,
+    "nexusFileId": 85811
+  },
+  {
+    "pakFileName": "5eSpells Last Until Long Rest.pak",
+    "metaUuid": "cebd65f7-ee40-4153-8a9e-a6dfa587a30e",
+    "nexusModId": 1337,
+    "nexusFileId": 23413
+  },
+  {
+    "pakFileName": "5R_FountofMoonlight_AllClasses.pak",
+    "metaUuid": "a5357edb-371f-4044-9367-609a68594500",
+    "nexusModId": 11543,
+    "nexusFileId": 99310
+  },
+  {
+    "pakFileName": "5R_StarryWisp_AllClasses.pak",
+    "metaUuid": "5d84a197-0ef5-4d89-b97a-d5b9fd9b8763",
+    "nexusModId": 11464,
+    "nexusFileId": 99318
+  },
+  {
+    "pakFileName": "============================================================[                              BACKGROUNDS                              ].pak",
+    "metaUuid": "2bfb4ecc-46e5-4fbc-89cf-d777ff5278ab",
+    "nexusModId": 5977,
+    "nexusFileId": 41438
+  },
+  {
+    "pakFileName": "============================================================[                              CHARACTER  CREATOR                              ].pak",
+    "metaUuid": "039e452e-0065-4a47-998b-957740a7473a",
+    "nexusModId": 5977,
+    "nexusFileId": 41438
+  },
+  {
+    "pakFileName": "============================================================[                              CHARACTERS                              ].pak",
+    "metaUuid": "b259b806-ee36-402d-a941-67c141e677b1",
+    "nexusModId": 5977,
+    "nexusFileId": 41438
+  },
+  {
+    "pakFileName": "============================================================[                              CHEATS                              ].pak",
+    "metaUuid": "ff60bde3-c42c-46b5-9fb6-74617b1f79a1",
+    "nexusModId": 5977,
+    "nexusFileId": 41438
+  },
+  {
+    "pakFileName": "============================================================[                              CLOTHING                              ].pak",
+    "metaUuid": "baed6853-ab4e-4ac8-8790-0c8b53d602e0",
+    "nexusModId": 5977,
+    "nexusFileId": 41438
+  },
+  {
+    "pakFileName": "============================================================[                              COSMETICS                              ].pak",
+    "metaUuid": "84650f02-478e-42b9-9ffc-76c1515eb583",
+    "nexusModId": 5977,
+    "nexusFileId": 41438
+  },
+  {
+    "pakFileName": "============================================================[                              DEITIES                              ].pak",
+    "metaUuid": "7cd9922f-de88-4a0d-a7b3-e6c7fed5e999",
+    "nexusModId": 5977,
+    "nexusFileId": 41438
+  },
+  {
+    "pakFileName": "============================================================[                              DEVELOPER                              ].pak",
+    "metaUuid": "9885ed3f-4384-48a7-aab3-fc0e16523a6d",
+    "nexusModId": 5977,
+    "nexusFileId": 41438
+  },
+  {
+    "pakFileName": "============================================================[                              FIXES                              ].pak",
+    "metaUuid": "c8961316-b2af-4fc2-85f8-b2309e15fb5f",
+    "nexusModId": 5977,
+    "nexusFileId": 41438
+  },
+  {
+    "pakFileName": "============================================================[                              FRAMEWORKS                              ].pak",
+    "metaUuid": "c00e17f7-87cb-4d22-8bc0-ededcfe13392",
+    "nexusModId": 5977,
+    "nexusFileId": 41438
+  },
+  {
+    "pakFileName": "============================================================[                              GEAR                              ].pak",
+    "metaUuid": "c589f5d3-b477-4e6d-8ae7-5ea0f351ce0b",
+    "nexusModId": 5977,
+    "nexusFileId": 41438
+  },
+  {
+    "pakFileName": "============================================================[                              LIBRARIES                              ].pak",
+    "metaUuid": "8f6dfb4a-6581-4269-9a29-640d177711c0",
+    "nexusModId": 5977,
+    "nexusFileId": 41438
+  },
+  {
+    "pakFileName": "============================================================[                              MISCELLANEOUS                              ].pak",
+    "metaUuid": "9d5a2903-9cf2-4eb9-b04d-87b7a79dd522",
+    "nexusModId": 5977,
+    "nexusFileId": 41438
+  },
+  {
+    "pakFileName": "============================================================[                              OVERHAULS                              ].pak",
+    "metaUuid": "60e9de6e-6547-4367-8889-f5ed82d0deb4",
+    "nexusModId": 5977,
+    "nexusFileId": 41438
+  },
+  {
+    "pakFileName": "============================================================[                              PATCHES                              ].pak",
+    "metaUuid": "3ef321fd-1189-4941-87e4-cf646c211d30",
+    "nexusModId": 5977,
+    "nexusFileId": 41438
+  },
+  {
+    "pakFileName": "============================================================[                              REWORKS                              ].pak",
+    "metaUuid": "66602b89-ced0-45d7-ba75-16cb8d3c4e8c",
+    "nexusModId": 5977,
+    "nexusFileId": 41438
+  },
+  {
+    "pakFileName": "============================================================[                              SPELLS                              ].pak",
+    "metaUuid": "c1868d8a-5087-4c0b-aa88-4b7ef74c5e35",
+    "nexusModId": 5977,
+    "nexusFileId": 41438
+  },
+  {
+    "pakFileName": "============================================================[                              SUBCLASSES                              ].pak",
+    "metaUuid": "98be52ff-c06b-4774-94cd-9b62968eb73a",
+    "nexusModId": 5977,
+    "nexusFileId": 41438
+  },
+  {
+    "pakFileName": "============================================================[                              SUBRACES                              ].pak",
+    "metaUuid": "df4aa120-298b-49f9-85bb-12970ba9f30d",
+    "nexusModId": 5977,
+    "nexusFileId": 41438
+  },
+  {
+    "pakFileName": "============================================================[                              TOOLS                              ].pak",
+    "metaUuid": "33ad92d2-fddf-48f3-95d1-2cd8a351e8dc",
+    "nexusModId": 5977,
+    "nexusFileId": 41438
+  },
+  {
+    "pakFileName": "============================================================[                              UNSORTED                              ].pak",
+    "metaUuid": "906e9fd7-038e-4694-9295-2c4ee2d2db86",
+    "nexusModId": 5977,
+    "nexusFileId": 41438
+  },
+  {
+    "pakFileName": "============================================================[                              UTILITIES                              ].pak",
+    "metaUuid": "4d7f53d5-7073-4774-b9c6-81571a793d09",
+    "nexusModId": 5977,
+    "nexusFileId": 41438
+  },
+  {
+    "pakFileName": "============================================================[                              WEAPONS                              ].pak",
+    "metaUuid": "253afc0a-97b3-4759-9bf0-00fba728f6e7",
+    "nexusModId": 5977,
+    "nexusFileId": 41438
+  },
+  {
+    "pakFileName": "============================================================[ ... Custom Races ... ].pak",
+    "metaUuid": "a37e2322-9232-410f-9ed0-c9d897f60ec3",
+    "nexusModId": 5977,
+    "nexusFileId": 41438
+  },
+  {
+    "pakFileName": "============================================================[[                    ACCESSORIES                      ]].pak",
+    "metaUuid": "81cca0ce-a866-4731-8da2-486f3a2ce52d",
+    "nexusModId": 5977,
+    "nexusFileId": 41438
+  },
+  {
+    "pakFileName": "============================================================[[                    ARMOR                      ]].pak",
+    "metaUuid": "740cff00-8130-4cda-ac07-a5a96898af7c",
+    "nexusModId": 5977,
+    "nexusFileId": 41438
+  },
+  {
+    "pakFileName": "============================================================[[                    BODIES                      ]].pak",
+    "metaUuid": "dede2e2d-24ee-49cc-8a4f-82d2e7bfe6da",
+    "nexusModId": 5977,
+    "nexusFileId": 41438
+  },
+  {
+    "pakFileName": "============================================================[[                    COLORS                      ]].pak",
+    "metaUuid": "71cc9bdb-fe98-4818-8bad-b085cc5ba8f1",
+    "nexusModId": 5977,
+    "nexusFileId": 41438
+  },
+  {
+    "pakFileName": "============================================================[[                    COMBAT                      ]].pak",
+    "metaUuid": "65cce477-21b2-463c-8b17-3c07715f8d88",
+    "nexusModId": 5977,
+    "nexusFileId": 41438
+  },
+  {
+    "pakFileName": "============================================================[[                    COMPANIONS                      ]].pak",
+    "metaUuid": "125984c0-495d-406a-82d9-c9abeab7cbc8",
+    "nexusModId": 5977,
+    "nexusFileId": 41438
+  },
+  {
+    "pakFileName": "============================================================[[                    CRAFTING                      ]].pak",
+    "metaUuid": "9d06e14b-94b2-4f2a-bccf-c71a0e345221",
+    "nexusModId": 5977,
+    "nexusFileId": 41438
+  },
+  {
+    "pakFileName": "============================================================[[                    DIFFICULTY                      ]].pak",
+    "metaUuid": "03e3fb9b-58ef-4fbf-9a4a-72344817155a",
+    "nexusModId": 5977,
+    "nexusFileId": 41438
+  },
+  {
+    "pakFileName": "============================================================[[                    DRAGONBORN                      ]].pak",
+    "metaUuid": "c2f4f071-0c0e-431f-94c4-e14bbfe5d14e",
+    "nexusModId": 5977,
+    "nexusFileId": 41438
+  },
+  {
+    "pakFileName": "============================================================[[                    DYES                      ]].pak",
+    "metaUuid": "e94b7286-ae37-4198-bd12-7ec3496dbc19",
+    "nexusModId": 5977,
+    "nexusFileId": 41438
+  },
+  {
+    "pakFileName": "============================================================[[                    EOTB                      ]].pak",
+    "metaUuid": "a3c4ae11-934e-4d49-ad11-1f809cc61e66",
+    "nexusModId": 5977,
+    "nexusFileId": 41438
+  },
+  {
+    "pakFileName": "============================================================[[                    EYE  COLOURS                      ]].pak",
+    "metaUuid": "8dd2f784-354b-47c4-9316-01f1a84575c5",
+    "nexusModId": 5977,
+    "nexusFileId": 41438
+  },
+  {
+    "pakFileName": "============================================================[[                    HAIR                      ]].pak",
+    "metaUuid": "17742f50-4fb0-405d-849f-490689ef540c",
+    "nexusModId": 5977,
+    "nexusFileId": 41438
+  },
+  {
+    "pakFileName": "============================================================[[                    HAIR  COLOURS                      ]].pak",
+    "metaUuid": "5d29dd44-d70a-4cdf-8c9d-a59561495309",
+    "nexusModId": 5977,
+    "nexusFileId": 41438
+  },
+  {
+    "pakFileName": "============================================================[[                    HEADS                      ]].pak",
+    "metaUuid": "9f28277d-572d-4340-8923-b78e37840299",
+    "nexusModId": 5977,
+    "nexusFileId": 41438
+  },
+  {
+    "pakFileName": "============================================================[[                    HORNS                      ]].pak",
+    "metaUuid": "5dba574b-c7af-4afd-89e6-a93457fb9f05",
+    "nexusModId": 5977,
+    "nexusFileId": 41438
+  },
+  {
+    "pakFileName": "============================================================[[                    OTHER                      ]].pak",
+    "metaUuid": "c3140668-3397-483f-b736-e02075b3ed7c",
+    "nexusModId": 5977,
+    "nexusFileId": 41438
+  },
+  {
+    "pakFileName": "============================================================[[                    SCROLLS                      ]].pak",
+    "metaUuid": "060962da-c413-4989-a6ca-874bc61741c6",
+    "nexusModId": 5977,
+    "nexusFileId": 41438
+  },
+  {
+    "pakFileName": "============================================================[[                    SKIN  COLOURS                      ]].pak",
+    "metaUuid": "3dcead64-75b8-46ac-a5c9-855fd9aad357",
+    "nexusModId": 5977,
+    "nexusFileId": 41438
+  },
+  {
+    "pakFileName": "============================================================[[                    SUMMONS                      ]].pak",
+    "metaUuid": "f75e8e97-0df5-4e5f-912e-da64ce3b084e",
+    "nexusModId": 5977,
+    "nexusFileId": 41438
+  },
+  {
+    "pakFileName": "============================================================[[                    TWEAKS                      ]].pak",
+    "metaUuid": "45784200-7911-419f-8bb7-52a4072bcb6c",
+    "nexusModId": 5977,
+    "nexusFileId": 41438
+  },
+  {
+    "pakFileName": "Aasimar_-_Unique_Tav.pak",
+    "metaUuid": "04426b70-cbd9-4061-934a-6e2f7d24ab42",
+    "nexusModId": 1824,
+    "nexusFileId": 40777
+  },
+  {
+    "pakFileName": "AAvellarAdditionalGearV1.pak",
+    "metaUuid": "d2cd2f07-6988-e4dc-9414-4da5c8d231fd",
+    "nexusModId": 14427,
+    "nexusFileId": 82795
+  },
+  {
+    "pakFileName": "ABCs of Feats - Essential Only.pak",
+    "metaUuid": "b3f7c8a2-1d4e-5f6a-9b0c-2e3d4f5a6b7c",
+    "nexusModId": 21741,
+    "nexusFileId": 116117
+  },
+  {
+    "pakFileName": "Absolutist_Uniforms_2ad6261f-54b5-2edd-38e9-7c5f098abd13.pak",
+    "metaUuid": "2ad6261f-54b5-2edd-38e9-7c5f098abd13",
+    "nexusModId": 20351,
+    "nexusFileId": 119904
+  },
+  {
+    "pakFileName": "ACT1Nightmode.pak",
+    "metaUuid": "1263494e-babe-347b-0045-ac5a6f3041a3",
+    "nexusModId": 23047,
+    "nexusFileId": 122401
+  },
+  {
+    "pakFileName": "Action_Third_With.pak",
+    "metaUuid": "dc042fc2-d860-43d6-806c-3e9fd3f4b641",
+    "nexusModId": 14518,
+    "nexusFileId": 83213
+  },
+  {
+    "pakFileName": "AdamantineRework.pak",
+    "metaUuid": "7dbe0723-9f59-4713-80da-88efe67f436d",
+    "nexusModId": 16761,
+    "nexusFileId": 101959
+  },
+  {
+    "pakFileName": "Aether_ImmersiveUI.pak",
+    "metaUuid": "293739c4-617c-438b-b9f0-1dbbfe142f81",
+    "nexusModId": 1279,
+    "nexusFileId": 89416
+  },
+  {
+    "pakFileName": "Alida_Solo_BT1_89563f25-cd72-a4a8-5b85-9160ab634d42.pak",
+    "metaUuid": "89563f25-cd72-a4a8-5b85-9160ab634d42",
+    "nexusModId": 22777,
+    "nexusFileId": 121422
+  },
+  {
+    "pakFileName": "AllDyesInTheCampChest.pak",
+    "metaUuid": "a40ed317-6759-4629-b7d2-d17b1321e206",
+    "nexusModId": 8699,
+    "nexusFileId": 53510
+  },
+  {
+    "pakFileName": "AllSummonsHaveHelp_4d3a67f5-5cc3-8568-3f42-04dfb4734fef.pak",
+    "metaUuid": "4d3a67f5-5cc3-8568-3f42-04dfb4734fef",
+    "nexusModId": 19088,
+    "nexusFileId": 104766
+  },
+  {
+    "pakFileName": "AllureDyes_04c368a2-5b15-b929-6326-faf415e78f68.pak",
+    "metaUuid": "04c368a2-5b15-b929-6326-faf415e78f68",
+    "nexusModId": 11202,
+    "nexusFileId": 95594
+  },
+  {
+    "pakFileName": "AnimalCompanionFeat.pak",
+    "metaUuid": "0b670449-24c0-41e3-90ed-f928541cae62",
+    "nexusModId": 15450,
+    "nexusFileId": 87693
+  },
+  {
+    "pakFileName": "AntifaLafel_RedesignedTents_Merged_06cf552d-eb99-cc9f-3688-6b68f042799d.pak",
+    "metaUuid": "06cf552d-eb99-cc9f-3688-6b68f042799d",
+    "nexusModId": 13992,
+    "nexusFileId": 80041
+  },
+  {
+    "pakFileName": "AOTM.pak",
+    "metaUuid": "24cfccfe-ac53-40a2-8efa-f6e27230fa28",
+    "nexusModId": 14631,
+    "nexusFileId": 83974
+  },
+  {
+    "pakFileName": "AquamarineStarrySkyDice.pak",
+    "metaUuid": "b63095de-ba37-4953-98c7-83f719a5046a",
+    "nexusModId": 19431,
+    "nexusFileId": 106253
+  },
+  {
+    "pakFileName": "ArmsOfTheBetrayers.pak",
+    "metaUuid": "c96556d7-ef6f-f1e3-b19b-566d781847fc",
+    "nexusModId": 16726,
+    "nexusFileId": 95040
+  },
+  {
+    "pakFileName": "ArmsWorldLootAdd-On.pak",
+    "metaUuid": "77e7ff84-a1de-911e-8fc4-991f34d56c61",
+    "nexusModId": 16726,
+    "nexusFileId": 93597
+  },
+  {
+    "pakFileName": "Artificer-Spells-Addon.pak",
+    "metaUuid": "a35b2cf8-5047-487a-83a4-537d36245b6b",
+    "nexusModId": 16652,
+    "nexusFileId": 94228
+  },
+  {
+    "pakFileName": "Artificer_47b2b8a0-637e-45dd-8adf-fd50a434f529.pak",
+    "metaUuid": "47b2b8a0-637e-45dd-8adf-fd50a434f529",
+    "nexusModId": 16873,
+    "nexusFileId": 96011
+  },
+  {
+    "pakFileName": "AskewApparel.pak",
+    "metaUuid": "cfe956f9-a016-452c-9f75-78b9095631ce",
+    "nexusModId": 8640,
+    "nexusFileId": 55973
+  },
+  {
+    "pakFileName": "ASTRLelves_UniqueTavEotB.pak",
+    "metaUuid": "64696cdb-b56f-43db-8a21-8e20c0e30490",
+    "nexusModId": 10230,
+    "nexusFileId": 96753
+  },
+  {
+    "pakFileName": "ASTRLtieflings_UniqueTavEOTBPatch.pak",
+    "metaUuid": "7f2b67c7-e267-48d7-9895-db8abe68e954",
+    "nexusModId": 2418,
+    "nexusFileId": 102392
+  },
+  {
+    "pakFileName": "AuraOfHateCompanionsTweak.pak",
+    "metaUuid": "c091e2dc-4fb1-c050-513d-5fa50e7db3e8",
+    "nexusModId": 18165,
+    "nexusFileId": 119524
+  },
+  {
+    "pakFileName": "AureBuenEyeMod_Fantasy.pak",
+    "metaUuid": "daee53d9-e977-4380-a1d5-7da5450ead32",
+    "nexusModId": 2072,
+    "nexusFileId": 24567
+  },
+  {
+    "pakFileName": "AutolootAura.pak",
+    "metaUuid": "0c090ccf-c9bb-422e-bbfd-6242174992a2",
+    "nexusModId": 2342,
+    "nexusFileId": 21017
+  },
+  {
+    "pakFileName": "Aylin_Camp_Clothes_1eac1114-174f-4b4e-ff3b-a88b614c8f53.pak",
+    "metaUuid": "1eac1114-174f-4b4e-ff3b-a88b614c8f53",
+    "nexusModId": 17845,
+    "nexusFileId": 118315
+  },
+  {
+    "pakFileName": "Aylin_Camp_Clothes_NoWings_85dedfc2-417c-106d-755b-12f3ee8ac5d4.pak",
+    "metaUuid": "85dedfc2-417c-106d-755b-12f3ee8ac5d4",
+    "nexusModId": 17845,
+    "nexusFileId": 118316
+  },
+  {
+    "pakFileName": "Aza_NPCre_GortashBeard_498e72b4-e34b-96cc-07ce-b3576c5dbff3.pak",
+    "metaUuid": "498e72b4-e34b-96cc-07ce-b3576c5dbff3",
+    "nexusModId": 14477,
+    "nexusFileId": 105552
+  },
+  {
+    "pakFileName": "BaneDeity.pak",
+    "metaUuid": "4893b99c-79d5-4da7-a94b-d13612dbb160",
+    "nexusModId": 5904,
+    "nexusFileId": 39809
+  },
+  {
+    "pakFileName": "Barbarian_Subclass_Hellcleaver_f179ff05-3726-b9e9-91fd-bc06df60e3a0.pak",
+    "metaUuid": "f179ff05-3726-b9e9-91fd-bc06df60e3a0",
+    "nexusModId": 17323,
+    "nexusFileId": 101415
+  },
+  {
+    "pakFileName": "BDS_Sprout_Wardrobe_UTAV.pak",
+    "metaUuid": "88002140-6180-dd96-5ab1-3cd02530f495",
+    "nexusModId": 17389,
+    "nexusFileId": 97265
+  },
+  {
+    "pakFileName": "Bean_Circlet_Collection_V1.pak",
+    "metaUuid": "74134eb9-12d6-74c4-399a-497f83e64ea5",
+    "nexusModId": 15337,
+    "nexusFileId": 87161
+  },
+  {
+    "pakFileName": "BetterCasterSet.pak",
+    "metaUuid": "3dfe1814-0dc0-469d-9b3c-329f9709463b",
+    "nexusModId": 10963,
+    "nexusFileId": 120303
+  },
+  {
+    "pakFileName": "BetterContainersfivefive_278fd072-0482-64f9-9d52-d37121db6e7b.pak",
+    "metaUuid": "278fd072-0482-64f9-9d52-d37121db6e7b",
+    "nexusModId": 1416,
+    "nexusFileId": 88976
+  },
+  {
+    "pakFileName": "BetterDaggers.pak",
+    "metaUuid": "0bf015b9-8408-4b0d-a500-42660cee7be7",
+    "nexusModId": 17847,
+    "nexusFileId": 101974
+  },
+  {
+    "pakFileName": "BetterGreaterInvisibility.pak",
+    "metaUuid": "c289d1ac-4e62-499d-9bdb-d8fe63dbc945",
+    "nexusModId": 1147,
+    "nexusFileId": 8474
+  },
+  {
+    "pakFileName": "BetterHammers.pak",
+    "metaUuid": "031e0610-cb11-4f8a-bef7-991de7d0990f",
+    "nexusModId": 17932,
+    "nexusFileId": 101346
+  },
+  {
+    "pakFileName": "BetterHexIcons.pak",
+    "metaUuid": "8b493770-f523-4ede-9037-ceed0485c45a",
+    "nexusModId": 7816,
+    "nexusFileId": 50659
+  },
+  {
+    "pakFileName": "BetterHotbar2Reviver_500e9fba-c498-0d21-9a04-f70f66b37a0f.pak",
+    "metaUuid": "500e9fba-c498-0d21-9a04-f70f66b37a0f",
+    "nexusModId": 2417,
+    "nexusFileId": 68841
+  },
+  {
+    "pakFileName": "BetterHotbar2_a43f8334-d0cd-b6b9-4c9f-3914e868e6fa.pak",
+    "metaUuid": "a43f8334-d0cd-b6b9-4c9f-3914e868e6fa",
+    "nexusModId": 2417,
+    "nexusFileId": 89129
+  },
+  {
+    "pakFileName": "BetterIdols.pak",
+    "metaUuid": "02d5a798-b1a4-43ff-8bfe-39fab14310f4",
+    "nexusModId": 21150,
+    "nexusFileId": 113817
+  },
+  {
+    "pakFileName": "BetterSkills.pak",
+    "metaUuid": "6952dc49-289f-4bb6-bf2a-14a6cd3526e9",
+    "nexusModId": 18657,
+    "nexusFileId": 117606
+  },
+  {
+    "pakFileName": "BetterSpellbook_4e3df98e-16cf-d65b-9b75-a5d3ed715cfe.pak",
+    "metaUuid": "4e3df98e-16cf-d65b-9b75-a5d3ed715cfe",
+    "nexusModId": 20755,
+    "nexusFileId": 112541
+  },
+  {
+    "pakFileName": "Beyond20_a40cc68b-2577-f166-0db4-e24b107bb62d.pak",
+    "metaUuid": "a40cc68b-2577-f166-0db4-e24b107bb62d",
+    "nexusModId": 21535,
+    "nexusFileId": 115047
+  },
+  {
+    "pakFileName": "BG3CraftingUpdate.pak",
+    "metaUuid": "f91c9d18-c672-46ec-ad3f-755f1fdd91bc",
+    "nexusModId": 17280,
+    "nexusFileId": 99945
+  },
+  {
+    "pakFileName": "BG3ModLoadOrder_18d916c6-fd22-7c78-0c30-024cb2eddae8.pak",
+    "metaUuid": "18d916c6-fd22-7c78-0c30-024cb2eddae8",
+    "nexusModId": 20907,
+    "nexusFileId": 112987
+  },
+  {
+    "pakFileName": "BG3SXModLoadOrder_62ae56cd-9d1d-dc20-14eb-2400bd2adc16.pak",
+    "metaUuid": "62ae56cd-9d1d-dc20-14eb-2400bd2adc16",
+    "nexusModId": 20907,
+    "nexusFileId": 112987
+  },
+  {
+    "pakFileName": "BhaalDeity.pak",
+    "metaUuid": "94f1341b-6f1d-419b-a163-a97699a396a1",
+    "nexusModId": 5894,
+    "nexusFileId": 39924
+  },
+  {
+    "pakFileName": "Bigger Text Font.pak",
+    "metaUuid": "2fa89cc9-d4dd-4110-9636-d8ee6c6223a4",
+    "nexusModId": 12132,
+    "nexusFileId": 70776
+  },
+  {
+    "pakFileName": "BlackOpalStarrySkyDice.pak",
+    "metaUuid": "92d8ba0e-4fcf-4c09-b05b-b5126fe35397",
+    "nexusModId": 19431,
+    "nexusFileId": 106511
+  },
+  {
+    "pakFileName": "Blade of Frontiers.pak",
+    "metaUuid": "4c05273d-51d5-423c-b860-98509de2ffed",
+    "nexusModId": 6364,
+    "nexusFileId": 106829
+  },
+  {
+    "pakFileName": "Blade Ward Enhanced.pak",
+    "metaUuid": "f47ec86a-86a3-4eed-9288-cad490c8c478",
+    "nexusModId": 13728,
+    "nexusFileId": 78514
+  },
+  {
+    "pakFileName": "BladesingerGear.pak",
+    "metaUuid": "1a46ab5d-ef46-f3d8-9264-c590281506a3",
+    "nexusModId": 16220,
+    "nexusFileId": 102493
+  },
+  {
+    "pakFileName": "Bleeding_Overhaul.pak",
+    "metaUuid": "1850c081-9a44-44be-9ed3-0fdfb24f0124",
+    "nexusModId": 17401,
+    "nexusFileId": 98541
+  },
+  {
+    "pakFileName": "BlueStainedGlassDice.pak",
+    "metaUuid": "370839b8-b9f1-4a8e-b646-d00fade45d56",
+    "nexusModId": 2214,
+    "nexusFileId": 55762
+  },
+  {
+    "pakFileName": "BrandedMinthara_015ec171-e4bd-aa07-4805-b17ead2aae1f.pak",
+    "metaUuid": "015ec171-e4bd-aa07-4805-b17ead2aae1f",
+    "nexusModId": 22611,
+    "nexusFileId": 120083
+  },
+  {
+    "pakFileName": "BS-PolearmMasterPlus_93fe3bcc-bf13-d562-dcf5-3915e181b442.pak",
+    "metaUuid": "93fe3bcc-bf13-d562-dcf5-3915e181b442",
+    "nexusModId": 13307,
+    "nexusFileId": 76348
+  },
+  {
+    "pakFileName": "BSM_NecrodancerSet_NotImmersivePatch_903b46c9-9ef0-dbf7-44d0-6c19b08e20ce.pak",
+    "metaUuid": "903b46c9-9ef0-dbf7-44d0-6c19b08e20ce",
+    "nexusModId": 20164,
+    "nexusFileId": 109744
+  },
+  {
+    "pakFileName": "BSM_NecroDancerSet_RussWZ_eb364285-3459-43b0-f95a-0401981991ea.pak",
+    "metaUuid": "eb364285-3459-43b0-f95a-0401981991ea",
+    "nexusModId": 20164,
+    "nexusFileId": 110032
+  },
+  {
+    "pakFileName": "BT1-BT1.pak",
+    "metaUuid": "812c8b5a-d851-ade4-b615-0b4865dec288",
+    "nexusModId": 22323,
+    "nexusFileId": 118314
+  },
+  {
+    "pakFileName": "CBR_Astarion_Gear - Starting Equipment Patch.pak",
+    "metaUuid": "21127ab0-e4e4-4a46-a614-3d085e193a39",
+    "nexusModId": 19591,
+    "nexusFileId": 107028
+  },
+  {
+    "pakFileName": "CBR_GlowGear.pak",
+    "metaUuid": "d4263af9-7675-4bde-bc3f-953895c6aff9",
+    "nexusModId": 11055,
+    "nexusFileId": 64593
+  },
+  {
+    "pakFileName": "CBR_Piercings.pak",
+    "metaUuid": "36db45ac-c11b-4075-94a7-1ed54abc640c",
+    "nexusModId": 8689,
+    "nexusFileId": 57498
+  },
+  {
+    "pakFileName": "CCColorsModLoadOrder_bd06e07b-9d32-2a32-c6d6-22236d791333.pak",
+    "metaUuid": "bd06e07b-9d32-2a32-c6d6-22236d791333",
+    "nexusModId": 20907,
+    "nexusFileId": 112987
+  },
+  {
+    "pakFileName": "CelestialMightAasimar KAVT Patch.pak",
+    "metaUuid": "627710fc-9631-413c-801c-8a15fb163609",
+    "nexusModId": 20083,
+    "nexusFileId": 120589
+  },
+  {
+    "pakFileName": "CelestialMightAasimar.pak",
+    "metaUuid": "5b59f11d-cec5-c8a3-8448-97208c9e5f0f",
+    "nexusModId": 20083,
+    "nexusFileId": 120588
+  },
+  {
+    "pakFileName": "Champions.pak",
+    "metaUuid": "d18cfccd-aa50-4039-9909-46b72af9ddf8",
+    "nexusModId": 11485,
+    "nexusFileId": 70495
+  },
+  {
+    "pakFileName": "CharacterAppearancePresets.pak",
+    "metaUuid": "81e1bb8a-7fb8-4cec-b4a7-d89abf1283cc",
+    "nexusModId": 19797,
+    "nexusFileId": 108228
+  },
+  {
+    "pakFileName": "CharacterCreatorModLoadOrder_3561cd93-03bd-1cac-b070-d6e880b011a2.pak",
+    "metaUuid": "3561cd93-03bd-1cac-b070-d6e880b011a2",
+    "nexusModId": 20907,
+    "nexusFileId": 112987
+  },
+  {
+    "pakFileName": "Cheaters-BoD-Armours.pak",
+    "metaUuid": "7532b2e7-a56d-c6d8-bba3-cc5441c4f5ab",
+    "nexusModId": 17722,
+    "nexusFileId": 105901
+  },
+  {
+    "pakFileName": "ChooseAgain4cheats.pak",
+    "metaUuid": "70f7cb0c-9a5a-4217-b3d3-9488e948a5e6",
+    "nexusModId": 18829,
+    "nexusFileId": 120924
+  },
+  {
+    "pakFileName": "Classes-SubClassesModLoadOrder_dfbdfdec-a332-7890-958c-dfc7e0f31cae.pak",
+    "metaUuid": "dfbdfdec-a332-7890-958c-dfc7e0f31cae",
+    "nexusModId": 20907,
+    "nexusFileId": 112987
+  },
+  {
+    "pakFileName": "Clean Thy Mess.pak",
+    "metaUuid": "1dca904f-2872-498f-a5bf-eaf66c51b4d1",
+    "nexusModId": 22541,
+    "nexusFileId": 119765
+  },
+  {
+    "pakFileName": "CloseRangeCantripForClerics_dc47f93b-59e0-2073-65a4-3c11486179c5.pak",
+    "metaUuid": "dc47f93b-59e0-2073-65a4-3c11486179c5",
+    "nexusModId": 18122,
+    "nexusFileId": 100736
+  },
+  {
+    "pakFileName": "ClothingModLoadOrder_9a6f4486-83f3-d0a5-ccaa-a6763106c143.pak",
+    "metaUuid": "9a6f4486-83f3-d0a5-ccaa-a6763106c143",
+    "nexusModId": 20907,
+    "nexusFileId": 112987
+  },
+  {
+    "pakFileName": "Clothing_Physics_Repair_Patch_For_MoreGithArmor.pak",
+    "metaUuid": "7ae70ab8-9227-41d8-a8f6-cec910e9fa53",
+    "nexusModId": 13339,
+    "nexusFileId": 76511
+  },
+  {
+    "pakFileName": "cloudbox_b1461d83-eaf6-e833-1be0-ab8bf75efd09.pak",
+    "metaUuid": "b1461d83-eaf6-e833-1be0-ab8bf75efd09",
+    "nexusModId": 18215,
+    "nexusFileId": 113566
+  },
+  {
+    "pakFileName": "CL_BDH_PaladinGear.pak",
+    "metaUuid": "3fc5f05a-faec-b4cf-0624-49f9b9eda880",
+    "nexusModId": 13321,
+    "nexusFileId": 110361
+  },
+  {
+    "pakFileName": "CL_Dr Odd - Mage Gear.pak",
+    "metaUuid": "313be365-c5c5-e15f-585c-c1fecab1db05",
+    "nexusModId": 16970,
+    "nexusFileId": 111502
+  },
+  {
+    "pakFileName": "CL_FancySleeves.pak",
+    "metaUuid": "3949a881-cf68-54c9-8e97-9f1beff5d019",
+    "nexusModId": 17719,
+    "nexusFileId": 98718
+  },
+  {
+    "pakFileName": "CL_IceWizard.pak",
+    "metaUuid": "a373f6c5-395c-7f55-36eb-5daf6b9f3ba6",
+    "nexusModId": 20171,
+    "nexusFileId": 112069
+  },
+  {
+    "pakFileName": "CL_InstrumentsofDarkness - Cleric Gear.pak",
+    "metaUuid": "53c9f341-7ecb-14e4-875c-8564ed0c1b49",
+    "nexusModId": 14875,
+    "nexusFileId": 110310
+  },
+  {
+    "pakFileName": "CL_IntoTheWoods.pak",
+    "metaUuid": "60a63659-8a26-a00c-5abf-4ed9f4fd7637",
+    "nexusModId": 23109,
+    "nexusFileId": 122430
+  },
+  {
+    "pakFileName": "Companion Beds - Elfsong - Selune.pak",
+    "metaUuid": "27d483f0-be99-d5ca-00f4-2189112bbe6f",
+    "nexusModId": 16153,
+    "nexusFileId": 90856
+  },
+  {
+    "pakFileName": "Companions-NPCModLoadOrder_9ee289d3-7404-c748-9065-bb247a3eb183.pak",
+    "metaUuid": "9ee289d3-7404-c748-9065-bb247a3eb183",
+    "nexusModId": 20907,
+    "nexusFileId": 112987
+  },
+  {
+    "pakFileName": "CompanionsPacks.pak",
+    "metaUuid": "0a30e2a1-5b7a-4066-85e7-118fc0374110",
+    "nexusModId": 5997,
+    "nexusFileId": 43240
+  },
+  {
+    "pakFileName": "ConceptSHeartOutfit - Starting Equipment Patch.pak",
+    "metaUuid": "5925f0d7-6db2-46ac-a66c-16d7889b717f",
+    "nexusModId": 19591,
+    "nexusFileId": 107027
+  },
+  {
+    "pakFileName": "ConjureTreasureChest_02490c18-626b-f5c2-2a14-f23e567a7be1.pak",
+    "metaUuid": "02490c18-626b-f5c2-2a14-f23e567a7be1",
+    "nexusModId": 21603,
+    "nexusFileId": 115768
+  },
+  {
+    "pakFileName": "ContainersExtendedExtraplanar.pak",
+    "metaUuid": "49f75771-19c4-42a6-8a85-a74cea7ae3de",
+    "nexusModId": 7980,
+    "nexusFileId": 115377
+  },
+  {
+    "pakFileName": "ContainersExtendedWithers.pak",
+    "metaUuid": "83fdfca3-d749-4149-9bcd-555853c4099c",
+    "nexusModId": 7980,
+    "nexusFileId": 83397
+  },
+  {
+    "pakFileName": "Crate_Goods.pak",
+    "metaUuid": "51dae19f-65a9-4651-a41c-766d5bcf89d2",
+    "nexusModId": 10302,
+    "nexusFileId": 70698
+  },
+  {
+    "pakFileName": "Cruel Sting Enhanced.pak",
+    "metaUuid": "82d83f11-ce4b-4d6b-8cfd-2e42113dcab9",
+    "nexusModId": 19562,
+    "nexusFileId": 106904
+  },
+  {
+    "pakFileName": "Crystallis - Amethyst Dice.pak",
+    "metaUuid": "44fa5e9e-4630-44d4-8fe1-0457fac7614c",
+    "nexusModId": 1489,
+    "nexusFileId": 10601
+  },
+  {
+    "pakFileName": "CSUK_SharsRegalia.pak",
+    "metaUuid": "af706762-fa93-4584-8d66-305c85003eae",
+    "nexusModId": 23093,
+    "nexusFileId": 122649
+  },
+  {
+    "pakFileName": "CustomizationsModLoadOrder_1729693c-a1b5-b540-07b3-09ee45470fbe.pak",
+    "metaUuid": "1729693c-a1b5-b540-07b3-09ee45470fbe",
+    "nexusModId": 20907,
+    "nexusFileId": 112987
+  },
+  {
+    "pakFileName": "Customizer-minimal.pak",
+    "metaUuid": "83b4e98f-28b3-4e75-915d-4cf795ec2b74",
+    "nexusModId": 12111,
+    "nexusFileId": 70600
+  },
+  {
+    "pakFileName": "DancingBard_fd0f1636-e0de-e122-8546-c29e7048c6c7.pak",
+    "metaUuid": "fd0f1636-e0de-e122-8546-c29e7048c6c7",
+    "nexusModId": 20801,
+    "nexusFileId": 112673
+  },
+  {
+    "pakFileName": "Dark Urge Rebirth - ST.pak",
+    "metaUuid": "c9f6d5c4-e6ca-420d-931a-3efd07109b3a",
+    "nexusModId": 14598,
+    "nexusFileId": 84015
+  },
+  {
+    "pakFileName": "Dark Urge Rebirth Urges Patch.pak",
+    "metaUuid": "5135f11c-33a2-452b-a8e2-2b1de0cb3f31",
+    "nexusModId": 14598,
+    "nexusFileId": 83728
+  },
+  {
+    "pakFileName": "Dawns Favour - Fire Radiant and Force Divine Favour.pak",
+    "metaUuid": "654ce135-2582-4327-b6ae-161864c4d8a2",
+    "nexusModId": 20447,
+    "nexusFileId": 110941
+  },
+  {
+    "pakFileName": "Death Soul Icon Fix.pak",
+    "metaUuid": "8a6a30ea-1f27-4f33-beab-d116fd921d8e",
+    "nexusModId": 12819,
+    "nexusFileId": 74118
+  },
+  {
+    "pakFileName": "Deathsong Set - Original VFX.pak",
+    "metaUuid": "83201e70-6fea-43c5-b8cf-7235be9d3009",
+    "nexusModId": 4572,
+    "nexusFileId": 56093
+  },
+  {
+    "pakFileName": "Deathsong Set - Tutorial Chest.pak",
+    "metaUuid": "df72be98-4073-4433-90d0-c0b4a0f25b86",
+    "nexusModId": 4572,
+    "nexusFileId": 85401
+  },
+  {
+    "pakFileName": "Deity Domains and Alignment.pak",
+    "metaUuid": "4aacdb1b-8168-4c94-a0af-12ded82b9487",
+    "nexusModId": 16607,
+    "nexusFileId": 93097
+  },
+  {
+    "pakFileName": "DeityBlessedGear_0db37824-c84e-3790-af3c-52b3c33e61b0.pak",
+    "metaUuid": "0db37824-c84e-3790-af3c-52b3c33e61b0",
+    "nexusModId": 12796,
+    "nexusFileId": 75931
+  },
+  {
+    "pakFileName": "DethroneUpcasting_e24171ae-ba4f-cc74-a15b-562ac7d8d68b.pak",
+    "metaUuid": "e24171ae-ba4f-cc74-a15b-562ac7d8d68b",
+    "nexusModId": 17206,
+    "nexusFileId": 96146
+  },
+  {
+    "pakFileName": "DFindFamiliarHelp.pak",
+    "metaUuid": "9980a0b8-6891-4696-9daf-c80aba01635d",
+    "nexusModId": 6149,
+    "nexusFileId": 41487
+  },
+  {
+    "pakFileName": "DGB_Fly_Potions_1db352a7-09b8-21be-2af4-5f15c96140cd.pak",
+    "metaUuid": "1db352a7-09b8-21be-2af4-5f15c96140cd",
+    "nexusModId": 17065,
+    "nexusFileId": 95669
+  },
+  {
+    "pakFileName": "DiceModLoadOrder_54f01bc9-c622-83ac-0b2a-46b918ca38f1.pak",
+    "metaUuid": "54f01bc9-c622-83ac-0b2a-46b918ca38f1",
+    "nexusModId": 20907,
+    "nexusFileId": 112987
+  },
+  {
+    "pakFileName": "Diety-GodsModLoadOrder_b938073d-79dc-db98-82f6-3b2ac782b4a4.pak",
+    "metaUuid": "b938073d-79dc-db98-82f6-3b2ac782b4a4",
+    "nexusModId": 20907,
+    "nexusFileId": 112987
+  },
+  {
+    "pakFileName": "DND_Revamp.pak",
+    "metaUuid": "493ff96b-ef56-4223-8448-efc78f43602d",
+    "nexusModId": 2865,
+    "nexusFileId": 20443
+  },
+  {
+    "pakFileName": "DraconicBloodlinesExpanded.pak",
+    "metaUuid": "5c44064c-c771-479a-bc73-051c3d1e65c3",
+    "nexusModId": 13563,
+    "nexusFileId": 77600
+  },
+  {
+    "pakFileName": "DreadAmbusherFeat.pak",
+    "metaUuid": "6c4654c8-e2c2-4929-becc-77a26f1cbf57",
+    "nexusModId": 15452,
+    "nexusFileId": 87705
+  },
+  {
+    "pakFileName": "DrKekyll_5eEMonkRework.pak",
+    "metaUuid": "25eeb987-d8c1-4462-9f80-b7932e8d09ca",
+    "nexusModId": 9204,
+    "nexusFileId": 56734
+  },
+  {
+    "pakFileName": "DrKekyll_TFSSeeInvisReworkPatch.pak",
+    "metaUuid": "16a374d0-4814-4699-aacc-ae55c30d4df1",
+    "nexusModId": 3903,
+    "nexusFileId": 116059
+  },
+  {
+    "pakFileName": "Drow Racial Bonuses.pak",
+    "metaUuid": "9d9e40d5-efc8-460a-933a-b3daaf23611f",
+    "nexusModId": 8561,
+    "nexusFileId": 93840
+  },
+  {
+    "pakFileName": "DrowDress.pak",
+    "metaUuid": "dc409471-ceda-4b36-7715-47bd22cf4e87",
+    "nexusModId": 21455,
+    "nexusFileId": 114691
+  },
+  {
+    "pakFileName": "DruidElementalWeapon_31a85430-7062-f9da-3b84-c057d91ee9cb.pak",
+    "metaUuid": "31a85430-7062-f9da-3b84-c057d91ee9cb",
+    "nexusModId": 12320,
+    "nexusFileId": 121242
+  },
+  {
+    "pakFileName": "Druid_QoL_HotbarRestore.pak",
+    "metaUuid": "9346c365-81aa-43a3-bb40-44c5d3d547ca",
+    "nexusModId": 5877,
+    "nexusFileId": 41108
+  },
+  {
+    "pakFileName": "Drunken Master Uncorked.pak",
+    "metaUuid": "53bc877b-cb1b-4e7f-8511-ccec6369aef3",
+    "nexusModId": 17140,
+    "nexusFileId": 102615
+  },
+  {
+    "pakFileName": "DrunkenMasterRe-Mastered_34c72e0f-a1cd-1e8d-d871-10f2c72cddad.pak",
+    "metaUuid": "34c72e0f-a1cd-1e8d-d871-10f2c72cddad",
+    "nexusModId": 16390,
+    "nexusFileId": 96487
+  },
+  {
+    "pakFileName": "Dummy Feat.pak",
+    "metaUuid": "f77038f7-0e45-4aec-879c-5927a4989a55",
+    "nexusModId": 3958,
+    "nexusFileId": 26805
+  },
+  {
+    "pakFileName": "Dusks Favour - Cold Radiant and Force Divine Favour - A-05.pak",
+    "metaUuid": "88096ef7-dd43-4873-9edb-8d9bc4f9ac0d",
+    "nexusModId": 20608,
+    "nexusFileId": 111853
+  },
+  {
+    "pakFileName": "Dwarven_Weaponry_Runes.pak",
+    "metaUuid": "354e92b4-29cb-4d39-8bb7-ff34f820354a",
+    "nexusModId": 11261,
+    "nexusFileId": 65333
+  },
+  {
+    "pakFileName": "DWSO5R.pak",
+    "metaUuid": "e62312ee-8ef2-44bb-9f1d-c66645a238ac",
+    "nexusModId": 1148,
+    "nexusFileId": 107253
+  },
+  {
+    "pakFileName": "DWSO_ImprovedWildStrike.pak",
+    "metaUuid": "877b68f0-8fcb-4318-a28e-4825f56040c3",
+    "nexusModId": 1148,
+    "nexusFileId": 100069
+  },
+  {
+    "pakFileName": "DWSO_Ritual.pak",
+    "metaUuid": "aa3521e2-826c-4f37-88fe-075be58e4398",
+    "nexusModId": 1148,
+    "nexusFileId": 99623
+  },
+  {
+    "pakFileName": "DyesModLoadOrder_4dc2e95e-aef3-c841-08c0-40e5a72edd9a.pak",
+    "metaUuid": "4dc2e95e-aef3-c841-08c0-40e5a72edd9a",
+    "nexusModId": 20907,
+    "nexusFileId": 112987
+  },
+  {
+    "pakFileName": "Dynamic Wildheart.pak",
+    "metaUuid": "dbf0b4ee-5614-4b05-b77c-b71ec8cf9eae",
+    "nexusModId": 8274,
+    "nexusFileId": 51454
+  },
+  {
+    "pakFileName": "Earrings_of_the_Devout_3293a638-ef65-2423-c301-cdea323fcc9c.pak",
+    "metaUuid": "3293a638-ef65-2423-c301-cdea323fcc9c",
+    "nexusModId": 19815,
+    "nexusFileId": 108133
+  },
+  {
+    "pakFileName": "Eladrin.pak",
+    "metaUuid": "abc09812-ed4d-43ff-9a93-ee46487e81d9",
+    "nexusModId": 7037,
+    "nexusFileId": 83564
+  },
+  {
+    "pakFileName": "ElementalAffixes_Multiple.pak",
+    "metaUuid": "7f89b5c4-6d40-e79c-62b5-890d2c3222cd",
+    "nexusModId": 17525,
+    "nexusFileId": 98775
+  },
+  {
+    "pakFileName": "ElementalBlessings-NoASI.pak",
+    "metaUuid": "e01ec74a-ad15-4d46-967a-7a09d1b71115",
+    "nexusModId": 3974,
+    "nexusFileId": 26993
+  },
+  {
+    "pakFileName": "Emberlight.pak",
+    "metaUuid": "d4016003-141d-40c3-b188-8154277c5aca",
+    "nexusModId": 12633,
+    "nexusFileId": 74196
+  },
+  {
+    "pakFileName": "emberswardrobe-tf-4k_2a1ac81c-6207-b82e-637a-388033e20e79.pak",
+    "metaUuid": "2a1ac81c-6207-b82e-637a-388033e20e79",
+    "nexusModId": 23095,
+    "nexusFileId": 122366
+  },
+  {
+    "pakFileName": "EnemyBehaviorsModLoadOrders_3e8109e9-9256-9472-f7b4-183843883749.pak",
+    "metaUuid": "3e8109e9-9256-9472-f7b4-183843883749",
+    "nexusModId": 20907,
+    "nexusFileId": 112987
+  },
+  {
+    "pakFileName": "EnemySpells.pak",
+    "metaUuid": "1e160a4f-3a1d-42d5-89ef-e8db708e518e",
+    "nexusModId": 11051,
+    "nexusFileId": 70501
+  },
+  {
+    "pakFileName": "EotB_Patch_Clansong.pak",
+    "metaUuid": "b9211fe5-1934-4385-8475-c24f32ffba33",
+    "nexusModId": 19947,
+    "nexusFileId": 120349
+  },
+  {
+    "pakFileName": "EoWWyllLongHair.pak",
+    "metaUuid": "b80d1d68-2b8f-4c1c-915f-c78d478c0e85",
+    "nexusModId": 3852,
+    "nexusFileId": 26108
+  },
+  {
+    "pakFileName": "EpicLevels.pak",
+    "metaUuid": "a2c4c0fc-e746-41df-81b7-fa53950d86a0",
+    "nexusModId": 16756,
+    "nexusFileId": 94320
+  },
+  {
+    "pakFileName": "Everyone has gods.pak",
+    "metaUuid": "31bd36a5-065e-4dec-9ea6-92f43186be19",
+    "nexusModId": 17047,
+    "nexusFileId": 113074
+  },
+  {
+    "pakFileName": "ExtendedContent-ResotrationModLoadOrder_18de6121-15c7-7ccb-c962-d088e818d4d9.pak",
+    "metaUuid": "18de6121-15c7-7ccb-c962-d088e818d4d9",
+    "nexusModId": 20907,
+    "nexusFileId": 112987
+  },
+  {
+    "pakFileName": "ExtraCoatings_1.0.0.8.pak",
+    "metaUuid": "66ca662c-bf08-4458-8f12-97e685bf0000",
+    "nexusModId": 14681,
+    "nexusFileId": 85046
+  },
+  {
+    "pakFileName": "ExtraModLoadOrders_92b9f323-463a-c90d-4824-3997e535176f.pak",
+    "metaUuid": "92b9f323-463a-c90d-4824-3997e535176f",
+    "nexusModId": 20907,
+    "nexusFileId": 112987
+  },
+  {
+    "pakFileName": "Extrareach_AIO.pak",
+    "metaUuid": "301b21c7-416a-4f53-8103-c69c21f82df9",
+    "nexusModId": 11840,
+    "nexusFileId": 70633
+  },
+  {
+    "pakFileName": "Extra_Lightning_Weapons_c9fbc4f0-591e-3d72-0c0a-ae221cc2096c.pak",
+    "metaUuid": "c9fbc4f0-591e-3d72-0c0a-ae221cc2096c",
+    "nexusModId": 12545,
+    "nexusFileId": 79306
+  },
+  {
+    "pakFileName": "Extra_Thunder_Weapons.pak",
+    "metaUuid": "8007f577-0de2-7430-daba-ba47a86c294b",
+    "nexusModId": 13904,
+    "nexusFileId": 80504
+  },
+  {
+    "pakFileName": "EyeModLoadOrder_57589c16-3cd6-edc8-c192-0885371f9a1b.pak",
+    "metaUuid": "57589c16-3cd6-edc8-c192-0885371f9a1b",
+    "nexusModId": 20907,
+    "nexusFileId": 112987
+  },
+  {
+    "pakFileName": "FaerunColors_TCO_09e397fc-836e-8f1e-f175-08706b259c5f.pak",
+    "metaUuid": "09e397fc-836e-8f1e-f175-08706b259c5f",
+    "nexusModId": 18482,
+    "nexusFileId": 102112
+  },
+  {
+    "pakFileName": "Feats-Raw.pak",
+    "metaUuid": "5a32e8c1-2a2f-315b-ef02-250aa6b0329a",
+    "nexusModId": 15524,
+    "nexusFileId": 88000
+  },
+  {
+    "pakFileName": "FeatsModLoadOrder_b086c8e3-0e20-99d3-675d-e663db41e4af.pak",
+    "metaUuid": "b086c8e3-0e20-99d3-675d-e663db41e4af",
+    "nexusModId": 20907,
+    "nexusFileId": 112987
+  },
+  {
+    "pakFileName": "FeatsOverhaul_AlertPatch.pak",
+    "metaUuid": "7da6084a-0837-4964-9da8-872b4f4e8170",
+    "nexusModId": 15044,
+    "nexusFileId": 119293
+  },
+  {
+    "pakFileName": "Female Drider Head 2.0.0 - UTAV & EOTB.pak",
+    "metaUuid": "ca01fa53-2431-45ce-81c1-163593456099",
+    "nexusModId": 17275,
+    "nexusFileId": 117604
+  },
+  {
+    "pakFileName": "Ferrety's Feats - Spellbreaker Adept (No Vanilla Changes).pak",
+    "metaUuid": "d4f50651-9f53-4a4e-add0-f803e2997203",
+    "nexusModId": 20928,
+    "nexusFileId": 113181
+  },
+  {
+    "pakFileName": "Ferrety's Spells - Elemental Cantrips.pak",
+    "metaUuid": "1655f3a6-9402-49ba-9deb-d1a4b6b30fa9",
+    "nexusModId": 20924,
+    "nexusFileId": 114799
+  },
+  {
+    "pakFileName": "Ferrety's Spells - Healing Cantrips.pak",
+    "metaUuid": "a86b50df-7429-4f04-b120-12d3e3268eba",
+    "nexusModId": 21401,
+    "nexusFileId": 115347
+  },
+  {
+    "pakFileName": "Ferrety's Tweaks - XP Rebalance.pak",
+    "metaUuid": "e930d346-ea0b-4cae-8ebb-89a136749154",
+    "nexusModId": 21063,
+    "nexusFileId": 113435
+  },
+  {
+    "pakFileName": "Feywild_Dyes_Bundle_abb3f271-4ca6-5ad6-fbf7-a6e73e0b8941.pak",
+    "metaUuid": "abb3f271-4ca6-5ad6-fbf7-a6e73e0b8941",
+    "nexusModId": 17914,
+    "nexusFileId": 100070
+  },
+  {
+    "pakFileName": "Fighting Styles Enhanced.pak",
+    "metaUuid": "53307fbc-a5b8-4ac1-92a0-1898e7f7d80b",
+    "nexusModId": 10905,
+    "nexusFileId": 75360
+  },
+  {
+    "pakFileName": "Fizz's Head Mod.pak",
+    "metaUuid": "a0d005b6-223c-46ff-9ec7-49df5bc0f28c",
+    "nexusModId": 17214,
+    "nexusFileId": 103923
+  },
+  {
+    "pakFileName": "FreeEquipmentSwapping_c0b825ad-950e-dae1-7b83-6ff95dbb6b3e.pak",
+    "metaUuid": "c0b825ad-950e-dae1-7b83-6ff95dbb6b3e",
+    "nexusModId": 14959,
+    "nexusFileId": 85611
+  },
+  {
+    "pakFileName": "Fridgetroll_AdorableDecor.pak",
+    "metaUuid": "d08ff1b5-0e89-4b3f-8b38-699028500151",
+    "nexusModId": 11496,
+    "nexusFileId": 91399
+  },
+  {
+    "pakFileName": "FrozenSorceryCFPatch.pak",
+    "metaUuid": "bde0def8-b795-4d99-9ba0-3aae58d700a1",
+    "nexusModId": 16988,
+    "nexusFileId": 95028
+  },
+  {
+    "pakFileName": "GhoulTouchWeaponryAddOn.pak",
+    "metaUuid": "a62ce224-a974-4782-8b6a-2951075af25f",
+    "nexusModId": 15659,
+    "nexusFileId": 88509
+  },
+  {
+    "pakFileName": "GithyankiTranslations.pak",
+    "metaUuid": "25ae3d6e-a12f-4b4f-8019-5444f25b26ba",
+    "nexusModId": 22612,
+    "nexusFileId": 120170
+  },
+  {
+    "pakFileName": "Gleaming Bolt - Sunlight Guiding Bolt - A-01.pak",
+    "metaUuid": "d36f2e3c-5b5c-431c-8213-8e49d53aa7db",
+    "nexusModId": 21999,
+    "nexusFileId": 117752
+  },
+  {
+    "pakFileName": "GoldDigger_26b5bda9-5bbd-f532-e101-2d88f3ce5c89.pak",
+    "metaUuid": "26b5bda9-5bbd-f532-e101-2d88f3ce5c89",
+    "nexusModId": 2225,
+    "nexusFileId": 116332
+  },
+  {
+    "pakFileName": "GoldJewelry_bc70bda9-0b93-4af0-84e3-a897e45fa6b3.pak",
+    "metaUuid": "bc70bda9-0b93-4af0-84e3-a897e45fa6b3",
+    "nexusModId": 14826,
+    "nexusFileId": 85030
+  },
+  {
+    "pakFileName": "Goliaths.pak",
+    "metaUuid": "a1cfdb05-a44b-0580-8cc6-a47d7050e4f1",
+    "nexusModId": 22034,
+    "nexusFileId": 117146
+  },
+  {
+    "pakFileName": "GrannyHagDaggers_940af8ef-84f0-80f1-1ae1-4d33e3c49a50.pak",
+    "metaUuid": "940af8ef-84f0-80f1-1ae1-4d33e3c49a50",
+    "nexusModId": 19328,
+    "nexusFileId": 112016
+  },
+  {
+    "pakFileName": "GrannyLootRings_1584153f-01fb-7f45-aee2-aee3e6cd8876.pak",
+    "metaUuid": "1584153f-01fb-7f45-aee2-aee3e6cd8876",
+    "nexusModId": 19326,
+    "nexusFileId": 114279
+  },
+  {
+    "pakFileName": "GRANNY_RINGS_CAMPCHEST_9f2a17a2-66fe-72b0-9467-5cf5f80e4a83.pak",
+    "metaUuid": "9f2a17a2-66fe-72b0-9467-5cf5f80e4a83",
+    "nexusModId": 19326,
+    "nexusFileId": 112009
+  },
+  {
+    "pakFileName": "GraveMagicFeat_8fd467b9-616b-5c0d-0670-92ca1e6adf53.pak",
+    "metaUuid": "8fd467b9-616b-5c0d-0670-92ca1e6adf53",
+    "nexusModId": 14378,
+    "nexusFileId": 82471
+  },
+  {
+    "pakFileName": "GuardianOfFaithShields.pak",
+    "metaUuid": "d9b2b767-d74f-4533-9980-d324cf666ada",
+    "nexusModId": 11222,
+    "nexusFileId": 65113
+  },
+  {
+    "pakFileName": "Guidelines for Load Order - Actions.pak",
+    "metaUuid": "fc1ea0db-ac09-445b-8d1c-da101023145a",
+    "nexusModId": 13215,
+    "nexusFileId": 90494
+  },
+  {
+    "pakFileName": "Guidelines for Load Order - Adult.pak",
+    "metaUuid": "1eb317e4-723c-4206-8859-67daa5d3cc56",
+    "nexusModId": 13215,
+    "nexusFileId": 90494
+  },
+  {
+    "pakFileName": "Guidelines for Load Order - Barbarian.pak",
+    "metaUuid": "12cb5624-0c60-432b-9778-187d5dc7ab9d",
+    "nexusModId": 13215,
+    "nexusFileId": 90494
+  },
+  {
+    "pakFileName": "Guidelines for Load Order - Bard.pak",
+    "metaUuid": "d92e422f-a993-49d9-93c0-d1a4999d1333",
+    "nexusModId": 13215,
+    "nexusFileId": 90494
+  },
+  {
+    "pakFileName": "Guidelines for Load Order - Bodies.pak",
+    "metaUuid": "e9834b3c-4486-43af-ba5d-8b53889d4958",
+    "nexusModId": 13215,
+    "nexusFileId": 90494
+  },
+  {
+    "pakFileName": "Guidelines for Load Order - Cheats.pak",
+    "metaUuid": "ccd88b64-25c2-44e0-ba2f-e8a162213a5a",
+    "nexusModId": 13215,
+    "nexusFileId": 90494
+  },
+  {
+    "pakFileName": "Guidelines for Load Order - Classes.pak",
+    "metaUuid": "91c40740-ebfa-46d7-ae7c-383b84d074b3",
+    "nexusModId": 13215,
+    "nexusFileId": 90494
+  },
+  {
+    "pakFileName": "Guidelines for Load Order - Cleric.pak",
+    "metaUuid": "bcfaf484-fd51-4049-80e6-02750d9df7e2",
+    "nexusModId": 13215,
+    "nexusFileId": 90494
+  },
+  {
+    "pakFileName": "Guidelines for Load Order - Color.pak",
+    "metaUuid": "c3e29602-2e5b-4c2d-8c7a-cb926dc19b7e",
+    "nexusModId": 13215,
+    "nexusFileId": 90494
+  },
+  {
+    "pakFileName": "Guidelines for Load Order - Companions.pak",
+    "metaUuid": "5a9cb0c0-c423-431a-80dc-d1413ad59a98",
+    "nexusModId": 13215,
+    "nexusFileId": 90494
+  },
+  {
+    "pakFileName": "Guidelines for Load Order - Compatibility Patches.pak",
+    "metaUuid": "1ce9519f-1348-49a4-a1d0-57879cc876ac",
+    "nexusModId": 13215,
+    "nexusFileId": 90494
+  },
+  {
+    "pakFileName": "Guidelines for Load Order - Core.pak",
+    "metaUuid": "218e3e40-5946-46ee-a2c2-5ae39dcc30e2",
+    "nexusModId": 13215,
+    "nexusFileId": 90494
+  },
+  {
+    "pakFileName": "Guidelines for Load Order - Dice.pak",
+    "metaUuid": "86ab21e0-2ee9-476a-983e-db3f4addce62",
+    "nexusModId": 13215,
+    "nexusFileId": 90494
+  },
+  {
+    "pakFileName": "Guidelines for Load Order - Difficulty.pak",
+    "metaUuid": "7fd789d3-296b-46f7-944f-86d3503c92f1",
+    "nexusModId": 13215,
+    "nexusFileId": 90494
+  },
+  {
+    "pakFileName": "Guidelines for Load Order - Druid.pak",
+    "metaUuid": "211c6e90-86ab-4774-a9d3-a9f914029952",
+    "nexusModId": 13215,
+    "nexusFileId": 90494
+  },
+  {
+    "pakFileName": "Guidelines for Load Order - Dyes.pak",
+    "metaUuid": "f3dc6f5f-4863-4296-a6d2-63880c3f5c04",
+    "nexusModId": 13215,
+    "nexusFileId": 90494
+  },
+  {
+    "pakFileName": "Guidelines for Load Order - Feats.pak",
+    "metaUuid": "2aaf8e0f-e585-4d85-9db4-04b2aa6c4860",
+    "nexusModId": 13215,
+    "nexusFileId": 90494
+  },
+  {
+    "pakFileName": "Guidelines for Load Order - Fighter.pak",
+    "metaUuid": "e3750cf0-47cf-4fd1-8c7b-a04af00a9ebd",
+    "nexusModId": 13215,
+    "nexusFileId": 90494
+  },
+  {
+    "pakFileName": "Guidelines for Load Order - Hair.pak",
+    "metaUuid": "08a12bac-ae68-4733-a0a0-e20734d33f09",
+    "nexusModId": 13215,
+    "nexusFileId": 90494
+  },
+  {
+    "pakFileName": "Guidelines for Load Order - Heads.pak",
+    "metaUuid": "0e539523-5174-408a-bcde-b0747328bbb7",
+    "nexusModId": 13215,
+    "nexusFileId": 90494
+  },
+  {
+    "pakFileName": "Guidelines for Load Order - Horns & Tails.pak",
+    "metaUuid": "99c97c8a-cfea-4620-9b4b-53a9f2d5b88f",
+    "nexusModId": 13215,
+    "nexusFileId": 90494
+  },
+  {
+    "pakFileName": "Guidelines for Load Order - Items.pak",
+    "metaUuid": "f91a6d6d-453e-48b0-95ef-30fac51e98e2",
+    "nexusModId": 13215,
+    "nexusFileId": 90494
+  },
+  {
+    "pakFileName": "Guidelines for Load Order - Late Loaders.pak",
+    "metaUuid": "08ba8251-9ee8-495e-a507-bd4cad281467",
+    "nexusModId": 13215,
+    "nexusFileId": 90494
+  },
+  {
+    "pakFileName": "Guidelines for Load Order - Libraries & Frameworks.pak",
+    "metaUuid": "92f5956c-2030-472e-9c6f-60f4a9fb598e",
+    "nexusModId": 13215,
+    "nexusFileId": 90494
+  },
+  {
+    "pakFileName": "Guidelines for Load Order - Monk.pak",
+    "metaUuid": "25e82ffd-9c9e-462a-918f-9acc0eeb8a8c",
+    "nexusModId": 13215,
+    "nexusFileId": 90494
+  },
+  {
+    "pakFileName": "Guidelines for Load Order - Paladin.pak",
+    "metaUuid": "0c495463-2361-4e91-95e4-0910d634f99d",
+    "nexusModId": 13215,
+    "nexusFileId": 90494
+  },
+  {
+    "pakFileName": "Guidelines for Load Order - Piercings.pak",
+    "metaUuid": "fe21e148-1b9e-4ede-9977-f0fbd8777cf2",
+    "nexusModId": 13215,
+    "nexusFileId": 90494
+  },
+  {
+    "pakFileName": "Guidelines for Load Order - Races.pak",
+    "metaUuid": "c67ee9b5-9883-4738-ab75-b93af70c61d2",
+    "nexusModId": 13215,
+    "nexusFileId": 90494
+  },
+  {
+    "pakFileName": "Guidelines for Load Order - Ranger.pak",
+    "metaUuid": "f328d117-eaf3-4db2-aa8c-0fed6803a59f",
+    "nexusModId": 13215,
+    "nexusFileId": 90494
+  },
+  {
+    "pakFileName": "Guidelines for Load Order - Rogue.pak",
+    "metaUuid": "7548c9ce-6995-4908-80c7-3cfe335a3b81",
+    "nexusModId": 13215,
+    "nexusFileId": 90494
+  },
+  {
+    "pakFileName": "Guidelines for Load Order - sailorcat.pak",
+    "metaUuid": "3b16bb7b-57c7-4277-afac-415db8949163",
+    "nexusModId": 13215,
+    "nexusFileId": 90494
+  },
+  {
+    "pakFileName": "Guidelines for Load Order - Scrolls.pak",
+    "metaUuid": "74d313a3-42b9-4caf-9018-efca53f49c05",
+    "nexusModId": 13215,
+    "nexusFileId": 90494
+  },
+  {
+    "pakFileName": "Guidelines for Load Order - Single-purpose SE mods.pak",
+    "metaUuid": "4f5fc4c5-cfdc-4f21-abe3-b3526785a3c7",
+    "nexusModId": 13215,
+    "nexusFileId": 90494
+  },
+  {
+    "pakFileName": "Guidelines for Load Order - Sorcerer.pak",
+    "metaUuid": "1997e287-32d8-4d7b-8aab-07d5ac919210",
+    "nexusModId": 13215,
+    "nexusFileId": 90494
+  },
+  {
+    "pakFileName": "Guidelines for Load Order - Spells.pak",
+    "metaUuid": "cbb322a0-82c5-4b08-8f27-9ce0d6cbaf69",
+    "nexusModId": 13215,
+    "nexusFileId": 90494
+  },
+  {
+    "pakFileName": "Guidelines for Load Order - Subraces.pak",
+    "metaUuid": "c45e891b-4ac1-41f5-a3c3-ea3037183802",
+    "nexusModId": 13215,
+    "nexusFileId": 90494
+  },
+  {
+    "pakFileName": "Guidelines for Load Order - Tattoos & Makeup.pak",
+    "metaUuid": "7e696733-e326-4dc2-a335-94af782cac03",
+    "nexusModId": 13215,
+    "nexusFileId": 90494
+  },
+  {
+    "pakFileName": "Guidelines for Load Order - Tools.pak",
+    "metaUuid": "71277e17-956c-4ae9-95d7-eec19cd8e694",
+    "nexusModId": 13215,
+    "nexusFileId": 90494
+  },
+  {
+    "pakFileName": "Guidelines for Load Order - Tweaks & Fixes.pak",
+    "metaUuid": "2f4fb46e-ac7b-4c73-93f5-02550fb96053",
+    "nexusModId": 13215,
+    "nexusFileId": 90494
+  },
+  {
+    "pakFileName": "Guidelines for Load Order - User Interface.pak",
+    "metaUuid": "8c0024f4-e755-4347-829c-04c50db56b6c",
+    "nexusModId": 13215,
+    "nexusFileId": 90494
+  },
+  {
+    "pakFileName": "Guidelines for Load Order - Visuals.pak",
+    "metaUuid": "08aab231-27df-4c90-b30e-4a6e1e693831",
+    "nexusModId": 13215,
+    "nexusFileId": 90494
+  },
+  {
+    "pakFileName": "Guidelines for Load Order - Warlock.pak",
+    "metaUuid": "a0e51f41-9304-44cc-836f-119aba7999f4",
+    "nexusModId": 13215,
+    "nexusFileId": 90494
+  },
+  {
+    "pakFileName": "Guidelines for Load Order - Wizard.pak",
+    "metaUuid": "30001e8b-9cf5-4a24-abfe-b8175cd92baf",
+    "nexusModId": 13215,
+    "nexusFileId": 90494
+  },
+  {
+    "pakFileName": "HairModLoadOrder_86a0ac8b-1df8-f466-cbfb-1fc51ffc6d3f.pak",
+    "metaUuid": "86a0ac8b-1df8-f466-cbfb-1fc51ffc6d3f",
+    "nexusModId": 20907,
+    "nexusFileId": 112987
+  },
+  {
+    "pakFileName": "Hallowed Flame - Cold and Radiant Sacred Flame - A-01.pak",
+    "metaUuid": "73ba2703-cb6b-46df-8a67-c1d636847794",
+    "nexusModId": 20575,
+    "nexusFileId": 111620
+  },
+  {
+    "pakFileName": "HallowleafsInCamp_b794e11a-5a84-6d18-be4d-d7d048071ed6.pak",
+    "metaUuid": "b794e11a-5a84-6d18-be4d-d7d048071ed6",
+    "nexusModId": 17838,
+    "nexusFileId": 99251
+  },
+  {
+    "pakFileName": "HalsinBarerClothes - Starting Equipment Patch.pak",
+    "metaUuid": "1cc2a1cf-876b-4e2f-9950-9d73b5ab6e8d",
+    "nexusModId": 19591,
+    "nexusFileId": 107030
+  },
+  {
+    "pakFileName": "HalsinBarerClothes.pak",
+    "metaUuid": "c16da57d-69c8-407e-91f7-2b977378c99a",
+    "nexusModId": 5517,
+    "nexusFileId": 39929
+  },
+  {
+    "pakFileName": "Harder Bosses main.pak",
+    "metaUuid": "54e6cb0f-ea49-49c2-8991-4f41eac75b66",
+    "nexusModId": 10370,
+    "nexusFileId": 79363
+  },
+  {
+    "pakFileName": "Heads of Plenty (EotB and Unique Tav).pak",
+    "metaUuid": "caaa036d-c54a-40c3-95a7-d1c8d4535d71",
+    "nexusModId": 8263,
+    "nexusFileId": 51427
+  },
+  {
+    "pakFileName": "HeadsModLoadOrder_1a03730f-021b-1342-4ab5-9194b0c1621a.pak",
+    "metaUuid": "1a03730f-021b-1342-4ab5-9194b0c1621a",
+    "nexusModId": 20907,
+    "nexusFileId": 112987
+  },
+  {
+    "pakFileName": "HealerGear_f67bdb78-3c57-8833-c875-9f7812ff6f96.pak",
+    "metaUuid": "f67bdb78-3c57-8833-c875-9f7812ff6f96",
+    "nexusModId": 17215,
+    "nexusFileId": 118723
+  },
+  {
+    "pakFileName": "heartChainChoker.pak",
+    "metaUuid": "9c6e2341-32c1-4e23-9d34-cab2ee1b8f84",
+    "nexusModId": 18791,
+    "nexusFileId": 103348
+  },
+  {
+    "pakFileName": "HeightVariation.pak",
+    "metaUuid": "dbd57fd8-a28f-429d-a116-9acd572d61c6",
+    "nexusModId": 11472,
+    "nexusFileId": 67344
+  },
+  {
+    "pakFileName": "HellfireEngineCrossbowOverhaul.pak",
+    "metaUuid": "70066582-3d21-2ec9-97a6-8cf220243877",
+    "nexusModId": 17849,
+    "nexusFileId": 99288
+  },
+  {
+    "pakFileName": "HellionsHarness_Realistic.pak",
+    "metaUuid": "3a993f3a-9713-44b5-8982-94870f69294a",
+    "nexusModId": 12318,
+    "nexusFileId": 71755
+  },
+  {
+    "pakFileName": "Helms2.pak",
+    "metaUuid": "46d2687f-dd8a-4a18-98ab-bcdf003b72ea",
+    "nexusModId": 14766,
+    "nexusFileId": 85703
+  },
+  {
+    "pakFileName": "Hierophant.pak",
+    "metaUuid": "d88fc971-5310-4982-8c03-5a96cc009b70",
+    "nexusModId": 7859,
+    "nexusFileId": 107807
+  },
+  {
+    "pakFileName": "HighlightEverythingRevisedDisableLightSourcesAddon.pak",
+    "metaUuid": "26d1fd5a-1815-44e7-8a55-00c2df374848",
+    "nexusModId": 12078,
+    "nexusFileId": 72415
+  },
+  {
+    "pakFileName": "HighlightEverythingRevisedDisableRottenFood.pak",
+    "metaUuid": "a798b86a-67ae-49c2-9c43-4fb9bd117b61",
+    "nexusModId": 1493,
+    "nexusFileId": 62625
+  },
+  {
+    "pakFileName": "HonourFeaturesUnlocker.pak",
+    "metaUuid": "0e6d5cd8-5755-4919-b44d-0a22c3f7cadd",
+    "nexusModId": 4743,
+    "nexusFileId": 49067
+  },
+  {
+    "pakFileName": "HornModLoadOrder_f9b2cfbe-906e-b893-1b0f-c7a83d098230.pak",
+    "metaUuid": "f9b2cfbe-906e-b893-1b0f-c7a83d098230",
+    "nexusModId": 20907,
+    "nexusFileId": 112987
+  },
+  {
+    "pakFileName": "Huntrix_UTAV_EOTB.pak",
+    "metaUuid": "2cd8e62a-318f-435d-b100-7e1f618f64cb",
+    "nexusModId": 18199,
+    "nexusFileId": 107626
+  },
+  {
+    "pakFileName": "Ice Dice.pak",
+    "metaUuid": "0007c8ec-aec3-4cfc-9177-633ebc56f87c",
+    "nexusModId": 6748,
+    "nexusFileId": 44775
+  },
+  {
+    "pakFileName": "Iconic Companion Armours with OOMPH.pak",
+    "metaUuid": "e4b4a849-863e-47d3-94b5-d8a895a35017",
+    "nexusModId": 4237,
+    "nexusFileId": 35262
+  },
+  {
+    "pakFileName": "Illithid Emporium.pak",
+    "metaUuid": "be37d703-7597-4878-90bf-9c4221835509",
+    "nexusModId": 14860,
+    "nexusFileId": 103769
+  },
+  {
+    "pakFileName": "Illithid Powers Overhaul - No Astral.pak",
+    "metaUuid": "45c0dfdf-d2a4-4e69-a31b-1e446186c32c",
+    "nexusModId": 5105,
+    "nexusFileId": 85426
+  },
+  {
+    "pakFileName": "IlluminateDiceSet.pak",
+    "metaUuid": "92c4cfb3-b4e7-4721-8144-9a43d01d90ca",
+    "nexusModId": 1421,
+    "nexusFileId": 9985
+  },
+  {
+    "pakFileName": "Improved Dimension Door.pak",
+    "metaUuid": "410dabcc-2249-4e9c-b305-6fd50864494a",
+    "nexusModId": 2493,
+    "nexusFileId": 81507
+  },
+  {
+    "pakFileName": "Infernal_Step.pak",
+    "metaUuid": "ea9338c4-cbc7-48f5-8908-04b943342a0e",
+    "nexusModId": 15633,
+    "nexusFileId": 92712
+  },
+  {
+    "pakFileName": "InstantMainMenu.pak",
+    "metaUuid": "3b9d2f6a-8c41-4e2a-b1f6-9e7c5a4d0f92",
+    "nexusModId": 20777,
+    "nexusFileId": 112542
+  },
+  {
+    "pakFileName": "InventoryExpanded_1.0.1.pak",
+    "metaUuid": "68ac51da-c600-4de4-a795-417d371148bc",
+    "nexusModId": 22267,
+    "nexusFileId": 119220
+  },
+  {
+    "pakFileName": "Invisibility Overhaul.pak",
+    "metaUuid": "52984447-6d69-499b-97d5-0ddf62bc6b19",
+    "nexusModId": 20425,
+    "nexusFileId": 122535
+  },
+  {
+    "pakFileName": "Isobel_Camp_Clothes_1d213c1f-73c2-e585-78ff-1cc9cdea4311.pak",
+    "metaUuid": "1d213c1f-73c2-e585-78ff-1cc9cdea4311",
+    "nexusModId": 17845,
+    "nexusFileId": 117931
+  },
+  {
+    "pakFileName": "Izzli's Refined Visage.pak",
+    "metaUuid": "105b3700-4937-4920-b72e-c0c7a258abc4",
+    "nexusModId": 4327,
+    "nexusFileId": 34735
+  },
+  {
+    "pakFileName": "JAX_Astarion.pak",
+    "metaUuid": "229a3c61-2f3a-48f4-8824-cb637ab765d1",
+    "nexusModId": 12760,
+    "nexusFileId": 76254
+  },
+  {
+    "pakFileName": "JAX_Gale.pak",
+    "metaUuid": "81d75b71-136c-4163-a988-1c6e9c2ca84e",
+    "nexusModId": 12843,
+    "nexusFileId": 74225
+  },
+  {
+    "pakFileName": "JAX_Halsin_Beardless.pak",
+    "metaUuid": "1f2b7ec8-e9dd-4947-a615-46c366261a5d",
+    "nexusModId": 13424,
+    "nexusFileId": 76989
+  },
+  {
+    "pakFileName": "JAX_Minthara.pak",
+    "metaUuid": "63bc404b-fd96-4d72-b266-95fd859bab65",
+    "nexusModId": 13608,
+    "nexusFileId": 77801
+  },
+  {
+    "pakFileName": "JAX_Shadowheart.pak",
+    "metaUuid": "41b29293-e288-4629-a800-817ab11862e7",
+    "nexusModId": 13079,
+    "nexusFileId": 75226
+  },
+  {
+    "pakFileName": "JAX_ShadowheartStraps.pak",
+    "metaUuid": "c83924dc-6811-421d-ba24-39d02939ba20",
+    "nexusModId": 15706,
+    "nexusFileId": 88649
+  },
+  {
+    "pakFileName": "JergalDeity.pak",
+    "metaUuid": "bcc9e8c0-a5ff-41c7-8c76-6f7381e5a211",
+    "nexusModId": 6571,
+    "nexusFileId": 44565
+  },
+  {
+    "pakFileName": "jerinski_alt-makeup_KAVT.pak",
+    "metaUuid": "7dedc9d4-dde0-4a0d-b505-ca7999bcbc18",
+    "nexusModId": 6674,
+    "nexusFileId": 92597
+  },
+  {
+    "pakFileName": "JustAMomentMore_faa86737-d17b-733f-9c70-86cbdab7abcc.pak",
+    "metaUuid": "faa86737-d17b-733f-9c70-86cbdab7abcc",
+    "nexusModId": 19868,
+    "nexusFileId": 108422
+  },
+  {
+    "pakFileName": "JWL_CFWtutchest.pak",
+    "metaUuid": "a5c04a1a-09a8-4249-9b19-88ee07488094",
+    "nexusModId": 1624,
+    "nexusFileId": 16648
+  },
+  {
+    "pakFileName": "JWL_Coffers_Inaccessibles.pak",
+    "metaUuid": "f594ede8-0a0c-4fc6-b3df-7cf94717f8e0",
+    "nexusModId": 7938,
+    "nexusFileId": 54007
+  },
+  {
+    "pakFileName": "JWL_DiscordantInstruments_CoffersPlugin.pak",
+    "metaUuid": "4b02c2ef-0754-4841-a2d0-8d1942e16c8f",
+    "nexusModId": 9119,
+    "nexusFileId": 55449
+  },
+  {
+    "pakFileName": "JWL_DiscordantInstruments_TutorialChest.pak",
+    "metaUuid": "8abb4dd3-0b0c-4f31-9bcb-3b0ceee79169",
+    "nexusModId": 9119,
+    "nexusFileId": 55450
+  },
+  {
+    "pakFileName": "JWL_DiscordantInstruments_zNoCatchyTune.pak",
+    "metaUuid": "6ea30808-5b11-4de9-886b-a47bc4f1a88b",
+    "nexusModId": 17536,
+    "nexusFileId": 108083
+  },
+  {
+    "pakFileName": "JWL_OneMansTrash.pak",
+    "metaUuid": "6079e591-36e0-4897-a42d-6eef04cb8db1",
+    "nexusModId": 8095,
+    "nexusFileId": 50741
+  },
+  {
+    "pakFileName": "K-PopPoses.pak",
+    "metaUuid": "61442745-8ae6-ec0a-6198-6795378f7e38",
+    "nexusModId": 21322,
+    "nexusFileId": 120745
+  },
+  {
+    "pakFileName": "KAVT UCA Patch.pak",
+    "metaUuid": "cc991189-9026-41dd-9782-e20e44568a06",
+    "nexusModId": 8832,
+    "nexusFileId": 110284
+  },
+  {
+    "pakFileName": "KayShartAccessory_95b622ab-17de-353d-caa0-0199300a3394.pak",
+    "metaUuid": "95b622ab-17de-353d-caa0-0199300a3394",
+    "nexusModId": 13093,
+    "nexusFileId": 75410
+  },
+  {
+    "pakFileName": "KAZSTRA_UniqueTav_EOTB.pak",
+    "metaUuid": "eb9826ea-023d-4b48-97d5-3df1679182a4",
+    "nexusModId": 16325,
+    "nexusFileId": 114918
+  },
+  {
+    "pakFileName": "KendersLabsCoreLibs.pak",
+    "metaUuid": "47e1154e-e169-4e4a-80b6-d117171ccd15",
+    "nexusModId": 11245,
+    "nexusFileId": 68664
+  },
+  {
+    "pakFileName": "LaDSRings2.pak",
+    "metaUuid": "acf7a2f6-cdd6-4818-a532-d5f4ba05edcf",
+    "nexusModId": 17590,
+    "nexusFileId": 100001
+  },
+  {
+    "pakFileName": "LaezelSilentSwordGrinding.pak",
+    "metaUuid": "55200deb-0b1a-48a1-9956-aafb5db5738f",
+    "nexusModId": 22154,
+    "nexusFileId": 117609
+  },
+  {
+    "pakFileName": "LampOfLuxury_8d879fd3-1bcf-ecf6-91d2-5afcad7bd4a6.pak",
+    "metaUuid": "8d879fd3-1bcf-ecf6-91d2-5afcad7bd4a6",
+    "nexusModId": 21809,
+    "nexusFileId": 121522
+  },
+  {
+    "pakFileName": "LathanderWeapons.pak",
+    "metaUuid": "382381fc-1b89-44d6-929e-a31b21f7d619",
+    "nexusModId": 13491,
+    "nexusFileId": 77332
+  },
+  {
+    "pakFileName": "Learn_Racial_Spells.pak",
+    "metaUuid": "af988c23-b425-4bd8-a21c-739d2259dd71",
+    "nexusModId": 626,
+    "nexusFileId": 9080
+  },
+  {
+    "pakFileName": "LegendaryItemsLootTables3.pak",
+    "metaUuid": "4b87e705-bd05-4e4f-863b-2b6db932f70a",
+    "nexusModId": 146,
+    "nexusFileId": 17811
+  },
+  {
+    "pakFileName": "LevelsModLoadOrder_e710926d-ff53-90a5-91c9-4fbb5fd350af.pak",
+    "metaUuid": "e710926d-ff53-90a5-91c9-4fbb5fd350af",
+    "nexusModId": 20907,
+    "nexusFileId": 112987
+  },
+  {
+    "pakFileName": "LewdSweatierSex.pak",
+    "metaUuid": "a416585f-177d-4ce2-8745-217000156b2b",
+    "nexusModId": 12097,
+    "nexusFileId": 117167
+  },
+  {
+    "pakFileName": "Ley_Legacy.pak",
+    "metaUuid": "06f04781-e78a-4949-9a18-32000ef7e0ca",
+    "nexusModId": 13003,
+    "nexusFileId": 75259
+  },
+  {
+    "pakFileName": "Liber Profanus - Symbos Necrotic Spells - Volume 1 - All.pak",
+    "metaUuid": "c28ad2e9-8dd9-429c-a6b0-f1ba00833231",
+    "nexusModId": 18701,
+    "nexusFileId": 103452
+  },
+  {
+    "pakFileName": "LN_LNW_PosePack.pak",
+    "metaUuid": "424a6797-b82a-a401-3ef4-1530d4ad75f2",
+    "nexusModId": 22198,
+    "nexusFileId": 117777
+  },
+  {
+    "pakFileName": "LongHairWyllPortraitsB.pak",
+    "metaUuid": "818fa0af-5149-4553-a4dd-e8c7c4286d96",
+    "nexusModId": 5760,
+    "nexusFileId": 38962
+  },
+  {
+    "pakFileName": "LootAura - Loot Pickup Aura with In-World Tooltips.pak",
+    "metaUuid": "888cdb99-c0f5-4ae5-8b09-6c75715107d2",
+    "nexusModId": 20343,
+    "nexusFileId": 122880
+  },
+  {
+    "pakFileName": "LoreBasedCraftingFramework.pak",
+    "metaUuid": "5593c5cd-b273-4048-ae87-635c1d487a5e",
+    "nexusModId": 17280,
+    "nexusFileId": 99163
+  },
+  {
+    "pakFileName": "Lorelai Head (Main).pak",
+    "metaUuid": "ba639785-8765-2b10-b94d-82a6ca74232a",
+    "nexusModId": 17545,
+    "nexusFileId": 98024
+  },
+  {
+    "pakFileName": "LorelaiHeadEOTB+UT.pak",
+    "metaUuid": "ec05fd11-450a-4137-8599-0e9d383bca5a",
+    "nexusModId": 17545,
+    "nexusFileId": 97960
+  },
+  {
+    "pakFileName": "Lunar Barrier - Cold and Radiant Blade Ward - A-01.pak",
+    "metaUuid": "e1dfb15b-aa08-47c2-86df-2fa90705ab49",
+    "nexusModId": 20553,
+    "nexusFileId": 111398
+  },
+  {
+    "pakFileName": "LunarSpellsForPaladinandCleric_0a890027-c0a6-b66d-11df-fdbe2bf7d174.pak",
+    "metaUuid": "0a890027-c0a6-b66d-11df-fdbe2bf7d174",
+    "nexusModId": 18114,
+    "nexusFileId": 100731
+  },
+  {
+    "pakFileName": "Lustrous Bolt - Moonlight Guiding Bolt - A-01.pak",
+    "metaUuid": "4a18ee1e-7fb6-4567-a2d8-2fca8903dc54",
+    "nexusModId": 20673,
+    "nexusFileId": 112326
+  },
+  {
+    "pakFileName": "Luthics_Chosen.pak",
+    "metaUuid": "504a59f6-3ca0-4750-920b-4cf6f6570895",
+    "nexusModId": 1130,
+    "nexusFileId": 8409
+  },
+  {
+    "pakFileName": "Lydias_Heads - EOTB Patch.pak",
+    "metaUuid": "5ba85fad-d29b-460d-ad07-9a1510a928e8",
+    "nexusModId": 5706,
+    "nexusFileId": 107647
+  },
+  {
+    "pakFileName": "L_minharp_merged.pak",
+    "metaUuid": "ea026004-6f3d-428a-8deb-5a61fae5d9b8",
+    "nexusModId": 12512,
+    "nexusFileId": 80206
+  },
+  {
+    "pakFileName": "MageHandImproved.pak",
+    "metaUuid": "0bfb4382-5fb8-48a0-bae5-f6921b0ad655",
+    "nexusModId": 584,
+    "nexusFileId": 5391
+  },
+  {
+    "pakFileName": "Magic Mirror Menu.pak",
+    "metaUuid": "4415ed38-ca93-407d-863d-75d4c5a2941c",
+    "nexusModId": 7258,
+    "nexusFileId": 69819
+  },
+  {
+    "pakFileName": "ManyMoreMonsters_ZeroExp.pak",
+    "metaUuid": "57a6c3a9-f9a0-4d55-ac20-4dc63e1de77f",
+    "nexusModId": 11639,
+    "nexusFileId": 122789
+  },
+  {
+    "pakFileName": "MarkoheshkirExpandedSE.pak",
+    "metaUuid": "ae5dd13a-f8a6-454a-9818-bdf226408dbc",
+    "nexusModId": 15396,
+    "nexusFileId": 105922
+  },
+  {
+    "pakFileName": "MCM-RakorModLoadOrder_095cde8f-baf7-7151-22ba-03d8f6d3ac8a.pak",
+    "metaUuid": "095cde8f-baf7-7151-22ba-03d8f6d3ac8a",
+    "nexusModId": 20907,
+    "nexusFileId": 112987
+  },
+  {
+    "pakFileName": "Medusae's Muses (Unique Tav +EotB).pak",
+    "metaUuid": "641be5f1-e555-4f49-8b27-181d65226271",
+    "nexusModId": 8731,
+    "nexusFileId": 110340
+  },
+  {
+    "pakFileName": "Metamagic Enhanced.pak",
+    "metaUuid": "9df4cb65-c1ca-4344-b672-e5ec0ba4fdbe",
+    "nexusModId": 9543,
+    "nexusFileId": 106265
+  },
+  {
+    "pakFileName": "Metamagic Merged - Duplicate Patch.pak",
+    "metaUuid": "c4d5e6f7-8901-2345-abcd-ef6789012345",
+    "nexusModId": 21743,
+    "nexusFileId": 116130
+  },
+  {
+    "pakFileName": "MetamagicCompatibility_decd63fa-4853-7e5a-cceb-f26fe5342dfd.pak",
+    "metaUuid": "decd63fa-4853-7e5a-cceb-f26fe5342dfd",
+    "nexusModId": 5674,
+    "nexusFileId": 94330
+  },
+  {
+    "pakFileName": "Metamagic_Merged.pak",
+    "metaUuid": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+    "nexusModId": 21743,
+    "nexusFileId": 122128
+  },
+  {
+    "pakFileName": "MGNTN_HugsInDialog_FFA.pak",
+    "metaUuid": "d183bfdd-e882-4cea-acdd-e6730a83e581",
+    "nexusModId": 9994,
+    "nexusFileId": 121798
+  },
+  {
+    "pakFileName": "Midnight-Elves.pak",
+    "metaUuid": "4c3fb522-a0a6-196d-a32d-deed80e9e624",
+    "nexusModId": 12560,
+    "nexusFileId": 91946
+  },
+  {
+    "pakFileName": "Mira.pak",
+    "metaUuid": "2c470060-1448-0e7b-e32c-2e846945c183",
+    "nexusModId": 19538,
+    "nexusFileId": 106825
+  },
+  {
+    "pakFileName": "MLD - 21.pak",
+    "metaUuid": "30c91838-e543-4357-ad19-d80ec19bfd9e",
+    "nexusModId": 1680,
+    "nexusFileId": 35722
+  },
+  {
+    "pakFileName": "Moonsong - FoxHead.pak",
+    "metaUuid": "e54cbe9a-119f-4a80-97df-502b1c6133b1",
+    "nexusModId": 15046,
+    "nexusFileId": 92098
+  },
+  {
+    "pakFileName": "Moonsong - Versatile Original.pak",
+    "metaUuid": "88678698-ba24-46bd-bf05-fa31c5db599d",
+    "nexusModId": 15046,
+    "nexusFileId": 91512
+  },
+  {
+    "pakFileName": "moon_epilogue_letter_fix_93e94a5e-ccc0-1354-e22c-e83f1d0c43e4.pak",
+    "metaUuid": "93e94a5e-ccc0-1354-e22c-e83f1d0c43e4",
+    "nexusModId": 16055,
+    "nexusFileId": 90503
+  },
+  {
+    "pakFileName": "More Fighting Styles.pak",
+    "metaUuid": "d36f1a0f-0c75-4f49-88e8-04a6c8a6e9c6",
+    "nexusModId": 12139,
+    "nexusFileId": 71762
+  },
+  {
+    "pakFileName": "More Noblestalk - MCM.pak",
+    "metaUuid": "c3b3aa90-426b-417b-9b2b-beb76eed700e",
+    "nexusModId": 3055,
+    "nexusFileId": 77663
+  },
+  {
+    "pakFileName": "More Spells Known.pak",
+    "metaUuid": "22761113-0898-41b4-aa7b-cd941b4d1a96",
+    "nexusModId": 9982,
+    "nexusFileId": 59443
+  },
+  {
+    "pakFileName": "MoreAbsKarlach.pak",
+    "metaUuid": "ae866391-6290-4c44-8689-003f44418bbe",
+    "nexusModId": 13981,
+    "nexusFileId": 79981
+  },
+  {
+    "pakFileName": "MoreAbsLaezel.pak",
+    "metaUuid": "763d11ab-e003-4314-b16e-115dc48f742f",
+    "nexusModId": 13592,
+    "nexusFileId": 77729
+  },
+  {
+    "pakFileName": "MoreAbsShadowheart.pak",
+    "metaUuid": "1637c7a1-33bd-4021-8060-a962c04d5aef",
+    "nexusModId": 13478,
+    "nexusFileId": 77247
+  },
+  {
+    "pakFileName": "MoreBeds.pak",
+    "metaUuid": "46f28281-e8da-aeab-6248-acbdaf6cce9d",
+    "nexusModId": 14662,
+    "nexusFileId": 93042
+  },
+  {
+    "pakFileName": "MoreDecor.pak",
+    "metaUuid": "c6c3d6e8-81bb-c4ce-e237-14cdd1f7d06d",
+    "nexusModId": 14680,
+    "nexusFileId": 93037
+  },
+  {
+    "pakFileName": "MoreHeadPresets.pak",
+    "metaUuid": "666ff741-531a-4937-9f3c-449750d2d67e",
+    "nexusModId": 3641,
+    "nexusFileId": 30492
+  },
+  {
+    "pakFileName": "MoreLights.pak",
+    "metaUuid": "48ae3668-2e36-e42a-e403-1b73966f5508",
+    "nexusModId": 14731,
+    "nexusFileId": 93041
+  },
+  {
+    "pakFileName": "MoreMimics.pak",
+    "metaUuid": "c19ca43a-c3c7-4e58-9d00-f7d928e72074",
+    "nexusModId": 10025,
+    "nexusFileId": 106852
+  },
+  {
+    "pakFileName": "More_Weapons_by_Guigodead.pak",
+    "metaUuid": "41837649-5d7e-6dc6-39d5-ac30012450e8",
+    "nexusModId": 14913,
+    "nexusFileId": 93794
+  },
+  {
+    "pakFileName": "MorninglordsMorningstar_a7ac15bd-bc68-cbd3-ab00-086e92b5399f.pak",
+    "metaUuid": "a7ac15bd-bc68-cbd3-ab00-086e92b5399f",
+    "nexusModId": 14149,
+    "nexusFileId": 121506
+  },
+  {
+    "pakFileName": "MourningFrost.pak",
+    "metaUuid": "7c66f5e1-8a02-4fdc-bb10-fda818a7bd5e",
+    "nexusModId": 3889,
+    "nexusFileId": 26254
+  },
+  {
+    "pakFileName": "MS_Elf1_to_Gith1.pak",
+    "metaUuid": "ac0e62b1-1866-42ea-988f-b59c98fb8376",
+    "nexusModId": 1367,
+    "nexusFileId": 99333
+  },
+  {
+    "pakFileName": "MS_Shadowdancer_WIS.pak",
+    "metaUuid": "e48d404b-5ef4-4808-8116-8db9e473c7ae",
+    "nexusModId": 2315,
+    "nexusFileId": 89521
+  },
+  {
+    "pakFileName": "MyrkulDeity.pak",
+    "metaUuid": "e08ec529-d255-42ea-bce2-4bb9b4605090",
+    "nexusModId": 5906,
+    "nexusFileId": 39814
+  },
+  {
+    "pakFileName": "NamaLolthUTavEoTB.pak",
+    "metaUuid": "19c99815-43ff-44ff-8bdc-c631ef96bb3e",
+    "nexusModId": 12412,
+    "nexusFileId": 72981
+  },
+  {
+    "pakFileName": "NeonsClickerCollection.pak",
+    "metaUuid": "1ecee2a0-c5a8-483a-8b54-e92b0443c6bb",
+    "nexusModId": 12214,
+    "nexusFileId": 71451
+  },
+  {
+    "pakFileName": "Netherlord.pak",
+    "metaUuid": "dcf92b6c-625c-4822-ac9f-48aa124efcd5",
+    "nexusModId": 23091,
+    "nexusFileId": 122484
+  },
+  {
+    "pakFileName": "NightwardenMinthara[NightlyHairdo].pak",
+    "metaUuid": "f88dd498-f085-433d-b8ee-10b7f5aa0ef7",
+    "nexusModId": 22156,
+    "nexusFileId": 118566
+  },
+  {
+    "pakFileName": "Night_Orchid_Hair_b80382d0-98c9-b61a-b7aa-c371edd3c258.pak",
+    "metaUuid": "b80382d0-98c9-b61a-b7aa-c371edd3c258",
+    "nexusModId": 18350,
+    "nexusFileId": 121004
+  },
+  {
+    "pakFileName": "NoAstralTadpoleRequiredForHalfIllithidPowers.pak",
+    "metaUuid": "b5d2985c-d96d-4017-9433-ef8ddb7e4108",
+    "nexusModId": 2337,
+    "nexusFileId": 16226
+  },
+  {
+    "pakFileName": "NoEmperorRomance.pak",
+    "metaUuid": "a1db6923-a5fb-41aa-8972-7775f0ad1c10",
+    "nexusModId": 22734,
+    "nexusFileId": 120643
+  },
+  {
+    "pakFileName": "Noira_PiercingSets_Barbarian.pak",
+    "metaUuid": "c1d5f6b7-1dfa-4b16-ad4c-5fa0669020eb",
+    "nexusModId": 6705,
+    "nexusFileId": 65693
+  },
+  {
+    "pakFileName": "NoMoreRedItems_d5e6f0fd-6612-69b0-3a37-73b7f6fb463c.pak",
+    "metaUuid": "d5e6f0fd-6612-69b0-3a37-73b7f6fb463c",
+    "nexusModId": 20473,
+    "nexusFileId": 111208
+  },
+  {
+    "pakFileName": "NoTutorialPopup_f571f706-2d9b-9b2d-7775-1e8399360d85.pak",
+    "metaUuid": "f571f706-2d9b-9b2d-7775-1e8399360d85",
+    "nexusModId": 17933,
+    "nexusFileId": 99679
+  },
+  {
+    "pakFileName": "NPC Hairstyles.pak",
+    "metaUuid": "9291c732-9b93-4032-ab5c-149bf18b4175",
+    "nexusModId": 8537,
+    "nexusFileId": 52896
+  },
+  {
+    "pakFileName": "Oath of Heroism.pak",
+    "metaUuid": "c4d2ced3-b15b-4246-8377-41d2089151dc",
+    "nexusModId": 9233,
+    "nexusFileId": 105782
+  },
+  {
+    "pakFileName": "OceanOpalStarrySkyDice.pak",
+    "metaUuid": "b125fbb1-5eef-46e0-b354-bc29d580c540",
+    "nexusModId": 19431,
+    "nexusFileId": 106513
+  },
+  {
+    "pakFileName": "OneDnD_WeaponMastery_272e8443-e3c4-c455-82dc-13acd1b97819.pak",
+    "metaUuid": "272e8443-e3c4-c455-82dc-13acd1b97819",
+    "nexusModId": 13055,
+    "nexusFileId": 75339
+  },
+  {
+    "pakFileName": "OnyxMonkCollection.pak",
+    "metaUuid": "2031275d-febb-48ed-ad57-f1c4a20fe43a",
+    "nexusModId": 11715,
+    "nexusFileId": 68075
+  },
+  {
+    "pakFileName": "OnyxStarrySkyDice.pak",
+    "metaUuid": "1d5762ab-5538-4b1f-a8fa-2855ec2c5e88",
+    "nexusModId": 19431,
+    "nexusFileId": 106255
+  },
+  {
+    "pakFileName": "OO_BagsAndBundles_735bf68d-bc19-a2ed-4237-b48966923592.pak",
+    "metaUuid": "735bf68d-bc19-a2ed-4237-b48966923592",
+    "nexusModId": 19804,
+    "nexusFileId": 108384
+  },
+  {
+    "pakFileName": "Open Hand - Compact Buttons.pak",
+    "metaUuid": "00482424-de2a-48d1-89df-d610ecefb389",
+    "nexusModId": 1411,
+    "nexusFileId": 37878
+  },
+  {
+    "pakFileName": "OptionalMenubits_a572649f-6ef6-5b60-cad0-7e73c1f1ef93.pak",
+    "metaUuid": "a572649f-6ef6-5b60-cad0-7e73c1f1ef93",
+    "nexusModId": 13084,
+    "nexusFileId": 76598
+  },
+  {
+    "pakFileName": "OrinNails.pak",
+    "metaUuid": "3de8dfc3-59b5-46b9-9816-1c14bc42dcf9",
+    "nexusModId": 12280,
+    "nexusFileId": 106069
+  },
+  {
+    "pakFileName": "OtherAppearancesModLoadOrder_0a2c6171-3f3b-e22e-8b5f-eca9960a87dc.pak",
+    "metaUuid": "0a2c6171-3f3b-e22e-8b5f-eca9960a87dc",
+    "nexusModId": 20907,
+    "nexusFileId": 112987
+  },
+  {
+    "pakFileName": "OtherGameChangingModLoadOrder_0894fbaf-8e61-e45e-47f9-aed71264c518.pak",
+    "metaUuid": "0894fbaf-8e61-e45e-47f9-aed71264c518",
+    "nexusModId": 20907,
+    "nexusFileId": 112987
+  },
+  {
+    "pakFileName": "OverloveBT1_56b196bc-33ad-07af-a79d-c74ea3404c0d.pak",
+    "metaUuid": "56b196bc-33ad-07af-a79d-c74ea3404c0d",
+    "nexusModId": 20819,
+    "nexusFileId": 113392
+  },
+  {
+    "pakFileName": "OWY_Garden_dd366f00-66e7-e689-0db0-5d201e0ab533.pak",
+    "metaUuid": "dd366f00-66e7-e689-0db0-5d201e0ab533",
+    "nexusModId": 22222,
+    "nexusFileId": 117837
+  },
+  {
+    "pakFileName": "P4_HornColours.pak",
+    "metaUuid": "294a70ee-5e5f-418b-89f7-e74ba0af9514",
+    "nexusModId": 340,
+    "nexusFileId": 76842
+  },
+  {
+    "pakFileName": "p4_unique_com_8cc519bd-cfd3-4041-9468-518cc3e31b28.pak",
+    "metaUuid": "8cc519bd-cfd3-4041-9468-518cc3e31b28",
+    "nexusModId": 8832,
+    "nexusFileId": 121315
+  },
+  {
+    "pakFileName": "Painterly_Presets_936eaa30-b186-0909-c030-1ba746b14e28.pak",
+    "metaUuid": "936eaa30-b186-0909-c030-1ba746b14e28",
+    "nexusModId": 21670,
+    "nexusFileId": 115777
+  },
+  {
+    "pakFileName": "Paladin Tweaks.pak",
+    "metaUuid": "07c009be-5de7-492e-9aa6-b7fc23ae9fea",
+    "nexusModId": 13028,
+    "nexusFileId": 90351
+  },
+  {
+    "pakFileName": "Patches_Crafting_AIO.pak",
+    "metaUuid": "a4aff2da-9ec7-4182-aa5e-54aceddebc88",
+    "nexusModId": 17332,
+    "nexusFileId": 97525
+  },
+  {
+    "pakFileName": "PiercingsModLoadOrder_90711f62-332d-c71e-5173-5830d2deccd0.pak",
+    "metaUuid": "90711f62-332d-c71e-5173-5830d2deccd0",
+    "nexusModId": 20907,
+    "nexusFileId": 112987
+  },
+  {
+    "pakFileName": "PK Verso's Outfit [NonVT] - Starting Equipment Patch.pak",
+    "metaUuid": "bfcdb1a2-1d6e-4871-a69d-3014ed100986",
+    "nexusModId": 19591,
+    "nexusFileId": 107029
+  },
+  {
+    "pakFileName": "PL_Rogue_Equipment_982e377a-58e3-1da7-eb71-6a88ba87a346.pak",
+    "metaUuid": "982e377a-58e3-1da7-eb71-6a88ba87a346",
+    "nexusModId": 15513,
+    "nexusFileId": 88241
+  },
+  {
+    "pakFileName": "Poesielibre shattered.pak",
+    "metaUuid": "de926383-4d05-45c0-b0ef-cc4c88621898",
+    "nexusModId": 10413,
+    "nexusFileId": 62075
+  },
+  {
+    "pakFileName": "PosesModLoadOrder_28295ea2-524a-78e3-62f2-fa8f2184cf5c.pak",
+    "metaUuid": "28295ea2-524a-78e3-62f2-fa8f2184cf5c",
+    "nexusModId": 20907,
+    "nexusFileId": 112987
+  },
+  {
+    "pakFileName": "Practical5eSpells.pak",
+    "metaUuid": "fcdb4891-3adb-4eb7-877d-a16ffc8dc72f",
+    "nexusModId": 20940,
+    "nexusFileId": 116357
+  },
+  {
+    "pakFileName": "princeofgate-uca_patch.pak",
+    "metaUuid": "e03559bb-6a07-61b9-24b3-9078f5f2f66f",
+    "nexusModId": 8832,
+    "nexusFileId": 110198
+  },
+  {
+    "pakFileName": "princeofthegate.pak",
+    "metaUuid": "cc5b98a1-b327-4b85-ae6c-bb9e39cb4824",
+    "nexusModId": 7537,
+    "nexusFileId": 48469
+  },
+  {
+    "pakFileName": "Prone Concentration Fix.pak",
+    "metaUuid": "61db033d-66aa-4182-8e36-8da28e1a4878",
+    "nexusModId": 10101,
+    "nexusFileId": 59919
+  },
+  {
+    "pakFileName": "Psionics - Wizard Subclass.pak",
+    "metaUuid": "e278eea8-cb3c-42ac-887e-e02f56e40dc5",
+    "nexusModId": 10014,
+    "nexusFileId": 116084
+  },
+  {
+    "pakFileName": "Purple's Upgradeable Equipment - Vender.pak",
+    "metaUuid": "f813155f-3403-44d0-bfb8-9cd3430598b4",
+    "nexusModId": 11721,
+    "nexusFileId": 67945
+  },
+  {
+    "pakFileName": "Purple's Upgradeable Equipment.pak",
+    "metaUuid": "88e0e91d-09b9-445d-b97e-2080c1d6706e",
+    "nexusModId": 11721,
+    "nexusFileId": 70434
+  },
+  {
+    "pakFileName": "QuietCompanionsToggle_0bc7decb-4d2d-33b8-7681-b797da9d204b.pak",
+    "metaUuid": "0bc7decb-4d2d-33b8-7681-b797da9d204b",
+    "nexusModId": 17423,
+    "nexusFileId": 97522
+  },
+  {
+    "pakFileName": "RabbitHeartBarbarian_bba998a1-9cfa-95d7-6cc0-c36c45a44031.pak",
+    "metaUuid": "bba998a1-9cfa-95d7-6cc0-c36c45a44031",
+    "nexusModId": 22762,
+    "nexusFileId": 120934
+  },
+  {
+    "pakFileName": "Race-SubRaceModLoadOrder_712b0cb1-10a2-0b9d-f7ca-c1059892f301.pak",
+    "metaUuid": "712b0cb1-10a2-0b9d-f7ca-c1059892f301",
+    "nexusModId": 20907,
+    "nexusFileId": 112987
+  },
+  {
+    "pakFileName": "RadiantBladeCantrip_18256291-2ac6-e985-fef5-ae6e4fcf8212.pak",
+    "metaUuid": "18256291-2ac6-e985-fef5-ae6e4fcf8212",
+    "nexusModId": 18115,
+    "nexusFileId": 100735
+  },
+  {
+    "pakFileName": "RadiantBurst.pak",
+    "metaUuid": "fd788bd2-b118-4bed-aced-43aed473dfe6",
+    "nexusModId": 14778,
+    "nexusFileId": 108298
+  },
+  {
+    "pakFileName": "RadRetortReimagined_1000.pak",
+    "metaUuid": "aae1bba2-6d1e-b611-08e5-0945c3160177",
+    "nexusModId": 14119,
+    "nexusFileId": 81067
+  },
+  {
+    "pakFileName": "RageShortRest.pak",
+    "metaUuid": "5eaa0c2b-e084-4367-bd9d-bcbac47fad33",
+    "nexusModId": 683,
+    "nexusFileId": 5943
+  },
+  {
+    "pakFileName": "RandomFeats.pak",
+    "metaUuid": "0cbbaad0-c215-4211-a764-71d4d00ec5c7",
+    "nexusModId": 3660,
+    "nexusFileId": 25208
+  },
+  {
+    "pakFileName": "Reactions while Invisible BUGFIX - AoO Patch.pak",
+    "metaUuid": "ef63f7b0-bf98-473f-abce-a81a2ecffd71",
+    "nexusModId": 19493,
+    "nexusFileId": 108285
+  },
+  {
+    "pakFileName": "ReassignNecromancyOfThay.pak",
+    "metaUuid": "a7284012-f754-487c-b00c-0f83e9f42bec",
+    "nexusModId": 15290,
+    "nexusFileId": 101280
+  },
+  {
+    "pakFileName": "RegentsWardrobe_c26256af-d6b5-5011-6b2e-a4a952496db5.pak",
+    "metaUuid": "c26256af-d6b5-5011-6b2e-a4a952496db5",
+    "nexusModId": 16281,
+    "nexusFileId": 91513
+  },
+  {
+    "pakFileName": "ResilientRobes.pak",
+    "metaUuid": "878ad7ac-833b-494d-aa19-a95dc2076599",
+    "nexusModId": 16220,
+    "nexusFileId": 91398
+  },
+  {
+    "pakFileName": "Revised Ray Of Frost.pak",
+    "metaUuid": "2b4d1320-cf1b-4eec-9162-d59e3fd312f7",
+    "nexusModId": 12903,
+    "nexusFileId": 74536
+  },
+  {
+    "pakFileName": "Revised Shields.pak",
+    "metaUuid": "c7f1be3c-6add-455e-8b80-77b1df8dc6b8",
+    "nexusModId": 10984,
+    "nexusFileId": 73358
+  },
+  {
+    "pakFileName": "RingsofPatheon (Patch1.2.1).pak",
+    "metaUuid": "92650eca-5507-40aa-b369-f07d594b595e",
+    "nexusModId": 3970,
+    "nexusFileId": 36599
+  },
+  {
+    "pakFileName": "RingsOfReturning.pak",
+    "metaUuid": "bc68fe0b-905d-4b97-8c06-4bd9c0870d57",
+    "nexusModId": 3241,
+    "nexusFileId": 50624
+  },
+  {
+    "pakFileName": "Ritual_WildShape.pak",
+    "metaUuid": "ddb30d7b-232a-4a60-9b2c-55332df06ea5",
+    "nexusModId": 3214,
+    "nexusFileId": 92391
+  },
+  {
+    "pakFileName": "robogena_SicklesPlus.pak",
+    "metaUuid": "a7226120-1358-41ef-9f96-155cc68755cd",
+    "nexusModId": 9563,
+    "nexusFileId": 100397
+  },
+  {
+    "pakFileName": "Rogue_Tattoo_807fb10c-d697-dce1-8047-04651b560acf.pak",
+    "metaUuid": "807fb10c-d697-dce1-8047-04651b560acf",
+    "nexusModId": 15308,
+    "nexusFileId": 89911
+  },
+  {
+    "pakFileName": "SafeTravel_599b7ee9-2785-8e63-5aa0-9574aa8cb82a.pak",
+    "metaUuid": "599b7ee9-2785-8e63-5aa0-9574aa8cb82a",
+    "nexusModId": 22289,
+    "nexusFileId": 118119
+  },
+  {
+    "pakFileName": "Sanctified Flame - Fire and Radiant Sacred Flame.pak",
+    "metaUuid": "f84d924e-5994-4463-a1af-94a1282f9052",
+    "nexusModId": 20381,
+    "nexusFileId": 110727
+  },
+  {
+    "pakFileName": "SapphireStarrySkyDice.pak",
+    "metaUuid": "27b207f0-a25f-46ad-9d1c-788cf46c650d",
+    "nexusModId": 19431,
+    "nexusFileId": 106256
+  },
+  {
+    "pakFileName": "Savage_Attacker_Unarmed.pak",
+    "metaUuid": "334f636f-abe7-45ef-86c6-df1278a46ce5",
+    "nexusModId": 2473,
+    "nexusFileId": 18212
+  },
+  {
+    "pakFileName": "Savage_Attacks_Unarmed.pak",
+    "metaUuid": "58d187c3-29a9-452d-95bb-086adce32312",
+    "nexusModId": 2473,
+    "nexusFileId": 18216
+  },
+  {
+    "pakFileName": "SB_LunarCleric.pak",
+    "metaUuid": "a810daf1-1df9-4019-94f9-0c454039234d",
+    "nexusModId": 6758,
+    "nexusFileId": 44717
+  },
+  {
+    "pakFileName": "SC - 5e Barbarian Subclasses Combined.pak",
+    "metaUuid": "6a122309-efce-479a-9cde-bd9ac52de86c",
+    "nexusModId": 6786,
+    "nexusFileId": 105975
+  },
+  {
+    "pakFileName": "SC - 5e Fighter Subclasses Combined.pak",
+    "metaUuid": "7428ed13-c38e-4a3f-b62e-1ab91f1ff117",
+    "nexusModId": 6786,
+    "nexusFileId": 105976
+  },
+  {
+    "pakFileName": "SC - 5e Monk Subclasses Combined.pak",
+    "metaUuid": "01e839e7-42a3-46f8-8233-bafa4af1bd20",
+    "nexusModId": 6786,
+    "nexusFileId": 105977
+  },
+  {
+    "pakFileName": "SC - 5e Ranger Subclasses Combined.pak",
+    "metaUuid": "40f25781-ffeb-4d7f-99ef-5dc10746cc30",
+    "nexusModId": 6786,
+    "nexusFileId": 105978
+  },
+  {
+    "pakFileName": "SC - Book of Druids.pak",
+    "metaUuid": "3a7a68b3-a720-4c0a-9ce5-e7af78a3cd50",
+    "nexusModId": 6786,
+    "nexusFileId": 106851
+  },
+  {
+    "pakFileName": "SC - Book of Rogues.pak",
+    "metaUuid": "df2141ec-581d-49c1-9460-bd9762eda83a",
+    "nexusModId": 6786,
+    "nexusFileId": 107744
+  },
+  {
+    "pakFileName": "SC - Book of Wizards.pak",
+    "metaUuid": "64e0074c-1a83-4a21-a1c3-dc58688b82b4",
+    "nexusModId": 6786,
+    "nexusFileId": 105998
+  },
+  {
+    "pakFileName": "SC - College of Cantors.pak",
+    "metaUuid": "61d6b17b-08a0-4577-a543-49dcd4bce909",
+    "nexusModId": 6786,
+    "nexusFileId": 106507
+  },
+  {
+    "pakFileName": "SC - College of Whispers.pak",
+    "metaUuid": "266a0e3d-ca6e-458b-8ca6-16bcd80e215b",
+    "nexusModId": 6786,
+    "nexusFileId": 106510
+  },
+  {
+    "pakFileName": "Scr_Braless.pak",
+    "metaUuid": "0abc7ae7-39f6-4e1e-a843-5e4fa6e751e0",
+    "nexusModId": 8747,
+    "nexusFileId": 53715
+  },
+  {
+    "pakFileName": "SCR_DYE_Winestains_c47bc67d-55de-bb3e-10cc-a1c51ddfa3a9.pak",
+    "metaUuid": "c47bc67d-55de-bb3e-10cc-a1c51ddfa3a9",
+    "nexusModId": 12890,
+    "nexusFileId": 75267
+  },
+  {
+    "pakFileName": "SD_MageSlayer_Fixed.pak",
+    "metaUuid": "74edd929-7b9a-4712-9596-bdedae61d5a1",
+    "nexusModId": 20754,
+    "nexusFileId": 112374
+  },
+  {
+    "pakFileName": "SE-OsirisModLoadOrder_285597a2-4aa9-93d2-4c18-c0ef8df1ca10.pak",
+    "metaUuid": "285597a2-4aa9-93d2-4c18-c0ef8df1ca10",
+    "nexusModId": 20907,
+    "nexusFileId": 112987
+  },
+  {
+    "pakFileName": "SecretScrolls5eSpellsTutorial.pak",
+    "metaUuid": "62b4fdf6-7363-4ea6-9245-102d427bd346",
+    "nexusModId": 2145,
+    "nexusFileId": 83962
+  },
+  {
+    "pakFileName": "SecretScrollsTutorial.pak",
+    "metaUuid": "02c512c5-27e0-490d-9b5c-d2a1b2462137",
+    "nexusModId": 416,
+    "nexusFileId": 83271
+  },
+  {
+    "pakFileName": "SeluneDream_02d12e2b-0ca1-d249-8cb0-3320f81d0f56.pak",
+    "metaUuid": "02d12e2b-0ca1-d249-8cb0-3320f81d0f56",
+    "nexusModId": 17579,
+    "nexusFileId": 98106
+  },
+  {
+    "pakFileName": "Selunite Weaponry 2.0 Add-on.pak",
+    "metaUuid": "70507441-f04c-415e-9106-87b7ec6cc08c",
+    "nexusModId": 10940,
+    "nexusFileId": 88511
+  },
+  {
+    "pakFileName": "ShadowBalde_Weapon.pak",
+    "metaUuid": "6eac4a69-ca4a-481e-a69d-b7321078002a",
+    "nexusModId": 16562,
+    "nexusFileId": 93298
+  },
+  {
+    "pakFileName": "Shadowburst.pak",
+    "metaUuid": "e25db26d-1c72-4afc-a774-6b5311d60372",
+    "nexusModId": 3823,
+    "nexusFileId": 26109
+  },
+  {
+    "pakFileName": "ShadowheartElfsongStool.pak",
+    "metaUuid": "13963ed5-ac83-6e20-9be3-9d2c5f13056d",
+    "nexusModId": 21543,
+    "nexusFileId": 115106
+  },
+  {
+    "pakFileName": "Shadowheart_Concept_Face_Tattoos.pak",
+    "metaUuid": "ae684698-a42b-3863-e7c9-f9a7e196b630",
+    "nexusModId": 18807,
+    "nexusFileId": 112271
+  },
+  {
+    "pakFileName": "Sharpshooter5e.pak",
+    "metaUuid": "f6cdb99f-6804-4435-bdfc-11fc834e77ab",
+    "nexusModId": 14161,
+    "nexusFileId": 81434
+  },
+  {
+    "pakFileName": "Short Rest Sorcery.pak",
+    "metaUuid": "bc3edb26-c957-4184-8e70-edaad46d46c9",
+    "nexusModId": 2483,
+    "nexusFileId": 34327
+  },
+  {
+    "pakFileName": "SH_disable_whitehair.pak",
+    "metaUuid": "7e600ab6-1c0c-4a49-bb7c-6e783e5bdc45",
+    "nexusModId": 19843,
+    "nexusFileId": 108261
+  },
+  {
+    "pakFileName": "SilvanusDeity.pak",
+    "metaUuid": "edc69df4-737e-4784-9a37-59c3afb0df23",
+    "nexusModId": 6591,
+    "nexusFileId": 43816
+  },
+  {
+    "pakFileName": "SingingAndPianoPoses.pak",
+    "metaUuid": "96d210a9-6488-ea09-77f3-686a58b7d5db",
+    "nexusModId": 22809,
+    "nexusFileId": 122123
+  },
+  {
+    "pakFileName": "Skip Intro.pak",
+    "metaUuid": "54f21e4c-1c36-4f04-8ddd-87c49bdb5490",
+    "nexusModId": 16665,
+    "nexusFileId": 112731
+  },
+  {
+    "pakFileName": "SkySimmer_ObojimaSubclasses_Wizard_d2bc7bf3-5a63-8a06-c52e-3583699e7ab5.pak",
+    "metaUuid": "d2bc7bf3-5a63-8a06-c52e-3583699e7ab5",
+    "nexusModId": 22421,
+    "nexusFileId": 119021
+  },
+  {
+    "pakFileName": "SmarterAI.pak",
+    "metaUuid": "cbf80a6c-f442-49aa-aa49-fc57582bfb1f",
+    "nexusModId": 11183,
+    "nexusFileId": 70500
+  },
+  {
+    "pakFileName": "SMH_MNK_Backpack.pak",
+    "metaUuid": "b69ae21b-3f07-4be6-8164-f43037b43303",
+    "nexusModId": 10448,
+    "nexusFileId": 70958
+  },
+  {
+    "pakFileName": "Solar Barrier - Fire and Radiant Blade Ward - A-01.pak",
+    "metaUuid": "24b5342f-2b1c-44b6-b0a1-f71fb165e0dd",
+    "nexusModId": 20467,
+    "nexusFileId": 111037
+  },
+  {
+    "pakFileName": "SolSelunites_be9862f3-8b52-f846-689c-b049b017f068.pak",
+    "metaUuid": "be9862f3-8b52-f846-689c-b049b017f068",
+    "nexusModId": 21478,
+    "nexusFileId": 114820
+  },
+  {
+    "pakFileName": "Sorcerer Unleashed - MC.pak",
+    "metaUuid": "27e0fdce-353b-4e0b-b941-e6946c445b8c",
+    "nexusModId": 650,
+    "nexusFileId": 89037
+  },
+  {
+    "pakFileName": "Sorcerer's Fury.pak",
+    "metaUuid": "8a91a35b-fc2f-4f58-85dc-d344a7d204ee",
+    "nexusModId": 3987,
+    "nexusFileId": 30430
+  },
+  {
+    "pakFileName": "SorcerousPreparation.pak",
+    "metaUuid": "d9138e96-07f2-48d3-bf4e-8f62953003cf",
+    "nexusModId": 20125,
+    "nexusFileId": 112667
+  },
+  {
+    "pakFileName": "Spell Savant Enhanced.pak",
+    "metaUuid": "5113cb8b-b2f3-46aa-b76c-37b629777c7b",
+    "nexusModId": 8391,
+    "nexusFileId": 107938
+  },
+  {
+    "pakFileName": "SpellfireSorcerer_85a53850-b59d-be5b-73bb-e36f4c330873.pak",
+    "metaUuid": "85a53850-b59d-be5b-73bb-e36f4c330873",
+    "nexusModId": 20221,
+    "nexusFileId": 118767
+  },
+  {
+    "pakFileName": "SpellsModsLoadOrder_828d5158-6d04-0c4a-ae52-902e71ef9c2a.pak",
+    "metaUuid": "828d5158-6d04-0c4a-ae52-902e71ef9c2a",
+    "nexusModId": 20907,
+    "nexusFileId": 112987
+  },
+  {
+    "pakFileName": "Stackable ASI Feats - Essential Feats Patch.pak",
+    "metaUuid": "91c2d035-4673-426b-a630-46a4f27493d6",
+    "nexusModId": 13238,
+    "nexusFileId": 112245
+  },
+  {
+    "pakFileName": "Starry Sapphics _Poses_e29e0640-a2cf-02cb-92bb-661a57b1265e.pak",
+    "metaUuid": "e29e0640-a2cf-02cb-92bb-661a57b1265e",
+    "nexusModId": 21725,
+    "nexusFileId": 116003
+  },
+  {
+    "pakFileName": "Stormlord_Arsenal_8e8c7e4b-67a9-a810-3496-d6c231182e26.pak",
+    "metaUuid": "8e8c7e4b-67a9-a810-3496-d6c231182e26",
+    "nexusModId": 17052,
+    "nexusFileId": 96159
+  },
+  {
+    "pakFileName": "Strap-On.pak",
+    "metaUuid": "33b78b63-8fbf-4a26-bed4-1463ab0d3653",
+    "nexusModId": 14011,
+    "nexusFileId": 80150
+  },
+  {
+    "pakFileName": "STRL_MoreGithArmor.pak",
+    "metaUuid": "fbaa8399-548c-4ad4-833b-9a7163bdcc37",
+    "nexusModId": 8390,
+    "nexusFileId": 52028
+  },
+  {
+    "pakFileName": "Subclass Compatch.pak",
+    "metaUuid": "879b17b3-9dc6-437e-af1d-a8a89c846b9d",
+    "nexusModId": 6786,
+    "nexusFileId": 105866
+  },
+  {
+    "pakFileName": "SuccubiIncubi_dee614c3-7565-b19f-827a-5e042592cea6.pak",
+    "metaUuid": "dee614c3-7565-b19f-827a-5e042592cea6",
+    "nexusModId": 16916,
+    "nexusFileId": 95481
+  },
+  {
+    "pakFileName": "SunCircle_6a76067b-b340-9a71-60fd-c37ed5e624e6.pak",
+    "metaUuid": "6a76067b-b340-9a71-60fd-c37ed5e624e6",
+    "nexusModId": 22331,
+    "nexusFileId": 119825
+  },
+  {
+    "pakFileName": "SussurSap_d21af581-0437-840f-d21b-6452269d4611.pak",
+    "metaUuid": "d21af581-0437-840f-d21b-6452269d4611",
+    "nexusModId": 20210,
+    "nexusFileId": 109906
+  },
+  {
+    "pakFileName": "Sussur_Weapons_Spawn.pak",
+    "metaUuid": "6f8c00ab-c6e4-4de0-baed-97cb79366259",
+    "nexusModId": 2356,
+    "nexusFileId": 111097
+  },
+  {
+    "pakFileName": "Sword of Justice Upgradeable.pak",
+    "metaUuid": "598f0488-726c-4c3e-887d-1da638160570",
+    "nexusModId": 23050,
+    "nexusFileId": 122055
+  },
+  {
+    "pakFileName": "SwordDancer_6f2c56bd-f678-41f3-4f15-2960bdb9e272.pak",
+    "metaUuid": "6f2c56bd-f678-41f3-4f15-2960bdb9e272",
+    "nexusModId": 17362,
+    "nexusFileId": 98886
+  },
+  {
+    "pakFileName": "TaillessTieflings EOTB Patch.pak",
+    "metaUuid": "58d8369b-3245-4f06-8f28-a29606f21eef",
+    "nexusModId": 11761,
+    "nexusFileId": 119251
+  },
+  {
+    "pakFileName": "Taro_d114bade-6c82-756a-4dca-6f8b68adc11d.pak",
+    "metaUuid": "d114bade-6c82-756a-4dca-6f8b68adc11d",
+    "nexusModId": 15280,
+    "nexusFileId": 89100
+  },
+  {
+    "pakFileName": "TattooModLoadOrder_95949b45-bb0c-5e71-a96f-ed3065d4d31f.pak",
+    "metaUuid": "95949b45-bb0c-5e71-a96f-ed3065d4d31f",
+    "nexusModId": 20907,
+    "nexusFileId": 112987
+  },
+  {
+    "pakFileName": "TavernTales_fd9efaa0-c25d-99f1-04f4-8a7dbf1f1450.pak",
+    "metaUuid": "fd9efaa0-c25d-99f1-04f4-8a7dbf1f1450",
+    "nexusModId": 21465,
+    "nexusFileId": 114752
+  },
+  {
+    "pakFileName": "TepkunsetArmoury.pak",
+    "metaUuid": "5e5fa71c-bcd2-40d2-8e07-efac0319ff76",
+    "nexusModId": 10917,
+    "nexusFileId": 63908
+  },
+  {
+    "pakFileName": "The Chosen of Bhaal.pak",
+    "metaUuid": "7fffcf32-4b89-4fda-9bf1-04319962d41d",
+    "nexusModId": 9796,
+    "nexusFileId": 60492
+  },
+  {
+    "pakFileName": "The Undying Light.pak",
+    "metaUuid": "787d4f4f-ea9e-41fa-8030-8a46617e8e6c",
+    "nexusModId": 9245,
+    "nexusFileId": 108602
+  },
+  {
+    "pakFileName": "The_Treasure_Trove_b0a295fe-1748-bc29-f860-ee3599fdadc1.pak",
+    "metaUuid": "b0a295fe-1748-bc29-f860-ee3599fdadc1",
+    "nexusModId": 12332,
+    "nexusFileId": 88981
+  },
+  {
+    "pakFileName": "ThirdDye_c26ede64-c936-3259-735a-cc0d314aff4a.pak",
+    "metaUuid": "c26ede64-c936-3259-735a-cc0d314aff4a",
+    "nexusModId": 17833,
+    "nexusFileId": 99240
+  },
+  {
+    "pakFileName": "ThisIsWhatItSoundsLike_Armors.v.2.pak",
+    "metaUuid": "37712efd-3346-e188-558b-b0902c24f19c",
+    "nexusModId": 18159,
+    "nexusFileId": 100931
+  },
+  {
+    "pakFileName": "TieflingSubraces_c2181e3f-edd1-c1f7-5d2a-e206ab09d7eb.pak",
+    "metaUuid": "c2181e3f-edd1-c1f7-5d2a-e206ab09d7eb",
+    "nexusModId": 14885,
+    "nexusFileId": 108581
+  },
+  {
+    "pakFileName": "TieflingSubraces_UTPatch.pak",
+    "metaUuid": "f4e78b9f-4faf-4560-84b2-e60f21b3b3d6",
+    "nexusModId": 14885,
+    "nexusFileId": 108579
+  },
+  {
+    "pakFileName": "TimelessHelmFight_010386cb-5489-2fca-a8e3-dd1f170042dd.pak",
+    "metaUuid": "010386cb-5489-2fca-a8e3-dd1f170042dd",
+    "nexusModId": 16472,
+    "nexusFileId": 93570
+  },
+  {
+    "pakFileName": "TK_Thrust.pak",
+    "metaUuid": "184302d8-d71a-4ffe-b773-bcc2b665a8e3",
+    "nexusModId": 15423,
+    "nexusFileId": 90385
+  },
+  {
+    "pakFileName": "TotalEclipseHair.pak",
+    "metaUuid": "ba7218d4-20b5-40c2-a059-8554cc494273",
+    "nexusModId": 8667,
+    "nexusFileId": 53386
+  },
+  {
+    "pakFileName": "TradersLoot.pak",
+    "metaUuid": "9e940c1e-aa3c-45d2-a7e8-cd9aa5561c6e",
+    "nexusModId": 14760,
+    "nexusFileId": 84635
+  },
+  {
+    "pakFileName": "TradeWithWithersAddonArmorRandom.pak",
+    "metaUuid": "7ceee9b7-4b91-4bab-957e-dbd0ead434e5",
+    "nexusModId": 2458,
+    "nexusFileId": 99911
+  },
+  {
+    "pakFileName": "TradeWithWithersAddonGrenades.pak",
+    "metaUuid": "6d37aca0-eee6-488c-b5a6-9e9ffbbc36f6",
+    "nexusModId": 2458,
+    "nexusFileId": 99916
+  },
+  {
+    "pakFileName": "TradeWithWithersAddonPotions.pak",
+    "metaUuid": "04c0ebcc-df2e-446c-ba1b-a10985a4b361",
+    "nexusModId": 2458,
+    "nexusFileId": 99918
+  },
+  {
+    "pakFileName": "TradeWithWithersAddonScrollsRandom.pak",
+    "metaUuid": "3df82661-7103-4940-919e-3fb588260a1c",
+    "nexusModId": 2458,
+    "nexusFileId": 99921
+  },
+  {
+    "pakFileName": "TradeWithWithersAddonWeaponsRandom.pak",
+    "metaUuid": "035b30c6-44f3-4282-b592-6c79f0ec345a",
+    "nexusModId": 2458,
+    "nexusFileId": 99923
+  },
+  {
+    "pakFileName": "Traveling_Merchant_Fade_0217073e-3af7-f4a6-4c97-2161d17df1c6.pak",
+    "metaUuid": "0217073e-3af7-f4a6-4c97-2161d17df1c6",
+    "nexusModId": 22257,
+    "nexusFileId": 118255
+  },
+  {
+    "pakFileName": "TrueRange.pak",
+    "metaUuid": "deffea7e-4c9e-4177-ba7d-5fd076b7ce17",
+    "nexusModId": 14441,
+    "nexusFileId": 83372
+  },
+  {
+    "pakFileName": "UA7Sorc-Spells.pak",
+    "metaUuid": "0cadb75c-16b5-474f-be0f-7b3a441e3a08",
+    "nexusModId": 9252,
+    "nexusFileId": 56627
+  },
+  {
+    "pakFileName": "UASwashbuckler.pak",
+    "metaUuid": "0f5d4cc4-4fa7-42a9-9a1b-e676244f940a",
+    "nexusModId": 507,
+    "nexusFileId": 90061
+  },
+  {
+    "pakFileName": "UAVillainous_ad9329e9-7144-75ae-fec7-39f072abd9e4.pak",
+    "metaUuid": "ad9329e9-7144-75ae-fec7-39f072abd9e4",
+    "nexusModId": 22350,
+    "nexusFileId": 118725
+  },
+  {
+    "pakFileName": "UCA - EoTB.pak",
+    "metaUuid": "f947d49c-b46a-43b7-98d2-118df2c1a90a",
+    "nexusModId": 8832,
+    "nexusFileId": 64264
+  },
+  {
+    "pakFileName": "UI-LibrariesModLoadOrder_c038a9c6-af3d-2bb7-6290-1d9bfca7fbdd.pak",
+    "metaUuid": "c038a9c6-af3d-2bb7-6290-1d9bfca7fbdd",
+    "nexusModId": 20907,
+    "nexusFileId": 112987
+  },
+  {
+    "pakFileName": "Unearthed Arcana.pak",
+    "metaUuid": "3f7f2f4b-2baf-4a1e-932c-20afbd8d4c0f",
+    "nexusModId": 93,
+    "nexusFileId": 39756
+  },
+  {
+    "pakFileName": "Unique Tav - Eladrin.pak",
+    "metaUuid": "58fdf747-22b4-42fb-93a3-1cb6e9693189",
+    "nexusModId": 7039,
+    "nexusFileId": 45925
+  },
+  {
+    "pakFileName": "Upcast_Me_Capn_v1.0.1.pak",
+    "metaUuid": "0fa8b71f-3a96-43b1-8387-d863f7f31937",
+    "nexusModId": 22171,
+    "nexusFileId": 117685
+  },
+  {
+    "pakFileName": "UT-KAVT-EOTBModLoadOrder_a599e744-4938-f704-3d9d-296b20489d20.pak",
+    "metaUuid": "a599e744-4938-f704-3d9d-296b20489d20",
+    "nexusModId": 20907,
+    "nexusFileId": 112987
+  },
+  {
+    "pakFileName": "v1.0_SAR_Thrumbos-new-basement_862f36c0-fe72-bc73-a6f6-b91f96c5b14c.pak",
+    "metaUuid": "862f36c0-fe72-bc73-a6f6-b91f96c5b14c",
+    "nexusModId": 22360,
+    "nexusFileId": 118793
+  },
+  {
+    "pakFileName": "v1.0_SAR_Undead-nurses-instruments_70573c7a-ec1b-7b0f-60b2-ef3f392fd004.pak",
+    "metaUuid": "70573c7a-ec1b-7b0f-60b2-ef3f392fd004",
+    "nexusModId": 23152,
+    "nexusFileId": 122633
+  },
+  {
+    "pakFileName": "v3.1_More_better_scimitars_1a708707-4bae-c601-a175-768c6b963c35.pak",
+    "metaUuid": "1a708707-4bae-c601-a175-768c6b963c35",
+    "nexusModId": 18033,
+    "nexusFileId": 115392
+  },
+  {
+    "pakFileName": "v4.9_Sarymsaks_clothing_296baa65-12b7-87d5-058c-dba0d403c17c.pak",
+    "metaUuid": "296baa65-12b7-87d5-058c-dba0d403c17c",
+    "nexusModId": 18501,
+    "nexusFileId": 120524
+  },
+  {
+    "pakFileName": "vanillatradersLootAncienFED.pak",
+    "metaUuid": "35fb677d-3b75-4c0c-aaa2-74fd7dcd60cb",
+    "nexusModId": 17887,
+    "nexusFileId": 116868
+  },
+  {
+    "pakFileName": "Variable_Soul_Branding_AiO_Hunger_4df1282f-4a99-dd55-2509-513d15c30696.pak",
+    "metaUuid": "4df1282f-4a99-dd55-2509-513d15c30696",
+    "nexusModId": 19063,
+    "nexusFileId": 105393
+  },
+  {
+    "pakFileName": "VestigesOfDivergence.pak",
+    "metaUuid": "3118da9c-1f07-e0a2-dc4f-26647de9fe52",
+    "nexusModId": 8653,
+    "nexusFileId": 98773
+  },
+  {
+    "pakFileName": "VestigesWorldLootAdd-On.pak",
+    "metaUuid": "29f9bc62-1607-c5dd-2bb4-579d614ec11d",
+    "nexusModId": 8653,
+    "nexusFileId": 90956
+  },
+  {
+    "pakFileName": "ViolinCelloAndLyrePoses.pak",
+    "metaUuid": "75fd5205-0ae7-0f73-7c6a-e695a84c9991",
+    "nexusModId": 22266,
+    "nexusFileId": 118031
+  },
+  {
+    "pakFileName": "Visible_ShadowBlade_V3_6db965f6-a8e6-3fb2-a8de-c5c77bb2cb7b.pak",
+    "metaUuid": "6db965f6-a8e6-3fb2-a8de-c5c77bb2cb7b",
+    "nexusModId": 16589,
+    "nexusFileId": 95883
+  },
+  {
+    "pakFileName": "WarlockUndeadPatch7.pak",
+    "metaUuid": "d1442447-61d1-49e8-8b56-df3d938260e8",
+    "nexusModId": 13869,
+    "nexusFileId": 79271
+  },
+  {
+    "pakFileName": "Warlock_Talisman_Pact_716caba7-29f9-dbf8-55e6-848ba92e8679.pak",
+    "metaUuid": "716caba7-29f9-dbf8-55e6-848ba92e8679",
+    "nexusModId": 22546,
+    "nexusFileId": 119803
+  },
+  {
+    "pakFileName": "Wayward Faces.pak",
+    "metaUuid": "46fea6bd-886c-428e-b299-42818dce317e",
+    "nexusModId": 11117,
+    "nexusFileId": 64706
+  },
+  {
+    "pakFileName": "Wild Magic Panties.pak",
+    "metaUuid": "dd971c36-142b-4d9f-884b-6e4c7986ee07",
+    "nexusModId": 16512,
+    "nexusFileId": 92516
+  },
+  {
+    "pakFileName": "WildMagicSpells.pak",
+    "metaUuid": "0f7e10c7-7cf1-4327-a8e7-1479f2f0f830",
+    "nexusModId": 14228,
+    "nexusFileId": 108928
+  },
+  {
+    "pakFileName": "WoodenDiceSet_7d58ae8a-2671-e4ce-3248-5357c42d4fc2.pak",
+    "metaUuid": "7d58ae8a-2671-e4ce-3248-5357c42d4fc2",
+    "nexusModId": 12688,
+    "nexusFileId": 73549
+  },
+  {
+    "pakFileName": "WoodenDuckEarrings_1.0.0.5.pak",
+    "metaUuid": "49055011-471f-f66d-0918-8923c0714b3b",
+    "nexusModId": 17355,
+    "nexusFileId": 97103
+  },
+  {
+    "pakFileName": "Wrongway_Elemental_Feat_dd65cc77-a407-792c-47b4-708138377ad0.pak",
+    "metaUuid": "dd65cc77-a407-792c-47b4-708138377ad0",
+    "nexusModId": 15768,
+    "nexusFileId": 93517
+  },
+  {
+    "pakFileName": "XBA_35baa85c-8755-2f7e-23c8-a3686a79a4dd.pak",
+    "metaUuid": "35baa85c-8755-2f7e-23c8-a3686a79a4dd",
+    "nexusModId": 21282,
+    "nexusFileId": 114087
+  },
+  {
+    "pakFileName": "YieldToTemptation.pak",
+    "metaUuid": "60ac6eff-b503-492d-867f-4e7cacf7f57d",
+    "nexusModId": 4913,
+    "nexusFileId": 32921
+  }
+]
