@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-06-06T19:51:51.538594+00:00","total_mods":16471},
+{"_meta":{"last_run":"2026-06-06T21:52:13.875235+00:00","total_mods":16476},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -443,10 +443,10 @@
 {"nexusFileName":"P4 Gale Starting Colour - EA","pakFileName":"P4_Gale_Blue_3f1c343a-2b10-ccbf-090e-59c9047c9028.pak","nexusFileId":76512,"metaUuid":null}
 ]},
 "353":{"nexusModName":"P4 Patches","nexusUploadedBy":"Padme4000","nexusModId":353,"paks":[
-{"nexusFileName":"Patch 6 - Horns_of_Faerun_Patch","pakFileName":"Horns_of_Faerun_Patch.pak","nexusFileId":59657,"metaUuid":"cfed36c5-82d2-41c3-a287-f679e96b4ca0"},
-{"nexusFileName":"Patch 6 - Patches for CC Races.lsx","pakFileName":"Patches_For_CC_Races_lsx.pak","nexusFileId":68658,"metaUuid":null},
-{"nexusFileName":"Patch 7 or 8 - Patches for CC Races","pakFileName":"Patches_For_CC_Races_lsx.pak","nexusFileId":74034,"metaUuid":null},
-{"nexusFileName":"Patches_for_VFX_Heads","pakFileName":"Patches_for_VFX_Heads.pak","nexusFileId":120608,"metaUuid":"91bb3015-e00e-4263-b88d-a2e54b0f8424"}
+{"nexusFileName":"Patch 6 - Horns_of_Faerun_Patch","nexusFileVersion":"HornsofFaerun4.0.1.0","pakFileName":"Horns_of_Faerun_Patch.pak","nexusFileId":59657,"metaUuid":"cfed36c5-82d2-41c3-a287-f679e96b4ca0"},
+{"nexusFileName":"Patch 6 - Patches for CC Races.lsx","nexusFileVersion":"Races.lsx4.0.3.0","pakFileName":"Patches_For_CC_Races_lsx.pak","nexusFileId":68658,"metaUuid":null},
+{"nexusFileName":"Patch 7 or 8 - Patches for CC Races","nexusFileVersion":"Raceslsx5.1.0.0","pakFileName":"Patches_For_CC_Races_lsx.pak","nexusFileId":74034,"metaUuid":null},
+{"nexusFileName":"Patches_for_VFX_Heads","nexusFileVersion":"VFX5.1.0.16","pakFileName":"Patches_for_VFX_Heads.pak","nexusFileId":122925,"metaUuid":"91bb3015-e00e-4263-b88d-a2e54b0f8424"}
 ]},
 "355":{"nexusModName":"LimitBreaker V2","nexusUploadedBy":"Flamegazza123","nexusModId":355,"paks":[
 {"nexusFileName":"LimitBreaker V2","pakFileName":"LimitBreakerV2.pak","nexusFileId":7129,"metaUuid":null},
@@ -35963,7 +35963,7 @@
 ]},
 "12727":{"nexusModName":"DnD 5.5e All-in-One BEYOND","nexusUploadedBy":"yoonmoonsik43","nexusModId":12727,"paks":[
 {"nexusFileName":"dnd2024 - V3 Legacy","nexusFileVersion":"3.4.6.4","pakFileName":"DnD2024_897914ef-5c96-053c-44af-0be823f895fe.pak","nexusFileId":115523,"metaUuid":null},
-{"nexusFileName":"Dnd2024","nexusFileVersion":"4.4.5.5","pakFileName":"DnD2024_897914ef-5c96-053c-44af-0be823f895fe.pak","nexusFileId":122891,"metaUuid":null}
+{"nexusFileName":"Dnd2024","nexusFileVersion":"4.5.0.3","pakFileName":"DnD2024_897914ef-5c96-053c-44af-0be823f895fe.pak","nexusFileId":122924,"metaUuid":null}
 ]},
 "12728":{"nexusModName":"Origin-Themed Headwear KR","nexusUploadedBy":"Soorawang","nexusModId":12728,"paks":[
 {"nexusFileName":"Origin-Themed Headwear KR","nexusFileVersion":"1.0","pakFileName":"OriginHeadwear_kr.pak","nexusFileId":73692,"metaUuid":null}
@@ -64834,6 +64834,72 @@
 {"nexusFileName":"emberswardrobe-trickstersfinery-4k","nexusFileVersion":"v1.0.0.1","pakFileName":"emberswardrobe-tf-4k_2a1ac81c-6207-b82e-637a-388033e20e79.pak","nexusFileId":122366,"metaUuid":null},
 {"nexusFileName":"emberswardrobe-trickstersfinery","nexusFileVersion":"v1.0.2.1","pakFileName":"emberswardrobe-tf_afaf1183-9222-5c02-987a-5516b6375227.pak","nexusFileId":122837,"metaUuid":"afaf1183-9222-5c02-987a-5516b6375227"}
 ]},
+"23096":{"nexusModName":"Ward of Zeal - A Sunlight-Themed Shield of Faith Alternative - Multiple Versions - 2024 PHB and Vanilla","nexusUploadedBy":"SymboJones","nexusModId":23096,"paks":[
+{"nexusFileName":"A-01. Ward of Zeal","nexusFileVersion":"1.0.0-A-01","pakFileName":"Ward of Zeal - Solar Shield of Faith - A-01.pak","nexusFileId":122926,"metaUuid":null},
+{"nexusFileName":"A-02. Ward Of Zeal","nexusFileVersion":"1.0.0-A-02","pakFileName":"Ward of Zeal - Solar Shield of Faith - A-02.pak","nexusFileId":122927,"metaUuid":null},
+{"nexusFileName":"A-03. Ward Of Zeal","nexusFileVersion":"1.0.0-A-03","pakFileName":"Ward of Zeal - Solar Shield of Faith - A-03.pak","nexusFileId":122928,"metaUuid":null},
+{"nexusFileName":"A-04. Ward Of Zeal","nexusFileVersion":"1.0.0-A-04","pakFileName":"Ward of Zeal - Solar Shield of Faith - A-04.pak","nexusFileId":122929,"metaUuid":null},
+{"nexusFileName":"A-05. Ward Of Zeal","nexusFileVersion":"1.0.0-A-05","pakFileName":"Ward of Zeal - Solar Shield of Faith - A-05.pak","nexusFileId":122930,"metaUuid":null},
+{"nexusFileName":"Ward Of Zeal - All Caster Addon","nexusFileVersion":"1.0.0","pakFileName":"Ward of Zeal - Solar Shield of Faith - All Caster Addon.pak","nexusFileId":122932,"metaUuid":null},
+{"nexusFileName":"B-01. Ward Of Zeal","nexusFileVersion":"1.0.0-B-01","pakFileName":"Ward of Zeal - Solar Shield of Faith - B-01.pak","nexusFileId":122933,"metaUuid":null},
+{"nexusFileName":"B-02. Ward Of Zeal","nexusFileVersion":"1.0.0-B-02","pakFileName":"Ward of Zeal - Solar Shield of Faith - B-02.pak","nexusFileId":122934,"metaUuid":null},
+{"nexusFileName":"B-03. Ward Of Zeal","nexusFileVersion":"1.0.0-B-03","pakFileName":"Ward of Zeal - Solar Shield of Faith - B-03.pak","nexusFileId":122935,"metaUuid":null},
+{"nexusFileName":"B-04. Ward Of Zeal","nexusFileVersion":"1.0.0-B-04","pakFileName":"Ward of Zeal - Solar Shield of Faith - B-04.pak","nexusFileId":122936,"metaUuid":null},
+{"nexusFileName":"B-05. Ward Of Zeal","nexusFileVersion":"1.0.0-B-05","pakFileName":"Ward of Zeal - Solar Shield of Faith - B-05.pak","nexusFileId":122937,"metaUuid":null},
+{"nexusFileName":"C-01. Ward Of Zeal","nexusFileVersion":"1.0.0-C-01","pakFileName":"Ward of Zeal - Solar Shield of Faith - C-01.pak","nexusFileId":122938,"metaUuid":null},
+{"nexusFileName":"C-02. Ward Of Zeal","nexusFileVersion":"1.0.0-C-02","pakFileName":"Ward of Zeal - Solar Shield of Faith - C-02.pak","nexusFileId":122939,"metaUuid":null},
+{"nexusFileName":"C-03. Ward Of Zeal","nexusFileVersion":"1.0.0-C-03","pakFileName":"Ward of Zeal - Solar Shield of Faith - C-03.pak","nexusFileId":122940,"metaUuid":null},
+{"nexusFileName":"C-04. Ward Of Zeal","nexusFileVersion":"1.0.0-C-04","pakFileName":"Ward of Zeal - Solar Shield of Faith - C-04.pak","nexusFileId":122941,"metaUuid":null},
+{"nexusFileName":"C-05. Ward Of Zeal","nexusFileVersion":"1.0.0-C-05","pakFileName":"Ward of Zeal - Solar Shield of Faith - C-05.pak","nexusFileId":122942,"metaUuid":null},
+{"nexusFileName":"D-01. Ward Of Zeal","nexusFileVersion":"1.0.0-D-01","pakFileName":"Ward of Zeal - Solar Shield of Faith - D-01.pak","nexusFileId":122943,"metaUuid":null},
+{"nexusFileName":"D-02. Ward Of Zeal","nexusFileVersion":"1.0.0-D-02","pakFileName":"Ward of Zeal - Solar Shield of Faith - D-02.pak","nexusFileId":122944,"metaUuid":null},
+{"nexusFileName":"D-03. Ward Of Zeal","nexusFileVersion":"1.0.0-D-03","pakFileName":"Ward of Zeal - Solar Shield of Faith - D-03.pak","nexusFileId":122945,"metaUuid":null},
+{"nexusFileName":"D-04. Ward Of Zeal","nexusFileVersion":"1.0.0-D-04","pakFileName":"Ward of Zeal - Solar Shield of Faith - D-04.pak","nexusFileId":122946,"metaUuid":null},
+{"nexusFileName":"D-05. Ward Of Zeal","nexusFileVersion":"1.0.0-D-05","pakFileName":"Ward of Zeal - Solar Shield of Faith - D-05.pak","nexusFileId":122947,"metaUuid":null},
+{"nexusFileName":"E-01. Ward Of Zeal","nexusFileVersion":"1.0.0-E-01","pakFileName":"Ward of Zeal - Solar Shield of Faith - E-01.pak","nexusFileId":122948,"metaUuid":null},
+{"nexusFileName":"E-02. Ward Of Zeal","nexusFileVersion":"1.0.0-E-02","pakFileName":"Ward of Zeal - Solar Shield of Faith - E-02.pak","nexusFileId":122949,"metaUuid":null},
+{"nexusFileName":"E-03. Ward Of Zeal","nexusFileVersion":"1.0.0-E-03","pakFileName":"Ward of Zeal - Solar Shield of Faith - E-03.pak","nexusFileId":122950,"metaUuid":null},
+{"nexusFileName":"E-04. Ward Of Zeal","nexusFileVersion":"1.0.0-E-04","pakFileName":"Ward of Zeal - Solar Shield of Faith - E-04.pak","nexusFileId":122951,"metaUuid":null},
+{"nexusFileName":"E-05. Ward Of Zeal","nexusFileVersion":"1.0.0-E-05","pakFileName":"Ward of Zeal - Solar Shield of Faith - E-05.pak","nexusFileId":122952,"metaUuid":null},
+{"nexusFileName":"F-01. Ward Of Zeal","nexusFileVersion":"1.0.0-F-01","pakFileName":"Ward of Zeal - Solar Shield of Faith - F-01.pak","nexusFileId":122954,"metaUuid":null},
+{"nexusFileName":"F-02. Ward Of Zeal","nexusFileVersion":"1.0.0-F-02","pakFileName":"Ward of Zeal - Solar Shield of Faith - F-02.pak","nexusFileId":122955,"metaUuid":null},
+{"nexusFileName":"F-03. Ward Of Zeal","nexusFileVersion":"1.0.0-F-03","pakFileName":"Ward of Zeal - Solar Shield of Faith - F-03.pak","nexusFileId":122956,"metaUuid":null},
+{"nexusFileName":"F-04. Ward Of Zeal","nexusFileVersion":"1.0.0-F-04","pakFileName":"Ward of Zeal - Solar Shield of Faith - F-04.pak","nexusFileId":122957,"metaUuid":null},
+{"nexusFileName":"F-05. Ward Of Zeal","nexusFileVersion":"1.0.0-F-05","pakFileName":"Ward of Zeal - Solar Shield of Faith - F-05.pak","nexusFileId":122958,"metaUuid":null}
+]},
+"23097":{"nexusModName":"Exalt - A Sunlight-Themed Bless Alternative - Multiple Versions","nexusUploadedBy":"SymboJones","nexusModId":23097,"paks":[
+{"nexusFileName":"A-01. Exalt","nexusFileVersion":"1.0.0-A-01","pakFileName":"Exalt - Solar Bless - A-01.pak","nexusFileId":122960,"metaUuid":null},
+{"nexusFileName":"A-02. Exalt","nexusFileVersion":"1.0.0-A-02","pakFileName":"Exalt - Solar Bless - A-02.pak","nexusFileId":122961,"metaUuid":null},
+{"nexusFileName":"A-03. Exalt","nexusFileVersion":"1.0.0-A-03","pakFileName":"Exalt - Solar Bless - A-03.pak","nexusFileId":122962,"metaUuid":null},
+{"nexusFileName":"A-04. Exalt","nexusFileVersion":"1.0.0-A-04","pakFileName":"Exalt - Solar Bless - A-04.pak","nexusFileId":122963,"metaUuid":null},
+{"nexusFileName":"A-05. Exalt","nexusFileVersion":"1.0.0-A-05","pakFileName":"Exalt - Solar Bless - A-05.pak","nexusFileId":122964,"metaUuid":null},
+{"nexusFileName":"Exalt - All Caster Addon","nexusFileVersion":"1.0.0","pakFileName":"Exalt - Solar Bless - All Caster Addon.pak","nexusFileId":122965,"metaUuid":null},
+{"nexusFileName":"B-01. Exalt","nexusFileVersion":"1.0.0-B-01","pakFileName":"Exalt - Solar Bless - B-01.pak","nexusFileId":122966,"metaUuid":null},
+{"nexusFileName":"B-02. Exalt","nexusFileVersion":"1.0.0-B-02","pakFileName":"Exalt - Solar Bless - B-02.pak","nexusFileId":122967,"metaUuid":null},
+{"nexusFileName":"B-03. Exalt","nexusFileVersion":"1.0.0-B-03","pakFileName":"Exalt - Solar Bless - B-03.pak","nexusFileId":122968,"metaUuid":null},
+{"nexusFileName":"B-04. Exalt","nexusFileVersion":"1.0.0-B-04","pakFileName":"Exalt - Solar Bless - B-04.pak","nexusFileId":122969,"metaUuid":null},
+{"nexusFileName":"B-05. Exalt","nexusFileVersion":"1.0.0-B-05","pakFileName":"Exalt - Solar Bless - B-05.pak","nexusFileId":122970,"metaUuid":null},
+{"nexusFileName":"C-01. Exalt","nexusFileVersion":"1.0.0-C-01","pakFileName":"Exalt - Solar Bless - C-01.pak","nexusFileId":122971,"metaUuid":null},
+{"nexusFileName":"C-02. Exalt","nexusFileVersion":"1.0.0-C-02","pakFileName":"Exalt - Solar Bless - C-02.pak","nexusFileId":122972,"metaUuid":null},
+{"nexusFileName":"C-03. Exalt","nexusFileVersion":"1.0.0-C-03","pakFileName":"Exalt - Solar Bless - C-03.pak","nexusFileId":122973,"metaUuid":null},
+{"nexusFileName":"C-04. Exalt","nexusFileVersion":"1.0.0-C-04","pakFileName":"Exalt - Solar Bless - C-04.pak","nexusFileId":122974,"metaUuid":null},
+{"nexusFileName":"C-05. Exalt","nexusFileVersion":"1.0.0-C-05","pakFileName":"Exalt - Solar Bless - C-05.pak","nexusFileId":122975,"metaUuid":null},
+{"nexusFileName":"D-01. Exalt","nexusFileVersion":"1.0.0-D-01","pakFileName":"Exalt - Solar Bless - D-01.pak","nexusFileId":122976,"metaUuid":null},
+{"nexusFileName":"D-02. Exalt","nexusFileVersion":"1.0.0-D-02","pakFileName":"Exalt - Solar Bless - D-02.pak","nexusFileId":122977,"metaUuid":null},
+{"nexusFileName":"D-03. Exalt","nexusFileVersion":"1.0.0-D-03","pakFileName":"Exalt - Solar Bless - D-03.pak","nexusFileId":122978,"metaUuid":null},
+{"nexusFileName":"D-04. Exalt","nexusFileVersion":"1.0.0-D-04","pakFileName":"Exalt - Solar Bless - D-04.pak","nexusFileId":122979,"metaUuid":null},
+{"nexusFileName":"D-05. Exalt","nexusFileVersion":"1.0.0-D-05","pakFileName":"Exalt - Solar Bless - D-05.pak","nexusFileId":122980,"metaUuid":null},
+{"nexusFileName":"E-01. Exalt","nexusFileVersion":"1.0.0-E-01","pakFileName":"Exalt - Solar Bless - E-01.pak","nexusFileId":122981,"metaUuid":null},
+{"nexusFileName":"E-02. Exalt","nexusFileVersion":"1.0.0-E-02","pakFileName":"Exalt - Solar Bless - E-02.pak","nexusFileId":122982,"metaUuid":null},
+{"nexusFileName":"E-03. Exalt","nexusFileVersion":"1.0.0-E-03","pakFileName":"Exalt - Solar Bless - E-03.pak","nexusFileId":122983,"metaUuid":null},
+{"nexusFileName":"E-04. Exalt","nexusFileVersion":"1.0.0-E-04","pakFileName":"Exalt - Solar Bless - E-04.pak","nexusFileId":122984,"metaUuid":null},
+{"nexusFileName":"E-05. Exalt","nexusFileVersion":"1.0.0-E-05","pakFileName":"Exalt - Solar Bless - E-05.pak","nexusFileId":122986,"metaUuid":null},
+{"nexusFileName":"F-01. Exalt","nexusFileVersion":"1.0.0-F-01","pakFileName":"Exalt - Solar Bless - F-01.pak","nexusFileId":122987,"metaUuid":null},
+{"nexusFileName":"F-02. Exalt","nexusFileVersion":"1.0.0-F-02","pakFileName":"Exalt - Solar Bless - F-02.pak","nexusFileId":122988,"metaUuid":null},
+{"nexusFileName":"F-03. Exalt","nexusFileVersion":"1.0.0-F-03","pakFileName":"Exalt - Solar Bless - F-03.pak","nexusFileId":122989,"metaUuid":null},
+{"nexusFileName":"F-04. Exalt","nexusFileVersion":"1.0.0-F-04","pakFileName":"Exalt - Solar Bless - F-04.pak","nexusFileId":122990,"metaUuid":null},
+{"nexusFileName":"F-05. Exalt","nexusFileVersion":"1.0.0-F-05","pakFileName":"Exalt - Solar Bless - F-05.pak","nexusFileId":122991,"metaUuid":null}
+]},
 "23099":{"nexusModName":"FF14 Black Mage - PTBR","nexusUploadedBy":"BarovZx","nexusModId":23099,"paks":[
 {"nexusFileName":"FF14 Black Mage PTBR","nexusFileVersion":"27.04.2026","pakFileName":"FF14 Black Mage PTBR.pak","nexusFileId":122381,"metaUuid":null}
 ]},
@@ -65139,6 +65205,9 @@
 "23236":{"nexusModName":"Guardian of Faith Fixes","nexusUploadedBy":"koboldJuno","nexusModId":23236,"paks":[
 {"nexusFileName":"Guardian of Faith Fixes","nexusFileVersion":"1.0","pakFileName":"GuardianofFaithFixes.pak","nexusFileId":122914,"metaUuid":null}
 ]},
+"23237":{"nexusModName":"Home Brew - Comprehensive Reworks (CHS) - Hierot Edition","nexusUploadedBy":"HIEROT","nexusModId":23237,"paks":[
+{"nexusFileName":"HomeBrewComprehensiveReworksCHS Hierot","nexusFileVersion":"8.3.5","pakFileName":"HomeBrewComprehensiveReworksCHS-Hierot.pak","nexusFileId":122959,"metaUuid":null}
+]},
 "23239":{"nexusModName":"True Blood","nexusUploadedBy":"rainbow1411","nexusModId":23239,"paks":[
 {"nexusFileName":"True Blood","nexusFileVersion":"1","pakFileName":"TrueBlood_3479b553-6780-71b9-d4a1-513578ff84eb.pak","nexusFileId":122916,"metaUuid":null}
 ]},
@@ -65147,4 +65216,10 @@
 ]},
 "23241":{"nexusModName":"Shadowdancer - Prestige Class","nexusUploadedBy":"ForKiramay","nexusModId":23241,"paks":[
 {"nexusFileName":"Shadowdancer - Prestige Class","nexusFileVersion":"1.0.0.30","pakFileName":"Shadowdancer_f4efea40-f890-b00d-4eaa-8f8d587f3a5a.pak","nexusFileId":122919,"metaUuid":null}
+]},
+"23243":{"nexusModName":"Animal's Essence - BeastFolk Race (PT-BR)","nexusUploadedBy":"Firetoga","nexusModId":23243,"paks":[
+{"nexusFileName":"BeastFolk BR","nexusFileVersion":"1.3.0.1","pakFileName":"BeastFolk_BR.pak","nexusFileId":122953,"metaUuid":null}
+]},
+"23244":{"nexusModName":"Witch Elf (PT-BR)","nexusUploadedBy":"Firetoga","nexusModId":23244,"paks":[
+{"nexusFileName":"WitchElf (PT-BR)","nexusFileVersion":"v1.1.1","pakFileName":"CE_WitchElf_BR.pak","nexusFileId":122985,"metaUuid":null}
 ]}}
