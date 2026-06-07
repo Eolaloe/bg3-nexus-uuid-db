@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-06-07T16:52:25.127264+00:00","total_mods":16491},
+{"_meta":{"last_run":"2026-06-07T17:52:40.193857+00:00","total_mods":16492},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -14113,8 +14113,8 @@
 "4496":{"nexusModName":"Valkrana's Skeleton Crew - Over 60 Random Undead Allies","nexusUploadedBy":"actualsailorcat","nexusModId":4496,"paks":[
 {"nexusFileName":"VSC and VUE CX","nexusFileVersion":"1.00.02","pakFileName":"VSC and VUE CX.pak","nexusFileId":114208,"metaUuid":null},
 {"nexusFileName":"VSCrew XP Enabled","nexusFileVersion":"1.00.02","pakFileName":"Valkrana's Skeleton Crew XP Enabled.pak","nexusFileId":120315,"metaUuid":"b4568e73-abfb-4824-8730-7650eb91e5cb"},
-{"nexusFileName":"Valkrana's Skeleton Crew Feat","nexusFileVersion":"1.29.01","pakFileName":"Valkrana's Skeleton Crew Feat.pak","nexusFileId":122093,"metaUuid":"d76ff1e5-e09e-4565-a9d2-a035037f6134"},
-{"nexusFileName":"Valkrana's Skeleton Crew","nexusFileVersion":"1.29.01","pakFileName":"Valkrana's Skeleton Crew.pak","nexusFileId":122094,"metaUuid":"0dd8b949-b56e-4248-9bf0-b03b3c3bd8c5"}
+{"nexusFileName":"Valkrana's Skeleton Crew Feat","nexusFileVersion":"1.29.02","pakFileName":"Valkrana's Skeleton Crew Feat.pak","nexusFileId":123080,"metaUuid":"d76ff1e5-e09e-4565-a9d2-a035037f6134"},
+{"nexusFileName":"Valkrana's Skeleton Crew","nexusFileVersion":"1.29.02","pakFileName":"Valkrana's Skeleton Crew.pak","nexusFileId":123081,"metaUuid":"0dd8b949-b56e-4248-9bf0-b03b3c3bd8c5"}
 ]},
 "4497":{"nexusModName":"Mystic Class Ita","nexusUploadedBy":"ogugght","nexusModId":4497,"paks":[
 {"nexusFileName":"Mystic Class Ita by Kilay","nexusFileVersion":"1.1","pakFileName":"MysticIta.pak","nexusFileId":43718,"metaUuid":null}
@@ -65266,13 +65266,13 @@
 {"nexusFileName":"WitchElf (PT-BR)","nexusFileVersion":"v1.1.1","pakFileName":"CE_WitchElf_BR.pak","nexusFileId":122985,"metaUuid":null}
 ]},
 "23245":{"nexusModName":"Waypoints Expanded (PT-BR)","nexusUploadedBy":"Firetoga","nexusModId":23245,"paks":[
-{"nexusFileName":"Waypoints (PT-BR)","nexusFileVersion":"1.0.0.0.1","pakFileName":"Waypoints_BR.pak","nexusFileId":123076,"metaUuid":null}
+{"nexusFileName":"Waypoints BR","nexusFileVersion":"1.0.0.0.1","pakFileName":"Waypoints_BR.pak","nexusFileId":123079,"metaUuid":null}
 ]},
 "23246":{"nexusModName":"Awakened Morninglord's Morningstar (Compatibility Patch)","nexusUploadedBy":"Mueffel","nexusModId":23246,"paks":[
 {"nexusFileName":"Awakened Morninglord's Morningstar","nexusFileVersion":"1.0.0","pakFileName":"Awakened Morninglord's Morningstar Compatibility Patch.pak","nexusFileId":123038,"metaUuid":null}
 ]},
 "23247":{"nexusModName":"Advanced Enemy Randomizer","nexusUploadedBy":"celerev","nexusModId":23247,"paks":[
-{"nexusFileName":"AERando.zip","nexusFileVersion":"0.9.2.1","pakFileName":"AERando.pak","nexusFileId":123078,"metaUuid":null}
+{"nexusFileName":"AERando.zip","nexusFileVersion":"0.9.3.1","pakFileName":"AERando.pak","nexusFileId":123084,"metaUuid":null}
 ]},
 "23248":{"nexusModName":"Sharran Weaponry by AzazeL (WIP)_JP","nexusUploadedBy":"Akazonae36","nexusModId":23248,"paks":[
 {"nexusFileName":"Aza Sharran Weaponry WIP JP","nexusFileVersion":"1","pakFileName":"Aza_Sharran_Weaponry_WIP_JP.pak","nexusFileId":123036,"metaUuid":null}
@@ -65301,4 +65301,7 @@
 "23258":{"nexusModName":"Psychotter's Goth Dyes_JP","nexusUploadedBy":"Akazonae36","nexusModId":23258,"paks":[
 {"nexusFileName":"Psychotter'S Gothic Dyes   Dark Metal JP","nexusFileVersion":"1","pakFileName":"Psychotter's Gothic Dyes - Dark Metal_JP.pak","nexusFileId":123063,"metaUuid":null},
 {"nexusFileName":"Psychotter'S Gothic Dyes   Bright  Metal  JP","nexusFileVersion":"1","pakFileName":"Psychotter's Gothic Dyes - Bright  Metal _JP.pak","nexusFileId":123064,"metaUuid":null}
+]},
+"23259":{"nexusModName":"QuiverModGerman","nexusUploadedBy":"Jackxx00","nexusModId":23259,"paks":[
+{"nexusFileName":"KoecherModGerman","nexusFileVersion":"2","pakFileName":"AlmostVanillaQuivers_AVLQ.pak","nexusFileId":123082,"metaUuid":null}
 ]}}
