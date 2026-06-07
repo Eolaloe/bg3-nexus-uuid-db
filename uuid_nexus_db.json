@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-06-07T18:52:36.360051+00:00","total_mods":16492},
+{"_meta":{"last_run":"2026-06-07T19:52:12.811354+00:00","total_mods":16492},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -33150,7 +33150,8 @@
 {"nexusFileName":"Encounters Overhaul Compatibility Patch","nexusFileVersion":"4.0.0.0","pakFileName":"ManyMoreMonsters_EOPatch.pak","nexusFileId":122787,"metaUuid":"057bdd4e-5285-43fc-a174-2577e70f217f"},
 {"nexusFileName":"Variable HP","nexusFileVersion":"4.0.0.0","pakFileName":"ManyMoreMonsters_VariableHP.pak","nexusFileId":122788,"metaUuid":null},
 {"nexusFileName":"Zero Exp","nexusFileVersion":"4.0.0.0","pakFileName":"ManyMoreMonsters_ZeroExp.pak","nexusFileId":122789,"metaUuid":null},
-{"nexusFileName":"Many More Monsters","nexusFileVersion":"4.1.2.0","pakFileName":"ManyMoreMonsters.pak","nexusFileId":122899,"metaUuid":"1b215646-6200-451a-9c4a-b21406f69edd"}
+{"nexusFileName":"Many More Monsters - Modified","nexusFileVersion":"4.2.0.0","pakFileName":"ManyMoreMonsters - Modified.pak","nexusFileId":123088,"metaUuid":null},
+{"nexusFileName":"Many More Monsters","nexusFileVersion":"4.2.0.0","pakFileName":"ManyMoreMonsters.pak","nexusFileId":123090,"metaUuid":"1b215646-6200-451a-9c4a-b21406f69edd"}
 ]},
 "11640":{"nexusModName":"Hellish Rebuke for Karlach","nexusUploadedBy":"robogena","nexusModId":11640,"paks":[
 {"nexusFileName":"Hellish Rebuke for Karlach","nexusFileVersion":"2.0","pakFileName":"robogena_HellishRebukeforKarlach.pak","nexusFileId":72001,"metaUuid":null}
@@ -42178,9 +42179,10 @@
 {"nexusFileName":"FeatsOverhaul ListoPatch","nexusFileVersion":"1.1.3","pakFileName":"FeatsOverhaul_ListoPatch.pak","nexusFileId":105830,"metaUuid":null},
 {"nexusFileName":"FeatsOverhaul RangedWeaponsRebalancePatch","nexusFileVersion":"1.0.0","pakFileName":"FeatsOverhaul_RangedWeaponsRebalancePatch.pak","nexusFileId":107875,"metaUuid":null},
 {"nexusFileName":"FeatsOverhaul AlertPatch","nexusFileVersion":"1.0.0","pakFileName":"FeatsOverhaul_AlertPatch.pak","nexusFileId":119293,"metaUuid":"7da6084a-0837-4964-9da8-872b4f4e8170"},
-{"nexusFileName":"FeatsOverhaul","nexusFileVersion":"1.5.9","pakFileName":"FeatsOverhaul.pak","nexusFileId":119966,"metaUuid":null},
 {"nexusFileName":"FeatsOverhaul HitDicePatch","nexusFileVersion":"1.0.0","pakFileName":"FeatsOverhaul_HitDicePatch.pak","nexusFileId":121718,"metaUuid":null},
-{"nexusFileName":"FeatsOverhaul DualWielderPatch","nexusFileVersion":"1.0.2","pakFileName":"FeatsOverhaul_DualWielderPatch.pak","nexusFileId":122374,"metaUuid":null}
+{"nexusFileName":"FeatsOverhaul DualWielderPatch","nexusFileVersion":"1.0.2","pakFileName":"FeatsOverhaul_DualWielderPatch.pak","nexusFileId":122374,"metaUuid":null},
+{"nexusFileName":"FeatsOverhaul","nexusFileVersion":"1.5.10","pakFileName":"FeatsOverhaul.pak","nexusFileId":123086,"metaUuid":null},
+{"nexusFileName":"FeatsOverhaul","nexusFileVersion":"1.5.10","pakFileName":"FeatsOverhaul.pak","nexusFileId":123087,"metaUuid":null}
 ]},
 "15045":{"nexusModName":"5e Ranger Subclasses Combined_KOR","nexusUploadedBy":"Ahdarugo","nexusModId":15045,"paks":[
 {"nexusFileName":"5e Ranger Subclasses Combined_KOR","nexusFileVersion":"2.0.0.3","pakFileName":"ranger__6473a445-3c30-7721-47ce-966e72fab1fd.pak","nexusFileId":114048,"metaUuid":null}
@@ -62699,7 +62701,7 @@
 "22224":{"nexusModName":"Instrument Poses - Guitar and Drum (Bard Poses Part 2)","nexusUploadedBy":"HastursQueen","nexusModId":22224,"paks":[
 {"nexusFileName":"GuitarsAndDrumPoses","nexusFileVersion":"1.0.0.1","pakFileName":"GuitarAndDrumPoses.pak","nexusFileId":117842,"metaUuid":null}
 ]},
-"22225":{"nexusModName":"Nyx - Leather Armor and Camp Clothing","nexusUploadedBy":"Naerys","nexusModId":22225,"paks":[
+"22225":{"nexusModName":"NAERYS - Nyx","nexusUploadedBy":"Naerys","nexusModId":22225,"paks":[
 {"nexusFileName":"NAERYS - Nyx","nexusFileVersion":"1.3","pakFileName":"NAERYS_Nyx_25bb3962-a0ae-0c4f-9bad-ea41d0db0edf.pak","nexusFileId":118610,"metaUuid":"25bb3962-a0ae-0c4f-9bad-ea41d0db0edf"}
 ]},
 "22226":{"nexusModName":"Scratch and Shovel PT-BR","nexusUploadedBy":"Firetoga","nexusModId":22226,"paks":[
@@ -63023,7 +63025,7 @@
 "22355":{"nexusModName":"Mirror of Loss Fixes for Shadowheart","nexusUploadedBy":"koboldJuno","nexusModId":22355,"paks":[
 {"nexusFileName":"Shadowheart's Mirror Buff","nexusFileVersion":"1.0.0.1","pakFileName":"ShadMirrorBuff_dcf86ff3-0d21-d025-f451-e2fa7e86cefd.pak","nexusFileId":118509,"metaUuid":"dcf86ff3-0d21-d025-f451-e2fa7e86cefd"}
 ]},
-"22358":{"nexusModName":"Incendium - Ruler of Flames","nexusUploadedBy":"Naerys","nexusModId":22358,"paks":[
+"22358":{"nexusModName":"NAERYS - Incendium","nexusUploadedBy":"Naerys","nexusModId":22358,"paks":[
 {"nexusFileName":"NAERYS - Incendium","nexusFileVersion":"1.2","pakFileName":"NAERYS_Incendium_b00491f0-fa22-2674-289e-7f903ae1f846.pak","nexusFileId":118691,"metaUuid":null},
 {"nexusFileName":"Incendium - less latex shiny","nexusFileVersion":"1","pakFileName":"NAERYS_Incendium_b00491f0-fa22-2674-289e-7f903ae1f846.pak","nexusFileId":118853,"metaUuid":null}
 ]},
@@ -63944,7 +63946,7 @@
 "22689":{"nexusModName":"Shadowheart Narrative Haircuts","nexusUploadedBy":"WorldWalker42","nexusModId":22689,"paks":[
 {"nexusFileName":"Shadowheart Narrative Haircuts","nexusFileVersion":"1.0.1.0","pakFileName":"WW_TraumaHaircuts_7c419437-4de8-6e19-9cf4-d6eff2eadb5f.pak","nexusFileId":120442,"metaUuid":null}
 ]},
-"22690":{"nexusModName":"IGNIS - Flame Eternal - Armor and Camp Clothing","nexusUploadedBy":"Naerys","nexusModId":22690,"paks":[
+"22690":{"nexusModName":"NAERYS - Ignis","nexusUploadedBy":"Naerys","nexusModId":22690,"paks":[
 {"nexusFileName":"NAERYS Ignis - Flame Eternal","nexusFileVersion":"1","pakFileName":"NAERYS_Ignis_2e5c3240-59a9-0e75-c750-080eb75edd90.pak","nexusFileId":120516,"metaUuid":"2e5c3240-59a9-0e75-c750-080eb75edd90"}
 ]},
 "22691":{"nexusModName":"Isobel Edits - Child of Reithwin","nexusUploadedBy":"PoisonValentineXIII","nexusModId":22691,"paks":[
