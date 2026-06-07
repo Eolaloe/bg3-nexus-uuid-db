@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-06-07T06:52:18.232151+00:00","total_mods":16483},
+{"_meta":{"last_run":"2026-06-07T07:52:41.807423+00:00","total_mods":16485},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -65265,7 +65265,7 @@
 {"nexusFileName":"Awakened Morninglord's Morningstar","nexusFileVersion":"1.0.0","pakFileName":"Awakened Morninglord's Morningstar Compatibility Patch.pak","nexusFileId":123038,"metaUuid":null}
 ]},
 "23247":{"nexusModName":"Advanced Enemy Randomizer","nexusUploadedBy":"celerev","nexusModId":23247,"paks":[
-{"nexusFileName":"AERando.zip","nexusFileVersion":"0.9.0.0","pakFileName":"AERando.pak","nexusFileId":123035,"metaUuid":null}
+{"nexusFileName":"AERando.zip","nexusFileVersion":"0.9.1.0","pakFileName":"AERando.pak","nexusFileId":123050,"metaUuid":null}
 ]},
 "23248":{"nexusModName":"Sharran Weaponry by AzazeL (WIP)_JP","nexusUploadedBy":"Akazonae36","nexusModId":23248,"paks":[
 {"nexusFileName":"Aza Sharran Weaponry WIP JP","nexusFileVersion":"1","pakFileName":"Aza_Sharran_Weaponry_WIP_JP.pak","nexusFileId":123036,"metaUuid":null}
@@ -65275,4 +65275,10 @@
 ]},
 "23250":{"nexusModName":"FaerunColors ( Dye and color sets)_JP","nexusUploadedBy":"Akazonae36","nexusModId":23250,"paks":[
 {"nexusFileName":"FaerunColors JP","nexusFileVersion":"1","pakFileName":"FaerunColors_JP.pak","nexusFileId":123047,"metaUuid":null}
+]},
+"23251":{"nexusModName":"Pyromancer Sorcerer Subclass_JP","nexusUploadedBy":"Akazonae36","nexusModId":23251,"paks":[
+{"nexusFileName":"Pyromancer Sorcerer Subclass JP","nexusFileVersion":"1","pakFileName":"Pyromancer Sorcerer Subclass_JP.pak","nexusFileId":123051,"metaUuid":null}
+]},
+"23252":{"nexusModName":"The Unbroken Circle Druid Subclass_JP","nexusUploadedBy":"Akazonae36","nexusModId":23252,"paks":[
+{"nexusFileName":"The Unbroken Circle Druid Subclass JP","nexusFileVersion":"1","pakFileName":"The Unbroken Circle Druid Subclass_JP.pak","nexusFileId":123052,"metaUuid":null}
 ]}}
