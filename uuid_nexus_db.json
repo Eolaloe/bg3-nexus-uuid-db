@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-06-07T22:51:44.267930+00:00","total_mods":16492},
+{"_meta":{"last_run":"2026-06-07T23:52:02.306415+00:00","total_mods":16495},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -57535,6 +57535,9 @@
 "20445":{"nexusModName":"Siaell's Illithid Powers Overhaul 2 for Japanese","nexusUploadedBy":"Eolaloe","nexusModId":20445,"paks":[
 {"nexusFileName":"Illithid Powers Overhaul 2 for Japanese","nexusFileVersion":"2.19","pakFileName":"Illithid Powers Overhaul_jp.pak","nexusFileId":121145,"metaUuid":null}
 ]},
+"20446":{"nexusModName":"Death is Your Gift Pose Pack","nexusUploadedBy":"littlehouseofimagination","nexusModId":20446,"paks":[
+{"nexusFileName":"Death Is Your Gift","nexusFileVersion":"1.0","pakFileName":"DeathIsYourGift_402474a9-74d4-990b-be7f-23e0749d6962 (5).pak","nexusFileId":110883,"metaUuid":null}
+]},
 "20447":{"nexusModName":"Dawn's Favour - A Fire and Radiant Divine Favour Alternative","nexusUploadedBy":"SymboJones","nexusModId":20447,"paks":[
 {"nexusFileName":"Dawn's Favour - F R F Divine Favour","nexusFileVersion":"1.0.1","pakFileName":"Dawns Favour - Fire Radiant and Force Divine Favour.pak","nexusFileId":110941,"metaUuid":null},
 {"nexusFileName":"Dawn's Favour - All Caster Addon","nexusFileVersion":"1.0.0","pakFileName":"Dawns Favour - All Caster Addon.pak","nexusFileId":112051,"metaUuid":null}
@@ -59321,6 +59324,9 @@
 "21057":{"nexusModName":"Rocket Launcher","nexusUploadedBy":"warouk","nexusModId":21057,"paks":[
 {"nexusFileName":"Rocket Launcher","nexusFileVersion":"1.0.0.33","pakFileName":"rocketlauncher_0ac25fe9-56c5-683b-00dd-bf0b1efeab78.pak","nexusFileId":113481,"metaUuid":null}
 ]},
+"21059":{"nexusModName":"Little Mirror of Expressions (Full Collection)","nexusUploadedBy":"littlehouseofimagination","nexusModId":21059,"paks":[
+{"nexusFileName":"Little Mirror of Expressions Full Collection","nexusFileVersion":"1.0","pakFileName":"LittleMirrorofExpressions_Vol3_70e3afee-2d2a-eec5-931f-06f6ac0ca9f5.pak","nexusFileId":113414,"metaUuid":null}
+]},
 "21060":{"nexusModName":"Shadowheart's Nightly Hairdo","nexusUploadedBy":"Nzx","nexusModId":21060,"paks":[
 {"nexusFileName":"Shadowheart's Nightly Hairdo","nexusFileVersion":"1.3.6","pakFileName":"ShadowheartNightlyHairdo.pak","nexusFileId":118561,"metaUuid":"60b23938-fd04-44c9-ac0c-9d68bf030901"}
 ]},
@@ -60979,7 +60985,7 @@
 "21628":{"nexusModName":"Followers of Ao - Spacelings for Japanese","nexusUploadedBy":"Eolaloe","nexusModId":21628,"paks":[
 {"nexusFileName":"Followers of Ao - Spacelings for Japanese","nexusFileVersion":"1.0.2","pakFileName":"Spaceling_jp.pak","nexusFileId":115672,"metaUuid":null}
 ]},
-"21629":{"nexusModName":"Life of a Faerunian Girl (Revamped Edition)","nexusUploadedBy":"deleted267386890","nexusModId":21629,"paks":[
+"21629":{"nexusModName":"Life of a Faerunian Girl (Revamped Edition)","nexusUploadedBy":"littlehouseofimagination","nexusModId":21629,"paks":[
 {"nexusFileName":"Life of a Faerunian Girl","nexusFileVersion":"1.0","pakFileName":"Life_of_a_Faerunian_Girl_405ae214-7b2d-fc20-7e05-8595c556a7fd.pak","nexusFileId":115492,"metaUuid":"405ae214-7b2d-fc20-7e05-8595c556a7fd"}
 ]},
 "21630":{"nexusModName":"No Druid Leaf Pauldrons","nexusUploadedBy":"Ghostly","nexusModId":21630,"paks":[
@@ -62875,7 +62881,7 @@
 {"nexusFileName":"SafeTravel","nexusFileVersion":"1.0.0.1","pakFileName":"SafeTravel_599b7ee9-2785-8e63-5aa0-9574aa8cb82a.pak","nexusFileId":118119,"metaUuid":"599b7ee9-2785-8e63-5aa0-9574aa8cb82a"}
 ]},
 "22290":{"nexusModName":"Dynamic Extra Encounters","nexusUploadedBy":"GraphicFade","nexusModId":22290,"paks":[
-{"nexusFileName":"Dynamic Extra Encounters","nexusFileVersion":"1.0.0.21","pakFileName":"DynamicExtraEncounters_ea4f827e-2da8-616d-24f5-6882a126a25a.pak","nexusFileId":122577,"metaUuid":"ea4f827e-2da8-616d-24f5-6882a126a25a"}
+{"nexusFileName":"Dynamic Extra Encounters","nexusFileVersion":"1.0.0.22","pakFileName":"DynamicExtraEncounters_ea4f827e-2da8-616d-24f5-6882a126a25a.pak","nexusFileId":123117,"metaUuid":"ea4f827e-2da8-616d-24f5-6882a126a25a"}
 ]},
 "22291":{"nexusModName":"Exaen's Sazza Evolved for Korean","nexusUploadedBy":"Eolaloe","nexusModId":22291,"paks":[
 {"nexusFileName":"Sazza Evolved for Korean","nexusFileVersion":"1.0.4.0","pakFileName":"SazzaEvolved_kr.pak","nexusFileId":122061,"metaUuid":"f1e44601-ba43-4d3d-8b3e-e9a3a4d8b12f"}
@@ -65210,7 +65216,7 @@
 {"nexusFileName":"Toggleable Dire Raven Fly","nexusFileVersion":"1.0","pakFileName":"ToggleableDireRavenFly.pak","nexusFileId":122851,"metaUuid":"cf3502c4-d6de-49bf-8daa-61c5b17c8bf6"}
 ]},
 "23220":{"nexusModName":"PPB Head Collection Part 1","nexusUploadedBy":"PinkPixelBunny","nexusModId":23220,"paks":[
-{"nexusFileName":"PPBCollectionVOL.1","nexusFileVersion":"1","pakFileName":"PPBModdedHeadCollections_1be03e4f-efe6-0ac8-7dde-4ea6be28693c.pak","nexusFileId":122900,"metaUuid":null}
+{"nexusFileName":"PPBCollectionVOL.1","nexusFileVersion":"2","pakFileName":"PPBModdedHeadCollections_1be03e4f-efe6-0ac8-7dde-4ea6be28693c.pak","nexusFileId":123118,"metaUuid":null}
 ]},
 "23221":{"nexusModName":"Grim Surgeon Rogue Subclass_JP","nexusUploadedBy":"Akazonae36","nexusModId":23221,"paks":[
 {"nexusFileName":"Grim Surgeon Rogue Subclass JP","nexusFileVersion":"1","pakFileName":"Grim Surgeon Rogue Subclass_JP.pak","nexusFileId":122863,"metaUuid":null}
@@ -65308,4 +65314,7 @@
 ]},
 "23259":{"nexusModName":"QuiverModGerman","nexusUploadedBy":"Jackxx00","nexusModId":23259,"paks":[
 {"nexusFileName":"KoecherModGerman","nexusFileVersion":"2","pakFileName":"AlmostVanillaQuivers_AVLQ.pak","nexusFileId":123082,"metaUuid":null}
+]},
+"23261":{"nexusModName":"Talassan's Robe - Outfit Ensemble","nexusUploadedBy":"BerrySemifreddo","nexusModId":23261,"paks":[
+{"nexusFileName":"Talassan's Robe - Main File","nexusFileVersion":"1.0.0.9","pakFileName":"TalassanRobe_601e8627-0fe8-0d52-2ba8-7e6242cee9c5.pak","nexusFileId":123114,"metaUuid":null}
 ]}}
