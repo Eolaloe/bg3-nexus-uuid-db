@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-06-07T02:52:16.263502+00:00","total_mods":16478},
+{"_meta":{"last_run":"2026-06-07T03:52:12.256712+00:00","total_mods":16481},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -35729,7 +35729,7 @@
 ]},
 "12628":{"nexusModName":"Awakened Blood of Lathander","nexusUploadedBy":"Siaell","nexusModId":12628,"paks":[
 {"nexusFileName":"Scarlet Warlock compatibility patch","nexusFileVersion":"1.1","pakFileName":"Awakened Blood of Lathander - Scarlet Warlock.pak","nexusFileId":104682,"metaUuid":null},
-{"nexusFileName":"Awakened Blood of Lathander","nexusFileVersion":"1.10","pakFileName":"Awakened Blood of Lathander.pak","nexusFileId":121105,"metaUuid":"76307fbd-505d-4247-b263-0392f291e885"}
+{"nexusFileName":"Awakened Blood of Lathander","nexusFileVersion":"1.11","pakFileName":"Awakened Blood of Lathander.pak","nexusFileId":123037,"metaUuid":"76307fbd-505d-4247-b263-0392f291e885"}
 ]},
 "12629":{"nexusModName":"Blood Sorcery - A Sorcerer subclass_CHT","nexusUploadedBy":"bellcat2023","nexusModId":12629,"paks":[
 {"nexusFileName":"BloodSorcery_CHT","nexusFileVersion":"1.4.0.2","pakFileName":"BloodSorcery_CHT.pak","nexusFileId":76897,"metaUuid":null}
@@ -65259,4 +65259,13 @@
 ]},
 "23245":{"nexusModName":"Waypoints Expanded (PT-BR)","nexusUploadedBy":"Firetoga","nexusModId":23245,"paks":[
 {"nexusFileName":"Waypoints (PT-BR)","nexusFileVersion":"1.0.0.0","pakFileName":"Waypoints_BR.pak","nexusFileId":123030,"metaUuid":null}
+]},
+"23246":{"nexusModName":"Awakened Morninglord's Morningstar (Compatibility Patch)","nexusUploadedBy":"Mueffel","nexusModId":23246,"paks":[
+{"nexusFileName":"Awakened Morninglord's Morningstar","nexusFileVersion":"1.0.0","pakFileName":"Awakened Morninglord's Morningstar Compatibility Patch.pak","nexusFileId":123038,"metaUuid":null}
+]},
+"23247":{"nexusModName":"Advanced Enemy Randomizer","nexusUploadedBy":"celerev","nexusModId":23247,"paks":[
+{"nexusFileName":"AERando.zip","nexusFileVersion":"0.9.0.0","pakFileName":"AERando.pak","nexusFileId":123035,"metaUuid":null}
+]},
+"23248":{"nexusModName":"Sharran Weaponry by AzazeL (WIP)_JP","nexusUploadedBy":"Akazonae36","nexusModId":23248,"paks":[
+{"nexusFileName":"Aza Sharran Weaponry WIP JP","nexusFileVersion":"1","pakFileName":"Aza_Sharran_Weaponry_WIP_JP.pak","nexusFileId":123036,"metaUuid":null}
 ]}}
