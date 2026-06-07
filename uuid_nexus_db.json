@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-06-07T19:52:12.811354+00:00","total_mods":16492},
+{"_meta":{"last_run":"2026-06-07T20:52:16.571766+00:00","total_mods":16492},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -35731,7 +35731,7 @@
 ]},
 "12628":{"nexusModName":"Awakened Blood of Lathander","nexusUploadedBy":"Siaell","nexusModId":12628,"paks":[
 {"nexusFileName":"Scarlet Warlock compatibility patch","nexusFileVersion":"1.1","pakFileName":"Awakened Blood of Lathander - Scarlet Warlock.pak","nexusFileId":104682,"metaUuid":null},
-{"nexusFileName":"Awakened Blood of Lathander","nexusFileVersion":"1.11","pakFileName":"Awakened Blood of Lathander.pak","nexusFileId":123037,"metaUuid":"76307fbd-505d-4247-b263-0392f291e885"}
+{"nexusFileName":"Awakened Blood of Lathander","nexusFileVersion":"1.11.2","pakFileName":"Awakened Blood of Lathander.pak","nexusFileId":123105,"metaUuid":"76307fbd-505d-4247-b263-0392f291e885"}
 ]},
 "12629":{"nexusModName":"Blood Sorcery - A Sorcerer subclass_CHT","nexusUploadedBy":"bellcat2023","nexusModId":12629,"paks":[
 {"nexusFileName":"BloodSorcery_CHT","nexusFileVersion":"1.4.0.2","pakFileName":"BloodSorcery_CHT.pak","nexusFileId":76897,"metaUuid":null}
@@ -43398,10 +43398,12 @@
 {"nexusFileName":"Scrounger PTBR 8.0.3","nexusFileVersion":"8.0.3","pakFileName":"Scrounger_ptbr.pak","nexusFileId":88032,"metaUuid":null}
 ]},
 "15535":{"nexusModName":"Ultimate NPC Stat Overhaul (UNSO)","nexusUploadedBy":"BaldursGoonsack","nexusModId":15535,"paks":[
-{"nexusFileName":"Ultimate NPC Stat Overhaul - Lab - Extras","nexusFileVersion":"2.5.6.0","pakFileName":"Ultimate NPC Stat Overhaul - Lab Edition - Extras.pak","nexusFileId":114700,"metaUuid":"445cacd6-70b2-43ca-8f09-1836da616e8a"},
-{"nexusFileName":"Ultimate NPC Stat Overhaul - CX - Extras","nexusFileVersion":"2.5.6.0","pakFileName":"Ultimate NPC Stat Overhaul - Extras.pak","nexusFileId":114701,"metaUuid":"445cacd6-70b2-43ca-8f09-1836da616e8a"},
-{"nexusFileName":"Ultimate NPC Stat Overhaul - Combat Extender","nexusFileVersion":"2.5.9.1","pakFileName":"Ultimate NPC Stat Overhaul.pak","nexusFileId":120286,"metaUuid":"61e8471b-4eda-4493-829d-e3c29ecc36c3"},
-{"nexusFileName":"Ultimate NPC Stat Overhaul - Absolute's Laboratory","nexusFileVersion":"2.6.0.0","pakFileName":"Ultimate NPC Stat Overhaul - Lab Edition.pak","nexusFileId":120335,"metaUuid":"61e8471b-4eda-4493-829d-e3c29ecc36c3"}
+{"nexusFileName":"Ultimate NPC Stat Overhaul - CX - Extras","nexusFileVersion":"3.0.0.0","pakFileName":"Ultimate NPC Stat Overhaul - CX - Extras.pak","nexusFileId":123094,"metaUuid":null},
+{"nexusFileName":"Ultimate NPC Stat Overhaul - Lab - Extras","nexusFileVersion":"3.0.0.0","pakFileName":"Ultimate NPC Stat Overhaul - Lab - Extras.pak","nexusFileId":123095,"metaUuid":null},
+{"nexusFileName":"Ultimate NPC Stat Overhaul - Lab","nexusFileVersion":"3.0.0.0","pakFileName":"Ultimate NPC Stat Overhaul - Lab.pak","nexusFileId":123096,"metaUuid":null},
+{"nexusFileName":"Ultimate NPC Stat Overhaul - CX","nexusFileVersion":"3.0.0.0","pakFileName":"Ultimate NPC Stat Overhaul - CX.pak","nexusFileId":123097,"metaUuid":null},
+{"nexusFileName":"Ultimate NPC Stat Overhaul - Core - Extras","nexusFileVersion":"3.0.0.0","pakFileName":"Ultimate NPC Stat Overhaul - Core - Extras.pak","nexusFileId":123098,"metaUuid":null},
+{"nexusFileName":"Ultimate NPC Stat Overhaul - Core","nexusFileVersion":"3.0.0.0","pakFileName":"Ultimate NPC Stat Overhaul - Core.pak","nexusFileId":123099,"metaUuid":null}
 ]},
 "15536":{"nexusModName":"Pact and Power PTBR 1.0.0.4","nexusUploadedBy":"kaironn2","nexusModId":15536,"paks":[
 {"nexusFileName":"Pact and Power PTBR 1.0.0.4","nexusFileVersion":"1.0.0.4","pakFileName":"pact_and_power_ptbr.pak","nexusFileId":89904,"metaUuid":null}
@@ -62504,10 +62506,10 @@
 ]},
 "22156":{"nexusModName":"Nightwarden Minthara","nexusUploadedBy":"Nzx","nexusModId":22156,"paks":[
 {"nexusFileName":"NightwardenMinthara - VSO","nexusFileVersion":"1.1.2","pakFileName":"NightwardenMinthara[VSO].pak","nexusFileId":118490,"metaUuid":null},
-{"nexusFileName":"Nightwarden Minthara","nexusFileVersion":"1.1.3","pakFileName":"NightwardenMinthara.pak","nexusFileId":118563,"metaUuid":"f88dd498-f085-433d-b8ee-10b7f5aa0ef7"},
-{"nexusFileName":"Nightwarden Minthara - ABS","nexusFileVersion":"1.1.3","pakFileName":"NightwardenMinthara[Abs].pak","nexusFileId":118564,"metaUuid":null},
-{"nexusFileName":"Nightwarden Minthara - Adytum","nexusFileVersion":"1.1.3","pakFileName":"NightwardenMinthara[Adytum].pak","nexusFileId":118565,"metaUuid":"f88dd498-f085-433d-b8ee-10b7f5aa0ef7"},
-{"nexusFileName":"Nightwarden Minthara - Nightly Hairdo","nexusFileVersion":"1.1.3","pakFileName":"NightwardenMinthara[NightlyHairdo].pak","nexusFileId":118566,"metaUuid":null}
+{"nexusFileName":"Nightwarden Minthara - Nightly Hairdo","nexusFileVersion":"1.2.0","pakFileName":"NightwardenMinthara[NightlyHairdo].pak","nexusFileId":123101,"metaUuid":null},
+{"nexusFileName":"Nightwarden Minthara - Adytum","nexusFileVersion":"1.2.0","pakFileName":"NightwardenMinthara[Adytum].pak","nexusFileId":123102,"metaUuid":"f88dd498-f085-433d-b8ee-10b7f5aa0ef7"},
+{"nexusFileName":"Nightwarden Minthara - ABS","nexusFileVersion":"1.2.0","pakFileName":"NightwardenMinthara[Abs].pak","nexusFileId":123103,"metaUuid":null},
+{"nexusFileName":"Nightwarden Minthara","nexusFileVersion":"1.2.0","pakFileName":"NightwardenMinthara.pak","nexusFileId":123104,"metaUuid":"f88dd498-f085-433d-b8ee-10b7f5aa0ef7"}
 ]},
 "22157":{"nexusModName":"Gale's Underwear Incident","nexusUploadedBy":"swissfred","nexusModId":22157,"paks":[
 {"nexusFileName":"Gale's Underwear Incident","nexusFileVersion":"1.0.8.0","pakFileName":"GalesUnderwearIncident_502e6ab8-518a-d3d3-54ca-90dc480bf487.pak","nexusFileId":117657,"metaUuid":"502e6ab8-518a-d3d3-54ca-90dc480bf487"}
@@ -65272,7 +65274,7 @@
 {"nexusFileName":"Waypoints BR","nexusFileVersion":"1.0.0.0.1","pakFileName":"Waypoints_BR.pak","nexusFileId":123079,"metaUuid":null}
 ]},
 "23246":{"nexusModName":"Awakened Morninglord's Morningstar (Compatibility Patch)","nexusUploadedBy":"Mueffel","nexusModId":23246,"paks":[
-{"nexusFileName":"Awakened Morninglord's Morningstar","nexusFileVersion":"1.0.0","pakFileName":"Awakened Morninglord's Morningstar Compatibility Patch.pak","nexusFileId":123038,"metaUuid":null}
+{"nexusFileName":"Awakened Morninglord's Morningstar","nexusFileVersion":"1.0.1","pakFileName":"Awakened Morninglord's Morningstar Compatibility Patch.pak","nexusFileId":123106,"metaUuid":null}
 ]},
 "23247":{"nexusModName":"Advanced Enemy Randomizer","nexusUploadedBy":"celerev","nexusModId":23247,"paks":[
 {"nexusFileName":"AERando.zip","nexusFileVersion":"0.9.3.1","pakFileName":"AERando.pak","nexusFileId":123084,"metaUuid":null}
