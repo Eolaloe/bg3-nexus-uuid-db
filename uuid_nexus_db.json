@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-06-07T14:52:20.164515+00:00","total_mods":16490},
+{"_meta":{"last_run":"2026-06-07T16:52:25.127264+00:00","total_mods":16491},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -46927,7 +46927,7 @@
 {"nexusFileName":"Common Actions Consolidated - Get Ready Patch","nexusFileVersion":"1.0.0","pakFileName":"Common Actions_consolidated - Get Ready Patch.pak","nexusFileId":122532,"metaUuid":null},
 {"nexusFileName":"Common Actions Consolidated - Hurry Up Patch","nexusFileVersion":"1.0.0","pakFileName":"Common Actions_consolidated - Hurry Up Patch.pak","nexusFileId":122533,"metaUuid":null},
 {"nexusFileName":"Common Actions Consolidated - Swap Places Patch","nexusFileVersion":"1.0.0","pakFileName":"Common Actions_consolidated - Swap Places Patch.pak","nexusFileId":122534,"metaUuid":null},
-{"nexusFileName":"Common Actions Consolidated","nexusFileVersion":"1.0.4","pakFileName":"Common Actions_consolidated.pak","nexusFileId":122719,"metaUuid":"6269aa39-f171-47c0-9e6b-b4ad63e08c61"}
+{"nexusFileName":"Common Actions Consolidated","nexusFileVersion":"1.0.5","pakFileName":"Common Actions_consolidated.pak","nexusFileId":123069,"metaUuid":"6269aa39-f171-47c0-9e6b-b4ad63e08c61"}
 ]},
 "16909":{"nexusModName":"Cazador Drops His Outfit","nexusUploadedBy":"xJustAdam","nexusModId":16909,"paks":[
 {"nexusFileName":"Cazador Drops His Outfit","nexusFileVersion":"1.0","pakFileName":"Cazador Drops His Outfit.pak","nexusFileId":94477,"metaUuid":null},
@@ -57206,7 +57206,7 @@
 {"nexusFileName":"SF6_Cammy_Suit","nexusFileVersion":"1.0.0","pakFileName":"SF6_Cammy.pak","nexusFileId":110369,"metaUuid":null}
 ]},
 "20309":{"nexusModName":"Serafina and Gale's Elysian Summer Home","nexusUploadedBy":"axianaa","nexusModId":20309,"paks":[
-{"nexusFileName":"Serafina and Gale's Elysian Summer Home","nexusFileVersion":"1.0.0.40","pakFileName":"AxiAUChaoticAmbition_15a97bbb-2817-601e-4eef-61440684614d.pak","nexusFileId":111740,"metaUuid":"15a97bbb-2817-601e-4eef-61440684614d"}
+{"nexusFileName":"Serafina and Gale's Elysian Summer Home","nexusFileVersion":"1.0.0.41","pakFileName":"AxiAUChaoticAmbition_15a97bbb-2817-601e-4eef-61440684614d.pak","nexusFileId":123071,"metaUuid":"15a97bbb-2817-601e-4eef-61440684614d"}
 ]},
 "20310":{"nexusModName":"Whispering Blood Remastered for Korean","nexusUploadedBy":"Eolaloe","nexusModId":20310,"paks":[
 {"nexusFileName":"Whispering Blood Remastered for Korean","nexusFileVersion":"1.1.1","pakFileName":"WhisperingBloodRemaster_kr.pak","nexusFileId":120140,"metaUuid":null}
@@ -59972,7 +59972,7 @@
 {"nexusFileName":"Labeled Container Creator for Korean","nexusFileVersion":"1.1.0","pakFileName":"LabeledContainerCreator_kr.pak","nexusFileId":114130,"metaUuid":null}
 ]},
 "21293":{"nexusModName":"AxiAU - Waterdeep","nexusUploadedBy":"axianaa","nexusModId":21293,"paks":[
-{"nexusFileName":"AxiAU - Waterdeep","nexusFileVersion":"1.0.0.20","pakFileName":"AxiAU_Waterdeep_0c240197-68ac-bcd2-57d7-463017c878d4.pak","nexusFileId":115961,"metaUuid":"0c240197-68ac-bcd2-57d7-463017c878d4"}
+{"nexusFileName":"AxiAU - Waterdeep","nexusFileVersion":"1.0.0.24","pakFileName":"AxiAU_Waterdeep_0c240197-68ac-bcd2-57d7-463017c878d4.pak","nexusFileId":123073,"metaUuid":"0c240197-68ac-bcd2-57d7-463017c878d4"}
 ]},
 "21294":{"nexusModName":"Volitio's Labeled Container Creator for Japanese","nexusUploadedBy":"Eolaloe","nexusModId":21294,"paks":[
 {"nexusFileName":"Labeled Container Creator for Japanese","nexusFileVersion":"1.1.0","pakFileName":"LabeledContainerCreator_jp.pak","nexusFileId":114132,"metaUuid":null}
@@ -64734,7 +64734,7 @@
 {"nexusFileName":"Dice Failure Laughtrack","nexusFileVersion":"2","pakFileName":"Dice Failure Laughtrack.pak","nexusFileId":122433,"metaUuid":null}
 ]},
 "23050":{"nexusModName":"Sword of Justice Upgradable","nexusUploadedBy":"blackninjato2","nexusModId":23050,"paks":[
-{"nexusFileName":"Sword Of Justice Upgradeable","nexusFileVersion":"1","pakFileName":"Sword of Justice Upgradeable.pak","nexusFileId":122055,"metaUuid":null}
+{"nexusFileName":"Sword Of Justice Upgradeable","nexusFileVersion":"1.1","pakFileName":"Sword of Justice Upgradeable.pak","nexusFileId":123070,"metaUuid":null}
 ]},
 "23052":{"nexusModName":"If Fate Chose Differently - Wyll Pact Points Overhaul (WCU Mod 4) for Korean","nexusUploadedBy":"Eolaloe","nexusModId":23052,"paks":[
 {"nexusFileName":"If Fate Chose Differently - Wyll for Korean","nexusFileVersion":"1.0.0.9","pakFileName":"MGNTN_WyllPactPoints_kr.pak","nexusFileId":122071,"metaUuid":null}
@@ -64973,6 +64973,10 @@
 "23114":{"nexusModName":"Ranged Paladin Option","nexusUploadedBy":"TheWailingBard","nexusModId":23114,"paks":[
 {"nexusFileName":"Ranged Paladin Option","nexusFileVersion":"1.0.0.7","pakFileName":"WBRangedPaladin_a42867d9-9db1-51b6-a13b-6dd4e8b489a1.pak","nexusFileId":122432,"metaUuid":null}
 ]},
+"23115":{"nexusModName":"Deutsch Voice NPCs","nexusUploadedBy":"Schneeflocce","nexusModId":23115,"paks":[
+{"nexusFileName":"BG3German","nexusFileVersion":"2.0","pakFileName":"German.pak","nexusFileId":123077,"metaUuid":null},
+{"nexusFileName":"BG3German","nexusFileVersion":"2.0","pakFileName":"German_1.pak","nexusFileId":123077,"metaUuid":null}
+]},
 "23116":{"nexusModName":"Pan King Astarion Poses","nexusUploadedBy":"LaVakariana","nexusModId":23116,"paks":[
 {"nexusFileName":"Vaks PanKing Astarion Poses","nexusFileVersion":"1","pakFileName":"Vaks_PanKingAstarion_Poses_de01fbb4-0df9-0f5e-4530-3b1fd537df98.pak","nexusFileId":122437,"metaUuid":null}
 ]},
@@ -65109,7 +65113,7 @@
 {"nexusFileName":"Mortarch Gracie Scyre visual Replacer","nexusFileVersion":"1.1","pakFileName":"KelemvorClericNewFit.pak","nexusFileId":122845,"metaUuid":null}
 ]},
 "23177":{"nexusModName":"Blight Warden - a poison tank subclass for Fighter","nexusUploadedBy":"dddzmpzmp","nexusModId":23177,"paks":[
-{"nexusFileName":"Blight Warden V1.0.4","nexusFileVersion":"5","pakFileName":"BlightWardenFighter_dfcc82d1-cb88-4341-8a83-617bf8f61a70.pak","nexusFileId":122840,"metaUuid":null}
+{"nexusFileName":"Blight Warden V1.0.5","nexusFileVersion":"6","pakFileName":"BlightWardenFighter_dfcc82d1-cb88-4341-8a83-617bf8f61a70.pak","nexusFileId":123074,"metaUuid":null}
 ]},
 "23178":{"nexusModName":"Arcadia - Clothing and Light Armor","nexusUploadedBy":"onyx","nexusModId":23178,"paks":[
 {"nexusFileName":"Arcadia - Clothing and Light Armor","nexusFileVersion":"1","pakFileName":"ONYX_Arcadia_9cfae904-da4f-665f-25c3-0d7c551063ae.pak","nexusFileId":122645,"metaUuid":"9cfae904-da4f-665f-25c3-0d7c551063ae"}
@@ -65142,7 +65146,7 @@
 {"nexusFileName":"Zenin Path - A Jujutsu Kaisen Class for Korean","nexusFileVersion":"1.0.0.2","pakFileName":"ZeninPath_kr.pak","nexusFileId":123044,"metaUuid":null}
 ]},
 "23192":{"nexusModName":"Elemental Flow - a complete rework of Monk (Way of the Four Elements)","nexusUploadedBy":"dddzmpzmp","nexusModId":23192,"paks":[
-{"nexusFileName":"Elemental Flow v1.0.0","nexusFileVersion":"1","pakFileName":"Elemental_Flow_1_0_0.pak","nexusFileId":122723,"metaUuid":null}
+{"nexusFileName":"Elemental Flow v1.0.1","nexusFileVersion":"3","pakFileName":"FourElementsMonkRevamp_4e1e6f03-f0a4-4b3e-8a70-2c9719f4e1e5.pak","nexusFileId":123075,"metaUuid":null}
 ]},
 "23194":{"nexusModName":"Mazzle's Group Climbing Fix","nexusUploadedBy":"Mazzle23","nexusModId":23194,"paks":[
 {"nexusFileName":"Mazzle Group Climbing 1.2.0","nexusFileVersion":"1.2.0","pakFileName":"Mazzle_Group_Climbing.pak","nexusFileId":123032,"metaUuid":"b05f6ce7-e57d-4ed4-bedf-8a5b4c1651db"}
@@ -65262,13 +65266,13 @@
 {"nexusFileName":"WitchElf (PT-BR)","nexusFileVersion":"v1.1.1","pakFileName":"CE_WitchElf_BR.pak","nexusFileId":122985,"metaUuid":null}
 ]},
 "23245":{"nexusModName":"Waypoints Expanded (PT-BR)","nexusUploadedBy":"Firetoga","nexusModId":23245,"paks":[
-{"nexusFileName":"Waypoints (PT-BR)","nexusFileVersion":"1.0.0.0","pakFileName":"Waypoints_BR.pak","nexusFileId":123030,"metaUuid":null}
+{"nexusFileName":"Waypoints (PT-BR)","nexusFileVersion":"1.0.0.0.1","pakFileName":"Waypoints_BR.pak","nexusFileId":123076,"metaUuid":null}
 ]},
 "23246":{"nexusModName":"Awakened Morninglord's Morningstar (Compatibility Patch)","nexusUploadedBy":"Mueffel","nexusModId":23246,"paks":[
 {"nexusFileName":"Awakened Morninglord's Morningstar","nexusFileVersion":"1.0.0","pakFileName":"Awakened Morninglord's Morningstar Compatibility Patch.pak","nexusFileId":123038,"metaUuid":null}
 ]},
 "23247":{"nexusModName":"Advanced Enemy Randomizer","nexusUploadedBy":"celerev","nexusModId":23247,"paks":[
-{"nexusFileName":"AERando.zip","nexusFileVersion":"0.9.1.0","pakFileName":"AERando.pak","nexusFileId":123050,"metaUuid":null}
+{"nexusFileName":"AERando.zip","nexusFileVersion":"0.9.2.1","pakFileName":"AERando.pak","nexusFileId":123078,"metaUuid":null}
 ]},
 "23248":{"nexusModName":"Sharran Weaponry by AzazeL (WIP)_JP","nexusUploadedBy":"Akazonae36","nexusModId":23248,"paks":[
 {"nexusFileName":"Aza Sharran Weaponry WIP JP","nexusFileVersion":"1","pakFileName":"Aza_Sharran_Weaponry_WIP_JP.pak","nexusFileId":123036,"metaUuid":null}
