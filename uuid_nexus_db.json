@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-06-08T18:52:15.894275+00:00","total_mods":16511},
+{"_meta":{"last_run":"2026-06-08T19:52:12.780136+00:00","total_mods":16513},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -65278,7 +65278,7 @@
 {"nexusFileName":"Awakened Morninglord's Morningstar","nexusFileVersion":"1.0.1","pakFileName":"Awakened Morninglord's Morningstar Compatibility Patch.pak","nexusFileId":123106,"metaUuid":null}
 ]},
 "23247":{"nexusModName":"Advanced Enemy Randomizer","nexusUploadedBy":"celerev","nexusModId":23247,"paks":[
-{"nexusFileName":"AERando.zip","nexusFileVersion":"0.9.3.1","pakFileName":"AERando.pak","nexusFileId":123084,"metaUuid":null}
+{"nexusFileName":"AERando.zip","nexusFileVersion":"0.9.4.0","pakFileName":"AERando.pak","nexusFileId":123186,"metaUuid":null}
 ]},
 "23248":{"nexusModName":"Sharran Weaponry by AzazeL (WIP)_JP","nexusUploadedBy":"Akazonae36","nexusModId":23248,"paks":[
 {"nexusFileName":"Aza Sharran Weaponry WIP JP","nexusFileVersion":"1","pakFileName":"Aza_Sharran_Weaponry_WIP_JP.pak","nexusFileId":123036,"metaUuid":null}
@@ -65368,4 +65368,10 @@
 ]},
 "23280":{"nexusModName":"Gale's Godhood","nexusUploadedBy":"GiradigmNex","nexusModId":23280,"paks":[
 {"nexusFileName":"GalesGodhood","nexusFileVersion":"1","pakFileName":"godhood_dc48dd40-545f-8fce-2b5-4wmn.pak","nexusFileId":123184,"metaUuid":null}
+]},
+"23281":{"nexusModName":"Mephit Pactband","nexusUploadedBy":"GiradigmNex","nexusModId":23281,"paks":[
+{"nexusFileName":"MephitRing","nexusFileVersion":"1","pakFileName":"mephitring_f5f9a9c9-3de7-a79f-fiwm.pak","nexusFileId":123185,"metaUuid":null}
+]},
+"23283":{"nexusModName":"CHAR's Adventurer Outfit","nexusUploadedBy":"char","nexusModId":23283,"paks":[
+{"nexusFileName":"CHAR AdventurerOutfit","nexusFileVersion":"1","pakFileName":"CHAR_AdventurerOutfit_aa45d6c2-0bb0-f6ee-da61-87861e5452c3.pak","nexusFileId":123187,"metaUuid":null}
 ]}}
