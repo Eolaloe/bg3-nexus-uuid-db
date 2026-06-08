@@ -135,6 +135,7 @@ export default async function handler(req, res) {
         metaUuid:     item.metaUuid,
         nexusModId:   item.nexusModId  || null,
         nexusFileId:  item.nexusFileId || null,
+        ...(item.verified === true && { verified: true }),
     }));
 
     if (valid.length === 0) {
