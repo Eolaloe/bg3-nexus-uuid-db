@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-06-08T11:52:03.111278+00:00","total_mods":16504},
+{"_meta":{"last_run":"2026-06-08T12:51:51.234591+00:00","total_mods":16506},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -35967,7 +35967,7 @@
 ]},
 "12727":{"nexusModName":"DnD 5.5e All-in-One BEYOND","nexusUploadedBy":"yoonmoonsik43","nexusModId":12727,"paks":[
 {"nexusFileName":"dnd2024 - V3 Legacy","nexusFileVersion":"3.4.6.4","pakFileName":"DnD2024_897914ef-5c96-053c-44af-0be823f895fe.pak","nexusFileId":115523,"metaUuid":null},
-{"nexusFileName":"Dnd2024","nexusFileVersion":"4.5.2.0","pakFileName":"DnD2024_897914ef-5c96-053c-44af-0be823f895fe.pak","nexusFileId":123125,"metaUuid":null}
+{"nexusFileName":"Dnd2024","nexusFileVersion":"4.6.0.4","pakFileName":"DnD2024_897914ef-5c96-053c-44af-0be823f895fe.pak","nexusFileId":123165,"metaUuid":null}
 ]},
 "12728":{"nexusModName":"Origin-Themed Headwear KR","nexusUploadedBy":"Soorawang","nexusModId":12728,"paks":[
 {"nexusFileName":"Origin-Themed Headwear KR","nexusFileVersion":"1.0","pakFileName":"OriginHeadwear_kr.pak","nexusFileId":73692,"metaUuid":null}
@@ -65348,4 +65348,10 @@
 ]},
 "23270":{"nexusModName":"DnDFixesFlavour","nexusUploadedBy":"Philemon1","nexusModId":23270,"paks":[
 {"nexusFileName":"Dndfixesflavour 1fd22a73 Cf03 6npw","nexusFileVersion":"1","pakFileName":"DnDFixesFlavour_1fd22a73-cf03-3ee8-6773-7b8d0986c709.pak","nexusFileId":123162,"metaUuid":null}
+]},
+"23271":{"nexusModName":"The Legend of Drizzt for Korean","nexusUploadedBy":"Eolaloe","nexusModId":23271,"paks":[
+{"nexusFileName":"The Legend of Drizzt for Korean","nexusFileVersion":"1.0.0.6","pakFileName":"DrizztClassComission_kr.pak","nexusFileId":123163,"metaUuid":null}
+]},
+"23272":{"nexusModName":"The Legend of Drizzt for Japanese","nexusUploadedBy":"Eolaloe","nexusModId":23272,"paks":[
+{"nexusFileName":"The Legend of Drizzt for Japanese","nexusFileVersion":"1.0.0.6","pakFileName":"DrizztClassComission_jp.pak","nexusFileId":123164,"metaUuid":null}
 ]}}
