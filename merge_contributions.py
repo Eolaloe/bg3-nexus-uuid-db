@@ -1,10 +1,14 @@
 """
 merge_contributions.py
 
-Reads all files from contributions/ folder,
-tallies UUID votes per pakFileName,
-injects confirmed UUIDs (majority > 50% with >= 3 votes) into uuid_nexus_db.json,
-then deletes processed contribution files.
+Reads all files from contributions/ folder, tallies UUID votes per pakFileName,
+and injects confirmed UUIDs into uuid_nexus_db.json.
+
+Confirmation rules:
+  - Verified entries (direct app download, confirmed modId+fileId): accepted immediately
+  - Regular entries: majority > 50% with >= 3 votes required
+
+Deletes all processed contribution files after merging.
 """
 
 import json
@@ -32,7 +36,7 @@ def format_entry(mod_id: str, entry: dict) -> str:
     )
 
 def save_db(db: dict):
-    """update_db.py와 동일한 포맷으로 저장. modId 정수 순 정렬, _meta 그대로 보존."""
+    """Save in the same format as update_db.py. Sorted by modId (integer), _meta preserved as-is."""
     meta_obj = db.get("_meta", {})
     meta_str = json.dumps(meta_obj, ensure_ascii=False, separators=(",", ":"))
 
@@ -59,8 +63,10 @@ def main():
 
     # ── Tally votes ───────────────────────────────────────────────────────
     # votes[pakFileName_lower] = { uuid: count }
-    votes   = {}
-    mod_map = {}  # pakFileName → { modId, fileId }
+    # verified_map[pakFileName_lower] = uuid  (download-verified, bypasses vote threshold)
+    votes        = {}
+    mod_map      = {}  # pakFileName → { modId, fileId }
+    verified_map = {}  # pakFileName → uuid (from verified contributions)
 
     for fpath in files:
         try:
@@ -74,6 +80,11 @@ def main():
                 uuid = item.get("metaUuid", "")
                 if not pak or not uuid:
                     continue
+
+                # Download-verified contributions bypass the vote threshold
+                if item.get("verified") is True:
+                    verified_map[pak] = uuid
+
                 votes.setdefault(pak, {})
                 votes[pak][uuid] = votes[pak].get(uuid, 0) + 1
 
@@ -86,8 +97,15 @@ def main():
             print(f"  Skip {fpath}: {e}")
 
     # ── Determine confirmed UUIDs ─────────────────────────────────────────
+    # Verified entries (direct app download with confirmed modId+fileId) are
+    # accepted immediately. Regular entries still require >= 3 votes + majority.
     confirmed = {}
     for pak, vote_map in votes.items():
+        if pak in verified_map:
+            confirmed[pak] = verified_map[pak]
+            print(f"  Verified:  {pak} → {verified_map[pak]} (download-verified)")
+            continue
+
         total    = sum(vote_map.values())
         max_uuid = max(vote_map, key=vote_map.get)
         max_cnt  = vote_map[max_uuid]
@@ -99,7 +117,6 @@ def main():
 
     if not confirmed:
         print("No UUIDs confirmed yet.")
-        # Still delete processed files
         _delete_files(files)
         return
 
