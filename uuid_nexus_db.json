@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-06-08T02:51:43.860855+00:00","total_mods":16495},
+{"_meta":{"last_run":"2026-06-08T03:51:39.425420+00:00","total_mods":16496},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -40595,7 +40595,7 @@
 {"nexusFileName":"AdvancedTTSpells.7z","nexusFileVersion":"1.1.9.1","pakFileName":"AdvancedTTSpells_fa49db03-caa7-49c8-7c76-e6c38b60267a.pak","nexusFileId":115751,"metaUuid":"fa49db03-caa7-49c8-7c76-e6c38b60267a"}
 ]},
 "14430":{"nexusModName":"Trials of Tav - Reloaded","nexusUploadedBy":"celerev","nexusModId":14430,"paks":[
-{"nexusFileName":"TrialsOfTavReloaded.zip","nexusFileVersion":"2.3.3.1","pakFileName":"CombatMod.pak","nexusFileId":120449,"metaUuid":null}
+{"nexusFileName":"TrialsOfTavReloaded.zip","nexusFileVersion":"2.3.4.0","pakFileName":"CombatMod.pak","nexusFileId":123128,"metaUuid":null}
 ]},
 "14433":{"nexusModName":"FearTaylor's Camp Clothes CHS","nexusUploadedBy":"SeanYork","nexusModId":14433,"paks":[
 {"nexusFileName":"FearTaylor's Camp Clothes CHS","nexusFileVersion":"1.0.0.0","pakFileName":"feartaylorcampclothes_chs_ea5b-aewg.pak","nexusFileId":82826,"metaUuid":null}
@@ -64685,7 +64685,7 @@
 {"nexusFileName":"Warlock PHB 2024 - Patch","nexusFileVersion":"1.0.0.3","pakFileName":"PactoftheStoneBlaster_PHB2024patch_43c8ba5e-24d0-d685-1bc5-4657cd00656e.pak","nexusFileId":122000,"metaUuid":null}
 ]},
 "23029":{"nexusModName":"Muscular Dragonborn Body Type 3 and 4","nexusUploadedBy":"AbrahamtheHeavy","nexusModId":23029,"paks":[
-{"nexusFileName":"Muscular Dragonborn Body Type 3 and 4","nexusFileVersion":"1.0.0.7","pakFileName":"Muscular_DGB_Bodytype_3and4_c086db60-e1f4-20f5-1643-19f7dadca37a.pak","nexusFileId":122738,"metaUuid":"c086db60-e1f4-20f5-1643-19f7dadca37a"}
+{"nexusFileName":"Muscular Dragonborn Body Type 3 and 4","nexusFileVersion":"1.0.0.8","pakFileName":"Muscular_DGB_Bodytype_3and4_c086db60-e1f4-20f5-1643-19f7dadca37a.pak","nexusFileId":123127,"metaUuid":"c086db60-e1f4-20f5-1643-19f7dadca37a"}
 ]},
 "23030":{"nexusModName":"potion x2","nexusUploadedBy":"danielebuzz","nexusModId":23030,"paks":[
 {"nexusFileName":"Potion X2","nexusFileVersion":"1","pakFileName":"potion x2.pak","nexusFileId":122001,"metaUuid":null}
@@ -65317,4 +65317,7 @@
 ]},
 "23261":{"nexusModName":"Talassan's Robe - Outfit Ensemble","nexusUploadedBy":"BerrySemifreddo","nexusModId":23261,"paks":[
 {"nexusFileName":"Talassan's Robe - Main File","nexusFileVersion":"1.0.0.9","pakFileName":"TalassanRobe_601e8627-0fe8-0d52-2ba8-7e6242cee9c5.pak","nexusFileId":123114,"metaUuid":null}
+]},
+"23262":{"nexusModName":"Mazzle and Moxi's Group Climbing Fix","nexusUploadedBy":"Mazzle23","nexusModId":23262,"paks":[
+{"nexusFileName":"Mazzle Moxi Group Climbing Osiris 1.0.0","nexusFileVersion":"1","pakFileName":"GroupClimbing_18cdd118-8ce6-a0f4-a984-4b9e955b00f8.pak","nexusFileId":123129,"metaUuid":null}
 ]}}
