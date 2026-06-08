@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-06-08T09:51:51.883357+00:00","total_mods":16498},
+{"_meta":{"last_run":"2026-06-08T10:52:24.832784+00:00","total_mods":16501},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -65326,4 +65326,17 @@
 ]},
 "23263":{"nexusModName":"Andariel's Ghost Poses","nexusUploadedBy":"AndarielbytheRiver","nexusModId":23263,"paks":[
 {"nexusFileName":"Ghost Poses","nexusFileVersion":"1","pakFileName":"RiteHereRiteNow_4a2a2055-df53-5846-48b0-18129b5c3825.pak","nexusFileId":123132,"metaUuid":null}
+]},
+"23265":{"nexusModName":"Hide Passive Dice Rolls (Patch 8)","nexusUploadedBy":"DeKRuS","nexusModId":23265,"paks":[
+{"nexusFileName":"HPDR - All Ability Checks and Save Throws.zip","nexusFileVersion":"1","pakFileName":"Hide Passive Dice Rolls - All Ability Checks and Save Throws.pak","nexusFileId":123155,"metaUuid":null},
+{"nexusFileName":"HPDR - All OFF","nexusFileVersion":"1","pakFileName":"Hide Passive Dice Rolls - All OFF.pak","nexusFileId":123156,"metaUuid":null},
+{"nexusFileName":"HPDR - All In Dialogues","nexusFileVersion":"1","pakFileName":"Hide Passive Dice Rolls - All in Dialogues.pak","nexusFileId":123157,"metaUuid":null},
+{"nexusFileName":"HPDR - All Out Of Combat","nexusFileVersion":"1","pakFileName":"Hide Passive Dice Rolls - All out of combat.pak","nexusFileId":123158,"metaUuid":null},
+{"nexusFileName":"HPDR - All But Death Save Throws","nexusFileVersion":"1","pakFileName":"Hide Passive Dice Rolls - All but Death Save Throws.pak","nexusFileId":123159,"metaUuid":null}
+]},
+"23266":{"nexusModName":"Advanced Enemy Randomizer for Korean","nexusUploadedBy":"Eolaloe","nexusModId":23266,"paks":[
+{"nexusFileName":"Advanced Enemy Randomizer for Korean","nexusFileVersion":"0.9.3.1","pakFileName":"AERando_kr.pak","nexusFileId":123153,"metaUuid":null}
+]},
+"23267":{"nexusModName":"Advanced Enemy Randomizer for Japanese","nexusUploadedBy":"Eolaloe","nexusModId":23267,"paks":[
+{"nexusFileName":"Advanced Enemy Randomizer for Japanese","nexusFileVersion":"0.9.3.1","pakFileName":"AERando_jp.pak","nexusFileId":123154,"metaUuid":null}
 ]}}
