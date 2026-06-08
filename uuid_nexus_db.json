@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-06-08T05:51:43.691602+00:00","total_mods":16497},
+{"_meta":{"last_run":"2026-06-08T06:51:40.661185+00:00","total_mods":16497},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -31180,6 +31180,7 @@
 {"nexusFileName":"Dilara UTAV","nexusFileVersion":"1.0.0.1","pakFileName":"Dilara.pak","nexusFileId":63610,"metaUuid":null},
 {"nexusFileName":"Eirlys UTAV","nexusFileVersion":"1.0.0.1","pakFileName":"Eirlys.pak","nexusFileId":63611,"metaUuid":null},
 {"nexusFileName":"Gize UTAV","nexusFileVersion":"1.0.0.1","pakFileName":"Gize.pak","nexusFileId":63612,"metaUuid":null},
+{"nexusFileName":"Vanrie UTAV","nexusFileVersion":"1.0.0.1","pakFileName":"Vanrie.pak","nexusFileId":63613,"metaUuid":null},
 {"nexusFileName":"Dilara Vanilla","nexusFileVersion":"1.0.0.1","pakFileName":"Dilara.pak","nexusFileId":63615,"metaUuid":null},
 {"nexusFileName":"Eirlys Vanilla","nexusFileVersion":"1.0.0.1","pakFileName":"Eirlys.pak","nexusFileId":63616,"metaUuid":null},
 {"nexusFileName":"Gize Vanilla","nexusFileVersion":"1.0.0.1","pakFileName":"Gize.pak","nexusFileId":63617,"metaUuid":null},
@@ -42177,6 +42178,7 @@
 ]},
 "15044":{"nexusModName":"Feats Overhaul","nexusUploadedBy":"Cahooots","nexusModId":15044,"paks":[
 {"nexusFileName":"FeatsOverhaul GWMPatch","nexusFileVersion":"1.0.1","pakFileName":"FeatsOverhaul_GWMPatch.pak","nexusFileId":101937,"metaUuid":"393ee939-c4c6-4ed4-a7f7-0cccdbb41a02"},
+{"nexusFileName":"FeatsOverhaul ListoPatch","nexusFileVersion":"1.1.3","pakFileName":"FeatsOverhaul_ListoPatch.pak","nexusFileId":105830,"metaUuid":null},
 {"nexusFileName":"FeatsOverhaul RangedWeaponsRebalancePatch","nexusFileVersion":"1.0.0","pakFileName":"FeatsOverhaul_RangedWeaponsRebalancePatch.pak","nexusFileId":107875,"metaUuid":null},
 {"nexusFileName":"FeatsOverhaul AlertPatch","nexusFileVersion":"1.0.0","pakFileName":"FeatsOverhaul_AlertPatch.pak","nexusFileId":119293,"metaUuid":"7da6084a-0837-4964-9da8-872b4f4e8170"},
 {"nexusFileName":"FeatsOverhaul HitDicePatch","nexusFileVersion":"1.0.0","pakFileName":"FeatsOverhaul_HitDicePatch.pak","nexusFileId":121718,"metaUuid":null},
@@ -62757,7 +62759,7 @@
 {"nexusFileName":"Involved_Patrons_Fewer_Demands_CH","nexusFileVersion":"2.0.0.1","pakFileName":"Involved_Patrons_Fewer_Demands_CH.pak","nexusFileId":117921,"metaUuid":null}
 ]},
 "22245":{"nexusModName":"DnD 5.5e All-in-One BEYOND for Korean","nexusUploadedBy":"Eolaloe","nexusModId":22245,"paks":[
-{"nexusFileName":"DnD 5.5e All-in-One BEYOND for Korean","nexusFileVersion":"4.5.1.1","pakFileName":"DnD2024_kr.pak","nexusFileId":123045,"metaUuid":"12aa92ca-07e6-4edc-82f4-dd1f99cc43c2"}
+{"nexusFileName":"DnD 5.5e All-in-One BEYOND for Korean","nexusFileVersion":"4.5.2.0","pakFileName":"DnD2024_kr.pak","nexusFileId":123134,"metaUuid":"12aa92ca-07e6-4edc-82f4-dd1f99cc43c2"}
 ]},
 "22246":{"nexusModName":"War Magic Initiate","nexusUploadedBy":"DragBr","nexusModId":22246,"paks":[
 {"nexusFileName":"Iniciado em Magia Belica","nexusFileVersion":"1.0.0.5","pakFileName":"Magia_Belica_06b29149-fbdf-72f8-7f56-3e222e19a6bd.pak","nexusFileId":117957,"metaUuid":null}
@@ -62818,7 +62820,7 @@
 {"nexusFileName":"InventoryExpanded 1.0.1 Beta","nexusFileVersion":"1.0.1.0","pakFileName":"InventoryExpanded_1.0.1.pak","nexusFileId":119220,"metaUuid":"68ac51da-c600-4de4-a795-417d371148bc"}
 ]},
 "22268":{"nexusModName":"DnD 5.5e All-in-One BEYOND for Japanese","nexusUploadedBy":"Eolaloe","nexusModId":22268,"paks":[
-{"nexusFileName":"DnD 5.5e All-in-One BEYOND for Japanese","nexusFileVersion":"4.5.1.1","pakFileName":"DnD2024_jp.pak","nexusFileId":123048,"metaUuid":null}
+{"nexusFileName":"DnD 5.5e All-in-One BEYOND for Japanese","nexusFileVersion":"4.5.2.0","pakFileName":"DnD2024_jp.pak","nexusFileId":123135,"metaUuid":null}
 ]},
 "22269":{"nexusModName":"Fanciful Fairies","nexusUploadedBy":"tepkunset","nexusModId":22269,"paks":[
 {"nexusFileName":"Fanciful Fairies","nexusFileVersion":"1","pakFileName":"FancifulFairies.pak","nexusFileId":118045,"metaUuid":null}
