@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-06-08T19:52:12.780136+00:00","total_mods":16513},
+{"_meta":{"last_run":"2026-06-08T20:52:12.312506+00:00","total_mods":16521},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -50717,7 +50717,7 @@
 {"nexusFileName":"Blood Domain - Cleric Subclass","nexusFileVersion":"1.0","pakFileName":"Blood Domain - Cleric Subclass.pak","nexusFileId":100981,"metaUuid":"8f700026-2419-41c0-b5ca-b81b154cabcc"}
 ]},
 "18231":{"nexusModName":"MazzleLib","nexusUploadedBy":"Mazzle23","nexusModId":18231,"paks":[
-{"nexusFileName":"MazzleLib 1.6.2","nexusFileVersion":"1.6.2","pakFileName":"Mazzle_Lib.pak","nexusFileId":121357,"metaUuid":"96bc14a7-733e-4bea-859d-3695d745efc1"}
+{"nexusFileName":"MazzleLib 1.6.5","nexusFileVersion":"1.6.5","pakFileName":"Mazzle_Lib.pak","nexusFileId":123192,"metaUuid":"96bc14a7-733e-4bea-859d-3695d745efc1"}
 ]},
 "18232":{"nexusModName":"Clean and Furnished Camp CHS","nexusUploadedBy":"yingluo2010","nexusModId":18232,"paks":[
 {"nexusFileName":"Clean and Furnished Camp CHS","nexusFileVersion":"1.1","pakFileName":"Clean and Furnished Camp CHS.pak","nexusFileId":100979,"metaUuid":null}
@@ -56004,7 +56004,7 @@
 {"nexusFileName":"Sandi's Waypoint Only Fast Travel - Vanilla Hotbar","nexusFileVersion":"6","pakFileName":"Sandis Waypoint Only Fast Travel - Vanilla Hotbar.pak","nexusFileId":120437,"metaUuid":null}
 ]},
 "19886":{"nexusModName":"Tav's Clock","nexusUploadedBy":"Mazzle23","nexusModId":19886,"paks":[
-{"nexusFileName":"Tav's Clock 1.3.0","nexusFileVersion":"1.3.0","pakFileName":"Tavs_Clock.pak","nexusFileId":119740,"metaUuid":"d347879f-4a0f-4868-9987-528f21040d01"}
+{"nexusFileName":"Tavs Clock 1.4.0","nexusFileVersion":"1.4.0","pakFileName":"Tavs_Clock.pak","nexusFileId":123188,"metaUuid":"d347879f-4a0f-4868-9987-528f21040d01"}
 ]},
 "19889":{"nexusModName":"Infernal Intimates - Stockings for all ITA","nexusUploadedBy":"Rahl81","nexusModId":19889,"paks":[
 {"nexusFileName":"Infernal Intimates ITA","nexusFileVersion":"1.1.0.0","pakFileName":"InfernalIntimates - ITA.pak","nexusFileId":108544,"metaUuid":null}
@@ -65372,6 +65372,30 @@
 "23281":{"nexusModName":"Mephit Pactband","nexusUploadedBy":"GiradigmNex","nexusModId":23281,"paks":[
 {"nexusFileName":"MephitRing","nexusFileVersion":"1","pakFileName":"mephitring_f5f9a9c9-3de7-a79f-fiwm.pak","nexusFileId":123185,"metaUuid":null}
 ]},
+"23282":{"nexusModName":"Book of Druids - 5e Druid Subclasses (PTBR)","nexusUploadedBy":"Slyder7","nexusModId":23282,"paks":[
+{"nexusFileName":"Book Of Druids - 5e Druid Subclass PTBR","nexusFileVersion":"1","pakFileName":"Book_of_Druids_-_5e_Druid_Subclass_PTBR.pak","nexusFileId":123189,"metaUuid":null}
+]},
 "23283":{"nexusModName":"CHAR's Adventurer Outfit","nexusUploadedBy":"char","nexusModId":23283,"paks":[
 {"nexusFileName":"CHAR AdventurerOutfit","nexusFileVersion":"1","pakFileName":"CHAR_AdventurerOutfit_aa45d6c2-0bb0-f6ee-da61-87861e5452c3.pak","nexusFileId":123187,"metaUuid":null}
+]},
+"23284":{"nexusModName":"Scion Of The Three - Rogue Subclass (PTBR)","nexusUploadedBy":"Slyder7","nexusModId":23284,"paks":[
+{"nexusFileName":"Scion Of The Three PTBR","nexusFileVersion":"1","pakFileName":"Scion_of_The_Three_PTBR.pak","nexusFileId":123190,"metaUuid":null}
+]},
+"23285":{"nexusModName":"Spellfire Sorcery - Sorcerer Subclass (PTBR)","nexusUploadedBy":"Slyder7","nexusModId":23285,"paks":[
+{"nexusFileName":"Spellfire Sorcerer PTBR","nexusFileVersion":"1","pakFileName":"Spellfire_Sorcerer_PTBR.pak","nexusFileId":123191,"metaUuid":null}
+]},
+"23286":{"nexusModName":"College Of The Moon - Bard Subclass (PTBR)","nexusUploadedBy":"Slyder7","nexusModId":23286,"paks":[
+{"nexusFileName":"College Of The Moon PTBR","nexusFileVersion":"1","pakFileName":"College_of_the_Moon_PTBR.pak","nexusFileId":123193,"metaUuid":null}
+]},
+"23287":{"nexusModName":"Oath of the Noble Genies - Paladin Subclass (PTBR)","nexusUploadedBy":"Slyder7","nexusModId":23287,"paks":[
+{"nexusFileName":"Oath Of Noble Genies Paladin PTBR","nexusFileVersion":"1","pakFileName":"Oath_of_Noble_Genies_Paladin_PTBR.pak","nexusFileId":123194,"metaUuid":null}
+]},
+"23288":{"nexusModName":"Oath of Glory - Paladin Subclass (PTBR)","nexusUploadedBy":"Slyder7","nexusModId":23288,"paks":[
+{"nexusFileName":"Oath Of Glory Paladin PTBR","nexusFileVersion":"1","pakFileName":"Oath_of_Glory_Paladin_PTBR.pak","nexusFileId":123195,"metaUuid":null}
+]},
+"23289":{"nexusModName":"College of Bae'qeshel - Bard Subclass","nexusUploadedBy":"Slyder7","nexusModId":23289,"paks":[
+{"nexusFileName":"College Of Baeqeshel - Bard Subclass PTBR","nexusFileVersion":"1","pakFileName":"College_of_Baeqeshel_-_Bard_Subclass_PTBR.pak","nexusFileId":123197,"metaUuid":null}
+]},
+"23290":{"nexusModName":"Oath of the Watchers - Paladin Subclass (PTBR)","nexusUploadedBy":"Slyder7","nexusModId":23290,"paks":[
+{"nexusFileName":"Oath Of Watchers Paladin Subclass PTBR","nexusFileVersion":"1","pakFileName":"Oath_of_Watchers_Paladin_PTBR.pak","nexusFileId":123196,"metaUuid":null}
 ]}}
