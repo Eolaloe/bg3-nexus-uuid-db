@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-06-08T04:51:42.272753+00:00","total_mods":16496},
+{"_meta":{"last_run":"2026-06-08T05:51:43.691602+00:00","total_mods":16497},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -31175,16 +31175,17 @@
 {"nexusFileName":"Detailed","pakFileName":"2B Alt.pak","nexusFileId":63453,"metaUuid":null}
 ]},
 "10843":{"nexusModName":"Heads to Romance Astarion (Again) - Custom Head Creator","nexusUploadedBy":"LadyLovett","nexusModId":10843,"paks":[
-{"nexusFileName":"Revna Vanilla","pakFileName":"Revna.pak","nexusFileId":63547,"metaUuid":null},
-{"nexusFileName":"Revna UTAV","pakFileName":"Revna.pak","nexusFileId":63551,"metaUuid":null},
-{"nexusFileName":"Dilara UTAV","pakFileName":"Dilara.pak","nexusFileId":63610,"metaUuid":null},
-{"nexusFileName":"Eirlys UTAV","pakFileName":"Eirlys.pak","nexusFileId":63611,"metaUuid":null},
-{"nexusFileName":"Gize UTAV","pakFileName":"Gize.pak","nexusFileId":63612,"metaUuid":null},
-{"nexusFileName":"Vanrie UTAV","pakFileName":"Vanrie.pak","nexusFileId":63613,"metaUuid":null},
-{"nexusFileName":"Dilara Vanilla","pakFileName":"Dilara.pak","nexusFileId":63615,"metaUuid":null},
-{"nexusFileName":"Eirlys Vanilla","pakFileName":"Eirlys.pak","nexusFileId":63616,"metaUuid":null},
-{"nexusFileName":"Gize Vanilla","pakFileName":"Gize.pak","nexusFileId":63617,"metaUuid":null},
-{"nexusFileName":"Vanrie Vanilla","pakFileName":"Vanrie.pak","nexusFileId":63618,"metaUuid":null}
+{"nexusFileName":"Revna Vanilla","nexusFileVersion":"1.0.0.1","pakFileName":"Revna.pak","nexusFileId":63547,"metaUuid":null},
+{"nexusFileName":"Revna UTAV","nexusFileVersion":"1.0.0.1","pakFileName":"Revna.pak","nexusFileId":63551,"metaUuid":null},
+{"nexusFileName":"Dilara UTAV","nexusFileVersion":"1.0.0.1","pakFileName":"Dilara.pak","nexusFileId":63610,"metaUuid":null},
+{"nexusFileName":"Eirlys UTAV","nexusFileVersion":"1.0.0.1","pakFileName":"Eirlys.pak","nexusFileId":63611,"metaUuid":null},
+{"nexusFileName":"Gize UTAV","nexusFileVersion":"1.0.0.1","pakFileName":"Gize.pak","nexusFileId":63612,"metaUuid":null},
+{"nexusFileName":"Dilara Vanilla","nexusFileVersion":"1.0.0.1","pakFileName":"Dilara.pak","nexusFileId":63615,"metaUuid":null},
+{"nexusFileName":"Eirlys Vanilla","nexusFileVersion":"1.0.0.1","pakFileName":"Eirlys.pak","nexusFileId":63616,"metaUuid":null},
+{"nexusFileName":"Gize Vanilla","nexusFileVersion":"1.0.0.1","pakFileName":"Gize.pak","nexusFileId":63617,"metaUuid":null},
+{"nexusFileName":"Vanrie Vanilla","nexusFileVersion":"1.0.0.1","pakFileName":"Vanrie.pak","nexusFileId":63618,"metaUuid":null},
+{"nexusFileName":"All In One - Vanilla","nexusFileVersion":"2.0.0.0","pakFileName":"HeadsToRomanceAstarion.pak","nexusFileId":66378,"metaUuid":null},
+{"nexusFileName":"All In One - UTAV","nexusFileVersion":"2.0.0.0","pakFileName":"HeadsToRomanceAstarion.pak","nexusFileId":66379,"metaUuid":null}
 ]},
 "10845":{"nexusModName":"Bhaal's Princess By REN Russian","nexusUploadedBy":"ukerkayuker","nexusModId":10845,"paks":[
 {"nexusFileName":"Bhaal's Princess By REN Russian","pakFileName":"RenArmorRussian.pak","nexusFileId":64804,"metaUuid":null}
@@ -42176,7 +42177,6 @@
 ]},
 "15044":{"nexusModName":"Feats Overhaul","nexusUploadedBy":"Cahooots","nexusModId":15044,"paks":[
 {"nexusFileName":"FeatsOverhaul GWMPatch","nexusFileVersion":"1.0.1","pakFileName":"FeatsOverhaul_GWMPatch.pak","nexusFileId":101937,"metaUuid":"393ee939-c4c6-4ed4-a7f7-0cccdbb41a02"},
-{"nexusFileName":"FeatsOverhaul ListoPatch","nexusFileVersion":"1.1.3","pakFileName":"FeatsOverhaul_ListoPatch.pak","nexusFileId":105830,"metaUuid":null},
 {"nexusFileName":"FeatsOverhaul RangedWeaponsRebalancePatch","nexusFileVersion":"1.0.0","pakFileName":"FeatsOverhaul_RangedWeaponsRebalancePatch.pak","nexusFileId":107875,"metaUuid":null},
 {"nexusFileName":"FeatsOverhaul AlertPatch","nexusFileVersion":"1.0.0","pakFileName":"FeatsOverhaul_AlertPatch.pak","nexusFileId":119293,"metaUuid":"7da6084a-0837-4964-9da8-872b4f4e8170"},
 {"nexusFileName":"FeatsOverhaul HitDicePatch","nexusFileVersion":"1.0.0","pakFileName":"FeatsOverhaul_HitDicePatch.pak","nexusFileId":121718,"metaUuid":null},
@@ -62987,7 +62987,7 @@
 {"nexusFileName":"Necri Soul Wand","nexusFileVersion":"2","pakFileName":"Necri_Soul_Wand_bce292ff-3506-4e26-6675-4efc93289dcc.pak","nexusFileId":118999,"metaUuid":null}
 ]},
 "22334":{"nexusModName":"Fade's Dynamic Enemy Encounters for Korean","nexusUploadedBy":"Eolaloe","nexusModId":22334,"paks":[
-{"nexusFileName":"Dynamic Enemy Encounters for Korean","nexusFileVersion":"1.0.0.21","pakFileName":"DynamicExtraEncounters_kr.pak","nexusFileId":122662,"metaUuid":"685f72ea-ff40-47b2-9a4b-8c091b714ff1"}
+{"nexusFileName":"Dynamic Enemy Encounters for Korean","nexusFileVersion":"1.0.0.22","pakFileName":"DynamicExtraEncounters_kr.pak","nexusFileId":123130,"metaUuid":"685f72ea-ff40-47b2-9a4b-8c091b714ff1"}
 ]},
 "22335":{"nexusModName":"Soulmate Pose Pack","nexusUploadedBy":"Marymeeee","nexusModId":22335,"paks":[
 {"nexusFileName":"Soulmate Pose Pack Cat's Patch","nexusFileVersion":"1","pakFileName":"Soulmate_c1f06c22-7238-3b1a-af32-3494012656e4 (1).pak","nexusFileId":118481,"metaUuid":null}
@@ -63006,7 +63006,7 @@
 {"nexusFileName":"DynamicExtraEncounters - PTBR","nexusFileVersion":"1.0.0.10","pakFileName":"DynamicExtraEncounters - PTBR.pak","nexusFileId":119329,"metaUuid":null}
 ]},
 "22341":{"nexusModName":"Fade's Dynamic Enemy Encounters for Japanese","nexusUploadedBy":"Eolaloe","nexusModId":22341,"paks":[
-{"nexusFileName":"Dynamic Enemy Encounters for Japanese","nexusFileVersion":"1.0.0.21","pakFileName":"DynamicExtraEncounters_jp.pak","nexusFileId":122663,"metaUuid":null}
+{"nexusFileName":"Dynamic Enemy Encounters for Japanese","nexusFileVersion":"1.0.0.22","pakFileName":"DynamicExtraEncounters_jp.pak","nexusFileId":123131,"metaUuid":null}
 ]},
 "22342":{"nexusModName":"Quivers - PTBR","nexusUploadedBy":"TAPAtlas","nexusModId":22342,"paks":[
 {"nexusFileName":"Quivers - PTBR","nexusFileVersion":"1.0.0.0","pakFileName":"Quivers - Tradução PT-BR.pak","nexusFileId":118430,"metaUuid":null}
@@ -64983,7 +64983,7 @@
 "23114":{"nexusModName":"Ranged Paladin Option","nexusUploadedBy":"TheWailingBard","nexusModId":23114,"paks":[
 {"nexusFileName":"Ranged Paladin Option","nexusFileVersion":"1.0.0.7","pakFileName":"WBRangedPaladin_a42867d9-9db1-51b6-a13b-6dd4e8b489a1.pak","nexusFileId":122432,"metaUuid":null}
 ]},
-"23115":{"nexusModName":"Deutsch Voice NPCs","nexusUploadedBy":"Schneeflocce","nexusModId":23115,"paks":[
+"23115":{"nexusModName":"BG3 VC Deutsch Mod","nexusUploadedBy":"Schneeflocce","nexusModId":23115,"paks":[
 {"nexusFileName":"BG3German","nexusFileVersion":"2.0","pakFileName":"German.pak","nexusFileId":123077,"metaUuid":null},
 {"nexusFileName":"BG3German","nexusFileVersion":"2.0","pakFileName":"German_1.pak","nexusFileId":123077,"metaUuid":null}
 ]},
@@ -65320,4 +65320,7 @@
 ]},
 "23262":{"nexusModName":"Mazzle and Moxi's Group Climbing Fix","nexusUploadedBy":"Mazzle23","nexusModId":23262,"paks":[
 {"nexusFileName":"Mazzle Moxi Group Climbing Osiris 1.0.0","nexusFileVersion":"1","pakFileName":"GroupClimbing_18cdd118-8ce6-a0f4-a984-4b9e955b00f8.pak","nexusFileId":123129,"metaUuid":null}
+]},
+"23263":{"nexusModName":"Andariel's Ghost Poses","nexusUploadedBy":"AndarielbytheRiver","nexusModId":23263,"paks":[
+{"nexusFileName":"Ghost Poses","nexusFileVersion":"1","pakFileName":"RiteHereRiteNow_4a2a2055-df53-5846-48b0-18129b5c3825.pak","nexusFileId":123132,"metaUuid":null}
 ]}}
