@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-06-08T21:52:06.431788+00:00","total_mods":16521},
+{"_meta":{"last_run":"2026-06-08T22:51:59.642912+00:00","total_mods":16522},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -47993,9 +47993,9 @@
 {"nexusFileName":"Additional Paladin Resources","nexusFileVersion":"1.0.0","pakFileName":"Lightbringer Reforged - Additional Paladin Resources.pak","nexusFileId":97902,"metaUuid":"77aaa3d5-a0b8-48e8-a1b4-9a043d57776a"},
 {"nexusFileName":"Oath Spells Revised","nexusFileVersion":"1.0.0","pakFileName":"Lightbringer Reforged - Oath Spells Revised.pak","nexusFileId":105012,"metaUuid":null},
 {"nexusFileName":"Blessed Hammer and Imbue Weapon","nexusFileVersion":"1.3.0","pakFileName":"Lightbringer Reforged - Blessed Hammer and Imbue Weapon.pak","nexusFileId":120311,"metaUuid":"3d26bfee-44e1-4aeb-8d1f-bde5e9490c89"},
-{"nexusFileName":"Judgments (Smite Rework)","nexusFileVersion":"3.0.0","pakFileName":"Lightbringer Reforged - Judgments (Smite Rework).pak","nexusFileId":122712,"metaUuid":"85fea947-f8a1-4108-b152-b17c2d8e8998"},
 {"nexusFileName":"Paladin Auras","nexusFileVersion":"1.2.0","pakFileName":"Lightbringer Reforged - Paladin Auras.pak","nexusFileId":122867,"metaUuid":null},
-{"nexusFileName":"Lay on Hands","nexusFileVersion":"1.2.0","pakFileName":"Lightbringer Reforged - Lay on Hands.pak","nexusFileId":122871,"metaUuid":"b99f1bf7-d93b-4c94-acc3-9c31f35f7e25"}
+{"nexusFileName":"Lay on Hands","nexusFileVersion":"1.2.0","pakFileName":"Lightbringer Reforged - Lay on Hands.pak","nexusFileId":122871,"metaUuid":"b99f1bf7-d93b-4c94-acc3-9c31f35f7e25"},
+{"nexusFileName":"Judgments (Smite Rework)","nexusFileVersion":"3.1.0","pakFileName":"Lightbringer Reforged - Judgments (Smite Rework).pak","nexusFileId":123203,"metaUuid":"85fea947-f8a1-4108-b152-b17c2d8e8998"}
 ]},
 "17293":{"nexusModName":"Sickle Variants","nexusUploadedBy":"Headbobbie","nexusModId":17293,"paks":[
 {"nexusFileName":"Sickle Variants","nexusFileVersion":"1.0.1","pakFileName":"HBB_Sickle_Variants.pak","nexusFileId":96841,"metaUuid":null},
@@ -65393,9 +65393,12 @@
 "23288":{"nexusModName":"Oath of Glory - Paladin Subclass (PTBR)","nexusUploadedBy":"Slyder7","nexusModId":23288,"paks":[
 {"nexusFileName":"Oath Of Glory Paladin PTBR","nexusFileVersion":"1","pakFileName":"Oath_of_Glory_Paladin_PTBR.pak","nexusFileId":123195,"metaUuid":null}
 ]},
-"23289":{"nexusModName":"College of Bae'qeshel - Bard Subclass","nexusUploadedBy":"Slyder7","nexusModId":23289,"paks":[
+"23289":{"nexusModName":"College of Bae'qeshel - Bard Subclass (PTBR)","nexusUploadedBy":"Slyder7","nexusModId":23289,"paks":[
 {"nexusFileName":"College Of Baeqeshel - Bard Subclass PTBR","nexusFileVersion":"1","pakFileName":"College_of_Baeqeshel_-_Bard_Subclass_PTBR.pak","nexusFileId":123197,"metaUuid":null}
 ]},
 "23290":{"nexusModName":"Oath of the Watchers - Paladin Subclass (PTBR)","nexusUploadedBy":"Slyder7","nexusModId":23290,"paks":[
 {"nexusFileName":"Oath Of Watchers Paladin Subclass PTBR","nexusFileVersion":"1","pakFileName":"Oath_of_Watchers_Paladin_PTBR.pak","nexusFileId":123196,"metaUuid":null}
+]},
+"23291":{"nexusModName":"Randomized Disguise Self","nexusUploadedBy":"shakyjake42","nexusModId":23291,"paks":[
+{"nexusFileName":"RandomizedDisguiseSelf","nexusFileVersion":"1","pakFileName":"RandomizedDisguiseSelf.pak","nexusFileId":123199,"metaUuid":null}
 ]}}
