@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-06-09T10:51:44.828961+00:00","total_mods":16527},
+{"_meta":{"last_run":"2026-06-09T11:51:43.827072+00:00","total_mods":16528},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -35968,7 +35968,7 @@
 ]},
 "12727":{"nexusModName":"DnD 5.5e All-in-One BEYOND","nexusUploadedBy":"yoonmoonsik43","nexusModId":12727,"paks":[
 {"nexusFileName":"dnd2024 - V3 Legacy","nexusFileVersion":"3.4.6.4","pakFileName":"DnD2024_897914ef-5c96-053c-44af-0be823f895fe.pak","nexusFileId":115523,"metaUuid":"897914ef-5c96-053c-44af-0be823f895fe"},
-{"nexusFileName":"Dnd2024","nexusFileVersion":"4.6.0.7","pakFileName":"DnD2024_897914ef-5c96-053c-44af-0be823f895fe.pak","nexusFileId":123210,"metaUuid":"897914ef-5c96-053c-44af-0be823f895fe"}
+{"nexusFileName":"Dnd2024","nexusFileVersion":"4.6.0.12","pakFileName":"DnD2024_897914ef-5c96-053c-44af-0be823f895fe.pak","nexusFileId":123229,"metaUuid":"897914ef-5c96-053c-44af-0be823f895fe"}
 ]},
 "12728":{"nexusModName":"Origin-Themed Headwear KR","nexusUploadedBy":"Soorawang","nexusModId":12728,"paks":[
 {"nexusFileName":"Origin-Themed Headwear KR","nexusFileVersion":"1.0","pakFileName":"OriginHeadwear_kr.pak","nexusFileId":73692,"metaUuid":null}
@@ -65417,4 +65417,8 @@
 ]},
 "23301":{"nexusModName":"Ultra Mobility Boots","nexusUploadedBy":"PookieKunz","nexusModId":23301,"paks":[
 {"nexusFileName":"Ultra Mobility Boots","nexusFileVersion":"1","pakFileName":"UltraMobilityBoots_898ff28a-189b-4d77-bc98-955e9783307d.pak","nexusFileId":123224,"metaUuid":null}
+]},
+"23303":{"nexusModName":"Body Tattoo For Minsc","nexusUploadedBy":"benben1205","nexusModId":23303,"paks":[
+{"nexusFileName":"Minscsbodytattoo","nexusFileVersion":"1.0.0.1","pakFileName":"MinscsBodyTattoo_bfef5dcc-9bb1-4748-f356-c59d8692000e.pak","nexusFileId":123231,"metaUuid":null},
+{"nexusFileName":"Minsctheeggman","nexusFileVersion":"1.0.0.1","pakFileName":"MinscTheEggMan_c8c59207-f1f5-ac2a-84e4-170d38febc6c.pak","nexusFileId":123232,"metaUuid":null}
 ]}}
