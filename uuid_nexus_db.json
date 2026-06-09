@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-06-08T23:52:00.362860+00:00","total_mods":16522},
+{"_meta":{"last_run":"2026-06-09T00:52:01.216346+00:00","total_mods":16524},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -64632,8 +64632,8 @@
 "23011":{"nexusModName":"Armor of Uninhibited Radiance","nexusUploadedBy":"DorianNotGrey","nexusModId":23011,"paks":[
 {"nexusFileName":"Armor Of Unihibited Radiance","nexusFileVersion":"1","pakFileName":"Armor_of_Unihibited_Radiance.pak","nexusFileId":121948,"metaUuid":null}
 ]},
-"23012":{"nexusModName":"Expansion Level 13-20 (PT-BR - 1.7.3.4)","nexusUploadedBy":"Firetoga","nexusModId":23012,"paks":[
-{"nexusFileName":"Expansion (PT-BR)","nexusFileVersion":"1.7.3.4","pakFileName":"Expansion (Tradução PT-BR - 1.7.3.4).pak","nexusFileId":122606,"metaUuid":null}
+"23012":{"nexusModName":"Expansion Level 13-20 (PT-BR - 1.7.3.6)","nexusUploadedBy":"Firetoga","nexusModId":23012,"paks":[
+{"nexusFileName":"Expansion (PT-BR)","nexusFileVersion":"1.7.3.6","pakFileName":"Expansion (Tradução PT-BR - 1.7.3.6).pak","nexusFileId":123208,"metaUuid":null}
 ]},
 "23013":{"nexusModName":"Dynamic Difficulty Scaling","nexusUploadedBy":"GraphicFade","nexusModId":23013,"paks":[
 {"nexusFileName":"Dynamic Difficulty Scaling","nexusFileVersion":"1.0.0.6","pakFileName":"DynamicDifficultyScaling_51c67d03-954d-67d8-d5ea-c3f04d7be8bb.pak","nexusFileId":122576,"metaUuid":"51c67d03-954d-67d8-d5ea-c3f04d7be8bb"}
@@ -65278,7 +65278,7 @@
 {"nexusFileName":"Awakened Morninglord's Morningstar","nexusFileVersion":"1.0.1","pakFileName":"Awakened Morninglord's Morningstar Compatibility Patch.pak","nexusFileId":123106,"metaUuid":null}
 ]},
 "23247":{"nexusModName":"Advanced Enemy Randomizer","nexusUploadedBy":"celerev","nexusModId":23247,"paks":[
-{"nexusFileName":"AERando.zip","nexusFileVersion":"0.9.4.2","pakFileName":"AERando.pak","nexusFileId":123200,"metaUuid":null}
+{"nexusFileName":"AERando.zip","nexusFileVersion":"0.9.4.3","pakFileName":"AERando.pak","nexusFileId":123209,"metaUuid":null}
 ]},
 "23248":{"nexusModName":"Sharran Weaponry by AzazeL (WIP)_JP","nexusUploadedBy":"Akazonae36","nexusModId":23248,"paks":[
 {"nexusFileName":"Aza Sharran Weaponry WIP JP","nexusFileVersion":"1","pakFileName":"Aza_Sharran_Weaponry_WIP_JP.pak","nexusFileId":123036,"metaUuid":null}
@@ -65401,4 +65401,10 @@
 ]},
 "23291":{"nexusModName":"Randomized Disguise Self","nexusUploadedBy":"djgLXXII","nexusModId":23291,"paks":[
 {"nexusFileName":"RandomizedDisguiseSelf","nexusFileVersion":"1","pakFileName":"RandomizedDisguiseSelf.pak","nexusFileId":123199,"metaUuid":null}
+]},
+"23293":{"nexusModName":"Ice Cold Murder Dagger","nexusUploadedBy":"PookieKunz","nexusModId":23293,"paks":[
+{"nexusFileName":"Ice Cold Murder Dagger","nexusFileVersion":"1","pakFileName":"IceColdMurderDagger_4a7c03b6-1f13-4c9c-a913-08536c84e3ec.pak","nexusFileId":123206,"metaUuid":null}
+]},
+"23296":{"nexusModName":"Zenin Path (PT-BR)","nexusUploadedBy":"Firetoga","nexusModId":23296,"paks":[
+{"nexusFileName":"ZeninPath (PT-BR)","nexusFileVersion":"1.0.0.3","pakFileName":"ZeninPath_BR.pak","nexusFileId":123207,"metaUuid":null}
 ]}}
