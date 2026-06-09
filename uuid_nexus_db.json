@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-06-09T20:51:52.736167+00:00","total_mods":16530},
+{"_meta":{"last_run":"2026-06-09T22:51:53.902710+00:00","total_mods":16530},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -56852,7 +56852,7 @@
 {"nexusFileName":"Qudenos' New Look","nexusFileVersion":"1.0","pakFileName":"Qudenos_New_Look_6747d008-3d28-d5c9-ddcb-d83f6ed12366.pak","nexusFileId":109845,"metaUuid":"6747d008-3d28-d5c9-ddcb-d83f6ed12366"}
 ]},
 "20193":{"nexusModName":"Progression Preview - Full Class Progressions Shown Ingame","nexusUploadedBy":"wtfbengt","nexusModId":20193,"paks":[
-{"nexusFileName":"ProgressionPreview","nexusFileVersion":"1.2.0.3","pakFileName":"ProgressionPreview.pak","nexusFileId":121546,"metaUuid":"26e7658b-ae40-46f2-b032-405e2fb09719"}
+{"nexusFileName":"ProgressionPreview","nexusFileVersion":"1.3.0.1","pakFileName":"ProgressionPreview.pak","nexusFileId":123257,"metaUuid":"26e7658b-ae40-46f2-b032-405e2fb09719"}
 ]},
 "20194":{"nexusModName":"Pyxel_'s Rings of Faerun for Korean","nexusUploadedBy":"Eolaloe","nexusModId":20194,"paks":[
 {"nexusFileName":"Rings of Faerun for Korean","nexusFileVersion":"1.3.0.0","pakFileName":"RingsOfFaerun_kr.pak","nexusFileId":112076,"metaUuid":"ec94c320-eb54-4d56-9bf9-45b8e7ddd069"}
@@ -62713,7 +62713,7 @@
 {"nexusFileName":"Scratch and Shovel (PT-BR)","nexusFileVersion":"1.3.6.6","pakFileName":"Scratch_And_Shovel_PTBR.pak","nexusFileId":117840,"metaUuid":null}
 ]},
 "22227":{"nexusModName":"Spirit Beast Tamer Class (Creature Collector)","nexusUploadedBy":"Scoopapa","nexusModId":22227,"paks":[
-{"nexusFileName":"Spirit Beast Tamer Mod","nexusFileVersion":"23","pakFileName":"SpiritBeastTamer_dd062c2c-19dd-6e66-b0bb-b68794efad63.pak","nexusFileId":122647,"metaUuid":"dd062c2c-19dd-6e66-b0bb-b68794efad63"}
+{"nexusFileName":"Spirit Beast Tamer Mod","nexusFileVersion":"24","pakFileName":"spiritbeasttamer_dd062c2c-19dd-5gw9.pak","nexusFileId":123256,"metaUuid":null}
 ]},
 "22228":{"nexusModName":"Bigachungus Bodysuit and Artefact Ball Replacer","nexusUploadedBy":"Lyniara","nexusModId":22228,"paks":[
 {"nexusFileName":"Mysterious Artefact Ball","nexusFileVersion":"1","pakFileName":"LYN_Mysterious_Artefact_Ball.pak","nexusFileId":117851,"metaUuid":null},
@@ -64854,6 +64854,7 @@
 {"nexusFileName":"B-04. Ward Of Zeal - TL - BA - LR","nexusFileVersion":"1.0.0-B-04","pakFileName":"Ward of Zeal - Solar Shield of Faith - B-04.pak","nexusFileId":122936,"metaUuid":null},
 {"nexusFileName":"B-05. Ward Of Zeal - TL - BA - Permanent","nexusFileVersion":"1.0.0-B-05","pakFileName":"Ward of Zeal - Solar Shield of Faith - B-05.pak","nexusFileId":122937,"metaUuid":null},
 {"nexusFileName":"C-01. Ward Of Zeal - AC - A - 100 T - C","nexusFileVersion":"1.0.0-C-01","pakFileName":"Ward of Zeal - Solar Shield of Faith - C-01.pak","nexusFileId":122938,"metaUuid":null},
+{"nexusFileName":"C-02. Ward Of Zeal - AC - A - LR - C","nexusFileVersion":"1.0.0-C-02","pakFileName":"Ward of Zeal - Solar Shield of Faith - C-02.pak","nexusFileId":122939,"metaUuid":null},
 {"nexusFileName":"C-03. Ward Of Zeal - AC - A - 100 Turns","nexusFileVersion":"1.0.0-C-03","pakFileName":"Ward of Zeal - Solar Shield of Faith - C-03.pak","nexusFileId":122940,"metaUuid":null},
 {"nexusFileName":"C-04. Ward Of Zeal - AC - A - LR","nexusFileVersion":"1.0.0-C-04","pakFileName":"Ward of Zeal - Solar Shield of Faith - C-04.pak","nexusFileId":122941,"metaUuid":null},
 {"nexusFileName":"C-05. Ward Of Zeal - AC - A - Permanent","nexusFileVersion":"1.0.0-C-05","pakFileName":"Ward of Zeal - Solar Shield of Faith - C-05.pak","nexusFileId":122942,"metaUuid":null},
@@ -64932,7 +64933,9 @@
 {"nexusFileName":"E-02. Purifier's Mantle - RO - A - LR - C","nexusFileVersion":"1.0.0-E-02","pakFileName":"Purifiers Mantle - Solar Crusaders Mantle - E-02.pak","nexusFileId":123016,"metaUuid":null},
 {"nexusFileName":"E-03. Purifier's Mantle - RO - A - 10 Turns","nexusFileVersion":"1.0.0-E-03","pakFileName":"Purifiers Mantle - Solar Crusaders Mantle - E-03.pak","nexusFileId":123017,"metaUuid":null},
 {"nexusFileName":"E-04. Purifier's Mantle - RO - A - LR","nexusFileVersion":"1.0.0-E-04","pakFileName":"Purifiers Mantle - Solar Crusaders Mantle - E-04.pak","nexusFileId":123018,"metaUuid":null},
+{"nexusFileName":"E-05. Purifier's Mantle - RO - A - Permanent","nexusFileVersion":"1.0.0-E-05","pakFileName":"Purifiers Mantle - Solar Crusaders Mantle - E-05.pak","nexusFileId":123019,"metaUuid":null},
 {"nexusFileName":"F-01. Purifier's Mantle - RO - BA - 10 Turns - C","nexusFileVersion":"1.0.0-F-01","pakFileName":"Purifiers Mantle - Solar Crusaders Mantle - F-01.pak","nexusFileId":123020,"metaUuid":null},
+{"nexusFileName":"F-02. Purifier's Mantle - RO - BA - LR - C","nexusFileVersion":"1.0.0-F-02","pakFileName":"Purifiers Mantle - Solar Crusaders Mantle - F-02.pak","nexusFileId":123021,"metaUuid":null},
 {"nexusFileName":"F-03. Purifier's Mantle - RO - BA - 10 Turns","nexusFileVersion":"1.0.0-F-03","pakFileName":"Purifiers Mantle - Solar Crusaders Mantle - F-03.pak","nexusFileId":123022,"metaUuid":null},
 {"nexusFileName":"F-04. Purifier's Mantle - RO - BA - LR","nexusFileVersion":"1.0.0-F-04","pakFileName":"Purifiers Mantle - Solar Crusaders Mantle - F-04.pak","nexusFileId":123023,"metaUuid":null},
 {"nexusFileName":"F-05. Purifier's Mantle - RO - BA - Permanent","nexusFileVersion":"1.0.0-F-05","pakFileName":"Purifiers Mantle - Solar Crusaders Mantle - F-05.pak","nexusFileId":123025,"metaUuid":null}
@@ -65326,6 +65329,7 @@
 "23265":{"nexusModName":"Hide Passive Dice Rolls (Patch 8)","nexusUploadedBy":"DeKRuS","nexusModId":23265,"paks":[
 {"nexusFileName":"HPDR - All Ability Checks and Save Throws.zip","nexusFileVersion":"1","pakFileName":"Hide Passive Dice Rolls - All Ability Checks and Save Throws.pak","nexusFileId":123155,"metaUuid":null},
 {"nexusFileName":"HPDR - All OFF","nexusFileVersion":"1","pakFileName":"Hide Passive Dice Rolls - All OFF.pak","nexusFileId":123156,"metaUuid":null},
+{"nexusFileName":"HPDR - All In Dialogues","nexusFileVersion":"1","pakFileName":"Hide Passive Dice Rolls - All in Dialogues.pak","nexusFileId":123157,"metaUuid":null},
 {"nexusFileName":"HPDR - All Out Of Combat","nexusFileVersion":"1","pakFileName":"Hide Passive Dice Rolls - All out of combat.pak","nexusFileId":123158,"metaUuid":null},
 {"nexusFileName":"HPDR - All But Death Save Throws","nexusFileVersion":"1","pakFileName":"Hide Passive Dice Rolls - All but Death Save Throws.pak","nexusFileId":123159,"metaUuid":null}
 ]},
@@ -65421,5 +65425,5 @@
 {"nexusFileName":"Minsctheeggman","nexusFileVersion":"1.0.0.1","pakFileName":"MinscTheEggMan_c8c59207-f1f5-ac2a-84e4-170d38febc6c.pak","nexusFileId":123232,"metaUuid":null}
 ]},
 "23305":{"nexusModName":"Enraging Heart Garb Fix","nexusUploadedBy":"Adrix973","nexusModId":23305,"paks":[
-{"nexusFileName":"Barb Rage Garb Fix","nexusFileVersion":"1","pakFileName":"barb_rage_garb_fix.pak","nexusFileId":123254,"metaUuid":null}
+{"nexusFileName":"Barb Rage Garb Fix","nexusFileVersion":"2","pakFileName":"barb_rage_garb_fix.pak","nexusFileId":123258,"metaUuid":null}
 ]}}
