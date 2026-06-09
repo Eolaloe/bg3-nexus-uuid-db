@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-06-09T19:52:06.299144+00:00","total_mods":16529},
+{"_meta":{"last_run":"2026-06-09T20:51:52.736167+00:00","total_mods":16530},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -46933,7 +46933,7 @@
 {"nexusFileName":"Common Actions Consolidated - Get Ready Patch","nexusFileVersion":"1.0.0","pakFileName":"Common Actions_consolidated - Get Ready Patch.pak","nexusFileId":122532,"metaUuid":null},
 {"nexusFileName":"Common Actions Consolidated - Hurry Up Patch","nexusFileVersion":"1.0.0","pakFileName":"Common Actions_consolidated - Hurry Up Patch.pak","nexusFileId":122533,"metaUuid":null},
 {"nexusFileName":"Common Actions Consolidated - Swap Places Patch","nexusFileVersion":"1.0.0","pakFileName":"Common Actions_consolidated - Swap Places Patch.pak","nexusFileId":122534,"metaUuid":null},
-{"nexusFileName":"Common Actions Consolidated","nexusFileVersion":"1.0.5","pakFileName":"Common Actions_consolidated.pak","nexusFileId":123069,"metaUuid":"6269aa39-f171-47c0-9e6b-b4ad63e08c61"}
+{"nexusFileName":"Common Actions Consolidated","nexusFileVersion":"1.0.6","pakFileName":"Common Actions_consolidated.pak","nexusFileId":123252,"metaUuid":"6269aa39-f171-47c0-9e6b-b4ad63e08c61"}
 ]},
 "16909":{"nexusModName":"Cazador Drops His Outfit","nexusUploadedBy":"xJustAdam","nexusModId":16909,"paks":[
 {"nexusFileName":"Cazador Drops His Outfit","nexusFileVersion":"1.0","pakFileName":"Cazador Drops His Outfit.pak","nexusFileId":94477,"metaUuid":null},
@@ -62230,7 +62230,7 @@
 {"nexusFileName":"Kawaii Babydoll - SBBF","nexusFileVersion":"1.0.0","pakFileName":"kawaiiBabydoll.pak","nexusFileId":117226,"metaUuid":null}
 ]},
 "22056":{"nexusModName":"Fragmented Past - Official Registry","nexusUploadedBy":"RoseArete","nexusModId":22056,"paks":[
-{"nexusFileName":"Fragmented Past - Official Registry","nexusFileVersion":"1.5.2","pakFileName":"Registry_f41b5f7b-949c-0124-5c4c-5dddd2328397.pak","nexusFileId":123240,"metaUuid":null}
+{"nexusFileName":"Fragmented Past - Official Registry","nexusFileVersion":"1.5.2.2","pakFileName":"Registry_f41b5f7b-949c-0124-5c4c-5dddd2328397.pak","nexusFileId":123253,"metaUuid":null}
 ]},
 "22057":{"nexusModName":"The Last Two People On Earth Pose Pack","nexusUploadedBy":"Deckard82","nexusModId":22057,"paks":[
 {"nexusFileName":"The Last Two People On Earth Pose Pack","nexusFileVersion":"1.0.0.10","pakFileName":"TheLastTwoPeopleOnEarth_22efb7d3-c8cb-7309-fb16-f1bca51a1996.pak","nexusFileId":117230,"metaUuid":null}
@@ -64854,7 +64854,6 @@
 {"nexusFileName":"B-04. Ward Of Zeal - TL - BA - LR","nexusFileVersion":"1.0.0-B-04","pakFileName":"Ward of Zeal - Solar Shield of Faith - B-04.pak","nexusFileId":122936,"metaUuid":null},
 {"nexusFileName":"B-05. Ward Of Zeal - TL - BA - Permanent","nexusFileVersion":"1.0.0-B-05","pakFileName":"Ward of Zeal - Solar Shield of Faith - B-05.pak","nexusFileId":122937,"metaUuid":null},
 {"nexusFileName":"C-01. Ward Of Zeal - AC - A - 100 T - C","nexusFileVersion":"1.0.0-C-01","pakFileName":"Ward of Zeal - Solar Shield of Faith - C-01.pak","nexusFileId":122938,"metaUuid":null},
-{"nexusFileName":"C-02. Ward Of Zeal - AC - A - LR - C","nexusFileVersion":"1.0.0-C-02","pakFileName":"Ward of Zeal - Solar Shield of Faith - C-02.pak","nexusFileId":122939,"metaUuid":null},
 {"nexusFileName":"C-03. Ward Of Zeal - AC - A - 100 Turns","nexusFileVersion":"1.0.0-C-03","pakFileName":"Ward of Zeal - Solar Shield of Faith - C-03.pak","nexusFileId":122940,"metaUuid":null},
 {"nexusFileName":"C-04. Ward Of Zeal - AC - A - LR","nexusFileVersion":"1.0.0-C-04","pakFileName":"Ward of Zeal - Solar Shield of Faith - C-04.pak","nexusFileId":122941,"metaUuid":null},
 {"nexusFileName":"C-05. Ward Of Zeal - AC - A - Permanent","nexusFileVersion":"1.0.0-C-05","pakFileName":"Ward of Zeal - Solar Shield of Faith - C-05.pak","nexusFileId":122942,"metaUuid":null},
@@ -64933,9 +64932,7 @@
 {"nexusFileName":"E-02. Purifier's Mantle - RO - A - LR - C","nexusFileVersion":"1.0.0-E-02","pakFileName":"Purifiers Mantle - Solar Crusaders Mantle - E-02.pak","nexusFileId":123016,"metaUuid":null},
 {"nexusFileName":"E-03. Purifier's Mantle - RO - A - 10 Turns","nexusFileVersion":"1.0.0-E-03","pakFileName":"Purifiers Mantle - Solar Crusaders Mantle - E-03.pak","nexusFileId":123017,"metaUuid":null},
 {"nexusFileName":"E-04. Purifier's Mantle - RO - A - LR","nexusFileVersion":"1.0.0-E-04","pakFileName":"Purifiers Mantle - Solar Crusaders Mantle - E-04.pak","nexusFileId":123018,"metaUuid":null},
-{"nexusFileName":"E-05. Purifier's Mantle - RO - A - Permanent","nexusFileVersion":"1.0.0-E-05","pakFileName":"Purifiers Mantle - Solar Crusaders Mantle - E-05.pak","nexusFileId":123019,"metaUuid":null},
 {"nexusFileName":"F-01. Purifier's Mantle - RO - BA - 10 Turns - C","nexusFileVersion":"1.0.0-F-01","pakFileName":"Purifiers Mantle - Solar Crusaders Mantle - F-01.pak","nexusFileId":123020,"metaUuid":null},
-{"nexusFileName":"F-02. Purifier's Mantle - RO - BA - LR - C","nexusFileVersion":"1.0.0-F-02","pakFileName":"Purifiers Mantle - Solar Crusaders Mantle - F-02.pak","nexusFileId":123021,"metaUuid":null},
 {"nexusFileName":"F-03. Purifier's Mantle - RO - BA - 10 Turns","nexusFileVersion":"1.0.0-F-03","pakFileName":"Purifiers Mantle - Solar Crusaders Mantle - F-03.pak","nexusFileId":123022,"metaUuid":null},
 {"nexusFileName":"F-04. Purifier's Mantle - RO - BA - LR","nexusFileVersion":"1.0.0-F-04","pakFileName":"Purifiers Mantle - Solar Crusaders Mantle - F-04.pak","nexusFileId":123023,"metaUuid":null},
 {"nexusFileName":"F-05. Purifier's Mantle - RO - BA - Permanent","nexusFileVersion":"1.0.0-F-05","pakFileName":"Purifiers Mantle - Solar Crusaders Mantle - F-05.pak","nexusFileId":123025,"metaUuid":null}
@@ -65329,7 +65326,6 @@
 "23265":{"nexusModName":"Hide Passive Dice Rolls (Patch 8)","nexusUploadedBy":"DeKRuS","nexusModId":23265,"paks":[
 {"nexusFileName":"HPDR - All Ability Checks and Save Throws.zip","nexusFileVersion":"1","pakFileName":"Hide Passive Dice Rolls - All Ability Checks and Save Throws.pak","nexusFileId":123155,"metaUuid":null},
 {"nexusFileName":"HPDR - All OFF","nexusFileVersion":"1","pakFileName":"Hide Passive Dice Rolls - All OFF.pak","nexusFileId":123156,"metaUuid":null},
-{"nexusFileName":"HPDR - All In Dialogues","nexusFileVersion":"1","pakFileName":"Hide Passive Dice Rolls - All in Dialogues.pak","nexusFileId":123157,"metaUuid":null},
 {"nexusFileName":"HPDR - All Out Of Combat","nexusFileVersion":"1","pakFileName":"Hide Passive Dice Rolls - All out of combat.pak","nexusFileId":123158,"metaUuid":null},
 {"nexusFileName":"HPDR - All But Death Save Throws","nexusFileVersion":"1","pakFileName":"Hide Passive Dice Rolls - All but Death Save Throws.pak","nexusFileId":123159,"metaUuid":null}
 ]},
@@ -65423,4 +65419,7 @@
 "23303":{"nexusModName":"Body Tattoo For Minsc","nexusUploadedBy":"benben1205","nexusModId":23303,"paks":[
 {"nexusFileName":"Minscsbodytattoo","nexusFileVersion":"1.0.0.1","pakFileName":"MinscsBodyTattoo_bfef5dcc-9bb1-4748-f356-c59d8692000e.pak","nexusFileId":123231,"metaUuid":null},
 {"nexusFileName":"Minsctheeggman","nexusFileVersion":"1.0.0.1","pakFileName":"MinscTheEggMan_c8c59207-f1f5-ac2a-84e4-170d38febc6c.pak","nexusFileId":123232,"metaUuid":null}
+]},
+"23305":{"nexusModName":"Enraging Heart Garb Fix","nexusUploadedBy":"Adrix973","nexusModId":23305,"paks":[
+{"nexusFileName":"Barb Rage Garb Fix","nexusFileVersion":"1","pakFileName":"barb_rage_garb_fix.pak","nexusFileId":123254,"metaUuid":null}
 ]}}
