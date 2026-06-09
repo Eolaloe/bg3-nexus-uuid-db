@@ -1887,7 +1887,7 @@
 {"nexusFileName":"Jhaerik's Disable Reactions Mod","pakFileName":"DisableReactionsAll.pak","nexusFileId":6670,"metaUuid":null}
 ]},
 "816":{"nexusModName":"Better Hints and New Loading Screens","nexusUploadedBy":"Caites","nexusModId":816,"paks":[
-{"nexusFileName":"Better Hints (Lore Tidbits)","nexusFileVersion":"1.5.2","pakFileName":"BetterHints.pak","nexusFileId":68770,"metaUuid":null},
+{"nexusFileName":"Better Hints (Lore Tidbits)","nexusFileVersion":"1.5.2","pakFileName":"BetterHints.pak","nexusFileId":68770,"metaUuid":"faec902c-8519-72f7-0a7e-7f6185eb5015"},
 {"nexusFileName":"Artbook Loading Screens","nexusFileVersion":"1.5.7","pakFileName":"NewLoadingScreens.pak","nexusFileId":73373,"metaUuid":"ebf9214b-475d-a11b-ab7f-11c76b080123"}
 ]},
 "817":{"nexusModName":"Quickened Spell Cost Rebalance","nexusUploadedBy":"leron9999","nexusModId":817,"paks":[
@@ -5862,7 +5862,7 @@
 ]},
 "1680":{"nexusModName":"Dummy Levels for multiclassing","nexusUploadedBy":"Proxa","nexusModId":1680,"paks":[
 {"nexusFileName":"Max Level Dummies - Level 13","nexusFileVersion":"1.5","pakFileName":"MLD - 13.pak","nexusFileId":35721,"metaUuid":null},
-{"nexusFileName":"Max Level Dummies - Level 21","nexusFileVersion":"1.5","pakFileName":"MLD - 21.pak","nexusFileId":35722,"metaUuid":null},
+{"nexusFileName":"Max Level Dummies - Level 21","nexusFileVersion":"1.5","pakFileName":"MLD - 21.pak","nexusFileId":35722,"metaUuid":"30c91838-e543-4357-ad19-d80ec19bfd9e"},
 {"nexusFileName":"Max Level Dummies - Level 13 - Ambusher","nexusFileVersion":"1.5","pakFileName":"MLD - Ambusher 13.pak","nexusFileId":35723,"metaUuid":null},
 {"nexusFileName":"Max Level Dummies - Level 21 - Arcanist","nexusFileVersion":"1.5","pakFileName":"MLD - Arcanist 21.pak","nexusFileId":35724,"metaUuid":null},
 {"nexusFileName":"Max Level Dummies - Level 21 - Artificer","nexusFileVersion":"1.5","pakFileName":"MLD - Artificer 21.pak","nexusFileId":35725,"metaUuid":null},
@@ -20729,7 +20729,7 @@
 {"nexusFileName":"Crossbow of Arcane Force Enhanced 1.1.0","nexusFileVersion":"1.1.0","pakFileName":"Crossbow of Arcane Force Enhanced.pak","nexusFileId":107490,"metaUuid":null}
 ]},
 "6703":{"nexusModName":"Better Hints and New Loading Screens (RUS)","nexusUploadedBy":"defakof","nexusModId":6703,"paks":[
-{"nexusFileName":"Better Hints (Lore Tidbits)","nexusFileVersion":"1","pakFileName":"BetterHints.pak","nexusFileId":44332,"metaUuid":null}
+{"nexusFileName":"Better Hints (Lore Tidbits)","nexusFileVersion":"1","pakFileName":"BetterHints.pak","nexusFileId":44332,"metaUuid":"faec902c-8519-72f7-0a7e-7f6185eb5015"}
 ]},
 "6704":{"nexusModName":"Elminster","nexusUploadedBy":"Elmvick","nexusModId":6704,"paks":[
 {"nexusFileName":"Elminster","nexusFileVersion":"1.0","pakFileName":"Elminster.pak","nexusFileId":44338,"metaUuid":null},
@@ -21091,9 +21091,9 @@
 {"nexusFileName":"Secret Scrolls for 5e Spells - Spanish","nexusFileVersion":"2.0.0.10","pakFileName":"SecretScrolls5eSpellsES.pak","nexusFileId":61278,"metaUuid":null}
 ]},
 "6877":{"nexusModName":"No Shar Symbol Shadowheart Tent","nexusUploadedBy":"commanderstrawberry","nexusModId":6877,"paks":[
-{"nexusFileName":"Gold Flowers Tent","nexusFileVersion":"1.1","pakFileName":"ShadowHeartFlowerTent.pak","nexusFileId":45182,"metaUuid":null},
-{"nexusFileName":"Boring Tent","nexusFileVersion":"2","pakFileName":"ShadowHeartFlowerTent.pak","nexusFileId":45545,"metaUuid":null},
-{"nexusFileName":"Selune Logo Tent","nexusFileVersion":"2","pakFileName":"ShadowHeartFlowerTent.pak","nexusFileId":45548,"metaUuid":null}
+{"nexusFileName":"Gold Flowers Tent","nexusFileVersion":"1.1","pakFileName":"ShadowHeartFlowerTent.pak","nexusFileId":45182,"metaUuid":"0ae5324f-a097-4ec4-886f-43e58eed5a64"},
+{"nexusFileName":"Boring Tent","nexusFileVersion":"2","pakFileName":"ShadowHeartFlowerTent.pak","nexusFileId":45545,"metaUuid":"0ae5324f-a097-4ec4-886f-43e58eed5a64"},
+{"nexusFileName":"Selune Logo Tent","nexusFileVersion":"2","pakFileName":"ShadowHeartFlowerTent.pak","nexusFileId":45548,"metaUuid":"0ae5324f-a097-4ec4-886f-43e58eed5a64"}
 ]},
 "6878":{"nexusModName":"Immersive Dice Roll","nexusUploadedBy":"lexo1000","nexusModId":6878,"paks":[
 {"nexusFileName":"Immersive Dice Roll - Revamped window only","nexusFileVersion":"2.0","pakFileName":"Immersive Dice Roll - Window only.pak","nexusFileId":49529,"metaUuid":"684e0f2d-a29d-4a88-adea-88e61c70dbf5"},
@@ -26272,8 +26272,8 @@
 {"nexusFileName":"be cool","nexusFileVersion":"1","pakFileName":"Cooool Divine Smite.pak","nexusFileId":54667,"metaUuid":null}
 ]},
 "8956":{"nexusModName":"Witcher Outfits - Dettlaff","nexusUploadedBy":"Cerberry","nexusModId":8956,"paks":[
-{"nexusFileName":"Witcher Outfits - Dettlaff","nexusFileVersion":"2.0","pakFileName":"CBR_Witcher.pak","nexusFileId":109494,"metaUuid":null},
-{"nexusFileName":"Witcher Outfits - Dettlaff - No Vendors","nexusFileVersion":"2.0","pakFileName":"CBR_Witcher.pak","nexusFileId":109499,"metaUuid":null}
+{"nexusFileName":"Witcher Outfits - Dettlaff","nexusFileVersion":"2.0","pakFileName":"CBR_Witcher.pak","nexusFileId":109494,"metaUuid":"d3368a64-312e-494d-95f0-f2c53abfe1af"},
+{"nexusFileName":"Witcher Outfits - Dettlaff - No Vendors","nexusFileVersion":"2.0","pakFileName":"CBR_Witcher.pak","nexusFileId":109499,"metaUuid":"d3368a64-312e-494d-95f0-f2c53abfe1af"}
 ]},
 "8957":{"nexusModName":"Elemental Spells - Chromatic Spells - Version FR","nexusUploadedBy":"Thraximundar2772","nexusModId":8957,"paks":[
 {"nexusFileName":"Elemental Spells - Chromatic Spells - FR","nexusFileVersion":"1.0.0.0","pakFileName":"Elemental_Spells_SHVFR.pak","nexusFileId":54681,"metaUuid":null}
@@ -32330,8 +32330,8 @@
 {"nexusFileName":"Sun princess outfit PTBR","nexusFileVersion":"1.0","pakFileName":"SunPrincessPTBR.pak","nexusFileId":65612,"metaUuid":null}
 ]},
 "11301":{"nexusModName":"Witcher Outfits - Wolven Gear","nexusUploadedBy":"Cerberry","nexusModId":11301,"paks":[
-{"nexusFileName":"Witcher Outfits -  Wolven Gear","nexusFileVersion":"2.0","pakFileName":"CBR_Witcher_Wolven.pak","nexusFileId":105987,"metaUuid":null},
-{"nexusFileName":"Witcher Outfits -  Wolven Gear (Immersive)","nexusFileVersion":"2.0","pakFileName":"CBR_Witcher_Wolven.pak","nexusFileId":105988,"metaUuid":null}
+{"nexusFileName":"Witcher Outfits -  Wolven Gear","nexusFileVersion":"2.0","pakFileName":"CBR_Witcher_Wolven.pak","nexusFileId":105987,"metaUuid":"bec8e147-7ffb-4e3c-8b3d-0dee0b8c7b37"},
+{"nexusFileName":"Witcher Outfits -  Wolven Gear (Immersive)","nexusFileVersion":"2.0","pakFileName":"CBR_Witcher_Wolven.pak","nexusFileId":105988,"metaUuid":"bec8e147-7ffb-4e3c-8b3d-0dee0b8c7b37"}
 ]},
 "11302":{"nexusModName":"Poppers","nexusUploadedBy":"SydMeier","nexusModId":11302,"paks":[
 {"nexusFileName":"Poppers Black Bottle","nexusFileVersion":"1.0","pakFileName":"BlackPoppers.pak","nexusFileId":65691,"metaUuid":null},
@@ -37677,8 +37677,8 @@
 ]},
 "13401":{"nexusModName":"New dialogues notifications (topical greetings)","nexusUploadedBy":"fleanesko","nexusModId":13401,"paks":[
 {"nexusFileName":"New dialogues notifications (light)","nexusFileVersion":"1.1.0.0","pakFileName":"TopicalGreetings2_006b23fb-c817-88bc-b90f-5cc1c318230d.pak","nexusFileId":76865,"metaUuid":null},
-{"nexusFileName":"New dialogues notifications (Camp Events)","nexusFileVersion":"1.2.1.0","pakFileName":"TopicalGreetings3_2dd3eb9b-4c6d-1497-922d-215b5a374977.pak","nexusFileId":76926,"metaUuid":null},
-{"nexusFileName":"New dialogues notifications (all marks at once)","nexusFileVersion":"2.2.1.0","pakFileName":"TopicalGreetings3_2dd3eb9b-4c6d-1497-922d-215b5a374977.pak","nexusFileId":107023,"metaUuid":null}
+{"nexusFileName":"New dialogues notifications (Camp Events)","nexusFileVersion":"1.2.1.0","pakFileName":"TopicalGreetings3_2dd3eb9b-4c6d-1497-922d-215b5a374977.pak","nexusFileId":76926,"metaUuid":"2dd3eb9b-4c6d-1497-922d-215b5a374977"},
+{"nexusFileName":"New dialogues notifications (all marks at once)","nexusFileVersion":"2.2.1.0","pakFileName":"TopicalGreetings3_2dd3eb9b-4c6d-1497-922d-215b5a374977.pak","nexusFileId":107023,"metaUuid":"2dd3eb9b-4c6d-1497-922d-215b5a374977"}
 ]},
 "13402":{"nexusModName":"Arcane Jinx Hairstyle","nexusUploadedBy":"Lokplart","nexusModId":13402,"paks":[
 {"nexusFileName":"ArcaneJinxHairstyle","nexusFileVersion":"1.0.0.2","pakFileName":"Arcane Jinx's Hairstyle_.pak","nexusFileId":88007,"metaUuid":"43158d88-467c-4eb4-b444-4d59d07ed13b"},
@@ -41552,7 +41552,7 @@
 {"nexusFileName":"Daija Head Mod - Unique Tav","nexusFileVersion":"1.0","pakFileName":"Daija Head Mod - UT.pak","nexusFileId":86224,"metaUuid":"9c2d3b79-0811-479a-96ae-78154af49c1d"}
 ]},
 "14812":{"nexusModName":"Shadowheart's Twilight Dice","nexusUploadedBy":"JenevelleHallowleaf","nexusModId":14812,"paks":[
-{"nexusFileName":"Shadowheart's Twilight Dice","nexusFileVersion":"1.0","pakFileName":"ShadowheartTwilightDice.pak","nexusFileId":84880,"metaUuid":null}
+{"nexusFileName":"Shadowheart's Twilight Dice","nexusFileVersion":"1.0","pakFileName":"ShadowheartTwilightDice.pak","nexusFileId":84880,"metaUuid":"bc444d2e-16c1-4206-8a93-eb783064b067"}
 ]},
 "14814":{"nexusModName":"Shadow Blades Shar Throw Dagger","nexusUploadedBy":"Mikiish77","nexusModId":14814,"paks":[
 {"nexusFileName":"SB_Shar_ThrowDagger","nexusFileVersion":"1.0.0.10","pakFileName":"SB_Shar_ThrowDagger_9bc5fdb5-ac15-e1ba-4329-b416b82d1e91.pak","nexusFileId":85507,"metaUuid":null}
@@ -46528,7 +46528,7 @@
 {"nexusFileName":"Deepspace Piercings","nexusFileVersion":"1.0.0","pakFileName":"LaDSPiercings.pak","nexusFileId":93756,"metaUuid":"1c8f375d-fed0-4cf6-b349-b818b1e79797"}
 ]},
 "16761":{"nexusModName":"Adamantine Equipment Rework","nexusUploadedBy":"NatsumiRin","nexusModId":16761,"paks":[
-{"nexusFileName":"AdamantineRework","nexusFileVersion":"2","pakFileName":"AdamantineRework.pak","nexusFileId":101959,"metaUuid":null},
+{"nexusFileName":"AdamantineRework","nexusFileVersion":"2","pakFileName":"AdamantineRework.pak","nexusFileId":101959,"metaUuid":"7dbe0723-9f59-4713-80da-88efe67f436d"},
 {"nexusFileName":"BashReworkReeling","nexusFileVersion":"1","pakFileName":"BashReworkReeling.pak","nexusFileId":101961,"metaUuid":null}
 ]},
 "16762":{"nexusModName":"Warrior Class - WoW (World of Warcraft) CHS unofficial update","nexusUploadedBy":"LaundryDragonmaidOfficial","nexusModId":16762,"paks":[
@@ -49668,8 +49668,8 @@
 {"nexusFileName":"Camp Clothes - replacers","nexusFileVersion":"1.0.0","pakFileName":"jerinski_LLMG_refits-Camp.pak","nexusFileId":99541,"metaUuid":null}
 ]},
 "17853":{"nexusModName":"Withers Minds His Business","nexusUploadedBy":"kelocena","nexusModId":17853,"paks":[
-{"nexusFileName":"WithersMindsHisBusiness","nexusFileVersion":"1.0.0","pakFileName":"WithersMindsHisBusiness_49b4215c-1d5c-e386-4248-47a353c85527.pak","nexusFileId":99328,"metaUuid":null},
-{"nexusFileName":"WithersMindsHisBusiness","nexusFileVersion":"2.0.0","pakFileName":"WithersMindsHisBusiness_49b4215c-1d5c-e386-4248-47a353c85527.pak","nexusFileId":100619,"metaUuid":null}
+{"nexusFileName":"WithersMindsHisBusiness","nexusFileVersion":"1.0.0","pakFileName":"WithersMindsHisBusiness_49b4215c-1d5c-e386-4248-47a353c85527.pak","nexusFileId":99328,"metaUuid":"49b4215c-1d5c-e386-4248-47a353c85527"},
+{"nexusFileName":"WithersMindsHisBusiness","nexusFileVersion":"2.0.0","pakFileName":"WithersMindsHisBusiness_49b4215c-1d5c-e386-4248-47a353c85527.pak","nexusFileId":100619,"metaUuid":"49b4215c-1d5c-e386-4248-47a353c85527"}
 ]},
 "17854":{"nexusModName":"Koralina's Aesthetics - Hair Collection","nexusUploadedBy":"CoralineKoralina","nexusModId":17854,"paks":[
 {"nexusFileName":"Koralina's Aesthetics - Hair Collection","nexusFileVersion":"1.0.0","pakFileName":"CK_Hair_Collection.pak","nexusFileId":99792,"metaUuid":"b5c10147-9934-bcfc-4fe3-1aa806b77795"}
@@ -50098,7 +50098,7 @@
 {"nexusFileName":"Better Haflings","nexusFileVersion":"1.2","pakFileName":"BetterHalflings1.1.pak","nexusFileId":101271,"metaUuid":null}
 ]},
 "18003":{"nexusModName":"Ruojo Spell Adjustment","nexusUploadedBy":"Ruojo","nexusModId":18003,"paks":[
-{"nexusFileName":"RuojoSpellAdjustment_c7c87963-d945-3e98-f641-88860","nexusFileVersion":"1.0.1.0","pakFileName":"RuojoSpellAdjustment_c7c87963-d945-3e98-f641-88860a782dcd.pak","nexusFileId":122477,"metaUuid":null}
+{"nexusFileName":"RuojoSpellAdjustment_c7c87963-d945-3e98-f641-88860","nexusFileVersion":"1.0.1.0","pakFileName":"RuojoSpellAdjustment_c7c87963-d945-3e98-f641-88860a782dcd.pak","nexusFileId":122477,"metaUuid":"c7c87963-d945-3e98-f641-88860a782dcd"}
 ]},
 "18004":{"nexusModName":"FaerunColors - German Translation","nexusUploadedBy":"verdanndi","nexusModId":18004,"paks":[
 {"nexusFileName":"FaerunColors - German Translation","nexusFileVersion":"1.0.0.1","pakFileName":"Faerûn Colors German.pak","nexusFileId":107816,"metaUuid":null}
@@ -53669,8 +53669,8 @@
 {"nexusFileName":"Better Starting Equipment","nexusFileVersion":"1.1","pakFileName":"ChooseStartingEquipment_4b82dc6c-06af-32a7-275a-b58d8f801030.pak","nexusFileId":105583,"metaUuid":"4b82dc6c-06af-32a7-275a-b58d8f801030"}
 ]},
 "19304":{"nexusModName":"Frostmourne","nexusUploadedBy":"Trinketguy","nexusModId":19304,"paks":[
-{"nexusFileName":"Frostmourne sword Two-Handed","nexusFileVersion":"2.0","pakFileName":"Frostmourne_7a180e68-0939-061e-cd88-b4106cea16d0.pak","nexusFileId":111646,"metaUuid":null},
-{"nexusFileName":"Frostmourne sword One-Handed","nexusFileVersion":"2.0","pakFileName":"Frostmourne_7a180e68-0939-061e-cd88-b4106cea16d0.pak","nexusFileId":111647,"metaUuid":null}
+{"nexusFileName":"Frostmourne sword Two-Handed","nexusFileVersion":"2.0","pakFileName":"Frostmourne_7a180e68-0939-061e-cd88-b4106cea16d0.pak","nexusFileId":111646,"metaUuid":"7a180e68-0939-061e-cd88-b4106cea16d0"},
+{"nexusFileName":"Frostmourne sword One-Handed","nexusFileVersion":"2.0","pakFileName":"Frostmourne_7a180e68-0939-061e-cd88-b4106cea16d0.pak","nexusFileId":111647,"metaUuid":"7a180e68-0939-061e-cd88-b4106cea16d0"}
 ]},
 "19305":{"nexusModName":"Maelstrom Wardens - A Buffed Thunder and Lightning Spirit Guardians Alternative - PHB - Multiple Versions WIP - Russian translation","nexusUploadedBy":"FanLarin","nexusModId":19305,"paks":[
 {"nexusFileName":"Maelstrom Wardens - Thunder and Lightning SpiritRU","nexusFileVersion":"1.0.0","pakFileName":"Maelstrom Wardens - Thunder and Lightning Spirit Guardians_RU.pak","nexusFileId":105585,"metaUuid":null}
@@ -54240,7 +54240,7 @@
 {"nexusFileName":"Innate Sorcery","nexusFileVersion":"1.0.1.5","pakFileName":"BetterSorcerer_3fff8977-e8d3-5f3a-dee3-2df5c32abaf6.pak","nexusFileId":108558,"metaUuid":null}
 ]},
 "19499":{"nexusModName":"Elemental Scales - Dragon themed Dice","nexusUploadedBy":"Naerys","nexusModId":19499,"paks":[
-{"nexusFileName":"Fire","nexusFileVersion":"1.0","pakFileName":"FireDragonDice.pak","nexusFileId":106585,"metaUuid":null},
+{"nexusFileName":"Fire","nexusFileVersion":"1.0","pakFileName":"FireDragonDice.pak","nexusFileId":106585,"metaUuid":"c8f2ecf3-ce80-4303-9c90-db46e038843c"},
 {"nexusFileName":"Earth","nexusFileVersion":"1.0","pakFileName":"EarthDragonDice.pak","nexusFileId":106586,"metaUuid":null},
 {"nexusFileName":"Air","nexusFileVersion":"1.0","pakFileName":"AirDragonDice.pak","nexusFileId":106587,"metaUuid":null},
 {"nexusFileName":"Water","nexusFileVersion":"1.0","pakFileName":"WaterDragonDice.pak","nexusFileId":106588,"metaUuid":null}
