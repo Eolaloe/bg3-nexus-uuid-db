@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-06-09T15:51:59.948676+00:00","total_mods":16528},
+{"_meta":{"last_run":"2026-06-09T16:52:03.492184+00:00","total_mods":16529},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -60015,10 +60015,10 @@
 {"nexusFileName":"scionrogue","nexusFileVersion":"1.0.0.10","pakFileName":"ScionRogue_05326553-fc29-78d0-2e26-96d33b58ee5f.pak","nexusFileId":114159,"metaUuid":null}
 ]},
 "21308":{"nexusModName":"Goon's Companion Protection for Korean","nexusUploadedBy":"Eolaloe","nexusModId":21308,"paks":[
-{"nexusFileName":"Goon's Companion Protection for Korean","nexusFileVersion":"2.0.0.3","pakFileName":"Goons Companion Protection_kr.pak","nexusFileId":114166,"metaUuid":"2e4505a2-c2ab-427b-8cbc-4ceb01cd5720"}
+{"nexusFileName":"Goon's Companion Protection for Korean","nexusFileVersion":"2.1.0.0","pakFileName":"Goons Companion Protection_kr.pak","nexusFileId":123241,"metaUuid":"2e4505a2-c2ab-427b-8cbc-4ceb01cd5720"}
 ]},
 "21309":{"nexusModName":"Goon's Companion Protection for Japanese","nexusUploadedBy":"Eolaloe","nexusModId":21309,"paks":[
-{"nexusFileName":"Goon's Companion Protection for Japanese","nexusFileVersion":"2.0.0.3","pakFileName":"Goons Companion Protection_jp.pak","nexusFileId":114165,"metaUuid":null}
+{"nexusFileName":"Goon's Companion Protection for Japanese","nexusFileVersion":"2.1.0.0","pakFileName":"Goons Companion Protection_jp.pak","nexusFileId":123242,"metaUuid":null}
 ]},
 "21310":{"nexusModName":"Siaell's Interesting Body Types for Korean","nexusUploadedBy":"Eolaloe","nexusModId":21310,"paks":[
 {"nexusFileName":"Interesting Body Types for Korean","nexusFileVersion":"3.5-1","pakFileName":"Interesting Bodytypes_kr.pak","nexusFileId":119033,"metaUuid":null}
@@ -64876,37 +64876,37 @@
 {"nexusFileName":"F-05. Ward Of Zeal","nexusFileVersion":"1.0.0-F-05","pakFileName":"Ward of Zeal - Solar Shield of Faith - F-05.pak","nexusFileId":122958,"metaUuid":null}
 ]},
 "23097":{"nexusModName":"Exalt - A Sunlight-Themed Bless Alternative - Multiple Versions","nexusUploadedBy":"SymboJones","nexusModId":23097,"paks":[
-{"nexusFileName":"A-01. Exalt","nexusFileVersion":"1.0.0-A-01","pakFileName":"Exalt - Solar Bless - A-01.pak","nexusFileId":122960,"metaUuid":null},
-{"nexusFileName":"A-02. Exalt","nexusFileVersion":"1.0.0-A-02","pakFileName":"Exalt - Solar Bless - A-02.pak","nexusFileId":122961,"metaUuid":null},
-{"nexusFileName":"A-03. Exalt","nexusFileVersion":"1.0.0-A-03","pakFileName":"Exalt - Solar Bless - A-03.pak","nexusFileId":122962,"metaUuid":null},
-{"nexusFileName":"A-04. Exalt","nexusFileVersion":"1.0.0-A-04","pakFileName":"Exalt - Solar Bless - A-04.pak","nexusFileId":122963,"metaUuid":null},
-{"nexusFileName":"A-05. Exalt","nexusFileVersion":"1.0.0-A-05","pakFileName":"Exalt - Solar Bless - A-05.pak","nexusFileId":122964,"metaUuid":null},
+{"nexusFileName":"A-01. Exalt - Vanilla","nexusFileVersion":"1.0.0-A-01","pakFileName":"Exalt - Solar Bless - A-01.pak","nexusFileId":122960,"metaUuid":null},
+{"nexusFileName":"A-02. Exalt - Vanilla - Long Rest - Concentration","nexusFileVersion":"1.0.0-A-02","pakFileName":"Exalt - Solar Bless - A-02.pak","nexusFileId":122961,"metaUuid":null},
+{"nexusFileName":"A-03. Exalt - Vanilla - 10 Turns","nexusFileVersion":"1.0.0-A-03","pakFileName":"Exalt - Solar Bless - A-03.pak","nexusFileId":122962,"metaUuid":null},
+{"nexusFileName":"A-04. Exalt - Vanilla - Long Rest","nexusFileVersion":"1.0.0-A-04","pakFileName":"Exalt - Solar Bless - A-04.pak","nexusFileId":122963,"metaUuid":null},
+{"nexusFileName":"A-05. Exalt - Vanilla - Permanent","nexusFileVersion":"1.0.0-A-05","pakFileName":"Exalt - Solar Bless - A-05.pak","nexusFileId":122964,"metaUuid":null},
 {"nexusFileName":"Exalt - All Caster Addon","nexusFileVersion":"1.0.0","pakFileName":"Exalt - Solar Bless - All Caster Addon.pak","nexusFileId":122965,"metaUuid":null},
-{"nexusFileName":"B-01. Exalt","nexusFileVersion":"1.0.0-B-01","pakFileName":"Exalt - Solar Bless - B-01.pak","nexusFileId":122966,"metaUuid":null},
-{"nexusFileName":"B-02. Exalt","nexusFileVersion":"1.0.0-B-02","pakFileName":"Exalt - Solar Bless - B-02.pak","nexusFileId":122967,"metaUuid":null},
-{"nexusFileName":"B-03. Exalt","nexusFileVersion":"1.0.0-B-03","pakFileName":"Exalt - Solar Bless - B-03.pak","nexusFileId":122968,"metaUuid":null},
-{"nexusFileName":"B-04. Exalt","nexusFileVersion":"1.0.0-B-04","pakFileName":"Exalt - Solar Bless - B-04.pak","nexusFileId":122969,"metaUuid":null},
-{"nexusFileName":"B-05. Exalt","nexusFileVersion":"1.0.0-B-05","pakFileName":"Exalt - Solar Bless - B-05.pak","nexusFileId":122970,"metaUuid":null},
-{"nexusFileName":"C-01. Exalt","nexusFileVersion":"1.0.0-C-01","pakFileName":"Exalt - Solar Bless - C-01.pak","nexusFileId":122971,"metaUuid":null},
-{"nexusFileName":"C-02. Exalt","nexusFileVersion":"1.0.0-C-02","pakFileName":"Exalt - Solar Bless - C-02.pak","nexusFileId":122972,"metaUuid":null},
-{"nexusFileName":"C-03. Exalt","nexusFileVersion":"1.0.0-C-03","pakFileName":"Exalt - Solar Bless - C-03.pak","nexusFileId":122973,"metaUuid":null},
-{"nexusFileName":"C-04. Exalt","nexusFileVersion":"1.0.0-C-04","pakFileName":"Exalt - Solar Bless - C-04.pak","nexusFileId":122974,"metaUuid":null},
-{"nexusFileName":"C-05. Exalt","nexusFileVersion":"1.0.0-C-05","pakFileName":"Exalt - Solar Bless - C-05.pak","nexusFileId":122975,"metaUuid":null},
-{"nexusFileName":"D-01. Exalt","nexusFileVersion":"1.0.0-D-01","pakFileName":"Exalt - Solar Bless - D-01.pak","nexusFileId":122976,"metaUuid":null},
-{"nexusFileName":"D-02. Exalt","nexusFileVersion":"1.0.0-D-02","pakFileName":"Exalt - Solar Bless - D-02.pak","nexusFileId":122977,"metaUuid":null},
-{"nexusFileName":"D-03. Exalt","nexusFileVersion":"1.0.0-D-03","pakFileName":"Exalt - Solar Bless - D-03.pak","nexusFileId":122978,"metaUuid":null},
-{"nexusFileName":"D-04. Exalt","nexusFileVersion":"1.0.0-D-04","pakFileName":"Exalt - Solar Bless - D-04.pak","nexusFileId":122979,"metaUuid":null},
-{"nexusFileName":"D-05. Exalt","nexusFileVersion":"1.0.0-D-05","pakFileName":"Exalt - Solar Bless - D-05.pak","nexusFileId":122980,"metaUuid":null},
-{"nexusFileName":"E-01. Exalt","nexusFileVersion":"1.0.0-E-01","pakFileName":"Exalt - Solar Bless - E-01.pak","nexusFileId":122981,"metaUuid":null},
-{"nexusFileName":"E-02. Exalt","nexusFileVersion":"1.0.0-E-02","pakFileName":"Exalt - Solar Bless - E-02.pak","nexusFileId":122982,"metaUuid":null},
-{"nexusFileName":"E-03. Exalt","nexusFileVersion":"1.0.0-E-03","pakFileName":"Exalt - Solar Bless - E-03.pak","nexusFileId":122983,"metaUuid":null},
-{"nexusFileName":"E-04. Exalt","nexusFileVersion":"1.0.0-E-04","pakFileName":"Exalt - Solar Bless - E-04.pak","nexusFileId":122984,"metaUuid":null},
-{"nexusFileName":"E-05. Exalt","nexusFileVersion":"1.0.0-E-05","pakFileName":"Exalt - Solar Bless - E-05.pak","nexusFileId":122986,"metaUuid":null},
-{"nexusFileName":"F-01. Exalt","nexusFileVersion":"1.0.0-F-01","pakFileName":"Exalt - Solar Bless - F-01.pak","nexusFileId":122987,"metaUuid":null},
-{"nexusFileName":"F-02. Exalt","nexusFileVersion":"1.0.0-F-02","pakFileName":"Exalt - Solar Bless - F-02.pak","nexusFileId":122988,"metaUuid":null},
-{"nexusFileName":"F-03. Exalt","nexusFileVersion":"1.0.0-F-03","pakFileName":"Exalt - Solar Bless - F-03.pak","nexusFileId":122989,"metaUuid":null},
-{"nexusFileName":"F-04. Exalt","nexusFileVersion":"1.0.0-F-04","pakFileName":"Exalt - Solar Bless - F-04.pak","nexusFileId":122990,"metaUuid":null},
-{"nexusFileName":"F-05. Exalt","nexusFileVersion":"1.0.0-F-05","pakFileName":"Exalt - Solar Bless - F-05.pak","nexusFileId":122991,"metaUuid":null}
+{"nexusFileName":"B-01. Exalt - Vanilla - Bonus Action","nexusFileVersion":"1.0.0-B-01","pakFileName":"Exalt - Solar Bless - B-01.pak","nexusFileId":122966,"metaUuid":null},
+{"nexusFileName":"B-02. Exalt - Vanilla - BA - LR - C","nexusFileVersion":"1.0.0-B-02","pakFileName":"Exalt - Solar Bless - B-02.pak","nexusFileId":122967,"metaUuid":null},
+{"nexusFileName":"B-03. Exalt - Vanilla - BA - 10 Turns","nexusFileVersion":"1.0.0-B-03","pakFileName":"Exalt - Solar Bless - B-03.pak","nexusFileId":122968,"metaUuid":null},
+{"nexusFileName":"B-04. Exalt - Vanilla - BA - Long Rest","nexusFileVersion":"1.0.0-B-04","pakFileName":"Exalt - Solar Bless - B-04.pak","nexusFileId":122969,"metaUuid":null},
+{"nexusFileName":"B-05. Exalt - Vanilla - BA - Permanent","nexusFileVersion":"1.0.0-B-05","pakFileName":"Exalt - Solar Bless - B-05.pak","nexusFileId":122970,"metaUuid":null},
+{"nexusFileName":"C-01. Exalt - Scaling Dice Roll Bonus","nexusFileVersion":"1.0.0-C-01","pakFileName":"Exalt - Solar Bless - C-01.pak","nexusFileId":122971,"metaUuid":null},
+{"nexusFileName":"C-02. Exalt - SDRB - LR - C","nexusFileVersion":"1.0.0-C-02","pakFileName":"Exalt - Solar Bless - C-02.pak","nexusFileId":122972,"metaUuid":null},
+{"nexusFileName":"C-03. Exalt - SDRB - 10 Turns","nexusFileVersion":"1.0.0-C-03","pakFileName":"Exalt - Solar Bless - C-03.pak","nexusFileId":122973,"metaUuid":null},
+{"nexusFileName":"C-04. Exalt - SDRB - Long Rest","nexusFileVersion":"1.0.0-C-04","pakFileName":"Exalt - Solar Bless - C-04.pak","nexusFileId":122974,"metaUuid":null},
+{"nexusFileName":"C-05. Exalt - SDRB - Permanent","nexusFileVersion":"1.0.0-C-05","pakFileName":"Exalt - Solar Bless - C-05.pak","nexusFileId":122975,"metaUuid":null},
+{"nexusFileName":"D-01. Exalt - SDRB - Bonus Action","nexusFileVersion":"1.0.0-D-01","pakFileName":"Exalt - Solar Bless - D-01.pak","nexusFileId":122976,"metaUuid":null},
+{"nexusFileName":"D-02. Exalt - SDRB - BA - LR - C","nexusFileVersion":"1.0.0-D-02","pakFileName":"Exalt - Solar Bless - D-02.pak","nexusFileId":122977,"metaUuid":null},
+{"nexusFileName":"D-03. Exalt - SDRB - BA - 10 Turns","nexusFileVersion":"1.0.0-D-03","pakFileName":"Exalt - Solar Bless - D-03.pak","nexusFileId":122978,"metaUuid":null},
+{"nexusFileName":"D-04. Exalt - SDRB - BA - Long Rest","nexusFileVersion":"1.0.0-D-04","pakFileName":"Exalt - Solar Bless - D-04.pak","nexusFileId":122979,"metaUuid":null},
+{"nexusFileName":"D-05. Exalt - SDRB - BA - Permanent","nexusFileVersion":"1.0.0-D-05","pakFileName":"Exalt - Solar Bless - D-05.pak","nexusFileId":122980,"metaUuid":null},
+{"nexusFileName":"E-01. Exalt - Scaling Bonus and Targeting Limit","nexusFileVersion":"1.0.0-E-01","pakFileName":"Exalt - Solar Bless - E-01.pak","nexusFileId":122981,"metaUuid":null},
+{"nexusFileName":"E-02. Exalt - SBTL - LR - C","nexusFileVersion":"1.0.0-E-02","pakFileName":"Exalt - Solar Bless - E-02.pak","nexusFileId":122982,"metaUuid":null},
+{"nexusFileName":"E-03. Exalt - SBTL - 10 Turns","nexusFileVersion":"1.0.0-E-03","pakFileName":"Exalt - Solar Bless - E-03.pak","nexusFileId":122983,"metaUuid":null},
+{"nexusFileName":"E-04. Exalt - SBTL - Long Rest","nexusFileVersion":"1.0.0-E-04","pakFileName":"Exalt - Solar Bless - E-04.pak","nexusFileId":122984,"metaUuid":null},
+{"nexusFileName":"E-05. Exalt - SBTL - Permanent","nexusFileVersion":"1.0.0-E-05","pakFileName":"Exalt - Solar Bless - E-05.pak","nexusFileId":122986,"metaUuid":null},
+{"nexusFileName":"F-01. Exalt - SBTL - Bonus Action","nexusFileVersion":"1.0.0-F-01","pakFileName":"Exalt - Solar Bless - F-01.pak","nexusFileId":122987,"metaUuid":null},
+{"nexusFileName":"F-02. Exalt - SBTL - BA - LR - C","nexusFileVersion":"1.0.0-F-02","pakFileName":"Exalt - Solar Bless - F-02.pak","nexusFileId":122988,"metaUuid":null},
+{"nexusFileName":"F-03. Exalt - SBTL - BA - 10 Turns","nexusFileVersion":"1.0.0-F-03","pakFileName":"Exalt - Solar Bless - F-03.pak","nexusFileId":122989,"metaUuid":null},
+{"nexusFileName":"F-04. Exalt - SBTL - BA - Long Rest","nexusFileVersion":"1.0.0-F-04","pakFileName":"Exalt - Solar Bless - F-04.pak","nexusFileId":122990,"metaUuid":null},
+{"nexusFileName":"F-05. Exalt - SBTL - BA - Permanent","nexusFileVersion":"1.0.0-F-05","pakFileName":"Exalt - Solar Bless - F-05.pak","nexusFileId":122991,"metaUuid":null}
 ]},
 "23098":{"nexusModName":"Purifier's Mantle - A Sunlight-Themed Fire and Radiant Crusader's Mantle Alternative - Multiple Versions - 2024 PHB","nexusUploadedBy":"SymboJones","nexusModId":23098,"paks":[
 {"nexusFileName":"A-01. Purifier's Mantle","nexusFileVersion":"1.0.0-A-01","pakFileName":"Purifiers Mantle - Solar Crusaders Mantle - A-01.pak","nexusFileId":122992,"metaUuid":null},
@@ -65150,7 +65150,7 @@
 {"nexusFileName":"DeathPosePhotoMode 1.0.0 Nexus","nexusFileVersion":"2","pakFileName":"DeathPosePhotoMode_7d731f78-28f6-4f22-bef0-2fa79f30b1d2.pak","nexusFileId":122717,"metaUuid":null}
 ]},
 "23191":{"nexusModName":"Zenin Path - A Jujutsu Kaisen Class for Korean","nexusUploadedBy":"Eolaloe","nexusModId":23191,"paks":[
-{"nexusFileName":"Zenin Path - A Jujutsu Kaisen Class for Korean","nexusFileVersion":"1.0.0.2","pakFileName":"ZeninPath_kr.pak","nexusFileId":123044,"metaUuid":null}
+{"nexusFileName":"Zenin Path - A Jujutsu Kaisen Class for Korean","nexusFileVersion":"1.0.0.3","pakFileName":"ZeninPath_kr.pak","nexusFileId":123243,"metaUuid":null}
 ]},
 "23192":{"nexusModName":"Elemental Flow - a complete rework of Monk (Way of the Four Elements)","nexusUploadedBy":"dddzmpzmp","nexusModId":23192,"paks":[
 {"nexusFileName":"Elemental Flow v1.0.1","nexusFileVersion":"3","pakFileName":"FourElementsMonkRevamp_4e1e6f03-f0a4-4b3e-8a70-2c9719f4e1e5.pak","nexusFileId":123075,"metaUuid":"4e1e6f03-f0a4-4b3e-8a70-2c9719f4e1e5"}
@@ -65314,6 +65314,9 @@
 ]},
 "23259":{"nexusModName":"QuiverModGerman","nexusUploadedBy":"Jackxx00","nexusModId":23259,"paks":[
 {"nexusFileName":"KoecherModGerman","nexusFileVersion":"2","pakFileName":"AlmostVanillaQuivers_AVLQ.pak","nexusFileId":123082,"metaUuid":null}
+]},
+"23260":{"nexusModName":"Tails Swords and Psionics","nexusUploadedBy":"Desdimonda","nexusModId":23260,"paks":[
+{"nexusFileName":"Tails Swords and Psionics Poses by Des","nexusFileVersion":"1","pakFileName":"TailsSwordsAndPsionics_044ef834-a45a-635a-adc7-6ca727dab1ce.pak","nexusFileId":123107,"metaUuid":null}
 ]},
 "23261":{"nexusModName":"Talassan's Robe - Outfit Ensemble","nexusUploadedBy":"BerrySemifreddo","nexusModId":23261,"paks":[
 {"nexusFileName":"Talassan's Robe - Main File","nexusFileVersion":"1.0.0.11","pakFileName":"TalassanRobe_601e8627-0fe8-0d52-2ba8-7e6242cee9c5.pak","nexusFileId":123235,"metaUuid":null}
