@@ -5985,7 +5985,7 @@
 ]},
 "1708":{"nexusModName":"Infinite Spell Slots (And More)","nexusUploadedBy":"ITRMM","nexusModId":1708,"paks":[
 {"nexusFileName":"InfiniteEverything","nexusFileVersion":"1.0","pakFileName":"InfiniteEverything.pak","nexusFileId":24605,"metaUuid":"ca8bc731-1ad6-420c-ab89-24ff4c936e67"},
-{"nexusFileName":"InfiniteSpellSlots","nexusFileVersion":"1.0","pakFileName":"InfiniteSpellSlots.pak","nexusFileId":24606,"metaUuid":null}
+{"nexusFileName":"InfiniteSpellSlots","nexusFileVersion":"1.0","pakFileName":"InfiniteSpellSlots.pak","nexusFileId":24606,"metaUuid":"59f34c2c-5a67-41f9-903a-1eb1be4c63d1"}
 ]},
 "1709":{"nexusModName":"Bags of Sorting - Bean's Preset","nexusUploadedBy":"officervyktar","nexusModId":1709,"paks":[
 {"nexusFileName":"Bean's Preset","nexusFileVersion":"1.0.0","pakFileName":"BagsOfSorting.pak","nexusFileId":11986,"metaUuid":null}
@@ -6585,7 +6585,7 @@
 ]},
 "1945":{"nexusModName":"Master Class","nexusUploadedBy":"Neclomant","nexusModId":1945,"paks":[
 {"nexusFileName":"MasterClass","nexusFileVersion":"2.0.1","pakFileName":"MasterClass.pak","nexusFileId":95157,"metaUuid":null},
-{"nexusFileName":"MasterClass with FeatsEveryLevel","nexusFileVersion":"2.0.1","pakFileName":"MasterClass_FeatEveryLevel.pak","nexusFileId":95158,"metaUuid":null}
+{"nexusFileName":"MasterClass with FeatsEveryLevel","nexusFileVersion":"2.0.1","pakFileName":"MasterClass_FeatEveryLevel.pak","nexusFileId":95158,"metaUuid":"5e3ef58d-3ed8-4106-b733-9ba81a633cdd"}
 ]},
 "1948":{"nexusModName":"Camp Event Notifications - Korean Translation","nexusUploadedBy":"bk0n9","nexusModId":1948,"paks":[
 {"nexusFileName":"KvCampEvents - Korean Translation","nexusFileVersion":"0.4.5-KR-3.0","pakFileName":"KvCampEvents-KR.pak","nexusFileId":31449,"metaUuid":"0ce2ae67-0487-40df-9417-899e008800cf"}
@@ -35794,10 +35794,10 @@
 {"nexusFileName":"Projectile Plus","nexusFileVersion":"1.2.8.6","pakFileName":"ProjectilePlus_f145978b-4b28-50d8-ec43-bcf2dfb1e37a.pak","nexusFileId":113871,"metaUuid":"f145978b-4b28-50d8-ec43-bcf2dfb1e37a"}
 ]},
 "12652":{"nexusModName":"Dream Visitor's Dress and Playsuit by AzazeL (Patch 7-8)","nexusUploadedBy":"AzazeLwasTaken","nexusModId":12652,"paks":[
-{"nexusFileName":"Dream Visitor's Dress and Playsuit - Only Chests","nexusFileVersion":"1.0.0.0","pakFileName":"DreamGuardian_DaisyDress_2fa2ccd0-59a3-ffae-dcb6-682d2a353229.pak","nexusFileId":73350,"metaUuid":null},
-{"nexusFileName":"Camp Clothes Add-on (Standalone)","nexusFileVersion":"1.0.0.0","pakFileName":"DreamGuardian_CampClothes_af4d2365-aefd-08a6-94dc-f0c9d36a7152.pak","nexusFileId":73419,"metaUuid":null},
+{"nexusFileName":"Dream Visitor's Dress and Playsuit - Only Chests","nexusFileVersion":"1.0.0.0","pakFileName":"DreamGuardian_DaisyDress_2fa2ccd0-59a3-ffae-dcb6-682d2a353229.pak","nexusFileId":73350,"metaUuid":"2fa2ccd0-59a3-ffae-dcb6-682d2a353229"},
+{"nexusFileName":"Camp Clothes Add-on (Standalone)","nexusFileVersion":"1.0.0.0","pakFileName":"DreamGuardian_CampClothes_af4d2365-aefd-08a6-94dc-f0c9d36a7152.pak","nexusFileId":73419,"metaUuid":"af4d2365-aefd-08a6-94dc-f0c9d36a7152"},
 {"nexusFileName":"1. Dream Visitor's Playsuit (Short Dress)","nexusFileVersion":"2.0.0.0","pakFileName":"DreamGuardian_DaisyPlaysuit_2fa2ccd0-59a3-ffae-dcb6-682d2a353229.pak","nexusFileId":76202,"metaUuid":"2fa2ccd0-59a3-ffae-dcb6-682d2a353229"},
-{"nexusFileName":"2. Dream Visitor's Dress (Long Dress)","nexusFileVersion":"2.0.0.0","pakFileName":"DreamGuardian_DaisyDress_2fa2ccd0-59a3-ffae-dcb6-682d2a353229.pak","nexusFileId":76203,"metaUuid":null}
+{"nexusFileName":"2. Dream Visitor's Dress (Long Dress)","nexusFileVersion":"2.0.0.0","pakFileName":"DreamGuardian_DaisyDress_2fa2ccd0-59a3-ffae-dcb6-682d2a353229.pak","nexusFileId":76203,"metaUuid":"2fa2ccd0-59a3-ffae-dcb6-682d2a353229"}
 ]},
 "12653":{"nexusModName":"Extra Radiant Weapons","nexusUploadedBy":"Tasty01","nexusModId":12653,"paks":[
 {"nexusFileName":"Extra_Radiant_Weapons","nexusFileVersion":"1.0.0.15","pakFileName":"Act1_Radiant_Weapons_cb0b3847-728b-89c8-0caa-5b815959bad9.pak","nexusFileId":79022,"metaUuid":"cb0b3847-728b-89c8-0caa-5b815959bad9"}
@@ -38386,8 +38386,8 @@
 {"nexusFileName":"Reforged Assets Pearl - Dark Urge Dragonborn CC","nexusFileVersion":"1.0.0.4","pakFileName":"Reforged_Assets_Pearl_dfe0cca9-62a6-418d-8bcb-f6b487a7008c.pak","nexusFileId":118932,"metaUuid":"dfe0cca9-62a6-418d-8bcb-f6b487a7008c"}
 ]},
 "13652":{"nexusModName":"Buff Exploit Fix - MCM","nexusUploadedBy":"wtfbengt","nexusModId":13652,"paks":[
-{"nexusFileName":"Buff Exploit Fix","nexusFileVersion":"2.2","pakFileName":"BuffExploitfix.pak","nexusFileId":105248,"metaUuid":null},
-{"nexusFileName":"Buff Exploit Fix","nexusFileVersion":"2.3.0.0-BETA","pakFileName":"BuffExploitFix.pak","nexusFileId":118010,"metaUuid":null}
+{"nexusFileName":"Buff Exploit Fix","nexusFileVersion":"2.2","pakFileName":"BuffExploitfix.pak","nexusFileId":105248,"metaUuid":"ab8a6baa-c231-4365-801e-617d1b94ee9a"},
+{"nexusFileName":"Buff Exploit Fix","nexusFileVersion":"2.3.0.0-BETA","pakFileName":"BuffExploitFix.pak","nexusFileId":118010,"metaUuid":"ab8a6baa-c231-4365-801e-617d1b94ee9a"}
 ]},
 "13653":{"nexusModName":"Hag Hair in Vendors","nexusUploadedBy":"alfiearmadillo","nexusModId":13653,"paks":[
 {"nexusFileName":"HagHairVendorMain","nexusFileVersion":"1.0.1","pakFileName":"HagHairInVendors_3dc2051b-ec61-4314-61c5-edec286ff536.pak","nexusFileId":79793,"metaUuid":null}
@@ -65368,7 +65368,7 @@
 {"nexusFileName":"MidasTouch","nexusFileVersion":"1","pakFileName":"midastouch_ec14a92e-4efd-49da-lsb5.pak","nexusFileId":123183,"metaUuid":null}
 ]},
 "23280":{"nexusModName":"Gale's Godhood","nexusUploadedBy":"GiradigmNex","nexusModId":23280,"paks":[
-{"nexusFileName":"GalesGodhood","nexusFileVersion":"1","pakFileName":"godhood_dc48dd40-545f-8fce-2b5-4wmn.pak","nexusFileId":123184,"metaUuid":null}
+{"nexusFileName":"GalesGodhood","nexusFileVersion":"1","pakFileName":"godhood_dc48dd40-545f-8fce-2b5-4wmn.pak","nexusFileId":123184,"metaUuid":"dc48dd40-545f-8fce-2b5b-3583f81bdb7e"}
 ]},
 "23281":{"nexusModName":"Mephit Pactband","nexusUploadedBy":"GiradigmNex","nexusModId":23281,"paks":[
 {"nexusFileName":"MephitRing","nexusFileVersion":"1","pakFileName":"mephitring_f5f9a9c9-3de7-a79f-fiwm.pak","nexusFileId":123185,"metaUuid":null}
