@@ -98,7 +98,7 @@ class NexusClient:
 
 def load_db() -> dict:
     if os.path.exists(OUTPUT_FILE):
-        with open(OUTPUT_FILE, "r", encoding="utf-8") as f:
+        with open(OUTPUT_FILE, "r", encoding="utf-8-sig") as f:
             return json.load(f)
     return {}
 
