@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-06-10T09:51:56.820487+00:00","total_mods":16534},
+{"_meta":{"last_run":"2026-06-10T10:52:33.199193+00:00","total_mods":16535},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -41711,8 +41711,8 @@
 {"nexusFileName":"JWL Histories and Occupations for Patch 7","nexusFileVersion":"1.2","pakFileName":"JWL_HistoriesAndOccupations.pak","nexusFileId":100827,"metaUuid":null},
 {"nexusFileName":"JWL Histories and Occupations Plus","nexusFileVersion":"1.2","pakFileName":"JWL_HistoriesAndOccupations_Plus.pak","nexusFileId":100828,"metaUuid":"295064a0-a92c-45c1-a856-7e15555e22db"}
 ]},
-"14868":{"nexusModName":"Frost Domain Cleric_KOR","nexusUploadedBy":"Ahdarugo","nexusModId":14868,"paks":[
-{"nexusFileName":"Frost Domain_KOR","nexusFileVersion":"1.2","pakFileName":"FrostDomain_KOR_48e43ff3-faeb-48cf-b4e3-32435fc02f67.pak","nexusFileId":110424,"metaUuid":null}
+"14868":{"nexusModName":"Frost Domain - Cleric Subclass_KOR","nexusUploadedBy":"Ahdarugo","nexusModId":14868,"paks":[
+{"nexusFileName":"Frost Domain_KOR","nexusFileVersion":"2.0.0.55","pakFileName":"FrostDomain_KOR_48e43ff3-faeb-48cf-b4e3-32435fc02f67.pak","nexusFileId":123273,"metaUuid":null}
 ]},
 "14869":{"nexusModName":"Scratch Dog Training_KOR","nexusUploadedBy":"Ahdarugo","nexusModId":14869,"paks":[
 {"nexusFileName":"Scratch Dog Training_KOR","nexusFileVersion":"1.4","pakFileName":"Scratch Dog Training_KOR.pak","nexusFileId":85230,"metaUuid":null}
@@ -65257,7 +65257,7 @@
 {"nexusFileName":"HomeBrewComprehensiveReworksCHS Hierot","nexusFileVersion":"8.3.5","pakFileName":"HomeBrewComprehensiveReworksCHS-Hierot.pak","nexusFileId":122959,"metaUuid":null}
 ]},
 "23239":{"nexusModName":"True Blood","nexusUploadedBy":"rainbow1411","nexusModId":23239,"paks":[
-{"nexusFileName":"True Blood","nexusFileVersion":"1","pakFileName":"TrueBlood_3479b553-6780-71b9-d4a1-513578ff84eb.pak","nexusFileId":122916,"metaUuid":null}
+{"nexusFileName":"True Blood","nexusFileVersion":"2","pakFileName":"TrueBlood_3479b553-6780-71b9-d4a1-513578ff84eb.pak","nexusFileId":123275,"metaUuid":null}
 ]},
 "23240":{"nexusModName":"Astral Pain - Lae'zel Romance Debuff Traduzione ITA","nexusUploadedBy":"EveeLaverne","nexusModId":23240,"paks":[
 {"nexusFileName":"HT AstralPain TraduzioneITA","nexusFileVersion":"1.0.0.0","pakFileName":"HT_AstralPain_TraduzioneITA.pak","nexusFileId":122917,"metaUuid":null}
@@ -65429,7 +65429,10 @@
 {"nexusFileName":"Minsctheeggman","nexusFileVersion":"1.0.0.1","pakFileName":"MinscTheEggMan_c8c59207-f1f5-ac2a-84e4-170d38febc6c.pak","nexusFileId":123232,"metaUuid":null}
 ]},
 "23305":{"nexusModName":"Enraging Heart Garb Fix","nexusUploadedBy":"Adrix973","nexusModId":23305,"paks":[
-{"nexusFileName":"Barb Rage Garb Fix","nexusFileVersion":"2","pakFileName":"barb_rage_garb_fix.pak","nexusFileId":123258,"metaUuid":null}
+{"nexusFileName":"Barb Rage Garb Fix","nexusFileVersion":"3","pakFileName":"barb_rage_garb_fix.pak","nexusFileId":123274,"metaUuid":null}
+]},
+"23306":{"nexusModName":"Blood Hunt Outfit for BT1","nexusUploadedBy":"AyuroArt","nexusModId":23306,"paks":[
+{"nexusFileName":"AYU Blood Hunt","nexusFileVersion":"1","pakFileName":"AYU_VAMPIR_BatQueen_14c2d499-7387-40e8-829d-1bf9be585ab0.pak","nexusFileId":123272,"metaUuid":null}
 ]},
 "23308":{"nexusModName":"Music of the Night (Revamped Edition)","nexusUploadedBy":"littlehouseofimagination","nexusModId":23308,"paks":[
 {"nexusFileName":"Music of the Night","nexusFileVersion":"1","pakFileName":"MusicoftheNight_bdb728bd-62bd-55e8-23a1-de9cd62c5400.pak","nexusFileId":123262,"metaUuid":null}
