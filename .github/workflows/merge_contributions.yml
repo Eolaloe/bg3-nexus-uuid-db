@@ -29,6 +29,5 @@ jobs:
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add uuid_nexus_db.json
           git add contributions/
-          git add ip_logs/
           git diff --cached --quiet || git commit -m "Auto: merge contributions $(date -u '+%Y-%m-%d %H:%M') UTC"
           git push
