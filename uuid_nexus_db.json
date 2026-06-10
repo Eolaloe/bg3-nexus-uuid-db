@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-06-10T16:52:24.175164+00:00","total_mods":16536},
+{"_meta":{"last_run":"2026-06-10T17:51:58.557639+00:00","total_mods":16535},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -33151,7 +33151,7 @@
 {"nexusFileName":"Variable HP","nexusFileVersion":"4.0.0.0","pakFileName":"ManyMoreMonsters_VariableHP.pak","nexusFileId":122788,"metaUuid":"cc0f8799-8312-482c-ba60-d84121b4e890"},
 {"nexusFileName":"Zero Exp","nexusFileVersion":"4.0.0.0","pakFileName":"ManyMoreMonsters_ZeroExp.pak","nexusFileId":122789,"metaUuid":null},
 {"nexusFileName":"Many More Monsters - Modified","nexusFileVersion":"4.2.1.0","pakFileName":"ManyMoreMonsters - Modified.pak","nexusFileId":123220,"metaUuid":"32813f57-0d1d-43cc-8efa-998f2a114f4f"},
-{"nexusFileName":"Many More Monsters","nexusFileVersion":"4.2.1.0","pakFileName":"ManyMoreMonsters.pak","nexusFileId":123221,"metaUuid":"1b215646-6200-451a-9c4a-b21406f69edd"}
+{"nexusFileName":"Many More Monsters","nexusFileVersion":"4.2.2.0","pakFileName":"ManyMoreMonsters.pak","nexusFileId":123288,"metaUuid":"1b215646-6200-451a-9c4a-b21406f69edd"}
 ]},
 "11640":{"nexusModName":"Hellish Rebuke for Karlach","nexusUploadedBy":"robogena","nexusModId":11640,"paks":[
 {"nexusFileName":"Hellish Rebuke for Karlach","nexusFileVersion":"2.0","pakFileName":"robogena_HellishRebukeforKarlach.pak","nexusFileId":72001,"metaUuid":"49864158-3fc5-4904-8163-e7f67ada3666"}
@@ -48191,7 +48191,7 @@
 {"nexusFileName":"CHS","nexusFileVersion":"2.0","pakFileName":"permanentsummons.pak","nexusFileId":96957,"metaUuid":null}
 ]},
 "17320":{"nexusModName":"Goon's Condition and Surface Overhaul","nexusUploadedBy":"BaldursGoonsack","nexusModId":17320,"paks":[
-{"nexusFileName":"Goon's Condition and Surface Overhaul","nexusFileVersion":"1.0.7.3","pakFileName":"Goon's Condition & Surface Overhaul.pak","nexusFileId":122036,"metaUuid":"d9403cba-2f48-4f26-9710-f4be44e076b7"}
+{"nexusFileName":"Goon's Condition and Surface Overhaul","nexusFileVersion":"1.0.7.4","pakFileName":"Goon's Condition & Surface Overhaul.pak","nexusFileId":123291,"metaUuid":"d9403cba-2f48-4f26-9710-f4be44e076b7"}
 ]},
 "17321":{"nexusModName":"Bladesinger Reforged","nexusUploadedBy":"Grimpreacher","nexusModId":17321,"paks":[
 {"nexusFileName":"Bladesinger Reforged","nexusFileVersion":"1.0","pakFileName":"Bladesinger-Reforged.pak","nexusFileId":97189,"metaUuid":null}
@@ -64150,7 +64150,8 @@
 {"nexusFileName":"TMTS BT1 Pale Changeling Patch","nexusFileVersion":"1","pakFileName":"CSSChangeling_BT1Edit.pak","nexusFileId":122315,"metaUuid":null},
 {"nexusFileName":"Hijimare BT1 Pale Changeling Patch","nexusFileVersion":"1","pakFileName":"CSSChangeling_BT1Edit.pak","nexusFileId":122336,"metaUuid":null},
 {"nexusFileName":"CSSChangeling AltMats","nexusFileVersion":"2","pakFileName":"CSSChangeling_AltMats.pak","nexusFileId":122377,"metaUuid":null},
-{"nexusFileName":"CSSChangeling","nexusFileVersion":"2","pakFileName":"CSSChangeling.pak","nexusFileId":122378,"metaUuid":"717af779-7b40-4408-87c5-e5e7b389a152"}
+{"nexusFileName":"CSSChangeling","nexusFileVersion":"2","pakFileName":"CSSChangeling.pak","nexusFileId":122378,"metaUuid":"717af779-7b40-4408-87c5-e5e7b389a152"},
+{"nexusFileName":"Faces of Faerun Patch","nexusFileVersion":"1","pakFileName":"CSSChangeling_FOFPatch.pak","nexusFileId":123290,"metaUuid":null}
 ]},
 "22774":{"nexusModName":"EasyCheat with in-game UI (MCM)(SE) Simple Chinese translation","nexusUploadedBy":"Imemee","nexusModId":22774,"paks":[
 {"nexusFileName":"EasyCheatChs","nexusFileVersion":"2.3.2","pakFileName":"EasyCheatChs.pak","nexusFileId":120876,"metaUuid":null}
@@ -65328,7 +65329,7 @@
 {"nexusFileName":"HPDR - All In Dialogues","nexusFileVersion":"1","pakFileName":"Hide Passive Dice Rolls - All in Dialogues.pak","nexusFileId":123157,"metaUuid":null},
 {"nexusFileName":"HPDR - All Out Of Combat","nexusFileVersion":"1","pakFileName":"Hide Passive Dice Rolls - All out of combat.pak","nexusFileId":123158,"metaUuid":null},
 {"nexusFileName":"HPDR - All But Death Save Throws","nexusFileVersion":"1","pakFileName":"Hide Passive Dice Rolls - All but Death Save Throws.pak","nexusFileId":123159,"metaUuid":null},
-{"nexusFileName":"Hide Passive Dice Rolls - HIDE DICE FIX","nexusFileVersion":"1","pakFileName":"Hide Passive Dice Rolls - HIDE DICE FIX.pak","nexusFileId":123271,"metaUuid":null}
+{"nexusFileName":"Hide Passive Dice Rolls - HIDE DICE FIX","nexusFileVersion":"1","pakFileName":"Hide Passive Dice Rolls - HIDE DICE FIX.pak","nexusFileId":123289,"metaUuid":null}
 ]},
 "23266":{"nexusModName":"Advanced Enemy Randomizer for Korean","nexusUploadedBy":"Eolaloe","nexusModId":23266,"paks":[
 {"nexusFileName":"Advanced Enemy Randomizer for Korean","nexusFileVersion":"0.9.4.3","pakFileName":"AERando_kr.pak","nexusFileId":123282,"metaUuid":null}
