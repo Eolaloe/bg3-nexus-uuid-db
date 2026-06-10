@@ -125,18 +125,19 @@ export default async function handler(req, res) {
     if (!Array.isArray(items)) items = [items];
 
     const valid = items.filter(item =>
-        item &&
-        typeof item.pakFileName === "string" &&
-        item.pakFileName.toLowerCase().endsWith(".pak") &&
-        typeof item.metaUuid === "string" &&
-        UUID_REGEX.test(item.metaUuid)
-    ).map(item => ({
-        pakFileName:  item.pakFileName,
-        metaUuid:     item.metaUuid,
-        nexusModId:   item.nexusModId  || null,
-        nexusFileId:  item.nexusFileId || null,
-        ...(item.verified === true && { verified: true }),
-    }));
+    item &&
+    typeof item.pakFileName === "string" &&
+    item.pakFileName.toLowerCase().endsWith(".pak") &&
+    typeof item.metaUuid === "string" &&
+    UUID_REGEX.test(item.metaUuid) &&
+    typeof item.nexusModId  === "number" && item.nexusModId  > 0 &&
+    typeof item.nexusFileId === "number" && item.nexusFileId > 0
+).map(item => ({
+    pakFileName:  item.pakFileName,
+    metaUuid:     item.metaUuid,
+    nexusModId:   item.nexusModId,
+    nexusFileId:  item.nexusFileId,
+}));
 
     if (valid.length === 0) {
         return res.status(400).json({ error: "No valid contributions" });
