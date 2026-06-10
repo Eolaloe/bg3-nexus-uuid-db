@@ -1,14 +1,10 @@
 """
 merge_contributions.py
 
-Reads all files from contributions/ folder, tallies UUID votes per pakFileName,
-and injects confirmed UUIDs into uuid_nexus_db.json.
-
-Confirmation rules:
-  - Verified entries (direct app download, confirmed modId+fileId): accepted immediately
-  - Regular entries: majority > 50% with >= 3 votes required
-
-Deletes all processed contribution files after merging.
+Reads all files from contributions/ folder,
+tallies UUID votes per (nexusModId, nexusFileId),
+injects confirmed UUIDs (majority > 50% with >= 3 votes) into uuid_nexus_db.json,
+then deletes processed contribution files.
 """
 
 import json
@@ -36,7 +32,7 @@ def format_entry(mod_id: str, entry: dict) -> str:
     )
 
 def save_db(db: dict):
-    """Save in the same format as update_db.py. Sorted by modId (integer), _meta preserved as-is."""
+    """update_db.py와 동일한 포맷으로 저장. modId 정수 순 정렬, _meta 그대로 보존."""
     meta_obj = db.get("_meta", {})
     meta_str = json.dumps(meta_obj, ensure_ascii=False, separators=(",", ":"))
 
@@ -62,11 +58,9 @@ def main():
     print(f"Found {len(files)} contribution file(s).")
 
     # ── Tally votes ───────────────────────────────────────────────────────
-    # votes[pakFileName_lower] = { uuid: count }
-    # verified_map[pakFileName_lower] = uuid  (download-verified, bypasses vote threshold)
-    votes        = {}
-    mod_map      = {}  # pakFileName → { modId, fileId }
-    verified_map = {}  # pakFileName → uuid (from verified contributions)
+    # votes[(nexusModId, nexusFileId)] = { uuid: count }
+    votes   = {}
+    mod_map = {}  # (nexusModId, nexusFileId) → { pakFileName }
 
     for fpath in files:
         try:
@@ -76,47 +70,37 @@ def main():
                 items = [items]
 
             for item in items:
-                pak  = item.get("pakFileName", "").lower()
-                uuid = item.get("metaUuid", "")
-                if not pak or not uuid:
+                mod_id  = item.get("nexusModId")
+                file_id = item.get("nexusFileId")
+                uuid    = item.get("metaUuid", "")
+                pak     = item.get("pakFileName", "").lower()
+                if not mod_id or not file_id or not pak or not uuid:
                     continue
+                key = (mod_id, file_id)
+                votes.setdefault(key, {})
+                votes[key][uuid] = votes[key].get(uuid, 0) + 1
 
-                # Download-verified contributions bypass the vote threshold
-                if item.get("verified") is True:
-                    verified_map[pak] = uuid
-
-                votes.setdefault(pak, {})
-                votes[pak][uuid] = votes[pak].get(uuid, 0) + 1
-
-                if item.get("nexusModId") and pak not in mod_map:
-                    mod_map[pak] = {
-                        "nexusModId":  item["nexusModId"],
-                        "nexusFileId": item.get("nexusFileId"),
-                    }
+                if key not in mod_map:
+                    mod_map[key] = {"pakFileName": pak}
         except Exception as e:
             print(f"  Skip {fpath}: {e}")
 
     # ── Determine confirmed UUIDs ─────────────────────────────────────────
-    # Verified entries (direct app download with confirmed modId+fileId) are
-    # accepted immediately. Regular entries still require >= 3 votes + majority.
     confirmed = {}
-    for pak, vote_map in votes.items():
-        if pak in verified_map:
-            confirmed[pak] = verified_map[pak]
-            print(f"  Verified:  {pak} → {verified_map[pak]} (download-verified)")
-            continue
-
+    for key, vote_map in votes.items():
         total    = sum(vote_map.values())
         max_uuid = max(vote_map, key=vote_map.get)
         max_cnt  = vote_map[max_uuid]
+        pak      = mod_map[key]["pakFileName"]
         if total >= 3 and max_cnt > total / 2:
-            confirmed[pak] = max_uuid
-            print(f"  Confirmed: {pak} → {max_uuid} ({max_cnt}/{total} votes)")
+            confirmed[key] = max_uuid
+            print(f"  Confirmed: mod={key[0]} file={key[1]} {pak} → {max_uuid} ({max_cnt}/{total} votes)")
         else:
-            print(f"  Pending:   {pak} ({total} vote(s), need >= 3 with majority)")
+            print(f"  Pending:   mod={key[0]} file={key[1]} {pak} ({total} vote(s), need >= 3 with majority)")
 
     if not confirmed:
         print("No UUIDs confirmed yet.")
+        # Still delete processed files
         _delete_files(files)
         return
 
@@ -125,7 +109,7 @@ def main():
         print(f"{DB_FILE} not found.")
         return
 
-    with open(DB_FILE, encoding="utf-8") as f:
+    with open(DB_FILE, encoding="utf-8-sig") as f:
         db = json.load(f)
 
     merged = 0
@@ -133,13 +117,10 @@ def main():
         if mod_id == "_meta":
             continue
         for pak in mod_data.get("paks", []):
-            pak_lower = pak.get("pakFileName", "").lower()
-            if pak_lower in confirmed:
-                expected_mod_id = mod_map.get(pak_lower, {}).get("nexusModId")
-                if expected_mod_id and str(expected_mod_id) != str(mod_id):
-                    continue
-                if pak.get("metaUuid") != confirmed[pak_lower]:
-                    pak["metaUuid"] = confirmed[pak_lower]
+            key = (int(mod_id), pak.get("nexusFileId"))
+            if key in confirmed:
+                if pak.get("metaUuid") != confirmed[key]:
+                    pak["metaUuid"] = confirmed[key]
                     merged += 1
 
     if merged > 0:
