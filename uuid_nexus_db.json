@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-06-10T12:52:40.286306+00:00","total_mods":16535},
+{"_meta":{"last_run":"2026-06-10T13:52:37.533401+00:00","total_mods":16536},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -56874,7 +56874,7 @@
 {"nexusFileName":"Distinctive Arrows of Slaying","nexusFileVersion":"1.1","pakFileName":"ROX_Arrows_Slaying.pak","nexusFileId":109919,"metaUuid":null}
 ]},
 "20200":{"nexusModName":"Progression Preview - Full Class Progressions Shown Ingame for Korean","nexusUploadedBy":"Eolaloe","nexusModId":20200,"paks":[
-{"nexusFileName":"Progression Preview for Korean","nexusFileVersion":"1.2.0.3","pakFileName":"ProgressionPreview_kr.pak","nexusFileId":121767,"metaUuid":"7edfb141-1422-4ae9-af44-3dce5cb9c9e2"}
+{"nexusFileName":"Progression Preview for Korean","nexusFileVersion":"1.3.0.1","pakFileName":"ProgressionPreview_kr.pak","nexusFileId":123279,"metaUuid":"7edfb141-1422-4ae9-af44-3dce5cb9c9e2"}
 ]},
 "20201":{"nexusModName":"Jergal's Divine Amulets","nexusUploadedBy":"PerilousPelican","nexusModId":20201,"paks":[
 {"nexusFileName":"Jergal's Divinity - V6","nexusFileVersion":"6","pakFileName":"Jergals_Divine_Amulets_65c046e9-1947-bc24-4e1c-e35b5dce25b6.pak","nexusFileId":112492,"metaUuid":null}
@@ -57684,7 +57684,7 @@
 {"nexusFileName":"Bladesinger DnD 5R PHB2024 Changes for Japanese","nexusFileVersion":"2.4.3","pakFileName":"BladesingerDnD5R_jp.pak","nexusFileId":118223,"metaUuid":null}
 ]},
 "20493":{"nexusModName":"Progression Preview - Full Class Progressions Shown Ingame for Japanese","nexusUploadedBy":"Eolaloe","nexusModId":20493,"paks":[
-{"nexusFileName":"Progression Preview for Japanese","nexusFileVersion":"1.2.0.3","pakFileName":"ProgressionPreview_jp.pak","nexusFileId":121768,"metaUuid":null}
+{"nexusFileName":"Progression Preview for Japanese","nexusFileVersion":"1.3.0.1","pakFileName":"ProgressionPreview_jp.pak","nexusFileId":123280,"metaUuid":null}
 ]},
 "20494":{"nexusModName":"Sol's Tender Touch","nexusUploadedBy":"SolTheWitchBish","nexusModId":20494,"paks":[
 {"nexusFileName":"Tender Touch","nexusFileVersion":"1","pakFileName":"TenderTouch_46f24896-ae43-222d-3af1-c71681648b3d.pak","nexusFileId":111151,"metaUuid":null}
@@ -65335,7 +65335,7 @@
 {"nexusFileName":"Hide Passive Dice Rolls - HIDE DICE FIX","nexusFileVersion":"1","pakFileName":"Hide Passive Dice Rolls - HIDE DICE FIX.pak","nexusFileId":123271,"metaUuid":null}
 ]},
 "23266":{"nexusModName":"Advanced Enemy Randomizer for Korean","nexusUploadedBy":"Eolaloe","nexusModId":23266,"paks":[
-{"nexusFileName":"Advanced Enemy Randomizer for Korean","nexusFileVersion":"0.9.3.1","pakFileName":"AERando_kr.pak","nexusFileId":123153,"metaUuid":null}
+{"nexusFileName":"Advanced Enemy Randomizer for Korean","nexusFileVersion":"0.9.4.3","pakFileName":"AERando_kr.pak","nexusFileId":123282,"metaUuid":null}
 ]},
 "23267":{"nexusModName":"Advanced Enemy Randomizer for Japanese","nexusUploadedBy":"Eolaloe","nexusModId":23267,"paks":[
 {"nexusFileName":"Advanced Enemy Randomizer for Japanese","nexusFileVersion":"0.9.3.1","pakFileName":"AERando_jp.pak","nexusFileId":123154,"metaUuid":null}
@@ -65442,4 +65442,7 @@
 ]},
 "23310":{"nexusModName":"Penance Domain Cleric Subclass_JP","nexusUploadedBy":"Akazonae36","nexusModId":23310,"paks":[
 {"nexusFileName":"Penance Domain Cleric Subclass JP","nexusFileVersion":"1","pakFileName":"Penance Domain Cleric Subclass_JP.pak","nexusFileId":123264,"metaUuid":null}
+]},
+"23312":{"nexusModName":"Cleanse Cantrips","nexusUploadedBy":"swissfred","nexusModId":23312,"paks":[
+{"nexusFileName":"Cleanse Cantrips","nexusFileVersion":"9.0.8.0","pakFileName":"CleanseCantrips_c9e68638-e55e-50ef-7a5b-207cc1a08aa4.pak","nexusFileId":123281,"metaUuid":null}
 ]}}
