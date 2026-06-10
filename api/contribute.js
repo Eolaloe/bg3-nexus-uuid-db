@@ -5,10 +5,7 @@
  * Saves each contribution batch as an individual file under contributions/
  * to avoid write conflicts.
  *
- * IP-based rate limit: 1 contribution per IP per 24 hours.
- * IP is stored as SHA-256 hash (privacy safe) in ip_logs/ folder.
- *
- * Body: [{ pakFileName, uuid, modId?, fileId? }, ...]
+ * Body: [{ pakFileName, uuid, nexusModId, nexusFileId }, ...]
  */
 
 import crypto from "crypto";
@@ -19,7 +16,6 @@ const BRANCH     = "main";
 const GITHUB_API = "https://api.github.com";
 
 const UUID_REGEX = /^[0-9a-f]{8}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{12}$/i;
-const RATE_LIMIT_MS = 24 * 60 * 60 * 1000; // 24 hours
 
 export const config = {
     api: {
@@ -58,46 +54,6 @@ async function githubPut(path, content, message, token, sha = null) {
     });
 }
 
-// ── IP rate limit ─────────────────────────────────────────────────────────────
-
-async function checkAndRecordIp(ipHash, token) {
-    // List ip_logs/ folder to find existing file for this IP
-    const listResp = await fetch(
-        `${GITHUB_API}/repos/${REPO_OWNER}/${REPO_NAME}/contents/ip_logs?ref=${BRANCH}`,
-        {
-            headers: {
-                "Authorization": `Bearer ${token}`,
-                "Accept":        "application/vnd.github+json",
-                "User-Agent":    "bg3-nexus-uuid-db-contribute/1.0",
-            },
-        }
-    );
-
-    if (listResp.ok) {
-        const files = await listResp.json();
-        const now   = Date.now();
-
-        for (const file of files) {
-            // filename format: {ipHash}_{timestamp}.json
-            const parts = file.name.replace(".json", "").split("_");
-            if (parts[0] === ipHash) {
-                const ts = parseInt(parts[1]);
-                if (!isNaN(ts) && now - ts < RATE_LIMIT_MS) {
-                    return false; // rate limited
-                }
-            }
-        }
-    }
-
-    // Record this IP
-    const now       = Date.now();
-    const fileName  = `ip_logs/${ipHash}_${now}.json`;
-    const content   = Buffer.from("{}").toString("base64");
-
-    await githubPut(fileName, content, `IP log: ${ipHash.substring(0, 8)}`, token);
-    return true; // allowed
-}
-
 // ── Main handler ──────────────────────────────────────────────────────────────
 
 export default async function handler(req, res) {
@@ -110,34 +66,25 @@ export default async function handler(req, res) {
         return res.status(500).json({ error: "Server misconfigured" });
     }
 
-    // ── IP hash ───────────────────────────────────────────────────────────
-    const rawIp  = req.headers["x-forwarded-for"]?.split(",")[0]?.trim() || "unknown";
-    const ipHash = crypto.createHash("sha256").update(rawIp).digest("hex").substring(0, 16);
-
-    // ── Rate limit check ──────────────────────────────────────────────────
-    const allowed = await checkAndRecordIp(ipHash, token);
-    if (!allowed) {
-        return res.status(429).json({ error: "Rate limited: 1 contribution per 24 hours" });
-    }
-
     // ── Validate body ─────────────────────────────────────────────────────
     let items = req.body;
     if (!Array.isArray(items)) items = [items];
 
     const valid = items.filter(item =>
-    item &&
-    typeof item.pakFileName === "string" &&
-    item.pakFileName.toLowerCase().endsWith(".pak") &&
-    typeof item.metaUuid === "string" &&
-    UUID_REGEX.test(item.metaUuid) &&
-    typeof item.nexusModId  === "number" && item.nexusModId  > 0 &&
-    typeof item.nexusFileId === "number" && item.nexusFileId > 0
-).map(item => ({
-    pakFileName:  item.pakFileName,
-    metaUuid:     item.metaUuid,
-    nexusModId:   item.nexusModId,
-    nexusFileId:  item.nexusFileId,
-}));
+        item &&
+        typeof item.pakFileName === "string" &&
+        item.pakFileName.toLowerCase().endsWith(".pak") &&
+        typeof item.metaUuid === "string" &&
+        UUID_REGEX.test(item.metaUuid) &&
+        // Require explicit modId + fileId — rejects legacy pak-filename-only contributions
+        typeof item.nexusModId  === "number" && item.nexusModId  > 0 &&
+        typeof item.nexusFileId === "number" && item.nexusFileId > 0
+    ).map(item => ({
+        pakFileName:  item.pakFileName,
+        metaUuid:     item.metaUuid,
+        nexusModId:   item.nexusModId,
+        nexusFileId:  item.nexusFileId,
+    }));
 
     if (valid.length === 0) {
         return res.status(400).json({ error: "No valid contributions" });
