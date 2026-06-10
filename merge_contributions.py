@@ -73,7 +73,7 @@ def main():
                 file_id = item.get("nexusFileId")
                 uuid    = item.get("metaUuid", "")
                 pak     = item.get("pakFileName", "").lower()
-                if not mod_id or not file_id or not pak or not uuid:
+                if not mod_id or not file_id or not uuid:
                     continue
                 key = (mod_id, file_id)
                 votes.setdefault(key, {})
