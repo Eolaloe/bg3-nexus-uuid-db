@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-06-10T14:52:37.665880+00:00","total_mods":16536},
+{"_meta":{"last_run":"2026-06-10T16:52:24.175164+00:00","total_mods":16536},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -5829,9 +5829,7 @@
 {"nexusFileName":"Selunite Phalar Aluve","nexusFileVersion":"1.00","pakFileName":"ThematicPhalarAluve.pak","nexusFileId":11660,"metaUuid":null}
 ]},
 "1660":{"nexusModName":"Holy Armor of Selune","nexusUploadedBy":"Halfbite","nexusModId":1660,"paks":[
-{"nexusFileName":"Holy Selune Armor (Rare) Merchant","nexusFileVersion":"1.0.9","pakFileName":"SeluneArmorRareMerchant.pak","nexusFileId":11997,"metaUuid":null},
-{"nexusFileName":"Holy Armor of Selune (Dwarven-Plate Shoulders)","nexusFileVersion":"1.0.10.0","pakFileName":"SeluneArmor.pak","nexusFileId":18758,"metaUuid":null},
-{"nexusFileName":"Holy Armor of Selune (Default Male Shoulders)","nexusFileVersion":"1.0.10.0","pakFileName":"SeluneArmor.pak","nexusFileId":18759,"metaUuid":null}
+{"nexusFileName":"Holy Armor of Selune (Default Male Shoulders)","nexusFileVersion":"2","pakFileName":"SeluneArmor_54f2ef99-056a-4358-9ce7-79ca6e6f6843.pak","nexusFileId":123286,"metaUuid":null}
 ]},
 "1661":{"nexusModName":"Companions AI - Russian Translation","nexusUploadedBy":"sadMaltael","nexusModId":1661,"paks":[
 {"nexusFileName":"Companions AI RU","nexusFileVersion":"1.41","pakFileName":"TPmod-CompanionAI-RussianTranslation.pak","nexusFileId":11666,"metaUuid":null}
@@ -64981,7 +64979,8 @@
 ]},
 "23115":{"nexusModName":"BG3 VC Deutsch Mod","nexusUploadedBy":"Schneeflocce","nexusModId":23115,"paks":[
 {"nexusFileName":"BG3German","nexusFileVersion":"2.0","pakFileName":"German.pak","nexusFileId":123077,"metaUuid":null},
-{"nexusFileName":"BG3German","nexusFileVersion":"2.0","pakFileName":"German_1.pak","nexusFileId":123077,"metaUuid":null}
+{"nexusFileName":"BG3German","nexusFileVersion":"2.0","pakFileName":"German_1.pak","nexusFileId":123077,"metaUuid":null},
+{"nexusFileName":"Baldurs Gate German Voice Over Patch 1","nexusFileVersion":"2.0","pakFileName":"Baldurs Gate German Voice Over Patch 1.pak","nexusFileId":123287,"metaUuid":null}
 ]},
 "23116":{"nexusModName":"Pan King Astarion Poses","nexusUploadedBy":"LaVakariana","nexusModId":23116,"paks":[
 {"nexusFileName":"Vaks PanKing Astarion Poses","nexusFileVersion":"1","pakFileName":"Vaks_PanKingAstarion_Poses_de01fbb4-0df9-0f5e-4530-3b1fd537df98.pak","nexusFileId":122437,"metaUuid":"de01fbb4-0df9-0f5e-4530-3b1fd537df98"}
@@ -65033,7 +65032,7 @@
 {"nexusFileName":"Vampiric Head Pack","nexusFileVersion":"1","pakFileName":"Vampiric_head_pack.pak","nexusFileId":122520,"metaUuid":"474899fa-02b2-4a9d-acd7-96c4e900903e"}
 ]},
 "23139":{"nexusModName":"SoloLeveling - Shadow Monarch MCM","nexusUploadedBy":"n007kass3m","nexusModId":23139,"paks":[
-{"nexusFileName":"SoloLeveling -  MCM","nexusFileVersion":"2.55","pakFileName":"SoloLeveling_b9c1d5f0-c0b6-8a01-00dc-14bbf18057a0.pak","nexusFileId":123238,"metaUuid":"b9c1d5f0-c0b6-8a01-00dc-14bbf18057a0"}
+{"nexusFileName":"SoloLeveling -  MCM","nexusFileVersion":"2.60","pakFileName":"SoloLeveling_b9c1d5f0-c0b6-8a01-00dc-14bbf18057a0.pak","nexusFileId":123285,"metaUuid":"b9c1d5f0-c0b6-8a01-00dc-14bbf18057a0"}
 ]},
 "23140":{"nexusModName":"Spell Mods Data","nexusUploadedBy":"Nzx","nexusModId":23140,"paks":[
 {"nexusFileName":"SpellModsData","nexusFileVersion":"1.0.1","pakFileName":"SpellModsData.pak","nexusFileId":123205,"metaUuid":null}
@@ -65431,7 +65430,7 @@
 "23305":{"nexusModName":"Enraging Heart Garb Fix","nexusUploadedBy":"Adrix973","nexusModId":23305,"paks":[
 {"nexusFileName":"Barb Rage Garb Fix","nexusFileVersion":"3","pakFileName":"barb_rage_garb_fix.pak","nexusFileId":123274,"metaUuid":null}
 ]},
-"23306":{"nexusModName":"Blood Hunt Outfit for BT1","nexusUploadedBy":"AyuroArt","nexusModId":23306,"paks":[
+"23306":{"nexusModName":"Blood Hunt Outfit for BT1","nexusUploadedBy":"Ayuro","nexusModId":23306,"paks":[
 {"nexusFileName":"AYU Blood Hunt","nexusFileVersion":"1","pakFileName":"AYU_VAMPIR_BatQueen_14c2d499-7387-40e8-829d-1bf9be585ab0.pak","nexusFileId":123272,"metaUuid":null}
 ]},
 "23308":{"nexusModName":"Music of the Night (Revamped Edition)","nexusUploadedBy":"littlehouseofimagination","nexusModId":23308,"paks":[
