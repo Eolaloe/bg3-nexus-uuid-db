@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-06-10T17:51:58.557639+00:00","total_mods":16535},
+{"_meta":{"last_run":"2026-06-10T19:52:08.868764+00:00","total_mods":16535},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -2137,8 +2137,8 @@
 {"nexusFileName":"Pact of the Chain Summon Bug Fix 1.1","nexusFileVersion":"1.1","pakFileName":"PactChain_BugFixA.pak","nexusFileId":8027,"metaUuid":null}
 ]},
 "899":{"nexusModName":"Appearance Edit Enhanced","nexusUploadedBy":"Eralyne","nexusModId":899,"paks":[
-{"nexusFileName":"Appearance Edit Origins","pakFileName":"AppearanceEditOrigins.pak","nexusFileId":29053,"metaUuid":"60de8215-7e9f-4cb6-9763-05aa6aecf257"},
-{"nexusFileName":"Appearance Edit Enhanced","pakFileName":"AppearanceEditEnhanced.pak","nexusFileId":113783,"metaUuid":"7b8366bd-abc1-4f9f-ba9d-585549b4a750"}
+{"nexusFileName":"Appearance Edit Origins","nexusFileVersion":"2.0.1","pakFileName":"AppearanceEditOrigins.pak","nexusFileId":29053,"metaUuid":"60de8215-7e9f-4cb6-9763-05aa6aecf257"},
+{"nexusFileName":"Appearance Edit Enhanced","nexusFileVersion":"3.1.3","pakFileName":"AppearanceEditEnhanced.pak","nexusFileId":113783,"metaUuid":"7b8366bd-abc1-4f9f-ba9d-585549b4a750"}
 ]},
 "900":{"nexusModName":"Ring of Ceremorphosis - become a Mind Flayer","nexusUploadedBy":"Gazgemauch","nexusModId":900,"paks":[
 {"nexusFileName":"Ring of Ceremorphosis","pakFileName":"Ring of Ceremorphosis - test.pak","nexusFileId":9404,"metaUuid":null}
@@ -46833,7 +46833,9 @@
 {"nexusFileName":"Bambi's Alma VAMP EOTB UTAV","nexusFileVersion":"1.0","pakFileName":"Bambi's Alma VAMP EOTB UTAV.pak","nexusFileId":104746,"metaUuid":"5cdfff1f-551a-42c1-82aa-05f01e5ac9a5"}
 ]},
 "16884":{"nexusModName":"Basic Weapon Actions Consolidated","nexusUploadedBy":"Mueffel","nexusModId":16884,"paks":[
-{"nexusFileName":"Basic Weapon Actions Consolidated","nexusFileVersion":"1.0.11","pakFileName":"Basic Weapon Attacks_consolidated.pak","nexusFileId":109504,"metaUuid":"3db1cb73-ef1d-45a8-a5a5-9863581dec86"}
+{"nexusFileName":"Basic Weapon Actions Consolidated","nexusFileVersion":"1.0.11","pakFileName":"Basic Weapon Attacks_consolidated.pak","nexusFileId":109504,"metaUuid":"3db1cb73-ef1d-45a8-a5a5-9863581dec86"},
+{"nexusFileName":"Paired Weapons - Temporary Weapon Actions Patch","nexusFileVersion":"1.0.0","pakFileName":"Paired Weapons - Temporary Weapon Actions Patch.pak","nexusFileId":123292,"metaUuid":null},
+{"nexusFileName":"GearAndThrowingOverhaul - Offhand WA Removal Patch","nexusFileVersion":"1.0.0","pakFileName":"Goon's Gear and Throwing Overhaul - Offhand Weapon Actions Removal Patch.pak","nexusFileId":123293,"metaUuid":null}
 ]},
 "16885":{"nexusModName":"Shadow blade RAW (With variants)","nexusUploadedBy":"101Brian","nexusModId":16885,"paks":[
 {"nexusFileName":"ShadowBladeRAW (FULL)","nexusFileVersion":"1.0.0","pakFileName":"ShadoBladeConcentration_67712464-6473-f118-1110-742163c48cd9 (FULL).pak","nexusFileId":94362,"metaUuid":null},
@@ -62225,7 +62227,7 @@
 {"nexusFileName":"Kawaii Babydoll - SBBF","nexusFileVersion":"1.0.0","pakFileName":"kawaiiBabydoll.pak","nexusFileId":117226,"metaUuid":null}
 ]},
 "22056":{"nexusModName":"Fragmented Past - Official Registry","nexusUploadedBy":"RoseArete","nexusModId":22056,"paks":[
-{"nexusFileName":"Fragmented Past - Official Registry","nexusFileVersion":"1.5.2.4","pakFileName":"Registry_f41b5f7b-949c-0124-5c4c-5dddd2328397.pak","nexusFileId":123259,"metaUuid":null}
+{"nexusFileName":"Fragmented Past - Forgotten Files","nexusFileVersion":"1.5.2.5","pakFileName":"Registry_f41b5f7b-949c-0124-5c4c-5dddd2328397.pak","nexusFileId":123294,"metaUuid":null}
 ]},
 "22057":{"nexusModName":"The Last Two People On Earth Pose Pack","nexusUploadedBy":"Deckard82","nexusModId":22057,"paks":[
 {"nexusFileName":"The Last Two People On Earth Pose Pack","nexusFileVersion":"1.0.0.10","pakFileName":"TheLastTwoPeopleOnEarth_22efb7d3-c8cb-7309-fb16-f1bca51a1996.pak","nexusFileId":117230,"metaUuid":null}
