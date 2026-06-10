@@ -92,11 +92,11 @@ def main():
         max_uuid = max(vote_map, key=vote_map.get)
         max_cnt  = vote_map[max_uuid]
         pak      = mod_map[key]["pakFileName"]
-        if total >= 3 and max_cnt > total / 2:
+        if total >= 1:
             confirmed[key] = max_uuid
             print(f"  Confirmed: mod={key[0]} file={key[1]} {pak} → {max_uuid} ({max_cnt}/{total} votes)")
         else:
-            print(f"  Pending:   mod={key[0]} file={key[1]} {pak} ({total} vote(s), need >= 3 with majority)")
+            print(f"  Pending:   mod={key[0]} file={key[1]} {pak} ({total} vote(s))")
 
     if not confirmed:
         print("No UUIDs confirmed yet.")
