@@ -28,5 +28,6 @@ jobs:
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add uuid_nexus_db.json
+          git add contributions/
           git diff --cached --quiet || git commit -m "Auto: merge contributions $(date -u '+%Y-%m-%d %H:%M') UTC"
           git push
