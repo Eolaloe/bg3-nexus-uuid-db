@@ -135,6 +135,9 @@ def main():
         for pak in mod_data.get("paks", []):
             pak_lower = pak.get("pakFileName", "").lower()
             if pak_lower in confirmed:
+                expected_mod_id = mod_map.get(pak_lower, {}).get("nexusModId")
+                if expected_mod_id and str(expected_mod_id) != str(mod_id):
+                    continue
                 if pak.get("metaUuid") != confirmed[pak_lower]:
                     pak["metaUuid"] = confirmed[pak_lower]
                     merged += 1
