@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-06-11T02:51:40.825145+00:00","total_mods":16535},
+{"_meta":{"last_run":"2026-06-11T03:52:07.328993+00:00","total_mods":16537},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -45471,9 +45471,9 @@
 {"nexusFileName":"Clawstep - UTAV patch - PAK","nexusFileVersion":"1.0.0.1","pakFileName":"Clawstep - UTAV patch - PAK.pak","nexusFileId":102046,"metaUuid":"0895bf8e-4c9a-4ebc-b983-f551d10d6ba2"},
 {"nexusFileName":"Clawstep - Dragonborn body - Digitigrade legs","nexusFileVersion":"1.0.0.41","pakFileName":"DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a.pak","nexusFileId":106089,"metaUuid":"533a435e-8c13-bc21-7cfc-48c3a322e29a"},
 {"nexusFileName":"Clawstep Lazy Armor Patch - Akm","nexusFileVersion":"1.0.0.1","pakFileName":"ZZZ_Lazy_Armor_Patcher_Akm_6fe607d6-0989-995e-d952-98927df6b931.pak","nexusFileId":122175,"metaUuid":null},
-{"nexusFileName":"Clawstep Lazy Armor Patch","nexusFileVersion":"1.0.0.5","pakFileName":"ZZZ_Lazy_Armor_Patcher_c072eaf2-13e1-abb3-10e2-3b58483eb770.pak","nexusFileId":122176,"metaUuid":null},
 {"nexusFileName":"Clawstep Lazy Armor Patch - Breast","nexusFileVersion":"1.0.0.3","pakFileName":"ZZZ_Lazy_Armor_Patcher_BRST_a913a8a0-ce9c-2f8f-af29-e1ba302de852.pak","nexusFileId":122177,"metaUuid":null},
-{"nexusFileName":"Clawstep Lazy Armor Patch - Akm - Breast","nexusFileVersion":"1.0.0.1","pakFileName":"ZZZ_Lazy_Armor_Patcher_Akm_BRST_976f7aa0-562d-54cb-4d33-8117f5593ad9.pak","nexusFileId":122181,"metaUuid":"976f7aa0-562d-54cb-4d33-8117f5593ad9"}
+{"nexusFileName":"Clawstep Lazy Armor Patch - Akm - Breast","nexusFileVersion":"1.0.0.1","pakFileName":"ZZZ_Lazy_Armor_Patcher_Akm_BRST_976f7aa0-562d-54cb-4d33-8117f5593ad9.pak","nexusFileId":122181,"metaUuid":"976f7aa0-562d-54cb-4d33-8117f5593ad9"},
+{"nexusFileName":"Clawstep Lazy Armor Patch","nexusFileVersion":"1.0.0.6","pakFileName":"ZZZ_Lazy_Armor_Patcher_c072eaf2-13e1-abb3-10e2-3b58483eb770.pak","nexusFileId":123305,"metaUuid":null}
 ]},
 "16385":{"nexusModName":"Character Tag Ring CHS","nexusUploadedBy":"LaundryDragonmaidOfficial","nexusModId":16385,"paks":[
 {"nexusFileName":"character_tag_ringCHS","nexusFileVersion":"1.0.2.0","pakFileName":"character_tag_ringCHS.pak","nexusFileId":95689,"metaUuid":null}
@@ -65441,6 +65441,12 @@
 "23312":{"nexusModName":"Cleanse Cantrips","nexusUploadedBy":"swissfred","nexusModId":23312,"paks":[
 {"nexusFileName":"Cleanse Cantrips","nexusFileVersion":"9.0.8.0","pakFileName":"CleanseCantrips_c9e68638-e55e-50ef-7a5b-207cc1a08aa4.pak","nexusFileId":123281,"metaUuid":null}
 ]},
+"23313":{"nexusModName":"Vigilantia - Light Armor and Camp Clothing","nexusUploadedBy":"khaleesinz","nexusModId":23313,"paks":[
+{"nexusFileName":"Vigilantia","nexusFileVersion":"1.0.0","pakFileName":"Vigilantia_khaleesinz_69d695da-58d5-f0aa-16d7-1cf6ed5ca996.pak","nexusFileId":123304,"metaUuid":null}
+]},
 "23314":{"nexusModName":"Giant But Not So Big","nexusUploadedBy":"yoonmoonsik43","nexusModId":23314,"paks":[
 {"nexusFileName":"Giantbutnotsobig 0286fc37 1b4c 0cog","nexusFileVersion":"1","pakFileName":"GiantButNotSoBig_0286fc37-1b4c-82c4-0324-1f3371eb7ac5.pak","nexusFileId":123302,"metaUuid":null}
+]},
+"23315":{"nexusModName":"Better Cambion Summon-CHS","nexusUploadedBy":"bigmom321","nexusModId":23315,"paks":[
+{"nexusFileName":"Better Cambion Summon CHS","nexusFileVersion":"1","pakFileName":"Better Cambion Summon-CHS.pak","nexusFileId":123306,"metaUuid":null}
 ]}}
