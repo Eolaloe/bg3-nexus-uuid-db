@@ -30,4 +30,5 @@ jobs:
           git add uuid_nexus_db.json
           git add contributions/
           git diff --cached --quiet || git commit -m "Auto: merge contributions $(date -u '+%Y-%m-%d %H:%M') UTC"
+          git pull --rebase origin main
           git push
