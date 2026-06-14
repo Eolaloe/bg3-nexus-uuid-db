@@ -370,7 +370,7 @@
 {"nexusFileName":"Goat Glow Eyes Preset","pakFileName":"GoatGlowEyes.pak","nexusFileId":50851,"metaUuid":null},
 {"nexusFileName":"Full Goat Glow Eyes Preset","pakFileName":"FullGoatGlowEyes.pak","nexusFileId":50852,"metaUuid":null},
 {"nexusFileName":"Full Cat Glow Eyes Preset","pakFileName":"FullCatGlowEyes.pak","nexusFileId":50853,"metaUuid":null},
-{"nexusFileName":"Fairy Eyes Preset","pakFileName":"FairyEyes.pak","nexusFileId":50854,"metaUuid":null},
+{"nexusFileName":"Fairy Eyes Preset","pakFileName":"FairyEyes.pak","nexusFileId":50854,"metaUuid":"1ed5eb83-10f7-4e2c-b90b-fdd0d3e057f1"},
 {"nexusFileName":"Aberration Eyes Preset","pakFileName":"AberrationEyes.pak","nexusFileId":52936,"metaUuid":null},
 {"nexusFileName":"Starry Eyes Preset","pakFileName":"StarryEyes.pak","nexusFileId":52937,"metaUuid":null},
 {"nexusFileName":"Eyes of The Beholder - Main","pakFileName":"EyesOfTheBeholder.pak","nexusFileId":83556,"metaUuid":"00956b6f-8b55-4879-bd46-68d1ba7ef31b"}
@@ -1960,7 +1960,7 @@
 {"nexusFileName":"No concentration Fog","pakFileName":"NoConcentrationFog.pak","nexusFileId":6731,"metaUuid":null}
 ]},
 "841":{"nexusModName":"Underwear of Ability Scores","nexusUploadedBy":"Belinn","nexusModId":841,"paks":[
-{"nexusFileName":"Underwear of Ability Scores","pakFileName":"Stats_UnderwearOfAbilityScores.pak","nexusFileId":73485,"metaUuid":null}
+{"nexusFileName":"Underwear of Ability Scores","pakFileName":"Stats_UnderwearOfAbilityScores.pak","nexusFileId":73485,"metaUuid":"8e0ddefb-478e-4bad-a807-e0d50c3148fe"}
 ]},
 "842":{"nexusModName":"Ring of Absolute Force Fix","nexusUploadedBy":"SirPownzalot","nexusModId":842,"paks":[
 {"nexusFileName":"AbsoluteForceRingFix","pakFileName":"AbsoluteForceRingFix.pak","nexusFileId":6750,"metaUuid":null}
@@ -13812,7 +13812,7 @@
 "4426":{"nexusModName":"Valdacil's Spell Adjustments (Vanilla and 5E Spells)","nexusUploadedBy":"valdacil","nexusModId":4426,"paks":[
 {"nexusFileName":"VSA (Patch) - Clerics Subclasses","nexusFileVersion":"1.1.0","pakFileName":"Val_SpellAdjustments_Patch_Clerics.pak","nexusFileId":41347,"metaUuid":null},
 {"nexusFileName":"VSA (Patch) - Alternate Monk","nexusFileVersion":"1.0.3","pakFileName":"Val_SpellAdjustments_Patch_AltMonk.pak","nexusFileId":41743,"metaUuid":null},
-{"nexusFileName":"VSA (Vanilla) - Remove Buff Icons","nexusFileVersion":"4.3.2","pakFileName":"Val_SpellAdjustments_Vanilla_RemoveIcons.pak","nexusFileId":46628,"metaUuid":null},
+{"nexusFileName":"VSA (Vanilla) - Remove Buff Icons","nexusFileVersion":"4.3.2","pakFileName":"Val_SpellAdjustments_Vanilla_RemoveIcons.pak","nexusFileId":46628,"metaUuid":"b65bf886-e9f9-4982-8c20-10e1a2d9b3b6"},
 {"nexusFileName":"VSA (Patch) - Mystic","nexusFileVersion":"1.0.0","pakFileName":"Val_SpellAdjustments_Patch_Mysic.pak","nexusFileId":46629,"metaUuid":null},
 {"nexusFileName":"VSA (Vanilla) - Remove VFX","nexusFileVersion":"4.3.3","pakFileName":"Val_SpellAdjustments_Vanilla_RemoveFX.pak","nexusFileId":46669,"metaUuid":"297c35bb-d0c5-405d-98f4-80f4415d1cf2"},
 {"nexusFileName":"Valdacil's Spell Adjustments - Vanilla","nexusFileVersion":"4.4.1","pakFileName":"Val_SpellAdjustments_Vanilla.pak","nexusFileId":49075,"metaUuid":"5ca0800a-26e1-4da7-a09d-35632e994b34"},
@@ -14442,7 +14442,7 @@
 {"nexusFileName":"Frostmourne - Greatsword","nexusFileVersion":"2.0","pakFileName":"Deathsong Set - Greatsword - Frostmourne.pak","nexusFileId":81330,"metaUuid":null},
 {"nexusFileName":"Rebellion Greatsword","nexusFileVersion":"2.0","pakFileName":"Deathsong Set - Greatsword - Rebellion.pak","nexusFileId":81332,"metaUuid":null},
 {"nexusFileName":"Tutorial Chest Add-on","nexusFileVersion":"2","pakFileName":"Deathsong Set - Tutorial Chest.pak","nexusFileId":85401,"metaUuid":"df72be98-4073-4433-90d0-c0b4a0f25b86"},
-{"nexusFileName":"Cheaty Ring for Undead","nexusFileVersion":"2","pakFileName":"Deathsong Set - Cheaty Undead Ring.pak","nexusFileId":101687,"metaUuid":null},
+{"nexusFileName":"Cheaty Ring for Undead","nexusFileVersion":"2","pakFileName":"Deathsong Set - Cheaty Undead Ring.pak","nexusFileId":101687,"metaUuid":"a3cc94a7-36f2-4fc5-ac2e-48d3e597fa64"},
 {"nexusFileName":"Ghoul Touch Sickle","nexusFileVersion":"1.0","pakFileName":"Deathsong Set - Sickle.pak","nexusFileId":104143,"metaUuid":null},
 {"nexusFileName":"Sword of Kas","nexusFileVersion":"1.0","pakFileName":"Deathsong Set - Kas.pak","nexusFileId":104399,"metaUuid":"da88d0aa-e40f-4f75-acb4-56bed14d266e"},
 {"nexusFileName":"Frostmourne NEW","nexusFileVersion":"1.0","pakFileName":"Deathsong Set - Frostmourne.pak","nexusFileId":105992,"metaUuid":null},
@@ -14499,7 +14499,7 @@
 {"nexusFileName":"XP modifier Circus Dribbles gives 40k XP","nexusFileVersion":"1.1","pakFileName":"XP modifier Circus Dribbles gives 40k XP.pak","nexusFileId":46437,"metaUuid":null},
 {"nexusFileName":"XP modifier instant max level","nexusFileVersion":"1.0","pakFileName":"XP modifier instant max level.pak","nexusFileId":47651,"metaUuid":null},
 {"nexusFileName":"XPAddon - Instant 5 then x6.5","nexusFileVersion":"1.0","pakFileName":"XPAddon - Instant 5 then x6.5.pak","nexusFileId":60927,"metaUuid":null},
-{"nexusFileName":"XP Modifier x3","nexusFileVersion":"1.1","pakFileName":"XPAddon(x3).pak","nexusFileId":86183,"metaUuid":null}
+{"nexusFileName":"XP Modifier x3","nexusFileVersion":"1.1","pakFileName":"XPAddon(x3).pak","nexusFileId":86183,"metaUuid":"e24a48a4-363b-4d58-ae94-51b38e07164d"}
 ]},
 "4589":{"nexusModName":"Auto Loot Rares","nexusUploadedBy":"swissfred","nexusModId":4589,"paks":[
 {"nexusFileName":"Auto Loot Rares","nexusFileVersion":"4.1.5","pakFileName":"AutoLootRares-P7.pak","nexusFileId":71145,"metaUuid":null},
@@ -24743,8 +24743,8 @@
 {"nexusFileName":"Unholy Smite for Oathbreakers ITA","nexusFileVersion":"4.3.3","pakFileName":"UnholySmite_ITA_08c216da-dbb9-7e95-3e64-7e60bf97ac0e.pak","nexusFileId":120418,"metaUuid":null},
 {"nexusFileName":"OBSC Whispered Promises ITA","nexusFileVersion":"1","pakFileName":"OBSC_Whispered_Promises - ITA.pak","nexusFileId":120470,"metaUuid":"66b67bd5-4fff-4cc3-bc7e-9f7b452a0b93"},
 {"nexusFileName":"OBSC Whispered Promises ITA","nexusFileVersion":"1","pakFileName":"OBSC_Whispered_Promises.pak","nexusFileId":120470,"metaUuid":"66b67bd5-4fff-4cc3-bc7e-9f7b452a0b93"},
-{"nexusFileName":"OBSC Arethel ITA","nexusFileVersion":"1","pakFileName":"OBSC_Arethel - ITA.pak","nexusFileId":120471,"metaUuid":"7e6cd3d2-158e-4c20-b2a1-742bad261083"},
-{"nexusFileName":"OBSC Arethel ITA","nexusFileVersion":"1","pakFileName":"OBSC_Arethel.pak","nexusFileId":120471,"metaUuid":"7e6cd3d2-158e-4c20-b2a1-742bad261083"},
+{"nexusFileName":"OBSC Arethel ITA","nexusFileVersion":"1","pakFileName":"OBSC_Arethel - ITA.pak","nexusFileId":120471,"metaUuid":"b461a443-4039-46d9-a81d-e44700331650"},
+{"nexusFileName":"OBSC Arethel ITA","nexusFileVersion":"1","pakFileName":"OBSC_Arethel.pak","nexusFileId":120471,"metaUuid":"b461a443-4039-46d9-a81d-e44700331650"},
 {"nexusFileName":"Valkrana'S Skeletal Challenge ITA","nexusFileVersion":"2.01.01","pakFileName":"Valkrana's Skeletal Challenge - ITA.pak","nexusFileId":120476,"metaUuid":null},
 {"nexusFileName":"Agile Armor ITA","nexusFileVersion":"1.2.2.2","pakFileName":"AgileArmor - ITA.pak","nexusFileId":120488,"metaUuid":null},
 {"nexusFileName":"Languages of the Sword Coast ITA","nexusFileVersion":"3.3.1","pakFileName":"LanguagesoftheSwordCoast_ita_f6863216-2701-c972-bb43-e73f8a721e73.pak","nexusFileId":120490,"metaUuid":null},
