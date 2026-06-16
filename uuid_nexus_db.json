@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-06-16T16:51:26.978477+00:00","total_mods":16525},
+{"_meta":{"last_run":"2026-06-16T17:51:15.778077+00:00","total_mods":16525},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -64511,9 +64511,9 @@
 "22990":{"nexusModName":"Homebrew Blade Cantrips for Chinese","nexusUploadedBy":"Childe117","nexusModId":22990,"paks":[
 {"nexusFileName":"Homebrew Blade Cantrips CHS","nexusFileVersion":"1","pakFileName":"Homebrew Blade Cantrips_CHS.pak","nexusFileId":121812,"metaUuid":null}
 ]},
-"22992":{"nexusModName":"Pretty Boys - Head presets","nexusUploadedBy":"SweetGenerousThing","nexusModId":22992,"paks":[
-{"nexusFileName":"CCO compatibility - PrettyBoys","nexusFileVersion":"1","pakFileName":"SGT_PrettyBoys.pak","nexusFileId":122178,"metaUuid":null},
-{"nexusFileName":"SGT_PrettyBoys","nexusFileVersion":"1.2","pakFileName":"SGT_PrettyBoys.pak","nexusFileId":122269,"metaUuid":"84b9acaa-dccd-4330-931d-708c426b4c14"}
+"22992":{"nexusModName":"Pretty Boys - Head presets (BT2_MB1_TRM1_TMTS)","nexusUploadedBy":"SweetGenerousThing","nexusModId":22992,"paks":[
+{"nexusFileName":"SGT_PrettyBoys_BT1 presets","nexusFileVersion":"1.1","pakFileName":"SGT_PrettyBoys.pak","nexusFileId":121950,"metaUuid":"84b9acaa-dccd-4330-931d-708c426b4c14"},
+{"nexusFileName":"CCO compatibility - PrettyBoys (BT1 presets)","nexusFileVersion":"1.1","pakFileName":"SGT_PrettyBoys.pak","nexusFileId":122178,"metaUuid":"84b9acaa-dccd-4330-931d-708c426b4c14"}
 ]},
 "22993":{"nexusModName":"Unique Stat Bonus for Companions","nexusUploadedBy":"Razulu","nexusModId":22993,"paks":[
 {"nexusFileName":"OriginUniqueBonus","nexusFileVersion":"2","pakFileName":"OriginUniqueBonus.pak","nexusFileId":122447,"metaUuid":"d4ef95ed-5a93-491e-8358-38468e2bf9c7"},
