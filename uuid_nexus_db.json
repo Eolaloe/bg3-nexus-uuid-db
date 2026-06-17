@@ -27529,7 +27529,7 @@
 {"nexusFileName":"Sussur Weapons Expanded Spanish","nexusFileVersion":"3.0.0","pakFileName":"Sussur_WeaponsEs.pak","nexusFileId":57054,"metaUuid":null}
 ]},
 "9465":{"nexusModName":"An Adventurers Class and Feats","nexusUploadedBy":"Azhadi","nexusModId":9465,"paks":[
-{"nexusFileName":"Adventurer Class","nexusFileVersion":"4.5","pakFileName":"Azhadi_Adventurer_Chained.pak","nexusFileId":97166,"metaUuid":null},
+{"nexusFileName":"Adventurer Class","nexusFileVersion":"4.5","pakFileName":"Azhadi_Adventurer_Chained.pak","nexusFileId":97166,"metaUuid":"9d572b55-5a48-42f6-9596-b965d4f82186"},
 {"nexusFileName":"Adventurers Class and Feats (Classic Version)","nexusFileVersion":"4.5.fix","pakFileName":"Azhadi_Adventurer.pak","nexusFileId":97329,"metaUuid":"20c119b8-3fa1-4cc4-8256-50cf2a585759"},
 {"nexusFileName":"Adventurer (Classic Version) - Int Override","nexusFileVersion":"1.0","pakFileName":"Azhadi_Adventurer_int.pak","nexusFileId":97330,"metaUuid":null}
 ]},
@@ -32715,8 +32715,8 @@
 {"nexusFileName":"The Leg Thing - PAK","nexusFileVersion":"1.0.1.1","pakFileName":"MGNTN_TheLegThing.pak","nexusFileId":90315,"metaUuid":"5b653bb7-9b30-405f-a828-41ec71c8d87e"}
 ]},
 "11461":{"nexusModName":"Veenab Library","nexusUploadedBy":"Veenab","nexusModId":11461,"paks":[
-{"nexusFileName":"VBT Resource(3.5.3.1)","nexusFileVersion":"3.5.3.1","pakFileName":"VBT_Resource.pak","nexusFileId":120172,"metaUuid":"c11543b5-10b6-3be8-7322-d8fc739b32d4"},
-{"nexusFileName":"VBT Resource(3.5.3.1)","nexusFileVersion":"3.5.3.1","pakFileName":"VBT_Toolkit_c11543b5-10b6-3be8-7322-d8fc739b32d4.pak","nexusFileId":120172,"metaUuid":"c11543b5-10b6-3be8-7322-d8fc739b32d4"}
+{"nexusFileName":"VBT Resource(3.5.3.1)","nexusFileVersion":"3.5.3.1","pakFileName":"VBT_Resource.pak","nexusFileId":120172,"metaUuid":"02b17e3e-869e-4df4-8416-0e7296017764"},
+{"nexusFileName":"VBT Resource(3.5.3.1)","nexusFileVersion":"3.5.3.1","pakFileName":"VBT_Toolkit_c11543b5-10b6-3be8-7322-d8fc739b32d4.pak","nexusFileId":120172,"metaUuid":"02b17e3e-869e-4df4-8416-0e7296017764"}
 ]},
 "11462":{"nexusModName":"5e Samurai - Russian Translation","nexusUploadedBy":"Hecctus","nexusModId":11462,"paks":[
 {"nexusFileName":"5e Samurai RU","nexusFileVersion":"1.1.2.0","pakFileName":"Samurai5e_RU.pak","nexusFileId":71914,"metaUuid":null}
@@ -42288,7 +42288,7 @@
 {"nexusFileName":"ASTRL Elven Anthology PL","nexusFileVersion":"2","pakFileName":"ASTRLelvenanthology_PL.pak","nexusFileId":86340,"metaUuid":null}
 ]},
 "15103":{"nexusModName":"Death Knight Class - From World of Warcraft - WoW","nexusUploadedBy":"Royah97","nexusModId":15103,"paks":[
-{"nexusFileName":"WoWDeathKnight","nexusFileVersion":"03.02.03","pakFileName":"WoWDeathKnight.pak","nexusFileId":121391,"metaUuid":null},
+{"nexusFileName":"WoWDeathKnight","nexusFileVersion":"03.02.03","pakFileName":"WoWDeathKnight.pak","nexusFileId":121391,"metaUuid":"18dd2869-7e3d-bf24-507a-f5737202da1d"},
 {"nexusFileName":"WoWDeathKnight Feat Each Level","nexusFileVersion":"03.02.03","pakFileName":"WoWDeathKnightFeatEachLevel.pak","nexusFileId":121392,"metaUuid":null},
 {"nexusFileName":"WoWDeathKnight Feat Every Second Level","nexusFileVersion":"03.02.03","pakFileName":"WoWDeathKnightFeatEverySecondLevel.pak","nexusFileId":121393,"metaUuid":null},
 {"nexusFileName":"WoWDeathKnight Hero Talents","nexusFileVersion":"03.02.03","pakFileName":"WoWDeathKnightHeroTalents.pak","nexusFileId":121394,"metaUuid":null},
@@ -43994,10 +43994,10 @@
 ]},
 "15835":{"nexusModName":"Arcane Vanguard - Another Battlemage Class","nexusUploadedBy":"Saethos","nexusModId":15835,"paks":[
 {"nexusFileName":"Feats on Even Levels patch","nexusFileVersion":"1","pakFileName":"ArcaneVanguardExtraFeats_6e8ab84f-f641-9a38-77a3-7092233fa317.pak","nexusFileId":91469,"metaUuid":"6e8ab84f-f641-9a38-77a3-7092233fa317"},
-{"nexusFileName":"Arcane Vanguard Deity Selector","nexusFileVersion":"1","pakFileName":"ArcaneVanguardDeity_b5651d1c-f253-9243-4eef-8a9f07461831.pak","nexusFileId":91470,"metaUuid":null},
+{"nexusFileName":"Arcane Vanguard Deity Selector","nexusFileVersion":"1","pakFileName":"ArcaneVanguardDeity_b5651d1c-f253-9243-4eef-8a9f07461831.pak","nexusFileId":91470,"metaUuid":"b5651d1c-f253-9243-4eef-8a9f07461831"},
 {"nexusFileName":"Sorcerer Dialog Tag","nexusFileVersion":"1","pakFileName":"AVisSorcerer_cc40f4d6-40f9-0a74-c8db-6068dd3ab833.pak","nexusFileId":91847,"metaUuid":null},
 {"nexusFileName":"Feat at Level 2 addon","nexusFileVersion":"1","pakFileName":"AVLv2Feat_a5e2f1ca-afe7-0b68-bed8-846d5007cd3b.pak","nexusFileId":111319,"metaUuid":null},
-{"nexusFileName":"Additional Feat Selection","nexusFileVersion":"1","pakFileName":"ArcaneVanguardFeats_1a980b2e-2094-3ac5-1f88-b0994df8feef.pak","nexusFileId":115150,"metaUuid":null},
+{"nexusFileName":"Additional Feat Selection","nexusFileVersion":"1","pakFileName":"ArcaneVanguardFeats_1a980b2e-2094-3ac5-1f88-b0994df8feef.pak","nexusFileId":115150,"metaUuid":"1a980b2e-2094-3ac5-1f88-b0994df8feef"},
 {"nexusFileName":"Arcane Vanguard","nexusFileVersion":"1.5.6.140","pakFileName":"MysticWarden_0c01af3c-671c-8cfa-a4e6-cad1cb237a85.pak","nexusFileId":118458,"metaUuid":"0c01af3c-671c-8cfa-a4e6-cad1cb237a85"}
 ]},
 "15836":{"nexusModName":"Petite Body and Cute Outfits","nexusUploadedBy":"Sindae","nexusModId":15836,"paks":[
@@ -45999,7 +45999,7 @@
 ]},
 "16597":{"nexusModName":"Path of the Righteous","nexusUploadedBy":"Siaell","nexusModId":16597,"paks":[
 {"nexusFileName":"Medium armor","nexusFileVersion":"1.2","pakFileName":"Path of the Righteous - Medium.pak","nexusFileId":116430,"metaUuid":"25e27e09-c5cc-4846-a2f2-8ae1257ea283"},
-{"nexusFileName":"Additional icon","nexusFileVersion":"1.1","pakFileName":"Path of the Righteous - Icons.pak","nexusFileId":121097,"metaUuid":"60b7b37b-c006-4775-bda2-6ebb726acc12"}
+{"nexusFileName":"Additional icon","nexusFileVersion":"1.1","pakFileName":"Path of the Righteous - Icons.pak","nexusFileId":121097,"metaUuid":"776fd860-d6a1-4c7c-9bf6-ae21827fd23b"}
 ]},
 "16598":{"nexusModName":"Dual Wield Berserker Frenzied Strike","nexusUploadedBy":"Metallumere","nexusModId":16598,"paks":[
 {"nexusFileName":"DualWieldFrenziedStrike","nexusFileVersion":"Yesser","pakFileName":"DualWieldFrenziedStrike_d71b71e8-999b-8523-261f-9a755faf58b3.pak","nexusFileId":93117,"metaUuid":null}
@@ -47108,8 +47108,8 @@
 {"nexusFileName":"MoreMobileFlourishRange v1.0.0","nexusFileVersion":"1.0.0","pakFileName":"MoreMobileFlourishRange_fba04a1a-5341-18f0-1fbb-4697de918063.pak","nexusFileId":95031,"metaUuid":"fba04a1a-5341-18f0-1fbb-4697de918063"}
 ]},
 "16990":{"nexusModName":"Clair Obscur at home","nexusUploadedBy":"aruless","nexusModId":16990,"paks":[
-{"nexusFileName":"Clair Obscur Ex33 at home","nexusFileVersion":"1.0","pakFileName":"Expedition33.pak","nexusFileId":95032,"metaUuid":null},
-{"nexusFileName":"Clair Obscur Ex33 at home ALT","nexusFileVersion":"1.a","pakFileName":"Expedition33.pak","nexusFileId":95042,"metaUuid":null},
+{"nexusFileName":"Clair Obscur Ex33 at home","nexusFileVersion":"1.0","pakFileName":"Expedition33.pak","nexusFileId":95032,"metaUuid":"58f3bd3e-1b4f-4d5e-908a-f65ab6351b6c"},
+{"nexusFileName":"Clair Obscur Ex33 at home ALT","nexusFileVersion":"1.a","pakFileName":"Expedition33.pak","nexusFileId":95042,"metaUuid":"58f3bd3e-1b4f-4d5e-908a-f65ab6351b6c"},
 {"nexusFileName":"Clair Obscur Strong body support","nexusFileVersion":"1.1s","pakFileName":"Expedition33Refit.pak","nexusFileId":111996,"metaUuid":"9e26bb4f-104e-4306-8efb-3116f1d36d7d"}
 ]},
 "16992":{"nexusModName":"Elven_Weaponry_Bladesinger_CHS","nexusUploadedBy":"Selenazz","nexusModId":16992,"paks":[
@@ -48296,7 +48296,7 @@
 "17361":{"nexusModName":"Twilight Domain - Cleric Subclass","nexusUploadedBy":"xarara","nexusModId":17361,"paks":[
 {"nexusFileName":"Level 12 Patch","nexusFileVersion":"1.0","pakFileName":"Twilight Domain - Cleric Subclass - Level 12.pak","nexusFileId":99536,"metaUuid":null},
 {"nexusFileName":"Vanilla Spells Patch","nexusFileVersion":"1.0","pakFileName":"Twilight Domain - Cleric Subclass - Vanilla Spells Patch.pak","nexusFileId":99542,"metaUuid":null},
-{"nexusFileName":"Twilight Domain - Cleric Subclass","nexusFileVersion":"1.02","pakFileName":"Twilight Domain - Cleric Subclass.pak","nexusFileId":102060,"metaUuid":null}
+{"nexusFileName":"Twilight Domain - Cleric Subclass","nexusFileVersion":"1.02","pakFileName":"Twilight Domain - Cleric Subclass.pak","nexusFileId":102060,"metaUuid":"b292e6ae-c717-453c-8e1f-4623eae7c920"}
 ]},
 "17362":{"nexusModName":"Sword Dancer (Cleric Subclass)","nexusUploadedBy":"wingsofhegemon","nexusModId":17362,"paks":[
 {"nexusFileName":"Sword Dancer (Cleric Subclass) - Charisma","nexusFileVersion":"1.0.4","pakFileName":"SwordDancerCharisma_9f59b994-f0f6-22f5-aa82-651b6a0c937b.pak","nexusFileId":98885,"metaUuid":null},
@@ -49721,7 +49721,7 @@
 ]},
 "17887":{"nexusModName":"FED Adds AMP Random Plugin","nexusUploadedBy":"yangyangmeiiii","nexusModId":17887,"paks":[
 {"nexusFileName":"AMPFEDMIX","nexusFileVersion":"6.0.0.0","pakFileName":"AMPFEDMIX.pak","nexusFileId":116867,"metaUuid":null},
-{"nexusFileName":"vanillatradersLootAncienFED","nexusFileVersion":"6.0.0.0","pakFileName":"vanillatradersLootAncienFED.pak","nexusFileId":116868,"metaUuid":null}
+{"nexusFileName":"vanillatradersLootAncienFED","nexusFileVersion":"6.0.0.0","pakFileName":"vanillatradersLootAncienFED.pak","nexusFileId":116868,"metaUuid":"35fb677d-3b75-4c0c-aaa2-74fd7dcd60cb"}
 ]},
 "17888":{"nexusModName":"Summoner's Best Friend (Quest) CHS","nexusUploadedBy":"hanli","nexusModId":17888,"paks":[
 {"nexusFileName":"SFJQuestline_CHS","nexusFileVersion":"1.02","pakFileName":"SFJQuestline_CHS.pak","nexusFileId":99443,"metaUuid":null}
@@ -50089,7 +50089,7 @@
 {"nexusFileName":"Illithid Fashion","nexusFileVersion":"1.4","pakFileName":"IllithidFashion_c6396b94-1384-4768-84d9-fc5296b4bd6b.pak","nexusFileId":121695,"metaUuid":null}
 ]},
 "18020":{"nexusModName":"The Psion Class","nexusUploadedBy":"Vexarius","nexusModId":18020,"paks":[
-{"nexusFileName":"Psion Class (Level 20 Version)","nexusFileVersion":"1.6","pakFileName":"Class_Psion_1_6.pak","nexusFileId":100452,"metaUuid":null},
+{"nexusFileName":"Psion Class (Level 20 Version)","nexusFileVersion":"1.6","pakFileName":"Class_Psion_1_6.pak","nexusFileId":100452,"metaUuid":"16767f3f-8902-cad2-3a6f-73e85e19109a"},
 {"nexusFileName":"Psion Class (Level 20 with Feats Every 2 Levels)","nexusFileVersion":"1.6","pakFileName":"Class_Psion_Feats.pak","nexusFileId":101480,"metaUuid":null},
 {"nexusFileName":"Psion Class (Level 12 Version)","nexusFileVersion":"1.7","pakFileName":"Class_Mesmer_16767f3f-8902-cad2-3a6f-73e85e19109a.pak","nexusFileId":106410,"metaUuid":"16767f3f-8902-cad2-3a6f-73e85e19109a"}
 ]},
@@ -60972,7 +60972,7 @@
 {"nexusFileName":"BackSheathed","nexusFileVersion":"1.0R","pakFileName":"Bokkan_Back.pak","nexusFileId":115680,"metaUuid":null}
 ]},
 "21647":{"nexusModName":"Home Brew - Grit and Glory (compatibility patch)","nexusUploadedBy":"deleted200625521","nexusModId":21647,"paks":[
-{"nexusFileName":"GnG_HomeBrew_Compat_Patch","nexusFileVersion":"1.0","pakFileName":"GnG_HomeBrew_Compat_Patch.pak","nexusFileId":115621,"metaUuid":null}
+{"nexusFileName":"GnG_HomeBrew_Compat_Patch","nexusFileVersion":"1.0","pakFileName":"GnG_HomeBrew_Compat_Patch.pak","nexusFileId":115621,"metaUuid":"a1b2c3d4-e5f6-7890-abcd-ef1234567890"}
 ]},
 "21648":{"nexusModName":"MMM- Muddy Made Managable","nexusUploadedBy":"CatDude55","nexusModId":21648,"paks":[
 {"nexusFileName":"Muddy Made Managable","nexusFileVersion":"v1.00","pakFileName":"ManagableMuddy.pak","nexusFileId":115626,"metaUuid":null}
@@ -62171,8 +62171,8 @@
 ]},
 "22058":{"nexusModName":"Biomancer and Blood Cultist Original Classes","nexusUploadedBy":"gammawx","nexusModId":22058,"paks":[
 {"nexusFileName":"Progression to Level 20 Patch","nexusFileVersion":"1","pakFileName":"BCM_Biomancer_Lvl20_588f3cac-4821-5ae9-1414-d4ff234c07c2.pak","nexusFileId":121509,"metaUuid":null},
-{"nexusFileName":"Progression Lvl 20 Patch No-Dependency","nexusFileVersion":"1","pakFileName":"BCM_Biomancer_Lvl20_NoDependency.pak","nexusFileId":121721,"metaUuid":null},
-{"nexusFileName":"Biomancer and Blood Cultist Original Class","nexusFileVersion":"2.2.0","pakFileName":"BCM_BiomancerBloodCult_0cd91307-625e-ad26-e05a-df06ac1bd8fc.pak","nexusFileId":122085,"metaUuid":null},
+{"nexusFileName":"Progression Lvl 20 Patch No-Dependency","nexusFileVersion":"1","pakFileName":"BCM_Biomancer_Lvl20_NoDependency.pak","nexusFileId":121721,"metaUuid":"588f3cac-4821-5ae9-1414-d4ff234c07c2"},
+{"nexusFileName":"Biomancer and Blood Cultist Original Class","nexusFileVersion":"2.2.0","pakFileName":"BCM_BiomancerBloodCult_0cd91307-625e-ad26-e05a-df06ac1bd8fc.pak","nexusFileId":122085,"metaUuid":"0cd91307-625e-ad26-e05a-df06ac1bd8fc"},
 {"nexusFileName":"Non-Immersive Patch","nexusFileVersion":"1","pakFileName":"BCM_Biomancer_Patch_AllGear_6550a4cd-8c6f-afca-6f7a-b365ff8b7df3.pak","nexusFileId":122088,"metaUuid":null}
 ]},
 "22060":{"nexusModName":"Lady Shar's spear","nexusUploadedBy":"cayssac","nexusModId":22060,"paks":[
@@ -62881,7 +62881,7 @@
 {"nexusFileName":"Tressym Ring AUTOMATIC","nexusFileVersion":"4.0","pakFileName":"Tressym Ring - AUTO.pak","nexusFileId":118475,"metaUuid":null}
 ]},
 "22321":{"nexusModName":"Keyblade Wielder - A Kingdom Hearts Inspired Class","nexusUploadedBy":"SuperVertigo","nexusModId":22321,"paks":[
-{"nexusFileName":"Keyblade Wielder","nexusFileVersion":"1","pakFileName":"KeybladeMaster_2f6811b6-0a17-c09e-fcea-a5a870a9b9aa.pak","nexusFileId":118292,"metaUuid":null}
+{"nexusFileName":"Keyblade Wielder","nexusFileVersion":"1","pakFileName":"KeybladeMaster_2f6811b6-0a17-c09e-fcea-a5a870a9b9aa.pak","nexusFileId":118292,"metaUuid":"2f6811b6-0a17-c09e-fcea-a5a870a9b9aa"}
 ]},
 "22322":{"nexusModName":"Purgatory - A Map for VP","nexusUploadedBy":"inkyplz","nexusModId":22322,"paks":[
 {"nexusFileName":"Purgatory Map","nexusFileVersion":"1.0.0.9","pakFileName":"Purgatory_9be9a4ba-4a09-bf87-626e-ec3446034652.pak","nexusFileId":118307,"metaUuid":null},
