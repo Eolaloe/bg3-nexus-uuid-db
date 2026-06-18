@@ -129,16 +129,18 @@ def save_cursor(index: int, order: list):
 
 # ── Pak helpers ──────────────────────────────────────────────────────────
 
-def _insert_uploaded_at(pak: dict, ts) -> dict:
-    """Rebuild pak dict with nexusFileUploadedAt inserted after nexusFileVersion."""
-    result = {}
-    for key, val in pak.items():
-        result[key] = val
-        if key == "nexusFileVersion":
-            result["nexusFileUploadedAt"] = ts
-    if "nexusFileUploadedAt" not in result:
-        result["nexusFileUploadedAt"] = ts
-    return result
+def _normalize_pak(pak: dict, file_data: dict) -> dict:
+    """Rebuild pak with canonical field order and backfill any missing fields."""
+    ts      = file_data.get("uploaded_timestamp")
+    version = pak.get("nexusFileVersion") or file_data.get("version", "")
+    return {
+        "nexusFileName":      pak.get("nexusFileName", ""),
+        "nexusFileVersion":   version,
+        "nexusFileUploadedAt": ts,
+        "pakFileName":        pak.get("pakFileName", ""),
+        "nexusFileId":        pak.get("nexusFileId"),
+        "metaUuid":           pak.get("metaUuid"),
+    }
 
 # ── Validation ───────────────────────────────────────────────────────────
 
@@ -162,11 +164,11 @@ def check_mod(client: NexusClient, mod_id: int, db: dict) -> int:
     if r1.status_code == 200:
         files    = r1.json().get("files", [])
         live_ids = {f["file_id"] for f in files}
-        ts_map   = {f["file_id"]: f.get("uploaded_timestamp") for f in files}
+        file_map = {f["file_id"]: f for f in files}
 
         before = len(entry["paks"])
         entry["paks"] = [
-            _insert_uploaded_at(p, ts_map.get(p["nexusFileId"]))
+            _normalize_pak(p, file_map[p["nexusFileId"]])
             for p in entry["paks"] if p["nexusFileId"] in live_ids
         ]
         removed = before - len(entry["paks"])
