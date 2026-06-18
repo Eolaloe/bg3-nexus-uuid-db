@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-06-18T08:51:26.297792+00:00","total_mods":16523},
+{"_meta":{"last_run":"2026-06-18T09:51:19.309665+00:00","total_mods":16524},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -47944,9 +47944,9 @@
 {"nexusFileName":"Late game items in Early acts","nexusFileVersion":"1.2","pakFileName":"Act3itemsinEarlyacts.pak","nexusFileId":117663,"metaUuid":"566690b7-9473-4f56-9068-3d552009db76"}
 ]},
 "17291":{"nexusModName":"Lightbringer Reforged - Paladin Overhaul and Smite Rework (Necrotic Smite Update)","nexusUploadedBy":"Mueffel","nexusModId":17291,"paks":[
-{"nexusFileName":"Additional Paladin Resources","nexusFileVersion":"1.0.0","pakFileName":"Lightbringer Reforged - Additional Paladin Resources.pak","nexusFileId":97902,"metaUuid":"77aaa3d5-a0b8-48e8-a1b4-9a043d57776a"},
-{"nexusFileName":"Blessed Hammer and Imbue Weapon","nexusFileVersion":"1.3.0","pakFileName":"Lightbringer Reforged - Blessed Hammer and Imbue Weapon.pak","nexusFileId":120311,"metaUuid":"3d26bfee-44e1-4aeb-8d1f-bde5e9490c89"},
-{"nexusFileName":"Lay on Hands","nexusFileVersion":"1.2.0","pakFileName":"Lightbringer Reforged - Lay on Hands.pak","nexusFileId":122871,"metaUuid":"b99f1bf7-d93b-4c94-acc3-9c31f35f7e25"}
+{"nexusFileName":"Additional Paladin Resources","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1752248040,"pakFileName":"Lightbringer Reforged - Additional Paladin Resources.pak","nexusFileId":97902,"metaUuid":"77aaa3d5-a0b8-48e8-a1b4-9a043d57776a"},
+{"nexusFileName":"Blessed Hammer and Imbue Weapon","nexusFileVersion":"1.3.0","nexusFileUploadedAt":1777675549,"pakFileName":"Lightbringer Reforged - Blessed Hammer and Imbue Weapon.pak","nexusFileId":120311,"metaUuid":"3d26bfee-44e1-4aeb-8d1f-bde5e9490c89"},
+{"nexusFileName":"Lay on Hands","nexusFileVersion":"1.2.0","nexusFileUploadedAt":1780685576,"pakFileName":"Lightbringer Reforged - Lay on Hands.pak","nexusFileId":122871,"metaUuid":"b99f1bf7-d93b-4c94-acc3-9c31f35f7e25"}
 ]},
 "17293":{"nexusModName":"Sickle Variants","nexusUploadedBy":"Headbobbie","nexusModId":17293,"paks":[
 {"nexusFileName":"Sickle Variants","nexusFileVersion":"1.0.1","pakFileName":"HBB_Sickle_Variants.pak","nexusFileId":96841,"metaUuid":null},
@@ -60979,6 +60979,9 @@
 {"nexusFileName":"Cre'ch Students","nexusFileVersion":"2","nexusFileUploadedAt":1775487976,"pakFileName":"Crèche_Students.pak","nexusFileId":118259,"metaUuid":null},
 {"nexusFileName":"Encounters Overhaul Patch","nexusFileVersion":"1","nexusFileUploadedAt":1775488101,"pakFileName":"Encounters_Overhaul_Patch.pak","nexusFileId":118261,"metaUuid":"d7987526-e8d1-439f-9a98-94e6e2573e8e"},
 {"nexusFileName":"Immersive Nudity SE Patch for NPC Visuals","nexusFileVersion":"2","nexusFileUploadedAt":1777358337,"pakFileName":"ImmersiveNudity_SE_Patch.pak","nexusFileId":120047,"metaUuid":null}
+]},
+"21653":{"nexusModName":"Ferrety's Features - Vampirism","nexusUploadedBy":"ferrety5011","nexusModId":21653,"paks":[
+{"nexusFileName":"Vampirism (Addon - Remove Undead Features)","nexusFileVersion":"1.0.0.1","nexusFileUploadedAt":1772444985,"pakFileName":"Ferrety's Features - Vampirism (Addon - No Undead Tag).pak","nexusFileId":115895,"metaUuid":null}
 ]},
 "21654":{"nexusModName":"Feats Redux - New Feats only","nexusUploadedBy":"Mira113","nexusModId":21654,"paks":[
 {"nexusFileName":"Feats Redux New Feats Only","nexusFileVersion":"1.0","pakFileName":"FeatsRedux_Add_bae4681f-43f2-f6d0-3f5b-0d407cf24a09.pak","nexusFileId":115660,"metaUuid":"bae4681f-43f2-f6d0-3f5b-0d407cf24a09"}
