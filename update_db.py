@@ -17,7 +17,7 @@ import requests
 
 GAME_DOMAIN      = "baldursgate3"
 NEXUS_API_BASE   = "https://api.nexusmods.com"
-VALID_CATEGORIES = {1, 2, 3}
+VALID_CATEGORIES = {1, 2, 3, 5}  # 1=Main, 2=Updates, 3=Optional, 5=Miscellaneous; 4=Old versions excluded
 
 OUTPUT_FILE = "uuid_nexus_db.json"
 
