@@ -127,6 +127,19 @@ def save_cursor(index: int, order: list):
         open(CURSOR_FILE, "w")
     )
 
+# ── Pak helpers ──────────────────────────────────────────────────────────
+
+def _insert_uploaded_at(pak: dict, ts) -> dict:
+    """Rebuild pak dict with nexusFileUploadedAt inserted after nexusFileVersion."""
+    result = {}
+    for key, val in pak.items():
+        result[key] = val
+        if key == "nexusFileVersion":
+            result["nexusFileUploadedAt"] = ts
+    if "nexusFileUploadedAt" not in result:
+        result["nexusFileUploadedAt"] = ts
+    return result
+
 # ── Validation ───────────────────────────────────────────────────────────
 
 def check_mod(client: NexusClient, mod_id: int, db: dict) -> int:
@@ -147,11 +160,16 @@ def check_mod(client: NexusClient, mod_id: int, db: dict) -> int:
         return 1
 
     if r1.status_code == 200:
-        # Mod is alive — compare fileIds
-        live_ids = {f["file_id"] for f in r1.json().get("files", [])}
-        before   = len(entry["paks"])
-        entry["paks"] = [p for p in entry["paks"] if p["nexusFileId"] in live_ids]
-        removed  = before - len(entry["paks"])
+        files    = r1.json().get("files", [])
+        live_ids = {f["file_id"] for f in files}
+        ts_map   = {f["file_id"]: f.get("uploaded_timestamp") for f in files}
+
+        before = len(entry["paks"])
+        entry["paks"] = [
+            _insert_uploaded_at(p, ts_map.get(p["nexusFileId"]))
+            for p in entry["paks"] if p["nexusFileId"] in live_ids
+        ]
+        removed = before - len(entry["paks"])
         if removed:
             print(f"\n  [PAK REMOVED] modId={mod_id} '{name}': {removed} file(s) deleted")
         if not entry["paks"]:

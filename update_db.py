@@ -118,7 +118,6 @@ def format_entry(mod_id: str, entry: dict) -> str:
 def save_db(db: dict, last_run: str = None, total_mods: int = 0):
     meta = json.dumps({"last_run": last_run, "total_mods": total_mods},
                       ensure_ascii=False, separators=(",", ":"))
-    # modId(키) 정수 순으로 정렬해서 저장 ('_meta' 제외)
     sorted_items = sorted(
         ((k, v) for k, v in db.items() if k != "_meta"),
         key=lambda kv: int(kv[0])
@@ -172,11 +171,12 @@ def crawl_mod(client: NexusClient, mod_id: int, existing_entry: dict | None) -> 
             continue
         for pak_name in client.get_pak_names(preview_url):
             paks.append({
-                "nexusFileName":    file_name,
-                "nexusFileVersion": f.get("version", ""),
-                "pakFileName":      pak_name,
-                "nexusFileId":      file_id,
-                "metaUuid":         existing_uuid_map.get(pak_name),
+                "nexusFileName":      file_name,
+                "nexusFileVersion":   f.get("version", ""),
+                "nexusFileUploadedAt": f.get("uploaded_timestamp"),
+                "pakFileName":        pak_name,
+                "nexusFileId":        file_id,
+                "metaUuid":           existing_uuid_map.get(pak_name),
             })
 
     if not paks:
