@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-06-19T05:52:10.071303+00:00","total_mods":16523},
+{"_meta":{"last_run":"2026-06-19T06:51:56.863799+00:00","total_mods":16523},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -26671,6 +26671,8 @@
 {"nexusFileName":"Optional Texture - Neatened Brows PAK","nexusFileVersion":"1.0.0.1","nexusFileUploadedAt":1728151234,"pakFileName":"LLsLaezelOptTexNB_7b466e74-4a34-e341-9bfb-0e2a4a0ee596.pak","nexusFileId":74106,"metaUuid":null},
 {"nexusFileName":"Optional Texture - Neatened Brows - No Scars PAK","nexusFileVersion":"1.0.0.1","nexusFileUploadedAt":1728151961,"pakFileName":"LLsLaezelOptTexNBNS_49961de2-88b0-e198-0106-173b5640f885.pak","nexusFileId":74107,"metaUuid":null},
 {"nexusFileName":"Optional Texture - Original Brows - No Scars PAK","nexusFileVersion":"1.0.0.1","nexusFileUploadedAt":1728152715,"pakFileName":"LLsLaezelOptTexOBNS_69dc26bc-df35-3a7f-0895-193c1a5d98fb.pak","nexusFileId":74111,"metaUuid":null},
+{"nexusFileName":"Optional Texture - NB-NS-NGS-CS PAK","nexusFileVersion":"1.0.0.1","nexusFileUploadedAt":1728233249,"pakFileName":"LLsLaezelNoGithSpots_9c2dee28-baa9-2b1d-f005-6c7a41945bbd.pak","nexusFileId":74277,"metaUuid":null},
+{"nexusFileName":"Optional Texture - NB-NS-WGS-CS PAK","nexusFileVersion":"1.0.0.1","nexusFileUploadedAt":1728256122,"pakFileName":"LLsLaezelOptTexNBNSWGSCS_68b2afd1-2697-ea7c-0d81-01b0d338590e.pak","nexusFileId":74335,"metaUuid":null},
 {"nexusFileName":"Face B PAK","nexusFileVersion":"1.0.0.3","nexusFileUploadedAt":1731588003,"pakFileName":"LLsLaezelFaceB_7fba248c-c5c4-15a0-52b0-1af7477b68a2.pak","nexusFileId":78904,"metaUuid":null},
 {"nexusFileName":"Face B (Gith Nose) PAK","nexusFileVersion":"1.0.0.4","nexusFileUploadedAt":1731588716,"pakFileName":"LLsLaezelFaceBGithNose_72134e44-d78d-886b-92e9-566eb65266d8.pak","nexusFileId":78908,"metaUuid":null},
 {"nexusFileName":"Face A PAK","nexusFileVersion":"1.0.0.3","nexusFileUploadedAt":1731625733,"pakFileName":"LLsLaezelFaceA_5e10498e-1ae2-fe71-7263-097ec1890360.pak","nexusFileId":78946,"metaUuid":null},
@@ -58803,18 +58805,18 @@
 {"nexusFileName":"Wizard Traditions - Runesmith RUS","nexusFileVersion":"1","pakFileName":"FFT_WizardTraditions_Runesmith RUS.pak","nexusFileId":112959,"metaUuid":null}
 ]},
 "20905":{"nexusModName":"Bambi's Antonella","nexusUploadedBy":"bambi009","nexusModId":20905,"paks":[
-{"nexusFileName":"Bambi' Antonella","nexusFileVersion":"1.0","pakFileName":"Bambi's Antonella.pak","nexusFileId":112962,"metaUuid":"52e1b3a8-fb6a-4291-aca8-a40d24240851"},
-{"nexusFileName":"Bambi' Antonella EOTB","nexusFileVersion":"1.0","pakFileName":"Bambi's Antonella EOTB.pak","nexusFileId":112963,"metaUuid":null},
-{"nexusFileName":"Bambi's Antonella UTAV","nexusFileVersion":"1.0","pakFileName":"Bambi's Antonella UTAV.pak","nexusFileId":112964,"metaUuid":"52e1b3a8-fb6a-4291-aca8-a40d24240851"},
-{"nexusFileName":"Bambi's Antonella EOTB UTAV","nexusFileVersion":"1.0","pakFileName":"Bambi's Antonella EOTB UTAV.pak","nexusFileId":112965,"metaUuid":"52e1b3a8-fb6a-4291-aca8-a40d24240851"},
-{"nexusFileName":"Bambi's Antonella CCO","nexusFileVersion":"1.0","pakFileName":"Bambi's Antonella CCO.pak","nexusFileId":114252,"metaUuid":null},
-{"nexusFileName":"Bambi's Antonella EOTB CCO","nexusFileVersion":"1.0","pakFileName":"Bambi's Antonella CCO EOTB.pak","nexusFileId":114253,"metaUuid":null},
-{"nexusFileName":"Bambi's Antonella VAMP","nexusFileVersion":"1.0","pakFileName":"Bambi's Antonella VAMP.pak","nexusFileId":116532,"metaUuid":"016d5616-481e-4dd9-86a5-4dd7e27df087"},
-{"nexusFileName":"Bambi' Antonella VAMP EOTB","nexusFileVersion":"1.0","pakFileName":"Bambi's Antonella VAMP EOTB.pak","nexusFileId":116533,"metaUuid":null},
-{"nexusFileName":"Bambi's Antonella VAMP UTAV","nexusFileVersion":"1.0","pakFileName":"Bambi's Antonella VAMP UTAV.pak","nexusFileId":116534,"metaUuid":null},
-{"nexusFileName":"Bambi's Antonella VAMP EOTB UTAV","nexusFileVersion":"1.0","pakFileName":"Bambi's Antonella VAMP EOTB UTAV.pak","nexusFileId":116535,"metaUuid":"016d5616-481e-4dd9-86a5-4dd7e27df087"},
-{"nexusFileName":"Bambi's Antonella VAMP CCO","nexusFileVersion":"1.0","pakFileName":"Bambi's Antonella VAMP CCO.pak","nexusFileId":116536,"metaUuid":null},
-{"nexusFileName":"Bambi's Antonella VAMP CCO EOTB","nexusFileVersion":"1.0","pakFileName":"Bambi's Antonella VAMP CCO EOTB.pak","nexusFileId":116537,"metaUuid":null}
+{"nexusFileName":"Bambi' Antonella","nexusFileVersion":"1.0","nexusFileUploadedAt":1769119651,"pakFileName":"Bambi's Antonella.pak","nexusFileId":112962,"metaUuid":"52e1b3a8-fb6a-4291-aca8-a40d24240851"},
+{"nexusFileName":"Bambi' Antonella EOTB","nexusFileVersion":"1.0","nexusFileUploadedAt":1769119684,"pakFileName":"Bambi's Antonella EOTB.pak","nexusFileId":112963,"metaUuid":null},
+{"nexusFileName":"Bambi's Antonella UTAV","nexusFileVersion":"1.0","nexusFileUploadedAt":1769119721,"pakFileName":"Bambi's Antonella UTAV.pak","nexusFileId":112964,"metaUuid":"52e1b3a8-fb6a-4291-aca8-a40d24240851"},
+{"nexusFileName":"Bambi's Antonella EOTB UTAV","nexusFileVersion":"1.0","nexusFileUploadedAt":1769119759,"pakFileName":"Bambi's Antonella EOTB UTAV.pak","nexusFileId":112965,"metaUuid":"52e1b3a8-fb6a-4291-aca8-a40d24240851"},
+{"nexusFileName":"Bambi's Antonella CCO","nexusFileVersion":"1.0","nexusFileUploadedAt":1770392061,"pakFileName":"Bambi's Antonella CCO.pak","nexusFileId":114252,"metaUuid":null},
+{"nexusFileName":"Bambi's Antonella EOTB CCO","nexusFileVersion":"1.0","nexusFileUploadedAt":1770392113,"pakFileName":"Bambi's Antonella CCO EOTB.pak","nexusFileId":114253,"metaUuid":null},
+{"nexusFileName":"Bambi's Antonella VAMP","nexusFileVersion":"1.0","nexusFileUploadedAt":1773234962,"pakFileName":"Bambi's Antonella VAMP.pak","nexusFileId":116532,"metaUuid":"016d5616-481e-4dd9-86a5-4dd7e27df087"},
+{"nexusFileName":"Bambi' Antonella VAMP EOTB","nexusFileVersion":"1.0","nexusFileUploadedAt":1773235077,"pakFileName":"Bambi's Antonella VAMP EOTB.pak","nexusFileId":116533,"metaUuid":null},
+{"nexusFileName":"Bambi's Antonella VAMP UTAV","nexusFileVersion":"1.0","nexusFileUploadedAt":1773235119,"pakFileName":"Bambi's Antonella VAMP UTAV.pak","nexusFileId":116534,"metaUuid":null},
+{"nexusFileName":"Bambi's Antonella VAMP EOTB UTAV","nexusFileVersion":"1.0","nexusFileUploadedAt":1773235160,"pakFileName":"Bambi's Antonella VAMP EOTB UTAV.pak","nexusFileId":116535,"metaUuid":"016d5616-481e-4dd9-86a5-4dd7e27df087"},
+{"nexusFileName":"Bambi's Antonella VAMP CCO","nexusFileVersion":"1.0","nexusFileUploadedAt":1773235188,"pakFileName":"Bambi's Antonella VAMP CCO.pak","nexusFileId":116536,"metaUuid":null},
+{"nexusFileName":"Bambi's Antonella VAMP CCO EOTB","nexusFileVersion":"1.0","nexusFileUploadedAt":1773235212,"pakFileName":"Bambi's Antonella VAMP CCO EOTB.pak","nexusFileId":116537,"metaUuid":null}
 ]},
 "20907":{"nexusModName":"BG3 Mod Manager Load Order Dividers","nexusUploadedBy":"LifeofaSin","nexusModId":20907,"paks":[
 {"nexusFileName":"BG3 Mod Load Order Dividers","nexusFileVersion":"1.0.1","pakFileName":"BG3ModLoadOrder_18d916c6-fd22-7c78-0c30-024cb2eddae8.pak","nexusFileId":112987,"metaUuid":"18d916c6-fd22-7c78-0c30-024cb2eddae8"},
