@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-06-18T23:51:56.170025+00:00","total_mods":16524},
+{"_meta":{"last_run":"2026-06-19T00:51:48.283285+00:00","total_mods":16524},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -3056,15 +3056,17 @@
 {"nexusFileName":"BetterGreaterInvisibility","nexusFileVersion":"1.0","nexusFileUploadedAt":1692417562,"pakFileName":"BetterGreaterInvisibility.pak","nexusFileId":8474,"metaUuid":"c289d1ac-4e62-499d-9bdb-d8fe63dbc945"}
 ]},
 "1148":{"nexusModName":"Druid Wild Shape Overhaul","nexusUploadedBy":"ShadyDax","nexusModId":1148,"paks":[
-{"nexusFileName":"DWSO - Starry Form as Ritual","nexusFileVersion":"1.0","pakFileName":"DWSO_Ritual_StarryForm.pak","nexusFileId":90183,"metaUuid":"79276bb9-9802-4dab-b9f5-78344fd160d3"},
-{"nexusFileName":"DWSO - No Wild Shape Recolors","nexusFileVersion":"1.0","pakFileName":"DWSO_NoRecolors.pak","nexusFileId":90186,"metaUuid":"0735aeb2-0146-40b1-8092-55005c8afe49"},
-{"nexusFileName":"Druid Wild Shape Overhaul - Critters Only","nexusFileVersion":"1.0","pakFileName":"DWSO_CrittersOnly.pak","nexusFileId":90195,"metaUuid":null},
-{"nexusFileName":"DWSO - 5R Conversion 2024 PHB Compatibility Patch","nexusFileVersion":"1.0","pakFileName":"DWSO_5RPatch.pak","nexusFileId":91441,"metaUuid":null},
-{"nexusFileName":"Full CR Progression for all druid subclasses","nexusFileVersion":"1.0","pakFileName":"DWSO_Full_CR_Progression_For_All.pak","nexusFileId":99353,"metaUuid":"3b5c8ed9-af93-4a99-a6e3-be6460e8e127"},
-{"nexusFileName":"DWSO - Wild Shape as Ritual","nexusFileVersion":"1.2","pakFileName":"DWSO_Ritual.pak","nexusFileId":99623,"metaUuid":"aa3521e2-826c-4f37-88fe-075be58e4398"},
-{"nexusFileName":"DWSO - Improved Wild Strike","nexusFileVersion":"1.0","pakFileName":"DWSO_ImprovedWildStrike.pak","nexusFileId":100069,"metaUuid":"877b68f0-8fcb-4318-a28e-4825f56040c3"},
-{"nexusFileName":"DWSO - 5R Features","nexusFileVersion":"1.0","pakFileName":"DWSO5R.pak","nexusFileId":107253,"metaUuid":null},
-{"nexusFileName":"Druid Wild Shape Overhaul","nexusFileVersion":"1.1.0.5","pakFileName":"DruidWildShapeOverhaul.pak","nexusFileId":120941,"metaUuid":"274cf3f1-f043-4e1f-8acf-b2e79c3630b8"}
+{"nexusFileName":"DWSO - Starry Form as Ritual","nexusFileVersion":"1.0","nexusFileUploadedAt":1745301341,"pakFileName":"DWSO_Ritual_StarryForm.pak","nexusFileId":90183,"metaUuid":"79276bb9-9802-4dab-b9f5-78344fd160d3"},
+{"nexusFileName":"DWSO - No Wild Shape Recolors","nexusFileVersion":"1.0","nexusFileUploadedAt":1745303154,"pakFileName":"DWSO_NoRecolors.pak","nexusFileId":90186,"metaUuid":"0735aeb2-0146-40b1-8092-55005c8afe49"},
+{"nexusFileName":"Druid Wild Shape Overhaul - Critters Only","nexusFileVersion":"1.0","nexusFileUploadedAt":1745308464,"pakFileName":"DWSO_CrittersOnly.pak","nexusFileId":90195,"metaUuid":null},
+{"nexusFileName":"DWSO - 5R Conversion 2024 PHB Compatibility Patch","nexusFileVersion":"1.0","nexusFileUploadedAt":1746202833,"pakFileName":"DWSO_5RPatch.pak","nexusFileId":91441,"metaUuid":null},
+{"nexusFileName":"Owlbear Cub form","nexusFileVersion":"1.0","nexusFileUploadedAt":1748067995,"pakFileName":"DWSO_OwlbearCub.pak","nexusFileId":93895,"metaUuid":null},
+{"nexusFileName":"Phase Spider Queen form","nexusFileVersion":"1.0","nexusFileUploadedAt":1753751914,"pakFileName":"DWSO_PhaseSpiderQueen.pak","nexusFileId":99349,"metaUuid":null},
+{"nexusFileName":"Full CR Progression for all druid subclasses","nexusFileVersion":"1.0","nexusFileUploadedAt":1753753038,"pakFileName":"DWSO_Full_CR_Progression_For_All.pak","nexusFileId":99353,"metaUuid":"3b5c8ed9-af93-4a99-a6e3-be6460e8e127"},
+{"nexusFileName":"DWSO - Wild Shape as Ritual","nexusFileVersion":"1.2","nexusFileUploadedAt":1754055420,"pakFileName":"DWSO_Ritual.pak","nexusFileId":99623,"metaUuid":"aa3521e2-826c-4f37-88fe-075be58e4398"},
+{"nexusFileName":"DWSO - Improved Wild Strike","nexusFileVersion":"1.0","nexusFileUploadedAt":1754524300,"pakFileName":"DWSO_ImprovedWildStrike.pak","nexusFileId":100069,"metaUuid":"877b68f0-8fcb-4318-a28e-4825f56040c3"},
+{"nexusFileName":"DWSO - 5R Features","nexusFileVersion":"1.0","nexusFileUploadedAt":1762938145,"pakFileName":"DWSO5R.pak","nexusFileId":107253,"metaUuid":null},
+{"nexusFileName":"Druid Wild Shape Overhaul","nexusFileVersion":"1.1.0.5","nexusFileUploadedAt":1778461600,"pakFileName":"DruidWildShapeOverhaul.pak","nexusFileId":120941,"metaUuid":"274cf3f1-f043-4e1f-8acf-b2e79c3630b8"}
 ]},
 "1149":{"nexusModName":"Mol Persuasion Bug Fix","nexusUploadedBy":"Joell560","nexusModId":1149,"paks":[
 {"nexusFileName":"Mol Persuasion Bug Fix","pakFileName":"KW_MolPersuasionBugFix.pak","nexusFileId":60606,"metaUuid":null}
