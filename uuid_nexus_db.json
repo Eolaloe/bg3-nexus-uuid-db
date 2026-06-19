@@ -751,7 +751,7 @@
 {"nexusFileName":"Standalone - Pickup and Send Heavy Objects - V3","nexusFileVersion":"4.20-P8","nexusFileUploadedAt":1744754875,"pakFileName":"Carry Weight Increased 9000 - Standalone Pickup More - V3.pak","nexusFileId":89030,"metaUuid":"92af0ebd-a04c-4e9c-8306-b947aac4c128"},
 {"nexusFileName":"X5 Increase","nexusFileVersion":"4.25-P8","nexusFileUploadedAt":1745068186,"pakFileName":"Carry Weight Increased 9000 - X5.0.pak","nexusFileId":89689,"metaUuid":null},
 {"nexusFileName":"X30 Increase","nexusFileVersion":"4.20-P8","nexusFileUploadedAt":1746101672,"pakFileName":"Carry Weight Increased 9000 - X30.0.pak","nexusFileId":91287,"metaUuid":"92af0ebd-a04c-4e9c-8306-b947aac4c127"},
-{"nexusFileName":"X10 Increase","nexusFileVersion":"4.30-P8","nexusFileUploadedAt":1748802532,"pakFileName":"Carry Weight Increased 9000 - X10.pak","nexusFileId":94806,"metaUuid":null},
+{"nexusFileName":"X10 Increase","nexusFileVersion":"4.30-P8","nexusFileUploadedAt":1748802532,"pakFileName":"Carry Weight Increased 9000 - X10.pak","nexusFileId":94806,"metaUuid":"92af0ebd-a04c-4e9c-8306-b947aac4c127"},
 {"nexusFileName":"X1.5 Increase","nexusFileVersion":"4.35-P8","nexusFileUploadedAt":1753298375,"pakFileName":"Carry Weight Increased 9000 - X1.5.pak","nexusFileId":98840,"metaUuid":null}
 ]},
 "528":{"nexusModName":"Immersive French Localization","nexusUploadedBy":"lexo1000","nexusModId":528,"paks":[
@@ -8035,7 +8035,7 @@
 {"nexusFileName":"ObservantFeat","nexusFileVersion":"1.3","nexusFileUploadedAt":1695181318,"pakFileName":"ObservantFeat.pak","nexusFileId":17247,"metaUuid":null}
 ]},
 "2435":{"nexusModName":"Auto Loot Seller V4","nexusUploadedBy":"Fararagi","nexusModId":2435,"paks":[
-{"nexusFileName":"Auto_Sell_4.0.0.7","nexusFileVersion":"4.0.0.7","pakFileName":"Auto_Sell_Loot.pak","nexusFileId":109339,"metaUuid":null}
+{"nexusFileName":"Auto_Sell_4.0.0.7","nexusFileVersion":"4.0.0.7","pakFileName":"Auto_Sell_Loot.pak","nexusFileId":109339,"metaUuid":"0662253d-1cbf-479f-80c2-5878c6eb5a80"}
 ]},
 "2436":{"nexusModName":"Always Get Dark Justiciar Armor and Selune's Spear","nexusUploadedBy":"Veenab","nexusModId":2436,"paks":[
 {"nexusFileName":"DarkJusticiarAlways(1.3.0)","nexusFileVersion":"1.3.0","nexusFileUploadedAt":1738030740,"pakFileName":"DarkJusticiarAlways.pak","nexusFileId":84882,"metaUuid":"cb0c5806-de14-4a94-81f6-72552ef037ec"}
@@ -43724,7 +43724,7 @@
 {"nexusFileName":"Sandi's XP Redistribution -  x0.75","nexusFileVersion":"2","pakFileName":"Sandis XP Redistribution - x0.75.pak","nexusFileId":120552,"metaUuid":null},
 {"nexusFileName":"Sandi's XP Redistribution","nexusFileVersion":"2","pakFileName":"Sandis XP Redistribution.pak","nexusFileId":120553,"metaUuid":"b474d5da-4ce5-4063-88d3-626e60750d61"},
 {"nexusFileName":"Sandi's XP Redistribution - x1.5","nexusFileVersion":"2","pakFileName":"Sandis XP Redistribution - x1.5.pak","nexusFileId":120554,"metaUuid":null},
-{"nexusFileName":"Sandi's XP Redistribution - x2","nexusFileVersion":"2","pakFileName":"Sandis XP Redistribution - x2.pak","nexusFileId":120555,"metaUuid":null},
+{"nexusFileName":"Sandi's XP Redistribution - x2","nexusFileVersion":"2","pakFileName":"Sandis XP Redistribution - x2.pak","nexusFileId":120555,"metaUuid":"f8c6b020-2781-494f-8a3a-66de22681111"},
 {"nexusFileName":"Sandi's XP Redistribution - x0.9","nexusFileVersion":"2","pakFileName":"Sandis XP Redistribution - x0.9.pak","nexusFileId":121471,"metaUuid":null}
 ]},
 "15667":{"nexusModName":"Eldritch Knight Expanded","nexusUploadedBy":"warmagicks","nexusModId":15667,"paks":[
@@ -46031,7 +46031,7 @@
 ]},
 "16606":{"nexusModName":"Invisible Party","nexusUploadedBy":"swissfred","nexusModId":16606,"paks":[
 {"nexusFileName":"Invisible Party","nexusFileVersion":"2.1.8.8","nexusFileUploadedAt":1767953711,"pakFileName":"InvisibleParty_1c57abc8-4816-cb7d-0356-63e495fa9141.pak","nexusFileId":111633,"metaUuid":null},
-{"nexusFileName":"Invisible Party","nexusFileVersion":"2.2.8.4","nexusFileUploadedAt":1780317974,"pakFileName":"InvisibleParty_1c57abc8-4816-cb7d-0356-63e495fa9141.pak","nexusFileId":122571,"metaUuid":null}
+{"nexusFileName":"Invisible Party","nexusFileVersion":"2.2.8.4","nexusFileUploadedAt":1780317974,"pakFileName":"InvisibleParty_1c57abc8-4816-cb7d-0356-63e495fa9141.pak","nexusFileId":122571,"metaUuid":"1c57abc8-4816-cb7d-0356-63e495fa9141"}
 ]},
 "16607":{"nexusModName":"Deity Domains and Alignment","nexusUploadedBy":"MaxStrengthWizard","nexusModId":16607,"paks":[
 {"nexusFileName":"Deity Domains and Alignment","nexusFileVersion":"1.0.0","pakFileName":"Deity Domains and Alignment.pak","nexusFileId":93097,"metaUuid":"4aacdb1b-8168-4c94-a0af-12ded82b9487"},
@@ -61229,7 +61229,7 @@
 {"nexusFileName":"FATE Patch for Home Brew for Korean","nexusFileVersion":"1.0.0.6","pakFileName":"Home Brew FATE_kr.pak","nexusFileId":119802,"metaUuid":"8cacf414-e7fb-474c-82a7-24f6b69f8276"}
 ]},
 "21731":{"nexusModName":"NoRacialRequirementGear","nexusUploadedBy":"EtherealTr","nexusModId":21731,"paks":[
-{"nexusFileName":"NoRacialRequirementGear","nexusFileVersion":"1.0.2","pakFileName":"NoRacialRequirementGear.pak","nexusFileId":119728,"metaUuid":null}
+{"nexusFileName":"NoRacialRequirementGear","nexusFileVersion":"1.0.2","pakFileName":"NoRacialRequirementGear.pak","nexusFileId":119728,"metaUuid":"6461c515-9826-4926-8cdd-218f9569675d"}
 ]},
 "21732":{"nexusModName":"Mystra Navel Piercing for Gale","nexusUploadedBy":"RevolutionScribe","nexusModId":21732,"paks":[
 {"nexusFileName":"Mystra Navel Piercing","nexusFileVersion":"1.0.0.3","nexusFileUploadedAt":1772653747,"pakFileName":"GalePiercing_1.0.0.3.pak","nexusFileId":116066,"metaUuid":"32749670-cdd5-1e9d-02bb-7e1c7b6c811d"}
@@ -62443,7 +62443,7 @@
 {"nexusFileName":"Silent Sword grinding","nexusFileVersion":"1.0","nexusFileUploadedAt":1774674002,"pakFileName":"LaezelSilentSwordGrinding.pak","nexusFileId":117609,"metaUuid":"55200deb-0b1a-48a1-9956-aafb5db5738f"}
 ]},
 "22155":{"nexusModName":"Pouch of Dyes","nexusUploadedBy":"NecroticFlame","nexusModId":22155,"paks":[
-{"nexusFileName":"Pouch of Dyes","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1774682960,"pakFileName":"StartWithAllDyes_a43bad49-76f0-7c4c-5688-e517a1e2f49a.pak","nexusFileId":117614,"metaUuid":null}
+{"nexusFileName":"Pouch of Dyes","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1774682960,"pakFileName":"StartWithAllDyes_a43bad49-76f0-7c4c-5688-e517a1e2f49a.pak","nexusFileId":117614,"metaUuid":"a43bad49-76f0-7c4c-5688-e517a1e2f49a"}
 ]},
 "22156":{"nexusModName":"Nightwarden Minthara","nexusUploadedBy":"Nzx","nexusModId":22156,"paks":[
 {"nexusFileName":"NightwardenMinthara - VSO","nexusFileVersion":"1.1.2","nexusFileUploadedAt":1775683271,"pakFileName":"NightwardenMinthara[VSO].pak","nexusFileId":118490,"metaUuid":null},
