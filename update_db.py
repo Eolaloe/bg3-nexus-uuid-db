@@ -99,7 +99,7 @@ class NexusClient:
 
     def _fetch_manifests(self, url: str) -> list[str] | None:
         try:
-            resp = requests.get(url, timeout=(5, 15),
+            resp = requests.get(url, timeout=15,
                                 headers={"User-Agent": "bg3-nexus-uuid-db/1.0"})
             if not resp.ok:
                 return None
@@ -111,7 +111,7 @@ class NexusClient:
 
     def _fetch_preview(self, url: str) -> list[str]:
         try:
-            resp = requests.get(url, timeout=(5, 15),
+            resp = requests.get(url, timeout=15,
                                 headers={"User-Agent": "bg3-nexus-uuid-db/1.0"})
             if not resp.ok:
                 return []
@@ -158,7 +158,7 @@ def save_db(db: dict, last_run: str = None, total_mods: int = 0):
         key=lambda kv: int(kv[0])
     )
     entries = ",\n".join(format_entry(k, v) for k, v in sorted_items)
-    with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
+    with open(OUTPUT_FILE, "w", encoding="utf-8", newline="\n") as f:
         f.write('{"_meta":' + meta + ",\n" + entries + "}")
 
 # ── State ─────────────────────────────────────────────────────────────
