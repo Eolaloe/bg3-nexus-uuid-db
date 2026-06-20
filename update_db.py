@@ -9,6 +9,7 @@ Usage: python update_db.py --api-key YOUR_KEY
 import argparse
 import json
 import os
+import re
 import time
 import datetime
 import requests
@@ -17,6 +18,7 @@ import requests
 
 GAME_DOMAIN      = "baldursgate3"
 NEXUS_API_BASE   = "https://api.nexusmods.com"
+MANIFESTS_BASE   = "https://file-manifests.nexusmods.com"
 VALID_CATEGORIES = {1, 2, 3, 5}  # 1=Main, 2=Updates, 3=Optional, 5=Miscellaneous; 4=Old versions excluded
 
 OUTPUT_FILE = "uuid_nexus_db.json"
@@ -75,8 +77,41 @@ class NexusClient:
             return None
 
     def get_pak_names(self, preview_url: str) -> list[str]:
+        # Try new file-manifests endpoint first (post-June 11 files)
+        manifests_url = self._manifests_url(preview_url)
+        if manifests_url:
+            result = self._fetch_manifests(manifests_url)
+            if result is not None:
+                return result
+
+        # Fall back to old file-metadata endpoint (pre-June 11 files)
+        return self._fetch_preview(preview_url)
+
+    def _manifests_url(self, preview_url: str) -> str | None:
+        m = re.search(
+            r'([0-9a-f]{8}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{12})\.json$',
+            preview_url)
+        if not m:
+            return None
+        uuid = m.group(1)
+        h = uuid.replace("-", "")
+        return f"{MANIFESTS_BASE}/{h[0:2]}/{h[2:4]}/{h[4:6]}/{uuid}.json"
+
+    def _fetch_manifests(self, url: str) -> list[str] | None:
         try:
-            resp = requests.get(preview_url, timeout=15,
+            resp = requests.get(url, timeout=(5, 15),
+                                headers={"User-Agent": "bg3-nexus-uuid-db/1.0"})
+            if not resp.ok:
+                return None
+            return [item["file_path"].split("/")[-1]
+                    for item in resp.json()
+                    if item.get("file_path", "").lower().endswith(".pak")]
+        except Exception:
+            return None
+
+    def _fetch_preview(self, url: str) -> list[str]:
+        try:
+            resp = requests.get(url, timeout=(5, 15),
                                 headers={"User-Agent": "bg3-nexus-uuid-db/1.0"})
             if not resp.ok:
                 return []
@@ -126,7 +161,7 @@ def save_db(db: dict, last_run: str = None, total_mods: int = 0):
     with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
         f.write('{"_meta":' + meta + ",\n" + entries + "}")
 
-# ── State ─────────────────────────────────────────────────────────────────
+# ── State ─────────────────────────────────────────────────────────────
 
 def load_state(db: dict) -> dict:
     meta = db.get("_meta", {})
@@ -140,7 +175,7 @@ def get_period(last_run_iso: str | None) -> str:
     if elapsed.days >= 7:  return "1w"
     return "1d"
 
-# ── Crawl ─────────────────────────────────────────────────────────────────
+# ── Crawl ─────────────────────────────────────────────────────────────
 
 def crawl_mod(client: NexusClient, mod_id: int, existing_entry: dict | None) -> dict | None:
     mod_data = client.get(f"/v1/games/{GAME_DOMAIN}/mods/{mod_id}.json")
