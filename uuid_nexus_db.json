@@ -6418,11 +6418,11 @@
 {"nexusFileName":"Crimson Oathsworn 1.2.1","nexusFileVersion":"1.2.1","nexusFileUploadedAt":1697048398,"pakFileName":"CrimsonOathsworn.pak","nexusFileId":22119,"metaUuid":null}
 ]},
 "1882":{"nexusModName":"Monk - Way of the Four Elements Remastered (Homebrew)","nexusUploadedBy":"jellytajm","nexusModId":1882,"paks":[
-{"nexusFileName":"Items Fix","nexusFileVersion":"2.0","pakFileName":"FourElements_ItemsFix.pak","nexusFileId":20282,"metaUuid":null},
-{"nexusFileName":"Way of the Four Elements Remaster","nexusFileVersion":"2.1","pakFileName":"Monk_FourElements_Rework.pak","nexusFileId":23475,"metaUuid":null},
-{"nexusFileName":"Way of the Four Elements Remaster 4 spells version","nexusFileVersion":"2.1","pakFileName":"Monk_FourElements_Rework.pak","nexusFileId":23476,"metaUuid":null},
-{"nexusFileName":"Vanilla Fangs and Fist version","nexusFileVersion":"2.1","pakFileName":"Monk_FourElements_Rework.pak","nexusFileId":23477,"metaUuid":null},
-{"nexusFileName":"Vanilla Fangs and Fist 4 spells version","nexusFileVersion":"2.1","pakFileName":"Monk_FourElements_Rework.pak","nexusFileId":23478,"metaUuid":null}
+{"nexusFileName":"Items Fix","nexusFileVersion":"2.0","nexusFileUploadedAt":1696372101,"pakFileName":"FourElements_ItemsFix.pak","nexusFileId":20282,"metaUuid":null},
+{"nexusFileName":"Way of the Four Elements Remaster","nexusFileVersion":"2.1","nexusFileUploadedAt":1697498008,"pakFileName":"Monk_FourElements_Rework.pak","nexusFileId":23475,"metaUuid":null},
+{"nexusFileName":"Way of the Four Elements Remaster 4 spells version","nexusFileVersion":"2.1","nexusFileUploadedAt":1697498184,"pakFileName":"Monk_FourElements_Rework.pak","nexusFileId":23476,"metaUuid":null},
+{"nexusFileName":"Vanilla Fangs and Fist version","nexusFileVersion":"2.1","nexusFileUploadedAt":1697498374,"pakFileName":"Monk_FourElements_Rework.pak","nexusFileId":23477,"metaUuid":null},
+{"nexusFileName":"Vanilla Fangs and Fist 4 spells version","nexusFileVersion":"2.1","nexusFileUploadedAt":1697498604,"pakFileName":"Monk_FourElements_Rework.pak","nexusFileId":23478,"metaUuid":null}
 ]},
 "1883":{"nexusModName":"Critical Miss Has Consequences","nexusUploadedBy":"VarnionMeretar","nexusModId":1883,"paks":[
 {"nexusFileName":"Critical Miss","nexusFileVersion":"1.3","nexusFileUploadedAt":1697136412,"pakFileName":"CriticalMiss.pak","nexusFileId":22398,"metaUuid":"17c00eba-2727-474e-a914-652cc5f85b59"}
@@ -6445,7 +6445,7 @@
 {"nexusFileName":"Better Trade Menu (16 to 9)","nexusFileVersion":"1.3.4","nexusFileUploadedAt":1725518827,"pakFileName":"BetterTradeMenu_1ae4224b-23fc-dafe-06e4-fb251d1919bd.pak","nexusFileId":68789,"metaUuid":"1ae4224b-23fc-dafe-06e4-fb251d1919bd"}
 ]},
 "1894":{"nexusModName":"Fantastical Multiverse Portuguese Translation","nexusUploadedBy":"kakaichi","nexusModId":1894,"paks":[
-{"nexusFileName":"Fantastical Multiverse PTBR","nexusFileVersion":"1.0.1","pakFileName":"FantasticalMultiversePTBR.pak","nexusFileId":13697,"metaUuid":null}
+{"nexusFileName":"Fantastical Multiverse PTBR","nexusFileVersion":"1.0.1","nexusFileUploadedAt":1694009234,"pakFileName":"FantasticalMultiversePTBR.pak","nexusFileId":13697,"metaUuid":null}
 ]},
 "1895":{"nexusModName":"The Raven Queen Patron for Warlock","nexusUploadedBy":"GladoffelLp","nexusModId":1895,"paks":[
 {"nexusFileName":"Stronger Sentinel Raven Submod","nexusFileVersion":"1.0.2","nexusFileUploadedAt":1749769939,"pakFileName":"RavenQueenPatronStrongerRaven_8b0cfbe4-ead6-4b1d-06ca-568b8997632c.pak","nexusFileId":95735,"metaUuid":null},
@@ -6816,7 +6816,7 @@
 {"nexusFileName":"VolosDarkErsatzEye_v1.0.0.0","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1694273384,"pakFileName":"VolosDarkErsatzEye.pak","nexusFileId":14474,"metaUuid":"885d2411-16f6-4430-a415-0653de12cb4b"}
 ]},
 "2041":{"nexusModName":"Appearance Edit Enhanced Turkish Translation v3.0.11","nexusUploadedBy":"TheWinderst","nexusModId":2041,"paks":[
-{"nexusFileName":"Appearance Edit Turkish Translation v3.0.11","nexusFileVersion":"v3.0.11","pakFileName":"AppearanceEditEnhanced.pak","nexusFileId":60487,"metaUuid":null}
+{"nexusFileName":"Appearance Edit Turkish Translation v3.0.11","nexusFileVersion":"v3.0.11","nexusFileUploadedAt":1717972397,"pakFileName":"AppearanceEditEnhanced.pak","nexusFileId":60487,"metaUuid":null}
 ]},
 "2042":{"nexusModName":"Trap Hunter - a complete rework of Ranger (Hunter)","nexusUploadedBy":"dddzmpzmp","nexusModId":2042,"paks":[
 {"nexusFileName":"Trap Hunter - 1.0.3 - without balancing","nexusFileVersion":"1.0.3","nexusFileUploadedAt":1694702005,"pakFileName":"Trap_Hunter.pak","nexusFileId":15748,"metaUuid":null},
@@ -8462,9 +8462,9 @@
 {"nexusFileName":"Dutchie patch 8","nexusFileVersion":"1.8","nexusFileUploadedAt":1744991534,"pakFileName":"dutchie.pak","nexusFileId":89541,"metaUuid":null}
 ]},
 "2556":{"nexusModName":"Four Elements Revised","nexusUploadedBy":"abyssaldaemon","nexusModId":2556,"paks":[
-{"nexusFileName":"Monk Avatar State Patch 11th Level","nexusFileVersion":"1.01","pakFileName":"Avatar Patch 11th Level.pak","nexusFileId":18374,"metaUuid":null},
-{"nexusFileName":"Monk Avatar State Patch 6th Level","nexusFileVersion":"1.01","pakFileName":"Avatar Patch 6th Level.pak","nexusFileId":18376,"metaUuid":null},
-{"nexusFileName":"Four Elements Revised","nexusFileVersion":"1.63","pakFileName":"4 Elements Revised.pak","nexusFileId":18684,"metaUuid":null}
+{"nexusFileName":"Monk Avatar State Patch 11th Level","nexusFileVersion":"1.01","nexusFileUploadedAt":1695585259,"pakFileName":"Avatar Patch 11th Level.pak","nexusFileId":18374,"metaUuid":null},
+{"nexusFileName":"Monk Avatar State Patch 6th Level","nexusFileVersion":"1.01","nexusFileUploadedAt":1695585320,"pakFileName":"Avatar Patch 6th Level.pak","nexusFileId":18376,"metaUuid":null},
+{"nexusFileName":"Four Elements Revised","nexusFileVersion":"1.63","nexusFileUploadedAt":1695711573,"pakFileName":"4 Elements Revised.pak","nexusFileId":18684,"metaUuid":null}
 ]},
 "2557":{"nexusModName":"White Hair White Lashes - EA Creation Preset Overwrite","nexusUploadedBy":"Lynstence","nexusModId":2557,"paks":[
 {"nexusFileName":"Patch9White","nexusFileVersion":"2.0.0","nexusFileUploadedAt":1727968420,"pakFileName":"Patch9White.pak","nexusFileId":73779,"metaUuid":null}
@@ -8735,9 +8735,9 @@
 {"nexusFileName":"Strong Female Heads (Body Type 3)","nexusFileVersion":"1.3","nexusFileUploadedAt":1699519119,"pakFileName":"Strong Female Heads.pak","nexusFileId":27548,"metaUuid":"cef3bd38-43eb-4e9e-b3ba-8a96ddcb0e38"}
 ]},
 "2658":{"nexusModName":"Bags Bags Bags - (Starting Equipment)(No Story Items)(No Merchant)","nexusUploadedBy":"bk0n9","nexusModId":2658,"paks":[
-{"nexusFileName":"Bags Bags Bags - No Story Items","nexusFileVersion":"11-1.0","pakFileName":"BagsBagsBags-NoStoryItems.pak","nexusFileId":18592,"metaUuid":null},
-{"nexusFileName":"Bags Bags Bags - No Merchant","nexusFileVersion":"11-1.0","pakFileName":"BagsBagsBags-NoMerchant.pak","nexusFileId":23149,"metaUuid":null},
-{"nexusFileName":"Bags Bags Bags - Starting Equipment - AutoSort","nexusFileVersion":"11-1.1","pakFileName":"BagsBagsBags-StartingEquipment-AutoSort.pak","nexusFileId":33166,"metaUuid":null}
+{"nexusFileName":"Bags Bags Bags - No Story Items","nexusFileVersion":"11-1.0","nexusFileUploadedAt":1695677560,"pakFileName":"BagsBagsBags-NoStoryItems.pak","nexusFileId":18592,"metaUuid":null},
+{"nexusFileName":"Bags Bags Bags - No Merchant","nexusFileVersion":"11-1.0","nexusFileUploadedAt":1697396003,"pakFileName":"BagsBagsBags-NoMerchant.pak","nexusFileId":23149,"metaUuid":null},
+{"nexusFileName":"Bags Bags Bags - Starting Equipment - AutoSort","nexusFileVersion":"11-1.1","nexusFileUploadedAt":1701966215,"pakFileName":"BagsBagsBags-StartingEquipment-AutoSort.pak","nexusFileId":33166,"metaUuid":null}
 ]},
 "2659":{"nexusModName":"Diamon's Mystic Manual - Ranger Subclasses","nexusUploadedBy":"Backburner26","nexusModId":2659,"paks":[
 {"nexusFileName":"Backburner26 Ranger Subclasses","nexusFileVersion":"1.2","nexusFileUploadedAt":1730811978,"pakFileName":"BB26RangerSubclasses.pak","nexusFileId":77899,"metaUuid":null}
@@ -8820,9 +8820,9 @@
 {"nexusFileName":"RapierPhalarAluve","nexusFileVersion":"1.0.0.1","nexusFileUploadedAt":1695791656,"pakFileName":"RapierPhalarAluve.pak","nexusFileId":18860,"metaUuid":null}
 ]},
 "2696":{"nexusModName":"Arrons Fabulous Stocks - Windrunner Armor and Weapon Set","nexusUploadedBy":"SittinSmoke","nexusModId":2696,"paks":[
-{"nexusFileName":"AFSWindrunner","nexusFileVersion":"1.2","pakFileName":"AFSWindrunner.pak","nexusFileId":20015,"metaUuid":null},
-{"nexusFileName":"AFSWindrunner All Weapons do Lightning Damages","nexusFileVersion":"1.2","pakFileName":"AFSWindrunnerLightningWeap.pak","nexusFileId":20303,"metaUuid":null},
-{"nexusFileName":"AFSWindrunner RP Prices (tried)","nexusFileVersion":"1.2","pakFileName":"AFSWindrunner - Nochest.pak","nexusFileId":21730,"metaUuid":null}
+{"nexusFileName":"AFSWindrunner","nexusFileVersion":"1.2","nexusFileUploadedAt":1696259537,"pakFileName":"AFSWindrunner.pak","nexusFileId":20015,"metaUuid":null},
+{"nexusFileName":"AFSWindrunner All Weapons do Lightning Damages","nexusFileVersion":"1.2","nexusFileUploadedAt":1696381007,"pakFileName":"AFSWindrunnerLightningWeap.pak","nexusFileId":20303,"metaUuid":null},
+{"nexusFileName":"AFSWindrunner RP Prices (tried)","nexusFileVersion":"1.2","nexusFileUploadedAt":1696890664,"pakFileName":"AFSWindrunner - Nochest.pak","nexusFileId":21730,"metaUuid":null}
 ]},
 "2698":{"nexusModName":"Blood Of Lathander as a Longsword","nexusUploadedBy":"Shoobaru","nexusModId":2698,"paks":[
 {"nexusFileName":"LongswordBloodOfLathander","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1695788647,"pakFileName":"LongswordBloodOfLathander.pak","nexusFileId":18855,"metaUuid":"4e871438-5ce6-11ee-8c99-0242ac120002"},
@@ -9059,7 +9059,7 @@
 {"nexusFileName":"ArcaneKnight","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1696002263,"pakFileName":"ArcaneKnight.pak","nexusFileId":19409,"metaUuid":null}
 ]},
 "2777":{"nexusModName":"Circle of Stars Druid Subclass (RU)","nexusUploadedBy":"verenitza","nexusModId":2777,"paks":[
-{"nexusFileName":"CircleofStars_RU","nexusFileVersion":"1.0","pakFileName":"CircleofStars_RU.pak","nexusFileId":23051,"metaUuid":null}
+{"nexusFileName":"CircleofStars_RU","nexusFileVersion":"1.0","nexusFileUploadedAt":1697367427,"pakFileName":"CircleofStars_RU.pak","nexusFileId":23051,"metaUuid":null}
 ]},
 "2779":{"nexusModName":"Toggleable Zaith'isk Awakened Passive","nexusUploadedBy":"tempvee","nexusModId":2779,"paks":[
 {"nexusFileName":"Toggleable Zaith'isk Awakened Passive","nexusFileVersion":"1.1","nexusFileUploadedAt":1696121989,"pakFileName":"AwakenedToggle.pak","nexusFileId":19684,"metaUuid":null},
@@ -9080,21 +9080,21 @@
 {"nexusFileName":"Varscona","nexusFileVersion":"1.0.2.0","nexusFileUploadedAt":1744945834,"pakFileName":"Varscona.pak","nexusFileId":89463,"metaUuid":"fa9b4dce-439c-11ee-be56-0242ac120002"}
 ]},
 "2786":{"nexusModName":"Mystic Class","nexusUploadedBy":"Xhevo","nexusModId":2786,"paks":[
-{"nexusFileName":"Double Resources for Mystic Class-CompatFramework","nexusFileVersion":"2.3","pakFileName":"MysticDoublePsiPoints.pak","nexusFileId":34602,"metaUuid":"814f4bf4-4f61-4860-bd8e-a10e763cce5a"},
-{"nexusFileName":"Mystic Godmode-CompatFramework","nexusFileVersion":"1.0","pakFileName":"MysticGodmode.pak","nexusFileId":34603,"metaUuid":null},
-{"nexusFileName":"Mystic Gear Tutorial Chest","nexusFileVersion":"3.1.0","pakFileName":"MysticGearTutorialChest.pak","nexusFileId":53872,"metaUuid":"ed3ab6fa-5642-4104-bc90-fc71273d262d"},
-{"nexusFileName":"Mystic Feat Every 2 Levels","nexusFileVersion":"1.0.0.1","pakFileName":"MysticFeatEvery2Levels_04435390-fb79-b93a-7b57-fe0de938d775.pak","nexusFileId":70726,"metaUuid":"04435390-fb79-b93a-7b57-fe0de938d775"},
-{"nexusFileName":"Mystic Feat Every Level","nexusFileVersion":"1.0.0.1","pakFileName":"MysticFeatEvery1Level_effd1ad1-2df1-c5af-6fdf-63697e81082f.pak","nexusFileId":70727,"metaUuid":null},
-{"nexusFileName":"Mystic Double Resources","nexusFileVersion":"1.0.0.1","pakFileName":"MysticDoubleResources_7637d00e-c6a1-7a6e-62f0-a98700c745a2.pak","nexusFileId":70728,"metaUuid":"7637d00e-c6a1-7a6e-62f0-a98700c745a2"},
-{"nexusFileName":"Mystic Infinite Resources","nexusFileVersion":"1.0.0.1","pakFileName":"MysticInfiniteResources_d1d9f629-fe41-f790-bfd0-8e06f85e2d1e.pak","nexusFileId":70729,"metaUuid":"d1d9f629-fe41-f790-bfd0-8e06f85e2d1e"},
-{"nexusFileName":"Mystic Origin Feat","nexusFileVersion":"1.0.0.1","pakFileName":"MysticOriginFeat_77925c10-0df3-1470-37e5-b85d4a7da1ca.pak","nexusFileId":74718,"metaUuid":null},
-{"nexusFileName":"Mystic Class","nexusFileVersion":"4.3.1.1","pakFileName":"MysticClass_93c6116d-631a-cdc4-c0d3-37c568de4b76.pak","nexusFileId":88910,"metaUuid":"93c6116d-631a-cdc4-c0d3-37c568de4b76"},
-{"nexusFileName":"Mystic Expansion","nexusFileVersion":"1.6.0.17","pakFileName":"MysticExpansion_c86cc191-c41e-cfcd-af57-bf1f1e29d76a.pak","nexusFileId":88911,"metaUuid":"c86cc191-c41e-cfcd-af57-bf1f1e29d76a"}
+{"nexusFileName":"Double Resources for Mystic Class-CompatFramework","nexusFileVersion":"2.3","nexusFileUploadedAt":1702595782,"pakFileName":"MysticDoublePsiPoints.pak","nexusFileId":34602,"metaUuid":"814f4bf4-4f61-4860-bd8e-a10e763cce5a"},
+{"nexusFileName":"Mystic Godmode-CompatFramework","nexusFileVersion":"1.0","nexusFileUploadedAt":1702595858,"pakFileName":"MysticGodmode.pak","nexusFileId":34603,"metaUuid":null},
+{"nexusFileName":"Mystic Gear Tutorial Chest","nexusFileVersion":"3.1.0","nexusFileUploadedAt":1713211229,"pakFileName":"MysticGearTutorialChest.pak","nexusFileId":53872,"metaUuid":"ed3ab6fa-5642-4104-bc90-fc71273d262d"},
+{"nexusFileName":"Mystic Feat Every 2 Levels","nexusFileVersion":"1.0.0.1","nexusFileUploadedAt":1726173163,"pakFileName":"MysticFeatEvery2Levels_04435390-fb79-b93a-7b57-fe0de938d775.pak","nexusFileId":70726,"metaUuid":"04435390-fb79-b93a-7b57-fe0de938d775"},
+{"nexusFileName":"Mystic Feat Every Level","nexusFileVersion":"1.0.0.1","nexusFileUploadedAt":1726173193,"pakFileName":"MysticFeatEvery1Level_effd1ad1-2df1-c5af-6fdf-63697e81082f.pak","nexusFileId":70727,"metaUuid":null},
+{"nexusFileName":"Mystic Double Resources","nexusFileVersion":"1.0.0.1","nexusFileUploadedAt":1726173245,"pakFileName":"MysticDoubleResources_7637d00e-c6a1-7a6e-62f0-a98700c745a2.pak","nexusFileId":70728,"metaUuid":"7637d00e-c6a1-7a6e-62f0-a98700c745a2"},
+{"nexusFileName":"Mystic Infinite Resources","nexusFileVersion":"1.0.0.1","nexusFileUploadedAt":1726173292,"pakFileName":"MysticInfiniteResources_d1d9f629-fe41-f790-bfd0-8e06f85e2d1e.pak","nexusFileId":70729,"metaUuid":"d1d9f629-fe41-f790-bfd0-8e06f85e2d1e"},
+{"nexusFileName":"Mystic Origin Feat","nexusFileVersion":"1.0.0.1","nexusFileUploadedAt":1728505630,"pakFileName":"MysticOriginFeat_77925c10-0df3-1470-37e5-b85d4a7da1ca.pak","nexusFileId":74718,"metaUuid":null},
+{"nexusFileName":"Mystic Class","nexusFileVersion":"4.3.1.1","nexusFileUploadedAt":1744731562,"pakFileName":"MysticClass_93c6116d-631a-cdc4-c0d3-37c568de4b76.pak","nexusFileId":88910,"metaUuid":"93c6116d-631a-cdc4-c0d3-37c568de4b76"},
+{"nexusFileName":"Mystic Expansion","nexusFileVersion":"1.6.0.17","nexusFileUploadedAt":1744731607,"pakFileName":"MysticExpansion_c86cc191-c41e-cfcd-af57-bf1f1e29d76a.pak","nexusFileId":88911,"metaUuid":"c86cc191-c41e-cfcd-af57-bf1f1e29d76a"}
 ]},
 "2790":{"nexusModName":"Better Topbar","nexusUploadedBy":"Caites","nexusModId":2790,"paks":[
-{"nexusFileName":"Better Topbar 16 to 10","nexusFileVersion":"1.2.9","pakFileName":"BetterTopbaronesixten_86777f82-576a-bd65-85af-35dd1fed5362.pak","nexusFileId":88964,"metaUuid":"86777f82-576a-bd65-85af-35dd1fed5362"},
-{"nexusFileName":"Better Topbar UW","nexusFileVersion":"1.2.9","pakFileName":"BetterTopbarUW_e5a93242-28c0-cd0b-a535-57f8dfc4fac5.pak","nexusFileId":88965,"metaUuid":"e5a93242-28c0-cd0b-a535-57f8dfc4fac5"},
-{"nexusFileName":"Better Topbar 16 to 9","nexusFileVersion":"1.2.9","pakFileName":"BetterTopbar_d9582df8-6eef-a756-117f-965e22007ff6.pak","nexusFileId":88966,"metaUuid":"d9582df8-6eef-a756-117f-965e22007ff6"}
+{"nexusFileName":"Better Topbar 16 to 10","nexusFileVersion":"1.2.9","nexusFileUploadedAt":1744745136,"pakFileName":"BetterTopbaronesixten_86777f82-576a-bd65-85af-35dd1fed5362.pak","nexusFileId":88964,"metaUuid":"86777f82-576a-bd65-85af-35dd1fed5362"},
+{"nexusFileName":"Better Topbar UW","nexusFileVersion":"1.2.9","nexusFileUploadedAt":1744745153,"pakFileName":"BetterTopbarUW_e5a93242-28c0-cd0b-a535-57f8dfc4fac5.pak","nexusFileId":88965,"metaUuid":"e5a93242-28c0-cd0b-a535-57f8dfc4fac5"},
+{"nexusFileName":"Better Topbar 16 to 9","nexusFileVersion":"1.2.9","nexusFileUploadedAt":1744745191,"pakFileName":"BetterTopbar_d9582df8-6eef-a756-117f-965e22007ff6.pak","nexusFileId":88966,"metaUuid":"d9582df8-6eef-a756-117f-965e22007ff6"}
 ]},
 "2792":{"nexusModName":"Revised Thrown Weapons","nexusUploadedBy":"grynner","nexusModId":2792,"paks":[
 {"nexusFileName":"Revised Thrown Weapons","nexusFileVersion":"1.0","nexusFileUploadedAt":1696083052,"pakFileName":"ThrownPack.pak","nexusFileId":19564,"metaUuid":null}
@@ -10313,16 +10313,16 @@
 {"nexusFileName":"Ring of Kobold Summoning","nexusFileVersion":"1.1.0","nexusFileUploadedAt":1729632243,"pakFileName":"Kobold_Spawn_Ring.pak","nexusFileId":76278,"metaUuid":null}
 ]},
 "3154":{"nexusModName":"Restorable Inspiration Points - With maximum value changed to unlimited or other","nexusUploadedBy":"MaskedRPGFan","nexusModId":3154,"paks":[
-{"nexusFileName":"Restorable Inspiration Points - A","nexusFileVersion":"1.0.0","pakFileName":"Restorable Inspiration Points.pak","nexusFileId":21928,"metaUuid":null},
-{"nexusFileName":"Restorable Inspiration Points - B","nexusFileVersion":"1.0.0","pakFileName":"Restorable Inspiration Points.pak","nexusFileId":21929,"metaUuid":null},
-{"nexusFileName":"Restorable Inspiration Points - Max value - A","nexusFileVersion":"1.0.0","pakFileName":"Restorable Inspiration Points - Max value.pak","nexusFileId":21930,"metaUuid":null},
-{"nexusFileName":"Restorable Inspiration Points - Max value - B","nexusFileVersion":"1.0.0","pakFileName":"Restorable Inspiration Points - Max value.pak","nexusFileId":21931,"metaUuid":null},
-{"nexusFileName":"Restorable Inspiration Points - Max value - C","nexusFileVersion":"1.0.0","pakFileName":"Restorable Inspiration Points - Max value.pak","nexusFileId":21932,"metaUuid":null},
-{"nexusFileName":"Restorable Inspiration Points - Max value - D","nexusFileVersion":"1.0.0","pakFileName":"Restorable Inspiration Points - Max value.pak","nexusFileId":21933,"metaUuid":null},
-{"nexusFileName":"Restorable Inspiration Points - Max value - E","nexusFileVersion":"1.0.0","pakFileName":"Restorable Inspiration Points - Max value.pak","nexusFileId":21934,"metaUuid":null},
-{"nexusFileName":"Restorable Inspiration Points - Max value - F","nexusFileVersion":"1.0.0","pakFileName":"Restorable Inspiration Points - Max value.pak","nexusFileId":21935,"metaUuid":null},
-{"nexusFileName":"Restorable Inspiration Points - Max value - G","nexusFileVersion":"1.0.0","pakFileName":"Restorable Inspiration Points - Max value.pak","nexusFileId":21936,"metaUuid":null},
-{"nexusFileName":"Restorable Inspiration Points - C","nexusFileVersion":"1.0.0","pakFileName":"Restorable Inspiration Points.pak","nexusFileId":21942,"metaUuid":null}
+{"nexusFileName":"Restorable Inspiration Points - A","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1696964996,"pakFileName":"Restorable Inspiration Points.pak","nexusFileId":21928,"metaUuid":null},
+{"nexusFileName":"Restorable Inspiration Points - B","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1696965017,"pakFileName":"Restorable Inspiration Points.pak","nexusFileId":21929,"metaUuid":null},
+{"nexusFileName":"Restorable Inspiration Points - Max value - A","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1696965162,"pakFileName":"Restorable Inspiration Points - Max value.pak","nexusFileId":21930,"metaUuid":null},
+{"nexusFileName":"Restorable Inspiration Points - Max value - B","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1696965865,"pakFileName":"Restorable Inspiration Points - Max value.pak","nexusFileId":21931,"metaUuid":null},
+{"nexusFileName":"Restorable Inspiration Points - Max value - C","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1696965884,"pakFileName":"Restorable Inspiration Points - Max value.pak","nexusFileId":21932,"metaUuid":null},
+{"nexusFileName":"Restorable Inspiration Points - Max value - D","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1696965901,"pakFileName":"Restorable Inspiration Points - Max value.pak","nexusFileId":21933,"metaUuid":null},
+{"nexusFileName":"Restorable Inspiration Points - Max value - E","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1696965920,"pakFileName":"Restorable Inspiration Points - Max value.pak","nexusFileId":21934,"metaUuid":null},
+{"nexusFileName":"Restorable Inspiration Points - Max value - F","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1696965936,"pakFileName":"Restorable Inspiration Points - Max value.pak","nexusFileId":21935,"metaUuid":null},
+{"nexusFileName":"Restorable Inspiration Points - Max value - G","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1696965954,"pakFileName":"Restorable Inspiration Points - Max value.pak","nexusFileId":21936,"metaUuid":null},
+{"nexusFileName":"Restorable Inspiration Points - C","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1696969942,"pakFileName":"Restorable Inspiration Points.pak","nexusFileId":21942,"metaUuid":null}
 ]},
 "3155":{"nexusModName":"Wizard Traditions - Runesmith French translate","nexusUploadedBy":"fenrules","nexusModId":3155,"paks":[
 {"nexusFileName":"FFT_WizardTraditions_RunesmithFr.pak","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1696971284,"pakFileName":"FFT_WizardTraditions_RunesmithFr.pak","nexusFileId":21943,"metaUuid":null}
@@ -10657,10 +10657,10 @@
 {"nexusFileName":"Evil Braid","nexusFileVersion":"1.0","nexusFileUploadedAt":1706149142,"pakFileName":"Bardic Braid Remake E.pak","nexusFileId":41584,"metaUuid":null}
 ]},
 "3248":{"nexusModName":"Rings of Power Word Kill","nexusUploadedBy":"ChiefJohua","nexusModId":3248,"paks":[
-{"nexusFileName":"Ring of Godly Power Word Kill 1.5","nexusFileVersion":"1.5","pakFileName":"RingofGodlyPowerWordKill.pak","nexusFileId":23817,"metaUuid":null},
-{"nexusFileName":"Ring of Godly Power Word Multi-Kill 1.5","nexusFileVersion":"1.5","pakFileName":"RingofGodlyPowerWordMultiKill.pak","nexusFileId":23819,"metaUuid":"12345678-1234-1234-1234-123456789004"},
-{"nexusFileName":"Ring of Power Word Kill (Long Rest) 1.5","nexusFileVersion":"1.5","pakFileName":"RingofPowerWordKill(Long Rest).pak","nexusFileId":23820,"metaUuid":null},
-{"nexusFileName":"Ring of Power Word Kill 1.5","nexusFileVersion":"1.5","pakFileName":"RingofPowerWordKill.pak","nexusFileId":23821,"metaUuid":"12345678-1234-1234-1234-123456789001"}
+{"nexusFileName":"Ring of Godly Power Word Kill 1.5","nexusFileVersion":"1.5","nexusFileUploadedAt":1697619430,"pakFileName":"RingofGodlyPowerWordKill.pak","nexusFileId":23817,"metaUuid":null},
+{"nexusFileName":"Ring of Godly Power Word Multi-Kill 1.5","nexusFileVersion":"1.5","nexusFileUploadedAt":1697619474,"pakFileName":"RingofGodlyPowerWordMultiKill.pak","nexusFileId":23819,"metaUuid":"12345678-1234-1234-1234-123456789004"},
+{"nexusFileName":"Ring of Power Word Kill (Long Rest) 1.5","nexusFileVersion":"1.5","nexusFileUploadedAt":1697619518,"pakFileName":"RingofPowerWordKill(Long Rest).pak","nexusFileId":23820,"metaUuid":null},
+{"nexusFileName":"Ring of Power Word Kill 1.5","nexusFileVersion":"1.5","nexusFileUploadedAt":1697619561,"pakFileName":"RingofPowerWordKill.pak","nexusFileId":23821,"metaUuid":"12345678-1234-1234-1234-123456789001"}
 ]},
 "3249":{"nexusModName":"See Invisibility For Hag-Eyed","nexusUploadedBy":"ghouliish","nexusModId":3249,"paks":[
 {"nexusFileName":"Hag's Eye","nexusFileVersion":"1","nexusFileUploadedAt":1697226055,"pakFileName":"EthelBuff.pak","nexusFileId":22735,"metaUuid":null}
@@ -11748,7 +11748,7 @@
 {"nexusFileName":"Shadow Sorcerer - Subclass Ita","nexusFileVersion":"1.0","nexusFileUploadedAt":1698283873,"pakFileName":"BG3ShadowSorcererIta.pak","nexusFileId":25129,"metaUuid":null}
 ]},
 "3647":{"nexusModName":"Angel (Wings) ITA","nexusUploadedBy":"ogugght","nexusModId":3647,"paks":[
-{"nexusFileName":"Ali Ita","nexusFileVersion":"1.0","pakFileName":"Angel Wings with fly and float EffectIta.pak","nexusFileId":25130,"metaUuid":null}
+{"nexusFileName":"Ali Ita","nexusFileVersion":"1.0","nexusFileUploadedAt":1698284973,"pakFileName":"Angel Wings with fly and float EffectIta.pak","nexusFileId":25130,"metaUuid":null}
 ]},
 "3648":{"nexusModName":"Glowing Eyes Ita","nexusUploadedBy":"ogugght","nexusModId":3648,"paks":[
 {"nexusFileName":"Glowing Eyes Ita","nexusFileVersion":"1.0","nexusFileUploadedAt":1698285438,"pakFileName":"Glowing EyesIta.pak","nexusFileId":25133,"metaUuid":null}
@@ -12537,7 +12537,7 @@
 {"nexusFileName":"The Enlightened Ring","nexusFileVersion":"1.1","nexusFileUploadedAt":1699949913,"pakFileName":"TheEnlightened.pak","nexusFileId":28367,"metaUuid":null}
 ]},
 "3951":{"nexusModName":"Ring of Haste Ita","nexusUploadedBy":"ogugght","nexusModId":3951,"paks":[
-{"nexusFileName":"Ring of Haste Ita","nexusFileVersion":"1.1","pakFileName":"Bugbears RingIta.pak","nexusFileId":27126,"metaUuid":null}
+{"nexusFileName":"Ring of Haste Ita","nexusFileVersion":"1.1","nexusFileUploadedAt":1699296314,"pakFileName":"Bugbears RingIta.pak","nexusFileId":27126,"metaUuid":null}
 ]},
 "3953":{"nexusModName":"Vicar Humbletoes sells poutine","nexusUploadedBy":"Samuelzila","nexusModId":3953,"paks":[
 {"nexusFileName":"Vicar Humbletoes sells poutine","nexusFileVersion":"1.0","nexusFileUploadedAt":1699099104,"pakFileName":"Vicar Humbletoes sells poutine.pak","nexusFileId":26773,"metaUuid":null}
@@ -14938,9 +14938,9 @@
 {"nexusFileName":"100 Percent Chance","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1701457814,"pakFileName":"ViciousMockeryDisarms.pak","nexusFileId":31789,"metaUuid":"2f8baf30-a8c9-4078-b9a3-8556227ba174"}
 ]},
 "4743":{"nexusModName":"Honour Features Unlocker","nexusUploadedBy":"Lightboom","nexusModId":4743,"paks":[
-{"nexusFileName":"Honour Features Unlocker - Treasure table","nexusFileVersion":"1.0","pakFileName":"HonourFeaturesUnlockerTreasureTable.pak","nexusFileId":31798,"metaUuid":null},
-{"nexusFileName":"Honour Features Unlocker","nexusFileVersion":"1.5.0","pakFileName":"HonourFeaturesUnlocker.pak","nexusFileId":49067,"metaUuid":"0e6d5cd8-5755-4919-b44d-0a22c3f7cadd"},
-{"nexusFileName":"Honour Nerfs Reversal","nexusFileVersion":"1.1.0","pakFileName":"HonourNerfsReversal.pak","nexusFileId":49068,"metaUuid":null}
+{"nexusFileName":"Honour Features Unlocker - Treasure table","nexusFileVersion":"1.0","nexusFileUploadedAt":1701459238,"pakFileName":"HonourFeaturesUnlockerTreasureTable.pak","nexusFileId":31798,"metaUuid":null},
+{"nexusFileName":"Honour Features Unlocker","nexusFileVersion":"1.5.0","nexusFileUploadedAt":1709946398,"pakFileName":"HonourFeaturesUnlocker.pak","nexusFileId":49067,"metaUuid":"0e6d5cd8-5755-4919-b44d-0a22c3f7cadd"},
+{"nexusFileName":"Honour Nerfs Reversal","nexusFileVersion":"1.1.0","nexusFileUploadedAt":1709946423,"pakFileName":"HonourNerfsReversal.pak","nexusFileId":49068,"metaUuid":null}
 ]},
 "4744":{"nexusModName":"Emotes - Poses and Toggle Walk","nexusUploadedBy":"claravel","nexusModId":4744,"paks":[
 {"nexusFileName":"Emotes - Vicious Mockery Replacer","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1701982442,"pakFileName":"EmotesViciousMockeryReplacer.pak","nexusFileId":33204,"metaUuid":null},
@@ -15463,7 +15463,7 @@
 {"nexusFileName":"ArcaneArcher5E FR","nexusFileVersion":"2.6.0","nexusFileUploadedAt":1720202241,"pakFileName":"ArcaneArcher5e FR.pak","nexusFileId":63149,"metaUuid":null}
 ]},
 "4939":{"nexusModName":"Druid Perfection","nexusUploadedBy":"Syrchalis","nexusModId":4939,"paks":[
-{"nexusFileName":"Druid Perfection","nexusFileVersion":"1.2.6","pakFileName":"Druid_Perfection.pak","nexusFileId":121675,"metaUuid":"55249f39-faa9-4e51-a36c-0ac6560d8a0c"}
+{"nexusFileName":"Druid Perfection","nexusFileVersion":"1.2.6","nexusFileUploadedAt":1779195498,"pakFileName":"Druid_Perfection.pak","nexusFileId":121675,"metaUuid":"55249f39-faa9-4e51-a36c-0ac6560d8a0c"}
 ]},
 "4942":{"nexusModName":"Shut Up Arcane Ward","nexusUploadedBy":"Lynstence","nexusModId":4942,"paks":[
 {"nexusFileName":"ShutUpArcaneWard","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1701933383,"pakFileName":"ShutUpArcaneWard.pak","nexusFileId":33105,"metaUuid":null}
@@ -16620,8 +16620,8 @@
 {"nexusFileName":"Plus Feats - Base","nexusFileVersion":"1.0.1","nexusFileUploadedAt":1703405419,"pakFileName":"Plus Feats - Base.pak","nexusFileId":36022,"metaUuid":null}
 ]},
 "5285":{"nexusModName":"Transgender Minthara","nexusUploadedBy":"Aether","nexusModId":5285,"paks":[
-{"nexusFileName":"Transgender Minthara - Circumcised","nexusFileVersion":"1.1","pakFileName":"TransgenderMintharaCircumcised.pak","nexusFileId":55521,"metaUuid":null},
-{"nexusFileName":"Transgender Minthara - Uncircumcised","nexusFileVersion":"1.1","pakFileName":"TransgenderMintharaUncircumcised.pak","nexusFileId":55522,"metaUuid":null}
+{"nexusFileName":"Transgender Minthara - Circumcised","nexusFileVersion":"1.1","nexusFileUploadedAt":1714557287,"pakFileName":"TransgenderMintharaCircumcised.pak","nexusFileId":55521,"metaUuid":null},
+{"nexusFileName":"Transgender Minthara - Uncircumcised","nexusFileVersion":"1.1","nexusFileUploadedAt":1714557314,"pakFileName":"TransgenderMintharaUncircumcised.pak","nexusFileId":55522,"metaUuid":null}
 ]},
 "5287":{"nexusModName":"Night's Watch GERMAN","nexusUploadedBy":"Grabgeboren","nexusModId":5287,"paks":[
 {"nexusFileName":"Nachtwache","nexusFileVersion":"1.1","nexusFileUploadedAt":1744309988,"pakFileName":"Nachtwache.pak","nexusFileId":88627,"metaUuid":null}
@@ -16831,15 +16831,15 @@
 {"nexusFileName":"Jaheira's Superior Belm 1d6 Version","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1708252056,"pakFileName":"Jaheira's Superior Belm 1d6.pak","nexusFileId":45309,"metaUuid":"56bcab0f-a29d-451d-9a42-2b9330167ddd"}
 ]},
 "5331":{"nexusModName":"Clean and hot Archduke Gortash","nexusUploadedBy":"Nyra072","nexusModId":5331,"paks":[
-{"nexusFileName":"v2 - Hair clothes skin eyes (brown hair)","nexusFileVersion":"2.1","pakFileName":"Gortash_Hot_Clothes_Hair_EyesSkin_brown.pak","nexusFileId":43579,"metaUuid":null},
-{"nexusFileName":"v2 - Hair clothes skin eyes (black hair)","nexusFileVersion":"2.1","pakFileName":"Gortash_Hot_Clothes_Hair_EyesSkin.pak","nexusFileId":43580,"metaUuid":null},
-{"nexusFileName":"v1 - Clothes skin eyes","nexusFileVersion":"1.2","pakFileName":"Gortash_Hot_Clothes_EyesSkin.pak","nexusFileId":43581,"metaUuid":null},
-{"nexusFileName":"v1 - Skin eyes","nexusFileVersion":"1.2","pakFileName":"Gortash_Hot_EyesSkin.pak","nexusFileId":43582,"metaUuid":null},
-{"nexusFileName":"v2 - Clothes only","nexusFileVersion":"1.1","pakFileName":"Gortash_Hot_Clothes.pak","nexusFileId":43819,"metaUuid":null},
-{"nexusFileName":"v2 - Clothes skin eyes (brown hair)","nexusFileVersion":"1.1","pakFileName":"Gortash_Hot_Clothes_EyesSkin_brown.pak","nexusFileId":48017,"metaUuid":null},
-{"nexusFileName":"v2 - Clothes skin eyes (black hair)","nexusFileVersion":"1.1","pakFileName":"Gortash_Hot_Clothes_EyesSkin.pak","nexusFileId":48022,"metaUuid":null},
-{"nexusFileName":"v1 - Hair skin eyes (black hair)","nexusFileVersion":"1.3","pakFileName":"Gortash_Hot_Hair_EyesSkin.pak","nexusFileId":90632,"metaUuid":null},
-{"nexusFileName":"v1 - Hair skin eyes (brown hair)","nexusFileVersion":"1.3","pakFileName":"Gortash_Hot_Hair_EyesSkin_brown.pak","nexusFileId":90633,"metaUuid":null}
+{"nexusFileName":"v2 - Hair clothes skin eyes (brown hair)","nexusFileVersion":"2.1","nexusFileUploadedAt":1707323109,"pakFileName":"Gortash_Hot_Clothes_Hair_EyesSkin_brown.pak","nexusFileId":43579,"metaUuid":null},
+{"nexusFileName":"v2 - Hair clothes skin eyes (black hair)","nexusFileVersion":"2.1","nexusFileUploadedAt":1707323153,"pakFileName":"Gortash_Hot_Clothes_Hair_EyesSkin.pak","nexusFileId":43580,"metaUuid":null},
+{"nexusFileName":"v1 - Clothes skin eyes","nexusFileVersion":"1.2","nexusFileUploadedAt":1707323207,"pakFileName":"Gortash_Hot_Clothes_EyesSkin.pak","nexusFileId":43581,"metaUuid":null},
+{"nexusFileName":"v1 - Skin eyes","nexusFileVersion":"1.2","nexusFileUploadedAt":1707323252,"pakFileName":"Gortash_Hot_EyesSkin.pak","nexusFileId":43582,"metaUuid":null},
+{"nexusFileName":"v2 - Clothes only","nexusFileVersion":"1.1","nexusFileUploadedAt":1707413758,"pakFileName":"Gortash_Hot_Clothes.pak","nexusFileId":43819,"metaUuid":null},
+{"nexusFileName":"v2 - Clothes skin eyes (brown hair)","nexusFileVersion":"1.1","nexusFileUploadedAt":1709507436,"pakFileName":"Gortash_Hot_Clothes_EyesSkin_brown.pak","nexusFileId":48017,"metaUuid":null},
+{"nexusFileName":"v2 - Clothes skin eyes (black hair)","nexusFileVersion":"1.1","nexusFileUploadedAt":1709510531,"pakFileName":"Gortash_Hot_Clothes_EyesSkin.pak","nexusFileId":48022,"metaUuid":null},
+{"nexusFileName":"v1 - Hair skin eyes (black hair)","nexusFileVersion":"1.3","nexusFileUploadedAt":1745605858,"pakFileName":"Gortash_Hot_Hair_EyesSkin.pak","nexusFileId":90632,"metaUuid":null},
+{"nexusFileName":"v1 - Hair skin eyes (brown hair)","nexusFileVersion":"1.3","nexusFileUploadedAt":1745605934,"pakFileName":"Gortash_Hot_Hair_EyesSkin_brown.pak","nexusFileId":90633,"metaUuid":null}
 ]},
 "5334":{"nexusModName":"Cambion and Gith Armor","nexusUploadedBy":"Cerberry","nexusModId":5334,"paks":[
 {"nexusFileName":"Cambion and Gith Armor","nexusFileVersion":"1.5","nexusFileUploadedAt":1723909883,"pakFileName":"CBR_Cambion_Gith.pak","nexusFileId":67404,"metaUuid":"e2c1d1ff-e993-4cfb-9ec6-39535ea4cfae"},
@@ -19263,7 +19263,7 @@
 {"nexusFileName":"Tutorial Chest Summoning - Korean Translation","nexusFileVersion":"2.8-KR-1.0","nexusFileUploadedAt":1705842394,"pakFileName":"TutorialChestSummoning-KR.pak","nexusFileId":41099,"metaUuid":"e99c8a6a-4bd7-4d78-b2d5-0687f9e82065"}
 ]},
 "6095":{"nexusModName":"Ryn's No Spell Prep Patches","nexusUploadedBy":"itsVyras","nexusModId":6095,"paks":[
-{"nexusFileName":"Dimension Traveler - No Spell Prep","nexusFileVersion":"1","pakFileName":"Dimension Traveler - No Spell Prep.pak","nexusFileId":41120,"metaUuid":null}
+{"nexusFileName":"Dimension Traveler - No Spell Prep","nexusFileVersion":"1","nexusFileUploadedAt":1705853548,"pakFileName":"Dimension Traveler - No Spell Prep.pak","nexusFileId":41120,"metaUuid":null}
 ]},
 "6096":{"nexusModName":"Leather Armor Model Improvements","nexusUploadedBy":"EgaoKage","nexusModId":6096,"paks":[
 {"nexusFileName":"Replaces Originals","nexusFileVersion":"1","nexusFileUploadedAt":1705854558,"pakFileName":"Egaokage's_Leather_Knees_[Replace_Originals].pak","nexusFileId":41122,"metaUuid":"7192afb5-e5f3-4ae5-ab15-06b92cb07f88"},
@@ -20166,8 +20166,8 @@
 {"nexusFileName":"Origin Custom Voice - Astarion","nexusFileVersion":"1.1","nexusFileUploadedAt":1728318606,"pakFileName":"Origin Custom Voice - Astarion.pak","nexusFileId":74433,"metaUuid":null}
 ]},
 "6463":{"nexusModName":"UnholyBerserk","nexusUploadedBy":"6eotsu","nexusModId":6463,"paks":[
-{"nexusFileName":"Nor - Immersion version","nexusFileVersion":"1.0.0.0","pakFileName":"UnholyBerserk.pak","nexusFileId":43125,"metaUuid":null},
-{"nexusFileName":"Nor - Tutorial version","nexusFileVersion":"1.0.0.0","pakFileName":"UnholyBerserk.pak","nexusFileId":43126,"metaUuid":null}
+{"nexusFileName":"Nor - Immersion version","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1707048238,"pakFileName":"UnholyBerserk.pak","nexusFileId":43125,"metaUuid":null},
+{"nexusFileName":"Nor - Tutorial version","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1707048346,"pakFileName":"UnholyBerserk.pak","nexusFileId":43126,"metaUuid":null}
 ]},
 "6465":{"nexusModName":"Energy Sword - Halo","nexusUploadedBy":"Palmaman33","nexusModId":6465,"paks":[
 {"nexusFileName":"Energy sword","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1707051503,"pakFileName":"P33_HaloEnergySword.pak","nexusFileId":43139,"metaUuid":"54a59d7f-f06e-4d78-aed0-7afdbce56227"}
@@ -20886,7 +20886,7 @@
 {"nexusFileName":"Rebalance_lvl_2_spells_ES","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1707943270,"pakFileName":"Rebalance_Lvl2_SpellsESES.pak","nexusFileId":44675,"metaUuid":null}
 ]},
 "6782":{"nexusModName":"Rebalance - Level 3 Spells Spanish translation","nexusUploadedBy":"uziel1978","nexusModId":6782,"paks":[
-{"nexusFileName":"Rebalance_lvl_3_spells_ES","nexusFileVersion":"1.0.0.0","pakFileName":"Rebalance_Lvl3_SpellsESES.pak","nexusFileId":44676,"metaUuid":null}
+{"nexusFileName":"Rebalance_lvl_3_spells_ES","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1707943590,"pakFileName":"Rebalance_Lvl3_SpellsESES.pak","nexusFileId":44676,"metaUuid":null}
 ]},
 "6783":{"nexusModName":"Faerun Colors ( Dye and color sets) Korean Translation (KR)","nexusUploadedBy":"goodtoast","nexusModId":6783,"paks":[
 {"nexusFileName":"FaerunColors KR","nexusFileVersion":"1.6.7.0","nexusFileUploadedAt":1757073982,"pakFileName":"FaerunColors KR.pak","nexusFileId":102118,"metaUuid":null}
@@ -21264,7 +21264,7 @@
 {"nexusFileName":"Fancy Camp Clothes","nexusFileVersion":"1.1.0.1","nexusFileUploadedAt":1727616016,"pakFileName":"PTW_Camp_Gear.pak","nexusFileId":73222,"metaUuid":"9200b207-328e-4432-98e8-88a6cd735511"}
 ]},
 "6920":{"nexusModName":"Edgy Dulcet refits","nexusUploadedBy":"firebird71","nexusModId":6920,"paks":[
-{"nexusFileName":"Mes Edgy Refits","nexusFileVersion":"1.0","pakFileName":"Edgy fit for edgelords.pak","nexusFileId":45376,"metaUuid":null}
+{"nexusFileName":"Mes Edgy Refits","nexusFileVersion":"1.0","nexusFileUploadedAt":1708277833,"pakFileName":"Edgy fit for edgelords.pak","nexusFileId":45376,"metaUuid":null}
 ]},
 "6921":{"nexusModName":"Barbarian Unleashed Axe","nexusUploadedBy":"MaestroMetty","nexusModId":6921,"paks":[
 {"nexusFileName":"BarbarianUnleashedAxe","nexusFileVersion":"1.0.1.0","nexusFileUploadedAt":1713364199,"pakFileName":"BarbarianUnleashed.pak","nexusFileId":54064,"metaUuid":null},
@@ -21874,7 +21874,7 @@
 {"nexusFileName":"Russian_WK_WeaverKnight","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1708924484,"pakFileName":"Russian_WK_WeaverKnight.pak","nexusFileId":46685,"metaUuid":null}
 ]},
 "7174":{"nexusModName":"Teleport Party To You Spell - Russian Translation","nexusUploadedBy":"darthalex2014","nexusModId":7174,"paks":[
-{"nexusFileName":"Teleport_To_You_Russian","nexusFileVersion":"1.0.0","pakFileName":"Teleport_To_You_Russian.pak","nexusFileId":46690,"metaUuid":null}
+{"nexusFileName":"Teleport_To_You_Russian","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1708927013,"pakFileName":"Teleport_To_You_Russian.pak","nexusFileId":46690,"metaUuid":null}
 ]},
 "7175":{"nexusModName":"NewClass-Punish","nexusUploadedBy":"shenyixxxx","nexusModId":7175,"paks":[
 {"nexusFileName":"Punish","nexusFileVersion":"1.01.6","nexusFileUploadedAt":1712222582,"pakFileName":"Punish.pak","nexusFileId":52546,"metaUuid":null}
@@ -25634,7 +25634,7 @@
 {"nexusFileName":"Encounters Overhaul Spanish","nexusFileVersion":"4.0.0.1","nexusFileUploadedAt":1722919362,"pakFileName":"EncountersOverhaulEs.pak","nexusFileId":66366,"metaUuid":null}
 ]},
 "8678":{"nexusModName":"Essential Feats Spanish","nexusUploadedBy":"SoraGodFallen","nexusModId":8678,"paks":[
-{"nexusFileName":"Essential Feats Spanish","nexusFileVersion":"1.0","pakFileName":"Essential_FeatsEs.pak","nexusFileId":53432,"metaUuid":null}
+{"nexusFileName":"Essential Feats Spanish","nexusFileVersion":"1.0","nexusFileUploadedAt":1712824427,"pakFileName":"Essential_FeatsEs.pak","nexusFileId":53432,"metaUuid":null}
 ]},
 "8679":{"nexusModName":"Feats Extra Spanish","nexusUploadedBy":"SoraGodFallen","nexusModId":8679,"paks":[
 {"nexusFileName":"Feats Extra Spanish","nexusFileVersion":"1.58","nexusFileUploadedAt":1720653738,"pakFileName":"featsextraEs.pak","nexusFileId":63667,"metaUuid":null}
@@ -27907,7 +27907,7 @@
 {"nexusFileName":"Dr. Kekyll's Grappling Framework Spanish","nexusFileVersion":"1.2.0.5","nexusFileUploadedAt":1716011563,"pakFileName":"GrapplingFrameworkEs.pak","nexusFileId":57626,"metaUuid":null}
 ]},
 "9595":{"nexusModName":"Paranoid Reaction extra reaction feat Spanish","nexusUploadedBy":"SoraGodFallen","nexusModId":9595,"paks":[
-{"nexusFileName":"Paranoid Reaction Spanish","nexusFileVersion":"r1","pakFileName":"paranoidreactionEs.pak","nexusFileId":57627,"metaUuid":null}
+{"nexusFileName":"Paranoid Reaction Spanish","nexusFileVersion":"r1","nexusFileUploadedAt":1716011700,"pakFileName":"paranoidreactionEs.pak","nexusFileId":57627,"metaUuid":null}
 ]},
 "9596":{"nexusModName":"Spell combat (War magic as a feat) Spanish","nexusUploadedBy":"SoraGodFallen","nexusModId":9596,"paks":[
 {"nexusFileName":"Spell combat Spanish","nexusFileVersion":"1","nexusFileUploadedAt":1716011822,"pakFileName":"spellcombatEs.pak","nexusFileId":57629,"metaUuid":null}
@@ -29352,7 +29352,7 @@
 {"nexusFileName":"Nightsong Dress BCB Strong","nexusFileVersion":"1.0","nexusFileUploadedAt":1717846572,"pakFileName":"NightsongForEveryone_BCB.pak","nexusFileId":60341,"metaUuid":null}
 ]},
 "10184":{"nexusModName":"5e Fast Hands","nexusUploadedBy":"cuzzymoto","nexusModId":10184,"paks":[
-{"nexusFileName":"Fast Hands Nerf.zip","pakFileName":"Fast Hands Nerf.pak","nexusFileId":60648,"metaUuid":null}
+{"nexusFileName":"Fast Hands Nerf.zip","nexusFileVersion":"1.1.1","nexusFileUploadedAt":1718114887,"pakFileName":"Fast Hands Nerf.pak","nexusFileId":60648,"metaUuid":null}
 ]},
 "10186":{"nexusModName":"Blackguard's Plate Texture Fix","nexusUploadedBy":"tealrabbit19","nexusModId":10186,"paks":[
 {"nexusFileName":"Blackguard's Plate Texture Fix 3.0","nexusFileVersion":"3.0","nexusFileUploadedAt":1721932999,"pakFileName":"BlackguardsPlateFix.pak","nexusFileId":65137,"metaUuid":"07191355-bffb-48ba-8591-64283c675faa"}
@@ -29628,7 +29628,7 @@
 {"nexusFileName":"Ally Only","nexusFileVersion":"1.0","nexusFileUploadedAt":1770292318,"pakFileName":"Spells Enhanced - Crusaders Mantle - Ally only.pak","nexusFileId":114175,"metaUuid":null}
 ]},
 "10284":{"nexusModName":"Organizational Chests","nexusUploadedBy":"SansHelvetica","nexusModId":10284,"paks":[
-{"nexusFileName":"Organizational Chests 1.1","pakFileName":"OrganizationalChests.pak","nexusFileId":61040,"metaUuid":null}
+{"nexusFileName":"Organizational Chests 1.1","nexusFileVersion":"1.1","nexusFileUploadedAt":1718435855,"pakFileName":"OrganizationalChests.pak","nexusFileId":61040,"metaUuid":null}
 ]},
 "10285":{"nexusModName":"ViciousMockery Bonus action","nexusUploadedBy":"GiraffeSummer","nexusModId":10285,"paks":[
 {"nexusFileName":"ViciousMockeryBA","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1718311343,"pakFileName":"Shared.pak","nexusFileId":60850,"metaUuid":null}
@@ -34035,7 +34035,7 @@
 {"nexusFileName":"Fierce Deity Sword","nexusFileVersion":"1.0.1","nexusFileUploadedAt":1725631528,"pakFileName":"Fierce_Deity.pak","nexusFileId":69102,"metaUuid":null}
 ]},
 "11996":{"nexusModName":"Bushy Karlach","nexusUploadedBy":"NY2theC","nexusModId":11996,"paks":[
-{"nexusFileName":"Bushy Karlach","nexusFileVersion":"1.0.0","pakFileName":"bushykarlach_2cd3b2f5-1b2e-e69-feys.pak","nexusFileId":69103,"metaUuid":"2cd3b2f5-1b2e-e69b-00bc-33e3389644c3"}
+{"nexusFileName":"Bushy Karlach","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1725632621,"pakFileName":"bushykarlach_2cd3b2f5-1b2e-e69-feys.pak","nexusFileId":69103,"metaUuid":"2cd3b2f5-1b2e-e69b-00bc-33e3389644c3"}
 ]},
 "11997":{"nexusModName":"Master Sword of Light","nexusUploadedBy":"Valin000","nexusModId":11997,"paks":[
 {"nexusFileName":"Master Sword series","nexusFileVersion":"1.0.1","nexusFileUploadedAt":1725641097,"pakFileName":"Master_Sword.pak","nexusFileId":69126,"metaUuid":null}
@@ -36547,7 +36547,7 @@
 {"nexusFileName":"FF14 White Mage Class - Spanish","nexusFileVersion":"1.2.0","nexusFileUploadedAt":1728495520,"pakFileName":"WhiteMageES.pak","nexusFileId":74699,"metaUuid":null}
 ]},
 "12939":{"nexusModName":"FF14 Dragoon Class - Spanish","nexusUploadedBy":"Gonzy42","nexusModId":12939,"paks":[
-{"nexusFileName":"FF14 Dragoon Class - Spanish","nexusFileVersion":"1.0.0","pakFileName":"DragoonES.pak","nexusFileId":74698,"metaUuid":null}
+{"nexusFileName":"FF14 Dragoon Class - Spanish","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1728495519,"pakFileName":"DragoonES.pak","nexusFileId":74698,"metaUuid":null}
 ]},
 "12940":{"nexusModName":"Tales of Acuity - Arcane Acuity Item Overhaul","nexusUploadedBy":"TrueSoulNatasha","nexusModId":12940,"paks":[
 {"nexusFileName":"Tales of Acuity","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1728495885,"pakFileName":"Acuity_Gear.pak","nexusFileId":74701,"metaUuid":null}
@@ -41265,7 +41265,7 @@
 {"nexusFileName":"ActualMarkoheshkir","nexusFileVersion":"1.0.1","nexusFileUploadedAt":1737491907,"pakFileName":"ActualMarkoheshkir.pak","nexusFileId":84513,"metaUuid":"d7a986bb-11d0-4dea-859c-47115e18f364"}
 ]},
 "14695":{"nexusModName":"Raphael Bed Story","nexusUploadedBy":"swissfred","nexusModId":14695,"paks":[
-{"nexusFileName":"Raphael Bed Story","nexusFileVersion":"2.0.8.8","pakFileName":"RaphaelBedStory_ba772644-2480-97f4-241f-505f35454ef8.pak","nexusFileId":95954,"metaUuid":"ba772644-2480-97f4-241f-505f35454ef8"}
+{"nexusFileName":"Raphael Bed Story","nexusFileVersion":"2.0.8.8","nexusFileUploadedAt":1750008960,"pakFileName":"RaphaelBedStory_ba772644-2480-97f4-241f-505f35454ef8.pak","nexusFileId":95954,"metaUuid":"ba772644-2480-97f4-241f-505f35454ef8"}
 ]},
 "14698":{"nexusModName":"Mantis' Arcane Inspired Preset Collection","nexusUploadedBy":"mantiiiss","nexusModId":14698,"paks":[
 {"nexusFileName":"01 - MANTIS' ARCANE INSPIRED COLLECTION","nexusFileVersion":"1.2.0.0","nexusFileUploadedAt":1744829478,"pakFileName":"MANTIS' ARCANE INSPIRED PRESETS.pak","nexusFileId":89249,"metaUuid":"10a48e15-e1f3-48a4-91a5-f18dfbc47f3a"},
@@ -42668,7 +42668,7 @@
 {"nexusFileName":"Oath and Order - Paladin Equipment KR","nexusFileVersion":"1.0.0.9","nexusFileUploadedAt":1757384942,"pakFileName":"GF_Paladin_Equipment_kr.pak","nexusFileId":102321,"metaUuid":null}
 ]},
 "15256":{"nexusModName":"Umbra Knight Armor Set","nexusUploadedBy":"Euv533","nexusModId":15256,"paks":[
-{"nexusFileName":"Umbra Armor","nexusFileVersion":"1.0.0.11","pakFileName":"Umbra.pak","nexusFileId":87298,"metaUuid":"07331657-a7a7-0cd3-cfaf-c494c0f1ac37"}
+{"nexusFileName":"Umbra Armor","nexusFileVersion":"1.0.0.11","nexusFileUploadedAt":1742057580,"pakFileName":"Umbra.pak","nexusFileId":87298,"metaUuid":"07331657-a7a7-0cd3-cfaf-c494c0f1ac37"}
 ]},
 "15257":{"nexusModName":"Wings Character Customization - WCC","nexusUploadedBy":"AardiHenrietta","nexusModId":15257,"paks":[
 {"nexusFileName":"Wings Character Customisation - WCC","nexusFileVersion":"1.0.0.129","nexusFileUploadedAt":1772297703,"pakFileName":"Aardi_WingsCharacterCustomisation_d07015de-33a8-6ee9-cda2-571c7bf39008.pak","nexusFileId":115794,"metaUuid":"d07015de-33a8-6ee9-cda2-571c7bf39008"}
@@ -47097,9 +47097,9 @@
 {"nexusFileName":"Disable Critical Fails (Combined)","nexusFileVersion":"1.2.0.1","nexusFileUploadedAt":1749065199,"pakFileName":"Disable Critical Fail Combined.pak","nexusFileId":95070,"metaUuid":null}
 ]},
 "16985":{"nexusModName":"Jerinski's BT1 - BT3 Heads","nexusUploadedBy":"jerinski","nexusModId":16985,"paks":[
-{"nexusFileName":"BT1 - BT3 Heads","nexusFileVersion":"1.0.3.31","pakFileName":"jerinski_bt1_heads_835d0854-2998-616e-255c-840387a67d86.pak","nexusFileId":102944,"metaUuid":"835d0854-2998-616e-255c-840387a67d86"},
-{"nexusFileName":"Patch for Eyes of the Beholder","nexusFileVersion":"1.0.3.31","pakFileName":"jerinski_fem-heads-EOTB-patch.pak","nexusFileId":102945,"metaUuid":null},
-{"nexusFileName":"Patch for Kazstra Virtual Tav - Unique Tav","nexusFileVersion":"1.0.3.31","pakFileName":"jerinski_fem-heads-UT-patch.pak","nexusFileId":102946,"metaUuid":null}
+{"nexusFileName":"BT1 - BT3 Heads","nexusFileVersion":"1.0.3.31","nexusFileUploadedAt":1758041826,"pakFileName":"jerinski_bt1_heads_835d0854-2998-616e-255c-840387a67d86.pak","nexusFileId":102944,"metaUuid":"835d0854-2998-616e-255c-840387a67d86"},
+{"nexusFileName":"Patch for Eyes of the Beholder","nexusFileVersion":"1.0.3.31","nexusFileUploadedAt":1758041864,"pakFileName":"jerinski_fem-heads-EOTB-patch.pak","nexusFileId":102945,"metaUuid":null},
+{"nexusFileName":"Patch for Kazstra Virtual Tav - Unique Tav","nexusFileVersion":"1.0.3.31","nexusFileUploadedAt":1758041894,"pakFileName":"jerinski_fem-heads-UT-patch.pak","nexusFileId":102946,"metaUuid":null}
 ]},
 "16986":{"nexusModName":"Serious Halfling Ladies","nexusUploadedBy":"SashRG","nexusModId":16986,"paks":[
 {"nexusFileName":"Serious Halfling Ladies","nexusFileVersion":"1.1","nexusFileUploadedAt":1749131513,"pakFileName":"Serious Halfling Ladies.pak","nexusFileId":95118,"metaUuid":null}
@@ -47403,7 +47403,7 @@
 {"nexusFileName":"5eE Monk Rework - PT-BR","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1749639695,"pakFileName":"DrKekyll_5eEMonkRework - PT-BR.pak","nexusFileId":95604,"metaUuid":null}
 ]},
 "17099":{"nexusModName":"Druid Metamagic","nexusUploadedBy":"Seijax","nexusModId":17099,"paks":[
-{"nexusFileName":"Druid Metamagic","nexusFileVersion":"1.0.0","pakFileName":"DruidMetamagic.pak","nexusFileId":95606,"metaUuid":"c065de1a-4510-7602-4c42-43e273312473"}
+{"nexusFileName":"Druid Metamagic","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1749650341,"pakFileName":"DruidMetamagic.pak","nexusFileId":95606,"metaUuid":"c065de1a-4510-7602-4c42-43e273312473"}
 ]},
 "17100":{"nexusModName":"Dark Urge ClassCHS","nexusUploadedBy":"yangyangmeiiii","nexusModId":17100,"paks":[
 {"nexusFileName":"Dark Urge ClassCHS","nexusFileVersion":"1.0.0.95","nexusFileUploadedAt":1755210389,"pakFileName":"DarkUrgeCHS.pak","nexusFileId":100634,"metaUuid":null}
@@ -47690,7 +47690,7 @@
 {"nexusFileName":"Faces of Faerun - Unique Tav Patch","nexusFileVersion":"1.0","nexusFileUploadedAt":1750133556,"pakFileName":"ASTRL_FacesOfFaerun_UniqueTav.pak","nexusFileId":96071,"metaUuid":"87bf7f7c-8dfb-4bb3-a6d8-deb5516e4b24"}
 ]},
 "17191":{"nexusModName":"FFXIV (Final Fantasy XIV) - Dragoon Subclass CHS","nexusUploadedBy":"LaundryDragonmaidOfficial","nexusModId":17191,"paks":[
-{"nexusFileName":"Subclass_DragoonCHS","nexusFileVersion":"1.0.0.11","pakFileName":"Subclass_DragoonCHS.pak","nexusFileId":96070,"metaUuid":null}
+{"nexusFileName":"Subclass_DragoonCHS","nexusFileVersion":"1.0.0.11","nexusFileUploadedAt":1750133538,"pakFileName":"Subclass_DragoonCHS.pak","nexusFileId":96070,"metaUuid":null}
 ]},
 "17192":{"nexusModName":"Really Shadowheart Mandarin","nexusUploadedBy":"xuzhi1977","nexusModId":17192,"paks":[
 {"nexusFileName":"ReallyShadowheart.2.1.0.19.chs.pak.zip","nexusFileVersion":"2.1.0.19","nexusFileUploadedAt":1773097133,"pakFileName":"ReallyShadowheart.2.1.0.19_chs.pak","nexusFileId":116420,"metaUuid":null}
@@ -47844,7 +47844,7 @@
 {"nexusFileName":"Zaren Gith Preset","nexusFileVersion":"1","nexusFileUploadedAt":1750556068,"pakFileName":"Zaren Preset.pak","nexusFileId":96416,"metaUuid":null}
 ]},
 "17251":{"nexusModName":"Updated Sword Dancer of Eilistraee - Russian Translation","nexusUploadedBy":"Chokowi","nexusModId":17251,"paks":[
-{"nexusFileName":"EilistraeeSwordDancerRU","nexusFileVersion":"1.0.0","pakFileName":"EilistraeeSwordDancerRU.pak","nexusFileId":96428,"metaUuid":null}
+{"nexusFileName":"EilistraeeSwordDancerRU","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1750600023,"pakFileName":"EilistraeeSwordDancerRU.pak","nexusFileId":96428,"metaUuid":null}
 ]},
 "17252":{"nexusModName":"Fiendish and Fiery Succubus Class CHS","nexusUploadedBy":"LaundryDragonmaidOfficial","nexusModId":17252,"paks":[
 {"nexusFileName":"Class_SuccubusCHS","nexusFileVersion":"1.0.0.31","nexusFileUploadedAt":1750602184,"pakFileName":"Class_SuccubusCHS.pak","nexusFileId":96432,"metaUuid":null}
@@ -48598,7 +48598,7 @@
 {"nexusFileName":"Aeterna Amantes RU","nexusFileVersion":"1","nexusFileUploadedAt":1751889408,"pakFileName":"AeternaAmantes.pak","nexusFileId":97588,"metaUuid":null}
 ]},
 "17470":{"nexusModName":"Blackguard 4.9-KR","nexusUploadedBy":"MshapedHairLoss","nexusModId":17470,"paks":[
-{"nexusFileName":"Blackguard 4.91-KR","nexusFileVersion":"4.907","pakFileName":"Blackguard 4.91-KR.pak","nexusFileId":99885,"metaUuid":null}
+{"nexusFileName":"Blackguard 4.91-KR","nexusFileVersion":"4.907","nexusFileUploadedAt":1754299477,"pakFileName":"Blackguard 4.91-KR.pak","nexusFileId":99885,"metaUuid":null}
 ]},
 "17471":{"nexusModName":"Goon's Cleric Overhaul","nexusUploadedBy":"BaldursGoonsack","nexusModId":17471,"paks":[
 {"nexusFileName":"Goon's Cleric Overhaul - Disciple of Life Only","nexusFileVersion":"1.0.5.0","nexusFileUploadedAt":1776867614,"pakFileName":"Goon's Cleric Overhaul - Disciple of Life Only.pak","nexusFileId":119673,"metaUuid":null},
@@ -49473,7 +49473,7 @@
 {"nexusFileName":"GoonConditionSurfaceOverhaul_RU","nexusFileVersion":"1.0.6.0","nexusFileUploadedAt":1763631191,"pakFileName":"GoonConditionSurfaceOverhaul_RU.pak","nexusFileId":107791,"metaUuid":null}
 ]},
 "17794":{"nexusModName":"Goon's Companion Protection - Russian Translation","nexusUploadedBy":"Hecctus","nexusModId":17794,"paks":[
-{"nexusFileName":"GoonCompanionProtection_RU","nexusFileVersion":"2.0.0.1","pakFileName":"Goon's_Companion_Protection_RU.pak","nexusFileId":99069,"metaUuid":null}
+{"nexusFileName":"GoonCompanionProtection_RU","nexusFileVersion":"2.0.0.1","nexusFileUploadedAt":1753516599,"pakFileName":"Goon's_Companion_Protection_RU.pak","nexusFileId":99069,"metaUuid":null}
 ]},
 "17795":{"nexusModName":"Goon's Cleric Overhaul - Russian Translation","nexusUploadedBy":"Hecctus","nexusModId":17795,"paks":[
 {"nexusFileName":"GoonClericOverhaul_RU","nexusFileVersion":"1.0.1.4","nexusFileUploadedAt":1755759343,"pakFileName":"GoonClericOverhaul_RU.pak","nexusFileId":101133,"metaUuid":null}
@@ -49719,7 +49719,7 @@
 {"nexusFileName":"NPCs Have Subclasses - SE Beta version","nexusFileVersion":"3.0","nexusFileUploadedAt":1780609263,"pakFileName":"NPCs have Subclasses - SE.pak","nexusFileId":122805,"metaUuid":"598add30-4903-450b-8cbb-2d558a5eb5c0"}
 ]},
 "17884":{"nexusModName":"Armory - Auto-Transmog Vanity Outfit Manager_KOR","nexusUploadedBy":"Ahdarugo","nexusModId":17884,"paks":[
-{"nexusFileName":"Armory_KOR","nexusFileVersion":"1.8","pakFileName":"Armory_KOR.pak","nexusFileId":119332,"metaUuid":null}
+{"nexusFileName":"Armory_KOR","nexusFileVersion":"1.8","nexusFileUploadedAt":1776484119,"pakFileName":"Armory_KOR.pak","nexusFileId":119332,"metaUuid":null}
 ]},
 "17885":{"nexusModName":"Additional Honour mode like Balance Changes","nexusUploadedBy":"KowboyBebop","nexusModId":17885,"paks":[
 {"nexusFileName":"Additional Honour mode like Balance Changes","nexusFileVersion":"1.1","nexusFileUploadedAt":1755554490,"pakFileName":"AdditionalHonourModeLikeBalanceChanges.pak","nexusFileId":100962,"metaUuid":null}
@@ -49738,7 +49738,7 @@
 {"nexusFileName":"Better Clubs","nexusFileVersion":"1.3","nexusFileUploadedAt":1755251259,"pakFileName":"BetterGreatclubs.pak","nexusFileId":100665,"metaUuid":null}
 ]},
 "17890":{"nexusModName":"Scrounger homebrew class(KR)","nexusUploadedBy":"isabel1219","nexusModId":17890,"paks":[
-{"nexusFileName":"Scrounger homebrew class (KR)","nexusFileVersion":"1.0.0.0","pakFileName":"Scrounger v8d0d3 i3 - KR.pak","nexusFileId":99454,"metaUuid":null}
+{"nexusFileName":"Scrounger homebrew class (KR)","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1753880179,"pakFileName":"Scrounger v8d0d3 i3 - KR.pak","nexusFileId":99454,"metaUuid":null}
 ]},
 "17891":{"nexusModName":"Conjure Animals and Summon Beast Spells (KR)","nexusUploadedBy":"isabel1219","nexusModId":17891,"paks":[
 {"nexusFileName":"Conjure Animals and Summon Beast Spells (KR)","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1753879163,"pakFileName":"ConjureAnimals2024_c70afd06-c2d8-0e94-ab50-2a0a609c3bb4 - KR.pak","nexusFileId":99451,"metaUuid":null}
@@ -51642,7 +51642,7 @@
 {"nexusFileName":"MasterRolan","nexusFileVersion":"1.2","nexusFileUploadedAt":1776842119,"pakFileName":"MasterRolan.pak","nexusFileId":119648,"metaUuid":"608a4045-bd73-09f8-3d70-183ae7f1935e"}
 ]},
 "18564":{"nexusModName":"WiFi Potions - Traducao PT-BR","nexusUploadedBy":"tsunoby","nexusModId":18564,"paks":[
-{"nexusFileName":"Wifi Potions - Traducao PT-BR","nexusFileVersion":"1.0","pakFileName":"Fallen_Wifi_Potion.pak","nexusFileId":102504,"metaUuid":null}
+{"nexusFileName":"Wifi Potions - Traducao PT-BR","nexusFileVersion":"1.0","nexusFileUploadedAt":1757605505,"pakFileName":"Fallen_Wifi_Potion.pak","nexusFileId":102504,"metaUuid":null}
 ]},
 "18565":{"nexusModName":"Karlach's New Look","nexusUploadedBy":"Khloii1","nexusModId":18565,"paks":[
 {"nexusFileName":"Karlach's New Look","nexusFileVersion":"3.2","nexusFileUploadedAt":1769850572,"pakFileName":"Kalach_New_Look_d99aade9-d099-b7c7-ebc0-97606d0d06ec.pak","nexusFileId":113694,"metaUuid":"d99aade9-d099-b7c7-ebc0-97606d0d06ec"}
@@ -52211,7 +52211,7 @@
 {"nexusFileName":"Helm's Armory (pt-BR)","nexusFileVersion":"3.1","nexusFileUploadedAt":1758399934,"pakFileName":"HelmsArmory_BR_2ae419ed-fc5d-4119-9728-5a0b7cdd9af1.pak","nexusFileId":103274,"metaUuid":"2ae419ed-fc5d-4119-9728-5a0b7cdd9af1"}
 ]},
 "18772":{"nexusModName":"Circle of Witchcraft - A Druid subclass","nexusUploadedBy":"maradi","nexusModId":18772,"paks":[
-{"nexusFileName":"Circle of Witchcraft subclass","nexusFileVersion":"1.1.0.1","pakFileName":"CircleOfWitchcraft.pak","nexusFileId":111779,"metaUuid":"59446f63-52f6-4486-afba-4dd20912953f"}
+{"nexusFileName":"Circle of Witchcraft subclass","nexusFileVersion":"1.1.0.1","nexusFileUploadedAt":1768068608,"pakFileName":"CircleOfWitchcraft.pak","nexusFileId":111779,"metaUuid":"59446f63-52f6-4486-afba-4dd20912953f"}
 ]},
 "18773":{"nexusModName":"A Bloody Inheritance - Dark Urge Equipment","nexusUploadedBy":"auracrest","nexusModId":18773,"paks":[
 {"nexusFileName":"A Bloody Inheritance - Durge Gear","nexusFileVersion":"1.1","nexusFileUploadedAt":1758498939,"pakFileName":"Dark_Urge_Gear_1f84d029-a22a-1cbd-4ffe-03afe98e6a01.pak","nexusFileId":103385,"metaUuid":"1f84d029-a22a-1cbd-4ffe-03afe98e6a01"},
@@ -52379,7 +52379,7 @@
 {"nexusFileName":"TadpoleReactionToPassive","nexusFileVersion":"1","nexusFileUploadedAt":1758670238,"pakFileName":"ReactionsToPassives_d1e87792-6b5c-a8c4-df42-9c7a692e8eb9.pak","nexusFileId":103538,"metaUuid":"d1e87792-6b5c-a8c4-df42-9c7a692e8eb9"}
 ]},
 "18827":{"nexusModName":"Book of Sorcerers - 5e Sorcerer Subclasses_KOR","nexusUploadedBy":"Ahdarugo","nexusModId":18827,"paks":[
-{"nexusFileName":"Book of Sorcerers - 5e Sorcerer Subclasses_KOR","nexusFileVersion":"1.0","pakFileName":"BookOfSorcerer_KOR_c8629bbe-3fcd-26d4-aee6-830c38dec902.pak","nexusFileId":103695,"metaUuid":"c8629bbe-3fcd-26d4-aee6-830c38dec902"}
+{"nexusFileName":"Book of Sorcerers - 5e Sorcerer Subclasses_KOR","nexusFileVersion":"1.0","nexusFileUploadedAt":1758879654,"pakFileName":"BookOfSorcerer_KOR_c8629bbe-3fcd-26d4-aee6-830c38dec902.pak","nexusFileId":103695,"metaUuid":"c8629bbe-3fcd-26d4-aee6-830c38dec902"}
 ]},
 "18828":{"nexusModName":"Shadowheart's New Look","nexusUploadedBy":"Khloii1","nexusModId":18828,"paks":[
 {"nexusFileName":"Shadowheart's New Look","nexusFileVersion":"3.1","nexusFileUploadedAt":1767883605,"pakFileName":"Shadowheart_NewLook_92ecc780-25d5-1d0a-9c7b-2dca4db8cebb.pak","nexusFileId":111572,"metaUuid":"92ecc780-25d5-1d0a-9c7b-2dca4db8cebb"}
@@ -54010,7 +54010,7 @@
 {"nexusFileName":"Gods That Matter","nexusFileVersion":"2.3","nexusFileUploadedAt":1778378671,"pakFileName":"BetterGods.pak","nexusFileId":120862,"metaUuid":"4e218063-3e2d-43a9-81a0-1d5eb470e7d0"}
 ]},
 "19440":{"nexusModName":"the elder-chs","nexusUploadedBy":"yourfakelove","nexusModId":19440,"paks":[
-{"nexusFileName":"the elder-chs","nexusFileVersion":"1","pakFileName":"elder-chs.pak","nexusFileId":106304,"metaUuid":null}
+{"nexusFileName":"the elder-chs","nexusFileVersion":"1","nexusFileUploadedAt":1761797571,"pakFileName":"elder-chs.pak","nexusFileId":106304,"metaUuid":null}
 ]},
 "19441":{"nexusModName":"Merchant's Chest","nexusUploadedBy":"swissfred","nexusModId":19441,"paks":[
 {"nexusFileName":"Merchant's Chest","nexusFileVersion":"2.4.8.2","nexusFileUploadedAt":1780486266,"pakFileName":"MerchantsChest_d52251d7-183f-8542-d185-b07c2647470a.pak","nexusFileId":122679,"metaUuid":"d52251d7-183f-8542-d185-b07c2647470a"}
@@ -57345,7 +57345,7 @@
 {"nexusFileName":"Dawnstar's Arcane Spells for Japanese","nexusFileVersion":"1.0.0.26-1","nexusFileUploadedAt":1775549169,"pakFileName":"DawnstarsArcaneSpells_jp.pak","nexusFileId":118334,"metaUuid":null}
 ]},
 "20399":{"nexusModName":"-Domain Expansion- Poses for Photo Mode","nexusUploadedBy":"mossythepadlock","nexusModId":20399,"paks":[
-{"nexusFileName":"-Domain Expansion- Poses for Photo Mode","nexusFileVersion":"1.0.0.10","pakFileName":"DomainExpansion_Poses.pak","nexusFileId":112387,"metaUuid":null}
+{"nexusFileName":"-Domain Expansion- Poses for Photo Mode","nexusFileVersion":"1.0.0.10","nexusFileUploadedAt":1768608620,"pakFileName":"DomainExpansion_Poses.pak","nexusFileId":112387,"metaUuid":null}
 ]},
 "20400":{"nexusModName":"chizfreak's Paladin and Oaths DnD 5R PHB2024 for Japanese","nexusUploadedBy":"Eolaloe","nexusModId":20400,"paks":[
 {"nexusFileName":"Paladin and Oaths DnD 5R PHB2024 for Japanese","nexusFileVersion":"6.2.0","nexusFileUploadedAt":1778762612,"pakFileName":"PaladinPHB2024_jp.pak","nexusFileId":121220,"metaUuid":null}
@@ -58667,7 +58667,7 @@
 {"nexusFileName":"Brynna - Andrick - Edowin Edits for Korean","nexusFileVersion":"1.0.1.5-1","nexusFileUploadedAt":1779908103,"pakFileName":"AndrickRestyled_kr.pak","nexusFileId":122300,"metaUuid":"78ed1e77-08f3-4673-afb0-e59d802eacb3"}
 ]},
 "20862":{"nexusModName":"PoisonValentineXIII's Brynna - Andrick - Edowin Edits for Japanese","nexusUploadedBy":"Eolaloe","nexusModId":20862,"paks":[
-{"nexusFileName":"Brynna - Andrick - Edowin Edits for Japanese","nexusFileVersion":"1.0.1.5-1","pakFileName":"AndrickRestyled_jp.pak","nexusFileId":122302,"metaUuid":null}
+{"nexusFileName":"Brynna - Andrick - Edowin Edits for Japanese","nexusFileVersion":"1.0.1.5-1","nexusFileUploadedAt":1779908143,"pakFileName":"AndrickRestyled_jp.pak","nexusFileId":122302,"metaUuid":null}
 ]},
 "20863":{"nexusModName":"Khloii1's Goblin Leaders' New Look Revamped for Korean","nexusUploadedBy":"Eolaloe","nexusModId":20863,"paks":[
 {"nexusFileName":"Goblin Leaders' New Look Revamped for Korean","nexusFileVersion":"3.1","nexusFileUploadedAt":1777878797,"pakFileName":"Goblin_Leaders_New_Look_Revamped_kr.pak","nexusFileId":120485,"metaUuid":"f547e730-1930-45b0-b774-b4ed912995e6"}
@@ -59684,7 +59684,7 @@
 {"nexusFileName":"Brawl - Real Time Combat - Swarm Mode for Japanese","nexusFileVersion":"2.1.5","nexusFileUploadedAt":1778379722,"pakFileName":"Brawl_jp.pak","nexusFileId":120865,"metaUuid":null}
 ]},
 "21210":{"nexusModName":"Best in Party Skills for Korean","nexusUploadedBy":"Eolaloe","nexusModId":21210,"paks":[
-{"nexusFileName":"Best in Party Skills for Korean","nexusFileVersion":"2.6.0.2","pakFileName":"Best in Party Skills_kr.pak","nexusFileId":120150,"metaUuid":"c91e651d-1c4b-45ec-a6cc-9598c8dd8e2f"}
+{"nexusFileName":"Best in Party Skills for Korean","nexusFileVersion":"2.6.0.2","nexusFileUploadedAt":1777443665,"pakFileName":"Best in Party Skills_kr.pak","nexusFileId":120150,"metaUuid":"c91e651d-1c4b-45ec-a6cc-9598c8dd8e2f"}
 ]},
 "21211":{"nexusModName":"Best in Party Skills for Japanese","nexusUploadedBy":"Eolaloe","nexusModId":21211,"paks":[
 {"nexusFileName":"Best in Party Skills for Japanese","nexusFileVersion":"2.6.0.2","nexusFileUploadedAt":1777443696,"pakFileName":"Best in Party Skills_jp.pak","nexusFileId":120151,"metaUuid":null}
@@ -60394,7 +60394,7 @@
 {"nexusFileName":"Lae'zel Astral Beauty","nexusFileVersion":"1.0.0.7","nexusFileUploadedAt":1772830530,"pakFileName":"Laezel_Astral_Beauty_9c6056e8-4381-b310-20f3-fd69d3aae9b6.pak","nexusFileId":116227,"metaUuid":"9c6056e8-4381-b310-20f3-fd69d3aae9b6"}
 ]},
 "21478":{"nexusModName":"Sapphic Selunites","nexusUploadedBy":"SolTheWitchBish","nexusModId":21478,"paks":[
-{"nexusFileName":"Sapphic Selunites","nexusFileVersion":"1","pakFileName":"SolSelunites_be9862f3-8b52-f846-689c-b049b017f068.pak","nexusFileId":114820,"metaUuid":"be9862f3-8b52-f846-689c-b049b017f068"}
+{"nexusFileName":"Sapphic Selunites","nexusFileVersion":"1","nexusFileUploadedAt":1771091930,"pakFileName":"SolSelunites_be9862f3-8b52-f846-689c-b049b017f068.pak","nexusFileId":114820,"metaUuid":"be9862f3-8b52-f846-689c-b049b017f068"}
 ]},
 "21479":{"nexusModName":"Sols Emporium of Poses (SEOP)","nexusUploadedBy":"SolTheWitchBish","nexusModId":21479,"paks":[
 {"nexusFileName":"Sol's Emporium of Poses (or SEOP)","nexusFileVersion":"2","nexusFileUploadedAt":1772132644,"pakFileName":"SolEmporiumOfPoses_506956e1-f2fd-a802-c39a-ea7a0d2b81ce.pak","nexusFileId":115652,"metaUuid":"506956e1-f2fd-a802-c39a-ea7a0d2b81ce"}
@@ -61220,7 +61220,7 @@
 {"nexusFileName":"GraphicFade's Items Patch for Home Brew for Korean","nexusFileVersion":"1.7.0.6","nexusFileUploadedAt":1777048556,"pakFileName":"Home Brew - GraphicFade's Items Patch (All in One Edition)_kr.pak","nexusFileId":119800,"metaUuid":"21c88d13-1e40-4fef-b63c-b315815ad47e"}
 ]},
 "21730":{"nexusModName":"FATE Patch for Home Brew for Korean","nexusUploadedBy":"Eolaloe","nexusModId":21730,"paks":[
-{"nexusFileName":"FATE Patch for Home Brew for Korean","nexusFileVersion":"1.0.0.6","pakFileName":"Home Brew FATE_kr.pak","nexusFileId":119802,"metaUuid":"8cacf414-e7fb-474c-82a7-24f6b69f8276"}
+{"nexusFileName":"FATE Patch for Home Brew for Korean","nexusFileVersion":"1.0.0.6","nexusFileUploadedAt":1777048960,"pakFileName":"Home Brew FATE_kr.pak","nexusFileId":119802,"metaUuid":"8cacf414-e7fb-474c-82a7-24f6b69f8276"}
 ]},
 "21731":{"nexusModName":"NoRacialRequirementGear","nexusUploadedBy":"EtherealTr","nexusModId":21731,"paks":[
 {"nexusFileName":"NoRacialRequirementGear","nexusFileVersion":"1.0.2","nexusFileUploadedAt":1776960720,"pakFileName":"NoRacialRequirementGear.pak","nexusFileId":119728,"metaUuid":"6461c515-9826-4926-8cdd-218f9569675d"}
@@ -61794,7 +61794,7 @@
 {"nexusFileName":"Wyll Shirt Repaired","nexusFileVersion":"1","nexusFileUploadedAt":1773766453,"pakFileName":"WyllShirtRepaired.pak","nexusFileId":116910,"metaUuid":"43a6384b-ba06-3969-9424-a2244703f4dd"}
 ]},
 "21922":{"nexusModName":"EZ-Manipulator - Object Move-Rotate-Transform Gizmo","nexusUploadedBy":"Mazzle23","nexusModId":21922,"paks":[
-{"nexusFileName":"EZ-Manipulator GizmoLib","nexusFileVersion":"1.2.0","pakFileName":"GizmoLib.pak","nexusFileId":120845,"metaUuid":"5b127407-1697-4c6b-986f-15fed6415375"}
+{"nexusFileName":"EZ-Manipulator GizmoLib","nexusFileVersion":"1.2.0","nexusFileUploadedAt":1778350637,"pakFileName":"GizmoLib.pak","nexusFileId":120845,"metaUuid":"5b127407-1697-4c6b-986f-15fed6415375"}
 ]},
 "21923":{"nexusModName":"Potent Sluts and their Endeavors --WIP--","nexusUploadedBy":"Beeeast","nexusModId":21923,"paks":[
 {"nexusFileName":"Potent Sluts And Their Endeavors -alpha-","nexusFileVersion":"0.0.0.1","nexusFileUploadedAt":1776286544,"pakFileName":"PotentSluts_AndTheirEndeavors.pak","nexusFileId":119098,"metaUuid":"67b3d792-7d47-d0a4-cffe-55f6f70a9a32"}
@@ -61839,7 +61839,7 @@
 {"nexusFileName":"Airy Rendttion","nexusFileVersion":"1.0","nexusFileUploadedAt":1773819210,"pakFileName":"AiryRendition.pak","nexusFileId":116948,"metaUuid":"523c270e-7d24-4a8c-b3b8-9cc535e1a905"}
 ]},
 "21941":{"nexusModName":"Skirbie's Armor of the Worthy for Korean","nexusUploadedBy":"Eolaloe","nexusModId":21941,"paks":[
-{"nexusFileName":"Armor of the Worthy for Korean","nexusFileVersion":"1.0.0.12","pakFileName":"WRTarm_kr.pak","nexusFileId":116949,"metaUuid":null}
+{"nexusFileName":"Armor of the Worthy for Korean","nexusFileVersion":"1.0.0.12","nexusFileUploadedAt":1773819213,"pakFileName":"WRTarm_kr.pak","nexusFileId":116949,"metaUuid":null}
 ]},
 "21943":{"nexusModName":"Skirbie's Dark Knight - Progressive Equipment Set for Korean","nexusUploadedBy":"Eolaloe","nexusModId":21943,"paks":[
 {"nexusFileName":"Dark Knight - Progressive Equipment for Korean","nexusFileVersion":"1.0.0.9","nexusFileUploadedAt":1773819604,"pakFileName":"DEKnght_kr.pak","nexusFileId":116951,"metaUuid":null}
@@ -64986,7 +64986,7 @@
 {"nexusFileName":"Undead Nurses' Surgical Instruments (immersive)","nexusFileVersion":"2.0","nexusFileUploadedAt":1780519848,"pakFileName":"v2.0_immersive_SAR_Undead-nurses-instruments_70573c7a-ec1b-7b0f-60b2-ef3f392fd004.pak","nexusFileId":122709,"metaUuid":null}
 ]},
 "23154":{"nexusModName":"Gale's Better Starting Gear JP","nexusUploadedBy":"Akazonae36","nexusModId":23154,"paks":[
-{"nexusFileName":"Aza BSG Gale JP","nexusFileVersion":"1","pakFileName":"Aza_BSG_Gale_JP.pak","nexusFileId":122579,"metaUuid":null}
+{"nexusFileName":"Aza BSG Gale JP","nexusFileVersion":"1","nexusFileUploadedAt":1780330583,"pakFileName":"Aza_BSG_Gale_JP.pak","nexusFileId":122579,"metaUuid":null}
 ]},
 "23155":{"nexusModName":"Better Starting Gear for Lae'zel JP","nexusUploadedBy":"Akazonae36","nexusModId":23155,"paks":[
 {"nexusFileName":"Aza Laezel BetterGear JP","nexusFileVersion":"1","nexusFileUploadedAt":1780331244,"pakFileName":"Aza_Laezel_BetterGear_JP.pak","nexusFileId":122580,"metaUuid":null}
