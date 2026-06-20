@@ -2961,10 +2961,10 @@
 ]},
 "1118":{"nexusModName":"Modified Short Rest","nexusUploadedBy":"achilles659","nexusModId":1118,"paks":[
 {"nexusFileName":"ModifiedShortRest25","nexusFileVersion":"1.1","nexusFileUploadedAt":1692394164,"pakFileName":"ModifiedShortRest25.pak","nexusFileId":8389,"metaUuid":null},
-{"nexusFileName":"ModifiedShortRest50","nexusFileVersion":"1.1","nexusFileUploadedAt":1692397869,"pakFileName":"ModifiedShortRest50.pak","nexusFileId":8401,"metaUuid":null},
+{"nexusFileName":"ModifiedShortRest50","nexusFileVersion":"1.1","nexusFileUploadedAt":1692397869,"pakFileName":"ModifiedShortRest50.pak","nexusFileId":8401,"metaUuid":"4396d11c-f1d8-41b5-b1e9-64ce01ee41c4"},
 {"nexusFileName":"ModifiedShortRest75","nexusFileVersion":"1.1","nexusFileUploadedAt":1692398773,"pakFileName":"ModifiedShortRest75.pak","nexusFileId":8403,"metaUuid":null},
 {"nexusFileName":"ModifiedShortRest100","nexusFileVersion":"1.1","nexusFileUploadedAt":1692399771,"pakFileName":"ModifiedShortRest100.pak","nexusFileId":8406,"metaUuid":null},
-{"nexusFileName":"ModifiedShortRest33","nexusFileVersion":"1.1","nexusFileUploadedAt":1692401318,"pakFileName":"ModifiedShortRest33.pak","nexusFileId":8412,"metaUuid":null},
+{"nexusFileName":"ModifiedShortRest33","nexusFileVersion":"1.1","nexusFileUploadedAt":1692401318,"pakFileName":"ModifiedShortRest33.pak","nexusFileId":8412,"metaUuid":"aa130345-e4e8-4278-aa3a-66503cd51bc2"},
 {"nexusFileName":"MSRNoSpells","nexusFileVersion":"1.0","nexusFileUploadedAt":1692669765,"pakFileName":"MSRNoSpells.pak","nexusFileId":9340,"metaUuid":null},
 {"nexusFileName":"ModifiedShortRest25HP25","nexusFileVersion":"1.0","nexusFileUploadedAt":1693035882,"pakFileName":"ModifiedShortRest25HP25.pak","nexusFileId":10499,"metaUuid":null},
 {"nexusFileName":"ModifiedShortRest50HP25","nexusFileVersion":"1.0","nexusFileUploadedAt":1693035923,"pakFileName":"ModifiedShortRest50HP25.pak","nexusFileId":10500,"metaUuid":null},
@@ -16850,7 +16850,7 @@
 {"nexusFileName":"Spicy Chook - overpowered","nexusFileVersion":"1.0","nexusFileUploadedAt":1707583969,"pakFileName":"FindFamiliarChicken.pak","nexusFileId":44089,"metaUuid":null}
 ]},
 "5338":{"nexusModName":"Upgrade healing potions","nexusUploadedBy":"safster","nexusModId":5338,"paks":[
-{"nexusFileName":"Upgrade healing potions - V4","nexusFileVersion":"4.1.0","nexusFileUploadedAt":1704818963,"pakFileName":"UpgradeHealingPotions.pak","nexusFileId":38951,"metaUuid":null}
+{"nexusFileName":"Upgrade healing potions - V4","nexusFileVersion":"4.1.0","nexusFileUploadedAt":1704818963,"pakFileName":"UpgradeHealingPotions.pak","nexusFileId":38951,"metaUuid":"e03058ea-7879-46d4-b5f2-0a8905ffe62c"}
 ]},
 "5340":{"nexusModName":"Pantheon's Headband","nexusUploadedBy":"Adlock221b","nexusModId":5340,"paks":[
 {"nexusFileName":"Pantheon's Headband","nexusFileVersion":"4.2","nexusFileUploadedAt":1730074368,"pakFileName":"PantheonsHeadband_de0b569e-8aeb-ba81-56ea-34c8c3850761.pak","nexusFileId":77030,"metaUuid":"de0b569e-8aeb-ba81-56ea-34c8c3850761"}
@@ -55223,7 +55223,7 @@
 {"nexusFileName":"Hide Equipment Slots","nexusFileVersion":"1.0.0.14","nexusFileUploadedAt":1764355612,"pakFileName":"HideSlots_1c4c458d-1558-1030-935b-1c82c13efe4a.pak","nexusFileId":108369,"metaUuid":"1c4c458d-1558-1030-935b-1c82c13efe4a"}
 ]},
 "19855":{"nexusModName":"SAO - Dark Repulser and Elucidator","nexusUploadedBy":"ForKiramay","nexusModId":19855,"paks":[
-{"nexusFileName":"SAO - Dark Repulser and Elucidator","nexusFileVersion":"1.0.0.7","nexusFileUploadedAt":1764357174,"pakFileName":"SAOWeapons_5efd3b3e-a042-fc0f-bb74-0c97af6808f6.pak","nexusFileId":108370,"metaUuid":null}
+{"nexusFileName":"SAO - Dark Repulser and Elucidator","nexusFileVersion":"1.0.0.7","nexusFileUploadedAt":1764357174,"pakFileName":"SAOWeapons_5efd3b3e-a042-fc0f-bb74-0c97af6808f6.pak","nexusFileId":108370,"metaUuid":"5efd3b3e-a042-fc0f-bb74-0c97af6808f6"}
 ]},
 "19856":{"nexusModName":"Thaminra - BT1 Mephistopheles Tiefling (CPF Preset)","nexusUploadedBy":"Volitio","nexusModId":19856,"paks":[
 {"nexusFileName":"Thaminra","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1764366672,"pakFileName":"CPF_Thaminra_a4b2d5cc-79f4-4d3c-856a-359aafe0f76a.pak","nexusFileId":108376,"metaUuid":null}
@@ -57288,7 +57288,7 @@
 {"nexusFileName":"Forged in Cania","nexusFileVersion":"1.0.0.6","nexusFileUploadedAt":1768442575,"pakFileName":"Nargus_9a17d47c-3076-679a-e6f0-c23f3fa4668b.pak","nexusFileId":112198,"metaUuid":"9a17d47c-3076-679a-e6f0-c23f3fa4668b"}
 ]},
 "20356":{"nexusModName":"Progressive Fantasy Weapons","nexusUploadedBy":"ForKiramay","nexusModId":20356,"paks":[
-{"nexusFileName":"Progressive Fantasy Weapons","nexusFileVersion":"1.0.0.7","nexusFileUploadedAt":1768752312,"pakFileName":"FantasyWeapons_db674603-04f1-5d62-c2af-3b3a2411d387.pak","nexusFileId":112528,"metaUuid":null}
+{"nexusFileName":"Progressive Fantasy Weapons","nexusFileVersion":"1.0.0.7","nexusFileUploadedAt":1768752312,"pakFileName":"FantasyWeapons_db674603-04f1-5d62-c2af-3b3a2411d387.pak","nexusFileId":112528,"metaUuid":"db674603-04f1-5d62-c2af-3b3a2411d387"}
 ]},
 "20357":{"nexusModName":"LootAura - CHS","nexusUploadedBy":"hanli","nexusModId":20357,"paks":[
 {"nexusFileName":"LootAura_CHS","nexusFileVersion":"8.4.2.5","nexusFileUploadedAt":1773193395,"pakFileName":"LootAura_CHS.pak","nexusFileId":116510,"metaUuid":null}
