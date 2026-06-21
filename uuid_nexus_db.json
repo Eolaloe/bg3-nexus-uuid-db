@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-06-21T19:51:47.461828+00:00","total_mods":16642},
+{"_meta":{"last_run":"2026-06-21T20:52:05.237681+00:00","total_mods":16642},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -35870,7 +35870,7 @@
 ]},
 "12674":{"nexusModName":"Sit on the Ground","nexusUploadedBy":"TLG53787","nexusModId":12674,"paks":[
 {"nexusFileName":"Disable normal short rests","nexusFileVersion":"1.0.0.1","nexusFileUploadedAt":1770445013,"pakFileName":"SitOnTheGround_DisableShortRests_680dfa35-0c28-1c19-1f66-821c229202a6.pak","nexusFileId":114297,"metaUuid":null},
-{"nexusFileName":"Sit on the Ground","nexusFileVersion":"1.0.3.5","nexusFileUploadedAt":1770519273,"pakFileName":"SitOnGround_c089f5da-2d2e-087b-0d70-7b9aff41a232.pak","nexusFileId":114354,"metaUuid":"c089f5da-2d2e-087b-0d70-7b9aff41a232"}
+{"nexusFileName":"Sit on the Ground","nexusFileVersion":"1.0.3.6","nexusFileUploadedAt":1782071479,"pakFileName":"SitOnGround_c089f5da-2d2e-087b-0d70-7b9aff41a232.pak","nexusFileId":124019,"metaUuid":"c089f5da-2d2e-087b-0d70-7b9aff41a232"}
 ]},
 "12675":{"nexusModName":"Giant Knight Armor Set","nexusUploadedBy":"osa519","nexusModId":12675,"paks":[
 {"nexusFileName":"Knight 1.1","nexusFileVersion":"1.1","nexusFileUploadedAt":1727872339,"pakFileName":"Knight.pak","nexusFileId":73586,"metaUuid":null}
@@ -35963,12 +35963,13 @@
 {"nexusFileName":"Addon - Clawstep Dragonborn Body (with Breast)","nexusFileVersion":"2.0.3.0","nexusFileUploadedAt":1773622196,"pakFileName":"Doom Armor - Addon CLWSTPWB.pak","nexusFileId":116826,"metaUuid":null},
 {"nexusFileName":"Addon - Beautiful Curvy Body","nexusFileVersion":"2.0.4.0","nexusFileUploadedAt":1773845167,"pakFileName":"Doom Armor - Addon BCB.pak","nexusFileId":116997,"metaUuid":null},
 {"nexusFileName":"Addon - Bigger Shield","nexusFileVersion":"2.1.1.0","nexusFileUploadedAt":1774462827,"pakFileName":"Doom Armor - Addon Bigger Shield.pak","nexusFileId":117460,"metaUuid":null},
-{"nexusFileName":"Doom Armor - Main (2.0)","nexusFileVersion":"2.1.2.0","nexusFileUploadedAt":1779721636,"pakFileName":"Doom Armor - Main.pak","nexusFileId":122115,"metaUuid":"9d3e2841-7015-45cd-8071-244a29a7ac25"},
 {"nexusFileName":"Addon - No Pants","nexusFileVersion":"2.1.2.0","nexusFileUploadedAt":1779721661,"pakFileName":"Doom Armor - Addon No Pants.pak","nexusFileId":122116,"metaUuid":"2d900372-cd37-444a-b6a5-3ae1cfdfacc1"},
 {"nexusFileName":"Addon - No Heels","nexusFileVersion":"2.1.2.0","nexusFileUploadedAt":1779721677,"pakFileName":"Doom Armor - Addon No Heels.pak","nexusFileId":122117,"metaUuid":"57c891be-50d2-4148-b142-4d9228dcbd8b"},
 {"nexusFileName":"Addon - Akm Tiefling Body","nexusFileVersion":"2.1.2.0","nexusFileUploadedAt":1779722801,"pakFileName":"Doom Armor - Addon AKMTB.pak","nexusFileId":122118,"metaUuid":null},
 {"nexusFileName":"Addon - Dulcet Bodies A","nexusFileVersion":"2.1.2.0","nexusFileUploadedAt":1779798707,"pakFileName":"Doom Armor - Addon Dulcet A.pak","nexusFileId":122189,"metaUuid":null},
-{"nexusFileName":"Addon - Dulcet Bodies B","nexusFileVersion":"2.1.2.0","nexusFileUploadedAt":1779798767,"pakFileName":"Doom Armor - Addon Dulcet B.pak","nexusFileId":122191,"metaUuid":null}
+{"nexusFileName":"Addon - Dulcet Bodies B","nexusFileVersion":"2.1.2.0","nexusFileUploadedAt":1779798767,"pakFileName":"Doom Armor - Addon Dulcet B.pak","nexusFileId":122191,"metaUuid":null},
+{"nexusFileName":"Doom Armor   Main","nexusFileVersion":"2.1.3.0","nexusFileUploadedAt":1782074007,"pakFileName":"Doom Armor - Main.pak","nexusFileId":124022,"metaUuid":"9d3e2841-7015-45cd-8071-244a29a7ac25"},
+{"nexusFileName":"Addon - Camp Cloth","nexusFileVersion":"2.1.3.0","nexusFileUploadedAt":1782074206,"pakFileName":"Doom Armor - Addon Camp Cloth.pak","nexusFileId":124023,"metaUuid":null}
 ]},
 "12718":{"nexusModName":"Egg's Armor - Corset for BT2","nexusUploadedBy":"eggmanboylad","nexusModId":12718,"paks":[
 {"nexusFileName":"Corset Armor","nexusFileVersion":"1.0.0.1","nexusFileUploadedAt":1727979526,"pakFileName":"Corset_Armor_a8c49cec-1c14-6210-a687-2a3ffbef7dae.pak","nexusFileId":73807,"metaUuid":"a8c49cec-1c14-6210-a687-2a3ffbef7dae"}
@@ -64504,9 +64505,9 @@
 "22922":{"nexusModName":"Legendary Weapons for Durge and Tav","nexusUploadedBy":"romanxocs","nexusModId":22922,"paks":[
 {"nexusFileName":"Durge's Vengeance Crossbow","nexusFileVersion":"2","nexusFileUploadedAt":1779196376,"pakFileName":"R_Durgebow.pak","nexusFileId":121678,"metaUuid":null},
 {"nexusFileName":"Tav's Arcanist Shield","nexusFileVersion":"3","nexusFileUploadedAt":1779196451,"pakFileName":"R_TavShield.pak","nexusFileId":121681,"metaUuid":"ff013c67-277c-4b68-a4b8-653ab11a0553"},
-{"nexusFileName":"Tav's Arcanist Dagger","nexusFileVersion":"3","nexusFileUploadedAt":1779218034,"pakFileName":"R_TavDagger.pak","nexusFileId":121709,"metaUuid":"b18635aa-c16b-4687-bddc-6adf4abdef1d"},
-{"nexusFileName":"Durge's Vengeance Greatsword","nexusFileVersion":"3","nexusFileUploadedAt":1779218106,"pakFileName":"R_DurgeSword.pak","nexusFileId":121710,"metaUuid":"c0f02cd8-bb58-42f7-8e33-d1f2039a2663"},
-{"nexusFileName":"Tav's Arcanist Longbow","nexusFileVersion":"3","nexusFileUploadedAt":1779218239,"pakFileName":"R_TavLongbow.pak","nexusFileId":121711,"metaUuid":"d5c645db-afe0-4c79-a6b0-6af267fdfa7f"}
+{"nexusFileName":"Tav's Arcanist Longbow","nexusFileVersion":"3","nexusFileUploadedAt":1779218239,"pakFileName":"R_TavLongbow.pak","nexusFileId":121711,"metaUuid":"d5c645db-afe0-4c79-a6b0-6af267fdfa7f"},
+{"nexusFileName":"Durge's Vengeance Greatsword","nexusFileVersion":"1","nexusFileUploadedAt":1782071883,"pakFileName":"R_DurgeSword.pak","nexusFileId":124020,"metaUuid":"c0f02cd8-bb58-42f7-8e33-d1f2039a2663"},
+{"nexusFileName":"Tav's Arcanist Dagger","nexusFileVersion":"1","nexusFileUploadedAt":1782071939,"pakFileName":"R_TavDagger.pak","nexusFileId":124021,"metaUuid":"b18635aa-c16b-4687-bddc-6adf4abdef1d"}
 ]},
 "22923":{"nexusModName":"Spell Smith Class (BR)","nexusUploadedBy":"Firetoga","nexusModId":22923,"paks":[
 {"nexusFileName":"SpellSmithClass BR","nexusFileVersion":"2.3","nexusFileUploadedAt":1779063753,"pakFileName":"SpellSmithClass_BR.pak","nexusFileId":121516,"metaUuid":null}
