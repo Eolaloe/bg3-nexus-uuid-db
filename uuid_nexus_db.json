@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-06-21T20:52:05.237681+00:00","total_mods":16642},
+{"_meta":{"last_run":"2026-06-21T21:52:02.961275+00:00","total_mods":16642},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -1160,7 +1160,8 @@
 {"nexusFileName":"Standalone - Bardic Inspiration - Effects Remover","nexusFileVersion":"3.30-P7","nexusFileUploadedAt":1725823950,"pakFileName":"VFX and SFX Remover - Standalone - Bardic Inspiration.pak","nexusFileId":69942,"metaUuid":null},
 {"nexusFileName":"Standalone - Moonlantern - Pixie Blessing Remover","nexusFileVersion":"3.30-P7","nexusFileUploadedAt":1725823974,"pakFileName":"VFX and SFX Remover - Standalone - Moonlantern - Blessing.pak","nexusFileId":69944,"metaUuid":null},
 {"nexusFileName":"Standalone - Poison Silencer","nexusFileVersion":"3.30-P7","nexusFileUploadedAt":1725824004,"pakFileName":"VFX and SFX Remover - Standalone - Poison Silencer.pak","nexusFileId":69945,"metaUuid":null},
-{"nexusFileName":"Standalone - Druid - Symbiotic Entity","nexusFileVersion":"3.30-P7","nexusFileUploadedAt":1725824126,"pakFileName":"VFX and SFX Remover - Druid - Symbiotic Entity.pak","nexusFileId":69947,"metaUuid":null}
+{"nexusFileName":"Standalone - Druid - Symbiotic Entity","nexusFileVersion":"3.30-P7","nexusFileUploadedAt":1725824126,"pakFileName":"VFX and SFX Remover - Druid - Symbiotic Entity.pak","nexusFileId":69947,"metaUuid":null},
+{"nexusFileName":"Separate Imp Familiar Silencer Patch 8","nexusFileVersion":"3.88","nexusFileUploadedAt":1782078372,"pakFileName":"VFX and SFX Remover - Standalone - Imp Familier Silencer - P8.pak","nexusFileId":124025,"metaUuid":null}
 ]},
 "597":{"nexusModName":"Blade Ward - Bonus Action","nexusUploadedBy":"TheGreatFox1","nexusModId":597,"paks":[
 {"nexusFileName":"Blade Ward - Bonus Action","nexusFileVersion":"1","nexusFileUploadedAt":1691326035,"pakFileName":"BladeWardBonus.pak","nexusFileId":5417,"metaUuid":null},
@@ -65043,8 +65044,8 @@
 {"nexusFileName":"Master Feat 0198906b 04b4 976c 2dec 57775e03c727","nexusFileVersion":"1.0.0.9","nexusFileUploadedAt":1781593633,"pakFileName":"Master_Feat_0198906b-04b4-976c-2dec-57775e03c727.pak","nexusFileId":123694,"metaUuid":null}
 ]},
 "23123":{"nexusModName":"Cyberpunk 2077 Panam and Aldecaldos' Outfits","nexusUploadedBy":"Lynstence","nexusModId":23123,"paks":[
-{"nexusFileName":"CP77AldecaldosOutfits","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1781733115,"pakFileName":"CP77AldecaldosOutfits.pak","nexusFileId":123781,"metaUuid":null},
-{"nexusFileName":"CP77AldecaldosOutfits_DyeBase","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1781733264,"pakFileName":"CP77AldecaldosOutfits_DyeBase.pak","nexusFileId":123783,"metaUuid":null}
+{"nexusFileName":"CP77AldecaldosOutfits_DyeBase","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1781733264,"pakFileName":"CP77AldecaldosOutfits_DyeBase.pak","nexusFileId":123783,"metaUuid":null},
+{"nexusFileName":"CP77AldecaldosOutfits","nexusFileVersion":"1.0.1","nexusFileUploadedAt":1782075551,"pakFileName":"CP77AldecaldosOutfits.pak","nexusFileId":124024,"metaUuid":null}
 ]},
 "23125":{"nexusModName":"Refit Patch for Modular Equipment","nexusUploadedBy":"DigitalGhostCollector","nexusModId":23125,"paks":[
 {"nexusFileName":"Modular Equipment Refits","nexusFileVersion":"1","nexusFileUploadedAt":1780188022,"pakFileName":"Modular_Equipment_Refits.pak","nexusFileId":122491,"metaUuid":"520e4b59-73d4-459b-9d36-553fa647ce3e"}
