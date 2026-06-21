@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-06-21T21:52:02.961275+00:00","total_mods":16642},
+{"_meta":{"last_run":"2026-06-21T22:52:07.794233+00:00","total_mods":16646},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -39599,10 +39599,10 @@
 {"nexusFileName":"Femme Githyanki Heads","nexusFileVersion":"1","nexusFileUploadedAt":1732772264,"pakFileName":"Femme Githyanki Heads.pak","nexusFileId":80301,"metaUuid":null}
 ]},
 "14032":{"nexusModName":"New Game Plus (NGP)","nexusUploadedBy":"masospaghetti","nexusModId":14032,"paks":[
-{"nexusFileName":"NGP - Part A - Prerelease","nexusFileVersion":"PR1.05.1","nexusFileUploadedAt":1776559896,"pakFileName":"NewGamePlus.pak","nexusFileId":119411,"metaUuid":null},
 {"nexusFileName":"NGP - Part B","nexusFileVersion":"1.05","nexusFileUploadedAt":1777149068,"pakFileName":"NGP_756cd4d2-34a7-dc41-cdb5-01a1313e8b66.pak","nexusFileId":119849,"metaUuid":null},
 {"nexusFileName":"NGP - Part A","nexusFileVersion":"1.05","nexusFileUploadedAt":1777149080,"pakFileName":"NewGamePlus.pak","nexusFileId":119850,"metaUuid":null},
-{"nexusFileName":"NGP - Part B - Prerelease","nexusFileVersion":"PR1.06.2","nexusFileUploadedAt":1777264286,"pakFileName":"NGP_756cd4d2-34a7-dc41-cdb5-01a1313e8b66.pak","nexusFileId":119971,"metaUuid":null}
+{"nexusFileName":"NGP - Part B - Prerelease","nexusFileVersion":"PR1.06.2","nexusFileUploadedAt":1777264286,"pakFileName":"NGP_756cd4d2-34a7-dc41-cdb5-01a1313e8b66.pak","nexusFileId":119971,"metaUuid":null},
+{"nexusFileName":"NGP - Part A - Prerelease","nexusFileVersion":"PR1.06","nexusFileUploadedAt":1782082160,"pakFileName":"NewGamePlus.pak","nexusFileId":124031,"metaUuid":null}
 ]},
 "14033":{"nexusModName":"The House of Hope Couture - Raphael Korrilla and Yurgir outfits","nexusUploadedBy":"Nikjima","nexusModId":14033,"paks":[
 {"nexusFileName":"The House of Hope Couture","nexusFileVersion":"1.1.0.145","nexusFileUploadedAt":1760392179,"pakFileName":"HouseOfHauteCouture_bd3c3acf-4a0e-ae69-106b-78ba64785ced.pak","nexusFileId":105083,"metaUuid":"bd3c3acf-4a0e-ae69-106b-78ba64785ced"}
@@ -65514,7 +65514,7 @@
 {"nexusFileName":"Ice Cold Murder Dagger","nexusFileVersion":"1","nexusFileUploadedAt":1780959827,"pakFileName":"IceColdMurderDagger_4a7c03b6-1f13-4c9c-a913-08536c84e3ec.pak","nexusFileId":123206,"metaUuid":"4a7c03b6-1f13-4c9c-a913-08536c84e3ec"}
 ]},
 "23296":{"nexusModName":"Zenin Path (PT-BR)","nexusUploadedBy":"Firetoga","nexusModId":23296,"paks":[
-{"nexusFileName":"ZeninPath (PT-BR)","nexusFileVersion":"1.0.0.4","nexusFileUploadedAt":1781366152,"pakFileName":"ZeninPath (PT-BR - 1.0.0.4).pak","nexusFileId":123490,"metaUuid":null}
+{"nexusFileName":"ZeninPath (PT-BR)","nexusFileVersion":"1.0.0.5","nexusFileUploadedAt":1782080076,"pakFileName":"ZeninPath (PT-BR - 1.0.0.5).pak","nexusFileId":124028,"metaUuid":null}
 ]},
 "23297":{"nexusModName":"Laezelf","nexusUploadedBy":"yoonmoonsik43","nexusModId":23297,"paks":[
 {"nexusFileName":"Laezelf","nexusFileVersion":"1.0.0.5","nexusFileUploadedAt":1780995195,"pakFileName":"Lazelf_76d0b972-daa8-97d8-87b5-099f64fe8e21.pak","nexusFileId":123225,"metaUuid":"76d0b972-daa8-97d8-87b5-099f64fe8e21"}
@@ -65903,4 +65903,16 @@
 ]},
 "23494":{"nexusModName":"PixellBytes Tactician Enhanced Turkish Translation","nexusUploadedBy":"tarikagl1","nexusModId":23494,"paks":[
 {"nexusFileName":"TacticianEnhanced TR","nexusFileVersion":"1.00.00","nexusFileUploadedAt":1782061883,"pakFileName":"TacticianEnhanced TR.pak","nexusFileId":124008,"metaUuid":null}
+]},
+"23496":{"nexusModName":"5e Spells (Russian Localization)","nexusUploadedBy":"ganeuken","nexusModId":23496,"paks":[
+{"nexusFileName":"5e Spells Russian Localization","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1782079299,"pakFileName":"5eSpells_RUS.pak","nexusFileId":124026,"metaUuid":null}
+]},
+"23497":{"nexusModName":"The Walking Dread","nexusUploadedBy":"KarsusCodex","nexusModId":23497,"paks":[
+{"nexusFileName":"TheWalkingDread","nexusFileVersion":"1","nexusFileUploadedAt":1782081721,"pakFileName":"TheWalkingDread.pak","nexusFileId":124030,"metaUuid":null}
+]},
+"23498":{"nexusModName":"Ghastly Ghouls - Playable Undead Race (Russian Localization)","nexusUploadedBy":"ganeuken","nexusModId":23498,"paks":[
+{"nexusFileName":"Ghastly Ghouls Russian Localization","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1782080051,"pakFileName":"GhastlyGhoulsRU.pak","nexusFileId":124027,"metaUuid":null}
+]},
+"23499":{"nexusModName":"Harlequin Class (Russian Localization)","nexusUploadedBy":"ganeuken","nexusModId":23499,"paks":[
+{"nexusFileName":"Harlequin Class Russian Localization","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1782080568,"pakFileName":"HarlequinClassRU.pak","nexusFileId":124029,"metaUuid":null}
 ]}}
