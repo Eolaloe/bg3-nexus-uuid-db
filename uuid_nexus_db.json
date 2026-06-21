@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-06-21T16:52:15.848497+00:00","total_mods":16642},
+{"_meta":{"last_run":"2026-06-21T17:51:59.905667+00:00","total_mods":16643},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -45086,7 +45086,7 @@
 {"nexusFileName":"EmbersLute_V3CHS","nexusFileVersion":"3.0.2.6","nexusFileUploadedAt":1751859793,"pakFileName":"EmbersLute_V3CHS.pak","nexusFileId":97549,"metaUuid":null}
 ]},
 "16217":{"nexusModName":"Absolute's Laboratory - NPC and Combat Inspector and Mutator","nexusUploadedBy":"osirisofinternet","nexusModId":16217,"paks":[
-{"nexusFileName":"Absolute's Laboratory","nexusFileVersion":"1.11.2","nexusFileUploadedAt":1779567731,"pakFileName":"Absolutes_Laboratory.pak","nexusFileId":121990,"metaUuid":"a17a3a3d-5c16-404a-910a-68ae9e47f247"}
+{"nexusFileName":"Absolute's Laboratory","nexusFileVersion":"1.12.0","nexusFileUploadedAt":1782062513,"pakFileName":"Absolutes_Laboratory.pak","nexusFileId":124009,"metaUuid":"a17a3a3d-5c16-404a-910a-68ae9e47f247"}
 ]},
 "16218":{"nexusModName":"Dragonborn Style Voice Replacer","nexusUploadedBy":"xiaokuii","nexusModId":16218,"paks":[
 {"nexusFileName":"Main file - install with mod manager","nexusFileVersion":"1.0","nexusFileUploadedAt":1746045390,"pakFileName":"Dragonborn.pak","nexusFileId":91214,"metaUuid":"81c2330a-b0bc-420b-b4ce-87fecda5acda"}
@@ -49046,8 +49046,8 @@
 ]},
 "17598":{"nexusModName":"Use 5e Spells with Mystra's Spells","nexusUploadedBy":"Fuyou1066","nexusModId":17598,"paks":[
 {"nexusFileName":"Use ATT Spells With BG2 Spells","nexusFileVersion":"1.0.0.2","nexusFileUploadedAt":1754891838,"pakFileName":"UseATTSpellsWithBG2Spells_40ac8467-6cf5-459d-10b3-c122c623dac2.pak","nexusFileId":100346,"metaUuid":null},
-{"nexusFileName":"Use 5e Spells with Mystra's Spells","nexusFileVersion":"1.1.2.3","nexusFileUploadedAt":1763820528,"pakFileName":"Use5eSpellsWithMystrasSpells_5d1585fa-973a-5721-8bce-4bfbbc84072a.pak","nexusFileId":107917,"metaUuid":"5d1585fa-973a-5721-8bce-4bfbbc84072a"},
-{"nexusFileName":"Compatibility Patch for Exandria and Mystra","nexusFileVersion":"1.0.0.2","nexusFileUploadedAt":1763901227,"pakFileName":"CompatibilityPatchForExandriaAndMystra_48b534d2-a965-995b-fc68-cab87d4c55c2.pak","nexusFileId":107974,"metaUuid":"48b534d2-a965-995b-fc68-cab87d4c55c2"}
+{"nexusFileName":"Compatibility Patch for Exandria and Mystra","nexusFileVersion":"1.0.0.2","nexusFileUploadedAt":1763901227,"pakFileName":"CompatibilityPatchForExandriaAndMystra_48b534d2-a965-995b-fc68-cab87d4c55c2.pak","nexusFileId":107974,"metaUuid":"48b534d2-a965-995b-fc68-cab87d4c55c2"},
+{"nexusFileName":"Use 5e Spells with Mystra's Spells","nexusFileVersion":"1.1.2.5","nexusFileUploadedAt":1782063619,"pakFileName":"Use5eSpellsWithMystrasSpells_5d1585fa-973a-5721-8bce-4bfbbc84072a.pak","nexusFileId":124012,"metaUuid":"5d1585fa-973a-5721-8bce-4bfbbc84072a"}
 ]},
 "17599":{"nexusModName":"Treehome - Persistent Player Housing","nexusUploadedBy":"ForKiramay","nexusModId":17599,"paks":[
 {"nexusFileName":"Treehome","nexusFileVersion":"1.0.0.10","nexusFileUploadedAt":1753227559,"pakFileName":"Treehome_32f69441-ea04-b3af-ace3-64fbf0bfc5c2.pak","nexusFileId":98782,"metaUuid":"32f69441-ea04-b3af-ace3-64fbf0bfc5c2"},
@@ -65896,4 +65896,10 @@
 ]},
 "23492":{"nexusModName":"Selune and Silvanus amulets","nexusUploadedBy":"blackninjato2","nexusModId":23492,"paks":[
 {"nexusFileName":"SeluneSilvanusAmulets","nexusFileVersion":"1","nexusFileUploadedAt":1782058445,"pakFileName":"SeluneSilvanusAmulets.pak","nexusFileId":124006,"metaUuid":null}
+]},
+"23493":{"nexusModName":"SoloLeveling - Shadow Monarch MCM PT-BR","nexusUploadedBy":"ShadowAhJin","nexusModId":23493,"paks":[
+{"nexusFileName":"SoloLeveling - MCM PT-BR","nexusFileVersion":"1.0.0.1","nexusFileUploadedAt":1782062788,"pakFileName":"SoloLeveling_-_Shadow_Monarch_MCM_PTBR.pak","nexusFileId":124011,"metaUuid":null}
+]},
+"23494":{"nexusModName":"PixellBytes Tactician Enhanced Turkish Translation","nexusUploadedBy":"tarikagl1","nexusModId":23494,"paks":[
+{"nexusFileName":"TacticianEnhanced TR","nexusFileVersion":"1.00.00","nexusFileUploadedAt":1782061883,"pakFileName":"TacticianEnhanced TR.pak","nexusFileId":124008,"metaUuid":null}
 ]}}
