@@ -553,15 +553,15 @@
 "428":{"nexusModName":"Wine and Revelry (Satyr Race)","nexusUploadedBy":"labotor","nexusModId":428,"paks":[
 {"nexusFileName":"Patch - Vessnelle's Hair Collection by Vessnelle","nexusFileVersion":"1","nexusFileUploadedAt":1702647137,"pakFileName":"SatyrRaceVessnellePatch.pak","nexusFileId":34681,"metaUuid":"c540a46b-183d-41d1-bcaa-2c206a3ea53d"},
 {"nexusFileName":"Patch - Ghoul's Custom Piercings by ghouls0rules","nexusFileVersion":"1","nexusFileUploadedAt":1705357833,"pakFileName":"SatyrRaceGCPPatch.pak","nexusFileId":40062,"metaUuid":"96c14053-9ec0-41e2-8207-a9e53569471b"},
-{"nexusFileName":"Patch - Bell necklace plus earrings by Toarie","nexusFileVersion":"1","nexusFileUploadedAt":1705357898,"pakFileName":"SatyrRaceBellsPatch.pak","nexusFileId":40063,"metaUuid":null},
-{"nexusFileName":"Patch - Dreadlocs and Curly Hairs 1-2 by Bububull","nexusFileVersion":"1.1","nexusFileUploadedAt":1709843211,"pakFileName":"SatyrRaceMDCHPatch.pak","nexusFileId":48794,"metaUuid":null},
-{"nexusFileName":"Patch - Em's Custom Hair Pack 1-2 by EmeraldTechno","nexusFileVersion":"1.1","nexusFileUploadedAt":1709843244,"pakFileName":"SatyrRaceEmCHPPatch.pak","nexusFileId":48795,"metaUuid":null},
-{"nexusFileName":"Patch - Long 'n Short Flowery Hair by EmeraldTecho","nexusFileVersion":"1","nexusFileUploadedAt":1709843325,"pakFileName":"SatyrRaceFlowerHairPatch.pak","nexusFileId":48797,"metaUuid":null},
+{"nexusFileName":"Patch - Bell necklace plus earrings by Toarie","nexusFileVersion":"1","nexusFileUploadedAt":1705357898,"pakFileName":"SatyrRaceBellsPatch.pak","nexusFileId":40063,"metaUuid":"5bef019a-6025-4ccc-ba56-5f263062501b"},
+{"nexusFileName":"Patch - Dreadlocs and Curly Hairs 1-2 by Bububull","nexusFileVersion":"1.1","nexusFileUploadedAt":1709843211,"pakFileName":"SatyrRaceMDCHPatch.pak","nexusFileId":48794,"metaUuid":"d7e5e7ec-7e65-4a9e-aa41-c351e129cae7"},
+{"nexusFileName":"Patch - Em's Custom Hair Pack 1-2 by EmeraldTechno","nexusFileVersion":"1.1","nexusFileUploadedAt":1709843244,"pakFileName":"SatyrRaceEmCHPPatch.pak","nexusFileId":48795,"metaUuid":"1679a35a-fa89-469b-bb11-79d75b27868d"},
+{"nexusFileName":"Patch - Long 'n Short Flowery Hair by EmeraldTecho","nexusFileVersion":"1","nexusFileUploadedAt":1709843325,"pakFileName":"SatyrRaceFlowerHairPatch.pak","nexusFileId":48797,"metaUuid":"b8b815f8-ecde-410e-93aa-f398e3579c45"},
 {"nexusFileName":"Patch - New CC Presets WIP by Toarie","nexusFileVersion":"1","nexusFileUploadedAt":1709843370,"pakFileName":"SatyrRaceToarieWIPPatch.pak","nexusFileId":48798,"metaUuid":"41bfd38b-089b-4312-845d-53b0c385a31b"},
 {"nexusFileName":"Patch - More Beards by Bububull","nexusFileVersion":"1","nexusFileUploadedAt":1710095920,"pakFileName":"SatyrRaceMoreBeardsPatch.pak","nexusFileId":49384,"metaUuid":"7e585fff-d179-44be-aeb0-4f4b6d05e901"},
-{"nexusFileName":"Patch - Kylin's Horns by kylin3","nexusFileVersion":"1","nexusFileUploadedAt":1727634480,"pakFileName":"SatyrRaceKylinHornsPatch.pak","nexusFileId":73263,"metaUuid":null},
+{"nexusFileName":"Patch - Kylin's Horns by kylin3","nexusFileVersion":"1","nexusFileUploadedAt":1727634480,"pakFileName":"SatyrRaceKylinHornsPatch.pak","nexusFileId":73263,"metaUuid":"4c29c84f-f5ed-4d7d-aa4a-e957b429bebd"},
 {"nexusFileName":"Patch - Saer's Horns by AtmosFur","nexusFileVersion":"1.1","nexusFileUploadedAt":1727943185,"pakFileName":"SatyrRaceSaerHornsPatch.pak","nexusFileId":73705,"metaUuid":"bcff6a47-507f-4ac5-993d-c79d29bc07b8"},
-{"nexusFileName":"Patch - Izzli's Snazzy Salon by Izzli","nexusFileVersion":"1","nexusFileUploadedAt":1729437781,"pakFileName":"SatyrRaceIzzliHairPatch.pak","nexusFileId":76031,"metaUuid":null},
+{"nexusFileName":"Patch - Izzli's Snazzy Salon by Izzli","nexusFileVersion":"1","nexusFileUploadedAt":1729437781,"pakFileName":"SatyrRaceIzzliHairPatch.pak","nexusFileId":76031,"metaUuid":"e1e25cc6-964a-441f-9782-9973bd433bd4"},
 {"nexusFileName":"Patch - Faces of Faerun by Alojia","nexusFileVersion":"1.3","nexusFileUploadedAt":1736165359,"pakFileName":"SatyrRaceFoFPatch.pak","nexusFileId":83555,"metaUuid":"d3612b11-75da-4fe5-a615-57ccc72477c3"},
 {"nexusFileName":"Playable Satyr Race","nexusFileVersion":"3.1.2","nexusFileUploadedAt":1746451020,"pakFileName":"SatyrRace.pak","nexusFileId":91834,"metaUuid":"68315895-8bd4-4d53-aefc-1b853ffc1461"}
 ]},
@@ -18700,7 +18700,7 @@
 {"nexusFileName":"Myrkul Deity","nexusFileVersion":"1.0.0.1","nexusFileUploadedAt":1705226109,"pakFileName":"MyrkulDeity.pak","nexusFileId":39814,"metaUuid":"e08ec529-d255-42ea-bce2-4bb9b4605090"}
 ]},
 "5907":{"nexusModName":"Indoct's Subtler Piercings","nexusUploadedBy":"indoct","nexusModId":5907,"paks":[
-{"nexusFileName":"Indoct's Subtler Piercings - REGULAR","nexusFileVersion":"2.0","nexusFileUploadedAt":1705794704,"pakFileName":"SubtlerPiercings.pak","nexusFileId":41011,"metaUuid":null},
+{"nexusFileName":"Indoct's Subtler Piercings - REGULAR","nexusFileVersion":"2.0","nexusFileUploadedAt":1705794704,"pakFileName":"SubtlerPiercings.pak","nexusFileId":41011,"metaUuid":"a4632918-29e9-4a21-9f10-2e02e77a39fa"},
 {"nexusFileName":"Indoct's Subtler Piercings - STRONG","nexusFileVersion":"2.0","nexusFileUploadedAt":1705795123,"pakFileName":"SubtlerPiercings.pak","nexusFileId":41015,"metaUuid":null}
 ]},
 "5909":{"nexusModName":"Displacer Beast Summon - CHS and CHT Translation Packs","nexusUploadedBy":"Lezaza0","nexusModId":5909,"paks":[
@@ -35744,7 +35744,7 @@
 {"nexusFileName":"Level 1 - 12 addon","nexusFileVersion":"1.0","nexusFileUploadedAt":1755720307,"pakFileName":"Dragontamer_Level1-12Addon_8063d4f8-bf71-16ba-5a7a-278e40446450.pak","nexusFileId":101093,"metaUuid":"8063d4f8-bf71-16ba-5a7a-278e40446450"},
 {"nexusFileName":"Laezel dragontamer class","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1773866364,"pakFileName":"LaezelDragontamer_14047a9e-882b-c0b6-89d0-04e0bd5d9bb2.pak","nexusFileId":117008,"metaUuid":"14047a9e-882b-c0b6-89d0-04e0bd5d9bb2"},
 {"nexusFileName":"Z Fix Elder F74154ec 6c9a Ebde 7255 C74c9fff28a6","nexusFileVersion":"1","nexusFileUploadedAt":1780804543,"pakFileName":"Z_Fix_Elder_f74154ec-6c9a-ebde-7255-c74c9fff28a6.pak","nexusFileId":123039,"metaUuid":null},
-{"nexusFileName":"Dragontamer","nexusFileVersion":"4.2.0.4","nexusFileUploadedAt":1781456171,"pakFileName":"Dragontamer_d5fe8e91-2f5b-3d7e-0257-38fff4c2dcde.pak","nexusFileId":123570,"metaUuid":null}
+{"nexusFileName":"Dragontamer","nexusFileVersion":"4.2.0.4","nexusFileUploadedAt":1781456171,"pakFileName":"Dragontamer_d5fe8e91-2f5b-3d7e-0257-38fff4c2dcde.pak","nexusFileId":123570,"metaUuid":"d5fe8e91-2f5b-3d7e-0257-38fff4c2dcde"}
 ]},
 "12625":{"nexusModName":"Redesigned Camp and new Tav Hut - Act I Wilderness","nexusUploadedBy":"AntifaLafel","nexusModId":12625,"paks":[
 {"nexusFileName":"Redesigned Camp (TAV HUT) - Act I Wilderness","nexusFileVersion":"1.3.0","nexusFileUploadedAt":1728385067,"pakFileName":"AntifaLafel_RedesignedCampWilderness.pak","nexusFileId":74520,"metaUuid":"1cbc51fa-57ba-7dc0-900c-fb55e12a55f6"},
@@ -42670,7 +42670,7 @@
 ]},
 "15227":{"nexusModName":"Birthsigns of Faerun","nexusUploadedBy":"Siaell","nexusModId":15227,"paks":[
 {"nexusFileName":"Traditional names - addon","nexusFileVersion":"1.1","nexusFileUploadedAt":1745096609,"pakFileName":"Birthsigns - Reverse.pak","nexusFileId":89736,"metaUuid":"2843a8e3-a461-47f9-9529-9e15e47f8e29"},
-{"nexusFileName":"Birthsigns of Faerun","nexusFileVersion":"1.26","nexusFileUploadedAt":1781288436,"pakFileName":"Birthsigns.pak","nexusFileId":123422,"metaUuid":null}
+{"nexusFileName":"Birthsigns of Faerun","nexusFileVersion":"1.26","nexusFileUploadedAt":1781288436,"pakFileName":"Birthsigns.pak","nexusFileId":123422,"metaUuid":"2843a8e3-a461-47f9-9529-9e15e47f8e29"}
 ]},
 "15228":{"nexusModName":"Blood Hunter Class Polish Translation","nexusUploadedBy":"ShenLuse","nexusModId":15228,"paks":[
 {"nexusFileName":"Blood Hunter Class PL","nexusFileVersion":"1.12","nexusFileUploadedAt":1741373452,"pakFileName":"Blood_Hunter_PL.pak","nexusFileId":86855,"metaUuid":null}
@@ -51398,9 +51398,9 @@
 {"nexusFileName":"10 Short Rests","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1756844292,"pakFileName":"More_Short_Rests_6ad2c561-cf83-7f81-41c0-f1aafaf38a0f.pak","nexusFileId":101954,"metaUuid":null}
 ]},
 "18449":{"nexusModName":"Triton Race","nexusUploadedBy":"IKarl96","nexusModId":18449,"paks":[
-{"nexusFileName":"Triton Hair Patches","nexusFileVersion":"1","nexusFileUploadedAt":1756933569,"pakFileName":"Triton_Hair_Patches.pak","nexusFileId":102032,"metaUuid":null},
-{"nexusFileName":"Half Tiefs Triton Patch","nexusFileVersion":"1","nexusFileUploadedAt":1758209847,"pakFileName":"Half_Tiefs_Triton_Patch.pak","nexusFileId":103098,"metaUuid":null},
-{"nexusFileName":"Half Tiefs Flora and Fauna Triton Patch","nexusFileVersion":"1","nexusFileUploadedAt":1758209913,"pakFileName":"Half_Tiefs_Flora_Fauna_Triton_Patch.pak","nexusFileId":103099,"metaUuid":null},
+{"nexusFileName":"Triton Hair Patches","nexusFileVersion":"1","nexusFileUploadedAt":1756933569,"pakFileName":"Triton_Hair_Patches.pak","nexusFileId":102032,"metaUuid":"039ac9b3-a3d1-4ee8-b5f1-9837db048ece"},
+{"nexusFileName":"Half Tiefs Triton Patch","nexusFileVersion":"1","nexusFileUploadedAt":1758209847,"pakFileName":"Half_Tiefs_Triton_Patch.pak","nexusFileId":103098,"metaUuid":"ef52a975-9f4f-40f8-95cd-37fb9dad51cf"},
+{"nexusFileName":"Half Tiefs Flora and Fauna Triton Patch","nexusFileVersion":"1","nexusFileUploadedAt":1758209913,"pakFileName":"Half_Tiefs_Flora_Fauna_Triton_Patch.pak","nexusFileId":103099,"metaUuid":"2d6389de-72b3-42be-b9d4-2b26d290fffe"},
 {"nexusFileName":"Alternate Tiefling Tails Triton Patch","nexusFileVersion":"1","nexusFileUploadedAt":1759782922,"pakFileName":"Alt_Tiefling_Tails_UT_Tritons.pak","nexusFileId":104481,"metaUuid":null},
 {"nexusFileName":"Triton Race (Human Utav Body Textures)","nexusFileVersion":"1","nexusFileUploadedAt":1766871942,"pakFileName":"Triton_Hum_BodyTexture.pak","nexusFileId":110495,"metaUuid":null},
 {"nexusFileName":"Triton Race","nexusFileVersion":"1.6","nexusFileUploadedAt":1778876834,"pakFileName":"Triton_Race.pak","nexusFileId":121325,"metaUuid":"c4999760-20f7-444f-9ede-2d64d6c460b3"},
@@ -65739,7 +65739,7 @@
 {"nexusFileName":"A Humans Random Loot CHS","nexusFileVersion":"2","nexusFileUploadedAt":1781679502,"pakFileName":"A_Humans_Random_Loot_CHS.pak","nexusFileId":123743,"metaUuid":null}
 ]},
 "23416":{"nexusModName":"Karlach for Bodytype 1","nexusUploadedBy":"spacefaces","nexusModId":23416,"paks":[
-{"nexusFileName":"Karlach BT1 AEE","nexusFileVersion":"3","nexusFileUploadedAt":1781773263,"pakFileName":"KarlachBT1_AEE.pak","nexusFileId":123814,"metaUuid":null},
+{"nexusFileName":"Karlach BT1 AEE","nexusFileVersion":"3","nexusFileUploadedAt":1781773263,"pakFileName":"KarlachBT1_AEE.pak","nexusFileId":123814,"metaUuid":"b7af6b6c-9823-49ac-83f6-aa1b5fd59525"},
 {"nexusFileName":"Karlach for Bodytype 1","nexusFileVersion":"3","nexusFileUploadedAt":1781955648,"pakFileName":"Karlach_BT1_deda4b3e-0168-4be5-286c-2093b7a54c5d.pak","nexusFileId":123920,"metaUuid":null},
 {"nexusFileName":"Karlach BT1 Vanilla Skin Texture","nexusFileVersion":"3","nexusFileUploadedAt":1781955929,"pakFileName":"Karlach_BT1_VanillaSkin.pak","nexusFileId":123921,"metaUuid":null}
 ]},
@@ -65820,7 +65820,7 @@
 {"nexusFileName":"merryvale's MaD KAVT UTAV","nexusFileVersion":"1","nexusFileUploadedAt":1781833737,"pakFileName":"merryvale's MaD KAVT-UTAV.pak","nexusFileId":123857,"metaUuid":null}
 ]},
 "23453":{"nexusModName":"Blood Drink Feat - Savage and Mystic Hunger","nexusUploadedBy":"yoonmoonsik43","nexusModId":23453,"paks":[
-{"nexusFileName":"Blooddrinkhand C3ae33b5 858a F Dhvb","nexusFileVersion":"1","nexusFileUploadedAt":1781828983,"pakFileName":"BloodDrinkHand_c3ae33b5-858a-f219-99c4-67d200457b3a.pak","nexusFileId":123855,"metaUuid":null}
+{"nexusFileName":"Blooddrinkhand C3ae33b5 858a F Dhvb","nexusFileVersion":"1","nexusFileUploadedAt":1781828983,"pakFileName":"BloodDrinkHand_c3ae33b5-858a-f219-99c4-67d200457b3a.pak","nexusFileId":123855,"metaUuid":"c3ae33b5-858a-f219-99c4-67d200457b3a"}
 ]},
 "23454":{"nexusModName":"Legendary Amulets for Durge and Tav","nexusUploadedBy":"romanxocs","nexusModId":23454,"paks":[
 {"nexusFileName":"Durge's Vengeance Amulet","nexusFileVersion":"1","nexusFileUploadedAt":1781839851,"pakFileName":"R_DurgeAmulet.pak","nexusFileId":123860,"metaUuid":"6a838155-69fc-491e-a1ef-94314bef8f95"},
