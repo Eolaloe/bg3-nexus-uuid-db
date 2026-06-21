@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-06-21T05:51:47.316837+00:00","total_mods":16634},
+{"_meta":{"last_run":"2026-06-21T06:09:47.574386+00:00","total_mods":16636},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -18533,7 +18533,8 @@
 {"nexusFileName":"DnD5R - Warlock Cantrip Invocations Plus","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1732674024,"pakFileName":"DnD5R_InvocationCantrips_Plus_44d04319-55c3-1adb-8316-a1cba316f315.pak","nexusFileId":80226,"metaUuid":"44d04319-55c3-1adb-8316-a1cba316f315"},
 {"nexusFileName":"Tomelock as Invocation Compatibility Patch","nexusFileVersion":"1.0.0.1","nexusFileUploadedAt":1732961653,"pakFileName":"CLCF-RQ-heartoftheland_cf717a5b-65d6-94bd-71ed-a3ac4611d855.pak","nexusFileId":80539,"metaUuid":null},
 {"nexusFileName":"Bladesong Short Rest Recovery","nexusFileVersion":"1.0.0.1","nexusFileUploadedAt":1748487717,"pakFileName":"Rando_BladesongSR_83ef2b16-5741-9591-f6a3-a5f61f471097.pak","nexusFileId":94373,"metaUuid":null},
-{"nexusFileName":"DnD5R - Warlock Cantrip Invocations","nexusFileVersion":"1.0.2.6","nexusFileUploadedAt":1752125694,"pakFileName":"DnD5R_InvocationCantrips_aeefeab5-2ecb-c90f-ee5d-e76efa2101bf.pak","nexusFileId":97789,"metaUuid":"aeefeab5-2ecb-c90f-ee5d-e76efa2101bf"}
+{"nexusFileName":"DnD5R - Warlock Cantrip Invocations","nexusFileVersion":"1.0.2.6","nexusFileUploadedAt":1752125694,"pakFileName":"DnD5R_InvocationCantrips_aeefeab5-2ecb-c90f-ee5d-e76efa2101bf.pak","nexusFileId":97789,"metaUuid":"aeefeab5-2ecb-c90f-ee5d-e76efa2101bf"},
+{"nexusFileName":"Necrotic Hunger of Hadar","nexusFileVersion":"1","nexusFileUploadedAt":1782021530,"pakFileName":"Rando-getcargofar_HoH_2bed13b7-797a-c436-dfc1-7e750f80c747.pak","nexusFileId":123962,"metaUuid":null}
 ]},
 "5864":{"nexusModName":"5e Monster Slayer - Ranger Subclasss (Plus New Spells) ITA","nexusUploadedBy":"genis0","nexusModId":5864,"paks":[
 {"nexusFileName":"Uccisore di Mostri ITA","nexusFileVersion":"1.9.0.1","nexusFileUploadedAt":1709732053,"pakFileName":"MonsterSlayer5eITA.pak","nexusFileId":48480,"metaUuid":null}
@@ -43448,7 +43449,7 @@
 {"nexusFileName":"Ultimate NPC Stat Overhaul - CX","nexusFileVersion":"3.0.0.1","nexusFileUploadedAt":1780904471,"pakFileName":"Ultimate NPC Stat Overhaul - CX.pak","nexusFileId":123142,"metaUuid":"61e8471b-4eda-4493-829d-e3c29ecc36c3"},
 {"nexusFileName":"Ultimate NPC Stat Overhaul - CX - Extras","nexusFileVersion":"3.0.0.1","nexusFileUploadedAt":1780904480,"pakFileName":"Ultimate NPC Stat Overhaul - CX - Extras.pak","nexusFileId":123143,"metaUuid":null},
 {"nexusFileName":"Ultimate NPC Stat Overhaul - Core - Extras","nexusFileVersion":"3.0.0.1","nexusFileUploadedAt":1780904498,"pakFileName":"Ultimate NPC Stat Overhaul - Core - Extras.pak","nexusFileId":123144,"metaUuid":"e2863ee8-846a-4492-b8bb-f710e1a382ef"},
-{"nexusFileName":"Ultimate NPC Stat Overhaul - Core","nexusFileVersion":"3.0.0.1","nexusFileUploadedAt":1780909483,"pakFileName":"Ultimate NPC Stat Overhaul - Core.pak","nexusFileId":123150,"metaUuid":"a7b5810e-3ac1-4a8f-bcc9-d18d91de2505"}
+{"nexusFileName":"Ultimate NPC Stat Overhaul - Core","nexusFileVersion":"3.1.0.0","nexusFileUploadedAt":1782021344,"pakFileName":"Ultimate NPC Stat Overhaul - Core.pak","nexusFileId":123961,"metaUuid":"a7b5810e-3ac1-4a8f-bcc9-d18d91de2505"}
 ]},
 "15536":{"nexusModName":"Pact and Power PTBR 1.0.0.4","nexusUploadedBy":"kaironn2","nexusModId":15536,"paks":[
 {"nexusFileName":"Pact and Power PTBR 1.0.0.4","nexusFileVersion":"1.0.0.4","nexusFileUploadedAt":1745167800,"pakFileName":"pact_and_power_ptbr.pak","nexusFileId":89904,"metaUuid":"7a95bb0a-856e-48dc-bea5-2b9f188f92df"}
@@ -65829,7 +65830,7 @@
 {"nexusFileName":"TidesOfChaos2024CHS","nexusFileVersion":"1.0","nexusFileUploadedAt":1781866169,"pakFileName":"TidesOfChaos2024CHS.pak","nexusFileId":123876,"metaUuid":null}
 ]},
 "23456":{"nexusModName":"Camp Activities (Fixed)","nexusUploadedBy":"GabeCamomescro","nexusModId":23456,"paks":[
-{"nexusFileName":"Main (Live) File","nexusFileVersion":"1.0.0.41","nexusFileUploadedAt":1781964444,"pakFileName":"CampActivitiesFixed_82983cc8-c8f3-790c-d3ff-cf448ce04845.pak","nexusFileId":123925,"metaUuid":"82983cc8-c8f3-790c-d3ff-cf448ce04845"}
+{"nexusFileName":"Main (Live) File","nexusFileVersion":"1.0.0.68","nexusFileUploadedAt":1782021256,"pakFileName":"CampActivitiesFixed_82983cc8-c8f3-790c-d3ff-cf448ce04845.pak","nexusFileId":123960,"metaUuid":"82983cc8-c8f3-790c-d3ff-cf448ce04845"}
 ]},
 "23457":{"nexusModName":"Agonizing Cantrips","nexusUploadedBy":"yoonmoonsik43","nexusModId":23457,"paks":[
 {"nexusFileName":"Agonizingcantrip D2c2aab8 E7fb K9cx","nexusFileVersion":"2","nexusFileUploadedAt":1781854232,"pakFileName":"AgonizingCantrip_d2c2aab8-e7fb-98fe-8793-c1c0a198a211.pak","nexusFileId":123870,"metaUuid":null}
@@ -65878,4 +65879,11 @@
 ]},
 "23479":{"nexusModName":"ClawStep Skimpy RobenUndies","nexusUploadedBy":"3BuBu3","nexusModId":23479,"paks":[
 {"nexusFileName":"SkimpyRobenUndies_ClawStep","nexusFileVersion":"1.0","nexusFileUploadedAt":1781999863,"pakFileName":"SkimpyRobenUndies_ClawStep_8856da41-1f9c-a612-c7e2-80bf818be2b2.pak","nexusFileId":123955,"metaUuid":null}
+]},
+"23481":{"nexusModName":"Smokin' Hot","nexusUploadedBy":"BittenThrice","nexusModId":23481,"paks":[
+{"nexusFileName":"Smokin' Hot","nexusFileVersion":"1.0.0.22","nexusFileUploadedAt":1782019786,"pakFileName":"SmokinHot.pak","nexusFileId":123958,"metaUuid":null}
+]},
+"23482":{"nexusModName":"College of Madness","nexusUploadedBy":"Gillen1314","nexusModId":23482,"paks":[
+{"nexusFileName":"College Of Madness","nexusFileVersion":"1","nexusFileUploadedAt":1782020400,"pakFileName":"CollegeOfMadness.pak","nexusFileId":123959,"metaUuid":null},
+{"nexusFileName":"College Of Madness","nexusFileVersion":"1","nexusFileUploadedAt":1782020400,"pakFileName":"CollegeOfMadness_BonusFeats.pak","nexusFileId":123959,"metaUuid":null}
 ]}}
