@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-06-22T04:52:28.847962+00:00","total_mods":16648},
+{"_meta":{"last_run":"2026-06-22T05:52:56.869291+00:00","total_mods":16647},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -3066,8 +3066,8 @@
 {"nexusFileName":"Full CR Progression for all druid subclasses","nexusFileVersion":"1.0","nexusFileUploadedAt":1753753038,"pakFileName":"DWSO_Full_CR_Progression_For_All.pak","nexusFileId":99353,"metaUuid":"3b5c8ed9-af93-4a99-a6e3-be6460e8e127"},
 {"nexusFileName":"DWSO - Wild Shape as Ritual","nexusFileVersion":"1.2","nexusFileUploadedAt":1754055420,"pakFileName":"DWSO_Ritual.pak","nexusFileId":99623,"metaUuid":"aa3521e2-826c-4f37-88fe-075be58e4398"},
 {"nexusFileName":"DWSO - Improved Wild Strike","nexusFileVersion":"1.0","nexusFileUploadedAt":1754524300,"pakFileName":"DWSO_ImprovedWildStrike.pak","nexusFileId":100069,"metaUuid":"877b68f0-8fcb-4318-a28e-4825f56040c3"},
-{"nexusFileName":"DruidWildShapeOverhaul","nexusFileVersion":"1.1.1.0","nexusFileUploadedAt":1782102059,"pakFileName":"DruidWildShapeOverhaul.pak","nexusFileId":124062,"metaUuid":"274cf3f1-f043-4e1f-8acf-b2e79c3630b8"},
-{"nexusFileName":"DWSO - 5R Features","nexusFileVersion":"1.0","nexusFileUploadedAt":1782102095,"pakFileName":"Druid Wild Shape Overhaul - 5R features.pak","nexusFileId":124063,"metaUuid":null}
+{"nexusFileName":"DWSO - 5R Features","nexusFileVersion":"1.0","nexusFileUploadedAt":1782102095,"pakFileName":"Druid Wild Shape Overhaul - 5R features.pak","nexusFileId":124063,"metaUuid":null},
+{"nexusFileName":"DruidWildShapeOverhaul","nexusFileVersion":"1.1.1.0","nexusFileUploadedAt":1782105168,"pakFileName":"DruidWildShapeOverhaul.pak","nexusFileId":124064,"metaUuid":"274cf3f1-f043-4e1f-8acf-b2e79c3630b8"}
 ]},
 "1149":{"nexusModName":"Mol Persuasion Bug Fix","nexusUploadedBy":"Joell560","nexusModId":1149,"paks":[
 {"nexusFileName":"Mol Persuasion Bug Fix","nexusFileVersion":"1.2","nexusFileUploadedAt":1718072982,"pakFileName":"KW_MolPersuasionBugFix.pak","nexusFileId":60606,"metaUuid":null}
@@ -65837,7 +65837,7 @@
 {"nexusFileName":"Glamour","nexusFileVersion":"1","nexusFileUploadedAt":1781919315,"pakFileName":"Glamour_960136b9-bed7-156f-59c6-c5487b9cb196.pak","nexusFileId":123903,"metaUuid":"960136b9-bed7-156f-59c6-c5487b9cb196"}
 ]},
 "23466":{"nexusModName":"Clean My Hotbar By Doya Solutions","nexusUploadedBy":"doyasolutions","nexusModId":23466,"paks":[
-{"nexusFileName":"CleanMyHotbarByDoyaSolutions","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1781927686,"pakFileName":"CleanMyHotbarByDoyaSolutions.pak","nexusFileId":123906,"metaUuid":null}
+{"nexusFileName":"CleanMyHotbarByDoyaSolutions","nexusFileVersion":"1.0.0.1","nexusFileUploadedAt":1782107517,"pakFileName":"CleanMyHotbarByDoyaSolutions.pak","nexusFileId":124065,"metaUuid":null}
 ]},
 "23467":{"nexusModName":"Mystra's Spells TR - Turkish Translation","nexusUploadedBy":"tarikagl1","nexusModId":23467,"paks":[
 {"nexusFileName":"Mystra'S Spells TR","nexusFileVersion":"1.00.00","nexusFileUploadedAt":1781941809,"pakFileName":"Mystra's Spells TR.pak","nexusFileId":123915,"metaUuid":null}
