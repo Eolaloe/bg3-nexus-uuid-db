@@ -583,7 +583,7 @@
 ]},
 "434":{"nexusModName":"Unearthed Manual","nexusUploadedBy":"DungeonsAndSouls","nexusModId":434,"paks":[
 {"nexusFileName":"Unearthed Manual - Hit Dice","nexusFileVersion":"1","nexusFileUploadedAt":1777217814,"pakFileName":"UnearthedManual-HitDice_cfd20257-e782-e56f-c942-15c10e36f01f.pak","nexusFileId":119934,"metaUuid":null},
-{"nexusFileName":"Unearthed Manual - Initiate Feat","nexusFileVersion":"2.0.0.6","nexusFileUploadedAt":1777217943,"pakFileName":"UnearthedManual-InitiateFeat_4f4cd563-2233-dcee-1df5-9df15422f8bc.pak","nexusFileId":119936,"metaUuid":null}
+{"nexusFileName":"Unearthed Manual - Initiate Feat","nexusFileVersion":"2.0.0.6","nexusFileUploadedAt":1777217943,"pakFileName":"UnearthedManual-InitiateFeat_4f4cd563-2233-dcee-1df5-9df15422f8bc.pak","nexusFileId":119936,"metaUuid":"4f4cd563-2233-dcee-1df5-9df15422f8bc"}
 ]},
 "440":{"nexusModName":"Fabled Backgrounds","nexusUploadedBy":"DungeonsAndSouls","nexusModId":440,"paks":[
 {"nexusFileName":"Fabled Backgrounds","nexusFileVersion":"9.0","nexusFileUploadedAt":1677162493,"pakFileName":"Fabled Backgrounds.pak","nexusFileId":4214,"metaUuid":null},
@@ -1969,7 +1969,7 @@
 {"nexusFileName":"DivineFavorNoConcentration120RoundsDuration","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1692397709,"pakFileName":"DivineFavorUntilRest.pak","nexusFileId":8400,"metaUuid":null}
 ]},
 "845":{"nexusModName":"Smuggler's Ring Improved","nexusUploadedBy":"Sqwero","nexusModId":845,"paks":[
-{"nexusFileName":"Smuggler's Ring","nexusFileVersion":"1.1","nexusFileUploadedAt":1692816978,"pakFileName":"Smugglers Ring.pak","nexusFileId":9748,"metaUuid":null}
+{"nexusFileName":"Smuggler's Ring","nexusFileVersion":"1.1","nexusFileUploadedAt":1692816978,"pakFileName":"Smugglers Ring.pak","nexusFileId":9748,"metaUuid":"9b17026b-93e7-48cb-bc40-50bd6c921f57"}
 ]},
 "848":{"nexusModName":"Camp Outfits of Skills","nexusUploadedBy":"Belinn","nexusModId":848,"paks":[
 {"nexusFileName":"Camp Outfits of Skills","nexusFileVersion":"3.2","nexusFileUploadedAt":1729808284,"pakFileName":"Stats_CampOutfitsOfSkills.pak","nexusFileId":76606,"metaUuid":"3395fe46-6853-4211-8182-64d72bd0850f"}
@@ -6035,7 +6035,7 @@
 ]},
 "1732":{"nexusModName":"Inferno Adept Gear Set (Fire Damage)","nexusUploadedBy":"seymordius","nexusModId":1732,"paks":[
 {"nexusFileName":"Inferno Adept - Rare Version","nexusFileVersion":"2.3","nexusFileUploadedAt":1736487996,"pakFileName":"FireSet - Rare.pak","nexusFileId":83799,"metaUuid":null},
-{"nexusFileName":"Inferno Adept - Legendary Version","nexusFileVersion":"2.3","nexusFileUploadedAt":1736488145,"pakFileName":"FireSet - Legendary.pak","nexusFileId":83801,"metaUuid":null},
+{"nexusFileName":"Inferno Adept - Legendary Version","nexusFileVersion":"2.3","nexusFileUploadedAt":1736488145,"pakFileName":"FireSet - Legendary.pak","nexusFileId":83801,"metaUuid":"73b60272-3d98-4087-a17b-d40fa99999d1"},
 {"nexusFileName":"Inferno Adept - Legendary Version - No Fire Effect","nexusFileVersion":"2.3","nexusFileUploadedAt":1741228067,"pakFileName":"FireSet - Legendary -NoFire.pak","nexusFileId":86773,"metaUuid":null},
 {"nexusFileName":"Inferno Adept - Rare Version - No Fire","nexusFileVersion":"2.3","nexusFileUploadedAt":1741228113,"pakFileName":"FireSet - Rare - NoFire.pak","nexusFileId":86774,"metaUuid":null}
 ]},
@@ -9924,7 +9924,7 @@
 {"nexusFileName":"Style H","nexusFileVersion":"0.2.3","nexusFileUploadedAt":1729776752,"pakFileName":"Female Astarion Voice Conversion Style H v2.3.pak","nexusFileId":76527,"metaUuid":null},
 {"nexusFileName":"Style I","nexusFileVersion":"0.2.3","nexusFileUploadedAt":1729777806,"pakFileName":"Female Astarion Voice Conversion Style I v2.3.pak","nexusFileId":76530,"metaUuid":null},
 {"nexusFileName":"Style J","nexusFileVersion":"0.2.3","nexusFileUploadedAt":1729778995,"pakFileName":"Female Astarion Voice Conversion Style J v2.3.pak","nexusFileId":76533,"metaUuid":null},
-{"nexusFileName":"Style K","nexusFileVersion":"0.2.3","nexusFileUploadedAt":1729780246,"pakFileName":"Female Astarion Voice Conversion Style K v2.3.pak","nexusFileId":76536,"metaUuid":null},
+{"nexusFileName":"Style K","nexusFileVersion":"0.2.3","nexusFileUploadedAt":1729780246,"pakFileName":"Female Astarion Voice Conversion Style K v2.3.pak","nexusFileId":76536,"metaUuid":"646e0899-89e5-4944-8852-ba62ff62104e"},
 {"nexusFileName":"Style L","nexusFileVersion":"0.2.3","nexusFileUploadedAt":1729781305,"pakFileName":"Female Astarion Voice Conversion Style L v2.3.pak","nexusFileId":76538,"metaUuid":"48f42061-54bd-4cfa-89b2-23ffb1729853"},
 {"nexusFileName":"Style M","nexusFileVersion":"0.2.3","nexusFileUploadedAt":1729782338,"pakFileName":"Female Astarion Voice Conversion Style M v2.3.pak","nexusFileId":76540,"metaUuid":null},
 {"nexusFileName":"Style N","nexusFileVersion":"0.2.3","nexusFileUploadedAt":1729783534,"pakFileName":"Female Astarion Voice Conversion Style N v2.3.pak","nexusFileId":76546,"metaUuid":null},
@@ -10835,7 +10835,7 @@
 {"nexusFileName":"Bloodborne Sawcleaver","nexusFileVersion":"1.2.1","nexusFileUploadedAt":1697522505,"pakFileName":"Sawcleaver.pak","nexusFileId":23577,"metaUuid":"920daced-8d60-46fb-aa89-e24b507f7af0"}
 ]},
 "3323":{"nexusModName":"Chronurgy Magic Wizard Subclass","nexusUploadedBy":"havsglimt","nexusModId":3323,"paks":[
-{"nexusFileName":"Chronurgy Magic Wizard Subclass","nexusFileVersion":"1.6","nexusFileUploadedAt":1715793728,"pakFileName":"ChronurgyMagic.pak","nexusFileId":57290,"metaUuid":null}
+{"nexusFileName":"Chronurgy Magic Wizard Subclass","nexusFileVersion":"1.6","nexusFileUploadedAt":1715793728,"pakFileName":"ChronurgyMagic.pak","nexusFileId":57290,"metaUuid":"646d127d-6e6a-4d09-a2b0-2ec15b572e47"}
 ]},
 "3324":{"nexusModName":"Druid Subclasses Combined - Scroll Learning","nexusUploadedBy":"BitterPast","nexusModId":3324,"paks":[
 {"nexusFileName":"Druid Scroll Learning","nexusFileVersion":"1.0.2","nexusFileUploadedAt":1727737515,"pakFileName":"DruidLearnScrolls.pak","nexusFileId":73386,"metaUuid":null},
@@ -17524,7 +17524,7 @@
 {"nexusFileName":"Featsextra CH Standalone localization Pak","nexusFileVersion":"1.1.11.3","nexusFileUploadedAt":1742283591,"pakFileName":"_FeatsextraStandalone.pak","nexusFileId":87452,"metaUuid":null}
 ]},
 "5552":{"nexusModName":"Absolute Wrath","nexusUploadedBy":"Grimpreacher","nexusModId":5552,"paks":[
-{"nexusFileName":"Absolute Wrath","nexusFileVersion":"2.1.6","nexusFileUploadedAt":1750890209,"pakFileName":"AbsoluteWrath.pak","nexusFileId":96623,"metaUuid":null}
+{"nexusFileName":"Absolute Wrath","nexusFileVersion":"2.1.6","nexusFileUploadedAt":1750890209,"pakFileName":"AbsoluteWrath.pak","nexusFileId":96623,"metaUuid":"9010c099-c1e7-4ea8-8990-a883d6814975"}
 ]},
 "5554":{"nexusModName":"Learn Brutal-Improved Critical","nexusUploadedBy":"BitterPast","nexusModId":5554,"paks":[
 {"nexusFileName":"Learn Brutal and Improved Critical","nexusFileVersion":"1.0.1","nexusFileUploadedAt":1706657229,"pakFileName":"LearnBrutalImprovedCritical.pak","nexusFileId":42521,"metaUuid":"150b4bf4-d065-40bc-b747-9384b01da16b"},
@@ -31697,7 +31697,7 @@
 {"nexusFileName":"Medusae's Outfits (UTAV)","nexusFileVersion":"2.0","nexusFileUploadedAt":1744408163,"pakFileName":"Medusae_Outfits_UTAV.pak","nexusFileId":88685,"metaUuid":null}
 ]},
 "11039":{"nexusModName":"Queen Marika's hair","nexusUploadedBy":"Lordcobra12","nexusModId":11039,"paks":[
-{"nexusFileName":"Queen Marika's hair","nexusFileVersion":"2.0","nexusFileUploadedAt":1721770025,"pakFileName":"Marika.pak","nexusFileId":64995,"metaUuid":null}
+{"nexusFileName":"Queen Marika's hair","nexusFileVersion":"2.0","nexusFileUploadedAt":1721770025,"pakFileName":"Marika.pak","nexusFileId":64995,"metaUuid":"37f42a39-c67d-4032-b517-cc5e548d72c2"}
 ]},
 "11040":{"nexusModName":"Scribble's Halflings - Short and Stout","nexusUploadedBy":"UndefinedScribble","nexusModId":11040,"paks":[
 {"nexusFileName":"Main File","nexusFileVersion":"1.2.9.28","nexusFileUploadedAt":1721602455,"pakFileName":"SCR_FH_Starter.pak","nexusFileId":64753,"metaUuid":null}
@@ -35955,7 +35955,7 @@
 {"nexusFileName":"Addon - Akm Tiefling Body","nexusFileVersion":"2.1.2.0","nexusFileUploadedAt":1779722801,"pakFileName":"Doom Armor - Addon AKMTB.pak","nexusFileId":122118,"metaUuid":null},
 {"nexusFileName":"Addon - Dulcet Bodies A","nexusFileVersion":"2.1.2.0","nexusFileUploadedAt":1779798707,"pakFileName":"Doom Armor - Addon Dulcet A.pak","nexusFileId":122189,"metaUuid":null},
 {"nexusFileName":"Addon - Dulcet Bodies B","nexusFileVersion":"2.1.2.0","nexusFileUploadedAt":1779798767,"pakFileName":"Doom Armor - Addon Dulcet B.pak","nexusFileId":122191,"metaUuid":null},
-{"nexusFileName":"Doom Armor   Main","nexusFileVersion":"2.1.3.0","nexusFileUploadedAt":1782074007,"pakFileName":"Doom Armor - Main.pak","nexusFileId":124022,"metaUuid":"9d3e2841-7015-45cd-8071-244a29a7ac25"},
+{"nexusFileName":"Doom Armor   Main","nexusFileVersion":"2.1.3.0","nexusFileUploadedAt":1782074007,"pakFileName":"Doom Armor - Main.pak","nexusFileId":124022,"metaUuid":"cc28f2b3-31bf-4658-aa63-48fbc41a47c2"},
 {"nexusFileName":"Addon - Camp Cloth","nexusFileVersion":"2.1.3.0","nexusFileUploadedAt":1782074206,"pakFileName":"Doom Armor - Addon Camp Cloth.pak","nexusFileId":124023,"metaUuid":null}
 ]},
 "12718":{"nexusModName":"Egg's Armor - Corset for BT2","nexusUploadedBy":"eggmanboylad","nexusModId":12718,"paks":[
@@ -41707,7 +41707,7 @@
 ]},
 "14863":{"nexusModName":"Grit and Glory - Injuries Exhaustion and Madness - MCM","nexusUploadedBy":"BaldursGoonsack","nexusModId":14863,"paks":[
 {"nexusFileName":"Grit and Glory - JWL Discordant Instruments Patch","nexusFileVersion":"2.3.2.0","nexusFileUploadedAt":1768937020,"pakFileName":"Grit and Glory - JWL Discordant Instruments Patch.pak","nexusFileId":112740,"metaUuid":"f32b58b4-e101-4263-a82b-5f0fe1926064"},
-{"nexusFileName":"Grit and Glory - Injuries Exhaustion and Madness","nexusFileVersion":"2.3.6.0","nexusFileUploadedAt":1781693758,"pakFileName":"Grit and Glory - Injuries, Exhaustion and Madness.pak","nexusFileId":123749,"metaUuid":null}
+{"nexusFileName":"Grit and Glory - Injuries Exhaustion and Madness","nexusFileVersion":"2.3.6.0","nexusFileUploadedAt":1781693758,"pakFileName":"Grit and Glory - Injuries, Exhaustion and Madness.pak","nexusFileId":123749,"metaUuid":"5442c1bf-c118-48bc-87f1-c90bcc024b1c"}
 ]},
 "14864":{"nexusModName":"AdvancedTabletopSpells - Russian Translation","nexusUploadedBy":"Hecctus","nexusModId":14864,"paks":[
 {"nexusFileName":"AdvancedTTSpells_RU","nexusFileVersion":"1.1.8.4","nexusFileUploadedAt":1771436131,"pakFileName":"AdvancedTTSpells_RU.pak","nexusFileId":115086,"metaUuid":null}
@@ -48517,7 +48517,7 @@
 {"nexusFileName":"SLayer Noir Replacer - White With Black Scales","nexusFileVersion":"1","nexusFileUploadedAt":1778319046,"pakFileName":"SLayer_Noir_Replacer_White_with_Black .pak","nexusFileId":120812,"metaUuid":null}
 ]},
 "17422":{"nexusModName":"Robe of Vecna ReAwakened","nexusUploadedBy":"Xgatt","nexusModId":17422,"paks":[
-{"nexusFileName":"Tutorial Chest Addon","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1751791665,"pakFileName":"Robe of Vecna ReAwakened - Tutorial Chest.pak","nexusFileId":97459,"metaUuid":null},
+{"nexusFileName":"Tutorial Chest Addon","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1751791665,"pakFileName":"Robe of Vecna ReAwakened - Tutorial Chest.pak","nexusFileId":97459,"metaUuid":"42bd67ad-878d-4b3d-a545-806526778a62"},
 {"nexusFileName":"Robe of Vecna ReAwakened","nexusFileVersion":"1.0.7.0","nexusFileUploadedAt":1754416034,"pakFileName":"Robe of Vecna ReAwakened.pak","nexusFileId":99987,"metaUuid":"fa5d6dfd-8461-4346-a859-e9c6d2a4c4c0"}
 ]},
 "17423":{"nexusModName":"Quiet Companions Toggle","nexusUploadedBy":"yoonmoonsik43","nexusModId":17423,"paks":[
@@ -53671,7 +53671,7 @@
 "19295":{"nexusModName":"Choose your animation - running and idles toggle","nexusUploadedBy":"FluffySpider","nexusModId":19295,"paks":[
 {"nexusFileName":"Choose_Your_Animation_RacePatch","nexusFileVersion":"1.7","nexusFileUploadedAt":1766233325,"pakFileName":"Choose_Your_Animation_RacePatch.pak","nexusFileId":109959,"metaUuid":"38884d42-98e7-4757-8da2-6e0aeb0e8ed6"},
 {"nexusFileName":"Choose Your Animation","nexusFileVersion":"1.8","nexusFileUploadedAt":1781423844,"pakFileName":"Choose_Your_Animation.pak","nexusFileId":123530,"metaUuid":"91d8bf48-5731-4766-8900-bbb7e58ab4cb"},
-{"nexusFileName":"Choose_Your_Animation - no icons patch","nexusFileVersion":"1.8","nexusFileUploadedAt":1781498716,"pakFileName":"Choose_Your_Animation - no icons patch.pak","nexusFileId":123611,"metaUuid":null}
+{"nexusFileName":"Choose_Your_Animation - no icons patch","nexusFileVersion":"1.8","nexusFileUploadedAt":1781498716,"pakFileName":"Choose_Your_Animation - no icons patch.pak","nexusFileId":123611,"metaUuid":"84f83475-9769-447b-9cc2-949559c13f11"}
 ]},
 "19296":{"nexusModName":"Metallic Body Tattoo Colours in CC","nexusUploadedBy":"ezuneo","nexusModId":19296,"paks":[
 {"nexusFileName":"Mod File","nexusFileVersion":"1.1","nexusFileUploadedAt":1761452447,"pakFileName":"EZN_MetallicBodyTattooColours_CC_6a24c580-429a-c568-1eda-0213dbb1ae03.pak","nexusFileId":106021,"metaUuid":"6a24c580-429a-c568-1eda-0213dbb1ae03"}
@@ -60023,7 +60023,7 @@
 {"nexusFileName":"scionrogue","nexusFileVersion":"1.0.0.10","nexusFileUploadedAt":1770269758,"pakFileName":"ScionRogue_05326553-fc29-78d0-2e26-96d33b58ee5f.pak","nexusFileId":114159,"metaUuid":"05326553-fc29-78d0-2e26-96d33b58ee5f"}
 ]},
 "21304":{"nexusModName":"Bloodtrail - Path of Undeath Chapter 2","nexusUploadedBy":"Siaell","nexusModId":21304,"paks":[
-{"nexusFileName":"Path Of Undeath   Bloodtrail","nexusFileVersion":"1","nexusFileUploadedAt":1782084683,"pakFileName":"Path of Undeath - Bloodtrail.pak","nexusFileId":124041,"metaUuid":null}
+{"nexusFileName":"Path Of Undeath   Bloodtrail","nexusFileVersion":"1","nexusFileUploadedAt":1782084683,"pakFileName":"Path of Undeath - Bloodtrail.pak","nexusFileId":124041,"metaUuid":"57b41349-6574-4015-87dc-aea3fd1e4618"}
 ]},
 "21308":{"nexusModName":"Goon's Companion Protection for Korean","nexusUploadedBy":"Eolaloe","nexusModId":21308,"paks":[
 {"nexusFileName":"Goon's Companion Protection for Korean","nexusFileVersion":"2.1.0.0","nexusFileUploadedAt":1781021231,"pakFileName":"Goons Companion Protection_kr.pak","nexusFileId":123241,"metaUuid":"2e4505a2-c2ab-427b-8cbc-4ceb01cd5720"}
@@ -60972,7 +60972,7 @@
 {"nexusFileName":"Sandi's Re-Tuned Classes","nexusFileVersion":"1.4","nexusFileUploadedAt":1777943691,"pakFileName":"Sandis Classes.pak","nexusFileId":120556,"metaUuid":null}
 ]},
 "21620":{"nexusModName":"Sons of Sparda - A Devil May Cry Inspired Class","nexusUploadedBy":"SuperVertigo","nexusModId":21620,"paks":[
-{"nexusFileName":"Sons of Sparda - A Devil May Cry Inspired BG3 Mod","nexusFileVersion":"1.0.0.9","nexusFileUploadedAt":1771870678,"pakFileName":"DmC_7268f5da-bfc1-3cfd-2677-4108d7c39b7e.pak","nexusFileId":115472,"metaUuid":null}
+{"nexusFileName":"Sons of Sparda - A Devil May Cry Inspired BG3 Mod","nexusFileVersion":"1.0.0.9","nexusFileUploadedAt":1771870678,"pakFileName":"DmC_7268f5da-bfc1-3cfd-2677-4108d7c39b7e.pak","nexusFileId":115472,"metaUuid":"7268f5da-bfc1-3cfd-2677-4108d7c39b7e"}
 ]},
 "21621":{"nexusModName":"dnd2024 Variations of opportunistic attacks","nexusUploadedBy":"Ruojo","nexusModId":21621,"paks":[
 {"nexusFileName":"2024MoretypesofOpportunisticAttacks","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1771874361,"pakFileName":"2024MoretypesofOpportunisticAttacks_0ba0b1f5-8e07-4c6f-e860-20701fac00ed.pak","nexusFileId":115478,"metaUuid":null}
