@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-06-22T03:52:48.600503+00:00","total_mods":16648},
+{"_meta":{"last_run":"2026-06-22T04:52:28.847962+00:00","total_mods":16648},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -3066,8 +3066,8 @@
 {"nexusFileName":"Full CR Progression for all druid subclasses","nexusFileVersion":"1.0","nexusFileUploadedAt":1753753038,"pakFileName":"DWSO_Full_CR_Progression_For_All.pak","nexusFileId":99353,"metaUuid":"3b5c8ed9-af93-4a99-a6e3-be6460e8e127"},
 {"nexusFileName":"DWSO - Wild Shape as Ritual","nexusFileVersion":"1.2","nexusFileUploadedAt":1754055420,"pakFileName":"DWSO_Ritual.pak","nexusFileId":99623,"metaUuid":"aa3521e2-826c-4f37-88fe-075be58e4398"},
 {"nexusFileName":"DWSO - Improved Wild Strike","nexusFileVersion":"1.0","nexusFileUploadedAt":1754524300,"pakFileName":"DWSO_ImprovedWildStrike.pak","nexusFileId":100069,"metaUuid":"877b68f0-8fcb-4318-a28e-4825f56040c3"},
-{"nexusFileName":"DWSO - 5R Features","nexusFileVersion":"1.0","nexusFileUploadedAt":1762938145,"pakFileName":"DWSO5R.pak","nexusFileId":107253,"metaUuid":null},
-{"nexusFileName":"Druid Wild Shape Overhaul","nexusFileVersion":"1.1.0.5","nexusFileUploadedAt":1778461600,"pakFileName":"DruidWildShapeOverhaul.pak","nexusFileId":120941,"metaUuid":"274cf3f1-f043-4e1f-8acf-b2e79c3630b8"}
+{"nexusFileName":"DruidWildShapeOverhaul","nexusFileVersion":"1.1.1.0","nexusFileUploadedAt":1782102059,"pakFileName":"DruidWildShapeOverhaul.pak","nexusFileId":124062,"metaUuid":"274cf3f1-f043-4e1f-8acf-b2e79c3630b8"},
+{"nexusFileName":"DWSO - 5R Features","nexusFileVersion":"1.0","nexusFileUploadedAt":1782102095,"pakFileName":"Druid Wild Shape Overhaul - 5R features.pak","nexusFileId":124063,"metaUuid":null}
 ]},
 "1149":{"nexusModName":"Mol Persuasion Bug Fix","nexusUploadedBy":"Joell560","nexusModId":1149,"paks":[
 {"nexusFileName":"Mol Persuasion Bug Fix","nexusFileVersion":"1.2","nexusFileUploadedAt":1718072982,"pakFileName":"KW_MolPersuasionBugFix.pak","nexusFileId":60606,"metaUuid":null}
@@ -35992,7 +35992,7 @@
 ]},
 "12727":{"nexusModName":"DnD 5.5e All-in-One BEYOND","nexusUploadedBy":"yoonmoonsik43","nexusModId":12727,"paks":[
 {"nexusFileName":"dnd2024 - V3 Legacy","nexusFileVersion":"3.4.6.4","nexusFileUploadedAt":1771945305,"pakFileName":"DnD2024_897914ef-5c96-053c-44af-0be823f895fe.pak","nexusFileId":115523,"metaUuid":"897914ef-5c96-053c-44af-0be823f895fe"},
-{"nexusFileName":"DnD 5.5e All-in-One BEYOND","nexusFileVersion":"4.7.7.0","nexusFileUploadedAt":1782085479,"pakFileName":"DnD2024_897914ef-5c96-053c-44af-0be823f895fe.pak","nexusFileId":124043,"metaUuid":"897914ef-5c96-053c-44af-0be823f895fe"}
+{"nexusFileName":"DnD 5.5e All-in-One BEYOND","nexusFileVersion":"4.7.7.1","nexusFileUploadedAt":1782101797,"pakFileName":"DnD2024_897914ef-5c96-053c-44af-0be823f895fe.pak","nexusFileId":124061,"metaUuid":"897914ef-5c96-053c-44af-0be823f895fe"}
 ]},
 "12728":{"nexusModName":"Origin-Themed Headwear KR","nexusUploadedBy":"Soorawang","nexusModId":12728,"paks":[
 {"nexusFileName":"Origin-Themed Headwear KR","nexusFileVersion":"1.0","nexusFileUploadedAt":1727930331,"pakFileName":"OriginHeadwear_kr.pak","nexusFileId":73692,"metaUuid":null}
@@ -65242,7 +65242,7 @@
 {"nexusFileName":"Elemental Flow v1.0.1","nexusFileVersion":"3","nexusFileUploadedAt":1780847087,"pakFileName":"FourElementsMonkRevamp_4e1e6f03-f0a4-4b3e-8a70-2c9719f4e1e5.pak","nexusFileId":123075,"metaUuid":"4e1e6f03-f0a4-4b3e-8a70-2c9719f4e1e5"}
 ]},
 "23194":{"nexusModName":"Mazzle's Group Climbing Fix","nexusUploadedBy":"Mazzle23","nexusModId":23194,"paks":[
-{"nexusFileName":"Mazzle Group Climbing 1.2.3","nexusFileVersion":"1.2.3","nexusFileUploadedAt":1781890826,"pakFileName":"Mazzle_Group_Climbing.pak","nexusFileId":123893,"metaUuid":"b05f6ce7-e57d-4ed4-bedf-8a5b4c1651db"}
+{"nexusFileName":"Mazzle Group Climbing 1.3.0","nexusFileVersion":"1.3.0","nexusFileUploadedAt":1782100650,"pakFileName":"Mazzle_Group_Climbing.pak","nexusFileId":124059,"metaUuid":"b05f6ce7-e57d-4ed4-bedf-8a5b4c1651db"}
 ]},
 "23197":{"nexusModName":"5e Barbarian Subclasses Combined JP","nexusUploadedBy":"Akazonae36","nexusModId":23197,"paks":[
 {"nexusFileName":"5e Barbarian Subclasses Combined JP","nexusFileVersion":"1","nexusFileUploadedAt":1780524225,"pakFileName":"5e Barbarian Subclasses5e Combined_JP.pak","nexusFileId":122711,"metaUuid":null}
