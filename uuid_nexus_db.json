@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-06-22T20:51:48.446570+00:00","total_mods":16641},
+{"_meta":{"last_run":"2026-06-22T21:51:53.750224+00:00","total_mods":16642},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -56094,7 +56094,8 @@
 {"nexusFileName":"Night Piercer_Ver.b","nexusFileVersion":"2.0.0.0","nexusFileUploadedAt":1764706742,"pakFileName":"AOD_Hotbar_Icons_Detail_NP_B_66ca5893-1d13-c4c0-8a2e-9cec396b6f53.pak","nexusFileId":108709,"metaUuid":"66ca5893-1d13-c4c0-8a2e-9cec396b6f53"}
 ]},
 "19914":{"nexusModName":"Oops All Characters with simple NPC enemy spawner","nexusUploadedBy":"Mazzle23","nexusModId":19914,"paks":[
-{"nexusFileName":"Oops All Characters 1.0.0","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1777599848,"pakFileName":"OopsAllCharacters.pak","nexusFileId":120252,"metaUuid":"54ea15da-a9ae-453e-bb7c-ecf597cdb9be"}
+{"nexusFileName":"Oops All Characters 1.0.0","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1777599848,"pakFileName":"OopsAllCharacters.pak","nexusFileId":120252,"metaUuid":"54ea15da-a9ae-453e-bb7c-ecf597cdb9be"},
+{"nexusFileName":"OopsAllCharacters Experimental","nexusFileVersion":"1","nexusFileUploadedAt":1777600392,"pakFileName":"OopsAllCharacters.pak","nexusFileId":120254,"metaUuid":"54ea15da-a9ae-453e-bb7c-ecf597cdb9be"}
 ]},
 "19915":{"nexusModName":"Wyll of Baldur's Gate","nexusUploadedBy":"lumadaire","nexusModId":19915,"paks":[
 {"nexusFileName":"WoBG Hair No Physics - Wyll's Devil Form Patch","nexusFileVersion":"1.0","nexusFileUploadedAt":1764719025,"pakFileName":"WoBG Hair No Physics - WDF Patch.pak","nexusFileId":108718,"metaUuid":"b140c2a0-5c13-478a-b4bf-ec4a034a332f"}
@@ -63820,7 +63821,8 @@
 {"nexusFileName":"VP Hairstyles","nexusFileVersion":"2","nexusFileUploadedAt":1777935299,"pakFileName":"suro_vphair.pak","nexusFileId":120548,"metaUuid":"5be054e5-e3e4-4982-8331-37513f661bad"}
 ]},
 "22635":{"nexusModName":"The Pugilist - A Streetfighting Class with Swagger to Spare","nexusUploadedBy":"TheWailingBard","nexusModId":22635,"paks":[
-{"nexusFileName":"The Pugilist","nexusFileVersion":"1.0.0.17","nexusFileUploadedAt":1779670824,"pakFileName":"SterlingVerminPugilist_e7adb940-58a2-3d57-a98a-87038eb76ffd.pak","nexusFileId":122081,"metaUuid":"e7adb940-58a2-3d57-a98a-87038eb76ffd"}
+{"nexusFileName":"The Pugilist","nexusFileVersion":"1.0.0.19","nexusFileUploadedAt":1782163827,"pakFileName":"SterlingVerminPugilist_e7adb940-58a2-3d57-a98a-87038eb76ffd.pak","nexusFileId":124124,"metaUuid":"e7adb940-58a2-3d57-a98a-87038eb76ffd"},
+{"nexusFileName":"The Pugilist - Grappling Extension","nexusFileVersion":"1.0.0.7","nexusFileUploadedAt":1782163965,"pakFileName":"SterlingVerminPugilistGrapplingExtension_7d38a87b-0117-bfc7-d9ac-3915a8d08baa.pak","nexusFileId":124125,"metaUuid":null}
 ]},
 "22636":{"nexusModName":"Spells Reworked - Warding Bond (including True Love's Embrace and True Love's Caress)","nexusUploadedBy":"Mueffel","nexusModId":22636,"paks":[
 {"nexusFileName":"Warding Bond","nexusFileVersion":"1","nexusFileUploadedAt":1777507753,"pakFileName":"Spells Enhanced - Warding Bond.pak","nexusFileId":120209,"metaUuid":"735f7d31-3562-46f4-8dda-463f9f417195"}
@@ -65145,6 +65147,38 @@
 {"nexusFileName":"F-03. Anoint - SBTL - BA - 10 Turns","nexusFileVersion":"1.0.0-F-03","nexusFileUploadedAt":1781224956,"pakFileName":"Anoint - Lunar Bless - F-03.pak","nexusFileId":123381,"metaUuid":null},
 {"nexusFileName":"F-04. Anoint - SBTL - BA - Long Rest","nexusFileVersion":"1.0.0-F-04","nexusFileUploadedAt":1781224994,"pakFileName":"Anoint - Lunar Bless - F-04.pak","nexusFileId":123382,"metaUuid":null},
 {"nexusFileName":"F-05. Anoint - SBTL - BA - Permanent","nexusFileVersion":"1.0.0-F-05","nexusFileUploadedAt":1781260209,"pakFileName":"Anoint - Lunar Bless - F-05.pak","nexusFileId":123397,"metaUuid":null}
+]},
+"23163":{"nexusModName":"Ward of Compassion - A Moonlight-Themed Shield of Faith Alternative - Multiple Versions","nexusUploadedBy":"SymboJones","nexusModId":23163,"paks":[
+{"nexusFileName":"A-01. Ward Of Compassion - TL - A - 100 T - Con","nexusFileVersion":"1.0.0-A-01","nexusFileUploadedAt":1782162273,"pakFileName":"Ward of Compassion - Lunar Shield of Faith - A-01.pak","nexusFileId":124094,"metaUuid":null},
+{"nexusFileName":"A-02. Ward Of Compassion - TL - A - LR - C","nexusFileVersion":"1.0.0-A-02","nexusFileUploadedAt":1782162313,"pakFileName":"Ward of Compassion - Lunar Shield of Faith - A-02.pak","nexusFileId":124095,"metaUuid":null},
+{"nexusFileName":"A-03. Ward Of Compassion - TL - A - 100 Turns","nexusFileVersion":"1.0.0-A-03","nexusFileUploadedAt":1782162334,"pakFileName":"Ward of Compassion - Lunar Shield of Faith - A-03.pak","nexusFileId":124096,"metaUuid":null},
+{"nexusFileName":"A-04. Ward Of Compassion - TL - A - LR","nexusFileVersion":"1.0.0-A-04","nexusFileUploadedAt":1782162354,"pakFileName":"Ward of Compassion - Lunar Shield of Faith - A-04.pak","nexusFileId":124097,"metaUuid":null},
+{"nexusFileName":"A-05. Ward Of Compassion - TL - A - Permanent","nexusFileVersion":"1.0.0-A-05","nexusFileUploadedAt":1782162372,"pakFileName":"Ward of Compassion - Lunar Shield of Faith - A-05.pak","nexusFileId":124098,"metaUuid":null},
+{"nexusFileName":"B-01. Ward Of Compassion - TL - BA - 100 T - C","nexusFileVersion":"1.0.0-B-01","nexusFileUploadedAt":1782162392,"pakFileName":"Ward of Compassion - Lunar Shield of Faith - B-01.pak","nexusFileId":124099,"metaUuid":null},
+{"nexusFileName":"B-02. Ward Of Compassion - TL - BA - LR - C","nexusFileVersion":"1.0.0-B-02","nexusFileUploadedAt":1782162408,"pakFileName":"Ward of Compassion - Lunar Shield of Faith - B-02.pak","nexusFileId":124100,"metaUuid":null},
+{"nexusFileName":"B-03. Ward Of Compassion - TL - BA - 100 Turns","nexusFileVersion":"1.0.0-B-03","nexusFileUploadedAt":1782162424,"pakFileName":"Ward of Compassion - Lunar Shield of Faith - B-03.pak","nexusFileId":124101,"metaUuid":null},
+{"nexusFileName":"B-04. Ward Of Compassion - TL - BA - LR","nexusFileVersion":"1.0.0-B-04","nexusFileUploadedAt":1782162442,"pakFileName":"Ward of Compassion - Lunar Shield of Faith - B-04.pak","nexusFileId":124102,"metaUuid":null},
+{"nexusFileName":"B-05. Ward Of Compassion - TL - BA - Permanent","nexusFileVersion":"1.0.0-B-05","nexusFileUploadedAt":1782162461,"pakFileName":"Ward of Compassion - Lunar Shield of Faith - B-05.pak","nexusFileId":124103,"metaUuid":null},
+{"nexusFileName":"C-01. Ward Of Compassion - AC - A - 100 T - C","nexusFileVersion":"1.0.0-C-01","nexusFileUploadedAt":1782162479,"pakFileName":"Ward of Compassion - Lunar Shield of Faith - C-01.pak","nexusFileId":124104,"metaUuid":null},
+{"nexusFileName":"C-02. Ward Of Compassion - AC - A - LR - C","nexusFileVersion":"1.0.0-C-02","nexusFileUploadedAt":1782162500,"pakFileName":"Ward of Compassion - Lunar Shield of Faith - C-02.pak","nexusFileId":124105,"metaUuid":null},
+{"nexusFileName":"C-03. Ward Of Compassion - AC - A - 100 Turns","nexusFileVersion":"1.0.0-C-03","nexusFileUploadedAt":1782162516,"pakFileName":"Ward of Compassion - Lunar Shield of Faith - C-03.pak","nexusFileId":124106,"metaUuid":null},
+{"nexusFileName":"C-04. Ward Of Compassion - AC - A - LR","nexusFileVersion":"1.0.0-C-04","nexusFileUploadedAt":1782162534,"pakFileName":"Ward of Compassion - Lunar Shield of Faith - C-04.pak","nexusFileId":124107,"metaUuid":null},
+{"nexusFileName":"C-05. Ward Of Compassion - AC - A - Permanent","nexusFileVersion":"1.0.0-C-05","nexusFileUploadedAt":1782162550,"pakFileName":"Ward of Compassion - Lunar Shield of Faith - C-05.pak","nexusFileId":124108,"metaUuid":null},
+{"nexusFileName":"D-01. Ward Of Compassion - AC - BA - 100 T - C","nexusFileVersion":"1.0.0-D-01","nexusFileUploadedAt":1782162566,"pakFileName":"Ward of Compassion - Lunar Shield of Faith - D-01.pak","nexusFileId":124109,"metaUuid":null},
+{"nexusFileName":"D-02. Ward Of Compassion - AC - BA - LR - C","nexusFileVersion":"1.0.0-D-02","nexusFileUploadedAt":1782162590,"pakFileName":"Ward of Compassion - Lunar Shield of Faith - D-02.pak","nexusFileId":124110,"metaUuid":null},
+{"nexusFileName":"D-03. Ward Of Compassion - AC - BA - 100 Turns","nexusFileVersion":"1.0.0-D-03","nexusFileUploadedAt":1782162611,"pakFileName":"Ward of Compassion - Lunar Shield of Faith - D-03.pak","nexusFileId":124111,"metaUuid":null},
+{"nexusFileName":"D-04. Ward Of Compassion - AC - BA - LR","nexusFileVersion":"1.0.0-D-04","nexusFileUploadedAt":1782162628,"pakFileName":"Ward of Compassion - Lunar Shield of Faith - D-04.pak","nexusFileId":124112,"metaUuid":null},
+{"nexusFileName":"D-05. Ward Of Compassion - AC - BA - Permanent","nexusFileVersion":"1.0.0-D-05","nexusFileUploadedAt":1782162645,"pakFileName":"Ward of Compassion - Lunar Shield of Faith - D-05.pak","nexusFileId":124113,"metaUuid":null},
+{"nexusFileName":"E-01. Ward Of Compassion - TLAC - A - 100 T - C","nexusFileVersion":"1.0.0-E-01","nexusFileUploadedAt":1782162661,"pakFileName":"Ward of Compassion - Lunar Shield of Faith - E-01.pak","nexusFileId":124114,"metaUuid":null},
+{"nexusFileName":"E-02. Ward Of Compassion - TLAC - A - LR - C","nexusFileVersion":"1.0.0-E-02","nexusFileUploadedAt":1782162682,"pakFileName":"Ward of Compassion - Lunar Shield of Faith - E-02.pak","nexusFileId":124115,"metaUuid":null},
+{"nexusFileName":"E-03. Ward Of Compassion - TLAC - A - 100 Turns","nexusFileVersion":"1.0.0-E-03","nexusFileUploadedAt":1782162698,"pakFileName":"Ward of Compassion - Lunar Shield of Faith - E-03.pak","nexusFileId":124116,"metaUuid":null},
+{"nexusFileName":"E-04. Ward Of Compassion - TLAC - A - LR","nexusFileVersion":"1.0.0-E-04","nexusFileUploadedAt":1782162714,"pakFileName":"Ward of Compassion - Lunar Shield of Faith - E-04.pak","nexusFileId":124117,"metaUuid":null},
+{"nexusFileName":"E-05. Ward Of Compassion - TLAC - A - Permanent","nexusFileVersion":"1.0.0-E-05","nexusFileUploadedAt":1782162733,"pakFileName":"Ward of Compassion - Lunar Shield of Faith - E-05.pak","nexusFileId":124118,"metaUuid":null},
+{"nexusFileName":"F-01. Ward Of Compassion - TLAC - BA - 100 T - C","nexusFileVersion":"1.0.0-F-01","nexusFileUploadedAt":1782162748,"pakFileName":"Ward of Compassion - Lunar Shield of Faith - F-01.pak","nexusFileId":124119,"metaUuid":null},
+{"nexusFileName":"F-02. Ward Of Compassion - TLAC - BA - LR - C","nexusFileVersion":"1.0.0-F-02","nexusFileUploadedAt":1782162765,"pakFileName":"Ward of Compassion - Lunar Shield of Faith - F-02.pak","nexusFileId":124120,"metaUuid":null},
+{"nexusFileName":"F-03. Ward Of Compassion - TLAC - BA - 100 Turns","nexusFileVersion":"1.0.0-F-03","nexusFileUploadedAt":1782162780,"pakFileName":"Ward of Compassion - Lunar Shield of Faith - F-03.pak","nexusFileId":124121,"metaUuid":null},
+{"nexusFileName":"F-04. Ward Of Compassion - TLAC - BA - LR","nexusFileVersion":"1.0.0-F-04","nexusFileUploadedAt":1782162795,"pakFileName":"Ward of Compassion - Lunar Shield of Faith - F-04.pak","nexusFileId":124122,"metaUuid":null},
+{"nexusFileName":"F-05. Ward Of Compassion - TLAC - BA - Permanent","nexusFileVersion":"1.0.0-F-05","nexusFileUploadedAt":1782162811,"pakFileName":"Ward of Compassion - Lunar Shield of Faith - F-05.pak","nexusFileId":124123,"metaUuid":null}
 ]},
 "23164":{"nexusModName":"Origin Wyll Quest - Better rewards","nexusUploadedBy":"mc1r","nexusModId":23164,"paks":[
 {"nexusFileName":"Wyll Quest Overhaul","nexusFileVersion":"1","nexusFileUploadedAt":1780346614,"pakFileName":"KILL_KARLACH_d33e8b6a-885d-ea5f-3772-663e71562c29.pak","nexusFileId":122594,"metaUuid":null}
