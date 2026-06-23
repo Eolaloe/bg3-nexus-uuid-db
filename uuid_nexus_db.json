@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-06-23T21:51:36.387486+00:00","total_mods":16646},
+{"_meta":{"last_run":"2026-06-23T22:51:33.646492+00:00","total_mods":16646},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -40622,10 +40622,9 @@
 ]},
 "14434":{"nexusModName":"Faerie Race","nexusUploadedBy":"EvilSnail0fDestruktion","nexusModId":14434,"paks":[
 {"nexusFileName":"faerieraceUTAVpatch","nexusFileVersion":"1.0.0.1","nexusFileUploadedAt":1764724311,"pakFileName":"FaerieRaceUTAVPatch.pak","nexusFileId":108727,"metaUuid":null},
-{"nexusFileName":"FaerieRace","nexusFileVersion":"4.1.0.3","nexusFileUploadedAt":1764724468,"pakFileName":"FaerieRace_555b318b-fdc8-a277-5e91-22b22df624a3.pak","nexusFileId":108728,"metaUuid":null},
 {"nexusFileName":"FaerieFacePatch","nexusFileVersion":"1.0.0.1","nexusFileUploadedAt":1765061037,"pakFileName":"FaerieRaceFacePatch.pak","nexusFileId":109042,"metaUuid":null},
 {"nexusFileName":"Faerie Wing Underwear","nexusFileVersion":"1.0.0.7","nexusFileUploadedAt":1768422375,"pakFileName":"FaerieWings_d51b9505-bf4a-fc3f-4a7f-1ff40a9013a9.pak","nexusFileId":112185,"metaUuid":"d51b9505-bf4a-fc3f-4a7f-1ff40a9013a9"},
-{"nexusFileName":"Faerie Race - VT Version","nexusFileVersion":"5.1.0.0","nexusFileUploadedAt":1778871785,"pakFileName":"FaerieRace_555b318b-fdc8-a277-5e91-22b22df624a3.pak","nexusFileId":121322,"metaUuid":"555b318b-fdc8-a277-5e91-22b22df624a3"}
+{"nexusFileName":"Faerie Race Main File","nexusFileVersion":"5.1.0.0","nexusFileUploadedAt":1778871785,"pakFileName":"FaerieRace_555b318b-fdc8-a277-5e91-22b22df624a3.pak","nexusFileId":121322,"metaUuid":"555b318b-fdc8-a277-5e91-22b22df624a3"}
 ]},
 "14435":{"nexusModName":"Satan's Templates and Tutorials","nexusUploadedBy":"SatanModding","nexusModId":14435,"paks":[
 {"nexusFileName":"BG3SX_Compatible_ExampleRace","nexusFileVersion":"1","nexusFileUploadedAt":1735299132,"pakFileName":"BG3SX_Compatible_ExampleRace.pak","nexusFileId":82895,"metaUuid":null},
@@ -65064,7 +65063,7 @@
 ]},
 "23139":{"nexusModName":"SoloLeveling - Shadow Monarch MCM","nexusUploadedBy":"iNoah","nexusModId":23139,"paks":[
 {"nexusFileName":"SoloLeveling SoloLeveling Hireling","nexusFileVersion":"2.68","nexusFileUploadedAt":1781826022,"pakFileName":"SoloLeveling_SoloLeveling_Companion_And_Hireling.pak","nexusFileId":123853,"metaUuid":null},
-{"nexusFileName":"SoloLeveling -  MCM","nexusFileVersion":"2.71","nexusFileUploadedAt":1782250745,"pakFileName":"SoloLeveling_b9c1d5f0-c0b6-8a01-00dc-14bbf18057a0.pak","nexusFileId":124176,"metaUuid":"b9c1d5f0-c0b6-8a01-00dc-14bbf18057a0"}
+{"nexusFileName":"SoloLeveling -  MCM","nexusFileVersion":"2.72","nexusFileUploadedAt":1782253751,"pakFileName":"SoloLeveling_b9c1d5f0-c0b6-8a01-00dc-14bbf18057a0.pak","nexusFileId":124178,"metaUuid":"b9c1d5f0-c0b6-8a01-00dc-14bbf18057a0"}
 ]},
 "23140":{"nexusModName":"Spell Mods Data","nexusUploadedBy":"Nzx","nexusModId":23140,"paks":[
 {"nexusFileName":"SpellModsData","nexusFileVersion":"1.0.2","nexusFileUploadedAt":1781210207,"pakFileName":"SpellModsData.pak","nexusFileId":123343,"metaUuid":null}
@@ -65529,7 +65528,7 @@
 {"nexusFileName":"Ice Cold Murder Dagger","nexusFileVersion":"1","nexusFileUploadedAt":1780959827,"pakFileName":"IceColdMurderDagger_4a7c03b6-1f13-4c9c-a913-08536c84e3ec.pak","nexusFileId":123206,"metaUuid":"4a7c03b6-1f13-4c9c-a913-08536c84e3ec"}
 ]},
 "23296":{"nexusModName":"Zenin Path (PT-BR)","nexusUploadedBy":"Firetoga","nexusModId":23296,"paks":[
-{"nexusFileName":"ZeninPath (PT-BR)","nexusFileVersion":"1.0.0.6","nexusFileUploadedAt":1782180535,"pakFileName":"ZeninPath (PT-BR - 1.0.0.6).pak","nexusFileId":124135,"metaUuid":null}
+{"nexusFileName":"ZeninPath (PT-BR)","nexusFileVersion":"1.0.0.7","nexusFileUploadedAt":1782254379,"pakFileName":"ZeninPath (PT-BR - 1.0.0.7).pak","nexusFileId":124179,"metaUuid":null}
 ]},
 "23297":{"nexusModName":"Laezelf","nexusUploadedBy":"yoonmoonsik43","nexusModId":23297,"paks":[
 {"nexusFileName":"Laezelf","nexusFileVersion":"1.0.0.5","nexusFileUploadedAt":1780995195,"pakFileName":"Lazelf_76d0b972-daa8-97d8-87b5-099f64fe8e21.pak","nexusFileId":123225,"metaUuid":"76d0b972-daa8-97d8-87b5-099f64fe8e21"}
@@ -65912,7 +65911,8 @@
 {"nexusFileName":"SeluneSilvanusAmulets","nexusFileVersion":"1","nexusFileUploadedAt":1782058445,"pakFileName":"SeluneSilvanusAmulets.pak","nexusFileId":124006,"metaUuid":null}
 ]},
 "23493":{"nexusModName":"SoloLeveling - Shadow Monarch MCM PT-BR","nexusUploadedBy":"ShadowAhJin","nexusModId":23493,"paks":[
-{"nexusFileName":"SoloLeveling - MCM PT-BR","nexusFileVersion":"1.0.0.1","nexusFileUploadedAt":1782066928,"pakFileName":"SoloLeveling_-_Shadow_Monarch_MCM_PTBR.pak","nexusFileId":124014,"metaUuid":null}
+{"nexusFileName":"SoloLeveling - MCM PT-BR","nexusFileVersion":"1.0.0.1","nexusFileUploadedAt":1782066928,"pakFileName":"SoloLeveling_-_Shadow_Monarch_MCM_PTBR.pak","nexusFileId":124014,"metaUuid":null},
+{"nexusFileName":"SoloLeveling - MCM PT-BR","nexusFileVersion":"1.0.0.2","nexusFileUploadedAt":1782251913,"pakFileName":"SoloLeveling_-_Shadow_Monarch_MCM_PTBR.pak","nexusFileId":124177,"metaUuid":null}
 ]},
 "23494":{"nexusModName":"PixellBytes Tactician Enhanced Turkish Translation","nexusUploadedBy":"tarikagl1","nexusModId":23494,"paks":[
 {"nexusFileName":"TacticianEnhanced TR","nexusFileVersion":"1.00.00","nexusFileUploadedAt":1782061883,"pakFileName":"TacticianEnhanced TR.pak","nexusFileId":124008,"metaUuid":null}
