@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-06-23T00:51:42.405695+00:00","total_mods":16642},
+{"_meta":{"last_run":"2026-06-23T01:51:35.855017+00:00","total_mods":16643},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -35976,7 +35976,7 @@
 ]},
 "12727":{"nexusModName":"DnD 5.5e All-in-One BEYOND","nexusUploadedBy":"yoonmoonsik43","nexusModId":12727,"paks":[
 {"nexusFileName":"dnd2024 - V3 Legacy","nexusFileVersion":"3.4.6.4","nexusFileUploadedAt":1771945305,"pakFileName":"DnD2024_897914ef-5c96-053c-44af-0be823f895fe.pak","nexusFileId":115523,"metaUuid":"897914ef-5c96-053c-44af-0be823f895fe"},
-{"nexusFileName":"DnD 5.5e All-in-One BEYOND","nexusFileVersion":"4.7.8.0","nexusFileUploadedAt":1782175571,"pakFileName":"DnD2024_897914ef-5c96-053c-44af-0be823f895fe.pak","nexusFileId":124131,"metaUuid":"897914ef-5c96-053c-44af-0be823f895fe"}
+{"nexusFileName":"DnD 5.5e All-in-One BEYOND","nexusFileVersion":"4.7.8.1","nexusFileUploadedAt":1782177609,"pakFileName":"DnD2024_897914ef-5c96-053c-44af-0be823f895fe.pak","nexusFileId":124133,"metaUuid":"897914ef-5c96-053c-44af-0be823f895fe"}
 ]},
 "12728":{"nexusModName":"Origin-Themed Headwear KR","nexusUploadedBy":"Soorawang","nexusModId":12728,"paks":[
 {"nexusFileName":"Origin-Themed Headwear KR","nexusFileVersion":"1.0","nexusFileUploadedAt":1727930331,"pakFileName":"OriginHeadwear_kr.pak","nexusFileId":73692,"metaUuid":null}
@@ -63862,7 +63862,7 @@
 {"nexusFileName":"Quivers","nexusFileVersion":"2","nexusFileUploadedAt":1778519745,"pakFileName":"AlmostVanillaQuivers_AVLQ.pak","nexusFileId":120995,"metaUuid":"4d5c2a0f-4f90-4a65-9e1e-fc4bced58088"}
 ]},
 "22650":{"nexusModName":"The Pugilist - A Streetfighting Class with Swagger to Spare_KOR","nexusUploadedBy":"Ahdarugo","nexusModId":22650,"paks":[
-{"nexusFileName":"The Pugilist_KOR","nexusFileVersion":"1.0.0.17","nexusFileUploadedAt":1779683416,"pakFileName":"ThePugilist_KOR_5ddcbdf6-5c3f-6aaa-763b-b172da021136.pak","nexusFileId":122095,"metaUuid":null}
+{"nexusFileName":"The Pugilist_KOR","nexusFileVersion":"1.0.0.19","nexusFileUploadedAt":1782178026,"pakFileName":"ThePugilist_KOR_5ddcbdf6-5c3f-6aaa-763b-b172da021136.pak","nexusFileId":124134,"metaUuid":null}
 ]},
 "22651":{"nexusModName":"Legendary Actions (Custom Honour Mode)","nexusUploadedBy":"Volitio","nexusModId":22651,"paks":[
 {"nexusFileName":"Legendary Actions (Custom Honour Mode) 1.0.0","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1777846660,"pakFileName":"Honor Legendary Actions.pak","nexusFileId":120451,"metaUuid":"39fff522-64ea-47f8-8ec8-7011658b8097"}
@@ -65935,4 +65935,7 @@
 "23506":{"nexusModName":"Spirit of the Dragon Lord","nexusUploadedBy":"RatioEXP","nexusModId":23506,"paks":[
 {"nexusFileName":"SpiritOfTheDragonLord PublicTest V0.3.0","nexusFileVersion":"1","nexusFileUploadedAt":1782151228,"pakFileName":"CallOfTheDragonSoul_2cd6d87c-79d9-4bc3-9d00-25c63ef0bfdf.pak","nexusFileId":124090,"metaUuid":null},
 {"nexusFileName":"SpiritOfTheDragonLord PublicTest V0.3.0","nexusFileVersion":"1","nexusFileUploadedAt":1782151228,"pakFileName":"DragonLord_cb554b72-1527-9e91-1966-2912e4d6e784.pak","nexusFileId":124090,"metaUuid":null}
+]},
+"23531":{"nexusModName":"Abjuration Wizard Shield Fix","nexusUploadedBy":"yoonmoonsik43","nexusModId":23531,"paks":[
+{"nexusFileName":"Abjurationwizardshield E0d25da Atgb","nexusFileVersion":"1","nexusFileUploadedAt":1782177127,"pakFileName":"AbjurationWizardShield_e0d25da2-d513-ac32-8e6a-23d2c36ab91d.pak","nexusFileId":124132,"metaUuid":null}
 ]}}
