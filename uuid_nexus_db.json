@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-06-23T11:51:44.295319+00:00","total_mods":16644},
+{"_meta":{"last_run":"2026-06-23T12:51:44.995252+00:00","total_mods":16645},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -30333,7 +30333,9 @@
 ]},
 "10551":{"nexusModName":"Dark Urges - Male T2 and T4 Head Presets -","nexusUploadedBy":"suro","nexusModId":10551,"paks":[
 {"nexusFileName":"- DARK URGES - STANDALONE","nexusFileVersion":"1.0.1.0","nexusFileUploadedAt":1721806300,"pakFileName":"darkurges_standalone.pak","nexusFileId":65018,"metaUuid":"0b069063-5304-4cce-949d-96626be3530a"},
-{"nexusFileName":"- DU - VAMPIRE PATCH","nexusFileVersion":"1.0.1.0","nexusFileUploadedAt":1721812912,"pakFileName":"durgepatch_vampire.pak","nexusFileId":65025,"metaUuid":"f7343271-a00f-4fcc-bd65-8f9df76ca03b"}
+{"nexusFileName":"- DU - VAMPIRE PATCH","nexusFileVersion":"1.0.1.0","nexusFileUploadedAt":1721812912,"pakFileName":"durgepatch_vampire.pak","nexusFileId":65025,"metaUuid":"f7343271-a00f-4fcc-bd65-8f9df76ca03b"},
+{"nexusFileName":"OG Guts","nexusFileVersion":"1.0","nexusFileUploadedAt":1724175139,"pakFileName":"YS_Guts.pak","nexusFileId":67601,"metaUuid":null},
+{"nexusFileName":"OG Guts - Vampire Patch","nexusFileVersion":"1.0","nexusFileUploadedAt":1724175607,"pakFileName":"ys_patch_vamp.pak","nexusFileId":67605,"metaUuid":null}
 ]},
 "10552":{"nexusModName":"Shadowheart's Justiciar Armor - Starting Equipment","nexusUploadedBy":"Lumaterian","nexusModId":10552,"paks":[
 {"nexusFileName":"Shadowheart's Justiciar Armor 1.1.0","nexusFileVersion":"1.1.0","nexusFileUploadedAt":1728681938,"pakFileName":"Shadowheart's Justiciar Armor.pak","nexusFileId":74986,"metaUuid":"d302a76f-b873-4e93-8045-1f3040d4fe34"}
@@ -65941,4 +65943,7 @@
 ]},
 "23532":{"nexusModName":"Nude Azer","nexusUploadedBy":"benben1205","nexusModId":23532,"paks":[
 {"nexusFileName":"Nude Azer","nexusFileVersion":"1.0.0.1","nexusFileUploadedAt":1782192980,"pakFileName":"azer2_9c5c4fa4-a201-e29a-e0d9-03282870c6f2.pak","nexusFileId":124145,"metaUuid":null}
+]},
+"23533":{"nexusModName":"Mind Weaver Class Turkish Translation","nexusUploadedBy":"tarikagl1","nexusModId":23533,"paks":[
+{"nexusFileName":"MindWeaver TR","nexusFileVersion":"1.00.00","nexusFileUploadedAt":1782217789,"pakFileName":"MindWeaver TR.pak","nexusFileId":124160,"metaUuid":null}
 ]}}
