@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-06-24T15:51:45.207527+00:00","total_mods":16652},
+{"_meta":{"last_run":"2026-06-24T16:51:40.546846+00:00","total_mods":16653},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -59208,7 +59208,7 @@
 {"nexusFileName":"Book Club With Gale for Korean","nexusFileVersion":"1.0.0.11","nexusFileUploadedAt":1773323256,"pakFileName":"Book-club-with-Gale_kr.pak","nexusFileId":116608,"metaUuid":null}
 ]},
 "21010":{"nexusModName":"Early Access Scenes Restored for Turkish","nexusUploadedBy":"tarikagl1","nexusModId":21010,"paks":[
-{"nexusFileName":"HT_EA-Restored_tr","nexusFileVersion":"1.4.1.1","nexusFileUploadedAt":1780153336,"pakFileName":"HT_EA-Restored Turkish.pak","nexusFileId":122472,"metaUuid":null}
+{"nexusFileName":"HT_EA-Restored_tr","nexusFileVersion":"1.4.1.2","nexusFileUploadedAt":1782318362,"pakFileName":"HT_EA-Restored Turkish_TR.pak","nexusFileId":124214,"metaUuid":null}
 ]},
 "21011":{"nexusModName":"Sit This One Out 2 for Korean","nexusUploadedBy":"Eolaloe","nexusModId":21011,"paks":[
 {"nexusFileName":"Sit This One Out 2 for Korean","nexusFileVersion":"2.3.0.5","nexusFileUploadedAt":1769783180,"pakFileName":"Sit This One Out 2_kr.pak","nexusFileId":113630,"metaUuid":"b507e40f-90ca-45d8-9a52-bb1f1591bca1"}
@@ -64489,11 +64489,11 @@
 {"nexusFileName":"GlobeOfInvulnurability","nexusFileVersion":"1","nexusFileUploadedAt":1779548215,"pakFileName":"GlobeOfInvulnurability.pak","nexusFileId":121980,"metaUuid":null}
 ]},
 "22922":{"nexusModName":"Legendary Weapons for Durge and Tav","nexusUploadedBy":"romanxocs","nexusModId":22922,"paks":[
-{"nexusFileName":"Durge's Vengeance Crossbow","nexusFileVersion":"2","nexusFileUploadedAt":1779196376,"pakFileName":"R_Durgebow.pak","nexusFileId":121678,"metaUuid":"a2fe128e-0786-455b-b137-9dd31e6e2692"},
-{"nexusFileName":"Tav's Arcanist Shield","nexusFileVersion":"3","nexusFileUploadedAt":1779196451,"pakFileName":"R_TavShield.pak","nexusFileId":121681,"metaUuid":"ff013c67-277c-4b68-a4b8-653ab11a0553"},
-{"nexusFileName":"Tav's Arcanist Longbow","nexusFileVersion":"3","nexusFileUploadedAt":1779218239,"pakFileName":"R_TavLongbow.pak","nexusFileId":121711,"metaUuid":"d5c645db-afe0-4c79-a6b0-6af267fdfa7f"},
-{"nexusFileName":"Durge's Vengeance Greatsword","nexusFileVersion":"1","nexusFileUploadedAt":1782071883,"pakFileName":"R_DurgeSword.pak","nexusFileId":124020,"metaUuid":"c0f02cd8-bb58-42f7-8e33-d1f2039a2663"},
-{"nexusFileName":"Tav's Arcanist Dagger","nexusFileVersion":"1","nexusFileUploadedAt":1782071939,"pakFileName":"R_TavDagger.pak","nexusFileId":124021,"metaUuid":"b18635aa-c16b-4687-bddc-6adf4abdef1d"}
+{"nexusFileName":"Tav's Arcanist Dagger","nexusFileVersion":"1","nexusFileUploadedAt":1782318011,"pakFileName":"R_TavDagger.pak","nexusFileId":124209,"metaUuid":"b18635aa-c16b-4687-bddc-6adf4abdef1d"},
+{"nexusFileName":"Durge's Vengeance Greatsword","nexusFileVersion":"1","nexusFileUploadedAt":1782318049,"pakFileName":"R_DurgeSword.pak","nexusFileId":124210,"metaUuid":"c0f02cd8-bb58-42f7-8e33-d1f2039a2663"},
+{"nexusFileName":"Tav's Arcanist Longbow","nexusFileVersion":"1","nexusFileUploadedAt":1782318090,"pakFileName":"R_TavLongbow.pak","nexusFileId":124211,"metaUuid":"d5c645db-afe0-4c79-a6b0-6af267fdfa7f"},
+{"nexusFileName":"Tav's Arcanist Shield","nexusFileVersion":"1","nexusFileUploadedAt":1782318113,"pakFileName":"R_TavShield.pak","nexusFileId":124212,"metaUuid":"ff013c67-277c-4b68-a4b8-653ab11a0553"},
+{"nexusFileName":"Durge's Vengeance Crossbow","nexusFileVersion":"1","nexusFileUploadedAt":1782318149,"pakFileName":"R_Durgebow.pak","nexusFileId":124213,"metaUuid":"a2fe128e-0786-455b-b137-9dd31e6e2692"}
 ]},
 "22923":{"nexusModName":"Spell Smith Class (BR)","nexusUploadedBy":"Firetoga","nexusModId":22923,"paks":[
 {"nexusFileName":"SpellSmithClass BR","nexusFileVersion":"2.3","nexusFileUploadedAt":1779063753,"pakFileName":"SpellSmithClass_BR.pak","nexusFileId":121516,"metaUuid":null}
@@ -65972,4 +65972,7 @@
 ]},
 "23544":{"nexusModName":"Super Linear Throw","nexusUploadedBy":"yoonmoonsik43","nexusModId":23544,"paks":[
 {"nexusFileName":"Superlinearthrow 28cdcaf2 72b4 Fj6y","nexusFileVersion":"1","nexusFileUploadedAt":1782315551,"pakFileName":"SuperLinearThrow_28cdcaf2-72b4-04b4-b40d-539729ab9d4d.pak","nexusFileId":124205,"metaUuid":null}
+]},
+"23545":{"nexusModName":"Toggle Divine Smite","nexusUploadedBy":"yoonmoonsik43","nexusModId":23545,"paks":[
+{"nexusFileName":"Toggledivinesmite 581a9ace 396 E5jj","nexusFileVersion":"1","nexusFileUploadedAt":1782316791,"pakFileName":"ToggleDivineSmite_581a9ace-3966-b65e-abfd-7306650022bc.pak","nexusFileId":124207,"metaUuid":null}
 ]}}
