@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-06-24T21:51:38.807959+00:00","total_mods":16656},
+{"_meta":{"last_run":"2026-06-24T22:51:33.135686+00:00","total_mods":16657},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -35979,7 +35979,7 @@
 ]},
 "12727":{"nexusModName":"DnD 5.5e All-in-One BEYOND","nexusUploadedBy":"yoonmoonsik43","nexusModId":12727,"paks":[
 {"nexusFileName":"dnd2024 - V3 Legacy","nexusFileVersion":"3.4.6.4","nexusFileUploadedAt":1771945305,"pakFileName":"DnD2024_897914ef-5c96-053c-44af-0be823f895fe.pak","nexusFileId":115523,"metaUuid":"897914ef-5c96-053c-44af-0be823f895fe"},
-{"nexusFileName":"DnD 5.5e All-in-One BEYOND","nexusFileVersion":"4.7.9.0","nexusFileUploadedAt":1782334885,"pakFileName":"DnD2024_897914ef-5c96-053c-44af-0be823f895fe.pak","nexusFileId":124228,"metaUuid":"897914ef-5c96-053c-44af-0be823f895fe"}
+{"nexusFileName":"DnD 5.5e All-in-One BEYOND","nexusFileVersion":"4.7.10.0","nexusFileUploadedAt":1782339691,"pakFileName":"DnD2024_897914ef-5c96-053c-44af-0be823f895fe.pak","nexusFileId":124232,"metaUuid":"897914ef-5c96-053c-44af-0be823f895fe"}
 ]},
 "12728":{"nexusModName":"Origin-Themed Headwear KR","nexusUploadedBy":"Soorawang","nexusModId":12728,"paks":[
 {"nexusFileName":"Origin-Themed Headwear KR","nexusFileVersion":"1.0","nexusFileUploadedAt":1727930331,"pakFileName":"OriginHeadwear_kr.pak","nexusFileId":73692,"metaUuid":null}
@@ -65664,7 +65664,7 @@
 {"nexusFileName":"Sol's Affections","nexusFileVersion":"1","nexusFileUploadedAt":1781641690,"pakFileName":"SolsAffections_b304d902-7ae1-bc56-c534-b14da0163862.pak","nexusFileId":123728,"metaUuid":"b304d902-7ae1-bc56-c534-b14da0163862"}
 ]},
 "23375":{"nexusModName":"Warlock and Patrons DnD 5R PHB2024 Russian Translation","nexusUploadedBy":"SeDrRo","nexusModId":23375,"paks":[
-{"nexusFileName":"Warlock And Patrons PHB2024 RU","nexusFileVersion":"2.0.1.2","nexusFileUploadedAt":1781431237,"pakFileName":"WarlockAndPatronsPHB2024_RU.pak","nexusFileId":123534,"metaUuid":null}
+{"nexusFileName":"Warlock And Patrons PHB2024 RU","nexusFileVersion":"2.0.1.7","nexusFileUploadedAt":1782341092,"pakFileName":"WarlockAndPatronsPHB2024_RU.pak","nexusFileId":124234,"metaUuid":null}
 ]},
 "23376":{"nexusModName":"Pride Flags for CC","nexusUploadedBy":"mouch30","nexusModId":23376,"paks":[
 {"nexusFileName":"Pride Flags for CC","nexusFileVersion":"1","nexusFileUploadedAt":1781885406,"pakFileName":"M30_PrideFlags_CC_7c705aa1-de38-63b0-625d-7f9b33bb33aa.pak","nexusFileId":123889,"metaUuid":null}
@@ -65688,7 +65688,7 @@
 {"nexusFileName":"MLNscrltgddss Ru","nexusFileVersion":"2","nexusFileUploadedAt":1781565733,"pakFileName":"MLNscrltgddss_ru.pak","nexusFileId":123678,"metaUuid":null}
 ]},
 "23383":{"nexusModName":"Mizora's Rewards Russian Translation","nexusUploadedBy":"SeDrRo","nexusModId":23383,"paks":[
-{"nexusFileName":"Mizora's Rewards RU","nexusFileVersion":"2.0.1.2","nexusFileUploadedAt":1781549530,"pakFileName":"MizorasRewards_RU.pak","nexusFileId":123674,"metaUuid":null}
+{"nexusFileName":"Mizora's Rewards RU","nexusFileVersion":"2.0.1.5","nexusFileUploadedAt":1782341026,"pakFileName":"MizorasRewards_RU.pak","nexusFileId":124233,"metaUuid":null}
 ]},
 "23384":{"nexusModName":"In This Moment - Poses by LifeofaSin","nexusUploadedBy":"LifeofaSin","nexusModId":23384,"paks":[
 {"nexusFileName":"In This Moment Poses By LifeofaSin","nexusFileVersion":"1","nexusFileUploadedAt":1781470168,"pakFileName":"In This Moment Poses By LifeofaSin.pak","nexusFileId":123578,"metaUuid":null}
@@ -65984,4 +65984,7 @@
 ]},
 "23546":{"nexusModName":"Dionysiaque Outfit Ensemble","nexusUploadedBy":"BerrySemifreddo","nexusModId":23546,"paks":[
 {"nexusFileName":"Dionysiaque Ensemble - Main File","nexusFileVersion":"1.0.0.9","nexusFileUploadedAt":1782319954,"pakFileName":"DionysiaqueEnsemble_cc3ae4cc-b576-dc44-04a9-cda446fa1b55.pak","nexusFileId":124215,"metaUuid":null}
+]},
+"23549":{"nexusModName":"Secret Scrolls for 5e Spells - Skillcheck Crashfix","nexusUploadedBy":"Nokhal","nexusModId":23549,"paks":[
+{"nexusFileName":"SecretScoll5ECrashfix","nexusFileVersion":"1","nexusFileUploadedAt":1782339386,"pakFileName":"SecretScrolls5eSpells.pak","nexusFileId":124231,"metaUuid":null}
 ]}}
