@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-06-24T02:51:59.328161+00:00","total_mods":16646},
+{"_meta":{"last_run":"2026-06-24T03:51:25.571486+00:00","total_mods":16647},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -50835,7 +50835,7 @@
 ]},
 "18259":{"nexusModName":"Witcher class - Reborn","nexusUploadedBy":"RaphaelCHEN1","nexusModId":18259,"paks":[
 {"nexusFileName":"Witcher Class -Reborn","nexusFileVersion":"2.0.0.91","nexusFileUploadedAt":1766318277,"pakFileName":"Witcher Class.pak","nexusFileId":110011,"metaUuid":"8be1ab10-817c-4fe3-8954-4dc0da81ff55"},
-{"nexusFileName":"Witcher Class -Reborn-Level-20","nexusFileVersion":"2.0.0.98","nexusFileUploadedAt":1780943868,"pakFileName":"Witcher Class.pak","nexusFileId":123182,"metaUuid":"8be1ab10-817c-4fe3-8954-4dc0da81ff55"}
+{"nexusFileName":"Witcher Class","nexusFileVersion":"2.0.0.99","nexusFileUploadedAt":1782269633,"pakFileName":"Witcher Class.pak","nexusFileId":124184,"metaUuid":"8be1ab10-817c-4fe3-8954-4dc0da81ff55"}
 ]},
 "18260":{"nexusModName":"Scratch Evolved","nexusUploadedBy":"Exaen","nexusModId":18260,"paks":[
 {"nexusFileName":"ScratchEvolved","nexusFileVersion":"1.2.4.0","nexusFileUploadedAt":1781545301,"pakFileName":"ScratchEvolved_3a0b775f-bdc1-1bf2-8b95-df894d25bc3f.pak","nexusFileId":123671,"metaUuid":"3a0b775f-bdc1-1bf2-8b95-df894d25bc3f"}
@@ -65953,4 +65953,7 @@
 ]},
 "23533":{"nexusModName":"Mind Weaver Class Turkish Translation","nexusUploadedBy":"tarikagl1","nexusModId":23533,"paks":[
 {"nexusFileName":"MindWeaver TR","nexusFileVersion":"1.00.00","nexusFileUploadedAt":1782217789,"pakFileName":"MindWeaver TR.pak","nexusFileId":124160,"metaUuid":null}
+]},
+"23539":{"nexusModName":"Consort's Ensemble","nexusUploadedBy":"Elledwyn","nexusModId":23539,"paks":[
+{"nexusFileName":"Consort's Ensemble","nexusFileVersion":"1.0.0.12","nexusFileUploadedAt":1782270911,"pakFileName":"Consorts_Ensemble_ebf8dfd0-e466-3b00-7868-ffea2ab8a4d8.pak","nexusFileId":124185,"metaUuid":null}
 ]}}
