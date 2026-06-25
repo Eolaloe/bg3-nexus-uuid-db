@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-06-25T22:51:19.633453+00:00","total_mods":16660},
+{"_meta":{"last_run":"2026-06-25T23:51:28.306860+00:00","total_mods":16661},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -13042,11 +13042,11 @@
 {"nexusFileName":"Graviturgy Magic Wizard Subclass - PTBR","nexusFileVersion":"1.2.0.0","nexusFileUploadedAt":1710949486,"pakFileName":"GraviturgyMagicPTBR.pak","nexusFileId":50831,"metaUuid":null}
 ]},
 "4153":{"nexusModName":"Scrounger homebrew class","nexusUploadedBy":"KuaiBan","nexusModId":4153,"paks":[
-{"nexusFileName":"Scrounger v8.0.3 feat every level","nexusFileVersion":"8.0.3","nexusFileUploadedAt":1734420129,"pakFileName":"Scrounger v8d0d3 fel.pak","nexusFileId":82038,"metaUuid":null},
-{"nexusFileName":"Scrounger v8.0.3 feat every three levels","nexusFileVersion":"8.0.3","nexusFileUploadedAt":1734420371,"pakFileName":"Scrounger v8d0d3 fetl.pak","nexusFileId":82039,"metaUuid":null},
-{"nexusFileName":"Scrounger v8.0.3 wisdom caster","nexusFileVersion":"8.0.3","nexusFileUploadedAt":1734420790,"pakFileName":"Scrounger v8d0d3 wisdom i2.pak","nexusFileId":82040,"metaUuid":null},
-{"nexusFileName":"Scrounger v8.0.3","nexusFileVersion":"8.0.3","nexusFileUploadedAt":1734421030,"pakFileName":"Scrounger v8d0d3 i3.pak","nexusFileId":82041,"metaUuid":"476523d2-05ab-4980-beaf-cdb814f410ec"},
-{"nexusFileName":"Scrounger v8.0.3 lv20","nexusFileVersion":"8.0.3","nexusFileUploadedAt":1735590158,"pakFileName":"Scrounger v8d0d3 lv20.pak","nexusFileId":83132,"metaUuid":null}
+{"nexusFileName":"Scrounger v8.1","nexusFileVersion":"8.1","nexusFileUploadedAt":1782425947,"pakFileName":"Scrounger v8d1.pak","nexusFileId":124281,"metaUuid":null},
+{"nexusFileName":"Scrounger v8.1 lv20","nexusFileVersion":"8.1","nexusFileUploadedAt":1782426054,"pakFileName":"Scrounger v8d1 lv20.pak","nexusFileId":124282,"metaUuid":null},
+{"nexusFileName":"Scrounger v8.1 wisdom caster","nexusFileVersion":"8.1","nexusFileUploadedAt":1782426282,"pakFileName":"Scrounger v8d1 wisdom.pak","nexusFileId":124284,"metaUuid":null},
+{"nexusFileName":"Scrounger v8.1 feat every three levels","nexusFileVersion":"8.1","nexusFileUploadedAt":1782426604,"pakFileName":"Scrounger v8d1 fetl.pak","nexusFileId":124286,"metaUuid":null},
+{"nexusFileName":"Scrounger v8.1 feat every level","nexusFileVersion":"8.1","nexusFileUploadedAt":1782426690,"pakFileName":"Scrounger v8d1 fel.pak","nexusFileId":124287,"metaUuid":null}
 ]},
 "4154":{"nexusModName":"Vestige of Divergence - Star Razor - PTBR","nexusUploadedBy":"Theuw","nexusModId":4154,"paks":[
 {"nexusFileName":"Star Razor PTBR","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1699773568,"pakFileName":"StarRazorPTBR.pak","nexusFileId":28005,"metaUuid":null}
@@ -65995,4 +65995,7 @@
 ]},
 "23553":{"nexusModName":"Bloodtrail - Path of Undeath Chapter 2 for Korean","nexusUploadedBy":"Eolaloe","nexusModId":23553,"paks":[
 {"nexusFileName":"Bloodtrail - Path of Undeath Chapter 2 for Korean","nexusFileVersion":"1.2","nexusFileUploadedAt":1782392875,"pakFileName":"Path of Undeath - Bloodtrail_kr.pak","nexusFileId":124260,"metaUuid":null}
+]},
+"23558":{"nexusModName":"Equinox","nexusUploadedBy":"bennymp4","nexusModId":23558,"paks":[
+{"nexusFileName":"Main","nexusFileVersion":"2.0.0.5","nexusFileUploadedAt":1782427782,"pakFileName":"Equinox_fc5ad1a8-6062-8ee2-ead5-89170458c4f4.pak","nexusFileId":124288,"metaUuid":null}
 ]}}
