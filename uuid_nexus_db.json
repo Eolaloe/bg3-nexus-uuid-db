@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-06-25T12:51:15.449069+00:00","total_mods":16659},
+{"_meta":{"last_run":"2026-06-25T13:51:38.967902+00:00","total_mods":16660},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -54284,10 +54284,10 @@
 {"nexusFileName":"BetterFireShield","nexusFileVersion":"1","nexusFileUploadedAt":1762103090,"pakFileName":"BetterFireShield_eee17b45-6e66-aaea-3c59-cdc00e496423.pak","nexusFileId":106597,"metaUuid":"eee17b45-6e66-aaea-3c59-cdc00e496423"}
 ]},
 "19506":{"nexusModName":"Modified NPC Heads For Character Creation","nexusUploadedBy":"Psychotter","nexusModId":19506,"paks":[
-{"nexusFileName":"Modified NPC Heads For CC","nexusFileVersion":"1","nexusFileUploadedAt":1762116521,"pakFileName":"Modified NPC Heads For CC.pak","nexusFileId":106617,"metaUuid":null},
-{"nexusFileName":"Modified NPC Heads For CC - EotB","nexusFileVersion":"1","nexusFileUploadedAt":1762116835,"pakFileName":"Modified NPC Heads For CC - EotB.pak","nexusFileId":106618,"metaUuid":null},
-{"nexusFileName":"Modified NPC Heads For CC - UTAV","nexusFileVersion":"1","nexusFileUploadedAt":1762117001,"pakFileName":"Modified NPC Heads For CC - UTAV.pak","nexusFileId":106619,"metaUuid":null},
-{"nexusFileName":"Modified NPC Heads For CC - UTAV - EotB","nexusFileVersion":"1","nexusFileUploadedAt":1762117390,"pakFileName":"Modified NPC Heads For CC - UTAV - EotB.pak","nexusFileId":106620,"metaUuid":null}
+{"nexusFileName":"Modified NPC Heads For CC - UTAV - EotB","nexusFileVersion":"2","nexusFileUploadedAt":1782392163,"pakFileName":"Modified NPC Heads For CC - UTAV - EotB.pak","nexusFileId":124256,"metaUuid":null},
+{"nexusFileName":"Modified NPC Heads For CC - UTAV","nexusFileVersion":"2","nexusFileUploadedAt":1782392240,"pakFileName":"Modified NPC Heads For CC - UTAV.pak","nexusFileId":124257,"metaUuid":null},
+{"nexusFileName":"Modified NPC Heads For CC - EotB","nexusFileVersion":"2","nexusFileUploadedAt":1782392315,"pakFileName":"Modified NPC Heads For CC - EotB.pak","nexusFileId":124258,"metaUuid":null},
+{"nexusFileName":"Modified NPC Heads For CC","nexusFileVersion":"2","nexusFileUploadedAt":1782392788,"pakFileName":"Modified NPC Heads For CC.pak","nexusFileId":124259,"metaUuid":null}
 ]},
 "19507":{"nexusModName":"Alert Nerfed","nexusUploadedBy":"Xiamon","nexusModId":19507,"paks":[
 {"nexusFileName":"Alert Nerfed - 3 Initiative","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1762115303,"pakFileName":"Alert Nerfed - 3 Initiative.pak","nexusFileId":106616,"metaUuid":null}
@@ -61090,9 +61090,9 @@
 "21658":{"nexusModName":"Nazatur's New Feats and Rebalance","nexusUploadedBy":"Nazatur","nexusModId":21658,"paks":[
 {"nexusFileName":"Main File (Latest)","nexusFileVersion":"1.0.0.1","nexusFileUploadedAt":1772298928,"pakFileName":"NazFeatsRework.pak","nexusFileId":115797,"metaUuid":null}
 ]},
-"21659":{"nexusModName":"Crimson Hair Catalog","nexusUploadedBy":"SweetGenerousThing","nexusModId":21659,"paks":[
-{"nexusFileName":"SGT_Hair Catalog","nexusFileVersion":"1.2","nexusFileUploadedAt":1778853452,"pakFileName":"SweetGenerous' Hair catalog 1_1_0.pak","nexusFileId":121303,"metaUuid":"ce29f92b-b596-4a1b-9a04-2afeea793fb6"},
-{"nexusFileName":"Hair Catalog Part 1 WotD Aasimar Patch","nexusFileVersion":"1.2","nexusFileUploadedAt":1781181173,"pakFileName":"Hair catalog Part 1 WotD Aasimar Patch.pak","nexusFileId":123327,"metaUuid":null}
+"21659":{"nexusModName":"Crimson Hair Catalog Part 1","nexusUploadedBy":"SweetGenerousThing","nexusModId":21659,"paks":[
+{"nexusFileName":"Hair Catalog Part 1 WotD Aasimar Patch","nexusFileVersion":"1.2","nexusFileUploadedAt":1781181173,"pakFileName":"Hair catalog Part 1 WotD Aasimar Patch.pak","nexusFileId":123327,"metaUuid":null},
+{"nexusFileName":"Hair Catalog Part 1","nexusFileVersion":"1.3","nexusFileUploadedAt":1782391834,"pakFileName":"SweetGenerous' Hair catalog 1_1_0.pak","nexusFileId":124255,"metaUuid":"ce29f92b-b596-4a1b-9a04-2afeea793fb6"}
 ]},
 "21660":{"nexusModName":"My Funny Valentine","nexusUploadedBy":"ARAFEL194","nexusModId":21660,"paks":[
 {"nexusFileName":"My Funny Valentine","nexusFileVersion":"1.0.0.6","nexusFileUploadedAt":1772210542,"pakFileName":"MyFunnyValentine_1b7ba569-1b57-b37f-c173-e26dae1113ae.pak","nexusFileId":115722,"metaUuid":"1b7ba569-1b57-b37f-c173-e26dae1113ae"}
@@ -62775,7 +62775,7 @@
 {"nexusFileName":"Involved_Patrons_Fewer_Demands_CH","nexusFileVersion":"2.0.0.1","nexusFileUploadedAt":1775018630,"pakFileName":"Involved_Patrons_Fewer_Demands_CH.pak","nexusFileId":117921,"metaUuid":null}
 ]},
 "22245":{"nexusModName":"DnD 5.5e All-in-One BEYOND for Korean","nexusUploadedBy":"Eolaloe","nexusModId":22245,"paks":[
-{"nexusFileName":"DnD 5.5e All-in-One BEYOND for Korean","nexusFileVersion":"4.7.8.5","nexusFileUploadedAt":1782329150,"pakFileName":"DnD2024_kr.pak","nexusFileId":124226,"metaUuid":"12aa92ca-07e6-4edc-82f4-dd1f99cc43c2"}
+{"nexusFileName":"DnD 5.5e All-in-One BEYOND for Korean","nexusFileVersion":"4.7.10.0","nexusFileUploadedAt":1782394091,"pakFileName":"DnD2024_kr.pak","nexusFileId":124262,"metaUuid":"12aa92ca-07e6-4edc-82f4-dd1f99cc43c2"}
 ]},
 "22246":{"nexusModName":"War Magic Initiate","nexusUploadedBy":"DragBr","nexusModId":22246,"paks":[
 {"nexusFileName":"Iniciado em Magia Belica","nexusFileVersion":"1.0.0.5","nexusFileUploadedAt":1775051653,"pakFileName":"Magia_Belica_06b29149-fbdf-72f8-7f56-3e222e19a6bd.pak","nexusFileId":117957,"metaUuid":"06b29149-fbdf-72f8-7f56-3e222e19a6bd"}
@@ -62836,7 +62836,7 @@
 {"nexusFileName":"InventoryExpanded 1.0.1 Beta","nexusFileVersion":"1.0.1.0","nexusFileUploadedAt":1776380776,"pakFileName":"InventoryExpanded_1.0.1.pak","nexusFileId":119220,"metaUuid":"68ac51da-c600-4de4-a795-417d371148bc"}
 ]},
 "22268":{"nexusModName":"DnD 5.5e All-in-One BEYOND for Japanese","nexusUploadedBy":"Eolaloe","nexusModId":22268,"paks":[
-{"nexusFileName":"DnD 5.5e All-in-One BEYOND for Japanese","nexusFileVersion":"4.7.8.5","nexusFileUploadedAt":1782328776,"pakFileName":"DnD2024_jp.pak","nexusFileId":124225,"metaUuid":null}
+{"nexusFileName":"DnD 5.5e All-in-One BEYOND for Japanese","nexusFileVersion":"4.7.10.0","nexusFileUploadedAt":1782394116,"pakFileName":"DnD2024_jp.pak","nexusFileId":124263,"metaUuid":null}
 ]},
 "22269":{"nexusModName":"Fanciful Fairies","nexusUploadedBy":"tepkunset","nexusModId":22269,"paks":[
 {"nexusFileName":"Fanciful Fairies","nexusFileVersion":"1","nexusFileUploadedAt":1775242945,"pakFileName":"FancifulFairies.pak","nexusFileId":118045,"metaUuid":"4b686180-9ead-74f6-38d7-774b1b7fda7a"}
@@ -65963,7 +65963,7 @@
 {"nexusFileName":"MindWeaver TR","nexusFileVersion":"1.00.00","nexusFileUploadedAt":1782217789,"pakFileName":"MindWeaver TR.pak","nexusFileId":124160,"metaUuid":null}
 ]},
 "23539":{"nexusModName":"Consort's Ensemble","nexusUploadedBy":"Elledwyn","nexusModId":23539,"paks":[
-{"nexusFileName":"Consort's Ensemble","nexusFileVersion":"1.0.0.12","nexusFileUploadedAt":1782270911,"pakFileName":"Consorts_Ensemble_ebf8dfd0-e466-3b00-7868-ffea2ab8a4d8.pak","nexusFileId":124185,"metaUuid":"ebf8dfd0-e466-3b00-7868-ffea2ab8a4d8"}
+{"nexusFileName":"Consort's Ensemble","nexusFileVersion":"1.0.0.13","nexusFileUploadedAt":1782393917,"pakFileName":"Consorts_Ensemble_ebf8dfd0-e466-3b00-7868-ffea2ab8a4d8.pak","nexusFileId":124261,"metaUuid":"ebf8dfd0-e466-3b00-7868-ffea2ab8a4d8"}
 ]},
 "23540":{"nexusModName":"Boots of Striding - Clothing","nexusUploadedBy":"yoonmoonsik43","nexusModId":23540,"paks":[
 {"nexusFileName":"Bootsofstridingcloth F872e7ef 4x69","nexusFileVersion":"1","nexusFileUploadedAt":1782288625,"pakFileName":"BootsOfStridingCloth_f872e7ef-1e3c-e40c-4b44-44df58e9d6f7.pak","nexusFileId":124190,"metaUuid":null}
@@ -65991,4 +65991,7 @@
 ]},
 "23552":{"nexusModName":"Zoo Mogul I","nexusUploadedBy":"BittenThrice","nexusModId":23552,"paks":[
 {"nexusFileName":"Zoo Mogul I","nexusFileVersion":"1.0.0.14","nexusFileUploadedAt":1782376682,"pakFileName":"ZooMogul1.pak","nexusFileId":124248,"metaUuid":null}
+]},
+"23553":{"nexusModName":"Bloodtrail - Path of Undeath Chapter 2 for Korean","nexusUploadedBy":"Eolaloe","nexusModId":23553,"paks":[
+{"nexusFileName":"Bloodtrail - Path of Undeath Chapter 2 for Korean","nexusFileVersion":"1.2","nexusFileUploadedAt":1782392875,"pakFileName":"Path of Undeath - Bloodtrail_kr.pak","nexusFileId":124260,"metaUuid":null}
 ]}}
