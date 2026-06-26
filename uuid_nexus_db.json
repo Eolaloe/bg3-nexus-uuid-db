@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-06-26T00:51:17.343428+00:00","total_mods":16661},
+{"_meta":{"last_run":"2026-06-26T01:51:33.129804+00:00","total_mods":16662},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -41597,7 +41597,7 @@
 {"nexusFileName":"Lady of the Orchids Dress","nexusFileVersion":"1","nexusFileUploadedAt":1756829821,"pakFileName":"LadyoftheOrchids.pak","nexusFileId":101933,"metaUuid":"b9d4a503-e0c0-410d-87f3-fe374ef35f34"}
 ]},
 "14820":{"nexusModName":"Spellsword Class (formerly Vanguard)_KOR","nexusUploadedBy":"Ahdarugo","nexusModId":14820,"paks":[
-{"nexusFileName":"Spellsword Class_KOR","nexusFileVersion":"1.0.0.5","nexusFileUploadedAt":1767739625,"pakFileName":"Spellsword_KOR_REUPLOAD_2d647429-e16d-4def-9dd5-bfa4449223c7.pak","nexusFileId":111356,"metaUuid":null}
+{"nexusFileName":"Spellsword Class_KOR","nexusFileVersion":"1.0.0.6","nexusFileUploadedAt":1782437157,"pakFileName":"Spellsword_KOR_REUPLOAD_2d647429-e16d-4def-9dd5-bfa4449223c7.pak","nexusFileId":124290,"metaUuid":null}
 ]},
 "14822":{"nexusModName":"DnD Expanded - Russian Translation","nexusUploadedBy":"Lolob0t","nexusModId":14822,"paks":[
 {"nexusFileName":"DnD Expanded Russian Translation","nexusFileVersion":"1.0.1","nexusFileUploadedAt":1738132205,"pakFileName":"dnd_expanded_Russian_localization.pak","nexusFileId":84975,"metaUuid":null}
@@ -50587,7 +50587,7 @@
 {"nexusFileName":"TuskEvolved","nexusFileVersion":"2.0.1.0","nexusFileUploadedAt":1782414332,"pakFileName":"TuskEvolved_5e6b6d6f-b866-513d-b564-d61c99d3af6b.pak","nexusFileId":124271,"metaUuid":"5e6b6d6f-b866-513d-b564-d61c99d3af6b"}
 ]},
 "18176":{"nexusModName":"Tusk Evolved_KOR","nexusUploadedBy":"Ahdarugo","nexusModId":18176,"paks":[
-{"nexusFileName":"Tusk Evolved_KOR","nexusFileVersion":"1.0.0.4","nexusFileUploadedAt":1781412829,"pakFileName":"TuskEvolved_KOR_8e8bd828-cf0e-5e91-df4f-38a6b55f9780.pak","nexusFileId":123517,"metaUuid":null}
+{"nexusFileName":"Tusk Evolved_KOR","nexusFileVersion":"1.0.0.5","nexusFileUploadedAt":1782435826,"pakFileName":"TuskEvolved_KOR_8e8bd828-cf0e-5e91-df4f-38a6b55f9780.pak","nexusFileId":124289,"metaUuid":null}
 ]},
 "18179":{"nexusModName":"Better Dammon","nexusUploadedBy":"KiwiLifter","nexusModId":18179,"paks":[
 {"nexusFileName":"Better Dammon","nexusFileVersion":"1.0","nexusFileUploadedAt":1755409711,"pakFileName":"BetterDammon.pak","nexusFileId":100830,"metaUuid":"e155de45-ab2b-4a83-95ac-0fc05cf7e908"}
@@ -65998,4 +65998,7 @@
 ]},
 "23558":{"nexusModName":"Equinox","nexusUploadedBy":"bennymp4","nexusModId":23558,"paks":[
 {"nexusFileName":"Main","nexusFileVersion":"2.0.0.5","nexusFileUploadedAt":1782427782,"pakFileName":"Equinox_fc5ad1a8-6062-8ee2-ead5-89170458c4f4.pak","nexusFileId":124288,"metaUuid":null}
+]},
+"23560":{"nexusModName":"All Damage Types FIX (Resonance Stone . Booming Blade . Shadow Blade)","nexusUploadedBy":"Ahdarugo","nexusModId":23560,"paks":[
+{"nexusFileName":"AllDamageTypes-FIX","nexusFileVersion":"1.0.0.5","nexusFileUploadedAt":1782438107,"pakFileName":"AllDamageTypes.pak","nexusFileId":124291,"metaUuid":null}
 ]}}
