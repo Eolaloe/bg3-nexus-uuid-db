@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-06-26T02:51:27.447201+00:00","total_mods":16662},
+{"_meta":{"last_run":"2026-06-26T03:51:19.604946+00:00","total_mods":16663},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -60025,7 +60025,7 @@
 {"nexusFileName":"scionrogue","nexusFileVersion":"1.0.0.10","nexusFileUploadedAt":1770269758,"pakFileName":"ScionRogue_05326553-fc29-78d0-2e26-96d33b58ee5f.pak","nexusFileId":114159,"metaUuid":"05326553-fc29-78d0-2e26-96d33b58ee5f"}
 ]},
 "21304":{"nexusModName":"Bloodtrail - Path of Undeath Chapter 2","nexusUploadedBy":"Siaell","nexusModId":21304,"paks":[
-{"nexusFileName":"Path Of Undeath   Bloodtrail","nexusFileVersion":"1.2.1","nexusFileUploadedAt":1782405675,"pakFileName":"Path of Undeath - Bloodtrail.pak","nexusFileId":124268,"metaUuid":"57b41349-6574-4015-87dc-aea3fd1e4618"}
+{"nexusFileName":"Path Of Undeath   Bloodtrail","nexusFileVersion":"1.3","nexusFileUploadedAt":1782444933,"pakFileName":"Path of Undeath - Bloodtrail.pak","nexusFileId":124293,"metaUuid":"57b41349-6574-4015-87dc-aea3fd1e4618"}
 ]},
 "21308":{"nexusModName":"Goon's Companion Protection for Korean","nexusUploadedBy":"Eolaloe","nexusModId":21308,"paks":[
 {"nexusFileName":"Goon's Companion Protection for Korean","nexusFileVersion":"2.1.0.0","nexusFileUploadedAt":1781021231,"pakFileName":"Goons Companion Protection_kr.pak","nexusFileId":123241,"metaUuid":"2e4505a2-c2ab-427b-8cbc-4ceb01cd5720"}
@@ -66001,4 +66001,7 @@
 ]},
 "23560":{"nexusModName":"All Damage Types FIX (Resonance Stone . Booming Blade . Shadow Blade)","nexusUploadedBy":"Ahdarugo","nexusModId":23560,"paks":[
 {"nexusFileName":"AllDamageTypes-FIX","nexusFileVersion":"1.0.0.5","nexusFileUploadedAt":1782438107,"pakFileName":"AllDamageTypes.pak","nexusFileId":124291,"metaUuid":null}
+]},
+"23561":{"nexusModName":"Gold Zero Weight - Patch 8 FIX","nexusUploadedBy":"Ahdarugo","nexusModId":23561,"paks":[
+{"nexusFileName":"Gold Weight Zero - Patch 8 FIX","nexusFileVersion":"2.0.0.0","nexusFileUploadedAt":1782442500,"pakFileName":"Gold Weight Zero.pak","nexusFileId":124292,"metaUuid":null}
 ]}}
