@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-06-27T18:51:57.961690+00:00","total_mods":16685},
+{"_meta":{"last_run":"2026-06-27T19:51:54.263840+00:00","total_mods":16688},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -65846,7 +65846,7 @@
 {"nexusFileName":"Essential Feats Russian Localization","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1781965874,"pakFileName":"Essential Feats RU.pak","nexusFileId":123929,"metaUuid":null}
 ]},
 "23472":{"nexusModName":"masa's Heads","nexusUploadedBy":"MasahikoS","nexusModId":23472,"paks":[
-{"nexusFileName":"masa's Heads","nexusFileVersion":"1.0.1","nexusFileUploadedAt":1782320231,"pakFileName":"masasHeads_8b1193dd-9d44-357b-a468-c3d56eaa350a.pak","nexusFileId":124218,"metaUuid":null}
+{"nexusFileName":"masa's Heads","nexusFileVersion":"1.1","nexusFileUploadedAt":1782587989,"pakFileName":"masasHeads_8b1193dd-9d44-357b-a468-c3d56eaa350a.pak","nexusFileId":124416,"metaUuid":null}
 ]},
 "23473":{"nexusModName":"Feats Overhaul (Russian Localization)","nexusUploadedBy":"ganeuken","nexusModId":23473,"paks":[
 {"nexusFileName":"Feats Overhaul Russian Localization","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1781967199,"pakFileName":"Feats Overhaul RU.pak","nexusFileId":123931,"metaUuid":null}
@@ -65905,7 +65905,7 @@
 {"nexusFileName":"5e Spells Russian Localization","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1782079299,"pakFileName":"5eSpells_RUS.pak","nexusFileId":124026,"metaUuid":null}
 ]},
 "23497":{"nexusModName":"The Walking Dread","nexusUploadedBy":"KarsusCodex","nexusModId":23497,"paks":[
-{"nexusFileName":"TheWalkingDread","nexusFileVersion":"1","nexusFileUploadedAt":1782081721,"pakFileName":"TheWalkingDread.pak","nexusFileId":124030,"metaUuid":null}
+{"nexusFileName":"TheWalkingDread","nexusFileVersion":"1.2","nexusFileUploadedAt":1782586855,"pakFileName":"TheWalkingDread_v1.2.pak","nexusFileId":124412,"metaUuid":null}
 ]},
 "23498":{"nexusModName":"Ghastly Ghouls - Playable Undead Race (Russian Localization)","nexusUploadedBy":"ganeuken","nexusModId":23498,"paks":[
 {"nexusFileName":"Ghastly Ghouls Russian Localization","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1782080051,"pakFileName":"GhastlyGhoulsRU.pak","nexusFileId":124027,"metaUuid":null}
@@ -66045,4 +66045,14 @@
 ]},
 "23590":{"nexusModName":"Cursed Justice for Sorrow","nexusUploadedBy":"blackninjato2","nexusModId":23590,"paks":[
 {"nexusFileName":"CursedJusticeforSorrow","nexusFileVersion":"1.1","nexusFileUploadedAt":1782585351,"pakFileName":"CursedJusticeforSorrow.pak","nexusFileId":124410,"metaUuid":null}
+]},
+"23591":{"nexusModName":"Dex Jump RU","nexusUploadedBy":"Prostoivan","nexusModId":23591,"paks":[
+{"nexusFileName":"Dexterity Jump BG3SS","nexusFileVersion":"1","nexusFileUploadedAt":1782585987,"pakFileName":"Dexterity_Jump_BG3SS.pak","nexusFileId":124411,"metaUuid":null}
+]},
+"23592":{"nexusModName":"Mod archive","nexusUploadedBy":"gobanaoblin","nexusModId":23592,"paks":[
+{"nexusFileName":"PP Hush F222a5a7 Bf00 F3cb 1b85 6281c5b45f33","nexusFileVersion":"1","nexusFileUploadedAt":1782586979,"pakFileName":"PP_Hush_f222a5a7-bf00-f3cb-1b85-6281c5b45f33.pak","nexusFileId":124414,"metaUuid":null},
+{"nexusFileName":"PP Eternal 24f742cc 908f 86ad Aef1 E46833c25d11","nexusFileVersion":"1","nexusFileUploadedAt":1782588937,"pakFileName":"PP_Eternal_24f742cc-908f-86ad-aef1-e46833c25d11.pak","nexusFileId":124417,"metaUuid":null}
+]},
+"23593":{"nexusModName":"Grasping Vine PHB2024","nexusUploadedBy":"chizfreak","nexusModId":23593,"paks":[
+{"nexusFileName":"Grasping Vine PHB2024","nexusFileVersion":"1.0","nexusFileUploadedAt":1782587118,"pakFileName":"GraspingVinePHB2024_e487afef-2b10-2edb-fb14-87053412c73f.pak","nexusFileId":124415,"metaUuid":null}
 ]}}
