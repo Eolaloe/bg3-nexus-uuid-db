@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-06-27T11:51:41.723168+00:00","total_mods":16679},
+{"_meta":{"last_run":"2026-06-27T12:51:45.702379+00:00","total_mods":16680},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -35737,7 +35737,7 @@
 ]},
 "12628":{"nexusModName":"Awakened Blood of Lathander","nexusUploadedBy":"Siaell","nexusModId":12628,"paks":[
 {"nexusFileName":"Scarlet Warlock compatibility patch","nexusFileVersion":"1.1","nexusFileUploadedAt":1759997611,"pakFileName":"Awakened Blood of Lathander - Scarlet Warlock.pak","nexusFileId":104682,"metaUuid":"d642afd5-f039-42d4-a9e0-1f0b57a22bc9"},
-{"nexusFileName":"Awakened Blood of Lathander","nexusFileVersion":"1.11.2","nexusFileUploadedAt":1780863916,"pakFileName":"Awakened Blood of Lathander.pak","nexusFileId":123105,"metaUuid":"76307fbd-505d-4247-b263-0392f291e885"}
+{"nexusFileName":"Awakened Blood of Lathander","nexusFileVersion":"1.11.3","nexusFileUploadedAt":1782562077,"pakFileName":"Awakened Blood of Lathander.pak","nexusFileId":124377,"metaUuid":"76307fbd-505d-4247-b263-0392f291e885"}
 ]},
 "12629":{"nexusModName":"Blood Sorcery - A Sorcerer subclass_CHT","nexusUploadedBy":"bellcat2023","nexusModId":12629,"paks":[
 {"nexusFileName":"BloodSorcery_CHT","nexusFileVersion":"1.4.0.2","nexusFileUploadedAt":1729961856,"pakFileName":"BloodSorcery_CHT.pak","nexusFileId":76897,"metaUuid":null}
@@ -63691,7 +63691,7 @@
 {"nexusFileName":"Nox Aeterna","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1779136684,"pakFileName":"NoxAeterna_53359b4c-6a2d-55cf-5045-f9326516e3c0.pak","nexusFileId":121622,"metaUuid":"53359b4c-6a2d-55cf-5045-f9326516e3c0"}
 ]},
 "22600":{"nexusModName":"Freedom of Movement DnD 5R PHB2024","nexusUploadedBy":"chizfreak","nexusModId":22600,"paks":[
-{"nexusFileName":"Freedom of Movement PHB2024","nexusFileVersion":"1.1","nexusFileUploadedAt":1777630074,"pakFileName":"FreedomOfMovementPHB2024_f27c7d33-3c0d-f7d0-958b-0a061a323542.pak","nexusFileId":120279,"metaUuid":null}
+{"nexusFileName":"Freedom of Movement PHB2024","nexusFileVersion":"2.0","nexusFileUploadedAt":1782562155,"pakFileName":"FreedomOfMovementPHB2024_f27c7d33-3c0d-f7d0-958b-0a061a323542.pak","nexusFileId":124378,"metaUuid":null}
 ]},
 "22601":{"nexusModName":"Stronger Connor","nexusUploadedBy":"CheapShotUK","nexusModId":22601,"paks":[
 {"nexusFileName":"CSUK Stronger Connor","nexusFileVersion":"1","nexusFileUploadedAt":1777718765,"pakFileName":"CSUK_StrongerConnor.pak","nexusFileId":120333,"metaUuid":"edf07908-e904-4a96-8427-79e9005bff33"}
@@ -65662,7 +65662,7 @@
 {"nexusFileName":"In This Moment Poses By LifeofaSin","nexusFileVersion":"1","nexusFileUploadedAt":1781470168,"pakFileName":"In This Moment Poses By LifeofaSin.pak","nexusFileId":123578,"metaUuid":null}
 ]},
 "23385":{"nexusModName":"Summon Enhanced - MCM","nexusUploadedBy":"BaiYanYueQWQ","nexusModId":23385,"paks":[
-{"nexusFileName":"SummonEnhanced","nexusFileVersion":"2.8.0.0","nexusFileUploadedAt":1782560869,"pakFileName":"SummonEnhanced.pak","nexusFileId":124374,"metaUuid":"6a465714-dc81-41c0-9a95-e81165789ad2"}
+{"nexusFileName":"SummonEnhanced","nexusFileVersion":"2.8.0.0","nexusFileUploadedAt":1782561291,"pakFileName":"SummonEnhanced.pak","nexusFileId":124375,"metaUuid":"6a465714-dc81-41c0-9a95-e81165789ad2"}
 ]},
 "23386":{"nexusModName":"Sun Blade - Crashfix CN EN","nexusUploadedBy":"91wangsir","nexusModId":23386,"paks":[
 {"nexusFileName":"Sun Blade   Crashfix CN EN","nexusFileVersion":"1","nexusFileUploadedAt":1781480470,"pakFileName":"Sun Blade - Crashfix CN EN.pak","nexusFileId":123592,"metaUuid":"2f1b75f5-838c-40ab-aa76-3e5f89c5ace6"}
@@ -66024,4 +66024,7 @@
 ]},
 "23582":{"nexusModName":"Monster Slayer Progressive Equipment Set TR","nexusUploadedBy":"tarikagl1","nexusModId":23582,"paks":[
 {"nexusFileName":"MonsterSlayer ProgressiveEquipmentSet TR","nexusFileVersion":"1.00.00","nexusFileUploadedAt":1782554321,"pakFileName":"MonsterSlayer_ProgressiveEquipmentSet_TR.pak","nexusFileId":124367,"metaUuid":null}
+]},
+"23584":{"nexusModName":"Druid - Wild Shape Flexibility","nexusUploadedBy":"Grimmineller","nexusModId":23584,"paks":[
+{"nexusFileName":"Wildshape Flexibility","nexusFileVersion":"1","nexusFileUploadedAt":1782561318,"pakFileName":"wildshape_flex_f8a8cd22-0bc1-c7f6-8c3d-06aad9ed681e.pak","nexusFileId":124376,"metaUuid":null}
 ]}}
