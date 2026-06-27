@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-06-27T09:51:26.891947+00:00","total_mods":16679},
+{"_meta":{"last_run":"2026-06-27T10:51:42.652630+00:00","total_mods":16680},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -237,7 +237,7 @@
 ]},
 "206":{"nexusModName":"Choose Your Stats (CYS)","nexusUploadedBy":"lostsoulman","nexusModId":206,"paks":[
 {"nexusFileName":"chooseyourstats_v127","nexusFileVersion":"TestingV127","nexusFileUploadedAt":1702725087,"pakFileName":"chooseyourstats.pak","nexusFileId":34765,"metaUuid":"a88d400b-febb-4662-abdd-5d0b5d6e57cc"},
-{"nexusFileName":"chooseyourstats","nexusFileVersion":"2.52","nexusFileUploadedAt":1782273492,"pakFileName":"chooseyourstats.pak","nexusFileId":124187,"metaUuid":"a88d400b-febb-4662-abdd-5d0b5d6e57cc"}
+{"nexusFileName":"chooseyourstats","nexusFileVersion":"2.53","nexusFileUploadedAt":1782556652,"pakFileName":"chooseyourstats.pak","nexusFileId":124370,"metaUuid":"a88d400b-febb-4662-abdd-5d0b5d6e57cc"}
 ]},
 "213":{"nexusModName":"Tav's Hair Salon","nexusUploadedBy":"Toarie","nexusModId":213,"paks":[
 {"nexusFileName":"Autosnap Hairpack","nexusFileVersion":"V.1","nexusFileUploadedAt":1691446385,"pakFileName":"AutoSnap Hairpack.pak","nexusFileId":5731,"metaUuid":"dfdb69c0-23ed-46a7-83bb-39fbbb84308c"},
@@ -35978,7 +35978,7 @@
 ]},
 "12727":{"nexusModName":"DnD 5.5e All-in-One BEYOND","nexusUploadedBy":"yoonmoonsik43","nexusModId":12727,"paks":[
 {"nexusFileName":"dnd2024 - V3 Legacy","nexusFileVersion":"3.4.6.4","nexusFileUploadedAt":1771945305,"pakFileName":"DnD2024_897914ef-5c96-053c-44af-0be823f895fe.pak","nexusFileId":115523,"metaUuid":"897914ef-5c96-053c-44af-0be823f895fe"},
-{"nexusFileName":"DnD 5.5e All-in-One BEYOND","nexusFileVersion":"4.7.11.2","nexusFileUploadedAt":1782486254,"pakFileName":"DnD2024_897914ef-5c96-053c-44af-0be823f895fe.pak","nexusFileId":124325,"metaUuid":"897914ef-5c96-053c-44af-0be823f895fe"}
+{"nexusFileName":"DnD 5.5e All-in-One BEYOND","nexusFileVersion":"4.7.11.3","nexusFileUploadedAt":1782554297,"pakFileName":"DnD2024_897914ef-5c96-053c-44af-0be823f895fe.pak","nexusFileId":124366,"metaUuid":"897914ef-5c96-053c-44af-0be823f895fe"}
 ]},
 "12728":{"nexusModName":"Origin-Themed Headwear KR","nexusUploadedBy":"Soorawang","nexusModId":12728,"paks":[
 {"nexusFileName":"Origin-Themed Headwear KR","nexusFileVersion":"1.0","nexusFileUploadedAt":1727930331,"pakFileName":"OriginHeadwear_kr.pak","nexusFileId":73692,"metaUuid":null}
@@ -64232,8 +64232,8 @@
 "22796":{"nexusModName":"Witch Bolt QoL 5.5e","nexusUploadedBy":"yoonmoonsik43","nexusModId":22796,"paks":[
 {"nexusFileName":"Witchbolt","nexusFileVersion":"1","nexusFileUploadedAt":1778481961,"pakFileName":"WitchBolt_d0821f7e-9056-d946-11b6-f0ee9ba52491.pak","nexusFileId":120949,"metaUuid":"d0821f7e-9056-d946-11b6-f0ee9ba52491"}
 ]},
-"22798":{"nexusModName":"Darkness and Vision Overhaul - Mechanics and Spells Reworked (including Hunger of Hadar and Cloud Spells)","nexusUploadedBy":"Mueffel","nexusModId":22798,"paks":[
-{"nexusFileName":"Darkness And Vision Overhaul","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1778530545,"pakFileName":"Darkness and Vision Overhaul.pak","nexusFileId":121008,"metaUuid":"9c8ab20a-9a07-4f2b-95de-1be6207cc20f"}
+"22798":{"nexusModName":"Cloud and Vision Overhaul - Mechanics and Spells Reworked (including Hunger of Hadar)","nexusUploadedBy":"Mueffel","nexusModId":22798,"paks":[
+{"nexusFileName":"Cloud and Vision Overhaul","nexusFileVersion":"2.0.0","nexusFileUploadedAt":1782556580,"pakFileName":"Cloud and Vision Overhaul.pak","nexusFileId":124369,"metaUuid":null}
 ]},
 "22800":{"nexusModName":"Pride 'n Prejudice - Maps for VP","nexusUploadedBy":"inkyplz","nexusModId":22800,"paks":[
 {"nexusFileName":"Pride 'n Prejudice Map Sets","nexusFileVersion":"1.0.0.14","nexusFileUploadedAt":1778507798,"pakFileName":"PPJ_f6b487fe-87db-f0e6-6166-86a10366f290.pak","nexusFileId":120973,"metaUuid":"f6b487fe-87db-f0e6-6166-86a10366f290"}
@@ -65677,7 +65677,7 @@
 {"nexusFileName":"axi_and_r_ assets","nexusFileVersion":"1.0.0.63","nexusFileUploadedAt":1781702650,"pakFileName":"axi_and_r_assets.pak","nexusFileId":123758,"metaUuid":"643fb4fd-ae00-8c58-9ac4-cf0277d91d56"}
 ]},
 "23379":{"nexusModName":"Divinity Preludes","nexusUploadedBy":"GabeCamomescro","nexusModId":23379,"paks":[
-{"nexusFileName":"Main (Live) File","nexusFileVersion":"1.0.0.1034","nexusFileUploadedAt":1782355623,"pakFileName":"Preludes_f6c7657d-7c5e-cd0e-f0a9-6c851d5c473d.pak","nexusFileId":124240,"metaUuid":null}
+{"nexusFileName":"Main (Live) File","nexusFileVersion":"1.0.0.1062","nexusFileUploadedAt":1782556745,"pakFileName":"Preludes_f6c7657d-7c5e-cd0e-f0a9-6c851d5c473d.pak","nexusFileId":124371,"metaUuid":null}
 ]},
 "23380":{"nexusModName":"Add to Wares and Send to Camp Hotkeys","nexusUploadedBy":"sowww","nexusModId":23380,"paks":[
 {"nexusFileName":"Add to Wares and Send to Camp Hotkeys","nexusFileVersion":"1.2.0","nexusFileUploadedAt":1782157688,"pakFileName":"AddToWaresHotkey.pak","nexusFileId":124092,"metaUuid":"dbddeb99-0037-4845-9c43-c77b9b19a62f"}
@@ -66054,4 +66054,7 @@
 ]},
 "23581":{"nexusModName":"Super Taekwondo Kick","nexusUploadedBy":"yoonmoonsik43","nexusModId":23581,"paks":[
 {"nexusFileName":"Superkick 8a4ee7b5 Cdcc 7d01 D Fknj","nexusFileVersion":"1","nexusFileUploadedAt":1782542985,"pakFileName":"SuperKick_8a4ee7b5-cdcc-7d01-d85c-fff10f26b44e.pak","nexusFileId":124360,"metaUuid":null}
+]},
+"23582":{"nexusModName":"Monster Slayer Progressive Equipment Set TR","nexusUploadedBy":"tarikagl1","nexusModId":23582,"paks":[
+{"nexusFileName":"MonsterSlayer ProgressiveEquipmentSet TR","nexusFileVersion":"1.00.00","nexusFileUploadedAt":1782554321,"pakFileName":"MonsterSlayer_ProgressiveEquipmentSet_TR.pak","nexusFileId":124367,"metaUuid":null}
 ]}}
