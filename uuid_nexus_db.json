@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-06-27T17:51:48.883183+00:00","total_mods":16684},
+{"_meta":{"last_run":"2026-06-27T18:51:57.961690+00:00","total_mods":16685},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -42333,12 +42333,12 @@
 {"nexusFileName":"ASTRL Elven Anthology PL","nexusFileVersion":"2","nexusFileUploadedAt":1740512964,"pakFileName":"ASTRLelvenanthology_PL.pak","nexusFileId":86340,"metaUuid":null}
 ]},
 "15103":{"nexusModName":"Death Knight Class - From World of Warcraft - WoW","nexusUploadedBy":"Royah97","nexusModId":15103,"paks":[
-{"nexusFileName":"WoWDeathKnight","nexusFileVersion":"03.02.03","nexusFileUploadedAt":1778956351,"pakFileName":"WoWDeathKnight.pak","nexusFileId":121391,"metaUuid":"18dd2869-7e3d-bf24-507a-f5737202da1d"},
-{"nexusFileName":"WoWDeathKnight Feat Each Level","nexusFileVersion":"03.02.03","nexusFileUploadedAt":1778956378,"pakFileName":"WoWDeathKnightFeatEachLevel.pak","nexusFileId":121392,"metaUuid":null},
-{"nexusFileName":"WoWDeathKnight Feat Every Second Level","nexusFileVersion":"03.02.03","nexusFileUploadedAt":1778956405,"pakFileName":"WoWDeathKnightFeatEverySecondLevel.pak","nexusFileId":121393,"metaUuid":null},
-{"nexusFileName":"WoWDeathKnight Hero Talents","nexusFileVersion":"03.02.03","nexusFileUploadedAt":1778956434,"pakFileName":"WoWDeathKnightHeroTalents.pak","nexusFileId":121394,"metaUuid":null},
-{"nexusFileName":"WoWDeathKnight Hero Talent Feat Each Level","nexusFileVersion":"03.02.03","nexusFileUploadedAt":1778956469,"pakFileName":"WoWDeathKnightHeroTalentsFeatEachLevel.pak","nexusFileId":121395,"metaUuid":null},
-{"nexusFileName":"WoWDeathKnight Hero Talent Feat Every Second Level","nexusFileVersion":"03.02.03","nexusFileUploadedAt":1778956493,"pakFileName":"WoWDeathKnightHeroTalentsFeatEverySecondLevel.pak","nexusFileId":121396,"metaUuid":null}
+{"nexusFileName":"WoWDeathKnight","nexusFileVersion":"03.02.04","nexusFileUploadedAt":1782585274,"pakFileName":"WoWMage.pak","nexusFileId":124404,"metaUuid":null},
+{"nexusFileName":"WoWDeathKnight Feat Each Level","nexusFileVersion":"03.02.04","nexusFileUploadedAt":1782585286,"pakFileName":"WoWMageFeatEachLevel.pak","nexusFileId":124405,"metaUuid":null},
+{"nexusFileName":"WoWDeathKnight Feat Every Second Level","nexusFileVersion":"03.02.04","nexusFileUploadedAt":1782585294,"pakFileName":"WoWMageFeatEverySecondLevel.pak","nexusFileId":124406,"metaUuid":null},
+{"nexusFileName":"WoWDeathKnight Hero Talents","nexusFileVersion":"03.02.04","nexusFileUploadedAt":1782585302,"pakFileName":"WoWMageHeroTalents.pak","nexusFileId":124407,"metaUuid":null},
+{"nexusFileName":"WoWDeathKnight Hero Talent Feat Each Level","nexusFileVersion":"03.02.04","nexusFileUploadedAt":1782585312,"pakFileName":"WoWMageHeroTalentsFeatEachLevel.pak","nexusFileId":124408,"metaUuid":null},
+{"nexusFileName":"WoWDeathKnight Hero Talent Feat Every Second Level","nexusFileVersion":"03.02.04","nexusFileUploadedAt":1782585321,"pakFileName":"WoWMageHeroTalentsFeatEverySecondLevel.pak","nexusFileId":124409,"metaUuid":null}
 ]},
 "15104":{"nexusModName":"Like Fine Wine - Head Collection","nexusUploadedBy":"jawstarion","nexusModId":15104,"paks":[
 {"nexusFileName":"Like Fine Wine","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1740521383,"pakFileName":"LikeFineWine.pak","nexusFileId":86351,"metaUuid":null},
@@ -60566,11 +60566,12 @@
 {"nexusFileName":"Kiryu Hair","nexusFileVersion":"1.0","nexusFileUploadedAt":1771438031,"pakFileName":"KiryuChanHair_aaa44133-bcaf-9756-4feb-f377c627126e.pak","nexusFileId":115093,"metaUuid":"aaa44133-bcaf-9756-4feb-f377c627126e"}
 ]},
 "21530":{"nexusModName":"Mage Class - From World of Warcraft (WoW)","nexusUploadedBy":"Royah97","nexusModId":21530,"paks":[
-{"nexusFileName":"WoWMage","nexusFileVersion":"01.01.02","nexusFileUploadedAt":1779125861,"pakFileName":"WoWMage.pak","nexusFileId":121608,"metaUuid":null},
-{"nexusFileName":"WoWMage Feat Every Second Level","nexusFileVersion":"01.01.02","nexusFileUploadedAt":1779125886,"pakFileName":"WoWMageFeatEverySecondLevel.pak","nexusFileId":121610,"metaUuid":null},
-{"nexusFileName":"WoWMage Hero Talent","nexusFileVersion":"01.01.02","nexusFileUploadedAt":1779125897,"pakFileName":"WoWMageHeroTalents.pak","nexusFileId":121611,"metaUuid":null},
-{"nexusFileName":"WoWMage Hero Talent Feat Each Level","nexusFileVersion":"01.01.02","nexusFileUploadedAt":1779125907,"pakFileName":"WoWMageHeroTalentsFeatEachLevel.pak","nexusFileId":121612,"metaUuid":null},
-{"nexusFileName":"WoWMage Hero Talent Feat Every Second Level","nexusFileVersion":"01.01.02","nexusFileUploadedAt":1779125915,"pakFileName":"WoWMageHeroTalentsFeatEverySecondLevel.pak","nexusFileId":121613,"metaUuid":null}
+{"nexusFileName":"WoWMage","nexusFileVersion":"01.01.03","nexusFileUploadedAt":1782583784,"pakFileName":"WoWMage.pak","nexusFileId":124398,"metaUuid":null},
+{"nexusFileName":"WoWMage Feat Each Level","nexusFileVersion":"01.01.03","nexusFileUploadedAt":1782583800,"pakFileName":"WoWMageFeatEachLevel.pak","nexusFileId":124399,"metaUuid":null},
+{"nexusFileName":"WoWMage Feat Every Second Level","nexusFileVersion":"01.01.03","nexusFileUploadedAt":1782583810,"pakFileName":"WoWMageFeatEverySecondLevel.pak","nexusFileId":124400,"metaUuid":null},
+{"nexusFileName":"WoWMage Hero Talent","nexusFileVersion":"01.01.03","nexusFileUploadedAt":1782583824,"pakFileName":"WoWMageHeroTalents.pak","nexusFileId":124401,"metaUuid":null},
+{"nexusFileName":"WoWMage Hero Talent Feat Each Level","nexusFileVersion":"01.01.03","nexusFileUploadedAt":1782583836,"pakFileName":"WoWMageHeroTalentsFeatEverySecondLevel.pak","nexusFileId":124402,"metaUuid":null},
+{"nexusFileName":"WoWMage Hero Talent Feat Every Second Level","nexusFileVersion":"01.01.03","nexusFileUploadedAt":1782583853,"pakFileName":"WoWMageHeroTalentsFeatEverySecondLevel.pak","nexusFileId":124403,"metaUuid":null}
 ]},
 "21531":{"nexusModName":"Ferrety's Classes - Hagbound (Witch Homebrew)","nexusUploadedBy":"ferrety5011","nexusModId":21531,"paks":[
 {"nexusFileName":"Ferrety's Classes - Hagbound (Witch Homebrew)","nexusFileVersion":"1.0.10.14","nexusFileUploadedAt":1772017024,"pakFileName":"Ferrety's Classes - Hagbound Witch.pak","nexusFileId":115579,"metaUuid":null}
@@ -66041,4 +66042,7 @@
 ]},
 "23589":{"nexusModName":"Mordenkainen's Tome of Tieflings - BG3SX Patch","nexusUploadedBy":"GustavoSchip","nexusModId":23589,"paks":[
 {"nexusFileName":"Mordenkainen's Tome of Tieflings - BG3SX Patch","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1782578490,"pakFileName":"TieflingSubracesBG3SX.pak","nexusFileId":124389,"metaUuid":null}
+]},
+"23590":{"nexusModName":"Cursed Justice for Sorrow","nexusUploadedBy":"blackninjato2","nexusModId":23590,"paks":[
+{"nexusFileName":"CursedJusticeforSorrow","nexusFileVersion":"1.1","nexusFileUploadedAt":1782585351,"pakFileName":"CursedJusticeforSorrow.pak","nexusFileId":124410,"metaUuid":null}
 ]}}
