@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-06-28T15:52:03.036331+00:00","total_mods":16698},
+{"_meta":{"last_run":"2026-06-28T16:51:53.562835+00:00","total_mods":16698},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -26845,7 +26845,7 @@
 {"nexusFileName":"Compatibility patch - Pact as Invocation","nexusFileVersion":"1.0","nexusFileUploadedAt":1716674606,"pakFileName":"Path of Undeath - Pact as Invocation.pak","nexusFileId":58724,"metaUuid":"270c1361-1e64-4a44-a07d-7742b8ebc8c0"},
 {"nexusFileName":"Help patch","nexusFileVersion":"1.0","nexusFileUploadedAt":1759239604,"pakFileName":"Path Of Undeath - Help.pak","nexusFileId":104010,"metaUuid":"1e7840d3-4994-4d16-8707-e0a6b12a9386"},
 {"nexusFileName":"Home Brew Patch","nexusFileVersion":"1.0","nexusFileUploadedAt":1774369475,"pakFileName":"Path of Undeath - Home Brew Patch.pak","nexusFileId":117360,"metaUuid":"ac30869a-b597-45ca-a163-71179d92ee1b"},
-{"nexusFileName":"Path of Undeath","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1782528899,"pakFileName":"Path of Undeath.pak","nexusFileId":124351,"metaUuid":"fe04695e-d206-4a88-b3f9-b2a65855ac4c"}
+{"nexusFileName":"Path of Undeath","nexusFileVersion":"2.0.2","nexusFileUploadedAt":1782662712,"pakFileName":"Path of Undeath.pak","nexusFileId":124485,"metaUuid":"fe04695e-d206-4a88-b3f9-b2a65855ac4c"}
 ]},
 "9165":{"nexusModName":"Subtle Nature Eyes","nexusUploadedBy":"robogena","nexusModId":9165,"paks":[
 {"nexusFileName":"Subtle Nature Eyes","nexusFileVersion":"2.0","nexusFileUploadedAt":1725857123,"pakFileName":"robogena_SubtleNatureEyes.pak","nexusFileId":70050,"metaUuid":"1f11c512-5c14-4459-9379-4039773a6a91"}
@@ -57987,8 +57987,8 @@
 {"nexusFileName":"Main","nexusFileVersion":"1.1.2","nexusFileUploadedAt":1772440131,"pakFileName":"DuelistClass_9059a092-38ae-4945-d9f6-d1f6ad42537e.pak","nexusFileId":115884,"metaUuid":null}
 ]},
 "20588":{"nexusModName":"Ancient Mega Pack for Korean","nexusUploadedBy":"Eolaloe","nexusModId":20588,"paks":[
-{"nexusFileName":"Ancient Mega Pack Plus for Korean","nexusFileVersion":"1.0.0.2","nexusFileUploadedAt":1782469010,"pakFileName":"AMP_Plus_kr.pak","nexusFileId":124312,"metaUuid":null},
-{"nexusFileName":"Ancient Mega Pack - REL(random loot) for Korean","nexusFileVersion":"22.74.1.2","nexusFileUploadedAt":1782470745,"pakFileName":"REL_Full_Ancient_kr.pak","nexusFileId":124313,"metaUuid":"b9d668db-f5b7-c5c5-00d4-7e7f8a153a70"}
+{"nexusFileName":"Ancient Mega Pack - REL(random loot) for Korean","nexusFileVersion":"22.74.1.2","nexusFileUploadedAt":1782470745,"pakFileName":"REL_Full_Ancient_kr.pak","nexusFileId":124313,"metaUuid":"b9d668db-f5b7-c5c5-00d4-7e7f8a153a70"},
+{"nexusFileName":"Ancient Mega Pack Plus for Korean","nexusFileVersion":"1.1.1.4","nexusFileUploadedAt":1782662571,"pakFileName":"AMP_Plus_kr.pak","nexusFileId":124483,"metaUuid":null}
 ]},
 "20589":{"nexusModName":"Many More Monsters for Korean","nexusUploadedBy":"Eolaloe","nexusModId":20589,"paks":[
 {"nexusFileName":"Many More Monsters for Korean","nexusFileVersion":"4.3.2.0","nexusFileUploadedAt":1781358927,"pakFileName":"ManyMoreMonsters_kr.pak","nexusFileId":123477,"metaUuid":null}
@@ -59993,7 +59993,7 @@
 {"nexusFileName":"scionrogue","nexusFileVersion":"1.0.0.10","nexusFileUploadedAt":1770269758,"pakFileName":"ScionRogue_05326553-fc29-78d0-2e26-96d33b58ee5f.pak","nexusFileId":114159,"metaUuid":"05326553-fc29-78d0-2e26-96d33b58ee5f"}
 ]},
 "21304":{"nexusModName":"Bloodtrail - Path of Undeath Chapter 2","nexusUploadedBy":"Siaell","nexusModId":21304,"paks":[
-{"nexusFileName":"Path Of Undeath   Bloodtrail","nexusFileVersion":"1.3.2","nexusFileUploadedAt":1782565064,"pakFileName":"Path of Undeath - Bloodtrail.pak","nexusFileId":124379,"metaUuid":"57b41349-6574-4015-87dc-aea3fd1e4618"}
+{"nexusFileName":"Path Of Undeath   Bloodtrail","nexusFileVersion":"1.3.3","nexusFileUploadedAt":1782662641,"pakFileName":"Path of Undeath - Bloodtrail.pak","nexusFileId":124484,"metaUuid":"57b41349-6574-4015-87dc-aea3fd1e4618"}
 ]},
 "21308":{"nexusModName":"Goon's Companion Protection for Korean","nexusUploadedBy":"Eolaloe","nexusModId":21308,"paks":[
 {"nexusFileName":"Goon's Companion Protection for Korean","nexusFileVersion":"2.1.0.0","nexusFileUploadedAt":1781021231,"pakFileName":"Goons Companion Protection_kr.pak","nexusFileId":123241,"metaUuid":"2e4505a2-c2ab-427b-8cbc-4ceb01cd5720"}
@@ -62964,8 +62964,11 @@
 {"nexusFileName":"Lone Wolf Feat (PT-BR)","nexusFileVersion":"2.3.0.1","nexusFileUploadedAt":1775581632,"pakFileName":"Lone Wolf Feat (PT-BR).pak","nexusFileId":118379,"metaUuid":"310354dd-1ceb-4bd3-99da-ca69dbb6f081"}
 ]},
 "22333":{"nexusModName":"Necribelle - A Summon Mod","nexusUploadedBy":"M3g4Pint","nexusModId":22333,"paks":[
-{"nexusFileName":"Necri Soul Wand","nexusFileVersion":"1","nexusFileUploadedAt":1775591628,"pakFileName":"Necri_Soul_Wand_bce292ff-3506-4e26-6675-4efc93289dcc.pak","nexusFileId":118395,"metaUuid":null},
-{"nexusFileName":"Necri Soul Wand","nexusFileVersion":"2","nexusFileUploadedAt":1776202788,"pakFileName":"Necri_Soul_Wand_bce292ff-3506-4e26-6675-4efc93289dcc.pak","nexusFileId":118999,"metaUuid":"bce292ff-3506-4e26-6675-4efc93289dcc"}
+{"nexusFileName":"Necri Soul Wand","nexusFileVersion":"1","nexusFileUploadedAt":1775591628,"pakFileName":"Necri_Soul_Wand_bce292ff-3506-4e26-6675-4efc93289dcc.pak","nexusFileId":118395,"metaUuid":"bce292ff-3506-4e26-6675-4efc93289dcc"},
+{"nexusFileName":"Necri Soul Wand Act3","nexusFileVersion":"1","nexusFileUploadedAt":1775667702,"pakFileName":"Necri_Soul_Wand_bce292ff-3506-4e26-6675-4efc93289dcc.pak","nexusFileId":118473,"metaUuid":"bce292ff-3506-4e26-6675-4efc93289dcc"},
+{"nexusFileName":"Necri Soul Wand","nexusFileVersion":"2","nexusFileUploadedAt":1776202788,"pakFileName":"Necri_Soul_Wand_bce292ff-3506-4e26-6675-4efc93289dcc.pak","nexusFileId":118999,"metaUuid":"bce292ff-3506-4e26-6675-4efc93289dcc"},
+{"nexusFileName":"Necri Soul Wand Act3","nexusFileVersion":"2","nexusFileUploadedAt":1776202912,"pakFileName":"Necri_Soul_Wand_bce292ff-3506-4e26-6675-4efc93289dcc.pak","nexusFileId":119000,"metaUuid":"bce292ff-3506-4e26-6675-4efc93289dcc"},
+{"nexusFileName":"Necri - For Undead  Players - WIP","nexusFileVersion":"2","nexusFileUploadedAt":1782665229,"pakFileName":"Necri_Soul_Wand_bce292ff-3506-4e26-6675-4efc93289dcc.pak","nexusFileId":124487,"metaUuid":"bce292ff-3506-4e26-6675-4efc93289dcc"}
 ]},
 "22334":{"nexusModName":"Fade's Dynamic Enemy Encounters for Korean","nexusUploadedBy":"Eolaloe","nexusModId":22334,"paks":[
 {"nexusFileName":"Dynamic Enemy Encounters for Korean","nexusFileVersion":"1.0.0.22","nexusFileUploadedAt":1780896558,"pakFileName":"DynamicExtraEncounters_kr.pak","nexusFileId":123130,"metaUuid":"685f72ea-ff40-47b2-9a4b-8c091b714ff1"}
@@ -65165,7 +65168,7 @@
 {"nexusFileName":"Bhaalholder Magazine - Y2K Edition","nexusFileVersion":"1.0.0.1","nexusFileUploadedAt":1780352171,"pakFileName":"bhaalholdermagazine_92b309b3-7df5-8a0a-e96f-3b49731b4a53.pak","nexusFileId":122600,"metaUuid":null}
 ]},
 "23168":{"nexusModName":"Pokemon SV Zorua Summon","nexusUploadedBy":"Lynstence","nexusModId":23168,"paks":[
-{"nexusFileName":"PKSVZoruaSummon","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1782330521,"pakFileName":"PKSVZoruaSummon.pak","nexusFileId":124227,"metaUuid":null}
+{"nexusFileName":"PKSVZoruaSummon","nexusFileVersion":"1.1.0","nexusFileUploadedAt":1782664226,"pakFileName":"PKSVZoruaSummon.pak","nexusFileId":124486,"metaUuid":null}
 ]},
 "23169":{"nexusModName":"The Paragon","nexusUploadedBy":"CatDude55","nexusModId":23169,"paks":[
 {"nexusFileName":"Paragon","nexusFileVersion":"1.01","nexusFileUploadedAt":1780878080,"pakFileName":"Paragon.pak","nexusFileId":123121,"metaUuid":"688ec259-407b-882f-2fef-66392d1dd3eb"}
