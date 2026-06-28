@@ -573,8 +573,8 @@
 {"nexusFileName":"Proper Range","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1685366591,"pakFileName":"ProperRange.pak","nexusFileId":4576,"metaUuid":null}
 ]},
 "432":{"nexusModName":"Cleric Subclasses - Release","nexusUploadedBy":"baltavi","nexusModId":432,"paks":[
-{"nexusFileName":"Blessed Strikes Addon","nexusFileVersion":"2.0.7","nexusFileUploadedAt":1699452601,"pakFileName":"BlessedStrikesAddon.pak","nexusFileId":27403,"metaUuid":null},
-{"nexusFileName":"Cleric Subclasses","nexusFileVersion":"2.0.38","nexusFileUploadedAt":1703095492,"pakFileName":"Clerics.pak","nexusFileId":35380,"metaUuid":null}
+{"nexusFileName":"Blessed Strikes Addon","nexusFileVersion":"2.0.7","nexusFileUploadedAt":1699452601,"pakFileName":"BlessedStrikesAddon.pak","nexusFileId":27403,"metaUuid":"5973bc89-df20-4340-a500-20622acfdcff"},
+{"nexusFileName":"Cleric Subclasses","nexusFileVersion":"2.0.38","nexusFileUploadedAt":1703095492,"pakFileName":"Clerics.pak","nexusFileId":35380,"metaUuid":"eef7b885-1423-4096-abd6-7a5db5f871db"}
 ]},
 "433":{"nexusModName":"Gods Extra - allows all races and classes to choose a God","nexusUploadedBy":"lostsoulman","nexusModId":433,"paks":[
 {"nexusFileName":"racechooseanygod","nexusFileVersion":"1.0","nexusFileUploadedAt":1703200022,"pakFileName":"racechooseanygod.pak","nexusFileId":35626,"metaUuid":null},
@@ -5750,7 +5750,7 @@
 {"nexusFileName":"Mastermind","nexusFileVersion":"1.0","nexusFileUploadedAt":1693277748,"pakFileName":"Mastermind.pak","nexusFileId":11377,"metaUuid":null}
 ]},
 "1613":{"nexusModName":"That Unsightly Mole - A Very Subtle Astarion Edit","nexusUploadedBy":"mithran56","nexusModId":1613,"paks":[
-{"nexusFileName":"That Unsightly Mole (BG3MM)","nexusFileVersion":"1.0","nexusFileUploadedAt":1709803941,"pakFileName":"That Unsightly Mole.pak","nexusFileId":48657,"metaUuid":null}
+{"nexusFileName":"That Unsightly Mole (BG3MM)","nexusFileVersion":"1.0","nexusFileUploadedAt":1709803941,"pakFileName":"That Unsightly Mole.pak","nexusFileId":48657,"metaUuid":"92f6de4f-19b4-4929-ae9f-2f8cbca6b338"}
 ]},
 "1615":{"nexusModName":"Potent Robes for Dark Urge","nexusUploadedBy":"winterspast","nexusModId":1615,"paks":[
 {"nexusFileName":"PotentRobes","nexusFileVersion":"1.1.0","nexusFileUploadedAt":1703223576,"pakFileName":"PotentRobes.pak","nexusFileId":35667,"metaUuid":"0b93f5c2-aa6f-4269-8eca-2d55c1e18a0b"}
@@ -7184,7 +7184,7 @@
 ]},
 "2152":{"nexusModName":"Less Annoying Hex","nexusUploadedBy":"wesslen","nexusModId":2152,"paks":[
 {"nexusFileName":"Less Annoying Hex","nexusFileVersion":"1.1.0.1","nexusFileUploadedAt":1705830774,"pakFileName":"LessAnoyingHex.pak","nexusFileId":41071,"metaUuid":"84d37d76-a5d6-42d6-b222-4b7c23d8bc9f"},
-{"nexusFileName":"Less Annoying Hex - No Reapply Spell","nexusFileVersion":"1.1.0.1","nexusFileUploadedAt":1705830815,"pakFileName":"LessAnoyingHex.pak","nexusFileId":41072,"metaUuid":null}
+{"nexusFileName":"Less Annoying Hex - No Reapply Spell","nexusFileVersion":"1.1.0.1","nexusFileUploadedAt":1705830815,"pakFileName":"LessAnoyingHex.pak","nexusFileId":41072,"metaUuid":"84d37d76-a5d6-42d6-b222-4b7c23d8bc9f"}
 ]},
 "2153":{"nexusModName":"Armored Monk","nexusUploadedBy":"FailGeek","nexusModId":2153,"paks":[
 {"nexusFileName":"Armored Monk","nexusFileVersion":"1.0","nexusFileUploadedAt":1694510751,"pakFileName":"Armored Monk.pak","nexusFileId":15139,"metaUuid":null}
@@ -14327,7 +14327,7 @@
 ]},
 "4549":{"nexusModName":"Elven Weaponry - Smithing Kit","nexusUploadedBy":"kharneth","nexusModId":4549,"paks":[
 {"nexusFileName":"A) Elven_Weaponry_Smithing_Kit","nexusFileVersion":"1.01","nexusFileUploadedAt":1700940109,"pakFileName":"ElvenWeaponrySmithingKit.pak","nexusFileId":30444,"metaUuid":null},
-{"nexusFileName":"B) -Elven_Weaponry_Tutorial_Chest_Only","nexusFileVersion":"1.01","nexusFileUploadedAt":1700940181,"pakFileName":"ElvenWeaponrySmithingKit.pak","nexusFileId":30445,"metaUuid":null},
+{"nexusFileName":"B) -Elven_Weaponry_Tutorial_Chest_Only","nexusFileVersion":"1.01","nexusFileUploadedAt":1700940181,"pakFileName":"ElvenWeaponrySmithingKit.pak","nexusFileId":30445,"metaUuid":"46528da0-6d44-4a16-9f14-feb1e30cbaa9"},
 {"nexusFileName":"C) -Elven_Weaponry_Smithing_Kit_Traders_Unique","nexusFileVersion":"1.01","nexusFileUploadedAt":1700940332,"pakFileName":"ElvenWeaponrySmithingKit.pak","nexusFileId":30446,"metaUuid":null}
 ]},
 "4551":{"nexusModName":"Blood Hunter ( Russian Translation )","nexusUploadedBy":"MaxRaccooon","nexusModId":4551,"paks":[
@@ -28893,7 +28893,7 @@
 {"nexusFileName":"A Candle In The Dark - Custom Companion - Part 2","nexusFileVersion":"1.1.5.2","nexusFileUploadedAt":1782098290,"pakFileName":"MGNTN_JasonCompanionPt2.pak","nexusFileId":124054,"metaUuid":"659571cb-e6f1-4c1a-9ab0-cc40a5d28463"},
 {"nexusFileName":"A Candle In The Dark - Custom Companion - Part 3","nexusFileVersion":"1.1.0.1","nexusFileUploadedAt":1782098318,"pakFileName":"MGNTN_JasonCompanionPt3.pak","nexusFileId":124055,"metaUuid":"9978eded-312f-4656-9a0b-bc6fe8d9615c"},
 {"nexusFileName":"Jason Skill Proficiencies Patch","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1782098486,"pakFileName":"MGNTN_JasonDefaultSkillsPatch.pak","nexusFileId":124056,"metaUuid":"951fc302-521f-4eb1-902f-3ab0a111f8b8"},
-{"nexusFileName":"Give Me My Title Patch for Jason","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1782098636,"pakFileName":"KJMMGNTN_JasonGiveMeMyTitlePatch.pak","nexusFileId":124057,"metaUuid":null},
+{"nexusFileName":"Give Me My Title Patch for Jason","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1782098636,"pakFileName":"KJMMGNTN_JasonGiveMeMyTitlePatch.pak","nexusFileId":124057,"metaUuid":"53023745-e092-497a-9b18-d220ba6ed830"},
 {"nexusFileName":"A Candle In The Dark - Custom Companion - Part 1","nexusFileVersion":"1.1.1.1","nexusFileUploadedAt":1782273425,"pakFileName":"MGNTN_JasonCompanionPt1.pak","nexusFileId":124186,"metaUuid":"2396f116-b622-4940-96bf-083b120e2a30"}
 ]},
 "10002":{"nexusModName":"Ponytail Hairstyles","nexusUploadedBy":"Cerberry","nexusModId":10002,"paks":[
@@ -37500,7 +37500,7 @@
 ]},
 "13318":{"nexusModName":"Cozier Sleepy Times (default sleep animation replacer)","nexusUploadedBy":"almasy87","nexusModId":13318,"paks":[
 {"nexusFileName":"Cozier Sleepy Times","nexusFileVersion":"2","nexusFileUploadedAt":1745624338,"pakFileName":"CozySleepTimes.pak","nexusFileId":90661,"metaUuid":"18c90025-1b8f-47fb-8638-ef7b10c0175a"},
-{"nexusFileName":"Cozier Sleepy Times (with Sanguine Midnight anim.)","nexusFileVersion":"2","nexusFileUploadedAt":1745624384,"pakFileName":"CozySleepTimes.pak","nexusFileId":90663,"metaUuid":null}
+{"nexusFileName":"Cozier Sleepy Times (with Sanguine Midnight anim.)","nexusFileVersion":"2","nexusFileUploadedAt":1745624384,"pakFileName":"CozySleepTimes.pak","nexusFileId":90663,"metaUuid":"18c90025-1b8f-47fb-8638-ef7b10c0175a"}
 ]},
 "13319":{"nexusModName":"Goodies Bag","nexusUploadedBy":"ShaneH147","nexusModId":13319,"paks":[
 {"nexusFileName":"GoodiesBag","nexusFileVersion":"1.0.0.35","nexusFileUploadedAt":1748604976,"pakFileName":"GoodiesBag_e5398801-b742-8909-b78d-4ee951932152.pak","nexusFileId":94529,"metaUuid":"e5398801-b742-8909-b78d-4ee951932152"}
@@ -49495,7 +49495,7 @@
 {"nexusFileName":"DeathRose Veil - Draconic Variant","nexusFileVersion":"1","nexusFileUploadedAt":1753452566,"pakFileName":"DeathRoseVeil - Draconic.pak","nexusFileId":98987,"metaUuid":"0c6d72f1-1877-472b-ba0c-9fb6d4d9999b"},
 {"nexusFileName":"DeathWielder's Dress","nexusFileVersion":"1","nexusFileUploadedAt":1753453657,"pakFileName":"DeathWieldersDress.pak","nexusFileId":98989,"metaUuid":null},
 {"nexusFileName":"DuskRaven Dress","nexusFileVersion":"1","nexusFileUploadedAt":1753453735,"pakFileName":"DuskravenDress.pak","nexusFileId":98990,"metaUuid":null},
-{"nexusFileName":"NightWhite Silks","nexusFileVersion":"1","nexusFileUploadedAt":1753453842,"pakFileName":"NightWhiteSilks.pak","nexusFileId":98991,"metaUuid":null},
+{"nexusFileName":"NightWhite Silks","nexusFileVersion":"1","nexusFileUploadedAt":1753453842,"pakFileName":"NightWhiteSilks.pak","nexusFileId":98991,"metaUuid":"4d7ce737-982c-4e92-9fe5-35fd891a5458"},
 {"nexusFileName":"Seafoam Dress","nexusFileVersion":"1","nexusFileUploadedAt":1753453942,"pakFileName":"SeafoamDress.pak","nexusFileId":98992,"metaUuid":null},
 {"nexusFileName":"Serafina's Wild Starlight","nexusFileVersion":"1","nexusFileUploadedAt":1753454020,"pakFileName":"SerafinasWildStarlight.pak","nexusFileId":98993,"metaUuid":null},
 {"nexusFileName":"Thespian Threads","nexusFileVersion":"1","nexusFileUploadedAt":1753454096,"pakFileName":"ThespianThreads.pak","nexusFileId":98994,"metaUuid":null},
@@ -66049,7 +66049,7 @@
 ]},
 "23592":{"nexusModName":"Compendium of Poses by Goblin","nexusUploadedBy":"gobanaoblin","nexusModId":23592,"paks":[
 {"nexusFileName":"Hush","nexusFileVersion":"1","nexusFileUploadedAt":1782586979,"pakFileName":"PP_Hush_f222a5a7-bf00-f3cb-1b85-6281c5b45f33.pak","nexusFileId":124414,"metaUuid":null},
-{"nexusFileName":"Eternal","nexusFileVersion":"1","nexusFileUploadedAt":1782588937,"pakFileName":"PP_Eternal_24f742cc-908f-86ad-aef1-e46833c25d11.pak","nexusFileId":124417,"metaUuid":null}
+{"nexusFileName":"Eternal","nexusFileVersion":"1","nexusFileUploadedAt":1782588937,"pakFileName":"PP_Eternal_24f742cc-908f-86ad-aef1-e46833c25d11.pak","nexusFileId":124417,"metaUuid":"24f742cc-908f-86ad-aef1-e46833c25d11"}
 ]},
 "23593":{"nexusModName":"Grasping Vine PHB2024","nexusUploadedBy":"chizfreak","nexusModId":23593,"paks":[
 {"nexusFileName":"Grasping Vine PHB2024","nexusFileVersion":"2.1","nexusFileUploadedAt":1782661137,"pakFileName":"GraspingVinePHB2024_e487afef-2b10-2edb-fb14-87053412c73f.pak","nexusFileId":124482,"metaUuid":null}
