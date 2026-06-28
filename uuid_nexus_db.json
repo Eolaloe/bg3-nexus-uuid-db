@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-06-28T14:51:51.336793+00:00","total_mods":16697},
+{"_meta":{"last_run":"2026-06-28T15:52:03.036331+00:00","total_mods":16698},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -66049,7 +66049,7 @@
 {"nexusFileName":"Eternal","nexusFileVersion":"1","nexusFileUploadedAt":1782588937,"pakFileName":"PP_Eternal_24f742cc-908f-86ad-aef1-e46833c25d11.pak","nexusFileId":124417,"metaUuid":null}
 ]},
 "23593":{"nexusModName":"Grasping Vine PHB2024","nexusUploadedBy":"chizfreak","nexusModId":23593,"paks":[
-{"nexusFileName":"Grasping Vine PHB2024","nexusFileVersion":"2.0","nexusFileUploadedAt":1782599188,"pakFileName":"GraspingVinePHB2024_e487afef-2b10-2edb-fb14-87053412c73f.pak","nexusFileId":124432,"metaUuid":null}
+{"nexusFileName":"Grasping Vine PHB2024","nexusFileVersion":"2.1","nexusFileUploadedAt":1782661137,"pakFileName":"GraspingVinePHB2024_e487afef-2b10-2edb-fb14-87053412c73f.pak","nexusFileId":124482,"metaUuid":null}
 ]},
 "23595":{"nexusModName":"Fighting Style Changes","nexusUploadedBy":"Cainhurtz","nexusModId":23595,"paks":[
 {"nexusFileName":"Fighting Style Changes","nexusFileVersion":"1","nexusFileUploadedAt":1782605821,"pakFileName":"Fighting_Style_Rework.pak","nexusFileId":124434,"metaUuid":null}
@@ -66083,4 +66083,8 @@
 ]},
 "23608":{"nexusModName":"Dawnstars Water Spells Turkish Translation","nexusUploadedBy":"tarikagl1","nexusModId":23608,"paks":[
 {"nexusFileName":"NatureWitch TR","nexusFileVersion":"1.00.00","nexusFileUploadedAt":1782648605,"pakFileName":"NatureWitch TR.pak","nexusFileId":124468,"metaUuid":null}
+]},
+"23611":{"nexusModName":"Legendary Armors for Durge and Tav","nexusUploadedBy":"romanxocs","nexusModId":23611,"paks":[
+{"nexusFileName":"Tav's Arcanist Armor","nexusFileVersion":"1","nexusFileUploadedAt":1782660281,"pakFileName":"R_TavArmor.pak","nexusFileId":124480,"metaUuid":null},
+{"nexusFileName":"Durge's Vengeance Armor","nexusFileVersion":"1","nexusFileUploadedAt":1782660313,"pakFileName":"R_DurgeArmor.pak","nexusFileId":124481,"metaUuid":null}
 ]}}
