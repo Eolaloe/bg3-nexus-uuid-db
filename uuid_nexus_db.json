@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-06-28T11:52:03.295208+00:00","total_mods":16694},
+{"_meta":{"last_run":"2026-06-28T12:51:45.545640+00:00","total_mods":16697},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -65723,25 +65723,25 @@
 {"nexusFileName":"Karlach BT1 Vanilla Skin Texture","nexusFileVersion":"3","nexusFileUploadedAt":1781955929,"pakFileName":"Karlach_BT1_VanillaSkin.pak","nexusFileId":123921,"metaUuid":null}
 ]},
 "23421":{"nexusModName":"Solo leveling FRE","nexusUploadedBy":"iNoah","nexusModId":23421,"paks":[
-{"nexusFileName":"SoloLeveling FRE","nexusFileVersion":"1.0","nexusFileUploadedAt":1781727413,"pakFileName":"SoloLeveling FRE.pak","nexusFileId":123778,"metaUuid":null}
+{"nexusFileName":"SoloLeveling FRE","nexusFileVersion":"1.1","nexusFileUploadedAt":1782650426,"pakFileName":"SoloLeveling FRE.pak","nexusFileId":124475,"metaUuid":null}
 ]},
 "23422":{"nexusModName":"SoloLeveling CHS - CHT","nexusUploadedBy":"iNoah","nexusModId":23422,"paks":[
-{"nexusFileName":"SoloLeveling CHS - CHT","nexusFileVersion":"2","nexusFileUploadedAt":1781795485,"pakFileName":"SoloLeveling CHS-CHT.pak","nexusFileId":123832,"metaUuid":null}
+{"nexusFileName":"SoloLeveling CHS - CHT","nexusFileVersion":"3","nexusFileUploadedAt":1782650410,"pakFileName":"SoloLeveling CHS-CHT.pak","nexusFileId":124474,"metaUuid":null}
 ]},
 "23423":{"nexusModName":"Solo leveling GER","nexusUploadedBy":"iNoah","nexusModId":23423,"paks":[
-{"nexusFileName":"SoloLeveling GER","nexusFileVersion":"1","nexusFileUploadedAt":1781733002,"pakFileName":"SoloLeveling GER.pak","nexusFileId":123780,"metaUuid":null}
+{"nexusFileName":"SoloLeveling GER","nexusFileVersion":"2","nexusFileUploadedAt":1782650397,"pakFileName":"SoloLeveling GER.pak","nexusFileId":124473,"metaUuid":null}
 ]},
 "23425":{"nexusModName":"SoloLeveling KOR","nexusUploadedBy":"iNoah","nexusModId":23425,"paks":[
-{"nexusFileName":"SoloLeveling KOR","nexusFileVersion":"1","nexusFileUploadedAt":1781733378,"pakFileName":"SoloLeveling KOR.pak","nexusFileId":123784,"metaUuid":null}
+{"nexusFileName":"SoloLeveling KOR","nexusFileVersion":"2","nexusFileUploadedAt":1782650379,"pakFileName":"SoloLeveling KOR.pak","nexusFileId":124472,"metaUuid":null}
 ]},
 "23426":{"nexusModName":"SoloLeveling POL","nexusUploadedBy":"iNoah","nexusModId":23426,"paks":[
 {"nexusFileName":"SoloLeveling POL","nexusFileVersion":"1","nexusFileUploadedAt":1781733586,"pakFileName":"SoloLeveling POL.pak","nexusFileId":123785,"metaUuid":null}
 ]},
 "23428":{"nexusModName":"SoloLeveling RUS","nexusUploadedBy":"iNoah","nexusModId":23428,"paks":[
-{"nexusFileName":"SoloLeveling RUS","nexusFileVersion":"1","nexusFileUploadedAt":1781734142,"pakFileName":"SoloLeveling RUS.pak","nexusFileId":123789,"metaUuid":null}
+{"nexusFileName":"SoloLeveling RUS","nexusFileVersion":"2","nexusFileUploadedAt":1782650366,"pakFileName":"SoloLeveling RUS.pak","nexusFileId":124471,"metaUuid":null}
 ]},
 "23429":{"nexusModName":"SoloLeveling SPA","nexusUploadedBy":"iNoah","nexusModId":23429,"paks":[
-{"nexusFileName":"SoloLeveling SPA","nexusFileVersion":"1","nexusFileUploadedAt":1781734274,"pakFileName":"SoloLeveling SPA.pak","nexusFileId":123790,"metaUuid":null}
+{"nexusFileName":"SoloLeveling SPA","nexusFileVersion":"2","nexusFileUploadedAt":1782650352,"pakFileName":"SoloLeveling SPA.pak","nexusFileId":124470,"metaUuid":null}
 ]},
 "23430":{"nexusModName":"SoloLeveling TUR","nexusUploadedBy":"iNoah","nexusModId":23430,"paks":[
 {"nexusFileName":"SoloLeveling TUR","nexusFileVersion":"1","nexusFileUploadedAt":1781734421,"pakFileName":"SoloLeveling TUR.pak","nexusFileId":123791,"metaUuid":null}
@@ -66073,4 +66073,13 @@
 ]},
 "23605":{"nexusModName":"Dawnstars Arcane Spells Turkish Translation","nexusUploadedBy":"tarikagl1","nexusModId":23605,"paks":[
 {"nexusFileName":"DawnstarsArcaneSpells TR","nexusFileVersion":"1.00.00","nexusFileUploadedAt":1782646259,"pakFileName":"DawnstarsArcaneSpells TR.pak","nexusFileId":124465,"metaUuid":null}
+]},
+"23606":{"nexusModName":"Dawnstars Necromancy Spells Turkish Translation","nexusUploadedBy":"tarikagl1","nexusModId":23606,"paks":[
+{"nexusFileName":"DawnstarsBlackMagicSpells TR","nexusFileVersion":"1.00.00","nexusFileUploadedAt":1782648043,"pakFileName":"DawnstarsBlackMagicSpells TR.pak","nexusFileId":124466,"metaUuid":null}
+]},
+"23607":{"nexusModName":"Dawnstars Psychic Weapons Turkish Translation","nexusUploadedBy":"tarikagl1","nexusModId":23607,"paks":[
+{"nexusFileName":"DawnstarsPsychicWeapons TR","nexusFileVersion":"1.00.00","nexusFileUploadedAt":1782648337,"pakFileName":"DawnstarsPsychicWeapons TR.pak","nexusFileId":124467,"metaUuid":null}
+]},
+"23608":{"nexusModName":"Dawnstars Water Spells Turkish Translation","nexusUploadedBy":"tarikagl1","nexusModId":23608,"paks":[
+{"nexusFileName":"NatureWitch TR","nexusFileVersion":"1.00.00","nexusFileUploadedAt":1782648605,"pakFileName":"NatureWitch TR.pak","nexusFileId":124468,"metaUuid":null}
 ]}}
