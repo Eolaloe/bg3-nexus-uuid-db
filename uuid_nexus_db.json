@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-06-29T01:52:01.347257+00:00","total_mods":16700},
+{"_meta":{"last_run":"2026-06-29T02:51:44.900473+00:00","total_mods":16700},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -62224,8 +62224,8 @@
 "22058":{"nexusModName":"Biomancer and Blood Cultist Original Classes","nexusUploadedBy":"gammawx","nexusModId":22058,"paks":[
 {"nexusFileName":"Non-Immersive Patch","nexusFileVersion":"1","nexusFileUploadedAt":1779676200,"pakFileName":"BCM_Biomancer_Patch_AllGear_6550a4cd-8c6f-afca-6f7a-b365ff8b7df3.pak","nexusFileId":122088,"metaUuid":null},
 {"nexusFileName":"Biomancer and Blood Cultist Original Class","nexusFileVersion":"2.3.0","nexusFileUploadedAt":1782608218,"pakFileName":"BCM_BiomancerBloodCult_0cd91307-625e-ad26-e05a-df06ac1bd8fc.pak","nexusFileId":124436,"metaUuid":"0cd91307-625e-ad26-e05a-df06ac1bd8fc"},
-{"nexusFileName":"Progression to Level 20 Patch","nexusFileVersion":"2.3","nexusFileUploadedAt":1782608303,"pakFileName":"BCM_Biomancer_Lvl20_588f3cac-4821-5ae9-1414-d4ff234c07c2.pak","nexusFileId":124437,"metaUuid":null},
-{"nexusFileName":"Progression Lvl 20 Patch No-Dependency","nexusFileVersion":"2.3","nexusFileUploadedAt":1782608804,"pakFileName":"BCM_Biomancer_Lvl20_NoDependency2_3.pak","nexusFileId":124438,"metaUuid":"588f3cac-4821-5ae9-1414-d4ff234c07c2"}
+{"nexusFileName":"Progression Lvl 20 Patch No-Dependency","nexusFileVersion":"2.4.1","nexusFileUploadedAt":1782700201,"pakFileName":"BCM_Biomancer_Lvl20_588f3cac-4821-5ae9-1414-d4ff234c07c2.pak","nexusFileId":124513,"metaUuid":null},
+{"nexusFileName":"Progression to Level 20 Patch","nexusFileVersion":"2.4.1","nexusFileUploadedAt":1782700937,"pakFileName":"BCM_Biomancer_Lvl20_588f3cac-4821-5ae9-1414-d4ff234c07c2.pak","nexusFileId":124514,"metaUuid":null}
 ]},
 "22060":{"nexusModName":"Lady Shar's spear","nexusUploadedBy":"cayssac","nexusModId":22060,"paks":[
 {"nexusFileName":"Lady Shar's spear","nexusFileVersion":"1.0","nexusFileUploadedAt":1774137261,"pakFileName":"Lady Shar's Spear.pak","nexusFileId":117237,"metaUuid":"f42dbc07-3aac-4bdf-91ff-694ee084df5e"}
