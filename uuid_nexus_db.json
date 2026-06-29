@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-06-29T13:51:33.750067+00:00","total_mods":16703},
+{"_meta":{"last_run":"2026-06-29T14:51:26.244705+00:00","total_mods":16703},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -35979,7 +35979,7 @@
 ]},
 "12727":{"nexusModName":"DnD 5.5e All-in-One BEYOND","nexusUploadedBy":"yoonmoonsik43","nexusModId":12727,"paks":[
 {"nexusFileName":"dnd2024 - V3 Legacy","nexusFileVersion":"3.4.6.4","nexusFileUploadedAt":1771945305,"pakFileName":"DnD2024_897914ef-5c96-053c-44af-0be823f895fe.pak","nexusFileId":115523,"metaUuid":"897914ef-5c96-053c-44af-0be823f895fe"},
-{"nexusFileName":"DnD 5.5e All-in-One BEYOND","nexusFileVersion":"4.7.12.4","nexusFileUploadedAt":1782738755,"pakFileName":"DnD2024_897914ef-5c96-053c-44af-0be823f895fe.pak","nexusFileId":124530,"metaUuid":"897914ef-5c96-053c-44af-0be823f895fe"}
+{"nexusFileName":"DnD 5.5e All-in-One BEYOND","nexusFileVersion":"4.7.13.0","nexusFileUploadedAt":1782741308,"pakFileName":"DnD2024_897914ef-5c96-053c-44af-0be823f895fe.pak","nexusFileId":124532,"metaUuid":"897914ef-5c96-053c-44af-0be823f895fe"}
 ]},
 "12728":{"nexusModName":"Origin-Themed Headwear KR","nexusUploadedBy":"Soorawang","nexusModId":12728,"paks":[
 {"nexusFileName":"Origin-Themed Headwear KR","nexusFileVersion":"1.0","nexusFileUploadedAt":1727930331,"pakFileName":"OriginHeadwear_kr.pak","nexusFileId":73692,"metaUuid":null}
@@ -39681,12 +39681,12 @@
 {"nexusFileName":"Addons - 2 files (OG Faces for Kagha and Rolan)","nexusFileVersion":"1.5.0.0","nexusFileUploadedAt":1734709504,"pakFileName":"Aza_NPCre_KaghaOGFace.pak","nexusFileId":82373,"metaUuid":"999137b3-bd32-4497-aa01-5daf0e2e0de0"},
 {"nexusFileName":"Addons - 2 files (OG Faces for Kagha and Rolan)","nexusFileVersion":"1.5.0.0","nexusFileUploadedAt":1734709504,"pakFileName":"Aza_NPCre_RolanOGFace.pak","nexusFileId":82373,"metaUuid":"c1a659d2-ae4a-80b7-0f64-8e110ce1cb92"},
 {"nexusFileName":"Patch for Alfira Joins the Party","nexusFileVersion":"1.6.0","nexusFileUploadedAt":1771051206,"pakFileName":"Aza_NPCre_TheEmeraldGrove_AlfiraPatch_ab2692a7-11aa-55ff-7f99-5f2edf6333da.pak","nexusFileId":114798,"metaUuid":"ab2692a7-11aa-55ff-7f99-5f2edf6333da"},
-{"nexusFileName":"1. NPC Redesign v2 (All-in-One)","nexusFileVersion":"2.0","nexusFileUploadedAt":1776195012,"pakFileName":"Aza_NPCre_TheEmeraldGrove_v2.pak","nexusFileId":118987,"metaUuid":"74cb2214-5ddb-8fa6-9f6b-1f9be9bba6f3"},
-{"nexusFileName":"2. NPC Redesign v2 (Druids and Shadow Druids)","nexusFileVersion":"2.0","nexusFileUploadedAt":1776195023,"pakFileName":"Aza_NPCre_TheEmeraldGrove_Druids_v2.pak","nexusFileId":118988,"metaUuid":null},
-{"nexusFileName":"3. NPC Redesign v2 (Tieflings)","nexusFileVersion":"2.0","nexusFileUploadedAt":1776195026,"pakFileName":"Aza_NPCre_TheEmeraldGrove_Tieflings_v2.pak","nexusFileId":118989,"metaUuid":null},
-{"nexusFileName":"4. NPC Redesign v2 (Aradin's Group)","nexusFileVersion":"2.0","nexusFileUploadedAt":1776195039,"pakFileName":"Aza_NPCre_TheEmeraldGrove_AradinGroup_v2.pak","nexusFileId":118990,"metaUuid":null},
-{"nexusFileName":"5. NPC Redesign v2 (Wither's Crypt Robbers)","nexusFileVersion":"2.0","nexusFileUploadedAt":1776195042,"pakFileName":"Aza_NPCre_TheEmeraldGrove_CryptBandits_v2.pak","nexusFileId":118991,"metaUuid":"e9a74ff2-bc0f-6abe-4097-23fc6a242132"},
-{"nexusFileName":"6. NPC Redesign v2 (Quil Grootslang - Robbed Bard)","nexusFileVersion":"2.0","nexusFileUploadedAt":1776195044,"pakFileName":"Aza_NPCre_TheEmeraldGrove_DragonBard_v2.pak","nexusFileId":118993,"metaUuid":"91558887-e037-8495-c19b-dfe0d396e9fd"}
+{"nexusFileName":"NPC Redesign v2 (All-in-One)","nexusFileVersion":"2.0","nexusFileUploadedAt":1776195012,"pakFileName":"Aza_NPCre_TheEmeraldGrove_v2.pak","nexusFileId":118987,"metaUuid":"74cb2214-5ddb-8fa6-9f6b-1f9be9bba6f3"},
+{"nexusFileName":"NPC Redesign v2 (Druids and Shadow Druids)","nexusFileVersion":"2.0","nexusFileUploadedAt":1776195023,"pakFileName":"Aza_NPCre_TheEmeraldGrove_Druids_v2.pak","nexusFileId":118988,"metaUuid":null},
+{"nexusFileName":"NPC Redesign v2 (Tieflings)","nexusFileVersion":"2.0","nexusFileUploadedAt":1776195026,"pakFileName":"Aza_NPCre_TheEmeraldGrove_Tieflings_v2.pak","nexusFileId":118989,"metaUuid":null},
+{"nexusFileName":"NPC Redesign v2 (Aradin's Group)","nexusFileVersion":"2.0","nexusFileUploadedAt":1776195039,"pakFileName":"Aza_NPCre_TheEmeraldGrove_AradinGroup_v2.pak","nexusFileId":118990,"metaUuid":null},
+{"nexusFileName":"NPC Redesign v2 (Wither's Crypt Robbers)","nexusFileVersion":"2.0","nexusFileUploadedAt":1776195042,"pakFileName":"Aza_NPCre_TheEmeraldGrove_CryptBandits_v2.pak","nexusFileId":118991,"metaUuid":"e9a74ff2-bc0f-6abe-4097-23fc6a242132"},
+{"nexusFileName":"NPC Redesign v2 (Quil Grootslang - Robbed Bard)","nexusFileVersion":"2.0","nexusFileUploadedAt":1776195044,"pakFileName":"Aza_NPCre_TheEmeraldGrove_DragonBard_v2.pak","nexusFileId":118993,"metaUuid":"91558887-e037-8495-c19b-dfe0d396e9fd"}
 ]},
 "14055":{"nexusModName":"Mantis' Tiefling Duo Presets (BT1 tiefling heads)","nexusUploadedBy":"mantiiiss","nexusModId":14055,"paks":[
 {"nexusFileName":"01 - MANTIS' TIEFLING DUO","nexusFileVersion":"1.1.0.0","nexusFileUploadedAt":1737173549,"pakFileName":"MANTIS' TIEFLING DUO PRESETS.pak","nexusFileId":84225,"metaUuid":"afae97a3-02da-4f9c-afcb-4a5b212a32ed"},
@@ -48744,7 +48744,7 @@
 {"nexusFileName":"Illithid Dominion-KR","nexusFileVersion":"1.3.3.0","nexusFileUploadedAt":1752048901,"pakFileName":"Illithid Dominion-KR.pak","nexusFileId":97725,"metaUuid":null}
 ]},
 "17504":{"nexusModName":"Arab Armor by Guigodead","nexusUploadedBy":"guigodeads","nexusModId":17504,"paks":[
-{"nexusFileName":"Arab Armor","nexusFileVersion":"1","nexusFileUploadedAt":1752051207,"pakFileName":"Arab_Armor_GD.pak","nexusFileId":97729,"metaUuid":null}
+{"nexusFileName":"Arab Armor","nexusFileVersion":"1.1","nexusFileUploadedAt":1782742548,"pakFileName":" Arab_Armor_GD.pak","nexusFileId":124535,"metaUuid":null}
 ]},
 "17505":{"nexusModName":"Rebalance - Feats_KOR","nexusUploadedBy":"Ahdarugo","nexusModId":17505,"paks":[
 {"nexusFileName":"Rebalance - Feats_KOR","nexusFileVersion":"1.1.3.0","nexusFileUploadedAt":1779075261,"pakFileName":"Rebalance_Feats_KOR.pak","nexusFileId":121529,"metaUuid":"68169ae2-cedd-4370-9e32-556567dd998b"}
@@ -66018,7 +66018,8 @@
 {"nexusFileName":"Jaheira Yassified","nexusFileVersion":"1","nexusFileUploadedAt":1782574313,"pakFileName":"yessjahh.pak","nexusFileId":124384,"metaUuid":null},
 {"nexusFileName":"Karlach Yassified","nexusFileVersion":"1","nexusFileUploadedAt":1782574398,"pakFileName":"yesskarr2.pak","nexusFileId":124385,"metaUuid":null},
 {"nexusFileName":"Lae'zel Yassified","nexusFileVersion":"1","nexusFileUploadedAt":1782574440,"pakFileName":"yesslazz.pak","nexusFileId":124386,"metaUuid":null},
-{"nexusFileName":"Minthara Yassified","nexusFileVersion":"1","nexusFileUploadedAt":1782574495,"pakFileName":"yessminn.pak","nexusFileId":124387,"metaUuid":null}
+{"nexusFileName":"Minthara Yassified","nexusFileVersion":"1","nexusFileUploadedAt":1782574495,"pakFileName":"yessminn.pak","nexusFileId":124387,"metaUuid":null},
+{"nexusFileName":"Tavia Yassified 1.0","nexusFileVersion":"1","nexusFileUploadedAt":1782742304,"pakFileName":"yasstavv.pak","nexusFileId":124534,"metaUuid":null}
 ]},
 "23580":{"nexusModName":"Kur'leth (Klingon Shortsword)","nexusUploadedBy":"haytur","nexusModId":23580,"paks":[
 {"nexusFileName":"Kurleth","nexusFileVersion":"1.0R","nexusFileUploadedAt":1782536776,"pakFileName":"Kurleth.pak","nexusFileId":124357,"metaUuid":null}
@@ -66054,7 +66055,7 @@
 {"nexusFileName":"Child of Bhaal","nexusFileVersion":"1","nexusFileUploadedAt":1782735224,"pakFileName":"PP_ChildBhaal_6170b196-a292-fd5c-30fc-038f9de3ac70.pak","nexusFileId":124528,"metaUuid":null}
 ]},
 "23593":{"nexusModName":"Grasping Vine PHB2024","nexusUploadedBy":"chizfreak","nexusModId":23593,"paks":[
-{"nexusFileName":"Grasping Vine PHB2024","nexusFileVersion":"2.1.1","nexusFileUploadedAt":1782738353,"pakFileName":"GraspingVinePHB2024_e487afef-2b10-2edb-fb14-87053412c73f.pak","nexusFileId":124529,"metaUuid":null}
+{"nexusFileName":"Grasping Vine PHB2024","nexusFileVersion":"2.2","nexusFileUploadedAt":1782742180,"pakFileName":"GraspingVinePHB2024_e487afef-2b10-2edb-fb14-87053412c73f.pak","nexusFileId":124533,"metaUuid":null}
 ]},
 "23595":{"nexusModName":"Fighting Style Changes","nexusUploadedBy":"Cainhurtz","nexusModId":23595,"paks":[
 {"nexusFileName":"Fighting Style Changes","nexusFileVersion":"1","nexusFileUploadedAt":1782605821,"pakFileName":"Fighting_Style_Rework.pak","nexusFileId":124434,"metaUuid":null}
