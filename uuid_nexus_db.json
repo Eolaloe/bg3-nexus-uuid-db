@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-06-28T23:51:57.867530+00:00","total_mods":16700},
+{"_meta":{"last_run":"2026-06-29T00:51:57.786957+00:00","total_mods":16700},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -26845,7 +26845,7 @@
 {"nexusFileName":"Compatibility patch - Pact as Invocation","nexusFileVersion":"1.0","nexusFileUploadedAt":1716674606,"pakFileName":"Path of Undeath - Pact as Invocation.pak","nexusFileId":58724,"metaUuid":"270c1361-1e64-4a44-a07d-7742b8ebc8c0"},
 {"nexusFileName":"Help patch","nexusFileVersion":"1.0","nexusFileUploadedAt":1759239604,"pakFileName":"Path Of Undeath - Help.pak","nexusFileId":104010,"metaUuid":"1e7840d3-4994-4d16-8707-e0a6b12a9386"},
 {"nexusFileName":"Home Brew Patch","nexusFileVersion":"1.0","nexusFileUploadedAt":1774369475,"pakFileName":"Path of Undeath - Home Brew Patch.pak","nexusFileId":117360,"metaUuid":"ac30869a-b597-45ca-a163-71179d92ee1b"},
-{"nexusFileName":"Path of Undeath","nexusFileVersion":"2.0.2","nexusFileUploadedAt":1782662712,"pakFileName":"Path of Undeath.pak","nexusFileId":124485,"metaUuid":"fe04695e-d206-4a88-b3f9-b2a65855ac4c"}
+{"nexusFileName":"Path of Undeath","nexusFileVersion":"2.0.3","nexusFileUploadedAt":1782691301,"pakFileName":"Path of Undeath.pak","nexusFileId":124505,"metaUuid":"fe04695e-d206-4a88-b3f9-b2a65855ac4c"}
 ]},
 "9165":{"nexusModName":"Subtle Nature Eyes","nexusUploadedBy":"robogena","nexusModId":9165,"paks":[
 {"nexusFileName":"Subtle Nature Eyes","nexusFileVersion":"2.0","nexusFileUploadedAt":1725857123,"pakFileName":"robogena_SubtleNatureEyes.pak","nexusFileId":70050,"metaUuid":"1f11c512-5c14-4459-9379-4039773a6a91"}
@@ -48005,11 +48005,11 @@
 ]},
 "17291":{"nexusModName":"Lightbringer Reforged - Paladin Overhaul and Smite Rework (Necrotic Smite Update)","nexusUploadedBy":"Mueffel","nexusModId":17291,"paks":[
 {"nexusFileName":"Additional Paladin Resources","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1752248040,"pakFileName":"Lightbringer Reforged - Additional Paladin Resources.pak","nexusFileId":97902,"metaUuid":"77aaa3d5-a0b8-48e8-a1b4-9a043d57776a"},
-{"nexusFileName":"Blessed Hammer and Imbue Weapon","nexusFileVersion":"1.3.0","nexusFileUploadedAt":1777675549,"pakFileName":"Lightbringer Reforged - Blessed Hammer and Imbue Weapon.pak","nexusFileId":120311,"metaUuid":"3d26bfee-44e1-4aeb-8d1f-bde5e9490c89"},
 {"nexusFileName":"Paladin Auras","nexusFileVersion":"1.3.0","nexusFileUploadedAt":1781271214,"pakFileName":"Lightbringer Reforged - Paladin Auras.pak","nexusFileId":123409,"metaUuid":null},
 {"nexusFileName":"Oath Spells Revised","nexusFileVersion":"1.1.0","nexusFileUploadedAt":1781271262,"pakFileName":"Lightbringer Reforged - Oath Spells Revised.pak","nexusFileId":123410,"metaUuid":null},
 {"nexusFileName":"Judgments (Smite Rework)","nexusFileVersion":"3.3.0","nexusFileUploadedAt":1781774539,"pakFileName":"Lightbringer Reforged - Judgments (Smite Rework).pak","nexusFileId":123817,"metaUuid":"85fea947-f8a1-4108-b152-b17c2d8e8998"},
-{"nexusFileName":"Lay on Hands","nexusFileVersion":"1.3.0","nexusFileUploadedAt":1782125240,"pakFileName":"Lightbringer Reforged - Lay on Hands.pak","nexusFileId":124079,"metaUuid":"b99f1bf7-d93b-4c94-acc3-9c31f35f7e25"}
+{"nexusFileName":"Lay on Hands","nexusFileVersion":"1.3.0","nexusFileUploadedAt":1782125240,"pakFileName":"Lightbringer Reforged - Lay on Hands.pak","nexusFileId":124079,"metaUuid":"b99f1bf7-d93b-4c94-acc3-9c31f35f7e25"},
+{"nexusFileName":"Blessed Hammer and Imbue Weapon","nexusFileVersion":"1.4.0","nexusFileUploadedAt":1782692796,"pakFileName":"Lightbringer Reforged - Blessed Hammer and Imbue Weapon.pak","nexusFileId":124508,"metaUuid":"3d26bfee-44e1-4aeb-8d1f-bde5e9490c89"}
 ]},
 "17293":{"nexusModName":"Sickle Variants","nexusUploadedBy":"Headbobbie","nexusModId":17293,"paks":[
 {"nexusFileName":"Sickle Variants","nexusFileVersion":"1.0.1","nexusFileUploadedAt":1751074979,"pakFileName":"HBB_Sickle_Variants.pak","nexusFileId":96841,"metaUuid":null},
@@ -48340,19 +48340,19 @@
 {"nexusFileName":"Twunk Tav - Bandit Armors and Camp Clothes Refit","nexusFileVersion":"1.1","nexusFileUploadedAt":1751679776,"pakFileName":"TwunkTav_CBRBanditArmorsRefit.pak","nexusFileId":97372,"metaUuid":null},
 {"nexusFileName":"Twunk Tav - Harmony Habiliment Refit","nexusFileVersion":"1.1.1","nexusFileUploadedAt":1752224590,"pakFileName":"TwunkTav_HarmonyHabilimentRefit.pak","nexusFileId":97874,"metaUuid":null},
 {"nexusFileName":"Twunk Tav - Scantily Camp Outfit (Toolkit) Refit","nexusFileVersion":"1.0","nexusFileUploadedAt":1752255909,"pakFileName":"TwunkTav_SCORefit.pak","nexusFileId":97914,"metaUuid":null},
-{"nexusFileName":"Twunk Tav","nexusFileVersion":"1.1.6","nexusFileUploadedAt":1752401423,"pakFileName":"TwunkTav.pak","nexusFileId":98016,"metaUuid":null},
-{"nexusFileName":"Twunk Tav - UTAV and KATV Version PART 2","nexusFileVersion":"1.1.6","nexusFileUploadedAt":1752401472,"pakFileName":"TwunkTavUnique.pak","nexusFileId":98017,"metaUuid":"e64ffc38-efd5-4100-83bc-aada525bb41d"},
 {"nexusFileName":"Twunk Tav - Lathander's Armory Patch","nexusFileVersion":"1.2","nexusFileUploadedAt":1752401545,"pakFileName":"TwunkTav_LathandersArmoryPatch.pak","nexusFileId":98018,"metaUuid":null},
 {"nexusFileName":"Twunk Tav - Drowned in Moonlight Refit","nexusFileVersion":"1.0","nexusFileUploadedAt":1752401647,"pakFileName":"TwunkTav_CLDrownedinMoonlightRefit.pak","nexusFileId":98019,"metaUuid":null},
 {"nexusFileName":"Twunk Tav - Dryad Male Outfit Refit","nexusFileVersion":"1.0","nexusFileUploadedAt":1752401751,"pakFileName":"TwunkTav_DryadMaleOutfitRefit.pak","nexusFileId":98020,"metaUuid":null},
 {"nexusFileName":"Twunk Tav - Nightsong Outfit for Male Refit","nexusFileVersion":"1.0","nexusFileUploadedAt":1752401842,"pakFileName":"TwunkTav_NightsongMaleOutfitRefit.pak","nexusFileId":98021,"metaUuid":null},
 {"nexusFileName":"Twunk Tav - PK Clothes and Armours Refit","nexusFileVersion":"1.0","nexusFileUploadedAt":1752573994,"pakFileName":"TwunkTav_PKArmorsNClothesRefit.pak","nexusFileId":98166,"metaUuid":null},
 {"nexusFileName":"Twunk Tav - Haunted Sea Set Refit","nexusFileVersion":"1.0","nexusFileUploadedAt":1752574046,"pakFileName":"TwunkTav_PKHauntedSeaRefit.pak","nexusFileId":98167,"metaUuid":null},
-{"nexusFileName":"Twunk Tav - Character Creation Overhaul Version","nexusFileVersion":"1.0","nexusFileUploadedAt":1754505544,"pakFileName":"TwunkTavCCO.pak","nexusFileId":100055,"metaUuid":null},
 {"nexusFileName":"Twunk Tav - Unique Companion Assets (Combined)","nexusFileVersion":"1.2","nexusFileUploadedAt":1774026945,"pakFileName":"TwunkTavUniqueCombined.pak","nexusFileId":117114,"metaUuid":null},
 {"nexusFileName":"Twunk Tav - Unique Companion Assets (Separated)","nexusFileVersion":"1.2","nexusFileUploadedAt":1774027092,"pakFileName":"TwunkTavUniqueAstarion.pak","nexusFileId":117115,"metaUuid":"c99e2f76-0966-462e-81d5-0278de28145b"},
 {"nexusFileName":"Twunk Tav - Unique Companion Assets (Separated)","nexusFileVersion":"1.2","nexusFileUploadedAt":1774027092,"pakFileName":"TwunkTavUniqueGale.pak","nexusFileId":117115,"metaUuid":"c99e2f76-0966-462e-81d5-0278de28145b"},
-{"nexusFileName":"Twunk Tav - Unique Companion Assets (Separated)","nexusFileVersion":"1.2","nexusFileUploadedAt":1774027092,"pakFileName":"TwunkTavUniqueWyll.pak","nexusFileId":117115,"metaUuid":"c99e2f76-0966-462e-81d5-0278de28145b"}
+{"nexusFileName":"Twunk Tav - Unique Companion Assets (Separated)","nexusFileVersion":"1.2","nexusFileUploadedAt":1774027092,"pakFileName":"TwunkTavUniqueWyll.pak","nexusFileId":117115,"metaUuid":"c99e2f76-0966-462e-81d5-0278de28145b"},
+{"nexusFileName":"Twunk Tav","nexusFileVersion":"1.1.7","nexusFileUploadedAt":1782692679,"pakFileName":"TwunkTav.pak","nexusFileId":124506,"metaUuid":null},
+{"nexusFileName":"Twunk Tav - Character Creation Overhaul Version","nexusFileVersion":"1.0.1","nexusFileUploadedAt":1782692736,"pakFileName":"TwunkTavCCO.pak","nexusFileId":124507,"metaUuid":null},
+{"nexusFileName":"Twunk Tav - UTAV and KATV Version PART 2","nexusFileVersion":"1.1.7","nexusFileUploadedAt":1782692810,"pakFileName":"TwunkTavUnique.pak","nexusFileId":124509,"metaUuid":"e64ffc38-efd5-4100-83bc-aada525bb41d"}
 ]},
 "17361":{"nexusModName":"Twilight Domain - Cleric Subclass","nexusUploadedBy":"xarara","nexusModId":17361,"paks":[
 {"nexusFileName":"Level 12 Patch","nexusFileVersion":"1.0","nexusFileUploadedAt":1753970507,"pakFileName":"Twilight Domain - Cleric Subclass - Level 12.pak","nexusFileId":99536,"metaUuid":null},
@@ -59993,7 +59993,7 @@
 {"nexusFileName":"scionrogue","nexusFileVersion":"1.0.0.10","nexusFileUploadedAt":1770269758,"pakFileName":"ScionRogue_05326553-fc29-78d0-2e26-96d33b58ee5f.pak","nexusFileId":114159,"metaUuid":"05326553-fc29-78d0-2e26-96d33b58ee5f"}
 ]},
 "21304":{"nexusModName":"Bloodtrail - Path of Undeath Chapter 2","nexusUploadedBy":"Siaell","nexusModId":21304,"paks":[
-{"nexusFileName":"Path Of Undeath   Bloodtrail","nexusFileVersion":"1.3.3","nexusFileUploadedAt":1782662641,"pakFileName":"Path of Undeath - Bloodtrail.pak","nexusFileId":124484,"metaUuid":"57b41349-6574-4015-87dc-aea3fd1e4618"}
+{"nexusFileName":"Path Of Undeath   Bloodtrail","nexusFileVersion":"1.4","nexusFileUploadedAt":1782691260,"pakFileName":"Path of Undeath - Bloodtrail.pak","nexusFileId":124504,"metaUuid":"57b41349-6574-4015-87dc-aea3fd1e4618"}
 ]},
 "21308":{"nexusModName":"Goon's Companion Protection for Korean","nexusUploadedBy":"Eolaloe","nexusModId":21308,"paks":[
 {"nexusFileName":"Goon's Companion Protection for Korean","nexusFileVersion":"2.1.0.0","nexusFileUploadedAt":1781021231,"pakFileName":"Goons Companion Protection_kr.pak","nexusFileId":123241,"metaUuid":"2e4505a2-c2ab-427b-8cbc-4ceb01cd5720"}
