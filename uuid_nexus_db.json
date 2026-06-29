@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-06-29T14:51:26.244705+00:00","total_mods":16703},
+{"_meta":{"last_run":"2026-06-29T15:51:29.245006+00:00","total_mods":16704},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -18142,7 +18142,9 @@
 {"nexusFileName":"Retribution of the Absolute - Immersion version","nexusFileVersion":"2.0.0.0","nexusFileUploadedAt":1705401658,"pakFileName":"RetaliationAbsolute.pak","nexusFileId":40127,"metaUuid":null},
 {"nexusFileName":"Retribution of the Absolute - tutorial version","nexusFileVersion":"2.0.0.0","nexusFileUploadedAt":1705401777,"pakFileName":"RetaliationAbsolute.pak","nexusFileId":40128,"metaUuid":null},
 {"nexusFileName":"Retribution of the Absolute - tutorial version","nexusFileVersion":"2.0.0.0","nexusFileUploadedAt":1705402184,"pakFileName":"RetaliationAbsolute.pak","nexusFileId":40129,"metaUuid":null},
-{"nexusFileName":"Retribution of the Absolute - Immersion version","nexusFileVersion":"2.0.0.0","nexusFileUploadedAt":1705402330,"pakFileName":"RetaliationAbsolute.pak","nexusFileId":40130,"metaUuid":null}
+{"nexusFileName":"Retribution of the Absolute - Immersion version","nexusFileVersion":"2.0.0.0","nexusFileUploadedAt":1705402330,"pakFileName":"RetaliationAbsolute.pak","nexusFileId":40130,"metaUuid":null},
+{"nexusFileName":"Retribution of the Absolute - tutorial version","nexusFileVersion":"2.0.0.0","nexusFileUploadedAt":1706165436,"pakFileName":"RetaliationAbsolute.pak","nexusFileId":41609,"metaUuid":null},
+{"nexusFileName":"Retribution of the Absolute - tutorial version","nexusFileVersion":"2.0.0.0","nexusFileUploadedAt":1706165487,"pakFileName":"RetaliationAbsolute.pak","nexusFileId":41610,"metaUuid":null}
 ]},
 "5746":{"nexusModName":"Pickaxes","nexusUploadedBy":"MisterZak","nexusModId":5746,"paks":[
 {"nexusFileName":"Pickaxes - Patch 7","nexusFileVersion":"1.1","nexusFileUploadedAt":1731093113,"pakFileName":"Pickaxes_235a04dd-644c-ebd4-49ac-1358be35dc69.pak","nexusFileId":78274,"metaUuid":null}
@@ -66108,4 +66110,7 @@
 ]},
 "23623":{"nexusModName":"Starting Equipment And Broken Passives Fix","nexusUploadedBy":"NecroticFlame","nexusModId":23623,"paks":[
 {"nexusFileName":"Main","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1782719074,"pakFileName":"ECC_Fixes_5470bce5-0ad7-4e05-287f-2d6fa3e9eb04.pak","nexusFileId":124521,"metaUuid":null}
+]},
+"23625":{"nexusModName":"Bloodtrail - Path of Undeath Chapter 2 PT-BR","nexusUploadedBy":"ShadowAhJin","nexusModId":23625,"paks":[
+{"nexusFileName":"Path Of Undeath Bloodtrail PT-BR","nexusFileVersion":"1.0.0.1","nexusFileUploadedAt":1782747034,"pakFileName":"Bloodtrail_-_Path_of_Undeath_Chapter_2_PTBR.pak","nexusFileId":124537,"metaUuid":null}
 ]}}
