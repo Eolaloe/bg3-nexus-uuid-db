@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-06-30T07:52:12.296932+00:00","total_mods":16706},
+{"_meta":{"last_run":"2026-06-30T08:52:10.954712+00:00","total_mods":16706},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -61487,8 +61487,9 @@
 "21795":{"nexusModName":"The Gunslinger Class (ENG-KOR)","nexusUploadedBy":"Ahdarugo","nexusModId":21795,"paks":[
 {"nexusFileName":"C. Steady-Eyed Aura range increased 3 to 6","nexusFileVersion":"1.0","nexusFileUploadedAt":1772950612,"pakFileName":"TheGunslinger_Aura_6_c04f9861-b4fc-29f8-7224-2ee8634c7ba4.pak","nexusFileId":116313,"metaUuid":"c04f9861-b4fc-29f8-7224-2ee8634c7ba4"},
 {"nexusFileName":"A. The Gunslinger Extra Feats Every 2 Levels","nexusFileVersion":"1.0.0.3","nexusFileUploadedAt":1774498740,"pakFileName":"TheGunslinge_ExtraFeats2Levels_1043510a-69e0-f71d-6eb0-a89c2be1d13a.pak","nexusFileId":117484,"metaUuid":"1043510a-69e0-f71d-6eb0-a89c2be1d13a"},
+{"nexusFileName":"B. NoNeedBonusActionfortherevolver'soffhand","nexusFileVersion":"1.0.0.5","nexusFileUploadedAt":1778125078,"pakFileName":"TheGunslingerOffHandAddon_db9c5c90-6f70-f07a-153e-d873fc5f803d.pak","nexusFileId":120665,"metaUuid":null},
 {"nexusFileName":"E. The Gunslinger Warlock Invocations Addon","nexusFileVersion":"1.0.0.1","nexusFileUploadedAt":1780540932,"pakFileName":"TheGunslingerWarlockInvocations_Addon.pak","nexusFileId":122725,"metaUuid":"6fa28431-31c2-4bc0-b8f8-1d18cf65a4f9"},
-{"nexusFileName":"F. Rebalance Feats Compatibility","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1781445565,"pakFileName":"TheGunslinger-RebalanceFeatsCompatibility.pak","nexusFileId":123546,"metaUuid":null},
+{"nexusFileName":"D. Rebalance Feats Compatibility","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1781445565,"pakFileName":"TheGunslinger-RebalanceFeatsCompatibility.pak","nexusFileId":123546,"metaUuid":null},
 {"nexusFileName":"The Gunslinger Class (ENG-KOR)","nexusFileVersion":"1.0.4.30","nexusFileUploadedAt":1782803770,"pakFileName":"TheGunslinger_1f2b82d7-19c8-734b-5f43-05d57d3e7601.pak","nexusFileId":124575,"metaUuid":"1f2b82d7-19c8-734b-5f43-05d57d3e7601"}
 ]},
 "21796":{"nexusModName":"Em's Misc Head Collection","nexusUploadedBy":"emsthings","nexusModId":21796,"paks":[
@@ -66057,7 +66058,7 @@
 {"nexusFileName":"Long Rest by Goblin (NSFW)","nexusFileVersion":"1","nexusFileUploadedAt":1782767612,"pakFileName":"PP_LongRest_b24a6276-1f60-a362-6e5a-bbf89184bd76.pak","nexusFileId":124557,"metaUuid":"b24a6276-1f60-a362-6e5a-bbf89184bd76"},
 {"nexusFileName":"Silhouettes by Goblin","nexusFileVersion":"1","nexusFileUploadedAt":1782767642,"pakFileName":"PP_Silhouettes_63d63dd5-f55f-13d7-d754-f2af16472a95.pak","nexusFileId":124558,"metaUuid":null},
 {"nexusFileName":"Still Motion","nexusFileVersion":"1","nexusFileUploadedAt":1782770171,"pakFileName":"PP_StillMotion_258a8b5d-e538-277c-0f7a-f67c29828ab3.pak","nexusFileId":124559,"metaUuid":"258a8b5d-e538-277c-0f7a-f67c29828ab3"},
-{"nexusFileName":"Faces by Goblin","nexusFileVersion":"1","nexusFileUploadedAt":1782774153,"pakFileName":"PP_Faces_27b8c7a5-eba8-d3c8-4a30-d891e32a4792.pak","nexusFileId":124563,"metaUuid":"27b8c7a5-eba8-d3c8-4a30-d891e32a4792"}
+{"nexusFileName":"Faces by Goblin","nexusFileVersion":"2","nexusFileUploadedAt":1782808454,"pakFileName":"PP_Faces_27b8c7a5-eba8-d3c8-4a30-d891e32a4792.pak","nexusFileId":124577,"metaUuid":"27b8c7a5-eba8-d3c8-4a30-d891e32a4792"}
 ]},
 "23593":{"nexusModName":"Grasping Vine PHB2024","nexusUploadedBy":"chizfreak","nexusModId":23593,"paks":[
 {"nexusFileName":"Grasping Vine PHB2024","nexusFileVersion":"2.2","nexusFileUploadedAt":1782742180,"pakFileName":"GraspingVinePHB2024_e487afef-2b10-2edb-fb14-87053412c73f.pak","nexusFileId":124533,"metaUuid":null}
