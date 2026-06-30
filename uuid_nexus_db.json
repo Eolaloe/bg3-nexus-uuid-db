@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-06-29T23:51:23.897590+00:00","total_mods":16706},
+{"_meta":{"last_run":"2026-06-30T00:51:28.627378+00:00","total_mods":16707},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -51592,7 +51592,6 @@
 ]},
 "18531":{"nexusModName":"Chasten - A Necrotic-Themed Bless Alternative - Multiple Versions","nexusUploadedBy":"SymboJones","nexusModId":18531,"paks":[
 {"nexusFileName":"A-01. Chasten - Vanilla","nexusFileVersion":"1.0.0-A-01","nexusFileUploadedAt":1772560810,"pakFileName":"Chasten - Necrotic Bless - A-01.pak","nexusFileId":115983,"metaUuid":null},
-{"nexusFileName":"Chasten - All Caster Addon","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1772562621,"pakFileName":"Chasten - All Caster Addon.pak","nexusFileId":115991,"metaUuid":null},
 {"nexusFileName":"A-02. Chasten - Vanilla - Long Rest Concentration","nexusFileVersion":"1.0.0-A-02","nexusFileUploadedAt":1772631308,"pakFileName":"Chasten - Necrotic Bless - A-02.pak","nexusFileId":116023,"metaUuid":null},
 {"nexusFileName":"A-03. Chasten - Vanilla - 10 Turns","nexusFileVersion":"1.0.0-A-03","nexusFileUploadedAt":1772631348,"pakFileName":"Chasten - Necrotic Bless - A-03.pak","nexusFileId":116024,"metaUuid":null},
 {"nexusFileName":"A-04. Chasten - Vanilla - Long Rest","nexusFileVersion":"1.0.0-A-04","nexusFileUploadedAt":1772631388,"pakFileName":"Chasten - Necrotic Bless - A-04.pak","nexusFileId":116025,"metaUuid":null},
@@ -51621,7 +51620,8 @@
 {"nexusFileName":"F-02. Chasten - SBTL - BA - LRC","nexusFileVersion":"1.0.0-F-02","nexusFileUploadedAt":1772632964,"pakFileName":"Chasten - Necrotic Bless - F-02.pak","nexusFileId":116048,"metaUuid":null},
 {"nexusFileName":"F-03. Chasten - SBTL - BA - 10 Turns","nexusFileVersion":"1.0.0-F-03","nexusFileUploadedAt":1772633113,"pakFileName":"Chasten - Necrotic Bless - F-03.pak","nexusFileId":116049,"metaUuid":null},
 {"nexusFileName":"F-04. Chasten - SBTL - BA - Long Rest","nexusFileVersion":"1.0.0-F-04","nexusFileUploadedAt":1772633413,"pakFileName":"Chasten - Necrotic Bless - F-04.pak","nexusFileId":116050,"metaUuid":null},
-{"nexusFileName":"F-05. Chasten - SBTL - BA - Permanent","nexusFileVersion":"1.0.0-F-05","nexusFileUploadedAt":1772633710,"pakFileName":"Chasten - Necrotic Bless - F-05.pak","nexusFileId":116051,"metaUuid":null}
+{"nexusFileName":"F-05. Chasten - SBTL - BA - Permanent","nexusFileVersion":"1.0.0-F-05","nexusFileUploadedAt":1772633710,"pakFileName":"Chasten - Necrotic Bless - F-05.pak","nexusFileId":116051,"metaUuid":null},
+{"nexusFileName":"Chasten - All Caster Addon","nexusFileVersion":"1.0.1","nexusFileUploadedAt":1782779212,"pakFileName":"Chasten - Necrotic Bless - All Caster Addon.pak","nexusFileId":124564,"metaUuid":null}
 ]},
 "18532":{"nexusModName":"Mythological Helmet","nexusUploadedBy":"guigodeads","nexusModId":18532,"paks":[
 {"nexusFileName":"Mythological_Helmet","nexusFileVersion":"1","nexusFileUploadedAt":1757436034,"pakFileName":"Mythological_Helmet_4e9eef9f-22ef-014d-f2fd-d15a8ec6ad5b.pak","nexusFileId":102363,"metaUuid":null}
@@ -56102,7 +56102,9 @@
 {"nexusFileName":"OopsAllCharacters Experimental","nexusFileVersion":"1","nexusFileUploadedAt":1777600392,"pakFileName":"OopsAllCharacters.pak","nexusFileId":120254,"metaUuid":"54ea15da-a9ae-453e-bb7c-ecf597cdb9be"}
 ]},
 "19915":{"nexusModName":"Wyll of Baldur's Gate","nexusUploadedBy":"lumadaire","nexusModId":19915,"paks":[
-{"nexusFileName":"WoBG Hair No Physics - Wyll's Devil Form Patch","nexusFileVersion":"1.0","nexusFileUploadedAt":1764719025,"pakFileName":"WoBG Hair No Physics - WDF Patch.pak","nexusFileId":108718,"metaUuid":"b140c2a0-5c13-478a-b4bf-ec4a034a332f"}
+{"nexusFileName":"Wyll of Baldur's Gate - Armour","nexusFileVersion":"1.0","nexusFileUploadedAt":1764718642,"pakFileName":"Wyll_of_Baldurs_Gate_10d36fd5-78e9-0ac9-ce67-a59bd374d8d3.pak","nexusFileId":108716,"metaUuid":null},
+{"nexusFileName":"WoBG Hair No Physics - Wyll's Devil Form Patch","nexusFileVersion":"1.0","nexusFileUploadedAt":1764719025,"pakFileName":"WoBG Hair No Physics - WDF Patch.pak","nexusFileId":108718,"metaUuid":"b140c2a0-5c13-478a-b4bf-ec4a034a332f"},
+{"nexusFileName":"Wyll of Baldur's Gate - Hair No Physics","nexusFileVersion":"1.1","nexusFileUploadedAt":1764789245,"pakFileName":"Wyll_of_Baldurs_Gate_Hair_NoPhysics_0eeea507-15a2-2c94-01b9-86088c2cdd66.pak","nexusFileId":108789,"metaUuid":null}
 ]},
 "19916":{"nexusModName":"Sin's Blue Black Locks","nexusUploadedBy":"Sinfernalis","nexusModId":19916,"paks":[
 {"nexusFileName":"Sin's Blue Black Locks","nexusFileVersion":"1.0.0.","nexusFileUploadedAt":1764730084,"pakFileName":"Sylkira_Hair_Colour_fc159b53-3e79-b23c-54d5-924d9b0a7203.pak","nexusFileId":108733,"metaUuid":"fc159b53-3e79-b23c-54d5-924d9b0a7203"}
@@ -63342,7 +63344,7 @@
 {"nexusFileName":"Fatebond","nexusFileVersion":"1.3","nexusFileUploadedAt":1782084435,"pakFileName":"Fatebond.pak","nexusFileId":124037,"metaUuid":"6cfead1f-d54c-4dfb-bc94-05e9fc1e2970"}
 ]},
 "22459":{"nexusModName":"DnD 5.5e All-in-One BEYOND Russian Localization","nexusUploadedBy":"XapcT","nexusModId":22459,"paks":[
-{"nexusFileName":"DnD 5.5e AIO Russian v0.3.56.zip","nexusFileVersion":"0.3.56","nexusFileUploadedAt":1782578849,"pakFileName":"DnD 5.5e AIO Russian.pak","nexusFileId":124391,"metaUuid":null}
+{"nexusFileName":"DnD 5.5e AIO Russian v0.3.57.zip","nexusFileVersion":"0.3.57","nexusFileUploadedAt":1782780444,"pakFileName":"DnD 5.5e AIO Russian.pak","nexusFileId":124566,"metaUuid":null}
 ]},
 "22460":{"nexusModName":"Elementally Based Gear","nexusUploadedBy":"Useyourrifle","nexusModId":22460,"paks":[
 {"nexusFileName":"Elemental_Gear.7z","nexusFileVersion":"1","nexusFileUploadedAt":1776346340,"pakFileName":"OP_Bow_56032304-f037-e077-f5e7-045d2e03ef1c.pak","nexusFileId":119147,"metaUuid":"56032304-f037-e077-f5e7-045d2e03ef1c"}
@@ -66123,4 +66125,7 @@
 ]},
 "23629":{"nexusModName":"Bloodtrail - Path of Undeath Chapter 2 RU","nexusUploadedBy":"xChRoNySx","nexusModId":23629,"paks":[
 {"nexusFileName":"Path Of Undeath   Bloodtrail RU","nexusFileVersion":"1","nexusFileUploadedAt":1782770914,"pakFileName":"Path of Undeath - Bloodtrail_RU.pak","nexusFileId":124560,"metaUuid":null}
+]},
+"23630":{"nexusModName":"Gale's Slutty Robe","nexusUploadedBy":"Cadyplays","nexusModId":23630,"paks":[
+{"nexusFileName":"Galessluttyrobe","nexusFileVersion":"1","nexusFileUploadedAt":1782779707,"pakFileName":"galessluttyrobe_24d4ae6e-c5cf-e7af-5968-32c1b01c33aa(1).pak","nexusFileId":124565,"metaUuid":null}
 ]}}
