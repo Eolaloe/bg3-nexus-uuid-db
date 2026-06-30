@@ -62229,7 +62229,7 @@
 {"nexusFileName":"Non-Immersive Patch","nexusFileVersion":"1","nexusFileUploadedAt":1779676200,"pakFileName":"BCM_Biomancer_Patch_AllGear_6550a4cd-8c6f-afca-6f7a-b365ff8b7df3.pak","nexusFileId":122088,"metaUuid":null},
 {"nexusFileName":"Biomancer and Blood Cultist Original Class","nexusFileVersion":"2.3.0","nexusFileUploadedAt":1782608218,"pakFileName":"BCM_BiomancerBloodCult_0cd91307-625e-ad26-e05a-df06ac1bd8fc.pak","nexusFileId":124436,"metaUuid":"0cd91307-625e-ad26-e05a-df06ac1bd8fc"},
 {"nexusFileName":"Progression to Level 20 Patch","nexusFileVersion":"2.4.1","nexusFileUploadedAt":1782700937,"pakFileName":"BCM_Biomancer_Lvl20_588f3cac-4821-5ae9-1414-d4ff234c07c2.pak","nexusFileId":124514,"metaUuid":null},
-{"nexusFileName":"Progression Lvl 20 Patch No-Dependency","nexusFileVersion":"2.4.2","nexusFileUploadedAt":1782773077,"pakFileName":"BCM_Biomancer_Lvl20_NoDependency.pak","nexusFileId":124562,"metaUuid":null}
+{"nexusFileName":"Progression Lvl 20 Patch No-Dependency","nexusFileVersion":"2.4.2","nexusFileUploadedAt":1782773077,"pakFileName":"BCM_Biomancer_Lvl20_NoDependency.pak","nexusFileId":124562,"metaUuid":"588f3cac-4821-5ae9-1414-d4ff234c07c2"}
 ]},
 "22060":{"nexusModName":"Lady Shar's spear","nexusUploadedBy":"cayssac","nexusModId":22060,"paks":[
 {"nexusFileName":"Lady Shar's spear","nexusFileVersion":"1.0","nexusFileUploadedAt":1774137261,"pakFileName":"Lady Shar's Spear.pak","nexusFileId":117237,"metaUuid":"f42dbc07-3aac-4bdf-91ff-694ee084df5e"}
@@ -66050,14 +66050,14 @@
 {"nexusFileName":"Dexterity Jump BG3SS","nexusFileVersion":"1","nexusFileUploadedAt":1782585987,"pakFileName":"Dexterity_Jump_BG3SS.pak","nexusFileId":124411,"metaUuid":null}
 ]},
 "23592":{"nexusModName":"Compendium of Poses","nexusUploadedBy":"gobanaoblin","nexusModId":23592,"paks":[
-{"nexusFileName":"Child of Bhaal","nexusFileVersion":"2","nexusFileUploadedAt":1782767527,"pakFileName":"PP_ChildBhaal_6170b196-a292-fd5c-30fc-038f9de3ac70.pak","nexusFileId":124553,"metaUuid":null},
-{"nexusFileName":"Quiet Moment","nexusFileVersion":"2","nexusFileUploadedAt":1782767541,"pakFileName":"PP_QuietMoment_636cb6aa-0fb7-1937-47f8-c84b6a058e41.pak","nexusFileId":124554,"metaUuid":null},
+{"nexusFileName":"Child of Bhaal","nexusFileVersion":"2","nexusFileUploadedAt":1782767527,"pakFileName":"PP_ChildBhaal_6170b196-a292-fd5c-30fc-038f9de3ac70.pak","nexusFileId":124553,"metaUuid":"6170b196-a292-fd5c-30fc-038f9de3ac70"},
+{"nexusFileName":"Quiet Moment","nexusFileVersion":"2","nexusFileUploadedAt":1782767541,"pakFileName":"PP_QuietMoment_636cb6aa-0fb7-1937-47f8-c84b6a058e41.pak","nexusFileId":124554,"metaUuid":"636cb6aa-0fb7-1937-47f8-c84b6a058e41"},
 {"nexusFileName":"Eternal by Goblin","nexusFileVersion":"2","nexusFileUploadedAt":1782767557,"pakFileName":"PP_Eternal_24f742cc-908f-86ad-aef1-e46833c25d11.pak","nexusFileId":124555,"metaUuid":"24f742cc-908f-86ad-aef1-e46833c25d11"},
 {"nexusFileName":"Hush by Goblin (NSFW)","nexusFileVersion":"2","nexusFileUploadedAt":1782767589,"pakFileName":"PP_Hush_f222a5a7-bf00-f3cb-1b85-6281c5b45f33.pak","nexusFileId":124556,"metaUuid":"f222a5a7-bf00-f3cb-1b85-6281c5b45f33"},
-{"nexusFileName":"Long Rest by Goblin (NSFW)","nexusFileVersion":"1","nexusFileUploadedAt":1782767612,"pakFileName":"PP_LongRest_b24a6276-1f60-a362-6e5a-bbf89184bd76.pak","nexusFileId":124557,"metaUuid":null},
+{"nexusFileName":"Long Rest by Goblin (NSFW)","nexusFileVersion":"1","nexusFileUploadedAt":1782767612,"pakFileName":"PP_LongRest_b24a6276-1f60-a362-6e5a-bbf89184bd76.pak","nexusFileId":124557,"metaUuid":"b24a6276-1f60-a362-6e5a-bbf89184bd76"},
 {"nexusFileName":"Silhouettes by Goblin","nexusFileVersion":"1","nexusFileUploadedAt":1782767642,"pakFileName":"PP_Silhouettes_63d63dd5-f55f-13d7-d754-f2af16472a95.pak","nexusFileId":124558,"metaUuid":null},
-{"nexusFileName":"Still Motion","nexusFileVersion":"1","nexusFileUploadedAt":1782770171,"pakFileName":"PP_StillMotion_258a8b5d-e538-277c-0f7a-f67c29828ab3.pak","nexusFileId":124559,"metaUuid":null},
-{"nexusFileName":"Faces by Goblin","nexusFileVersion":"1","nexusFileUploadedAt":1782774153,"pakFileName":"PP_Faces_27b8c7a5-eba8-d3c8-4a30-d891e32a4792.pak","nexusFileId":124563,"metaUuid":null}
+{"nexusFileName":"Still Motion","nexusFileVersion":"1","nexusFileUploadedAt":1782770171,"pakFileName":"PP_StillMotion_258a8b5d-e538-277c-0f7a-f67c29828ab3.pak","nexusFileId":124559,"metaUuid":"258a8b5d-e538-277c-0f7a-f67c29828ab3"},
+{"nexusFileName":"Faces by Goblin","nexusFileVersion":"1","nexusFileUploadedAt":1782774153,"pakFileName":"PP_Faces_27b8c7a5-eba8-d3c8-4a30-d891e32a4792.pak","nexusFileId":124563,"metaUuid":"27b8c7a5-eba8-d3c8-4a30-d891e32a4792"}
 ]},
 "23593":{"nexusModName":"Grasping Vine PHB2024","nexusUploadedBy":"chizfreak","nexusModId":23593,"paks":[
 {"nexusFileName":"Grasping Vine PHB2024","nexusFileVersion":"2.2","nexusFileUploadedAt":1782742180,"pakFileName":"GraspingVinePHB2024_e487afef-2b10-2edb-fb14-87053412c73f.pak","nexusFileId":124533,"metaUuid":null}
@@ -66124,5 +66124,5 @@
 {"nexusFileName":"Path Of Undeath   Bloodtrail RU","nexusFileVersion":"1","nexusFileUploadedAt":1782770914,"pakFileName":"Path of Undeath - Bloodtrail_RU.pak","nexusFileId":124560,"metaUuid":null}
 ]},
 "23630":{"nexusModName":"Gale's Slutty Robe","nexusUploadedBy":"Cadyplays","nexusModId":23630,"paks":[
-{"nexusFileName":"Galessluttyrobe","nexusFileVersion":"1","nexusFileUploadedAt":1782779707,"pakFileName":"galessluttyrobe_24d4ae6e-c5cf-e7af-5968-32c1b01c33aa(1).pak","nexusFileId":124565,"metaUuid":null}
+{"nexusFileName":"Galessluttyrobe","nexusFileVersion":"1","nexusFileUploadedAt":1782779707,"pakFileName":"galessluttyrobe_24d4ae6e-c5cf-e7af-5968-32c1b01c33aa(1).pak","nexusFileId":124565,"metaUuid":"24d4ae6e-c5cf-e7af-5968-32c1b01c33aa"}
 ]}}
