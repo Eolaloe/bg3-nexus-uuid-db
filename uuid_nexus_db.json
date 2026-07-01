@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-07-01T19:52:04.388897+00:00","total_mods":16721},
+{"_meta":{"last_run":"2026-07-01T20:52:06.971808+00:00","total_mods":16723},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -65249,7 +65249,7 @@
 {"nexusFileName":"5e Monk Subclasses Combined JP","nexusFileVersion":"1","nexusFileUploadedAt":1780525646,"pakFileName":"5e Monk Subclasses Combined_JP.pak","nexusFileId":122715,"metaUuid":null}
 ]},
 "23201":{"nexusModName":"Muffel's Pedantic Fixes and Tooltip Improvements","nexusUploadedBy":"Mueffel","nexusModId":23201,"paks":[
-{"nexusFileName":"Muffel's Pedantic Fixes","nexusFileVersion":"1.0.6","nexusFileUploadedAt":1782260306,"pakFileName":"Muffel's Pedantic Fixes.pak","nexusFileId":124183,"metaUuid":"c0fc41a0-d227-4404-89c0-c9ce66d0f8f0"}
+{"nexusFileName":"Muffel's Pedantic Fixes","nexusFileVersion":"1.0.7","nexusFileUploadedAt":1782936108,"pakFileName":"Muffel's Pedantic Fixes.pak","nexusFileId":124679,"metaUuid":"c0fc41a0-d227-4404-89c0-c9ce66d0f8f0"}
 ]},
 "23202":{"nexusModName":"5e Cleric Subclasses Combined_JP","nexusUploadedBy":"Akazonae36","nexusModId":23202,"paks":[
 {"nexusFileName":"5e Cleric Subclasses Combined JP","nexusFileVersion":"1","nexusFileUploadedAt":1780525883,"pakFileName":"5e Cleric Subclasses Combined_JP.pak","nexusFileId":122716,"metaUuid":null}
@@ -65858,6 +65858,9 @@
 "23474":{"nexusModName":"Dinner With Strahd (PT-BR)","nexusUploadedBy":"Firetoga","nexusModId":23474,"paks":[
 {"nexusFileName":"Dinner With Strahd (PT-BR)","nexusFileVersion":"1.1.2","nexusFileUploadedAt":1781972529,"pakFileName":"DinnerWithStrahd_BR.pak","nexusFileId":123939,"metaUuid":null}
 ]},
+"23476":{"nexusModName":"Swan Poses","nexusUploadedBy":"HastursQueen","nexusModId":23476,"paks":[
+{"nexusFileName":"SwanPoses","nexusFileVersion":"1","nexusFileUploadedAt":1782694776,"pakFileName":"SwanPoses.pak","nexusFileId":124510,"metaUuid":null}
+]},
 "23477":{"nexusModName":"Hag's Rings Collection","nexusUploadedBy":"blackninjato2","nexusModId":23477,"paks":[
 {"nexusFileName":"ZzzClassRings","nexusFileVersion":"1.1","nexusFileUploadedAt":1781991461,"pakFileName":"zzzClassRings.pak","nexusFileId":123951,"metaUuid":"95e5b43f-3d4f-41fa-b0d5-3c5a3adbf99a"}
 ]},
@@ -66071,7 +66074,15 @@
 {"nexusFileName":"Long Rest by Goblin (NSFW)","nexusFileVersion":"1","nexusFileUploadedAt":1782767612,"pakFileName":"PP_LongRest_b24a6276-1f60-a362-6e5a-bbf89184bd76.pak","nexusFileId":124557,"metaUuid":"b24a6276-1f60-a362-6e5a-bbf89184bd76"},
 {"nexusFileName":"Silhouettes by Goblin","nexusFileVersion":"1","nexusFileUploadedAt":1782767642,"pakFileName":"PP_Silhouettes_63d63dd5-f55f-13d7-d754-f2af16472a95.pak","nexusFileId":124558,"metaUuid":"63d63dd5-f55f-13d7-d754-f2af16472a95"},
 {"nexusFileName":"Still Motion","nexusFileVersion":"1","nexusFileUploadedAt":1782770171,"pakFileName":"PP_StillMotion_258a8b5d-e538-277c-0f7a-f67c29828ab3.pak","nexusFileId":124559,"metaUuid":"258a8b5d-e538-277c-0f7a-f67c29828ab3"},
-{"nexusFileName":"Faces by Goblin","nexusFileVersion":"2","nexusFileUploadedAt":1782808454,"pakFileName":"PP_Faces_27b8c7a5-eba8-d3c8-4a30-d891e32a4792.pak","nexusFileId":124577,"metaUuid":"27b8c7a5-eba8-d3c8-4a30-d891e32a4792"}
+{"nexusFileName":"Faces by Goblin","nexusFileVersion":"2","nexusFileUploadedAt":1782808454,"pakFileName":"PP_Faces_27b8c7a5-eba8-d3c8-4a30-d891e32a4792.pak","nexusFileId":124577,"metaUuid":"27b8c7a5-eba8-d3c8-4a30-d891e32a4792"},
+{"nexusFileName":"All-In-One Download","nexusFileVersion":"1","nexusFileUploadedAt":1782936142,"pakFileName":"PP_ChildBhaal_6170b196-a292-fd5c-30fc-038f9de3ac70.pak","nexusFileId":124680,"metaUuid":"6170b196-a292-fd5c-30fc-038f9de3ac70"},
+{"nexusFileName":"All-In-One Download","nexusFileVersion":"1","nexusFileUploadedAt":1782936142,"pakFileName":"PP_Eternal_24f742cc-908f-86ad-aef1-e46833c25d11.pak","nexusFileId":124680,"metaUuid":"24f742cc-908f-86ad-aef1-e46833c25d11"},
+{"nexusFileName":"All-In-One Download","nexusFileVersion":"1","nexusFileUploadedAt":1782936142,"pakFileName":"PP_Faces_27b8c7a5-eba8-d3c8-4a30-d891e32a4792.pak","nexusFileId":124680,"metaUuid":"27b8c7a5-eba8-d3c8-4a30-d891e32a4792"},
+{"nexusFileName":"All-In-One Download","nexusFileVersion":"1","nexusFileUploadedAt":1782936142,"pakFileName":"PP_Hush_f222a5a7-bf00-f3cb-1b85-6281c5b45f33.pak","nexusFileId":124680,"metaUuid":"f222a5a7-bf00-f3cb-1b85-6281c5b45f33"},
+{"nexusFileName":"All-In-One Download","nexusFileVersion":"1","nexusFileUploadedAt":1782936142,"pakFileName":"PP_LongRest_b24a6276-1f60-a362-6e5a-bbf89184bd76.pak","nexusFileId":124680,"metaUuid":"b24a6276-1f60-a362-6e5a-bbf89184bd76"},
+{"nexusFileName":"All-In-One Download","nexusFileVersion":"1","nexusFileUploadedAt":1782936142,"pakFileName":"PP_QuietMoment_636cb6aa-0fb7-1937-47f8-c84b6a058e41.pak","nexusFileId":124680,"metaUuid":"636cb6aa-0fb7-1937-47f8-c84b6a058e41"},
+{"nexusFileName":"All-In-One Download","nexusFileVersion":"1","nexusFileUploadedAt":1782936142,"pakFileName":"PP_Silhouettes_63d63dd5-f55f-13d7-d754-f2af16472a95.pak","nexusFileId":124680,"metaUuid":"63d63dd5-f55f-13d7-d754-f2af16472a95"},
+{"nexusFileName":"All-In-One Download","nexusFileVersion":"1","nexusFileUploadedAt":1782936142,"pakFileName":"PP_StillMotion_258a8b5d-e538-277c-0f7a-f67c29828ab3.pak","nexusFileId":124680,"metaUuid":"258a8b5d-e538-277c-0f7a-f67c29828ab3"}
 ]},
 "23593":{"nexusModName":"Grasping Vine PHB2024","nexusUploadedBy":"chizfreak","nexusModId":23593,"paks":[
 {"nexusFileName":"Grasping Vine PHB2024","nexusFileVersion":"2.3.1","nexusFileUploadedAt":1782847504,"pakFileName":"GraspingVinePHB2024_e487afef-2b10-2edb-fb14-87053412c73f.pak","nexusFileId":124609,"metaUuid":null}
@@ -66114,7 +66125,9 @@
 ]},
 "23611":{"nexusModName":"Legendary Armors for Durge and Tav","nexusUploadedBy":"romanxocs","nexusModId":23611,"paks":[
 {"nexusFileName":"Tav's Arcanist Armor","nexusFileVersion":"1","nexusFileUploadedAt":1782660281,"pakFileName":"R_TavArmor.pak","nexusFileId":124480,"metaUuid":null},
-{"nexusFileName":"Durge's Vengeance Armor","nexusFileVersion":"1","nexusFileUploadedAt":1782660313,"pakFileName":"R_DurgeArmor.pak","nexusFileId":124481,"metaUuid":null}
+{"nexusFileName":"Durge's Vengeance Armor","nexusFileVersion":"1","nexusFileUploadedAt":1782660313,"pakFileName":"R_DurgeArmor.pak","nexusFileId":124481,"metaUuid":null},
+{"nexusFileName":"Tav's Arcanist Gloves","nexusFileVersion":"1","nexusFileUploadedAt":1782937189,"pakFileName":"R_TavGloves.pak","nexusFileId":124682,"metaUuid":null},
+{"nexusFileName":"Durge's Vengeance Gloves","nexusFileVersion":"1","nexusFileUploadedAt":1782937226,"pakFileName":"R_DurgeGloves.pak","nexusFileId":124683,"metaUuid":null}
 ]},
 "23612":{"nexusModName":"Necribelle - A Summon Mod for Korean","nexusUploadedBy":"Eolaloe","nexusModId":23612,"paks":[
 {"nexusFileName":"Necribelle - A Summon Mod for Korean","nexusFileVersion":"2","nexusFileUploadedAt":1782666457,"pakFileName":"Necri_Soul_Wand_kr.pak","nexusFileId":124489,"metaUuid":null}
@@ -66176,4 +66189,7 @@
 ]},
 "23648":{"nexusModName":"Custom Surface Framework","nexusUploadedBy":"StorybittenSoul","nexusModId":23648,"paks":[
 {"nexusFileName":"Surface 0 Framework","nexusFileVersion":"1.0.0.2","nexusFileUploadedAt":1782932126,"pakFileName":"Surface_0_Framework.pak","nexusFileId":124675,"metaUuid":null}
+]},
+"23653":{"nexusModName":"Revise Dialog - Custom Small Dialog Edits","nexusUploadedBy":"moxifer3","nexusModId":23653,"paks":[
+{"nexusFileName":"MOXI ReviseDialog Files","nexusFileVersion":"1","nexusFileUploadedAt":1782936736,"pakFileName":"MOXI_ReviseDialog.pak","nexusFileId":124681,"metaUuid":null}
 ]}}
