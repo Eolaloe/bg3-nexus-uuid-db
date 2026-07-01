@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-07-01T20:52:06.971808+00:00","total_mods":16723},
+{"_meta":{"last_run":"2026-07-01T21:53:08.022864+00:00","total_mods":16726},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -64538,6 +64538,10 @@
 "22972":{"nexusModName":"Nomads of El Rahalat","nexusUploadedBy":"Elledwyn","nexusModId":22972,"paks":[
 {"nexusFileName":"Nomads Of El Rahalat","nexusFileVersion":"1.0.0.76","nexusFileUploadedAt":1781619910,"pakFileName":"Nomads_of_El_Rahalat_594f564c-13ac-53d4-3cbf-5dd7d4df0214.pak","nexusFileId":123708,"metaUuid":"594f564c-13ac-53d4-3cbf-5dd7d4df0214"}
 ]},
+"22973":{"nexusModName":"Dark Moon Set (Shadowheart's Concept Art Armor)","nexusUploadedBy":"dogpriest","nexusModId":22973,"paks":[
+{"nexusFileName":"SH Artbook Armour","nexusFileVersion":"1","nexusFileUploadedAt":1782939289,"pakFileName":"SH_Artbook_Armour.pak","nexusFileId":124684,"metaUuid":null},
+{"nexusFileName":"SH Artbook Armour (KAVT)","nexusFileVersion":"1","nexusFileUploadedAt":1782939924,"pakFileName":"SH_Artbook_Armour_KAVT.pak","nexusFileId":124685,"metaUuid":null}
+]},
 "22974":{"nexusModName":"Better Elves AIO (PT-BR)","nexusUploadedBy":"Firetoga","nexusModId":22974,"paks":[
 {"nexusFileName":"Better Elves AIO (PT-BR)","nexusFileVersion":"1.1.1","nexusFileUploadedAt":1779774174,"pakFileName":"BetterElvesSub_BR.pak","nexusFileId":122174,"metaUuid":null}
 ]},
@@ -66166,6 +66170,9 @@
 "23633":{"nexusModName":"Arcadia's Attire","nexusUploadedBy":"Elledwyn","nexusModId":23633,"paks":[
 {"nexusFileName":"Arcadia's Attire","nexusFileVersion":"1.0.0.42","nexusFileUploadedAt":1782874689,"pakFileName":"Arcadias_Attire_ef515417-930f-314d-3b75-dc919400999e.pak","nexusFileId":124622,"metaUuid":null}
 ]},
+"23635":{"nexusModName":"NAERYS - Vanitas - Armor and Clothing","nexusUploadedBy":"Naerys","nexusModId":23635,"paks":[
+{"nexusFileName":"NAERYS Vanitas","nexusFileVersion":"1","nexusFileUploadedAt":1782841765,"pakFileName":"NAERYS_Vanitas_07b9d1ad-5ec0-a71a-6cea-508712827937.pak","nexusFileId":124603,"metaUuid":null}
+]},
 "23638":{"nexusModName":"Vampire Spawn Transformation - Fangs for Tav and Companions","nexusUploadedBy":"RevolutionScribe","nexusModId":23638,"paks":[
 {"nexusFileName":"Vampire Spawn Transformation - Standard Version","nexusFileVersion":"1.0.0.4","nexusFileUploadedAt":1782860581,"pakFileName":"VampireTav_1.0.0.4.pak","nexusFileId":124613,"metaUuid":null},
 {"nexusFileName":"Vampire Spawn Transformation - Vampiric Pallor","nexusFileVersion":"1.0.0.4","nexusFileUploadedAt":1782860753,"pakFileName":"VampireTavWithPallor_1.0.0.4.pak","nexusFileId":124615,"metaUuid":null},
@@ -66192,4 +66199,7 @@
 ]},
 "23653":{"nexusModName":"Revise Dialog - Custom Small Dialog Edits","nexusUploadedBy":"moxifer3","nexusModId":23653,"paks":[
 {"nexusFileName":"MOXI ReviseDialog Files","nexusFileVersion":"1","nexusFileUploadedAt":1782936736,"pakFileName":"MOXI_ReviseDialog.pak","nexusFileId":124681,"metaUuid":null}
+]},
+"23654":{"nexusModName":"Elven Head Pack","nexusUploadedBy":"manuliparoni","nexusModId":23654,"paks":[
+{"nexusFileName":"Elven Head Pack","nexusFileVersion":"1","nexusFileUploadedAt":1782942449,"pakFileName":"Elven_head_pack.pak","nexusFileId":124686,"metaUuid":null}
 ]}}
