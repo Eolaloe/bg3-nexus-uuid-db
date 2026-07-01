@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-07-01T18:51:50.794129+00:00","total_mods":16720},
+{"_meta":{"last_run":"2026-07-01T19:52:04.388897+00:00","total_mods":16721},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -65062,7 +65062,8 @@
 {"nexusFileName":"Dragonborn and Breath Weapon Enhanced for Japanese","nexusFileVersion":"4.2.2","nexusFileUploadedAt":1780291485,"pakFileName":"DragonbornBreathChanges_jp.pak","nexusFileId":122556,"metaUuid":null}
 ]},
 "23148":{"nexusModName":"Voiceline Player","nexusUploadedBy":"moxifer3","nexusModId":23148,"paks":[
-{"nexusFileName":"MOXI Voiceline Player","nexusFileVersion":"1","nexusFileUploadedAt":1780291604,"pakFileName":"MOXI_Voiceline_Player.pak","nexusFileId":122557,"metaUuid":"59a26998-b053-4fa2-a3ff-17c37f77e8c7"}
+{"nexusFileName":"MOXI Voiceline Player","nexusFileVersion":"2","nexusFileUploadedAt":1782933403,"pakFileName":"MOXI_Voiceline_Player.pak","nexusFileId":124676,"metaUuid":"59a26998-b053-4fa2-a3ff-17c37f77e8c7"},
+{"nexusFileName":"MOXI Voiceline Player 60 Slots","nexusFileVersion":"2","nexusFileUploadedAt":1782934330,"pakFileName":"MOXI_Voiceline_Player_60_slots.pak","nexusFileId":124677,"metaUuid":null}
 ]},
 "23150":{"nexusModName":"OathOftheColossusCHS","nexusUploadedBy":"yangyangmeiiii","nexusModId":23150,"paks":[
 {"nexusFileName":"OathOftheColossus CHS","nexusFileVersion":"1.0.4","nexusFileUploadedAt":1780306522,"pakFileName":"OathOftheColossus_CHS.pak","nexusFileId":122564,"metaUuid":null}
@@ -65727,7 +65728,7 @@
 "23409":{"nexusModName":"The Watcher's Gaze","nexusUploadedBy":"chain181","nexusModId":23409,"paks":[
 {"nexusFileName":"Helmet Variants 63d79229 756c 4cr6","nexusFileVersion":"1","nexusFileUploadedAt":1781637307,"pakFileName":"Helmet_Variants_63d79229-756c-3b69-f7b4-35c0491077a6.pak","nexusFileId":123727,"metaUuid":"63d79229-756c-3b69-f7b4-35c0491077a6"}
 ]},
-"23413":{"nexusModName":"BG3WASD (fork) Camera Follow - Smooth Character Follow Camera","nexusUploadedBy":"snowwy123","nexusModId":23413,"paks":[
+"23413":{"nexusModName":"BG3WASD Camera Follow (Fork) - Smooth Camera Modes","nexusUploadedBy":"snowwy123","nexusModId":23413,"paks":[
 {"nexusFileName":"BG3WASD CameraFollow V1.2.0","nexusFileVersion":"1.2.0","nexusFileUploadedAt":1782930560,"pakFileName":"BG3YawBridge.pak","nexusFileId":124673,"metaUuid":"3f33bb6d-4c56-4a63-b01f-0c0f72f13b1d"}
 ]},
 "23415":{"nexusModName":"A Human's Random Loot  for Chinese","nexusUploadedBy":"hanli","nexusModId":23415,"paks":[
@@ -65992,7 +65993,7 @@
 {"nexusFileName":"Undeadattack 33108362 8c8e 41c B17e","nexusFileVersion":"1","nexusFileUploadedAt":1782472367,"pakFileName":"UndeadAttack_33108362-8c8e-41c5-b02b-7448915921ae.pak","nexusFileId":124314,"metaUuid":"33108362-8c8e-41c5-b02b-7448915921ae"}
 ]},
 "23563":{"nexusModName":"Crimson Palace by littlehouseofimagination","nexusUploadedBy":"littlehouseofimagination","nexusModId":23563,"paks":[
-{"nexusFileName":"House's Crimson Palace","nexusFileVersion":"2","nexusFileUploadedAt":1782672375,"pakFileName":"HousesLevels_5d0e52d9-9eb3-12bd-7ff8-7b66a586a041.pak","nexusFileId":124496,"metaUuid":"5d0e52d9-9eb3-12bd-7ff8-7b66a586a041"}
+{"nexusFileName":"House's Crimson Palace","nexusFileVersion":"3","nexusFileUploadedAt":1782935005,"pakFileName":"HousesLevels_5d0e52d9-9eb3-12bd-7ff8-7b66a586a041.pak","nexusFileId":124678,"metaUuid":"5d0e52d9-9eb3-12bd-7ff8-7b66a586a041"}
 ]},
 "23564":{"nexusModName":"Spells Reworked - Utility Cantrips (Guidance - Resistance - Thaumaturgy - Blessing of the Trickster)","nexusUploadedBy":"Mueffel","nexusModId":23564,"paks":[
 {"nexusFileName":"Spells Enhanced - Utility Cantrips","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1782488218,"pakFileName":"Spells Enhanced - Utility Cantrips.pak","nexusFileId":124328,"metaUuid":null}
@@ -66172,4 +66173,7 @@
 ]},
 "23646":{"nexusModName":"Could You Not - Dialogue Replacer","nexusUploadedBy":"auracrest","nexusModId":23646,"paks":[
 {"nexusFileName":"Could You Not","nexusFileVersion":"1","nexusFileUploadedAt":1782925245,"pakFileName":"Could_You_Not_eab7142a-24ec-2b49-524f-bb77798bc621.pak","nexusFileId":124665,"metaUuid":null}
+]},
+"23648":{"nexusModName":"Custom Surface Framework","nexusUploadedBy":"StorybittenSoul","nexusModId":23648,"paks":[
+{"nexusFileName":"Surface 0 Framework","nexusFileVersion":"1.0.0.2","nexusFileUploadedAt":1782932126,"pakFileName":"Surface_0_Framework.pak","nexusFileId":124675,"metaUuid":null}
 ]}}
