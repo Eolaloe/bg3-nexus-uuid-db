@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-07-01T13:51:17.661726+00:00","total_mods":16714},
+{"_meta":{"last_run":"2026-07-01T14:51:40.072676+00:00","total_mods":16714},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -30049,12 +30049,11 @@
 {"nexusFileName":"Dragonborn Breathweapon Buff JP","nexusFileVersion":"1.0","nexusFileUploadedAt":1718883012,"pakFileName":"dragonbornbuffJP.pak","nexusFileId":61556,"metaUuid":null}
 ]},
 "10431":{"nexusModName":"Mind Weaver Class","nexusUploadedBy":"zx10rx","nexusModId":10431,"paks":[
-{"nexusFileName":"Custom Animations","nexusFileVersion":"9.5.1","nexusFileUploadedAt":1778325950,"pakFileName":"MindWeaverAnimations_08344bbe-80f1-bae4-88e7-6b5072b6a963.pak","nexusFileId":120820,"metaUuid":"08344bbe-80f1-bae4-88e7-6b5072b6a963"},
-{"nexusFileName":"Extra Feat at Level 2","nexusFileVersion":"9.5.2","nexusFileUploadedAt":1779363298,"pakFileName":"MindWeaverClassExtraFeatAtLevel2_e6da3375-b9b7-245d-a390-438808525252.pak","nexusFileId":121825,"metaUuid":"e6da3375-b9b7-245d-a390-438808525252"},
-{"nexusFileName":"Feat Every 1 Level","nexusFileVersion":"9.5.2","nexusFileUploadedAt":1779363321,"pakFileName":"MindWeaverFeatEver1Level_3891411f-cd58-510c-6352-e4b487e7961c.pak","nexusFileId":121826,"metaUuid":null},
-{"nexusFileName":"Mind Weaver Class","nexusFileVersion":"9.5.2","nexusFileUploadedAt":1779538256,"pakFileName":"MindWeaver_63d2a82d-84e1-05be-60a3-fffddbacfba8.pak","nexusFileId":121977,"metaUuid":"63d2a82d-84e1-05be-60a3-fffddbacfba8"},
-{"nexusFileName":"Mind Weaver Class","nexusFileVersion":"9.6.0","nexusFileUploadedAt":1782913762,"pakFileName":"MindWeaver_63d2a82d-84e1-05be-60a3-fffddbacfba8.pak","nexusFileId":124639,"metaUuid":"63d2a82d-84e1-05be-60a3-fffddbacfba8"},
-{"nexusFileName":"Feat Every 2 Level","nexusFileVersion":"9.6.0","nexusFileUploadedAt":1782913828,"pakFileName":"MindWeaverFeatEver2Levels_5b684632-084a-b574-de3d-e1bd9878ef5f.pak","nexusFileId":124640,"metaUuid":null}
+{"nexusFileName":"Feat Every 2 Level","nexusFileVersion":"9.6.0","nexusFileUploadedAt":1782913828,"pakFileName":"MindWeaverFeatEver2Levels_5b684632-084a-b574-de3d-e1bd9878ef5f.pak","nexusFileId":124640,"metaUuid":null},
+{"nexusFileName":"Feat Every 1 Level","nexusFileVersion":"9.6.0","nexusFileUploadedAt":1782913856,"pakFileName":"MindWeaverFeatEver1Level_3891411f-cd58-510c-6352-e4b487e7961c.pak","nexusFileId":124641,"metaUuid":null},
+{"nexusFileName":"Extra Feat at Level 2","nexusFileVersion":"9.6.0","nexusFileUploadedAt":1782913879,"pakFileName":"MindWeaverClassExtraFeatAtLevel2_e6da3375-b9b7-245d-a390-438808525252.pak","nexusFileId":124642,"metaUuid":"e6da3375-b9b7-245d-a390-438808525252"},
+{"nexusFileName":"Custom Animations","nexusFileVersion":"9.6.0","nexusFileUploadedAt":1782913898,"pakFileName":"MindWeaverAnimations_08344bbe-80f1-bae4-88e7-6b5072b6a963.pak","nexusFileId":124643,"metaUuid":"08344bbe-80f1-bae4-88e7-6b5072b6a963"},
+{"nexusFileName":"Mind Weaver Class","nexusFileVersion":"9.6.1","nexusFileUploadedAt":1782917025,"pakFileName":"MindWeaver_63d2a82d-84e1-05be-60a3-fffddbacfba8.pak","nexusFileId":124648,"metaUuid":"63d2a82d-84e1-05be-60a3-fffddbacfba8"}
 ]},
 "10432":{"nexusModName":"Wretched Bloodline Russian Translation","nexusUploadedBy":"udrapatis","nexusModId":10432,"paks":[
 {"nexusFileName":"Wretched Bloodline Rus","nexusFileVersion":"1.0","nexusFileUploadedAt":1718889156,"pakFileName":"WretchedBloodlineRU.pak","nexusFileId":61563,"metaUuid":null},
@@ -56074,7 +56073,7 @@
 {"nexusFileName":"cadystieflingposes","nexusFileVersion":"1.0.0.7","nexusFileUploadedAt":1764669160,"pakFileName":"tiefposes_2fcf2d22-c06a-25fd-be53-f73a46e9099e.pak","nexusFileId":108655,"metaUuid":"2fcf2d22-c06a-25fd-be53-f73a46e9099e"}
 ]},
 "19908":{"nexusModName":"DnD 5.5e All-in-One BEYOND for Chinese","nexusUploadedBy":"pom0328tw","nexusModId":19908,"paks":[
-{"nexusFileName":"Dnd2024CHSCHT","nexusFileVersion":"2.6.6","nexusFileUploadedAt":1782821419,"pakFileName":"dnd2024CHSCHT.pak","nexusFileId":124588,"metaUuid":"577d1a0d-1421-441b-b563-060e7b564a00"}
+{"nexusFileName":"Dnd2024CHSCHT","nexusFileVersion":"2.6.7","nexusFileUploadedAt":1782915814,"pakFileName":"dnd2024CHSCHT.pak","nexusFileId":124645,"metaUuid":"577d1a0d-1421-441b-b563-060e7b564a00"}
 ]},
 "19909":{"nexusModName":"Zorn - a pretty boy head preset for HRC","nexusUploadedBy":"Midsommarnacht","nexusModId":19909,"paks":[
 {"nexusFileName":"Zorn - EOTB","nexusFileVersion":"1.2.1","nexusFileUploadedAt":1764847572,"pakFileName":"♡a pretty orc head mod♡ -EOTB.pak","nexusFileId":108841,"metaUuid":null},
@@ -57587,11 +57586,11 @@
 ]},
 "20455":{"nexusModName":"Valkrana's Spellbook - 15 New Necromancy Spells for Korean","nexusUploadedBy":"Eolaloe","nexusModId":20455,"paks":[
 {"nexusFileName":"Valkrana's Impart Undeath Feat for Korean","nexusFileVersion":"1.01.00","nexusFileUploadedAt":1773305285,"pakFileName":"Valkrana's Impart Undeath Feat_kr.pak","nexusFileId":116594,"metaUuid":null},
-{"nexusFileName":"Valkrana's Spellbook for Korean","nexusFileVersion":"2.13.00","nexusFileUploadedAt":1780545436,"pakFileName":"Valkrana's Spellbook_kr.pak","nexusFileId":122731,"metaUuid":"5dff0c87-e4b7-4feb-9acb-aed07ff9daa1"}
+{"nexusFileName":"Valkrana's Spellbook for Korean","nexusFileVersion":"3.00.01","nexusFileUploadedAt":1782916031,"pakFileName":"Valkrana's Spellbook_kr.pak","nexusFileId":124646,"metaUuid":"5dff0c87-e4b7-4feb-9acb-aed07ff9daa1"}
 ]},
 "20456":{"nexusModName":"Valkrana's Spellbook - 15 New Necromancy Spells for Japanese","nexusUploadedBy":"Eolaloe","nexusModId":20456,"paks":[
 {"nexusFileName":"Valkrana's Impart Undeath Feat for Japanese","nexusFileVersion":"1.01.00","nexusFileUploadedAt":1773305098,"pakFileName":"Valkrana's Impart Undeath Feat_jp.pak","nexusFileId":116593,"metaUuid":null},
-{"nexusFileName":"Valkrana's Spellbook for Japanese","nexusFileVersion":"2.13.00","nexusFileUploadedAt":1780545594,"pakFileName":"Valkrana's Spellbook_jp.pak","nexusFileId":122732,"metaUuid":null}
+{"nexusFileName":"Valkrana's Spellbook for Japanese","nexusFileVersion":"3.00.01","nexusFileUploadedAt":1782916093,"pakFileName":"Valkrana's Spellbook_jp.pak","nexusFileId":124647,"metaUuid":null}
 ]},
 "20457":{"nexusModName":"Purple Dragon Knight - PT PORTUGAL","nexusUploadedBy":"MarcoBabo","nexusModId":20457,"paks":[
 {"nexusFileName":"Purple Dragon Knight - PT PORTUGAL","nexusFileVersion":"1","nexusFileUploadedAt":1767346788,"pakFileName":"PurpleDragonKnight2024PORTUGAL.pak","nexusFileId":110926,"metaUuid":null}
@@ -64374,7 +64373,7 @@
 {"nexusFileName":"Durge Body Begone","nexusFileVersion":"1.0.0.2","nexusFileUploadedAt":1779017190,"pakFileName":"Durge_Body_Begone.pak","nexusFileId":121439,"metaUuid":null}
 ]},
 "22881":{"nexusModName":"Fire Chosen One - A Crazy Martial Artist (PT-BR)","nexusUploadedBy":"ShadowAhJin","nexusModId":22881,"paks":[
-{"nexusFileName":"Fire Chosen One   A Crazy Martial Artist PT-BR","nexusFileVersion":"1.0.0.1","nexusFileUploadedAt":1778864171,"pakFileName":"Fire_Chosen_One_-_A_Crazy_Martial_Artist_PTBR.pak","nexusFileId":121317,"metaUuid":"e129c43d-4f57-4cd5-9fa0-e310b1891c2b"}
+{"nexusFileName":"Fire Chosen One   A Crazy Martial Artist PT-BR","nexusFileVersion":"1.0.0.2","nexusFileUploadedAt":1782917189,"pakFileName":"Fire_Chosen_One_-_A_Crazy_Martial_Artist_PTBR.pak","nexusFileId":124649,"metaUuid":"e129c43d-4f57-4cd5-9fa0-e310b1891c2b"}
 ]},
 "22882":{"nexusModName":"Blood Fighter - A new blood custom class (PT-BR)","nexusUploadedBy":"ShadowAhJin","nexusModId":22882,"paks":[
 {"nexusFileName":"Blood Fighter   A New Blood Custom Class PT-BR","nexusFileVersion":"1.0.0.1","nexusFileUploadedAt":1778866481,"pakFileName":"Blood_Fighter_-_A_new_blood_custom_class_PTBR.pak","nexusFileId":121318,"metaUuid":"dfcf93cd-5e95-4b1d-adbb-28237d4decb6"}
@@ -65661,7 +65660,7 @@
 {"nexusFileName":"axi_and_r_ assets","nexusFileVersion":"1.0.0.63","nexusFileUploadedAt":1781702650,"pakFileName":"axi_and_r_assets.pak","nexusFileId":123758,"metaUuid":"643fb4fd-ae00-8c58-9ac4-cf0277d91d56"}
 ]},
 "23379":{"nexusModName":"Divinity Preludes","nexusUploadedBy":"GabeCamomescro","nexusModId":23379,"paks":[
-{"nexusFileName":"Main (Live) File","nexusFileVersion":"1.0.0.1105","nexusFileUploadedAt":1782897773,"pakFileName":"Preludes_f6c7657d-7c5e-cd0e-f0a9-6c851d5c473d.pak","nexusFileId":124632,"metaUuid":null}
+{"nexusFileName":"Main (Live) File","nexusFileVersion":"1.0.0.1115","nexusFileUploadedAt":1782914559,"pakFileName":"Preludes_f6c7657d-7c5e-cd0e-f0a9-6c851d5c473d.pak","nexusFileId":124644,"metaUuid":null}
 ]},
 "23380":{"nexusModName":"Add to Wares and Send to Camp Hotkeys","nexusUploadedBy":"sowww","nexusModId":23380,"paks":[
 {"nexusFileName":"Add to Wares and Send to Camp Hotkeys","nexusFileVersion":"1.3.0","nexusFileUploadedAt":1782633115,"pakFileName":"AddToWaresHotkey.pak","nexusFileId":124447,"metaUuid":"dbddeb99-0037-4845-9c43-c77b9b19a62f"}
