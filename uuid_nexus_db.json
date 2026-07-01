@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-07-01T01:51:33.558895+00:00","total_mods":16708},
+{"_meta":{"last_run":"2026-07-01T02:51:34.261752+00:00","total_mods":16709},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -3392,7 +3392,7 @@
 "1258":{"nexusModName":"Valkrana's Spellbook - 17 New Necromancy Spells","nexusUploadedBy":"actualsailorcat","nexusModId":1258,"paks":[
 {"nexusFileName":"Valkrana's Impart Undeath Feat","nexusFileVersion":"1.01.00","nexusFileUploadedAt":1772167964,"pakFileName":"Valkrana's Impart Undeath Feat.pak","nexusFileId":115684,"metaUuid":"3d311d0d-a184-420e-b4d4-849b23d4a2d5"},
 {"nexusFileName":"Valkrana's Spellbook Limited Lists","nexusFileVersion":"1.00.03","nexusFileUploadedAt":1782860700,"pakFileName":"Valkrana's Spellbook Limited Lists.pak","nexusFileId":124614,"metaUuid":"84ccf67f-ba0d-4413-bb30-a14051f5fd02"},
-{"nexusFileName":"Valkrana's Spellbook","nexusFileVersion":"3.00.00","nexusFileUploadedAt":1782862824,"pakFileName":"Valkrana's Spellbook.pak","nexusFileId":124617,"metaUuid":"9deeb371-f01e-41b4-b20e-c5eee0751b12"}
+{"nexusFileName":"Valkrana's Spellbook","nexusFileVersion":"3.00.01","nexusFileUploadedAt":1782871871,"pakFileName":"Valkrana's Spellbook.pak","nexusFileId":124621,"metaUuid":"9deeb371-f01e-41b4-b20e-c5eee0751b12"}
 ]},
 "1259":{"nexusModName":"Great Old One Dice","nexusUploadedBy":"WingedAsarath","nexusModId":1259,"paks":[
 {"nexusFileName":"Great Old One Dice","nexusFileVersion":"1.1","nexusFileUploadedAt":1692634131,"pakFileName":"GreatOldOneDice.pak","nexusFileId":9187,"metaUuid":null}
@@ -65282,6 +65282,9 @@
 "23213":{"nexusModName":"Blood-Soaked Lunatics and Tools of Bhaal (CPF Settings)","nexusUploadedBy":"CaylePolin","nexusModId":23213,"paks":[
 {"nexusFileName":"The Tools of Bhaal","nexusFileVersion":"1","nexusFileUploadedAt":1780624467,"pakFileName":"CPF_ThePatriarofBhaal_WeakLittleBarben_a1771422-6f.pak","nexusFileId":122820,"metaUuid":null},
 {"nexusFileName":"Blood-Soaked Lunatics","nexusFileVersion":"1","nexusFileUploadedAt":1780624510,"pakFileName":"CPF_Brithmaur_Barben_6209189d-a814-400f-b341-c8c4c.pak","nexusFileId":122821,"metaUuid":null}
+]},
+"23214":{"nexusModName":"I'm on Your Side - Mayrina Dialogue Tweak","nexusUploadedBy":"miraltar","nexusModId":23214,"paks":[
+{"nexusFileName":"MRLTR MayrinaNoYelling","nexusFileVersion":"1","nexusFileUploadedAt":1780634927,"pakFileName":"MRLTR_MayrinaNoYelling.pak","nexusFileId":122827,"metaUuid":null}
 ]},
 "23215":{"nexusModName":"Blank Cropped Tee Resized","nexusUploadedBy":"DigitalGhostCollector","nexusModId":23215,"paks":[
 {"nexusFileName":"MemeShirtResized","nexusFileVersion":"1","nexusFileUploadedAt":1780694079,"pakFileName":"MemeShirtResized.pak","nexusFileId":122877,"metaUuid":null}
