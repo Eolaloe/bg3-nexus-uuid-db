@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-07-02T09:53:30.558588+00:00","total_mods":16734},
+{"_meta":{"last_run":"2026-07-02T10:52:08.861148+00:00","total_mods":16734},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -30053,7 +30053,7 @@
 {"nexusFileName":"Feat Every 1 Level","nexusFileVersion":"9.6.0","nexusFileUploadedAt":1782913856,"pakFileName":"MindWeaverFeatEver1Level_3891411f-cd58-510c-6352-e4b487e7961c.pak","nexusFileId":124641,"metaUuid":null},
 {"nexusFileName":"Extra Feat at Level 2","nexusFileVersion":"9.6.0","nexusFileUploadedAt":1782913879,"pakFileName":"MindWeaverClassExtraFeatAtLevel2_e6da3375-b9b7-245d-a390-438808525252.pak","nexusFileId":124642,"metaUuid":"e6da3375-b9b7-245d-a390-438808525252"},
 {"nexusFileName":"Mind Weaver Class","nexusFileVersion":"9.6.1","nexusFileUploadedAt":1782917025,"pakFileName":"MindWeaver_63d2a82d-84e1-05be-60a3-fffddbacfba8.pak","nexusFileId":124648,"metaUuid":"63d2a82d-84e1-05be-60a3-fffddbacfba8"},
-{"nexusFileName":"Custom Animations","nexusFileVersion":"9.6.1","nexusFileUploadedAt":1782983293,"pakFileName":"MindWeaverAnimations_08344bbe-80f1-bae4-88e7-6b5072b6a963.pak","nexusFileId":124707,"metaUuid":"08344bbe-80f1-bae4-88e7-6b5072b6a963"}
+{"nexusFileName":"Custom Animations","nexusFileVersion":"9.6.2","nexusFileUploadedAt":1782986884,"pakFileName":"MindWeaverAnimations_08344bbe-80f1-bae4-88e7-6b5072b6a963.pak","nexusFileId":124709,"metaUuid":"08344bbe-80f1-bae4-88e7-6b5072b6a963"}
 ]},
 "10432":{"nexusModName":"Wretched Bloodline Russian Translation","nexusUploadedBy":"udrapatis","nexusModId":10432,"paks":[
 {"nexusFileName":"Wretched Bloodline Rus","nexusFileVersion":"1.0","nexusFileUploadedAt":1718889156,"pakFileName":"WretchedBloodlineRU.pak","nexusFileId":61563,"metaUuid":null},
@@ -57588,6 +57588,7 @@
 {"nexusFileName":"5eSpells_THAI","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1767329250,"pakFileName":"5eSpells_THAI.pak","nexusFileId":110917,"metaUuid":null}
 ]},
 "20455":{"nexusModName":"Valkrana's Spellbook - 15 New Necromancy Spells for Korean","nexusUploadedBy":"Eolaloe","nexusModId":20455,"paks":[
+{"nexusFileName":"Valkrana's Impart Undeath Feat for Korean","nexusFileVersion":"1.01.00","nexusFileUploadedAt":1773305285,"pakFileName":"Valkrana's Impart Undeath Feat_kr.pak","nexusFileId":116594,"metaUuid":null},
 {"nexusFileName":"Valkrana's Spellbook for Korean","nexusFileVersion":"3.00.01","nexusFileUploadedAt":1782916031,"pakFileName":"Valkrana's Spellbook_kr.pak","nexusFileId":124646,"metaUuid":"5dff0c87-e4b7-4feb-9acb-aed07ff9daa1"}
 ]},
 "20456":{"nexusModName":"Valkrana's Spellbook - 15 New Necromancy Spells for Japanese","nexusUploadedBy":"Eolaloe","nexusModId":20456,"paks":[
