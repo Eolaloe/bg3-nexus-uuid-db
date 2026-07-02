@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-07-02T02:52:23.443823+00:00","total_mods":16730},
+{"_meta":{"last_run":"2026-07-02T03:52:33.782537+00:00","total_mods":16731},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -50127,7 +50127,7 @@
 {"nexusFileName":"FaerunColors - German Translation","nexusFileVersion":"1.0.0.1","nexusFileUploadedAt":1763658709,"pakFileName":"Faerûn Colors German.pak","nexusFileId":107816,"metaUuid":null}
 ]},
 "18007":{"nexusModName":"Der Auslander - German Sniper","nexusUploadedBy":"JaegerWasTaken","nexusModId":18007,"paks":[
-{"nexusFileName":"Sniper's Coat","nexusFileVersion":"1","nexusFileUploadedAt":1779750554,"pakFileName":"Sniper_913c3ca8-d75c-bf94-47e1-bc16cc78e874.pak","nexusFileId":122136,"metaUuid":null}
+{"nexusFileName":"Sniper's Coat","nexusFileVersion":"2","nexusFileUploadedAt":1782962406,"pakFileName":"Auslander_8d3fe171-132a-688c-b832-f01bda5af6f9.pak","nexusFileId":124701,"metaUuid":null}
 ]},
 "18008":{"nexusModName":"Lord Enver Gortash Redone - The Black Hand of Bane","nexusUploadedBy":"PoisonValentineXIII","nexusModId":18008,"paks":[
 {"nexusFileName":"Lord Enver Gortash Redone - The Black Hand of Bane","nexusFileVersion":"1.0.0.1","nexusFileUploadedAt":1754517178,"pakFileName":"GortashRedone_e6fdd6dd-cdb4-4041-2d3e-42dc99254f88.pak","nexusFileId":100063,"metaUuid":"e6fdd6dd-cdb4-4041-2d3e-42dc99254f88"},
@@ -66214,4 +66214,7 @@
 ]},
 "23661":{"nexusModName":"Spear of Radiant Decay","nexusUploadedBy":"DorianNotGrey","nexusModId":23661,"paks":[
 {"nexusFileName":"Spear Of Radiant Decay","nexusFileVersion":"1","nexusFileUploadedAt":1782959148,"pakFileName":"Spear_of_Radiant_Decay.pak","nexusFileId":124700,"metaUuid":null}
+]},
+"23664":{"nexusModName":"Ninjato (Ninja Sword)","nexusUploadedBy":"haytur","nexusModId":23664,"paks":[
+{"nexusFileName":"Ninjato","nexusFileVersion":"1.0R","nexusFileUploadedAt":1782963514,"pakFileName":"Ninjato.pak","nexusFileId":124702,"metaUuid":null}
 ]}}
