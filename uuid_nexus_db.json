@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-07-02T08:52:23.115848+00:00","total_mods":16734},
+{"_meta":{"last_run":"2026-07-02T09:53:30.558588+00:00","total_mods":16734},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -30052,8 +30052,8 @@
 {"nexusFileName":"Feat Every 2 Level","nexusFileVersion":"9.6.0","nexusFileUploadedAt":1782913828,"pakFileName":"MindWeaverFeatEver2Levels_5b684632-084a-b574-de3d-e1bd9878ef5f.pak","nexusFileId":124640,"metaUuid":null},
 {"nexusFileName":"Feat Every 1 Level","nexusFileVersion":"9.6.0","nexusFileUploadedAt":1782913856,"pakFileName":"MindWeaverFeatEver1Level_3891411f-cd58-510c-6352-e4b487e7961c.pak","nexusFileId":124641,"metaUuid":null},
 {"nexusFileName":"Extra Feat at Level 2","nexusFileVersion":"9.6.0","nexusFileUploadedAt":1782913879,"pakFileName":"MindWeaverClassExtraFeatAtLevel2_e6da3375-b9b7-245d-a390-438808525252.pak","nexusFileId":124642,"metaUuid":"e6da3375-b9b7-245d-a390-438808525252"},
-{"nexusFileName":"Custom Animations","nexusFileVersion":"9.6.0","nexusFileUploadedAt":1782913898,"pakFileName":"MindWeaverAnimations_08344bbe-80f1-bae4-88e7-6b5072b6a963.pak","nexusFileId":124643,"metaUuid":"08344bbe-80f1-bae4-88e7-6b5072b6a963"},
-{"nexusFileName":"Mind Weaver Class","nexusFileVersion":"9.6.1","nexusFileUploadedAt":1782917025,"pakFileName":"MindWeaver_63d2a82d-84e1-05be-60a3-fffddbacfba8.pak","nexusFileId":124648,"metaUuid":"63d2a82d-84e1-05be-60a3-fffddbacfba8"}
+{"nexusFileName":"Mind Weaver Class","nexusFileVersion":"9.6.1","nexusFileUploadedAt":1782917025,"pakFileName":"MindWeaver_63d2a82d-84e1-05be-60a3-fffddbacfba8.pak","nexusFileId":124648,"metaUuid":"63d2a82d-84e1-05be-60a3-fffddbacfba8"},
+{"nexusFileName":"Custom Animations","nexusFileVersion":"9.6.1","nexusFileUploadedAt":1782983293,"pakFileName":"MindWeaverAnimations_08344bbe-80f1-bae4-88e7-6b5072b6a963.pak","nexusFileId":124707,"metaUuid":"08344bbe-80f1-bae4-88e7-6b5072b6a963"}
 ]},
 "10432":{"nexusModName":"Wretched Bloodline Russian Translation","nexusUploadedBy":"udrapatis","nexusModId":10432,"paks":[
 {"nexusFileName":"Wretched Bloodline Rus","nexusFileVersion":"1.0","nexusFileUploadedAt":1718889156,"pakFileName":"WretchedBloodlineRU.pak","nexusFileId":61563,"metaUuid":null},
@@ -57588,7 +57588,6 @@
 {"nexusFileName":"5eSpells_THAI","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1767329250,"pakFileName":"5eSpells_THAI.pak","nexusFileId":110917,"metaUuid":null}
 ]},
 "20455":{"nexusModName":"Valkrana's Spellbook - 15 New Necromancy Spells for Korean","nexusUploadedBy":"Eolaloe","nexusModId":20455,"paks":[
-{"nexusFileName":"Valkrana's Impart Undeath Feat for Korean","nexusFileVersion":"1.01.00","nexusFileUploadedAt":1773305285,"pakFileName":"Valkrana's Impart Undeath Feat_kr.pak","nexusFileId":116594,"metaUuid":null},
 {"nexusFileName":"Valkrana's Spellbook for Korean","nexusFileVersion":"3.00.01","nexusFileUploadedAt":1782916031,"pakFileName":"Valkrana's Spellbook_kr.pak","nexusFileId":124646,"metaUuid":"5dff0c87-e4b7-4feb-9acb-aed07ff9daa1"}
 ]},
 "20456":{"nexusModName":"Valkrana's Spellbook - 15 New Necromancy Spells for Japanese","nexusUploadedBy":"Eolaloe","nexusModId":20456,"paks":[
@@ -65665,7 +65664,7 @@
 {"nexusFileName":"axi_and_r_ assets","nexusFileVersion":"1.0.0.63","nexusFileUploadedAt":1781702650,"pakFileName":"axi_and_r_assets.pak","nexusFileId":123758,"metaUuid":"643fb4fd-ae00-8c58-9ac4-cf0277d91d56"}
 ]},
 "23379":{"nexusModName":"Divinity Preludes","nexusUploadedBy":"GabeCamomescro","nexusModId":23379,"paks":[
-{"nexusFileName":"Main (Live) File","nexusFileVersion":"1.0.0.1115","nexusFileUploadedAt":1782914559,"pakFileName":"Preludes_f6c7657d-7c5e-cd0e-f0a9-6c851d5c473d.pak","nexusFileId":124644,"metaUuid":null}
+{"nexusFileName":"Main (Live) File","nexusFileVersion":"1.0.0.1125","nexusFileUploadedAt":1782984030,"pakFileName":"Preludes_f6c7657d-7c5e-cd0e-f0a9-6c851d5c473d.pak","nexusFileId":124708,"metaUuid":null}
 ]},
 "23380":{"nexusModName":"Add to Wares and Send to Camp Hotkeys","nexusUploadedBy":"sowww","nexusModId":23380,"paks":[
 {"nexusFileName":"Add to Wares and Send to Camp Hotkeys","nexusFileVersion":"1.3.0","nexusFileUploadedAt":1782633115,"pakFileName":"AddToWaresHotkey.pak","nexusFileId":124447,"metaUuid":"dbddeb99-0037-4845-9c43-c77b9b19a62f"}
