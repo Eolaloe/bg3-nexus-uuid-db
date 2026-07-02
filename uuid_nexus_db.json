@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-07-02T10:52:08.861148+00:00","total_mods":16734},
+{"_meta":{"last_run":"2026-07-02T11:52:08.002647+00:00","total_mods":16735},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -66207,7 +66207,7 @@
 {"nexusFileName":"MOXI ReviseDialog Files","nexusFileVersion":"1","nexusFileUploadedAt":1782936736,"pakFileName":"MOXI_ReviseDialog.pak","nexusFileId":124681,"metaUuid":null}
 ]},
 "23654":{"nexusModName":"Elven Head Pack","nexusUploadedBy":"manuliparoni","nexusModId":23654,"paks":[
-{"nexusFileName":"Elven Head Pack","nexusFileVersion":"1","nexusFileUploadedAt":1782942449,"pakFileName":"Elven_head_pack.pak","nexusFileId":124686,"metaUuid":"74b3d181-c27f-4d91-a21f-4688ee6b4400"}
+{"nexusFileName":"Elven Head Pack","nexusFileVersion":"2","nexusFileUploadedAt":1782991858,"pakFileName":"Elven_head_pack.pak","nexusFileId":124711,"metaUuid":"74b3d181-c27f-4d91-a21f-4688ee6b4400"}
 ]},
 "23656":{"nexusModName":"Raven Knight Fighter Subclass","nexusUploadedBy":"TheCobaltCactus","nexusModId":23656,"paks":[
 {"nexusFileName":"Raven Knight Fighter Subclass","nexusFileVersion":"1.0.0.1","nexusFileUploadedAt":1782946085,"pakFileName":"Raven_Knight_Fighter_Subclass_9844f8eb-4096-5a59-f6aa-8e6f1f2efa0f.pak","nexusFileId":124691,"metaUuid":null}
@@ -66226,4 +66226,7 @@
 ]},
 "23665":{"nexusModName":"Aylin and Isobel Join the Party","nexusUploadedBy":"WorldWalker42","nexusModId":23665,"paks":[
 {"nexusFileName":"Aylin and Isobel Join the Party","nexusFileVersion":"1.0.0.147","nexusFileUploadedAt":1782975382,"pakFileName":"WW_AylinIsobelJoinParty_9ef1089a-2941-94e0-99c3-5efebb69f9de.pak","nexusFileId":124705,"metaUuid":"9ef1089a-2941-94e0-99c3-5efebb69f9de"}
+]},
+"23666":{"nexusModName":"KillCam - Cinematic Combat Mod","nexusUploadedBy":"Tyr4nTX","nexusModId":23666,"paks":[
+{"nexusFileName":"BG3CinematicCombat V1.0.0","nexusFileVersion":"2","nexusFileUploadedAt":1782992346,"pakFileName":"BG3CinematicCombat.pak","nexusFileId":124712,"metaUuid":null}
 ]}}
