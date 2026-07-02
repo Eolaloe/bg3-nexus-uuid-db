@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-07-02T14:52:18.697749+00:00","total_mods":16735},
+{"_meta":{"last_run":"2026-07-02T15:52:17.589548+00:00","total_mods":16737},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -44229,7 +44229,7 @@
 {"nexusFileName":"Extra encounters and Minibosses_CHS_PATCH8","nexusFileVersion":"4.0.0.0","nexusFileUploadedAt":1778911376,"pakFileName":"Extra encounters and Minibosses_CHS.pak","nexusFileId":121356,"metaUuid":null}
 ]},
 "15887":{"nexusModName":"Mind Weaver Class_KOR","nexusUploadedBy":"Ahdarugo","nexusModId":15887,"paks":[
-{"nexusFileName":"Mind Weaver_KOR","nexusFileVersion":"1.11","nexusFileUploadedAt":1779415021,"pakFileName":"MindWeaver_KOR_bb3a63bc-ac1f-4fad-0538-90c2b84eee06.pak","nexusFileId":121873,"metaUuid":"bb3a63bc-ac1f-4fad-0538-90c2b84eee06"}
+{"nexusFileName":"Mind Weaver_KOR","nexusFileVersion":"1.12","nexusFileUploadedAt":1783004579,"pakFileName":"MindWeaver_KOR_bb3a63bc-ac1f-4fad-0538-90c2b84eee06.pak","nexusFileId":124717,"metaUuid":"bb3a63bc-ac1f-4fad-0538-90c2b84eee06"}
 ]},
 "15888":{"nexusModName":"More Heads for Flutter and Whimsy","nexusUploadedBy":"cedastarions","nexusModId":15888,"paks":[
 {"nexusFileName":"More Heads for Flutter and Whimsy","nexusFileVersion":"1.1.0","nexusFileUploadedAt":1745073870,"pakFileName":"CedastarionsFairies.pak","nexusFileId":89694,"metaUuid":"c1a872c6-7804-4d29-95fd-fd2986b242e1"},
@@ -66203,6 +66203,10 @@
 "23648":{"nexusModName":"Custom Surface Framework","nexusUploadedBy":"StorybittenSoul","nexusModId":23648,"paks":[
 {"nexusFileName":"Surface 0 Framework","nexusFileVersion":"1.0.0.2","nexusFileUploadedAt":1782932126,"pakFileName":"Surface_0_Framework.pak","nexusFileId":124675,"metaUuid":null}
 ]},
+"23651":{"nexusModName":"Cazador Szarr Edits  - The Vampire Sovereign","nexusUploadedBy":"PoisonValentineXIII","nexusModId":23651,"paks":[
+{"nexusFileName":"Cazador Szarr Edits - TVS (Black Suit)","nexusFileVersion":"1.0.0.3","nexusFileUploadedAt":1782955499,"pakFileName":"CazadorSilverWingsEdition_59ae62b0-fd80-1309-7de0-fe5b8a2243a5.pak","nexusFileId":124696,"metaUuid":null},
+{"nexusFileName":"Cazador Szarr Edits - TVS (White Suit)","nexusFileVersion":"1.0.0.2","nexusFileUploadedAt":1782955592,"pakFileName":"CazadorSilverWhiteEdition_b4374a8a-f83e-091d-c9d4-e2e5c5899dc8.pak","nexusFileId":124697,"metaUuid":null}
+]},
 "23653":{"nexusModName":"Revise Dialog - Custom Small Dialog Edits","nexusUploadedBy":"moxifer3","nexusModId":23653,"paks":[
 {"nexusFileName":"MOXI ReviseDialog Files","nexusFileVersion":"1","nexusFileUploadedAt":1782936736,"pakFileName":"MOXI_ReviseDialog.pak","nexusFileId":124681,"metaUuid":null}
 ]},
@@ -66229,4 +66233,7 @@
 ]},
 "23666":{"nexusModName":"KillCam - Cinematic Combat Mod","nexusUploadedBy":"Tyr4nTX","nexusModId":23666,"paks":[
 {"nexusFileName":"BG3CinematicCombat V1.0.0","nexusFileVersion":"2","nexusFileUploadedAt":1782992346,"pakFileName":"BG3CinematicCombat.pak","nexusFileId":124712,"metaUuid":"c3a1f5e8-9d2b-4a7c-b6e0-8f4d2c1a5b3e"}
+]},
+"23669":{"nexusModName":"Wine and Revelry (Satyr Race) Traduzione ITA","nexusUploadedBy":"EveeLaverne","nexusModId":23669,"paks":[
+{"nexusFileName":"SatyrRaceITA","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1783004635,"pakFileName":"SatyrRaceITA.pak","nexusFileId":124718,"metaUuid":null}
 ]}}
