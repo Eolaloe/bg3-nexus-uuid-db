@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-07-04T19:52:22.104495+00:00","total_mods":16757},
+{"_meta":{"last_run":"2026-07-04T20:51:56.234262+00:00","total_mods":16759},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -26553,7 +26553,7 @@
 {"nexusFileName":"Addon - Fade's Randomized Loot","nexusFileVersion":"2.0.0","nexusFileUploadedAt":1777412075,"pakFileName":"HomeBrew - Comprehensive Reworks (Addon - Fades Randomized Loot).pak","nexusFileId":120105,"metaUuid":"74a00bb6-b29e-497d-8410-2307ceb876fe"},
 {"nexusFileName":"Addon - Randomized Loot","nexusFileVersion":"2.0.0","nexusFileUploadedAt":1777412085,"pakFileName":"HomeBrew - Comprehensive Reworks (Addon - Randomized Loot).pak","nexusFileId":120106,"metaUuid":"74a00bb6-b29e-497d-8410-2307ceb876fe"},
 {"nexusFileName":"Misc - Modded Subclasses","nexusFileVersion":"8.3.1","nexusFileUploadedAt":1777412098,"pakFileName":"HomeBrew - Comprehensive Reworks (Misc - Modded Subclasses).pak","nexusFileId":120107,"metaUuid":null},
-{"nexusFileName":"HomeBrew   Comprehensive Reworks","nexusFileVersion":"8.9.1","nexusFileUploadedAt":1782771082,"pakFileName":"HomeBrew - Comprehensive Reworks.pak","nexusFileId":124561,"metaUuid":"486d1526-3505-4b09-9790-0f6a60f5ac0f"}
+{"nexusFileName":"HomeBrew   Comprehensive Reworks","nexusFileVersion":"9.0.0","nexusFileUploadedAt":1783195870,"pakFileName":"HomeBrew - Comprehensive Reworks.pak","nexusFileId":124894,"metaUuid":"486d1526-3505-4b09-9790-0f6a60f5ac0f"}
 ]},
 "9053":{"nexusModName":"Planetouched - Homebrew Race","nexusUploadedBy":"0Lyra","nexusModId":9053,"paks":[
 {"nexusFileName":"Planetouched - Main","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1715369676,"pakFileName":"Planetouched_Race.pak","nexusFileId":56628,"metaUuid":"fc59491b-4bc3-4822-8597-7ed1b84064c5"},
@@ -64993,6 +64993,10 @@
 "23121":{"nexusModName":"5rdnd2024 Dual Wielder","nexusUploadedBy":"Ruojo","nexusModId":23121,"paks":[
 {"nexusFileName":"Master Feat 0198906b 04b4 976c 2dec 57775e03c727","nexusFileVersion":"1.0.0.9","nexusFileUploadedAt":1781593633,"pakFileName":"Master_Feat_0198906b-04b4-976c-2dec-57775e03c727.pak","nexusFileId":123694,"metaUuid":null}
 ]},
+"23122":{"nexusModName":"Cyberpunk 2077 Judy and Evelyn's Outfits","nexusUploadedBy":"Lynstence","nexusModId":23122,"paks":[
+{"nexusFileName":"CP77JudyEvelynOutfits","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1783190434,"pakFileName":"CP77JudyEvelynOutfits.pak","nexusFileId":124887,"metaUuid":null},
+{"nexusFileName":"CP77JudyEvelynOutfits DyeBase","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1783190464,"pakFileName":"CP77JudyEvelynOutfits_DyeBase.pak","nexusFileId":124888,"metaUuid":null}
+]},
 "23123":{"nexusModName":"Cyberpunk 2077 Panam and Aldecaldos' Outfits","nexusUploadedBy":"Lynstence","nexusModId":23123,"paks":[
 {"nexusFileName":"CP77AldecaldosOutfits_DyeBase","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1781733264,"pakFileName":"CP77AldecaldosOutfits_DyeBase.pak","nexusFileId":123783,"metaUuid":null},
 {"nexusFileName":"CP77AldecaldosOutfits","nexusFileVersion":"1.0.1","nexusFileUploadedAt":1782075551,"pakFileName":"CP77AldecaldosOutfits.pak","nexusFileId":124024,"metaUuid":"6647dcf8-b731-409f-9731-6d23884a11f2"}
@@ -66289,7 +66293,7 @@
 {"nexusFileName":"Umberlee's Earrings (Gold)","nexusFileVersion":"1.0","nexusFileUploadedAt":1783055916,"pakFileName":"Umberlee's Earrings (Gold).pak","nexusFileId":124756,"metaUuid":null}
 ]},
 "23685":{"nexusModName":"Blackwood's Red Mage","nexusUploadedBy":"EnixLHQ","nexusModId":23685,"paks":[
-{"nexusFileName":"Blackwood's Red Mage","nexusFileVersion":"2.2.4","nexusFileUploadedAt":1783069367,"pakFileName":"Red_Mage_Homebrew_6aec3ad4-990d-7667-a8e9-399d1bb6fc4b.pak","nexusFileId":124762,"metaUuid":null}
+{"nexusFileName":"Blackwood's Red Mage","nexusFileVersion":"2.2.4.7","nexusFileUploadedAt":1783198189,"pakFileName":"Red_Mage_Homebrew_2.2.4_PLATINUM.pak","nexusFileId":124895,"metaUuid":null}
 ]},
 "23686":{"nexusModName":"Improved Equip Menu","nexusUploadedBy":"sowww","nexusModId":23686,"paks":[
 {"nexusFileName":"Improved Equip Menu","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1783071773,"pakFileName":"ImprovedEquipMenu.pak","nexusFileId":124767,"metaUuid":"c953c1b3-cf57-4688-9950-9fc6fdc23415"}
@@ -66329,4 +66333,7 @@
 ]},
 "23706":{"nexusModName":"20 Shades Of Blue - Dye Collection","nexusUploadedBy":"BerrySemifreddo","nexusModId":23706,"paks":[
 {"nexusFileName":"20 Shades Of Blue - Main File","nexusFileVersion":"1.0.0.10","nexusFileUploadedAt":1783189189,"pakFileName":"20ShadesOfBlue_01307422-4702-f3da-72d7-a2f643c6d20b.pak","nexusFileId":124883,"metaUuid":null}
+]},
+"23707":{"nexusModName":"Minhara Boss Gear","nexusUploadedBy":"blackninjato2","nexusModId":23707,"paks":[
+{"nexusFileName":"MintharaBossGear","nexusFileVersion":"1","nexusFileUploadedAt":1783195040,"pakFileName":"MintharaBossGear.pak","nexusFileId":124893,"metaUuid":null}
 ]}}
