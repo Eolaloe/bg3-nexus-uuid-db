@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-07-04T21:52:04.423863+00:00","total_mods":16759},
+{"_meta":{"last_run":"2026-07-04T22:52:20.250093+00:00","total_mods":16760},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -13871,7 +13871,8 @@
 {"nexusFileName":"Divine Soul (Revised) Ita","nexusFileVersion":"1.0","nexusFileUploadedAt":1700579369,"pakFileName":"SorcererDivineSoulIta.pak","nexusFileId":29667,"metaUuid":null}
 ]},
 "4446":{"nexusModName":"Alternate hairstyle for Wyll","nexusUploadedBy":"Bububull","nexusModId":4446,"paks":[
-{"nexusFileName":"Long version","nexusFileVersion":"2.0","nexusFileUploadedAt":1783148093,"pakFileName":"Bububull_Wyll_Alt_HAir_long.pak","nexusFileId":124826,"metaUuid":null}
+{"nexusFileName":"Long version","nexusFileVersion":"2.0","nexusFileUploadedAt":1783148093,"pakFileName":"Bububull_Wyll_Alt_HAir_long.pak","nexusFileId":124826,"metaUuid":null},
+{"nexusFileName":"Short version","nexusFileVersion":"2.0","nexusFileUploadedAt":1783202855,"pakFileName":"Bububull_Wyll_Alt_hair_Ornate_short_ribbon.pak","nexusFileId":124899,"metaUuid":null}
 ]},
 "4447":{"nexusModName":"Learn Skill Expertise Of Choice","nexusUploadedBy":"BitterPast","nexusModId":4447,"paks":[
 {"nexusFileName":"All Expertise","nexusFileVersion":"1.0.1","nexusFileUploadedAt":1706441871,"pakFileName":"AddExpertiseToPlayerEverything.pak","nexusFileId":42164,"metaUuid":"5ff2fbcd-f8fb-453e-8e26-85b75b553c8a"},
@@ -64996,7 +64997,7 @@
 ]},
 "23122":{"nexusModName":"Cyberpunk 2077 Judy and Evelyn's Outfits","nexusUploadedBy":"Lynstence","nexusModId":23122,"paks":[
 {"nexusFileName":"CP77JudyEvelynOutfits","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1783190434,"pakFileName":"CP77JudyEvelynOutfits.pak","nexusFileId":124887,"metaUuid":null},
-{"nexusFileName":"CP77JudyEvelynOutfits DyeBase","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1783190464,"pakFileName":"CP77JudyEvelynOutfits_DyeBase.pak","nexusFileId":124888,"metaUuid":null}
+{"nexusFileName":"CP77JudyEvelynOutfits_DyeBase","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1783190464,"pakFileName":"CP77JudyEvelynOutfits_DyeBase.pak","nexusFileId":124888,"metaUuid":null}
 ]},
 "23123":{"nexusModName":"Cyberpunk 2077 Panam and Aldecaldos' Outfits","nexusUploadedBy":"Lynstence","nexusModId":23123,"paks":[
 {"nexusFileName":"CP77AldecaldosOutfits_DyeBase","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1781733264,"pakFileName":"CP77AldecaldosOutfits_DyeBase.pak","nexusFileId":123783,"metaUuid":null},
@@ -66294,7 +66295,7 @@
 {"nexusFileName":"Umberlee's Earrings (Gold)","nexusFileVersion":"1.0","nexusFileUploadedAt":1783055916,"pakFileName":"Umberlee's Earrings (Gold).pak","nexusFileId":124756,"metaUuid":null}
 ]},
 "23685":{"nexusModName":"Blackwood's Red Mage","nexusUploadedBy":"EnixLHQ","nexusModId":23685,"paks":[
-{"nexusFileName":"Blackwood's Red Mage","nexusFileVersion":"2.2.4.7","nexusFileUploadedAt":1783198189,"pakFileName":"Red_Mage_Homebrew_2.2.4_PLATINUM.pak","nexusFileId":124895,"metaUuid":null}
+{"nexusFileName":"Blackwood's Red Mage","nexusFileVersion":"2.2.4.8","nexusFileUploadedAt":1783204525,"pakFileName":"Red_Mage_Homebrew_6aec3ad4-990d-7667-a8e9-399d1bb6fc4b.pak","nexusFileId":124900,"metaUuid":null}
 ]},
 "23686":{"nexusModName":"Improved Equip Menu","nexusUploadedBy":"sowww","nexusModId":23686,"paks":[
 {"nexusFileName":"Improved Equip Menu","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1783071773,"pakFileName":"ImprovedEquipMenu.pak","nexusFileId":124767,"metaUuid":"c953c1b3-cf57-4688-9950-9fc6fdc23415"}
@@ -66337,4 +66338,7 @@
 ]},
 "23707":{"nexusModName":"Minhara Boss Gear","nexusUploadedBy":"blackninjato2","nexusModId":23707,"paks":[
 {"nexusFileName":"MintharaBossGear","nexusFileVersion":"2","nexusFileUploadedAt":1783201904,"pakFileName":"MintharaBossGear.pak","nexusFileId":124897,"metaUuid":null}
+]},
+"23708":{"nexusModName":"Custom Weapons","nexusUploadedBy":"AtlasAlpin","nexusModId":23708,"paks":[
+{"nexusFileName":"Custom Weapons","nexusFileVersion":"1","nexusFileUploadedAt":1783202816,"pakFileName":"Custom Weapons.pak","nexusFileId":124898,"metaUuid":null}
 ]}}
