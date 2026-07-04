@@ -29862,7 +29862,7 @@
 {"nexusFileName":"MISSING GODS 2.0.0","nexusFileVersion":"2.0.0","nexusFileUploadedAt":1719266497,"pakFileName":"MissingGods.pak","nexusFileId":62115,"metaUuid":"5db6b29c-66de-42d5-94d3-51c23286e4dd"},
 {"nexusFileName":"MISSING GODS - EOTB 2.0.0","nexusFileVersion":"2.0.0","nexusFileUploadedAt":1719266578,"pakFileName":"MissingGods - EOTB.pak","nexusFileId":62117,"metaUuid":null},
 {"nexusFileName":"MISSING GODS - UTAV 2.0.0","nexusFileVersion":"2.0.0","nexusFileUploadedAt":1719266685,"pakFileName":"MissingGods - UTAV.pak","nexusFileId":62119,"metaUuid":null},
-{"nexusFileName":"MISSING GODS - UTAV - EOTB 2.0.0","nexusFileVersion":"2.0.0","nexusFileUploadedAt":1719266758,"pakFileName":"MissingGods - EOTB - UTAV.pak","nexusFileId":62120,"metaUuid":null}
+{"nexusFileName":"MISSING GODS - UTAV - EOTB 2.0.0","nexusFileVersion":"2.0.0","nexusFileUploadedAt":1719266758,"pakFileName":"MissingGods - EOTB - UTAV.pak","nexusFileId":62120,"metaUuid":"5db6b29c-66de-42d5-94d3-51c23286e4dd"}
 ]},
 "10366":{"nexusModName":"Metamagic Extended - Spanish (Actualizado 4.0.0.4)","nexusUploadedBy":"Gonzy42","nexusModId":10366,"paks":[
 {"nexusFileName":"Metamagic Extended - Spanish","nexusFileVersion":"4.0.0.4","nexusFileUploadedAt":1718641276,"pakFileName":"MetamagicExtendedES.pak","nexusFileId":61280,"metaUuid":null}
@@ -66278,9 +66278,9 @@
 {"nexusFileName":"MF Radio 1.4.0","nexusFileVersion":"1.4.0","nexusFileUploadedAt":1783037338,"pakFileName":"MF_Radio.pak","nexusFileId":124743,"metaUuid":"d9e9fd0b-6a72-4cd2-bdc9-a9cb1dd3efc2"}
 ]},
 "23680":{"nexusModName":"Starting Equipment Selection","nexusUploadedBy":"NecroticFlame","nexusModId":23680,"paks":[
-{"nexusFileName":"Main","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1783055637,"pakFileName":"ECC_a1e921ae-8aa2-655c-c399-cfd97ed46f4c.pak","nexusFileId":124754,"metaUuid":null},
-{"nexusFileName":"Humanoid Equipment and Clothing","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1783057657,"pakFileName":"ECC_Humanoid_5f2c3462-94d5-feeb-5f39-5cd0f7a76c5a.pak","nexusFileId":124757,"metaUuid":null},
-{"nexusFileName":"Githyanki Equipment","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1783057830,"pakFileName":"ECC_Githyanki_9fb63845-8b2d-314d-99a2-bd0c75199995.pak","nexusFileId":124758,"metaUuid":null}
+{"nexusFileName":"Main","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1783055637,"pakFileName":"ECC_a1e921ae-8aa2-655c-c399-cfd97ed46f4c.pak","nexusFileId":124754,"metaUuid":"a1e921ae-8aa2-655c-c399-cfd97ed46f4c"},
+{"nexusFileName":"Humanoid Equipment and Clothing","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1783057657,"pakFileName":"ECC_Humanoid_5f2c3462-94d5-feeb-5f39-5cd0f7a76c5a.pak","nexusFileId":124757,"metaUuid":"5f2c3462-94d5-feeb-5f39-5cd0f7a76c5a"},
+{"nexusFileName":"Githyanki Equipment","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1783057830,"pakFileName":"ECC_Githyanki_9fb63845-8b2d-314d-99a2-bd0c75199995.pak","nexusFileId":124758,"metaUuid":"9fb63845-8b2d-314d-99a2-bd0c75199995"}
 ]},
 "23682":{"nexusModName":"Draconic Heritage - New Feat and Dragonborn Breath Weapon Tweaks","nexusUploadedBy":"aljoxo","nexusModId":23682,"paks":[
 {"nexusFileName":"Draconic Heritage","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1783070266,"pakFileName":"DraconicHeritageFeat_6717ff34-c605-60f2-a7d4-43af802463a2.pak","nexusFileId":124765,"metaUuid":null}
