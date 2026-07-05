@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-07-05T21:52:10.161639+00:00","total_mods":16780},
+{"_meta":{"last_run":"2026-07-05T22:51:56.953500+00:00","total_mods":16781},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -65358,7 +65358,7 @@
 {"nexusFileName":"HalfDragon (PT-BR)","nexusFileVersion":"2.4.0.2","nexusFileUploadedAt":1781223889,"pakFileName":"HalfDragon_BR.pak","nexusFileId":123352,"metaUuid":null}
 ]},
 "23233":{"nexusModName":"Corellon's Grace Upgradable","nexusUploadedBy":"blackninjato2","nexusModId":23233,"paks":[
-{"nexusFileName":"CorellonMonkStaff","nexusFileVersion":"1.1","nexusFileUploadedAt":1782229404,"pakFileName":"CorellonMonkStaff.pak","nexusFileId":124170,"metaUuid":"8efe65b6-4436-4aa6-beb4-a027944897a0"}
+{"nexusFileName":"CorellonMonkStaff","nexusFileVersion":"1.3","nexusFileUploadedAt":1783290085,"pakFileName":"CorellonMonkStaff.pak","nexusFileId":124989,"metaUuid":"8efe65b6-4436-4aa6-beb4-a027944897a0"}
 ]},
 "23234":{"nexusModName":"Shadowheart Cantrip Night Piercer Reworked and Fixed","nexusUploadedBy":"blackninjato2","nexusModId":23234,"paks":[
 {"nexusFileName":"NightPiercer","nexusFileVersion":"1.1","nexusFileUploadedAt":1782054101,"pakFileName":"NightPiercer.pak","nexusFileId":124001,"metaUuid":"48f1a783-cea2-43b6-aa2c-fe5a255d2413"}
@@ -66000,6 +66000,9 @@
 "23549":{"nexusModName":"Secret Scrolls for 5e Spells - Skillcheck Crashfix","nexusUploadedBy":"Nokhal","nexusModId":23549,"paks":[
 {"nexusFileName":"SecretScoll5ECrashfix","nexusFileVersion":"2","nexusFileUploadedAt":1782376650,"pakFileName":"SecretScrolls5eSpells.pak","nexusFileId":124247,"metaUuid":"b093bc44-ccf9-4eec-b5ec-e96a6f2940f9"}
 ]},
+"23551":{"nexusModName":"LittleTeafling's Midsize Collection - Modathon '26","nexusUploadedBy":"LittleTeafling","nexusModId":23551,"paks":[
+{"nexusFileName":"LT MidsizeCollection","nexusFileVersion":"1","nexusFileUploadedAt":1783289343,"pakFileName":"LT_MidsizeCollection.pak","nexusFileId":124988,"metaUuid":null}
+]},
 "23552":{"nexusModName":"Zoo Mogul I","nexusUploadedBy":"BittenThrice","nexusModId":23552,"paks":[
 {"nexusFileName":"Zoo Mogul I","nexusFileVersion":"1.0.0.14","nexusFileUploadedAt":1782376682,"pakFileName":"ZooMogul1.pak","nexusFileId":124248,"metaUuid":null}
 ]},
@@ -66300,7 +66303,7 @@
 {"nexusFileName":"Umberlee's Earrings (Gold)","nexusFileVersion":"1.0","nexusFileUploadedAt":1783055916,"pakFileName":"Umberlee's Earrings (Gold).pak","nexusFileId":124756,"metaUuid":null}
 ]},
 "23685":{"nexusModName":"Blackwood's Red Mage","nexusUploadedBy":"EnixLHQ","nexusModId":23685,"paks":[
-{"nexusFileName":"Blackwood's Red Mage","nexusFileVersion":"2.2.4.14","nexusFileUploadedAt":1783244263,"pakFileName":"Red_Mage_Homebrew_6aec3ad4-990d-7667-a8e9-399d1bb6fc4b.pak","nexusFileId":124928,"metaUuid":null}
+{"nexusFileName":"Blackwood's Red Mage","nexusFileVersion":"2.2.4.15","nexusFileUploadedAt":1783290496,"pakFileName":"Red_Mage_Homebrew_6aec3ad4-990d-7667-a8e9-399d1bb6fc4b.pak","nexusFileId":124990,"metaUuid":null}
 ]},
 "23686":{"nexusModName":"Improved Equip Menu","nexusUploadedBy":"sowww","nexusModId":23686,"paks":[
 {"nexusFileName":"Improved Equip Menu","nexusFileVersion":"1.1.0","nexusFileUploadedAt":1783264510,"pakFileName":"ImprovedEquipMenu.pak","nexusFileId":124956,"metaUuid":"c953c1b3-cf57-4688-9950-9fc6fdc23415"}
@@ -66347,7 +66350,7 @@
 "23708":{"nexusModName":"Custom Weapons","nexusUploadedBy":"AtlasAlpin","nexusModId":23708,"paks":[
 {"nexusFileName":"Custom Weapons","nexusFileVersion":"1.4.1","nexusFileUploadedAt":1783284220,"pakFileName":"Weapons_20039141-28ec-89fe-096c-b33e50e03cf3.pak","nexusFileId":124984,"metaUuid":null}
 ]},
-"23709":{"nexusModName":"Wish (PT-BR)","nexusUploadedBy":"Firetoga","nexusModId":23709,"paks":[
+"23709":{"nexusModName":"Wish Spell (PT-BR)","nexusUploadedBy":"Firetoga","nexusModId":23709,"paks":[
 {"nexusFileName":"Wish (PT-BR)","nexusFileVersion":"1.00.03","nexusFileUploadedAt":1783206377,"pakFileName":"Wish_BR.pak","nexusFileId":124901,"metaUuid":null}
 ]},
 "23710":{"nexusModName":"Oathkeeper And Shadowsoul","nexusUploadedBy":"SultryShea","nexusModId":23710,"paks":[
