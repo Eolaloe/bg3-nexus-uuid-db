@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-07-05T14:52:03.379922+00:00","total_mods":16772},
+{"_meta":{"last_run":"2026-07-05T15:52:03.952195+00:00","total_mods":16773},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -65028,7 +65028,7 @@
 ]},
 "23139":{"nexusModName":"SoloLeveling - Shadow Monarch MCM","nexusUploadedBy":"iNoah","nexusModId":23139,"paks":[
 {"nexusFileName":"SoloLeveling Shadow Exchange Patch","nexusFileVersion":"1","nexusFileUploadedAt":1782512591,"pakFileName":"SoloLeveling_Shadow_Exchange_Patch.pak","nexusFileId":124347,"metaUuid":null},
-{"nexusFileName":"SoloLeveling -  MCM","nexusFileVersion":"2.90","nexusFileUploadedAt":1783191031,"pakFileName":"SoloLeveling_b9c1d5f0-c0b6-8a01-00dc-14bbf18057a0.pak","nexusFileId":124889,"metaUuid":"b9c1d5f0-c0b6-8a01-00dc-14bbf18057a0"},
+{"nexusFileName":"SoloLeveling -  MCM","nexusFileVersion":"2.85","nexusFileUploadedAt":1782651706,"pakFileName":"SoloLeveling_b9c1d5f0-c0b6-8a01-00dc-14bbf18057a0.pak","nexusFileId":124476,"metaUuid":"b9c1d5f0-c0b6-8a01-00dc-14bbf18057a0"},
 {"nexusFileName":"SoloLeveling SoloLeveling Hireling And Companion","nexusFileVersion":"2.90","nexusFileUploadedAt":1783191122,"pakFileName":"SoloLeveling_SoloLeveling_Companion_And_Hireling.pak","nexusFileId":124890,"metaUuid":null}
 ]},
 "23140":{"nexusModName":"Spell Mods Data","nexusUploadedBy":"Nzx","nexusModId":23140,"paks":[
@@ -66147,6 +66147,9 @@
 "23609":{"nexusModName":"God's Favourite Princess - Shadowheart's Quest Name Replacer","nexusUploadedBy":"koboldJuno","nexusModId":23609,"paks":[
 {"nexusFileName":"God's Favourite Princess","nexusFileVersion":"1.0","nexusFileUploadedAt":1782655051,"pakFileName":"GodsFavouritePrincess.pak","nexusFileId":124478,"metaUuid":null}
 ]},
+"23610":{"nexusModName":"Embrace Shart - Hug Shadowheart in Act 2","nexusUploadedBy":"HyperspaceTowel","nexusModId":23610,"paks":[
+{"nexusFileName":"HT_EmbraceShart","nexusFileVersion":"1.0.0.21","nexusFileUploadedAt":1783265234,"pakFileName":"HT_HugYourShart_47e3d0dc-fcd1-862a-50a4-0e64ec5a4bf6.pak","nexusFileId":124958,"metaUuid":null}
+]},
 "23611":{"nexusModName":"Legendary Armors for Durge and Tav","nexusUploadedBy":"romanxocs","nexusModId":23611,"paks":[
 {"nexusFileName":"Tav's Arcanist Armor","nexusFileVersion":"1","nexusFileUploadedAt":1782660281,"pakFileName":"R_TavArmor.pak","nexusFileId":124480,"metaUuid":null},
 {"nexusFileName":"Durge's Vengeance Armor","nexusFileVersion":"1","nexusFileUploadedAt":1782660313,"pakFileName":"R_DurgeArmor.pak","nexusFileId":124481,"metaUuid":null},
@@ -66297,7 +66300,7 @@
 {"nexusFileName":"Blackwood's Red Mage","nexusFileVersion":"2.2.4.14","nexusFileUploadedAt":1783244263,"pakFileName":"Red_Mage_Homebrew_6aec3ad4-990d-7667-a8e9-399d1bb6fc4b.pak","nexusFileId":124928,"metaUuid":null}
 ]},
 "23686":{"nexusModName":"Improved Equip Menu","nexusUploadedBy":"sowww","nexusModId":23686,"paks":[
-{"nexusFileName":"Improved Equip Menu","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1783071773,"pakFileName":"ImprovedEquipMenu.pak","nexusFileId":124767,"metaUuid":"c953c1b3-cf57-4688-9950-9fc6fdc23415"}
+{"nexusFileName":"Improved Equip Menu","nexusFileVersion":"1.1.0","nexusFileUploadedAt":1783264510,"pakFileName":"ImprovedEquipMenu.pak","nexusFileId":124956,"metaUuid":"c953c1b3-cf57-4688-9950-9fc6fdc23415"}
 ]},
 "23687":{"nexusModName":"Cosmic sorcery FR","nexusUploadedBy":"Ellydril","nexusModId":23687,"paks":[
 {"nexusFileName":"Cosmic Sorcery Fr","nexusFileVersion":"1","nexusFileUploadedAt":1783069596,"pakFileName":"Cosmic-Sorcery-FR_97f75f95-8977-c17b-38b9-8da5a5df30f5.pak","nexusFileId":124763,"metaUuid":null}
@@ -66373,4 +66376,7 @@
 ]},
 "23722":{"nexusModName":"Aylin and Isobel Join the Party for Japanese","nexusUploadedBy":"Eolaloe","nexusModId":23722,"paks":[
 {"nexusFileName":"Aylin and Isobel Join the Party for Japanese","nexusFileVersion":"1.0.1.5","nexusFileUploadedAt":1783258155,"pakFileName":"WW_AylinIsobelJoinParty_jp.pak","nexusFileId":124951,"metaUuid":null}
+]},
+"23724":{"nexusModName":"Zi'ra Head and Hair (BT1 Gith)","nexusUploadedBy":"tepkunset","nexusModId":23724,"paks":[
+{"nexusFileName":"Zi'ra Head Hair","nexusFileVersion":"1","nexusFileUploadedAt":1783265148,"pakFileName":"ZiraHeadHair.pak","nexusFileId":124957,"metaUuid":null}
 ]}}
