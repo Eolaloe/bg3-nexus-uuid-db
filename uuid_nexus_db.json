@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-07-06T21:53:15.706921+00:00","total_mods":16794},
+{"_meta":{"last_run":"2026-07-06T22:53:05.127397+00:00","total_mods":16796},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -35988,7 +35988,7 @@
 ]},
 "12727":{"nexusModName":"DnD 5.5e All-in-One BEYOND","nexusUploadedBy":"yoonmoonsik43","nexusModId":12727,"paks":[
 {"nexusFileName":"dnd2024 - V3 Legacy","nexusFileVersion":"3.4.6.4","nexusFileUploadedAt":1771945305,"pakFileName":"DnD2024_897914ef-5c96-053c-44af-0be823f895fe.pak","nexusFileId":115523,"metaUuid":"897914ef-5c96-053c-44af-0be823f895fe"},
-{"nexusFileName":"DnD 5.5e All-in-One BEYOND","nexusFileVersion":"4.8.3.1","nexusFileUploadedAt":1783373240,"pakFileName":"DnD2024_897914ef-5c96-053c-44af-0be823f895fe.pak","nexusFileId":125131,"metaUuid":"897914ef-5c96-053c-44af-0be823f895fe"}
+{"nexusFileName":"DnD 5.5e All-in-One BEYOND","nexusFileVersion":"4.8.4.0","nexusFileUploadedAt":1783377333,"pakFileName":"DnD2024_897914ef-5c96-053c-44af-0be823f895fe.pak","nexusFileId":125137,"metaUuid":"897914ef-5c96-053c-44af-0be823f895fe"}
 ]},
 "12728":{"nexusModName":"Origin-Themed Headwear KR","nexusUploadedBy":"Soorawang","nexusModId":12728,"paks":[
 {"nexusFileName":"Origin-Themed Headwear KR","nexusFileVersion":"1.0","nexusFileUploadedAt":1727930331,"pakFileName":"OriginHeadwear_kr.pak","nexusFileId":73692,"metaUuid":null}
@@ -63338,7 +63338,7 @@
 {"nexusFileName":"Fatebond","nexusFileVersion":"1.3.1","nexusFileUploadedAt":1783208148,"pakFileName":"Fatebond.pak","nexusFileId":124903,"metaUuid":"6cfead1f-d54c-4dfb-bc94-05e9fc1e2970"}
 ]},
 "22459":{"nexusModName":"DnD 5.5e All-in-One BEYOND Russian Localization","nexusUploadedBy":"XapcT","nexusModId":22459,"paks":[
-{"nexusFileName":"DnD 5.5e AIO Russian v0.3.90.zip","nexusFileVersion":"0.3.90","nexusFileUploadedAt":1783373530,"pakFileName":"DnD 5.5e AIO Russian.pak","nexusFileId":125132,"metaUuid":null}
+{"nexusFileName":"DnD 5.5e AIO Russian v0.3.91.zip","nexusFileVersion":"0.3.91","nexusFileUploadedAt":1783378049,"pakFileName":"DnD 5.5e AIO Russian.pak","nexusFileId":125138,"metaUuid":null}
 ]},
 "22460":{"nexusModName":"Elementally Based Gear","nexusUploadedBy":"Useyourrifle","nexusModId":22460,"paks":[
 {"nexusFileName":"Elemental_Gear.7z","nexusFileVersion":"1","nexusFileUploadedAt":1776346340,"pakFileName":"OP_Bow_56032304-f037-e077-f5e7-045d2e03ef1c.pak","nexusFileId":119147,"metaUuid":"56032304-f037-e077-f5e7-045d2e03ef1c"}
@@ -66458,4 +66458,11 @@
 ]},
 "23749":{"nexusModName":"Aylin redesign - Daughter of the moon","nexusUploadedBy":"Nuage12","nexusModId":23749,"paks":[
 {"nexusFileName":"Aylin redesign","nexusFileVersion":"1","nexusFileUploadedAt":1783371916,"pakFileName":"nights_b6b97505-911d-3eef-c751-15a38a410662.pak","nexusFileId":125129,"metaUuid":null}
+]},
+"23750":{"nexusModName":"Oria's Realm - Estel","nexusUploadedBy":"HadesOria","nexusModId":23750,"paks":[
+{"nexusFileName":"Estel_Head_HalfElf_BT2","nexusFileVersion":"1","nexusFileUploadedAt":1783375435,"pakFileName":"EstelHeadvFinal2_2e17197d-d939-d95a-ad17-efe27b1cbb67.pak","nexusFileId":125134,"metaUuid":null}
+]},
+"23751":{"nexusModName":"Shirts - Lots Of Shirts","nexusUploadedBy":"BerrySemifreddo","nexusModId":23751,"paks":[
+{"nexusFileName":"Shirts, Lots Of Shirts - StandardBTs","nexusFileVersion":"1.0.0.27","nexusFileUploadedAt":1783376526,"pakFileName":"ShirtsLotsOfShirts_52809d6a-2f2f-79d9-843e-4aad7396eac0.pak","nexusFileId":125135,"metaUuid":null},
+{"nexusFileName":"Shirts, Lots Of Shirts - Unique BTs","nexusFileVersion":"1.0.0.1","nexusFileUploadedAt":1783376674,"pakFileName":"ShirtsLotsOfShirts_UniqueBTs_f544dd87-4f27-596d-8bd0-1e63f3f281f7.pak","nexusFileId":125136,"metaUuid":null}
 ]}}
