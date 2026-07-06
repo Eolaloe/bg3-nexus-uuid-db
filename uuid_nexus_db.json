@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-07-06T02:52:09.721523+00:00","total_mods":16783},
+{"_meta":{"last_run":"2026-07-06T03:52:09.309590+00:00","total_mods":16783},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -31882,7 +31882,10 @@
 {"nexusFileName":"Shade-KR","nexusFileVersion":"1.0","nexusFileUploadedAt":1721561870,"pakFileName":"Shade-KR.pak","nexusFileId":64702,"metaUuid":null}
 ]},
 "11117":{"nexusModName":"Wayward Faces","nexusUploadedBy":"Volno","nexusModId":11117,"paks":[
-{"nexusFileName":"Wayward Faces","nexusFileVersion":"1","nexusFileUploadedAt":1721564425,"pakFileName":"Wayward Faces.pak","nexusFileId":64706,"metaUuid":"46fea6bd-886c-428e-b299-42818dce317e"}
+{"nexusFileName":"Wayward Faces","nexusFileVersion":"1","nexusFileUploadedAt":1721564425,"pakFileName":"Wayward Faces.pak","nexusFileId":64706,"metaUuid":"46fea6bd-886c-428e-b299-42818dce317e"},
+{"nexusFileName":"Wayward Faces - UT","nexusFileVersion":"1","nexusFileUploadedAt":1721564661,"pakFileName":"Wayward Faces.pak","nexusFileId":64707,"metaUuid":"46fea6bd-886c-428e-b299-42818dce317e"},
+{"nexusFileName":"Wayward Faces - EOTB","nexusFileVersion":"1","nexusFileUploadedAt":1721564850,"pakFileName":"Wayward Faces.pak","nexusFileId":64708,"metaUuid":"46fea6bd-886c-428e-b299-42818dce317e"},
+{"nexusFileName":"Wayward Faces - UT and EOTB","nexusFileVersion":"1","nexusFileUploadedAt":1721564997,"pakFileName":"Wayward Faces.pak","nexusFileId":64709,"metaUuid":"46fea6bd-886c-428e-b299-42818dce317e"}
 ]},
 "11126":{"nexusModName":"Spells Revised - CHS","nexusUploadedBy":"hanli","nexusModId":11126,"paks":[
 {"nexusFileName":"Revised Footwear-CHS","nexusFileVersion":"1","nexusFileUploadedAt":1726580080,"pakFileName":"Revised Footwear-CHS.pak","nexusFileId":71559,"metaUuid":null},
@@ -35975,7 +35978,7 @@
 ]},
 "12727":{"nexusModName":"DnD 5.5e All-in-One BEYOND","nexusUploadedBy":"yoonmoonsik43","nexusModId":12727,"paks":[
 {"nexusFileName":"dnd2024 - V3 Legacy","nexusFileVersion":"3.4.6.4","nexusFileUploadedAt":1771945305,"pakFileName":"DnD2024_897914ef-5c96-053c-44af-0be823f895fe.pak","nexusFileId":115523,"metaUuid":"897914ef-5c96-053c-44af-0be823f895fe"},
-{"nexusFileName":"DnD 5.5e All-in-One BEYOND","nexusFileVersion":"4.7.24.2","nexusFileUploadedAt":1783294211,"pakFileName":"DnD2024_897914ef-5c96-053c-44af-0be823f895fe.pak","nexusFileId":124998,"metaUuid":"897914ef-5c96-053c-44af-0be823f895fe"}
+{"nexusFileName":"DnD 5.5e All-in-One BEYOND","nexusFileVersion":"4.8.0.0","nexusFileUploadedAt":1783307274,"pakFileName":"DnD2024_897914ef-5c96-053c-44af-0be823f895fe.pak","nexusFileId":125012,"metaUuid":"897914ef-5c96-053c-44af-0be823f895fe"}
 ]},
 "12728":{"nexusModName":"Origin-Themed Headwear KR","nexusUploadedBy":"Soorawang","nexusModId":12728,"paks":[
 {"nexusFileName":"Origin-Themed Headwear KR","nexusFileVersion":"1.0","nexusFileUploadedAt":1727930331,"pakFileName":"OriginHeadwear_kr.pak","nexusFileId":73692,"metaUuid":null}
@@ -66287,7 +66290,7 @@
 {"nexusFileName":"Mellow Harmony for sword bard.","nexusFileVersion":"1.0","nexusFileUploadedAt":1783018345,"pakFileName":"SwordBardMellowHarmony_8d38d234-9f3d-b237-2f38-986f30f2f6dd.pak","nexusFileId":124731,"metaUuid":null}
 ]},
 "23675":{"nexusModName":"Mazzle's MF Radio","nexusUploadedBy":"Mazzle23","nexusModId":23675,"paks":[
-{"nexusFileName":"MF Radio 1.5.0","nexusFileVersion":"1.5.0","nexusFileUploadedAt":1783292970,"pakFileName":"MF_Radio.pak","nexusFileId":124993,"metaUuid":"d9e9fd0b-6a72-4cd2-bdc9-a9cb1dd3efc2"}
+{"nexusFileName":"MF Radio 1.5.0","nexusFileVersion":"1.5.1","nexusFileUploadedAt":1783306639,"pakFileName":"MF_Radio.pak","nexusFileId":125011,"metaUuid":"d9e9fd0b-6a72-4cd2-bdc9-a9cb1dd3efc2"}
 ]},
 "23680":{"nexusModName":"Starting Equipment Selection","nexusUploadedBy":"NecroticFlame","nexusModId":23680,"paks":[
 {"nexusFileName":"Main","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1783055637,"pakFileName":"ECC_a1e921ae-8aa2-655c-c399-cfd97ed46f4c.pak","nexusFileId":124754,"metaUuid":"a1e921ae-8aa2-655c-c399-cfd97ed46f4c"},
