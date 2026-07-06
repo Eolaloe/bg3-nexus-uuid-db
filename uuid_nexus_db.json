@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-07-06T13:53:05.629911+00:00","total_mods":16785},
+{"_meta":{"last_run":"2026-07-06T14:52:53.402078+00:00","total_mods":16787},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -35984,7 +35984,7 @@
 ]},
 "12727":{"nexusModName":"DnD 5.5e All-in-One BEYOND","nexusUploadedBy":"yoonmoonsik43","nexusModId":12727,"paks":[
 {"nexusFileName":"dnd2024 - V3 Legacy","nexusFileVersion":"3.4.6.4","nexusFileUploadedAt":1771945305,"pakFileName":"DnD2024_897914ef-5c96-053c-44af-0be823f895fe.pak","nexusFileId":115523,"metaUuid":"897914ef-5c96-053c-44af-0be823f895fe"},
-{"nexusFileName":"DnD 5.5e All-in-One BEYOND","nexusFileVersion":"4.8.0.1","nexusFileUploadedAt":1783310410,"pakFileName":"DnD2024_897914ef-5c96-053c-44af-0be823f895fe.pak","nexusFileId":125014,"metaUuid":"897914ef-5c96-053c-44af-0be823f895fe"}
+{"nexusFileName":"DnD 5.5e All-in-One BEYOND","nexusFileVersion":"4.8.1.0","nexusFileUploadedAt":1783346045,"pakFileName":"DnD2024_897914ef-5c96-053c-44af-0be823f895fe.pak","nexusFileId":125051,"metaUuid":"897914ef-5c96-053c-44af-0be823f895fe"}
 ]},
 "12728":{"nexusModName":"Origin-Themed Headwear KR","nexusUploadedBy":"Soorawang","nexusModId":12728,"paks":[
 {"nexusFileName":"Origin-Themed Headwear KR","nexusFileVersion":"1.0","nexusFileUploadedAt":1727930331,"pakFileName":"OriginHeadwear_kr.pak","nexusFileId":73692,"metaUuid":null}
@@ -56430,7 +56430,7 @@
 {"nexusFileName":"Goon's Condition and Surface Overhaul for Korean","nexusFileVersion":"1.0.7.4","nexusFileUploadedAt":1781159226,"pakFileName":"Goon's Condition & Surface Overhaul_kr.pak","nexusFileId":123310,"metaUuid":"6cf39c2f-71ba-4eac-817e-5949bf26b983"}
 ]},
 "20040":{"nexusModName":"Goon's Library - Passives Functions Spells and More for Korean","nexusUploadedBy":"Eolaloe","nexusModId":20040,"paks":[
-{"nexusFileName":"Goon's Library - Passives Functions for Korean","nexusFileVersion":"4.8.0.0","nexusFileUploadedAt":1782634773,"pakFileName":"Goon's Library_kr.pak","nexusFileId":124450,"metaUuid":"2a47e169-12b2-46b6-a8c8-ff2c3961fe57"}
+{"nexusFileName":"Goon's Library - Passives Functions for Korean","nexusFileVersion":"4.9.0.0","nexusFileUploadedAt":1783348730,"pakFileName":"Goon's Library_kr.pak","nexusFileId":125052,"metaUuid":"2a47e169-12b2-46b6-a8c8-ff2c3961fe57"}
 ]},
 "20041":{"nexusModName":"Combat Ready","nexusUploadedBy":"Surferion","nexusModId":20041,"paks":[
 {"nexusFileName":"Combat Ready","nexusFileVersion":"1.0.0.12","nexusFileUploadedAt":1765881513,"pakFileName":"Combat Ready.pak","nexusFileId":109709,"metaUuid":null},
@@ -58197,7 +58197,7 @@
 {"nexusFileName":"5e Magic Items CH Localization","nexusFileVersion":"1.5.0.7","nexusFileUploadedAt":1768206147,"pakFileName":"_5eMagicItems_CH_Loc.pak","nexusFileId":111994,"metaUuid":null}
 ]},
 "20655":{"nexusModName":"Goon's Library - Passives Functions Spells and More for Japanese","nexusUploadedBy":"Eolaloe","nexusModId":20655,"paks":[
-{"nexusFileName":"Goon's Library - Passives Functions for Japanese","nexusFileVersion":"4.8.0.0","nexusFileUploadedAt":1782634800,"pakFileName":"Goon's Library_jp.pak","nexusFileId":124451,"metaUuid":null}
+{"nexusFileName":"Goon's Library - Passives Functions for Japanese","nexusFileVersion":"4.9.0.0","nexusFileUploadedAt":1783348760,"pakFileName":"Goon's Library_jp.pak","nexusFileId":125053,"metaUuid":null}
 ]},
 "20656":{"nexusModName":"Goon's Paladin Overhaul for Japanese","nexusUploadedBy":"Eolaloe","nexusModId":20656,"paks":[
 {"nexusFileName":"Goon's Paladin Overhaul for Japanese","nexusFileVersion":"1.1.0.0","nexusFileUploadedAt":1781160367,"pakFileName":"Goon's Paladin Overhaul_jp.pak","nexusFileId":123313,"metaUuid":null}
@@ -66417,8 +66417,18 @@
 "23734":{"nexusModName":"Infernal Armor Pack rus localization","nexusUploadedBy":"ivann339","nexusModId":23734,"paks":[
 {"nexusFileName":"Infernal Armor Standart   Crashfix CN EN (Rus Loc)","nexusFileVersion":"1","nexusFileUploadedAt":1783329415,"pakFileName":"Infernal Armor Standart - Crashfix CN EN (rus loc).pak","nexusFileId":125025,"metaUuid":null}
 ]},
+"23735":{"nexusModName":"Companion Earring Framework","nexusUploadedBy":"magnetuning","nexusModId":23735,"paks":[
+{"nexusFileName":"Companion Earrings Framework","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1783336868,"pakFileName":"MGNTN_CompanionEarringsFramework.pak","nexusFileId":125039,"metaUuid":null},
+{"nexusFileName":"Laezel's L'ooking Sharp Piercing Set - Mod Only","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1783337259,"pakFileName":"MGNTN_LaezelsLookingSharpPiercingSet.pak","nexusFileId":125041,"metaUuid":null},
+{"nexusFileName":"Laezel's L'ooking Sharp Piercing Set - Uninstaller","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1783337370,"pakFileName":"MGNTN_LaezelsLookingSharpPiercingSet_Uninstaller.pak","nexusFileId":125042,"metaUuid":null},
+{"nexusFileName":"Companion Earring Framework - Modder's Resources","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1783345875,"pakFileName":"MGNTN_LaezelsLookingSharpPiercingSet.pak","nexusFileId":125050,"metaUuid":null},
+{"nexusFileName":"Companion Earring Framework - Modder's Resources","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1783345875,"pakFileName":"MGNTN_LaezelsLookingSharpPiercingSet_Uninstaller.pak","nexusFileId":125050,"metaUuid":null}
+]},
 "23736":{"nexusModName":"Containers loot edit underwears","nexusUploadedBy":"lepoivronjaune","nexusModId":23736,"paks":[
 {"nexusFileName":"Containers Loot Edit Underwears Act 1","nexusFileVersion":"1","nexusFileUploadedAt":1783333569,"pakFileName":"Containers_Loot_Edit_5377b23c-fff1-8ddb-1491-072aa81d28fe.pak","nexusFileId":125029,"metaUuid":null}
+]},
+"23739":{"nexusModName":"Jaheira Helix Earring Fix - Companion Earring Framework","nexusUploadedBy":"magnetuning","nexusModId":23739,"paks":[
+{"nexusFileName":"Jaheira Helix Earring Fix","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1783343188,"pakFileName":"MGNTN_JaheiraEarringFix_CompanionEarringFramework.pak","nexusFileId":125047,"metaUuid":null}
 ]},
 "23740":{"nexusModName":"Ancient Scarab Amulet","nexusUploadedBy":"weavebitch","nexusModId":23740,"paks":[
 {"nexusFileName":"Ancient Scarab Amulet","nexusFileVersion":"1","nexusFileUploadedAt":1783342942,"pakFileName":"ScarabAmulet_111aab2f-180a-4d25-856c-c59b0f39d6c4.pak","nexusFileId":125046,"metaUuid":null}
