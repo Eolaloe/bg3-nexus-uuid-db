@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-07-06T08:52:47.454473+00:00","total_mods":16782},
+{"_meta":{"last_run":"2026-07-06T09:52:53.634212+00:00","total_mods":16783},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -28393,9 +28393,15 @@
 {"nexusFileName":"Professor Gale","nexusFileVersion":"1.0","nexusFileUploadedAt":1716573911,"pakFileName":"ProfessorGale.pak","nexusFileId":58550,"metaUuid":null}
 ]},
 "9784":{"nexusModName":"Difficulty Immersion Quality Collection - Misc Files","nexusUploadedBy":"BaldursGoonsack","nexusModId":9784,"paks":[
+{"nexusFileName":"Remove_Toggle_Corpse_Requirements_ADPP","nexusFileVersion":"2.0","nexusFileUploadedAt":1731319132,"pakFileName":"Remove_Toggle_Corpse_Requirements_ADPP.pak","nexusFileId":78538,"metaUuid":null},
+{"nexusFileName":"Returning Weapon QoL - Goon Patch","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1754229822,"pakFileName":"Returning Weapon QOL - Goon Patch.pak","nexusFileId":99803,"metaUuid":null},
 {"nexusFileName":"Goon's Ranger Overhaul","nexusFileVersion":"0.5.1.0","nexusFileUploadedAt":1770445667,"pakFileName":"Goon's Ranger Overhaul.pak","nexusFileId":114300,"metaUuid":"46cccb24-5121-4bbc-8e2b-f1612463efdb"},
 {"nexusFileName":"DIQ Community CPF Presets","nexusFileVersion":"1.4.3.0","nexusFileUploadedAt":1770635262,"pakFileName":"DIQ Community CPF Presets.pak","nexusFileId":114462,"metaUuid":"b221c733-55aa-432c-ae6d-37198b348e6a"},
-{"nexusFileName":"Goon's Druid Overhaul","nexusFileVersion":"0.5.1.1","nexusFileUploadedAt":1777016129,"pakFileName":"Goon's Druid Overhaul.pak","nexusFileId":119780,"metaUuid":"c534d6d5-7c82-4154-bea8-d1c45f11b1bc"}
+{"nexusFileName":"DIQ Dialogue Patches","nexusFileVersion":"1.4.5.0","nexusFileUploadedAt":1774855695,"pakFileName":"DIQ Dialogue Patches.pak","nexusFileId":117784,"metaUuid":null},
+{"nexusFileName":"Goon's Druid Overhaul","nexusFileVersion":"0.5.1.1","nexusFileUploadedAt":1777016129,"pakFileName":"Goon's Druid Overhaul.pak","nexusFileId":119780,"metaUuid":"c534d6d5-7c82-4154-bea8-d1c45f11b1bc"},
+{"nexusFileName":"DIQ Misc Patches - Overrides","nexusFileVersion":"1.4.7.0","nexusFileUploadedAt":1778069760,"pakFileName":"DIQ Misc Patches - Overrides.pak","nexusFileId":120641,"metaUuid":null},
+{"nexusFileName":"DIQ Misc Patches","nexusFileVersion":"1.4.7.0","nexusFileUploadedAt":1778069779,"pakFileName":"DIQ Misc Patches.pak","nexusFileId":120642,"metaUuid":null},
+{"nexusFileName":"JWL Discordant Instruments++ Enhanced Revamped Ov-","nexusFileVersion":"1.6.0.0","nexusFileUploadedAt":1783329518,"pakFileName":"JWL Discordant Instruments.pak","nexusFileId":125026,"metaUuid":null}
 ]},
 "9786":{"nexusModName":"Half-Dragon-CHS","nexusUploadedBy":"Nefelibata426","nexusModId":9786,"paks":[
 {"nexusFileName":"HalfDragon-CHS","nexusFileVersion":"2.1.0.0","nexusFileUploadedAt":1716603680,"pakFileName":"HalfDragonCHS.pak","nexusFileId":58597,"metaUuid":null},
@@ -36284,7 +36290,7 @@
 {"nexusFileName":"TheTrueChampion_v1.2 - BR","nexusFileVersion":"1.0","nexusFileUploadedAt":1728187370,"pakFileName":"TheTrueChampion_v1.2 - BR.pak","nexusFileId":74189,"metaUuid":null}
 ]},
 "12834":{"nexusModName":"Goon's Library - Passives Functions Spells and More","nexusUploadedBy":"BaldursGoonsack","nexusModId":12834,"paks":[
-{"nexusFileName":"Goon's Library","nexusFileVersion":"4.8.0.0","nexusFileUploadedAt":1782578794,"pakFileName":"Goon's Library.pak","nexusFileId":124390,"metaUuid":"07fbc2f1-f359-4b9d-b243-fe28bd783e4c"}
+{"nexusFileName":"Goon's Library","nexusFileVersion":"4.9.0.0","nexusFileUploadedAt":1783329198,"pakFileName":"Goon's Library.pak","nexusFileId":125024,"metaUuid":"07fbc2f1-f359-4b9d-b243-fe28bd783e4c"}
 ]},
 "12835":{"nexusModName":"Fiendish Races (Succubus and Cambions)","nexusUploadedBy":"haytur","nexusModId":12835,"paks":[
 {"nexusFileName":"Fiendish Races","nexusFileVersion":"1.5","nexusFileUploadedAt":1754198767,"pakFileName":"CambionRace.pak","nexusFileId":99769,"metaUuid":"d3a48c4c-f446-a697-1982-5628a8ebb728"}
@@ -66407,4 +66413,7 @@
 ]},
 "23730":{"nexusModName":"Selune's Tears - Harper Geraldus as an Endgame Summon","nexusUploadedBy":"whatsontheflip","nexusModId":23730,"paks":[
 {"nexusFileName":"Selune's Tears - Summon Geraldus ","nexusFileVersion":"1.0.1.1","nexusFileUploadedAt":1783322746,"pakFileName":"Geraldus_Endgame_Ally_39bb02a5-a23f-e525-b9c6-c69e75544270.pak","nexusFileId":125019,"metaUuid":null}
+]},
+"23734":{"nexusModName":"Infernal Armor Pack rus localization","nexusUploadedBy":"ivann339","nexusModId":23734,"paks":[
+{"nexusFileName":"Infernal Armor Standart   Crashfix CN EN (Rus Loc)","nexusFileVersion":"1","nexusFileUploadedAt":1783329415,"pakFileName":"Infernal Armor Standart - Crashfix CN EN (rus loc).pak","nexusFileId":125025,"metaUuid":null}
 ]}}
