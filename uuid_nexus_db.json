@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-07-07T10:52:08.932143+00:00","total_mods":16802},
+{"_meta":{"last_run":"2026-07-07T11:52:19.871285+00:00","total_mods":16803},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -26845,7 +26845,7 @@
 {"nexusFileName":"Compatibility patch - Pact as Invocation","nexusFileVersion":"1.0","nexusFileUploadedAt":1716674606,"pakFileName":"Path of Undeath - Pact as Invocation.pak","nexusFileId":58724,"metaUuid":"270c1361-1e64-4a44-a07d-7742b8ebc8c0"},
 {"nexusFileName":"Help patch","nexusFileVersion":"1.0","nexusFileUploadedAt":1759239604,"pakFileName":"Path Of Undeath - Help.pak","nexusFileId":104010,"metaUuid":"1e7840d3-4994-4d16-8707-e0a6b12a9386"},
 {"nexusFileName":"Home Brew Patch","nexusFileVersion":"1.0","nexusFileUploadedAt":1774369475,"pakFileName":"Path of Undeath - Home Brew Patch.pak","nexusFileId":117360,"metaUuid":"ac30869a-b597-45ca-a163-71179d92ee1b"},
-{"nexusFileName":"Path of Undeath","nexusFileVersion":"2.0.5","nexusFileUploadedAt":1783208586,"pakFileName":"Path of Undeath.pak","nexusFileId":124906,"metaUuid":"fe04695e-d206-4a88-b3f9-b2a65855ac4c"}
+{"nexusFileName":"Path of Undeath","nexusFileVersion":"2.0.6","nexusFileUploadedAt":1783422110,"pakFileName":"Path of Undeath.pak","nexusFileId":125158,"metaUuid":"fe04695e-d206-4a88-b3f9-b2a65855ac4c"}
 ]},
 "9165":{"nexusModName":"Subtle Nature Eyes","nexusUploadedBy":"robogena","nexusModId":9165,"paks":[
 {"nexusFileName":"Subtle Nature Eyes","nexusFileVersion":"2.0","nexusFileUploadedAt":1725857123,"pakFileName":"robogena_SubtleNatureEyes.pak","nexusFileId":70050,"metaUuid":"1f11c512-5c14-4459-9379-4039773a6a91"}
@@ -59992,7 +59992,7 @@
 {"nexusFileName":"scionrogue","nexusFileVersion":"1.0.0.10","nexusFileUploadedAt":1770269758,"pakFileName":"ScionRogue_05326553-fc29-78d0-2e26-96d33b58ee5f.pak","nexusFileId":114159,"metaUuid":"05326553-fc29-78d0-2e26-96d33b58ee5f"}
 ]},
 "21304":{"nexusModName":"Bloodtrail - Path of Undeath Chapter 2","nexusUploadedBy":"Siaell","nexusModId":21304,"paks":[
-{"nexusFileName":"Path Of Undeath   Bloodtrail","nexusFileVersion":"1.6.2","nexusFileUploadedAt":1783208656,"pakFileName":"Path of Undeath - Bloodtrail.pak","nexusFileId":124907,"metaUuid":"57b41349-6574-4015-87dc-aea3fd1e4618"}
+{"nexusFileName":"Path Of Undeath   Bloodtrail","nexusFileVersion":"1.6.3","nexusFileUploadedAt":1783422003,"pakFileName":"Path of Undeath - Bloodtrail.pak","nexusFileId":125157,"metaUuid":"57b41349-6574-4015-87dc-aea3fd1e4618"}
 ]},
 "21308":{"nexusModName":"Goon's Companion Protection for Korean","nexusUploadedBy":"Eolaloe","nexusModId":21308,"paks":[
 {"nexusFileName":"Goon's Companion Protection for Korean","nexusFileVersion":"2.1.0.0","nexusFileUploadedAt":1781021231,"pakFileName":"Goons Companion Protection_kr.pak","nexusFileId":123241,"metaUuid":"2e4505a2-c2ab-427b-8cbc-4ceb01cd5720"}
@@ -61603,7 +61603,7 @@
 "21836":{"nexusModName":"Minthara Auto-Knockout","nexusUploadedBy":"whatsontheflip","nexusModId":21836,"paks":[
 {"nexusFileName":"Minthara Auto-KO - Full Auto-KO","nexusFileVersion":"1.0.1.7","nexusFileUploadedAt":1775520627,"pakFileName":"Minthara_Auto-KO_Full_Auto.pak","nexusFileId":118309,"metaUuid":"95e17e85-53a9-e747-68eb-26f0a0e222f2"},
 {"nexusFileName":"Minthara Auto-KO - Illithid Persuasion","nexusFileVersion":"1.0.0.7","nexusFileUploadedAt":1775520656,"pakFileName":"Minthara_Auto-KO_Illithid_Persuasion.pak","nexusFileId":118310,"metaUuid":"64f6124c-6cc8-c5ae-8be9-9d814219ea3c"},
-{"nexusFileName":"Minthara Auto-KO - Auto-KO - No Dialogue Changes","nexusFileVersion":"1.0.1.7","nexusFileUploadedAt":1775520708,"pakFileName":"Minthara_Auto-KO_Full_Auto-No_Dialogue_Changes.pak","nexusFileId":118311,"metaUuid":"95e17e85-53a9-e747-68eb-26f0a0e222f2"},
+{"nexusFileName":"Minthara Auto-KO - Full Auto - No Dialogue Changes","nexusFileVersion":"1.0.1.7","nexusFileUploadedAt":1775520708,"pakFileName":"Minthara_Auto-KO_Full_Auto-No_Dialogue_Changes.pak","nexusFileId":118311,"metaUuid":"95e17e85-53a9-e747-68eb-26f0a0e222f2"},
 {"nexusFileName":"Minthara Auto-KO - Combined Version","nexusFileVersion":"1.0.0.5","nexusFileUploadedAt":1776323743,"pakFileName":"Minthara_Auto-KO_Illithid_Persuasion_Full_Auto_Combined.pak","nexusFileId":119137,"metaUuid":"95e17e85-53a9-e747-68eb-26f0a0e222f2"},
 {"nexusFileName":"Minthara Auto-KO - Combined - No Dialogue Changes","nexusFileVersion":"1.0.0.5","nexusFileUploadedAt":1776323772,"pakFileName":"Minthara_Auto-KO_Combined_Version_No_Dialogue_Change.pak","nexusFileId":119138,"metaUuid":"84b48f06-0a6e-4884-aa28-8eb6ac3212c5"},
 {"nexusFileName":"Patch for Additional Grove Raid Dialogue Options","nexusFileVersion":"1.0.0.3","nexusFileUploadedAt":1776324023,"pakFileName":"Minthara_Auto-KO_Grove_Raid_Dialogue_Options_Patch.pak","nexusFileId":119139,"metaUuid":"c8ee1458-a9e8-3e74-d19b-0a68080f0e27"}
@@ -63338,7 +63338,7 @@
 {"nexusFileName":"Fatebond","nexusFileVersion":"1.3.1","nexusFileUploadedAt":1783208148,"pakFileName":"Fatebond.pak","nexusFileId":124903,"metaUuid":"6cfead1f-d54c-4dfb-bc94-05e9fc1e2970"}
 ]},
 "22459":{"nexusModName":"DnD 5.5e All-in-One BEYOND Russian Localization","nexusUploadedBy":"XapcT","nexusModId":22459,"paks":[
-{"nexusFileName":"DnD 5.5e AIO Russian v0.3.91.zip","nexusFileVersion":"0.3.91","nexusFileUploadedAt":1783378049,"pakFileName":"DnD 5.5e AIO Russian.pak","nexusFileId":125138,"metaUuid":null}
+{"nexusFileName":"DnD 5.5e AIO Russian v0.3.92.zip","nexusFileVersion":"0.3.92","nexusFileUploadedAt":1783424853,"pakFileName":"DnD 5.5e AIO Russian.pak","nexusFileId":125160,"metaUuid":null}
 ]},
 "22460":{"nexusModName":"Elementally Based Gear","nexusUploadedBy":"Useyourrifle","nexusModId":22460,"paks":[
 {"nexusFileName":"Elemental_Gear.7z","nexusFileVersion":"1","nexusFileUploadedAt":1776346340,"pakFileName":"OP_Bow_56032304-f037-e077-f5e7-045d2e03ef1c.pak","nexusFileId":119147,"metaUuid":"56032304-f037-e077-f5e7-045d2e03ef1c"}
@@ -66485,4 +66485,7 @@
 ]},
 "23761":{"nexusModName":"Sweet Little Hair Pack","nexusUploadedBy":"SweetGenerousThing","nexusModId":23761,"paks":[
 {"nexusFileName":"SweetLittleHairPack","nexusFileVersion":"1","nexusFileUploadedAt":1783418121,"pakFileName":"SweetLittleHairPack.pak","nexusFileId":125155,"metaUuid":null}
+]},
+"23763":{"nexusModName":"Sparkstring","nexusUploadedBy":"ForKiramay","nexusModId":23763,"paks":[
+{"nexusFileName":"Sparkstring","nexusFileVersion":"1.0.0.4","nexusFileUploadedAt":1783422579,"pakFileName":"LightningCrossbow_75ba8d2f-e9b4-8f3d-0ddb-d9174b10afd1.pak","nexusFileId":125159,"metaUuid":null}
 ]}}
