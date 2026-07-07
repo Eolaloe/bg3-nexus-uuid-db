@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-07-07T22:51:59.605294+00:00","total_mods":16806},
+{"_meta":{"last_run":"2026-07-07T23:51:59.661302+00:00","total_mods":16808},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -55038,7 +55038,7 @@
 {"nexusFileName":"Sword of Athal' Kir the Wind Walker","nexusFileVersion":"1.1.0.2","nexusFileUploadedAt":1765312279,"pakFileName":"WindWalker_Weapon_Orhyne_738a6d69-0d4f-4d5b-1447-4d85c290c0e7.pak","nexusFileId":109294,"metaUuid":null}
 ]},
 "19770":{"nexusModName":"Night Orchid's Grace - Shadowheart Exclusive Buff","nexusUploadedBy":"koboldJuno","nexusModId":19770,"paks":[
-{"nexusFileName":"Night Orchid's Grace - Main","nexusFileVersion":"1.1","nexusFileUploadedAt":1776691268,"pakFileName":"NightOrchidGrace.pak","nexusFileId":119520,"metaUuid":null},
+{"nexusFileName":"Night Orchid's Grace - Main","nexusFileVersion":"1.1","nexusFileUploadedAt":1776691268,"pakFileName":"NightOrchidGrace.pak","nexusFileId":119520,"metaUuid":"850739a2-1ead-bd21-9f83-3144bba5a809"},
 {"nexusFileName":"Night Orchid's Grace - Permanent","nexusFileVersion":"1.1","nexusFileUploadedAt":1776691375,"pakFileName":"NightOrchidGrace.pak","nexusFileId":119521,"metaUuid":"850739a2-1ead-bd21-9f83-3144bba5a809"}
 ]},
 "19771":{"nexusModName":"ReallyLazyIcarus's Ring of Graz'zt for Korean","nexusUploadedBy":"Eolaloe","nexusModId":19771,"paks":[
@@ -66498,4 +66498,10 @@
 ]},
 "23766":{"nexusModName":"Chained Vampire for BT1","nexusUploadedBy":"Ayuro","nexusModId":23766,"paks":[
 {"nexusFileName":"AYU_Chained_Vampire","nexusFileVersion":"1","nexusFileUploadedAt":1783453182,"pakFileName":"AYU_VAMPIR_ChainedVampire_927e457b-6b89-4e5e-b054-bba3608bb589.pak","nexusFileId":125185,"metaUuid":null}
+]},
+"23770":{"nexusModName":"Emotional Narrator - Male (Frosty Resolve) - Japanese","nexusUploadedBy":"ToxicDrake","nexusModId":23770,"paks":[
+{"nexusFileName":"EMO YouN Male Japanese","nexusFileVersion":"1","nexusFileUploadedAt":1783464216,"pakFileName":"EMO_YouN_Male_Japanese.pak","nexusFileId":125193,"metaUuid":null}
+]},
+"23772":{"nexusModName":"Difficulty Adjustment","nexusUploadedBy":"BaiYanYueQWQ","nexusModId":23772,"paks":[
+{"nexusFileName":"DifficultyAdjustment","nexusFileVersion":"1","nexusFileUploadedAt":1783465342,"pakFileName":"DifficultyAdjustment.pak","nexusFileId":125196,"metaUuid":null}
 ]}}
