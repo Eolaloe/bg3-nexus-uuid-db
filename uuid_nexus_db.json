@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-07-08T14:51:45.585449+00:00","total_mods":16813},
+{"_meta":{"last_run":"2026-07-08T15:51:42.047996+00:00","total_mods":16814},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -39396,9 +39396,7 @@
 {"nexusFileName":"PhalarAluveLegendary-CHS","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1732367200,"pakFileName":"PhalarAluveLegendary-CHS.pak","nexusFileId":79777,"metaUuid":null}
 ]},
 "13958":{"nexusModName":"Tales of the Forgotten Resources","nexusUploadedBy":"XirlioMerazul","nexusModId":13958,"paks":[
-{"nexusFileName":"ToTF HardcoreXP Leveling Curve","nexusFileVersion":"1","nexusFileUploadedAt":1732377627,"pakFileName":"ToTF HardcoreXP.pak","nexusFileId":79787,"metaUuid":null},
-{"nexusFileName":"ToTF HardcoreXP Easier Leveling Curve","nexusFileVersion":"2","nexusFileUploadedAt":1733650659,"pakFileName":"ToTF EasierHardcoreXP.pak","nexusFileId":81336,"metaUuid":null},
-{"nexusFileName":"ToTF OfficialHardcoreXP Leveling Curve","nexusFileVersion":"v7","nexusFileUploadedAt":1734988777,"pakFileName":"ToTF OfficialHardcoreXP.pak","nexusFileId":82602,"metaUuid":null}
+{"nexusFileName":"ToTF Shadowheart","nexusFileVersion":"1","nexusFileUploadedAt":1783523004,"pakFileName":"ToTF Shadowheart.pak","nexusFileId":125225,"metaUuid":null}
 ]},
 "13959":{"nexusModName":"5e Fey Wanderer - Ranger Subclass (Deprecated)","nexusUploadedBy":"sumradagnoth8","nexusModId":13959,"paks":[
 {"nexusFileName":"FeyWanderer5e.zip","nexusFileVersion":"1.9.0.2","nexusFileUploadedAt":1732577357,"pakFileName":"FeyWanderer5e.pak","nexusFileId":80117,"metaUuid":null},
@@ -43311,7 +43309,8 @@
 {"nexusFileName":"Gifts of the Absolute - Branded Equipment 1.0.0.7","nexusFileVersion":"1.0.0.7","nexusFileUploadedAt":1750214947,"pakFileName":"GotA_Equipment_a7230f48-7bce-a20f-15e1-a7119ed62329.pak","nexusFileId":96136,"metaUuid":null}
 ]},
 "15489":{"nexusModName":"ToTF Nautiloid Overhaul - A Nautiloid in Actual Hell","nexusUploadedBy":"XirlioMerazul","nexusModId":15489,"paks":[
-{"nexusFileName":"ToTF Nautiloid Overhaul","nexusFileVersion":"1.0.1.117","nexusFileUploadedAt":1781798320,"pakFileName":"ToTF_Nautiloid_1cb464f1-6c79-9311-c191-33c3199beabf.pak","nexusFileId":123835,"metaUuid":"1cb464f1-6c79-9311-c191-33c3199beabf"}
+{"nexusFileName":"ToTF Nautiloid Overhaul","nexusFileVersion":"1.0.1.117","nexusFileUploadedAt":1781798320,"pakFileName":"ToTF_Nautiloid_1cb464f1-6c79-9311-c191-33c3199beabf.pak","nexusFileId":123835,"metaUuid":"1cb464f1-6c79-9311-c191-33c3199beabf"},
+{"nexusFileName":"ToTF Nautiloid Overhaul TEST","nexusFileVersion":"1.0.1.119","nexusFileUploadedAt":1783522301,"pakFileName":"ToTF_Nautiloid_1cb464f1-6c79-9311-c191-33c3199beabf.pak","nexusFileId":125224,"metaUuid":"1cb464f1-6c79-9311-c191-33c3199beabf"}
 ]},
 "15490":{"nexusModName":"Goon's Spell Overhaul-chs","nexusUploadedBy":"micheallv","nexusModId":15490,"paks":[
 {"nexusFileName":"Goon_Spell_Overhaul-chs","nexusFileVersion":"1.0.5","nexusFileUploadedAt":1743165182,"pakFileName":"Goon_Spell_Overhaul-chs.pak","nexusFileId":87972,"metaUuid":null}
@@ -66263,6 +66262,10 @@
 ]},
 "23656":{"nexusModName":"Raven Knight Fighter Subclass","nexusUploadedBy":"TheCobaltCactus","nexusModId":23656,"paks":[
 {"nexusFileName":"Raven Knight Fighter Subclass","nexusFileVersion":"1.0.0.2","nexusFileUploadedAt":1783094399,"pakFileName":"Raven_Knight_Fighter_Subclass_9844f8eb-4096-5a59-f6aa-8e6f1f2efa0f.pak","nexusFileId":124778,"metaUuid":null}
+]},
+"23657":{"nexusModName":"Desire Demon Horns and Flame","nexusUploadedBy":"Lyniara","nexusModId":23657,"paks":[
+{"nexusFileName":"Desire Demon Horns and Flame","nexusFileVersion":"1.0","nexusFileUploadedAt":1783089711,"pakFileName":"LYN_DesireDemon_5384e11d-6e2b-000c-cbdd-e7b57597f795.pak","nexusFileId":124771,"metaUuid":null},
+{"nexusFileName":"Extra Flame Addon","nexusFileVersion":"1","nexusFileUploadedAt":1783089791,"pakFileName":"LYNDesireDemonFlameEquippable.pak","nexusFileId":124772,"metaUuid":null}
 ]},
 "23659":{"nexusModName":"The Space Between - Pose pack","nexusUploadedBy":"MadMicky10","nexusModId":23659,"paks":[
 {"nexusFileName":"MadMicky The Space Between Poses","nexusFileVersion":"1","nexusFileUploadedAt":1783216116,"pakFileName":"The_Space_Between_Poses_ad1b627f-0ee3-08a8-dd93-c72560cc3340.pak","nexusFileId":124914,"metaUuid":null}
