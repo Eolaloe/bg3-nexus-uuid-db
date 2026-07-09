@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-07-09T10:51:45.264766+00:00","total_mods":16819},
+{"_meta":{"last_run":"2026-07-09T11:51:54.690135+00:00","total_mods":16820},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -13949,11 +13949,11 @@
 {"nexusFileName":"PassiveAbilityDecrease","nexusFileVersion":"1.2","nexusFileUploadedAt":1745217909,"pakFileName":"PassiveAbilityDecrease.pak","nexusFileId":90035,"metaUuid":null},
 {"nexusFileName":"PassiveAbilityIncrease","nexusFileVersion":"1.2","nexusFileUploadedAt":1745217937,"pakFileName":"PassiveAbilityIncrease.pak","nexusFileId":90036,"metaUuid":null},
 {"nexusFileName":"PassiveAbilityIncrease 12x5","nexusFileVersion":"1.2","nexusFileUploadedAt":1745217990,"pakFileName":"PassiveAbilityIncrease 12x5.pak","nexusFileId":90037,"metaUuid":null},
-{"nexusFileName":"PassiveAbilityIncrease 5s","nexusFileVersion":"1.2","nexusFileUploadedAt":1745218043,"pakFileName":"PassiveAbilityIncrease 5s.pak","nexusFileId":90038,"metaUuid":null},
-{"nexusFileName":"PassiveAbilityIncrease 5x5","nexusFileVersion":"1.2","nexusFileUploadedAt":1745218084,"pakFileName":"PassiveAbilityIncrease 5x5.pak","nexusFileId":90039,"metaUuid":null},
 {"nexusFileName":"PassiveAbilityIncrease 2750","nexusFileVersion":"1.2","nexusFileUploadedAt":1745218114,"pakFileName":"PassiveAbilityIncrease 2750.pak","nexusFileId":90040,"metaUuid":null},
 {"nexusFileName":"PassiveAbilityIncrease 900","nexusFileVersion":"1.2","nexusFileUploadedAt":1745218156,"pakFileName":"PassiveAbilityIncrease 900.pak","nexusFileId":90041,"metaUuid":null},
-{"nexusFileName":"PassiveAbilityIncrease all 2","nexusFileVersion":"1.0","nexusFileUploadedAt":1745218681,"pakFileName":"PassiveAbilityIncrease all 2.pak","nexusFileId":90042,"metaUuid":null}
+{"nexusFileName":"PassiveAbilityIncrease all 2","nexusFileVersion":"1.0","nexusFileUploadedAt":1745218681,"pakFileName":"PassiveAbilityIncrease all 2.pak","nexusFileId":90042,"metaUuid":null},
+{"nexusFileName":"PassiveAbilityIncrease 5x5","nexusFileVersion":"2.0","nexusFileUploadedAt":1783595234,"pakFileName":"PassiveAbilityIncrease 5x5.pak","nexusFileId":125266,"metaUuid":null},
+{"nexusFileName":"PassiveAbilityIncrease 5s","nexusFileVersion":"2.0","nexusFileUploadedAt":1783595263,"pakFileName":"PassiveAbilityIncrease 5s.pak","nexusFileId":125267,"metaUuid":null}
 ]},
 "4473":{"nexusModName":"Improved Enraged Throw","nexusUploadedBy":"Elmvick","nexusModId":4473,"paks":[
 {"nexusFileName":"Improved Enraged Throw","nexusFileVersion":"1.0","nexusFileUploadedAt":1700666502,"pakFileName":"EnragedThrow.pak","nexusFileId":29866,"metaUuid":null}
@@ -26555,7 +26555,8 @@
 {"nexusFileName":"Addon - Fade's Randomized Loot","nexusFileVersion":"2.0.0","nexusFileUploadedAt":1777412075,"pakFileName":"HomeBrew - Comprehensive Reworks (Addon - Fades Randomized Loot).pak","nexusFileId":120105,"metaUuid":"74a00bb6-b29e-497d-8410-2307ceb876fe"},
 {"nexusFileName":"Addon - Randomized Loot","nexusFileVersion":"2.0.0","nexusFileUploadedAt":1777412085,"pakFileName":"HomeBrew - Comprehensive Reworks (Addon - Randomized Loot).pak","nexusFileId":120106,"metaUuid":"74a00bb6-b29e-497d-8410-2307ceb876fe"},
 {"nexusFileName":"Misc - Modded Subclasses","nexusFileVersion":"8.3.1","nexusFileUploadedAt":1777412098,"pakFileName":"HomeBrew - Comprehensive Reworks (Misc - Modded Subclasses).pak","nexusFileId":120107,"metaUuid":null},
-{"nexusFileName":"HomeBrew   Comprehensive Reworks","nexusFileVersion":"9.0.1","nexusFileUploadedAt":1783276826,"pakFileName":"HomeBrew - Comprehensive Reworks.pak","nexusFileId":124971,"metaUuid":"486d1526-3505-4b09-9790-0f6a60f5ac0f"}
+{"nexusFileName":"HomeBrew   Comprehensive Reworks","nexusFileVersion":"9.0.2","nexusFileUploadedAt":1783594255,"pakFileName":"HomeBrew - Comprehensive Reworks.pak","nexusFileId":125263,"metaUuid":"486d1526-3505-4b09-9790-0f6a60f5ac0f"},
+{"nexusFileName":"Easier Difficulty - Mythic Difficulty Reduced","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1783594414,"pakFileName":"Home Brew - Comprehensive Reworks (Easier Difficulty - Mythic Difficulty Reduced).pak","nexusFileId":125264,"metaUuid":null}
 ]},
 "9053":{"nexusModName":"Planetouched - Homebrew Race","nexusUploadedBy":"0Lyra","nexusModId":9053,"paks":[
 {"nexusFileName":"Planetouched - Main","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1715369676,"pakFileName":"Planetouched_Race.pak","nexusFileId":56628,"metaUuid":"fc59491b-4bc3-4822-8597-7ed1b84064c5"},
@@ -45303,7 +45304,7 @@
 {"nexusFileName":"Way of Shao Kahn Monk Subclass - PTBR","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1746319870,"pakFileName":"ShaoKhan_PTBR.pak","nexusFileId":91613,"metaUuid":null}
 ]},
 "16301":{"nexusModName":"GraphicFade's Items Patch for HomeBrew (All in One Edition)","nexusUploadedBy":"darkynho","nexusModId":16301,"paks":[
-{"nexusFileName":"GraphicFades Items Patch for HomeBrew All in One","nexusFileVersion":"1.7.1.0","nexusFileUploadedAt":1783518204,"pakFileName":"Home Brew - GraphicFade's Items Patch (All in One Edition).pak","nexusFileId":125221,"metaUuid":"18e49fd9-725f-4d4b-ae0e-83af8ce8c381"}
+{"nexusFileName":"GraphicFades Items Patch for HomeBrew All in One","nexusFileVersion":"1.7.1.1","nexusFileUploadedAt":1783597045,"pakFileName":"Home Brew - GraphicFade's Items Patch (All in One Edition).pak","nexusFileId":125269,"metaUuid":"18e49fd9-725f-4d4b-ae0e-83af8ce8c381"}
 ]},
 "16302":{"nexusModName":"Useful Rope CHS","nexusUploadedBy":"LaundryDragonmaidOfficial","nexusModId":16302,"paks":[
 {"nexusFileName":"Useful_RopeCHS","nexusFileVersion":"0.01","nexusFileUploadedAt":1746325564,"pakFileName":"Useful_RopeCHS.pak","nexusFileId":91630,"metaUuid":null}
@@ -61230,7 +61231,7 @@
 {"nexusFileName":"Always Durge MP","nexusFileVersion":"1.00.00","nexusFileUploadedAt":1776452350,"pakFileName":"Always Durge MP.pak","nexusFileId":119305,"metaUuid":null}
 ]},
 "21718":{"nexusModName":"FATE Patch for HomeBrew","nexusUploadedBy":"sirgameboy","nexusModId":21718,"paks":[
-{"nexusFileName":"FATE Patch for HomeBrew","nexusFileVersion":"1.0.0.6","nexusFileUploadedAt":1776677839,"pakFileName":"Home Brew FATE.pak","nexusFileId":119511,"metaUuid":"1bef1f79-edca-4498-bfd0-d118f39e7547"}
+{"nexusFileName":"FATE Patch for HomeBrew","nexusFileVersion":"1.0.0.7","nexusFileUploadedAt":1783596801,"pakFileName":"Home Brew FATE.pak","nexusFileId":125268,"metaUuid":"1bef1f79-edca-4498-bfd0-d118f39e7547"}
 ]},
 "21719":{"nexusModName":"Miscellaneous equipment pack","nexusUploadedBy":"Saihara69","nexusModId":21719,"paks":[
 {"nexusFileName":"Miscellaneous equipment pack","nexusFileVersion":"1.1.1.0","nexusFileUploadedAt":1772540926,"pakFileName":"Miscellaneousequipmentpack.pak","nexusFileId":115963,"metaUuid":"b025b069-0f10-4b6c-b903-2de78707fc2e"}
@@ -66540,4 +66541,7 @@
 ]},
 "23787":{"nexusModName":"Drakes by Wuffy - Summonable Drake Companions rus translate","nexusUploadedBy":"ivann339","nexusModId":23787,"paks":[
 {"nexusFileName":"Oops All Drakes Rus Translate","nexusFileVersion":"1","nexusFileUploadedAt":1783583989,"pakFileName":"Oops_All_Drakes rus translate.pak","nexusFileId":125262,"metaUuid":null}
+]},
+"23791":{"nexusModName":"Foundries of Dis - Stormrider Carbine","nexusUploadedBy":"AeehyehssReeper","nexusModId":23791,"paks":[
+{"nexusFileName":"Disarmory C6a4b8a7 6e83 0956 0 8eoz","nexusFileVersion":"1","nexusFileUploadedAt":1783597685,"pakFileName":"DisArmory_c6a4b8a7-6e83-0956-0a85-20dac596e75a.pak","nexusFileId":125270,"metaUuid":null}
 ]}}
