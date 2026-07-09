@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-07-09T17:51:54.279987+00:00","total_mods":16823},
+{"_meta":{"last_run":"2026-07-09T18:52:09.360739+00:00","total_mods":16824},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -43288,8 +43288,8 @@
 {"nexusFileName":"Goon's Spell Overhaul - Misc","nexusFileVersion":"2.1.11.0","nexusFileUploadedAt":1776096524,"pakFileName":"Goon's Spell Overhaul - Misc.pak","nexusFileId":118868,"metaUuid":"3b19b1ce-198e-4496-9327-8f3d1235143d"},
 {"nexusFileName":"Goon's Spell Overhaul - Level 6","nexusFileVersion":"2.1.12.0","nexusFileUploadedAt":1776507243,"pakFileName":"Goon's Spell Overhaul - Level 6.pak","nexusFileId":119362,"metaUuid":"5d7b1496-1867-477c-990d-e55718611463"},
 {"nexusFileName":"Goon's Spell Overhaul - Level 4","nexusFileVersion":"2.1.12.0","nexusFileUploadedAt":1776507269,"pakFileName":"Goon's Spell Overhaul - Level 4.pak","nexusFileId":119363,"metaUuid":"885839fc-0326-4d95-bcdd-a2921627d1b4"},
-{"nexusFileName":"Goon's Spell Overhaul - Level 3","nexusFileVersion":"2.1.13.0","nexusFileUploadedAt":1776826951,"pakFileName":"Goon's Spell Overhaul - Level 3.pak","nexusFileId":119641,"metaUuid":"07138649-a72b-4f69-b79b-3f55e463a353"},
-{"nexusFileName":"Goon's Spell Overhaul - Cantrips","nexusFileVersion":"2.1.13.1","nexusFileUploadedAt":1777002473,"pakFileName":"Goon's Spell Overhaul - Cantrips.pak","nexusFileId":119770,"metaUuid":"6d7ce044-5420-4d5f-809f-f95e2e838531"}
+{"nexusFileName":"Goon's Spell Overhaul - Level 3","nexusFileVersion":"2.2.0.0","nexusFileUploadedAt":1783621289,"pakFileName":"Goon's Spell Overhaul - Level 3.pak","nexusFileId":125294,"metaUuid":"07138649-a72b-4f69-b79b-3f55e463a353"},
+{"nexusFileName":"Goon's Spell Overhaul - Cantrips","nexusFileVersion":"2.2.0.0","nexusFileUploadedAt":1783621306,"pakFileName":"Goon's Spell Overhaul - Cantrips.pak","nexusFileId":125295,"metaUuid":"6d7ce044-5420-4d5f-809f-f95e2e838531"}
 ]},
 "15482":{"nexusModName":"Mystic Class PTBR","nexusUploadedBy":"kaironn2","nexusModId":15482,"paks":[
 {"nexusFileName":"Mystic Class PTBR","nexusFileVersion":"4.3.0.5","nexusFileUploadedAt":1742860495,"pakFileName":"MysticClass_ptbr.pak","nexusFileId":87833,"metaUuid":null}
@@ -63339,7 +63339,7 @@
 {"nexusFileName":"Fatebond","nexusFileVersion":"1.3.1","nexusFileUploadedAt":1783208148,"pakFileName":"Fatebond.pak","nexusFileId":124903,"metaUuid":"6cfead1f-d54c-4dfb-bc94-05e9fc1e2970"}
 ]},
 "22459":{"nexusModName":"DnD 5.5e All-in-One BEYOND Russian Localization","nexusUploadedBy":"XapcT","nexusModId":22459,"paks":[
-{"nexusFileName":"DnD 5.5e AIO Russian v0.3.109.zip","nexusFileVersion":"0.3.109","nexusFileUploadedAt":1783615655,"pakFileName":"DnD 5.5e AIO Russian.pak","nexusFileId":125286,"metaUuid":null}
+{"nexusFileName":"DnD 5.5e AIO Russian v0.3.110.zip","nexusFileVersion":"0.3.110","nexusFileUploadedAt":1783621931,"pakFileName":"DnD 5.5e AIO Russian.pak","nexusFileId":125296,"metaUuid":null}
 ]},
 "22460":{"nexusModName":"Elementally Based Gear","nexusUploadedBy":"Useyourrifle","nexusModId":22460,"paks":[
 {"nexusFileName":"Elemental_Gear.7z","nexusFileVersion":"1","nexusFileUploadedAt":1776346340,"pakFileName":"OP_Bow_56032304-f037-e077-f5e7-045d2e03ef1c.pak","nexusFileId":119147,"metaUuid":"56032304-f037-e077-f5e7-045d2e03ef1c"}
@@ -66549,6 +66549,9 @@
 ]},
 "23791":{"nexusModName":"Foundries of Dis - Stormrider Carbine","nexusUploadedBy":"AeehyehssReeper","nexusModId":23791,"paks":[
 {"nexusFileName":"Disarmory C6a4b8a7 6e83 0956 0 8eoz","nexusFileVersion":"1","nexusFileUploadedAt":1783597685,"pakFileName":"DisArmory_c6a4b8a7-6e83-0956-0a85-20dac596e75a.pak","nexusFileId":125270,"metaUuid":null}
+]},
+"23793":{"nexusModName":"Clean Mattresses Now","nexusUploadedBy":"gobanaoblin","nexusModId":23793,"paks":[
+{"nexusFileName":"Clean Mattresses Now","nexusFileVersion":"1","nexusFileUploadedAt":1783618401,"pakFileName":"CleanMattressesNow_14e5c068-b2a7-9b48-3d54-72bb95ce7998.pak","nexusFileId":125293,"metaUuid":null}
 ]},
 "23795":{"nexusModName":"Moon's Beloved Piercing Set (With physics)","nexusUploadedBy":"Elledwyn","nexusModId":23795,"paks":[
 {"nexusFileName":"Moons Beloved Piercing Set","nexusFileVersion":"1","nexusFileUploadedAt":1783611086,"pakFileName":"Moons_Beloved_95053ae2-df83-9abd-d60c-8b5d35b35419.pak","nexusFileId":125277,"metaUuid":null}
