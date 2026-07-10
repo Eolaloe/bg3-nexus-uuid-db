@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-07-10T12:51:41.397463+00:00","total_mods":16832},
+{"_meta":{"last_run":"2026-07-10T13:52:02.947180+00:00","total_mods":16834},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -45304,7 +45304,7 @@
 {"nexusFileName":"Way of Shao Kahn Monk Subclass - PTBR","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1746319870,"pakFileName":"ShaoKhan_PTBR.pak","nexusFileId":91613,"metaUuid":null}
 ]},
 "16301":{"nexusModName":"GraphicFade's Items Patch for HomeBrew (All in One Edition)","nexusUploadedBy":"darkynho","nexusModId":16301,"paks":[
-{"nexusFileName":"GraphicFades Items Patch for HomeBrew All in One","nexusFileVersion":"1.7.1.1","nexusFileUploadedAt":1783597045,"pakFileName":"Home Brew - GraphicFade's Items Patch (All in One Edition).pak","nexusFileId":125269,"metaUuid":"18e49fd9-725f-4d4b-ae0e-83af8ce8c381"}
+{"nexusFileName":"GraphicFades Items Patch for HomeBrew All in One","nexusFileVersion":"1.7.1.2","nexusFileUploadedAt":1783689478,"pakFileName":"Home Brew - GraphicFade's Items Patch (All in One Edition).pak","nexusFileId":125341,"metaUuid":"18e49fd9-725f-4d4b-ae0e-83af8ce8c381"}
 ]},
 "16302":{"nexusModName":"Useful Rope CHS","nexusUploadedBy":"LaundryDragonmaidOfficial","nexusModId":16302,"paks":[
 {"nexusFileName":"Useful_RopeCHS","nexusFileVersion":"0.01","nexusFileUploadedAt":1746325564,"pakFileName":"Useful_RopeCHS.pak","nexusFileId":91630,"metaUuid":null}
@@ -66536,6 +66536,9 @@
 "23766":{"nexusModName":"Chained Vampire for BT1","nexusUploadedBy":"Ayuro","nexusModId":23766,"paks":[
 {"nexusFileName":"AYU_Chained_Vampire","nexusFileVersion":"1","nexusFileUploadedAt":1783453182,"pakFileName":"AYU_VAMPIR_ChainedVampire_927e457b-6b89-4e5e-b054-bba3608bb589.pak","nexusFileId":125185,"metaUuid":"927e457b-6b89-4e5e-b054-bba3608bb589"}
 ]},
+"23767":{"nexusModName":"Follow Astarion - New Endgame Cutscene","nexusUploadedBy":"HyperspaceTowel","nexusModId":23767,"paks":[
+{"nexusFileName":"HT_FollowAstarion","nexusFileVersion":"1.0.0.39","nexusFileUploadedAt":1783647910,"pakFileName":"HT_FollowAstarion_ba4a2341-854f-7b3c-0c07-bf7ac830f411.pak","nexusFileId":125315,"metaUuid":null}
+]},
 "23770":{"nexusModName":"Emotional Narrator - Male (Frosty Resolve) - Japanese","nexusUploadedBy":"ToxicDrake","nexusModId":23770,"paks":[
 {"nexusFileName":"EMO YouN Male Japanese","nexusFileVersion":"1","nexusFileUploadedAt":1783464216,"pakFileName":"EMO_YouN_Male_Japanese.pak","nexusFileId":125193,"metaUuid":null}
 ]},
@@ -66583,4 +66586,7 @@
 ]},
 "23802":{"nexusModName":"Kitsune Reborn","nexusUploadedBy":"Narilus","nexusModId":23802,"paks":[
 {"nexusFileName":"Kitsune Reborn","nexusFileVersion":"1.0.0.2","nexusFileUploadedAt":1783682502,"pakFileName":"Kitsune_Reborn.pak","nexusFileId":125336,"metaUuid":null}
+]},
+"23803":{"nexusModName":"Lunomi's Piercings","nexusUploadedBy":"Lunomi","nexusModId":23803,"paks":[
+{"nexusFileName":"Lunomi's Piercings","nexusFileVersion":"1","nexusFileUploadedAt":1783688666,"pakFileName":"Lunomi's Piercings.pak","nexusFileId":125340,"metaUuid":null}
 ]}}
