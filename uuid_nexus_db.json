@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-07-09T23:51:23.863290+00:00","total_mods":16824},
+{"_meta":{"last_run":"2026-07-10T00:51:33.426675+00:00","total_mods":16827},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -26555,8 +26555,8 @@
 {"nexusFileName":"Addon - Fade's Randomized Loot","nexusFileVersion":"2.0.0","nexusFileUploadedAt":1777412075,"pakFileName":"HomeBrew - Comprehensive Reworks (Addon - Fades Randomized Loot).pak","nexusFileId":120105,"metaUuid":"74a00bb6-b29e-497d-8410-2307ceb876fe"},
 {"nexusFileName":"Addon - Randomized Loot","nexusFileVersion":"2.0.0","nexusFileUploadedAt":1777412085,"pakFileName":"HomeBrew - Comprehensive Reworks (Addon - Randomized Loot).pak","nexusFileId":120106,"metaUuid":"74a00bb6-b29e-497d-8410-2307ceb876fe"},
 {"nexusFileName":"Misc - Modded Subclasses","nexusFileVersion":"8.3.1","nexusFileUploadedAt":1777412098,"pakFileName":"HomeBrew - Comprehensive Reworks (Misc - Modded Subclasses).pak","nexusFileId":120107,"metaUuid":null},
-{"nexusFileName":"HomeBrew   Comprehensive Reworks","nexusFileVersion":"9.0.2","nexusFileUploadedAt":1783594255,"pakFileName":"HomeBrew - Comprehensive Reworks.pak","nexusFileId":125263,"metaUuid":"486d1526-3505-4b09-9790-0f6a60f5ac0f"},
-{"nexusFileName":"Easier Difficulty - Mythic Difficulty Reduced","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1783594414,"pakFileName":"Home Brew - Comprehensive Reworks (Easier Difficulty - Mythic Difficulty Reduced).pak","nexusFileId":125264,"metaUuid":null}
+{"nexusFileName":"Easier Difficulty - Mythic Difficulty Reduced","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1783594414,"pakFileName":"Home Brew - Comprehensive Reworks (Easier Difficulty - Mythic Difficulty Reduced).pak","nexusFileId":125264,"metaUuid":null},
+{"nexusFileName":"HomeBrew   Comprehensive Reworks","nexusFileVersion":"9.0.3","nexusFileUploadedAt":1783641737,"pakFileName":"HomeBrew - Comprehensive Reworks.pak","nexusFileId":125310,"metaUuid":"486d1526-3505-4b09-9790-0f6a60f5ac0f"}
 ]},
 "9053":{"nexusModName":"Planetouched - Homebrew Race","nexusUploadedBy":"0Lyra","nexusModId":9053,"paks":[
 {"nexusFileName":"Planetouched - Main","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1715369676,"pakFileName":"Planetouched_Race.pak","nexusFileId":56628,"metaUuid":"fc59491b-4bc3-4822-8597-7ed1b84064c5"},
@@ -66315,6 +66315,9 @@
 "23675":{"nexusModName":"Mazzle's MF Radio","nexusUploadedBy":"Mazzle23","nexusModId":23675,"paks":[
 {"nexusFileName":"MF Radio 1.5.0","nexusFileVersion":"1.5.1","nexusFileUploadedAt":1783306639,"pakFileName":"MF_Radio.pak","nexusFileId":125011,"metaUuid":"d9e9fd0b-6a72-4cd2-bdc9-a9cb1dd3efc2"}
 ]},
+"23676":{"nexusModName":"STAV - Universal Automatic Patcher (UAP)","nexusUploadedBy":"Volitio","nexusModId":23676,"paks":[
+{"nexusFileName":"STAV UAP 1.0.0","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1783640867,"pakFileName":"Universal STAV Patcher.pak","nexusFileId":125308,"metaUuid":null}
+]},
 "23680":{"nexusModName":"Starting Equipment Selection","nexusUploadedBy":"NecroticFlame","nexusModId":23680,"paks":[
 {"nexusFileName":"Humanoid Equipment and Clothing","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1783057657,"pakFileName":"ECC_Humanoid_5f2c3462-94d5-feeb-5f39-5cd0f7a76c5a.pak","nexusFileId":124757,"metaUuid":"5f2c3462-94d5-feeb-5f39-5cd0f7a76c5a"},
 {"nexusFileName":"Githyanki Equipment","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1783057830,"pakFileName":"ECC_Githyanki_9fb63845-8b2d-314d-99a2-bd0c75199995.pak","nexusFileId":124758,"metaUuid":"9fb63845-8b2d-314d-99a2-bd0c75199995"},
@@ -66484,7 +66487,7 @@
 ]},
 "23751":{"nexusModName":"Shirts - Lots Of Shirts","nexusUploadedBy":"BerrySemifreddo","nexusModId":23751,"paks":[
 {"nexusFileName":"Shirts, Lots Of Shirts - StandardBTs","nexusFileVersion":"1.0.0.27","nexusFileUploadedAt":1783376526,"pakFileName":"ShirtsLotsOfShirts_52809d6a-2f2f-79d9-843e-4aad7396eac0.pak","nexusFileId":125135,"metaUuid":"52809d6a-2f2f-79d9-843e-4aad7396eac0"},
-{"nexusFileName":"Shirts, Lots Of Shirts - Unique BTs","nexusFileVersion":"1.0.0.1","nexusFileUploadedAt":1783376674,"pakFileName":"ShirtsLotsOfShirts_UniqueBTs_f544dd87-4f27-596d-8bd0-1e63f3f281f7.pak","nexusFileId":125136,"metaUuid":"f544dd87-4f27-596d-8bd0-1e63f3f281f7"}
+{"nexusFileName":"Shirts Lots Of Shirts - Unique BTs - V2","nexusFileVersion":"1.0.0.2","nexusFileUploadedAt":1783643982,"pakFileName":"ShirtsLotsOfShirts_UniqueBTs_f544dd87-4f27-596d-8bd0-1e63f3f281f7.pak","nexusFileId":125311,"metaUuid":"f544dd87-4f27-596d-8bd0-1e63f3f281f7"}
 ]},
 "23752":{"nexusModName":"Manalis' Vanilla Feats Overhauled Volume 2","nexusUploadedBy":"EmyioAzachi","nexusModId":23752,"paks":[
 {"nexusFileName":"Manalis Vanilla Feats Overhaul 2 (EN Version)","nexusFileVersion":"1","nexusFileUploadedAt":1783460020,"pakFileName":"Manalis_Vanilla_Feats_Overhaul_2_4ecf9256-6fe2-6786-4fe8-34331cc33ccf.pak","nexusFileId":125188,"metaUuid":null},
@@ -66550,6 +66553,9 @@
 "23791":{"nexusModName":"Foundries of Dis - Stormrider Carbine","nexusUploadedBy":"AeehyehssReeper","nexusModId":23791,"paks":[
 {"nexusFileName":"Disarmory C6a4b8a7 6e83 0956 0 8eoz","nexusFileVersion":"1","nexusFileUploadedAt":1783597685,"pakFileName":"DisArmory_c6a4b8a7-6e83-0956-0a85-20dac596e75a.pak","nexusFileId":125270,"metaUuid":null}
 ]},
+"23792":{"nexusModName":"Ascended Astarion (Revamped Edition)","nexusUploadedBy":"littlehouseofimagination","nexusModId":23792,"paks":[
+{"nexusFileName":"VampireAscendant","nexusFileVersion":"1","nexusFileUploadedAt":1783600965,"pakFileName":"VampireAscendant.pak","nexusFileId":125273,"metaUuid":null}
+]},
 "23793":{"nexusModName":"Clean Mattresses Now","nexusUploadedBy":"gobanaoblin","nexusModId":23793,"paks":[
 {"nexusFileName":"Clean Mattresses Now","nexusFileVersion":"2","nexusFileUploadedAt":1783626204,"pakFileName":"CleanMattressesNow_14e5c068-b2a7-9b48-3d54-72bb95ce7998.pak","nexusFileId":125302,"metaUuid":null}
 ]},
@@ -66558,4 +66564,7 @@
 ]},
 "23796":{"nexusModName":"Inky's Pumpkin Patch - A Map for VP","nexusUploadedBy":"inkyplz","nexusModId":23796,"paks":[
 {"nexusFileName":"Inky's Pumpkin Patch - Initial Release","nexusFileVersion":"1.0.0.1","nexusFileUploadedAt":1783616116,"pakFileName":"Inky_Pumpkin_297703c3-836b-0ef0-67ec-308fd5746c9d.pak","nexusFileId":125287,"metaUuid":null}
+]},
+"23798":{"nexusModName":"Level Up Random Choices","nexusUploadedBy":"Volitio","nexusModId":23798,"paks":[
+{"nexusFileName":"Level Up Random Choices 1.0.0","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1783641096,"pakFileName":"Level Up Random Choices.pak","nexusFileId":125309,"metaUuid":null}
 ]}}
