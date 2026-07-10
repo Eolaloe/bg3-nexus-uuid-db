@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-07-10T20:52:12.793303+00:00","total_mods":16837},
+{"_meta":{"last_run":"2026-07-10T21:52:13.717212+00:00","total_mods":16839},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -57994,7 +57994,7 @@
 ]},
 "20588":{"nexusModName":"Ancient Mega Pack for Korean","nexusUploadedBy":"Eolaloe","nexusModId":20588,"paks":[
 {"nexusFileName":"Ancient Mega Pack - REL(random loot) for Korean","nexusFileVersion":"22.74.1.2","nexusFileUploadedAt":1782470745,"pakFileName":"REL_Full_Ancient_kr.pak","nexusFileId":124313,"metaUuid":"b9d668db-f5b7-c5c5-00d4-7e7f8a153a70"},
-{"nexusFileName":"Ancient Mega Pack Plus for Korean","nexusFileVersion":"1.3.1.9","nexusFileUploadedAt":1783274005,"pakFileName":"AMP_Plus_kr.pak","nexusFileId":124962,"metaUuid":null}
+{"nexusFileName":"Ancient Mega Pack Plus for Korean","nexusFileVersion":"1.4.0.13","nexusFileUploadedAt":1783716792,"pakFileName":"AMP_Plus_kr.pak","nexusFileId":125366,"metaUuid":null}
 ]},
 "20589":{"nexusModName":"Many More Monsters for Korean","nexusUploadedBy":"Eolaloe","nexusModId":20589,"paks":[
 {"nexusFileName":"Many More Monsters for Korean","nexusFileVersion":"4.3.2.0","nexusFileUploadedAt":1781358927,"pakFileName":"ManyMoreMonsters_kr.pak","nexusFileId":123477,"metaUuid":null}
@@ -66335,7 +66335,7 @@
 {"nexusFileName":"Umberlee's Earrings (Gold)","nexusFileVersion":"1.0","nexusFileUploadedAt":1783055916,"pakFileName":"Umberlee's Earrings (Gold).pak","nexusFileId":124756,"metaUuid":null}
 ]},
 "23685":{"nexusModName":"Blackwood's Red Mage","nexusUploadedBy":"EnixLHQ","nexusModId":23685,"paks":[
-{"nexusFileName":"Blackwood's Red Mage","nexusFileVersion":"2.2.4.23","nexusFileUploadedAt":1783582945,"pakFileName":"Red_Mage_Homebrew_6aec3ad4-990d-7667-a8e9-399d1bb6fc4b.pak","nexusFileId":125261,"metaUuid":null}
+{"nexusFileName":"Blackwood's Red Mage","nexusFileVersion":"2.2.4.26","nexusFileUploadedAt":1783716926,"pakFileName":"Red_Mage_Homebrew_6aec3ad4-990d-7667-a8e9-399d1bb6fc4b.pak","nexusFileId":125367,"metaUuid":null}
 ]},
 "23686":{"nexusModName":"Improved Equip Menu","nexusUploadedBy":"sowww","nexusModId":23686,"paks":[
 {"nexusFileName":"Improved Equip Menu","nexusFileVersion":"1.1.0","nexusFileUploadedAt":1783264510,"pakFileName":"ImprovedEquipMenu.pak","nexusFileId":124956,"metaUuid":"c953c1b3-cf57-4688-9950-9fc6fdc23415"}
@@ -66547,6 +66547,10 @@
 "23772":{"nexusModName":"Difficulty Adjustment","nexusUploadedBy":"BaiYanYueQWQ","nexusModId":23772,"paks":[
 {"nexusFileName":"DifficultyAdjustment","nexusFileVersion":"1.2.0.0","nexusFileUploadedAt":1783624247,"pakFileName":"MCM-难度调整-DifficultyAdjustment.pak","nexusFileId":125299,"metaUuid":null}
 ]},
+"23773":{"nexusModName":"Ardeo's Jawbone - Forgotten Armoury Part II - Shortsword","nexusUploadedBy":"Lyniara","nexusModId":23773,"paks":[
+{"nexusFileName":"Ardeo's Jawbone","nexusFileVersion":"1.0.0.4","nexusFileUploadedAt":1783718067,"pakFileName":"LYRA_LYN_Ardeo_Jawbone_1.0.0.4.pak","nexusFileId":125371,"metaUuid":null},
+{"nexusFileName":"Ardeo's Jawbone - Tutorial Chest Addon","nexusFileVersion":"1","nexusFileUploadedAt":1783718179,"pakFileName":"Ardeo Jawbone - Tut Chest Addon.pak","nexusFileId":125372,"metaUuid":null}
+]},
 "23774":{"nexusModName":"Whisper","nexusUploadedBy":"haytur","nexusModId":23774,"paks":[
 {"nexusFileName":"Whisper","nexusFileVersion":"1.0R","nexusFileUploadedAt":1783483320,"pakFileName":"Whisper.pak","nexusFileId":125204,"metaUuid":null}
 ]},
@@ -66598,4 +66602,8 @@
 ]},
 "23805":{"nexusModName":"The Red Forest - Red Realm Pt. 1","nexusUploadedBy":"inkyplz","nexusModId":23805,"paks":[
 {"nexusFileName":"TRR - Red Forest 1.0.0.3 - Initial Release","nexusFileVersion":"1.0.0.3","nexusFileUploadedAt":1783705326,"pakFileName":"RedRealm_7c5c539d-d00d-6db1-b4e7-ff1dec7b288b.pak","nexusFileId":125355,"metaUuid":null}
+]},
+"23810":{"nexusModName":"Aylin and Isobel Join the Party rus translation","nexusUploadedBy":"ivann339","nexusModId":23810,"paks":[
+{"nexusFileName":"WW_AylinIsobelJoinParty rus translate","nexusFileVersion":"1","nexusFileUploadedAt":1783719451,"pakFileName":"WW_AylinIsobelJoinParty rus translate.pak","nexusFileId":125373,"metaUuid":null},
+{"nexusFileName":"AylinIsobelDyes rus","nexusFileVersion":"1","nexusFileUploadedAt":1783719551,"pakFileName":"AylinIsobelDyes rus.pak","nexusFileId":125374,"metaUuid":null}
 ]}}
