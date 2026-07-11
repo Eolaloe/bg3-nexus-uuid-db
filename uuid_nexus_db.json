@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-07-11T13:51:54.385338+00:00","total_mods":16848},
+{"_meta":{"last_run":"2026-07-11T14:52:08.446800+00:00","total_mods":16848},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -13953,7 +13953,8 @@
 {"nexusFileName":"PassiveAbilityIncrease 900","nexusFileVersion":"1.2","nexusFileUploadedAt":1745218156,"pakFileName":"PassiveAbilityIncrease 900.pak","nexusFileId":90041,"metaUuid":null},
 {"nexusFileName":"PassiveAbilityIncrease all 2","nexusFileVersion":"1.0","nexusFileUploadedAt":1745218681,"pakFileName":"PassiveAbilityIncrease all 2.pak","nexusFileId":90042,"metaUuid":null},
 {"nexusFileName":"PassiveAbilityIncrease 5x5","nexusFileVersion":"2.0","nexusFileUploadedAt":1783595234,"pakFileName":"PassiveAbilityIncrease 5x5.pak","nexusFileId":125266,"metaUuid":null},
-{"nexusFileName":"PassiveAbilityIncrease 5s","nexusFileVersion":"2.0","nexusFileUploadedAt":1783595263,"pakFileName":"PassiveAbilityIncrease 5s.pak","nexusFileId":125267,"metaUuid":null}
+{"nexusFileName":"PassiveAbilityIncrease 5s","nexusFileVersion":"2.0","nexusFileUploadedAt":1783595263,"pakFileName":"PassiveAbilityIncrease 5s.pak","nexusFileId":125267,"metaUuid":null},
+{"nexusFileName":"PassiveAbilityIncrease 6x6","nexusFileVersion":"2.0","nexusFileUploadedAt":1783779866,"pakFileName":"PassiveAbilityIncrease 6x6.pak","nexusFileId":125427,"metaUuid":null}
 ]},
 "4473":{"nexusModName":"Improved Enraged Throw","nexusUploadedBy":"Elmvick","nexusModId":4473,"paks":[
 {"nexusFileName":"Improved Enraged Throw","nexusFileVersion":"1.0","nexusFileUploadedAt":1700666502,"pakFileName":"EnragedThrow.pak","nexusFileId":29866,"metaUuid":null}
@@ -64612,12 +64613,16 @@
 "23004":{"nexusModName":"Convert All Slots at Once - Sorcery Points","nexusUploadedBy":"Imemee","nexusModId":23004,"paks":[
 {"nexusFileName":"AllSorceryPointAdd","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1779455298,"pakFileName":"AllSorceryPointAdd.pak","nexusFileId":121930,"metaUuid":null}
 ]},
-"23005":{"nexusModName":"Compatible Bodies Tooltip (for Wearables)","nexusUploadedBy":"SerpentineShel","nexusModId":23005,"paks":[
+"23005":{"nexusModName":"Compatible Bodies Tooltip (For Wearables) (By SerpentineShel)","nexusUploadedBy":"SerpentineShel","nexusModId":23005,"paks":[
 {"nexusFileName":"CompatibleBodiesTooltip 1.2.0","nexusFileVersion":"1.2","nexusFileUploadedAt":1779457412,"pakFileName":"CompatibleBodiesTooltip.pak","nexusFileId":121933,"metaUuid":"a7c0ffee-7501-4f00-a17a-c00b08ec4377"},
 {"nexusFileName":"CompatibleBodiesTooltip 1.3.2 UltraFashionista","nexusFileVersion":"2","nexusFileUploadedAt":1781782435,"pakFileName":"CompatibleBodiesTooltip.pak","nexusFileId":123823,"metaUuid":"a7c0ffee-7501-4f00-a17a-c00b08ec4377"},
 {"nexusFileName":"CompatibleBodiesTooltip 1.3.2 EssentialsPlus","nexusFileVersion":"2","nexusFileUploadedAt":1781782459,"pakFileName":"CompatibleBodiesTooltip.pak","nexusFileId":123824,"metaUuid":"a7c0ffee-7501-4f00-a17a-c00b08ec4377"},
 {"nexusFileName":"CompatibleBodiesTooltip 1.3.2 FashionEssentials","nexusFileVersion":"2","nexusFileUploadedAt":1781782481,"pakFileName":"CompatibleBodiesTooltip.pak","nexusFileId":123825,"metaUuid":"a7c0ffee-7501-4f00-a17a-c00b08ec4377"},
-{"nexusFileName":"CompatibleBodiesTooltip 1.3.2 Vanilla","nexusFileVersion":"2","nexusFileUploadedAt":1781782518,"pakFileName":"CompatibleBodiesTooltip.pak","nexusFileId":123826,"metaUuid":"a7c0ffee-7501-4f00-a17a-c00b08ec4377"}
+{"nexusFileName":"CompatibleBodiesTooltip 1.3.2 Vanilla","nexusFileVersion":"2","nexusFileUploadedAt":1781782518,"pakFileName":"CompatibleBodiesTooltip.pak","nexusFileId":123826,"metaUuid":"a7c0ffee-7501-4f00-a17a-c00b08ec4377"},
+{"nexusFileName":"CompatibleBodiesTooltip 1.3.3 AllTiers ","nexusFileVersion":"1","nexusFileUploadedAt":1783779192,"pakFileName":"CompatibleBodiesTooltip-1.3.3-EssentialsPlus.pak","nexusFileId":125425,"metaUuid":null},
+{"nexusFileName":"CompatibleBodiesTooltip 1.3.3 AllTiers ","nexusFileVersion":"1","nexusFileUploadedAt":1783779192,"pakFileName":"CompatibleBodiesTooltip-1.3.3-FashionEssentials.pak","nexusFileId":125425,"metaUuid":null},
+{"nexusFileName":"CompatibleBodiesTooltip 1.3.3 AllTiers ","nexusFileVersion":"1","nexusFileUploadedAt":1783779192,"pakFileName":"CompatibleBodiesTooltip-1.3.3-UltraFashionista.pak","nexusFileId":125425,"metaUuid":null},
+{"nexusFileName":"CompatibleBodiesTooltip 1.3.3 AllTiers ","nexusFileVersion":"1","nexusFileUploadedAt":1783779192,"pakFileName":"CompatibleBodiesTooltip-1.3.3-Vanilla.pak","nexusFileId":125425,"metaUuid":null}
 ]},
 "23007":{"nexusModName":"Early Access Nautiloid","nexusUploadedBy":"DerekL27","nexusModId":23007,"paks":[
 {"nexusFileName":"Early Access Nautiloid","nexusFileVersion":"1.0.0.9","nexusFileUploadedAt":1780244061,"pakFileName":"EarlyAccessAvernusTutorial_058bbf34-d867-539c-fa4d-8540dc810da0.pak","nexusFileId":122523,"metaUuid":"058bbf34-d867-539c-fa4d-8540dc810da0"},
@@ -65294,7 +65299,7 @@
 {"nexusFileName":"Hells Hath No Fury","nexusFileVersion":"2","nexusFileUploadedAt":1781339818,"pakFileName":"HellsHathNoFury_1ac9c5ed-c459-15dd-fa5a-fe83443d0882.pak","nexusFileId":123462,"metaUuid":"1ac9c5ed-c459-15dd-fa5a-fe83443d0882"}
 ]},
 "23206":{"nexusModName":"Faithfully Fixed Slayer Form","nexusUploadedBy":"Sw1shyFishy","nexusModId":23206,"paks":[
-{"nexusFileName":"SwishyFishy Slayer V2","nexusFileVersion":"1.0.1.0","nexusFileUploadedAt":1780671496,"pakFileName":"SwishyFishy_Slayer_v2.pak","nexusFileId":122855,"metaUuid":null}
+{"nexusFileName":"SwishyFishy Slayer V2","nexusFileVersion":"1.0.2.0","nexusFileUploadedAt":1783779345,"pakFileName":"SwishyFishy_Slayer_v2.pak","nexusFileId":125426,"metaUuid":null}
 ]},
 "23207":{"nexusModName":"CombatBodysuit_TheFirstDescendant_Ines","nexusUploadedBy":"EvilRecluse","nexusModId":23207,"paks":[
 {"nexusFileName":"CombatBodysuit TheFirstDescendant Ines","nexusFileVersion":"1","nexusFileUploadedAt":1780587999,"pakFileName":"CombatBodysuit_TheFirstDescendant_Ines.pak","nexusFileId":122793,"metaUuid":"99c9a42f-0730-4a31-924f-32ea6f488510"}
@@ -66307,7 +66312,7 @@
 {"nexusFileName":"SatyrRaceITA","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1783701839,"pakFileName":"SatyrRaceITA.pak","nexusFileId":125352,"metaUuid":null}
 ]},
 "23670":{"nexusModName":"Flutter and Whimsy (Fairy Race) Traduzione ITA","nexusUploadedBy":"EveeLaverne","nexusModId":23670,"paks":[
-{"nexusFileName":"FairyRaceITA","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1783701978,"pakFileName":"FairyRaceITA.pak","nexusFileId":125354,"metaUuid":null}
+{"nexusFileName":"FairyRaceITA","nexusFileVersion":"1.0.1.1","nexusFileUploadedAt":1783780502,"pakFileName":"FairyRaceITA.pak","nexusFileId":125428,"metaUuid":null}
 ]},
 "23672":{"nexusModName":"Nearby Loot Scan","nexusUploadedBy":"Eolaloe","nexusModId":23672,"paks":[
 {"nexusFileName":"Nearby Loot Scan","nexusFileVersion":"1.0.1.2","nexusFileUploadedAt":1783727482,"pakFileName":"NearbyLootScan.pak","nexusFileId":125380,"metaUuid":"6f32203b-d69d-13fc-2c7b-b8b12bca7f00"}
