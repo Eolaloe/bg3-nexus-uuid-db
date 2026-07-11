@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-07-11T00:51:40.215344+00:00","total_mods":16840},
+{"_meta":{"last_run":"2026-07-11T01:51:52.958942+00:00","total_mods":16841},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -61417,7 +61417,7 @@
 {"nexusFileName":"Acheron - Clothing and Light Armor","nexusFileVersion":"1.0.0.3","nexusFileUploadedAt":1778936209,"pakFileName":"ONYX_Acheron_203a60f0-f5d9-6643-2e3e-ca68c44e2b2f.pak","nexusFileId":121370,"metaUuid":"203a60f0-f5d9-6643-2e3e-ca68c44e2b2f"}
 ]},
 "21777":{"nexusModName":"Post-Combat Cleanup","nexusUploadedBy":"Volitio","nexusModId":21777,"paks":[
-{"nexusFileName":"Post-Combat Cleanup 1.1.0","nexusFileVersion":"1.1.0","nexusFileUploadedAt":1777434339,"pakFileName":"Post Combat Cleanup.pak","nexusFileId":120135,"metaUuid":"1a46087f-d926-4a4e-ac55-49058ced5618"}
+{"nexusFileName":"Post-Combat Cleanup 1.2.0","nexusFileVersion":"1.2.0","nexusFileUploadedAt":1783733253,"pakFileName":"Post Combat Cleanup.pak","nexusFileId":125385,"metaUuid":"1a46087f-d926-4a4e-ac55-49058ced5618"}
 ]},
 "21778":{"nexusModName":"Crow's Head Preset Naerys","nexusUploadedBy":"Naerys","nexusModId":21778,"paks":[
 {"nexusFileName":"Naerys Head","nexusFileVersion":"1.0","nexusFileUploadedAt":1772898030,"pakFileName":"Headpreset_Naerys.pak","nexusFileId":116270,"metaUuid":null}
@@ -66609,4 +66609,7 @@
 "23810":{"nexusModName":"Aylin and Isobel Join the Party rus translation","nexusUploadedBy":"ivann339","nexusModId":23810,"paks":[
 {"nexusFileName":"WW_AylinIsobelJoinParty rus translate","nexusFileVersion":"1","nexusFileUploadedAt":1783719451,"pakFileName":"WW_AylinIsobelJoinParty rus translate.pak","nexusFileId":125373,"metaUuid":null},
 {"nexusFileName":"AylinIsobelDyes rus","nexusFileVersion":"1","nexusFileUploadedAt":1783719551,"pakFileName":"AylinIsobelDyes rus.pak","nexusFileId":125374,"metaUuid":null}
+]},
+"23812":{"nexusModName":"Women of Dragon age","nexusUploadedBy":"PinkPixelBunny","nexusModId":23812,"paks":[
+{"nexusFileName":"WomenofDragonAgeHeads","nexusFileVersion":"1","nexusFileUploadedAt":1783731350,"pakFileName":"WomenofDragonAgeHeads_cfdfbe35-a291-ce5a-460e-a6f81a06b931.pak","nexusFileId":125384,"metaUuid":null}
 ]}}
