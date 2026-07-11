@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-07-11T05:51:38.241342+00:00","total_mods":16843},
+{"_meta":{"last_run":"2026-07-11T06:51:51.737566+00:00","total_mods":16846},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -61423,10 +61423,10 @@
 {"nexusFileName":"Naerys Head","nexusFileVersion":"1.0","nexusFileUploadedAt":1772898030,"pakFileName":"Headpreset_Naerys.pak","nexusFileId":116270,"metaUuid":null}
 ]},
 "21779":{"nexusModName":"Volitio's Post-Combat Cleanup for Korean","nexusUploadedBy":"Eolaloe","nexusModId":21779,"paks":[
-{"nexusFileName":"Post-Combat Cleanup for Korean","nexusFileVersion":"1.1.0","nexusFileUploadedAt":1777443170,"pakFileName":"Post Combat Cleanup_kr.pak","nexusFileId":120148,"metaUuid":null}
+{"nexusFileName":"Post-Combat Cleanup for Korean","nexusFileVersion":"1.2.0","nexusFileUploadedAt":1783751504,"pakFileName":"Post Combat Cleanup_kr.pak","nexusFileId":125397,"metaUuid":null}
 ]},
 "21780":{"nexusModName":"Volitio's Post-Combat Cleanup fo Japanese","nexusUploadedBy":"Eolaloe","nexusModId":21780,"paks":[
-{"nexusFileName":"Post-Combat Cleanup fo Japanese","nexusFileVersion":"1.1.0","nexusFileUploadedAt":1777443199,"pakFileName":"Post Combat Cleanup_jp.pak","nexusFileId":120149,"metaUuid":null}
+{"nexusFileName":"Post-Combat Cleanup fo Japanese","nexusFileVersion":"1.2.0","nexusFileUploadedAt":1783751542,"pakFileName":"Post Combat Cleanup_jp.pak","nexusFileId":125398,"metaUuid":null}
 ]},
 "21781":{"nexusModName":"Containers Extended Compact (Beta)","nexusUploadedBy":"darkcharl","nexusModId":21781,"paks":[
 {"nexusFileName":"ContainersExtendedCompact.zip","nexusFileVersion":"0.0.0.4","nexusFileUploadedAt":1774740650,"pakFileName":"ContainersExtendedCompact.pak","nexusFileId":117668,"metaUuid":"bb326160-21e4-4406-905d-17d2169daf2f"}
@@ -66618,4 +66618,13 @@
 ]},
 "23816":{"nexusModName":"Vox Machina (Pikes Holy Shield and Mace)","nexusUploadedBy":"haytur","nexusModId":23816,"paks":[
 {"nexusFileName":"VoxHoly","nexusFileVersion":"1.0R","nexusFileUploadedAt":1783746193,"pakFileName":"VoxHoly.pak","nexusFileId":125391,"metaUuid":null}
+]},
+"23818":{"nexusModName":"No Mizora Romance","nexusUploadedBy":"koboldJuno","nexusModId":23818,"paks":[
+{"nexusFileName":"No Mizora Romance","nexusFileVersion":"1.0","nexusFileUploadedAt":1783749235,"pakFileName":"NoMizoraRomance.pak","nexusFileId":125394,"metaUuid":null}
+]},
+"23819":{"nexusModName":"Goon's Slayer Overhaul for Korean","nexusUploadedBy":"Eolaloe","nexusModId":23819,"paks":[
+{"nexusFileName":"Goon's Slayer Overhaul for Korean","nexusFileVersion":"1.1.0.0","nexusFileUploadedAt":1783750898,"pakFileName":"Goon's Slayer Overhaul_kr.pak","nexusFileId":125395,"metaUuid":null}
+]},
+"23820":{"nexusModName":"Goon's Slayer Overhaul for Japanese","nexusUploadedBy":"Eolaloe","nexusModId":23820,"paks":[
+{"nexusFileName":"Goon's Slayer Overhaul for Japanese","nexusFileVersion":"1.1.0.0","nexusFileUploadedAt":1783751027,"pakFileName":"Goon's Slayer Overhaul_jp.pak","nexusFileId":125396,"metaUuid":null}
 ]}}
