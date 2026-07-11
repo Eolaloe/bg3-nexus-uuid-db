@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-07-11T11:51:50.656113+00:00","total_mods":16847},
+{"_meta":{"last_run":"2026-07-11T12:52:16.426067+00:00","total_mods":16848},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -26556,7 +26556,7 @@
 {"nexusFileName":"Addon - Randomized Loot","nexusFileVersion":"2.0.0","nexusFileUploadedAt":1777412085,"pakFileName":"HomeBrew - Comprehensive Reworks (Addon - Randomized Loot).pak","nexusFileId":120106,"metaUuid":"74a00bb6-b29e-497d-8410-2307ceb876fe"},
 {"nexusFileName":"Misc - Modded Subclasses","nexusFileVersion":"8.3.1","nexusFileUploadedAt":1777412098,"pakFileName":"HomeBrew - Comprehensive Reworks (Misc - Modded Subclasses).pak","nexusFileId":120107,"metaUuid":null},
 {"nexusFileName":"Easier Difficulty - Mythic Difficulty Reduced","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1783594414,"pakFileName":"Home Brew - Comprehensive Reworks (Easier Difficulty - Mythic Difficulty Reduced).pak","nexusFileId":125264,"metaUuid":"135c0255-9690-4377-957d-2b40187f74a2"},
-{"nexusFileName":"HomeBrew   Comprehensive Reworks","nexusFileVersion":"9.0.3","nexusFileUploadedAt":1783641737,"pakFileName":"HomeBrew - Comprehensive Reworks.pak","nexusFileId":125310,"metaUuid":"486d1526-3505-4b09-9790-0f6a60f5ac0f"}
+{"nexusFileName":"HomeBrew   Comprehensive Reworks","nexusFileVersion":"9.0.4","nexusFileUploadedAt":1783773892,"pakFileName":"HomeBrew - Comprehensive Reworks.pak","nexusFileId":125423,"metaUuid":"486d1526-3505-4b09-9790-0f6a60f5ac0f"}
 ]},
 "9053":{"nexusModName":"Planetouched - Homebrew Race","nexusUploadedBy":"0Lyra","nexusModId":9053,"paks":[
 {"nexusFileName":"Planetouched - Main","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1715369676,"pakFileName":"Planetouched_Race.pak","nexusFileId":56628,"metaUuid":"fc59491b-4bc3-4822-8597-7ed1b84064c5"},
@@ -56184,7 +56184,7 @@
 {"nexusFileName":"Clansong - Speaking Dragonborns CC Heads","nexusFileVersion":"1.0.0.25","nexusFileUploadedAt":1779244015,"pakFileName":"DGB_NPC_Heads_HUM_Weights_AkELkA_d38b29fc-44ab-2017-6de0-aa8241e9ba40.pak","nexusFileId":121725,"metaUuid":"d38b29fc-44ab-2017-6de0-aa8241e9ba40"}
 ]},
 "19949":{"nexusModName":"Vak's Sweet Treats Poses","nexusUploadedBy":"LaVakariana","nexusModId":19949,"paks":[
-{"nexusFileName":"Vak's Sweet Treats","nexusFileVersion":"1.1","nexusFileUploadedAt":1768090800,"pakFileName":"VAK_SWEET_TREATS_b6838b06-96b4-a912-2e1e-7aa1568a2960.pak","nexusFileId":111832,"metaUuid":"b6838b06-96b4-a912-2e1e-7aa1568a2960"}
+{"nexusFileName":"Vak's Sweet Treats","nexusFileVersion":"1.2","nexusFileUploadedAt":1783771658,"pakFileName":"VAK_SWEET_TREATS_b6838b06-96b4-a912-2e1e-7aa1568a2960.pak","nexusFileId":125421,"metaUuid":"b6838b06-96b4-a912-2e1e-7aa1568a2960"}
 ]},
 "19950":{"nexusModName":"Always on Display Hotbar Icons Detail (AODHID) for Spells of Exandria","nexusUploadedBy":"Eolaloe","nexusModId":19950,"paks":[
 {"nexusFileName":"Exandria_Ver.a","nexusFileVersion":"2.0.0.0","nexusFileUploadedAt":1764927317,"pakFileName":"AOD_Hotbar_Icons_Detail_EX_A_56be36a3-23f7-0ee5-aba7-dd29d0cdd876.pak","nexusFileId":108896,"metaUuid":null},
@@ -66632,4 +66632,7 @@
 ]},
 "23820":{"nexusModName":"Goon's Slayer Overhaul for Japanese","nexusUploadedBy":"Eolaloe","nexusModId":23820,"paks":[
 {"nexusFileName":"Goon's Slayer Overhaul for Japanese","nexusFileVersion":"1.1.0.0","nexusFileUploadedAt":1783751027,"pakFileName":"Goon's Slayer Overhaul_jp.pak","nexusFileId":125396,"metaUuid":null}
+]},
+"23823":{"nexusModName":"Shields Begone","nexusUploadedBy":"Cainhurtz","nexusModId":23823,"paks":[
+{"nexusFileName":"Shields Begone","nexusFileVersion":"1","nexusFileUploadedAt":1783773584,"pakFileName":"Fluck_Shields.pak","nexusFileId":125422,"metaUuid":null}
 ]}}
