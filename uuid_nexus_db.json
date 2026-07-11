@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-07-11T20:51:53.380435+00:00","total_mods":16851},
+{"_meta":{"last_run":"2026-07-11T21:52:25.652949+00:00","total_mods":16851},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -487,8 +487,8 @@
 {"nexusFileName":"UnlockLevelCurve_Patch_XP_x0.75","nexusFileVersion":"2.0.0.24","nexusFileUploadedAt":1721672700,"pakFileName":"UnlockLevelCurve_Patch_XP_x0.75.pak","nexusFileId":64856,"metaUuid":"67312075-1339-43fb-8295-80181fe1e81f"},
 {"nexusFileName":"UnlockLevelCurve","nexusFileVersion":"2.0.0.27","nexusFileUploadedAt":1744745383,"pakFileName":"UnlockLevelCurve.pak","nexusFileId":88967,"metaUuid":"d903677e-f24b-48ec-ab20-98dcc116a371"},
 {"nexusFileName":"UnlockLevelCurve_Patch_5eSpells","nexusFileVersion":"2.0.0.27","nexusFileUploadedAt":1756652184,"pakFileName":"UnlockLevelCurve_Patch_5eSpells.pak","nexusFileId":101792,"metaUuid":"cf0b4eed-8b58-4981-8ab8-bf210d4db97b"},
-{"nexusFileName":"UnlockLevelCurve_Patch_Improvement","nexusFileVersion":"2.0.0.27","nexusFileUploadedAt":1776602449,"pakFileName":"UnlockLevelCurve_Patch_Improvement.pak","nexusFileId":119451,"metaUuid":"0323e6fa-9f27-4299-95e4-42d1a8b24550"},
-{"nexusFileName":"UnlockLevelCurve_Patch_Improvement_Lv2","nexusFileVersion":"2.0.0.27","nexusFileUploadedAt":1776607828,"pakFileName":"UnlockLevelCurve_Patch_Improvement_Lv2.pak","nexusFileId":119455,"metaUuid":"2337b4f9-67bd-4fb6-8a3e-0d0ded76c12b"}
+{"nexusFileName":"UnlockLevelCurve_Patch_Improvement","nexusFileVersion":"2.0.0.28","nexusFileUploadedAt":1783805228,"pakFileName":"UnlockLevelCurve_Patch_Improvement.pak","nexusFileId":125448,"metaUuid":"0323e6fa-9f27-4299-95e4-42d1a8b24550"},
+{"nexusFileName":"UnlockLevelCurve_Patch_Improvement_Lv2","nexusFileVersion":"2.0.0.28","nexusFileUploadedAt":1783805927,"pakFileName":"UnlockLevelCurve_Patch_Improvement_Lv2.pak","nexusFileId":125450,"metaUuid":"2337b4f9-67bd-4fb6-8a3e-0d0ded76c12b"}
 ]},
 "394":{"nexusModName":"Necromancer Warlock - The Dread Overlord - Hotfix 36 Compatible","nexusUploadedBy":"dreadoverlord","nexusModId":394,"paks":[
 {"nexusFileName":"Dread Overlord - Invocations Expanded Add-On IE4","nexusFileVersion":"IE4","nexusFileUploadedAt":1719613212,"pakFileName":"DreadOverlordAddOnIE.pak","nexusFileId":62494,"metaUuid":"f95f63bf-1696-46c9-aaf9-5916cc09acc3"},
@@ -26003,6 +26003,7 @@
 "8832":{"nexusModName":"Unique Companion Assets","nexusUploadedBy":"Padme4000","nexusModId":8832,"paks":[
 {"nexusFileName":"UCA - Trips Shaders","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1713390166,"pakFileName":"UCA - Trips Shaders.pak","nexusFileId":54100,"metaUuid":null},
 {"nexusFileName":"UCA - EoTB","nexusFileVersion":"UCAEotB1.0.0.0","nexusFileUploadedAt":1721234554,"pakFileName":"UCA - EoTB.pak","nexusFileId":64264,"metaUuid":"f947d49c-b46a-43b7-98d2-118df2c1a90a"},
+{"nexusFileName":"UCA Example Give Wyll New Hair","nexusFileVersion":"WyllTemplate1.0.0.0","nexusFileUploadedAt":1766500899,"pakFileName":"p4_uca_wyllhair.pak","nexusFileId":110170,"metaUuid":null},
 {"nexusFileName":"UCA - Prince of the Gate Patch","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1766521864,"pakFileName":"princeofgate-uca_patch.pak","nexusFileId":110198,"metaUuid":null},
 {"nexusFileName":"UCA - KAVT Patch","nexusFileVersion":"KAVTPatch1.0.0.0","nexusFileUploadedAt":1766619553,"pakFileName":"KAVT UCA Patch.pak","nexusFileId":110284,"metaUuid":"cc991189-9026-41dd-9782-e20e44568a06"},
 {"nexusFileName":"UCA - Combined","nexusFileVersion":"UCA-2.0.2.0","nexusFileUploadedAt":1778861717,"pakFileName":"p4_unique_com_8cc519bd-cfd3-4041-9468-518cc3e31b28.pak","nexusFileId":121315,"metaUuid":"8cc519bd-cfd3-4041-9468-518cc3e31b28"},
@@ -41853,7 +41854,7 @@
 {"nexusFileName":"Really Shadowheart PTBR 1.5.2.1","nexusFileVersion":"1.5.2.1","nexusFileUploadedAt":1739838017,"pakFileName":"ReallyShadowheart_1.5.2.1_PTBR.pak","nexusFileId":86034,"metaUuid":null}
 ]},
 "14913":{"nexusModName":"More Weapons by Guigodead","nexusUploadedBy":"guigodeads","nexusModId":14913,"paks":[
-{"nexusFileName":"More Weapons by Guigodead 1.2","nexusFileVersion":"1.2","nexusFileUploadedAt":1783602117,"pakFileName":"More_Weapons_by_Guigodead_41837649-5d7e-6dc6-39d5-ac30012450e8.pak","nexusFileId":125274,"metaUuid":"41837649-5d7e-6dc6-39d5-ac30012450e8"}
+{"nexusFileName":"More Weapons by Guigodead 1.2.1","nexusFileVersion":"1.2.1","nexusFileUploadedAt":1783803060,"pakFileName":"More_Weapons_by_Guigodead_41837649-5d7e-6dc6-39d5-ac30012450e8.pak","nexusFileId":125447,"metaUuid":"41837649-5d7e-6dc6-39d5-ac30012450e8"}
 ]},
 "14914":{"nexusModName":"The Grand Theater - Sell your Lute to the Devil - Custom Campaign v1.1 - Patch8 Ready","nexusUploadedBy":"Moezillaaa","nexusModId":14914,"paks":[
 {"nexusFileName":"The Grand Theater - Sell your Lute to the Devil","nexusFileVersion":"1.1","nexusFileUploadedAt":1747261492,"pakFileName":"TGTv1.1Release.pak","nexusFileId":92951,"metaUuid":"d31f901a-cc87-4383-1727-335ce4cf234e"}
