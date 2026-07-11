@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-07-11T10:52:01.254914+00:00","total_mods":16846},
+{"_meta":{"last_run":"2026-07-11T11:51:50.656113+00:00","total_mods":16847},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -16414,7 +16414,7 @@
 {"nexusFileName":"Minthara Fixed Origin - Clean","nexusFileVersion":"1.1","nexusFileUploadedAt":1722225243,"pakFileName":"Minthara - Fixed Origin - Clean.pak","nexusFileId":65568,"metaUuid":null}
 ]},
 "5209":{"nexusModName":"Select your Statuses","nexusUploadedBy":"swissfred","nexusModId":5209,"paks":[
-{"nexusFileName":"Select your Statuses","nexusFileVersion":"3.3.8.0","nexusFileUploadedAt":1783758542,"pakFileName":"SelectYourStatuses_8244181d-f260-2a5d-7298-71977f29bf3b.pak","nexusFileId":125414,"metaUuid":"8244181d-f260-2a5d-7298-71977f29bf3b"}
+{"nexusFileName":"Select your Statuses","nexusFileVersion":"3.3.8.2","nexusFileUploadedAt":1783768676,"pakFileName":"SelectYourStatuses_8244181d-f260-2a5d-7298-71977f29bf3b.pak","nexusFileId":125419,"metaUuid":"8244181d-f260-2a5d-7298-71977f29bf3b"}
 ]},
 "5210":{"nexusModName":"5e Banneret (Purple Dragon Knight) - Fighter Subclasss (Deprecated)","nexusUploadedBy":"sumradagnoth8","nexusModId":5210,"paks":[
 {"nexusFileName":"Banneret5e.zip","nexusFileVersion":"1.9.0.2","nexusFileUploadedAt":1731022912,"pakFileName":"Banneret5e.pak","nexusFileId":78197,"metaUuid":null}
@@ -64142,8 +64142,9 @@
 {"nexusFileName":"TMTS BT1 Pale Changeling Patch","nexusFileVersion":"1","nexusFileUploadedAt":1779923775,"pakFileName":"CSSChangeling_BT1Edit.pak","nexusFileId":122315,"metaUuid":null},
 {"nexusFileName":"Hijimare BT1 Pale Changeling Patch","nexusFileVersion":"1","nexusFileUploadedAt":1779964298,"pakFileName":"CSSChangeling_BT1Edit.pak","nexusFileId":122336,"metaUuid":null},
 {"nexusFileName":"CSSChangeling AltMats","nexusFileVersion":"2","nexusFileUploadedAt":1780006236,"pakFileName":"CSSChangeling_AltMats.pak","nexusFileId":122377,"metaUuid":null},
-{"nexusFileName":"CSSChangeling","nexusFileVersion":"2","nexusFileUploadedAt":1780006475,"pakFileName":"CSSChangeling.pak","nexusFileId":122378,"metaUuid":"717af779-7b40-4408-87c5-e5e7b389a152"},
-{"nexusFileName":"Faces of Faerun Patch","nexusFileVersion":"1","nexusFileUploadedAt":1781112519,"pakFileName":"CSSChangeling_FOFPatch.pak","nexusFileId":123290,"metaUuid":"83a153bd-54e8-4852-92d6-3008da750cda"}
+{"nexusFileName":"Faces of Faerun Patch","nexusFileVersion":"1","nexusFileUploadedAt":1781112519,"pakFileName":"CSSChangeling_FOFPatch.pak","nexusFileId":123290,"metaUuid":"83a153bd-54e8-4852-92d6-3008da750cda"},
+{"nexusFileName":"Petit Body BT1Edit","nexusFileVersion":"1","nexusFileUploadedAt":1783768502,"pakFileName":"CSSChangeling_BT1Edit.pak","nexusFileId":125418,"metaUuid":null},
+{"nexusFileName":"CSSChangeling","nexusFileVersion":"3","nexusFileUploadedAt":1783768852,"pakFileName":"CSSChangeling.pak","nexusFileId":125420,"metaUuid":"717af779-7b40-4408-87c5-e5e7b389a152"}
 ]},
 "22774":{"nexusModName":"EasyCheat with in-game UI (MCM)(SE) Simple Chinese translation","nexusUploadedBy":"Imemee","nexusModId":22774,"paks":[
 {"nexusFileName":"EasyCheatChs","nexusFileVersion":"2.3.2","nexusFileUploadedAt":1778394459,"pakFileName":"EasyCheatChs.pak","nexusFileId":120876,"metaUuid":"318a1b34-63b1-4986-8c2f-f93c19b7a147"}
@@ -66556,6 +66557,10 @@
 ]},
 "23775":{"nexusModName":"bHaptics Haptic Feedback for Baldur's Gate 3","nexusUploadedBy":"devgenoyun","nexusModId":23775,"paks":[
 {"nexusFileName":"BhapticsBG3Mod V0.6.0","nexusFileVersion":"0.6.0","nexusFileUploadedAt":1783670240,"pakFileName":"BhapticsBG3.pak","nexusFileId":125327,"metaUuid":null}
+]},
+"23777":{"nexusModName":"Original Head Presets Part 1","nexusUploadedBy":"VespertilioArt","nexusModId":23777,"paks":[
+{"nexusFileName":"Originals P1  - CCO","nexusFileVersion":"1.0.0.1","nexusFileUploadedAt":1783763941,"pakFileName":"Originals_P1 - CCO.pak","nexusFileId":125415,"metaUuid":null},
+{"nexusFileName":"Originals P1","nexusFileVersion":"1.0.0.2","nexusFileUploadedAt":1783765438,"pakFileName":"Originals_P1.pak","nexusFileId":125417,"metaUuid":null}
 ]},
 "23780":{"nexusModName":"Dark Urge Morning After - Always Gale","nexusUploadedBy":"Seristina","nexusModId":23780,"paks":[
 {"nexusFileName":"DurgeMorningAlwaysGale","nexusFileVersion":"1","nexusFileUploadedAt":1783539513,"pakFileName":"DurgeMorningAlwaysGale.pak","nexusFileId":125239,"metaUuid":null}
