@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-07-12T14:52:03.758557+00:00","total_mods":16858},
+{"_meta":{"last_run":"2026-07-12T15:52:19.128944+00:00","total_mods":16859},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -50847,7 +50847,7 @@
 ]},
 "18259":{"nexusModName":"Witcher class - Reborn","nexusUploadedBy":"RaphaelCHEN1","nexusModId":18259,"paks":[
 {"nexusFileName":"Witcher Class -Reborn","nexusFileVersion":"2.0.0.91","nexusFileUploadedAt":1766318277,"pakFileName":"Witcher Class.pak","nexusFileId":110011,"metaUuid":"8be1ab10-817c-4fe3-8954-4dc0da81ff55"},
-{"nexusFileName":"Witcher Class-Reborn-20-Level","nexusFileVersion":"2.0.0.99","nexusFileUploadedAt":1783133033,"pakFileName":"Witcher Class.pak","nexusFileId":124823,"metaUuid":"8be1ab10-817c-4fe3-8954-4dc0da81ff55"}
+{"nexusFileName":"Witcher Class-Reborn-20-Level","nexusFileVersion":"2.0.0.99","nexusFileUploadedAt":1783869090,"pakFileName":"Witcher Class.pak","nexusFileId":125483,"metaUuid":"8be1ab10-817c-4fe3-8954-4dc0da81ff55"}
 ]},
 "18260":{"nexusModName":"Scratch Evolved","nexusUploadedBy":"Exaen","nexusModId":18260,"paks":[
 {"nexusFileName":"ScratchEvolved","nexusFileVersion":"1.2.4.0","nexusFileUploadedAt":1781545301,"pakFileName":"ScratchEvolved_3a0b775f-bdc1-1bf2-8b95-df894d25bc3f.pak","nexusFileId":123671,"metaUuid":"3a0b775f-bdc1-1bf2-8b95-df894d25bc3f"}
@@ -65712,8 +65712,8 @@
 "23379":{"nexusModName":"Divinity Preludes","nexusUploadedBy":"GabeCamomescro","nexusModId":23379,"paks":[
 {"nexusFileName":"Main (Live) File","nexusFileVersion":"1.0.0.1212","nexusFileUploadedAt":1783815073,"pakFileName":"Preludes_f6c7657d-7c5e-cd0e-f0a9-6c851d5c473d.pak","nexusFileId":125452,"metaUuid":null}
 ]},
-"23380":{"nexusModName":"Add to Wares and Send to Camp Hotkeys","nexusUploadedBy":"sowww","nexusModId":23380,"paks":[
-{"nexusFileName":"Add to Wares and Send to Camp Hotkeys","nexusFileVersion":"1.4.0","nexusFileUploadedAt":1783463977,"pakFileName":"AddToWaresHotkey.pak","nexusFileId":125192,"metaUuid":"dbddeb99-0037-4845-9c43-c77b9b19a62f"}
+"23380":{"nexusModName":"Quality of Life Hotkeys","nexusUploadedBy":"sowww","nexusModId":23380,"paks":[
+{"nexusFileName":"Quality of Life Hotkeys","nexusFileVersion":"1.5.0","nexusFileUploadedAt":1783870841,"pakFileName":"AddToWaresHotkey.pak","nexusFileId":125485,"metaUuid":"dbddeb99-0037-4845-9c43-c77b9b19a62f"}
 ]},
 "23381":{"nexusModName":"Valdacil's Half-Illithid Effect Toggle - RUS","nexusUploadedBy":"DeKRuS","nexusModId":23381,"paks":[
 {"nexusFileName":"Val RemoveHalfIllithidEffect RUS","nexusFileVersion":"1","nexusFileUploadedAt":1781449993,"pakFileName":"Val_RemoveHalfIllithidEffect_RUS.pak","nexusFileId":123557,"metaUuid":null}
@@ -66341,6 +66341,9 @@
 ]},
 "23676":{"nexusModName":"STAV - Universal Automatic Patcher (UAP)","nexusUploadedBy":"Volitio","nexusModId":23676,"paks":[
 {"nexusFileName":"STAV UAP 1.0.0","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1783640867,"pakFileName":"Universal STAV Patcher.pak","nexusFileId":125308,"metaUuid":"a347f848-222b-4cdc-8cba-754ee581d6d9"}
+]},
+"23677":{"nexusModName":"Living Sculptures Pose Pack","nexusUploadedBy":"primnose","nexusModId":23677,"paks":[
+{"nexusFileName":"Primnose's Living Sculpture Pose Pack","nexusFileVersion":"1.0.0.2","nexusFileUploadedAt":1783870826,"pakFileName":"Primnose_LivingSculptures_Poses_7734f3d0-9c63-8f49-dbb1-6c79caabbb7d.pak","nexusFileId":125484,"metaUuid":null}
 ]},
 "23680":{"nexusModName":"Starting Equipment Selection","nexusUploadedBy":"NecroticFlame","nexusModId":23680,"paks":[
 {"nexusFileName":"Humanoid Equipment and Clothing","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1783057657,"pakFileName":"ECC_Humanoid_5f2c3462-94d5-feeb-5f39-5cd0f7a76c5a.pak","nexusFileId":124757,"metaUuid":"5f2c3462-94d5-feeb-5f39-5cd0f7a76c5a"},
