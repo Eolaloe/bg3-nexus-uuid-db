@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-07-11T23:52:16.306998+00:00","total_mods":16851},
+{"_meta":{"last_run":"2026-07-12T00:52:22.837747+00:00","total_mods":16852},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -41994,8 +41994,8 @@
 {"nexusFileName":"All Heads All Horns for All Races v1.0.0.4 P8","nexusFileVersion":"1.0.0.4","nexusFileUploadedAt":1744978713,"pakFileName":"AllHeadsAllRaces_1db3e478-fcfa-8eb4-de77-b612f1605b45.pak","nexusFileId":89510,"metaUuid":"1db3e478-fcfa-8eb4-de77-b612f1605b45"}
 ]},
 "14971":{"nexusModName":"Umbral Archer - Ranger subclass","nexusUploadedBy":"Siaell","nexusModId":14971,"paks":[
-{"nexusFileName":"Level 20 progression","nexusFileVersion":"1.5","nexusFileUploadedAt":1766167696,"pakFileName":"Umbral Archer - 20.pak","nexusFileId":109921,"metaUuid":"228ac74e-8a1f-41d9-a0dc-e5d044678930"},
-{"nexusFileName":"Umbral Archer","nexusFileVersion":"1.5.3","nexusFileUploadedAt":1783374074,"pakFileName":"Umbral Archer.pak","nexusFileId":125133,"metaUuid":"f3a27808-b86e-49c7-910f-ea493bf819a2"}
+{"nexusFileName":"Umbral Archer","nexusFileVersion":"1.5.3","nexusFileUploadedAt":1783374074,"pakFileName":"Umbral Archer.pak","nexusFileId":125133,"metaUuid":"f3a27808-b86e-49c7-910f-ea493bf819a2"},
+{"nexusFileName":"Level 20 progression","nexusFileVersion":"1.6","nexusFileUploadedAt":1783814098,"pakFileName":"Umbral Archer - 20.pak","nexusFileId":125451,"metaUuid":"228ac74e-8a1f-41d9-a0dc-e5d044678930"}
 ]},
 "14972":{"nexusModName":"Theurgy Wizard Subclass","nexusUploadedBy":"Fuyou1066","nexusModId":14972,"paks":[
 {"nexusFileName":"Theurgy Wizard 5eSpells Compatibility","nexusFileVersion":"1.0.1.0","nexusFileUploadedAt":1741968535,"pakFileName":"Theurgy_Wizard_5eSpells_Compatibility_ef53894d-8f9d-ccbc-0134-729a3f7dacd7.pak","nexusFileId":87241,"metaUuid":null},
@@ -63945,6 +63945,9 @@
 "22692":{"nexusModName":"Abdirak's New Look","nexusUploadedBy":"Khloii1","nexusModId":22692,"paks":[
 {"nexusFileName":"Abdirak's New Look","nexusFileVersion":"1.0","nexusFileUploadedAt":1777842343,"pakFileName":"Abdirak_New_Look_47643663-c32f-1dcf-69a4-767af5051714.pak","nexusFileId":120448,"metaUuid":"47643663-c32f-1dcf-69a4-767af5051714"}
 ]},
+"22693":{"nexusModName":"Auto Enable Reactions (And Don't Ask)","nexusUploadedBy":"Volitio","nexusModId":22693,"paks":[
+{"nexusFileName":"Auto Enable Reactions (+ Don'T Ask) 1.0.0","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1783385789,"pakFileName":"Auto Enable Reactions (+ Don't Ask).pak","nexusFileId":125140,"metaUuid":null}
+]},
 "22694":{"nexusModName":"Hunted - Dynamic Ambushes and Revenge System for Chinese","nexusUploadedBy":"hanli","nexusModId":22694,"paks":[
 {"nexusFileName":"Hunted CH","nexusFileVersion":"1.0.7.3","nexusFileUploadedAt":1779713206,"pakFileName":"Hunted_CH.pak","nexusFileId":122109,"metaUuid":"a3c5352a-3661-4ed0-b320-894e85e25d62"}
 ]},
@@ -65703,7 +65706,7 @@
 {"nexusFileName":"axi_and_r_ assets","nexusFileVersion":"1.0.0.63","nexusFileUploadedAt":1781702650,"pakFileName":"axi_and_r_assets.pak","nexusFileId":123758,"metaUuid":"643fb4fd-ae00-8c58-9ac4-cf0277d91d56"}
 ]},
 "23379":{"nexusModName":"Divinity Preludes","nexusUploadedBy":"GabeCamomescro","nexusModId":23379,"paks":[
-{"nexusFileName":"Main (Live) File","nexusFileVersion":"1.0.0.1181","nexusFileUploadedAt":1783681780,"pakFileName":"Preludes_f6c7657d-7c5e-cd0e-f0a9-6c851d5c473d.pak","nexusFileId":125335,"metaUuid":null}
+{"nexusFileName":"Main (Live) File","nexusFileVersion":"1.0.0.1212","nexusFileUploadedAt":1783815073,"pakFileName":"Preludes_f6c7657d-7c5e-cd0e-f0a9-6c851d5c473d.pak","nexusFileId":125452,"metaUuid":null}
 ]},
 "23380":{"nexusModName":"Add to Wares and Send to Camp Hotkeys","nexusUploadedBy":"sowww","nexusModId":23380,"paks":[
 {"nexusFileName":"Add to Wares and Send to Camp Hotkeys","nexusFileVersion":"1.4.0","nexusFileUploadedAt":1783463977,"pakFileName":"AddToWaresHotkey.pak","nexusFileId":125192,"metaUuid":"dbddeb99-0037-4845-9c43-c77b9b19a62f"}
