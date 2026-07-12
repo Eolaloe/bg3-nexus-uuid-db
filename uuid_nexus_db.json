@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-07-12T16:52:04.419361+00:00","total_mods":16859},
+{"_meta":{"last_run":"2026-07-12T17:52:15.772364+00:00","total_mods":16861},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -49792,7 +49792,7 @@
 ]},
 "17883":{"nexusModName":"NPCs have Subclasses and Feats (with Sorcerers NPCs)","nexusUploadedBy":"darkynho","nexusModId":17883,"paks":[
 {"nexusFileName":"NPCs have Subclasses","nexusFileVersion":"2.3.0.12","nexusFileUploadedAt":1771847498,"pakFileName":"NPCs have Subclasses.pak","nexusFileId":115457,"metaUuid":"598add30-4903-450b-8cbb-2d558a5eb5c0"},
-{"nexusFileName":"NPCs Have Subclasses - SE Beta version","nexusFileVersion":"3.2","nexusFileUploadedAt":1782671510,"pakFileName":"NPCs have Subclasses - SE.pak","nexusFileId":124495,"metaUuid":"8fc43c5d-fe37-4d51-9cc3-a3840adc21b2"}
+{"nexusFileName":"NPCs Have Subclasses - SE Beta version","nexusFileVersion":"3.3","nexusFileUploadedAt":1783877816,"pakFileName":"NPCs have Subclasses - SE.pak","nexusFileId":125490,"metaUuid":"8fc43c5d-fe37-4d51-9cc3-a3840adc21b2"}
 ]},
 "17884":{"nexusModName":"Armory - Auto-Transmog Vanity Outfit Manager_KOR","nexusUploadedBy":"Ahdarugo","nexusModId":17884,"paks":[
 {"nexusFileName":"Armory_KOR","nexusFileVersion":"1.8","nexusFileUploadedAt":1776484119,"pakFileName":"Armory_KOR.pak","nexusFileId":119332,"metaUuid":null}
@@ -63344,7 +63344,7 @@
 {"nexusFileName":"Fatebond","nexusFileVersion":"1.3.1","nexusFileUploadedAt":1783208148,"pakFileName":"Fatebond.pak","nexusFileId":124903,"metaUuid":"6cfead1f-d54c-4dfb-bc94-05e9fc1e2970"}
 ]},
 "22459":{"nexusModName":"DnD 5.5e All-in-One BEYOND Russian Localization","nexusUploadedBy":"XapcT","nexusModId":22459,"paks":[
-{"nexusFileName":"DnD 5.5e AIO Russian v0.3.123.zip","nexusFileVersion":"0.3.123","nexusFileUploadedAt":1783788571,"pakFileName":"DnD 5.5e AIO Russian.pak","nexusFileId":125436,"metaUuid":null}
+{"nexusFileName":"DnD 5.5e AIO Russian v0.3.124.zip","nexusFileVersion":"0.3.124","nexusFileUploadedAt":1783878446,"pakFileName":"DnD 5.5e AIO Russian.pak","nexusFileId":125491,"metaUuid":null}
 ]},
 "22460":{"nexusModName":"Elementally Based Gear","nexusUploadedBy":"Useyourrifle","nexusModId":22460,"paks":[
 {"nexusFileName":"Elemental_Gear.7z","nexusFileVersion":"1","nexusFileUploadedAt":1776346340,"pakFileName":"OP_Bow_56032304-f037-e077-f5e7-045d2e03ef1c.pak","nexusFileId":119147,"metaUuid":"56032304-f037-e077-f5e7-045d2e03ef1c"}
@@ -66343,7 +66343,7 @@
 {"nexusFileName":"STAV UAP 1.0.0","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1783640867,"pakFileName":"Universal STAV Patcher.pak","nexusFileId":125308,"metaUuid":"a347f848-222b-4cdc-8cba-754ee581d6d9"}
 ]},
 "23677":{"nexusModName":"Living Sculptures Pose Pack","nexusUploadedBy":"primnose","nexusModId":23677,"paks":[
-{"nexusFileName":"Primnose's Living Sculpture Pose Pack","nexusFileVersion":"1.0.0.2","nexusFileUploadedAt":1783870826,"pakFileName":"Primnose_LivingSculptures_Poses_7734f3d0-9c63-8f49-dbb1-6c79caabbb7d.pak","nexusFileId":125484,"metaUuid":null}
+{"nexusFileName":"Primnose's Living Sculpture Pose Pack","nexusFileVersion":"1.0.0.3","nexusFileUploadedAt":1783876809,"pakFileName":"Primnose_LivingSculptures_Poses_7734f3d0-9c63-8f49-dbb1-6c79caabbb7d.pak","nexusFileId":125487,"metaUuid":null}
 ]},
 "23680":{"nexusModName":"Starting Equipment Selection","nexusUploadedBy":"NecroticFlame","nexusModId":23680,"paks":[
 {"nexusFileName":"Humanoid Equipment and Clothing","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1783057657,"pakFileName":"ECC_Humanoid_5f2c3462-94d5-feeb-5f39-5cd0f7a76c5a.pak","nexusFileId":124757,"metaUuid":"5f2c3462-94d5-feeb-5f39-5cd0f7a76c5a"},
@@ -66678,4 +66678,10 @@
 ]},
 "23829":{"nexusModName":"Fate of Stelmane","nexusUploadedBy":"Nuage12","nexusModId":23829,"paks":[
 {"nexusFileName":"Emperor always show you fate of Stelmane","nexusFileVersion":"1","nexusFileUploadedAt":1783856118,"pakFileName":"empchm_37bc1ba1-37a3-dd7c-91c8-c91bd13abe34.pak","nexusFileId":125474,"metaUuid":null}
+]},
+"23830":{"nexusModName":"Astarion's Beautiful Elegant Tent","nexusUploadedBy":"sarymsak","nexusModId":23830,"paks":[
+{"nexusFileName":"Astarion's Beautiful Elegant Tent","nexusFileVersion":"1.0","nexusFileUploadedAt":1783872232,"pakFileName":"v1.0_SAR_Astarions-beautiful-elegant-tent_a3ec8b31-53fb-3c35-ecd9-3f97852a4cb6.pak","nexusFileId":125486,"metaUuid":null}
+]},
+"23831":{"nexusModName":"Solamnic Knight (Class and Sub-Class Mod)","nexusUploadedBy":"Paranoiac21","nexusModId":23831,"paks":[
+{"nexusFileName":"Solamnic Knight","nexusFileVersion":"1","nexusFileUploadedAt":1783877579,"pakFileName":"Solamnic Knight.pak","nexusFileId":125488,"metaUuid":null}
 ]}}
