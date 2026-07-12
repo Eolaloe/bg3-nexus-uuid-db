@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-07-12T09:52:15.964930+00:00","total_mods":16853},
+{"_meta":{"last_run":"2026-07-12T10:52:09.946834+00:00","total_mods":16855},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -66214,6 +66214,10 @@
 "23619":{"nexusModName":"Renee's Princess Wardrobe for Plus Size","nexusUploadedBy":"MissRen","nexusModId":23619,"paks":[
 {"nexusFileName":"OBSC Renees Princess Wardrobe Plus","nexusFileVersion":"1","nexusFileUploadedAt":1782703006,"pakFileName":"OBSC_Renees_Princess_Wardrobe_Plus.pak","nexusFileId":124516,"metaUuid":null}
 ]},
+"23620":{"nexusModName":"The Cosmic Patron - Warlock Subclass","nexusUploadedBy":"aljoxo","nexusModId":23620,"paks":[
+{"nexusFileName":"Cosmic Warlock - PHB2024 Patch","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1783838106,"pakFileName":"CosmicWarlock - PHB2024 Patch.pak","nexusFileId":125463,"metaUuid":null},
+{"nexusFileName":"Cosmic Warlock","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1783849849,"pakFileName":"CosmicWarlock_bd683971-5e12-1bf5-3e48-7d20c2a5bb5d.pak","nexusFileId":125468,"metaUuid":null}
+]},
 "23622":{"nexusModName":"SEAF Commando - Helldivers 2","nexusUploadedBy":"JaegerWasTaken","nexusModId":23622,"paks":[
 {"nexusFileName":"SEAF Commandoes","nexusFileVersion":"1","nexusFileUploadedAt":1783432756,"pakFileName":"SEAF_Commandoes_f31b41d6-5f1c-de1d-0fd5-464cb50db406.pak","nexusFileId":125164,"metaUuid":null}
 ]},
@@ -66658,4 +66662,8 @@
 ]},
 "23824":{"nexusModName":"Shadow from Grenpoli - bt2 outfit","nexusUploadedBy":"Mojra414","nexusModId":23824,"paks":[
 {"nexusFileName":"SFG_v1","nexusFileVersion":"1","nexusFileUploadedAt":1783790006,"pakFileName":"SFG_f7e86c39-1195-d5e0-ab5b-4b6d7118fac1.pak","nexusFileId":125438,"metaUuid":"f7e86c39-1195-d5e0-ab5b-4b6d7118fac1"}
+]},
+"23828":{"nexusModName":"Devil May Cry 5 (DMC5) Nero","nexusUploadedBy":"KraytClaw","nexusModId":23828,"paks":[
+{"nexusFileName":" NeroHead","nexusFileVersion":"1.0","nexusFileUploadedAt":1783851327,"pakFileName":"_NeroHead.pak","nexusFileId":125469,"metaUuid":null},
+{"nexusFileName":" NeroHair","nexusFileVersion":"1.0","nexusFileUploadedAt":1783851351,"pakFileName":"_NeroHair.pak","nexusFileId":125470,"metaUuid":null}
 ]}}
