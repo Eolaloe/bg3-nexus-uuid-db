@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-07-12T18:52:14.189896+00:00","total_mods":16861},
+{"_meta":{"last_run":"2026-07-12T19:52:13.082947+00:00","total_mods":16862},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -36296,7 +36296,7 @@
 {"nexusFileName":"TheTrueChampion_v1.2 - BR","nexusFileVersion":"1.0","nexusFileUploadedAt":1728187370,"pakFileName":"TheTrueChampion_v1.2 - BR.pak","nexusFileId":74189,"metaUuid":null}
 ]},
 "12834":{"nexusModName":"Goon's Library - Passives Functions Spells and More","nexusUploadedBy":"BaldursGoonsack","nexusModId":12834,"paks":[
-{"nexusFileName":"Goon's Library","nexusFileVersion":"4.10.0.0","nexusFileUploadedAt":1783796709,"pakFileName":"Goon's Library.pak","nexusFileId":125442,"metaUuid":"07fbc2f1-f359-4b9d-b243-fe28bd783e4c"}
+{"nexusFileName":"Goon's Library","nexusFileVersion":"4.11.0.0","nexusFileUploadedAt":1783884572,"pakFileName":"Goon's Library.pak","nexusFileId":125498,"metaUuid":"07fbc2f1-f359-4b9d-b243-fe28bd783e4c"}
 ]},
 "12835":{"nexusModName":"Fiendish Races (Succubus and Cambions)","nexusUploadedBy":"haytur","nexusModId":12835,"paks":[
 {"nexusFileName":"Fiendish Races","nexusFileVersion":"1.5","nexusFileUploadedAt":1754198767,"pakFileName":"CambionRace.pak","nexusFileId":99769,"metaUuid":"d3a48c4c-f446-a697-1982-5628a8ebb728"}
@@ -42211,7 +42211,7 @@
 {"nexusFileName":"FeatsOverhaul AlertPatch","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1776444848,"pakFileName":"FeatsOverhaul_AlertPatch.pak","nexusFileId":119293,"metaUuid":"7da6084a-0837-4964-9da8-872b4f4e8170"},
 {"nexusFileName":"FeatsOverhaul HitDicePatch","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1779231272,"pakFileName":"FeatsOverhaul_HitDicePatch.pak","nexusFileId":121718,"metaUuid":"19edd084-c1bd-4042-a9f1-61a7817448d1"},
 {"nexusFileName":"FeatsOverhaul DualWielderPatch","nexusFileVersion":"1.0.2","nexusFileUploadedAt":1780003994,"pakFileName":"FeatsOverhaul_DualWielderPatch.pak","nexusFileId":122374,"metaUuid":"f1f0cb96-009b-40fa-b309-fcd26124bcb9"},
-{"nexusFileName":"FeatsOverhaul","nexusFileVersion":"1.5.10","nexusFileUploadedAt":1780867657,"pakFileName":"FeatsOverhaul.pak","nexusFileId":123108,"metaUuid":"c2f1a230-8c0c-481b-9ab2-987e27d7db05"}
+{"nexusFileName":"FeatsOverhaul","nexusFileVersion":"1.5.11","nexusFileUploadedAt":1783884563,"pakFileName":"FeatsOverhaul.pak","nexusFileId":125497,"metaUuid":"c2f1a230-8c0c-481b-9ab2-987e27d7db05"}
 ]},
 "15045":{"nexusModName":"5e Ranger Subclasses Combined_KOR","nexusUploadedBy":"Ahdarugo","nexusModId":15045,"paks":[
 {"nexusFileName":"5e Ranger Subclasses Combined_KOR","nexusFileVersion":"2.0.0.3","nexusFileUploadedAt":1770134218,"pakFileName":"ranger__6473a445-3c30-7721-47ce-966e72fab1fd.pak","nexusFileId":114048,"metaUuid":"6473a445-3c30-7721-47ce-966e72fab1fd"}
@@ -66219,7 +66219,7 @@
 ]},
 "23620":{"nexusModName":"The Cosmic Patron - Warlock Subclass","nexusUploadedBy":"aljoxo","nexusModId":23620,"paks":[
 {"nexusFileName":"Cosmic Warlock - PHB2024 Patch","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1783838106,"pakFileName":"CosmicWarlock - PHB2024 Patch.pak","nexusFileId":125463,"metaUuid":null},
-{"nexusFileName":"Cosmic Warlock","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1783849849,"pakFileName":"CosmicWarlock_bd683971-5e12-1bf5-3e48-7d20c2a5bb5d.pak","nexusFileId":125468,"metaUuid":null}
+{"nexusFileName":"Cosmic Warlock","nexusFileVersion":"1.0.1","nexusFileUploadedAt":1783884159,"pakFileName":"CosmicWarlock_bd683971-5e12-1bf5-3e48-7d20c2a5bb5d.pak","nexusFileId":125496,"metaUuid":null}
 ]},
 "23622":{"nexusModName":"SEAF Commando - Helldivers 2","nexusUploadedBy":"JaegerWasTaken","nexusModId":23622,"paks":[
 {"nexusFileName":"SEAF Commandoes","nexusFileVersion":"1","nexusFileUploadedAt":1783432756,"pakFileName":"SEAF_Commandoes_f31b41d6-5f1c-de1d-0fd5-464cb50db406.pak","nexusFileId":125164,"metaUuid":null}
@@ -66684,4 +66684,7 @@
 ]},
 "23831":{"nexusModName":"Solamnic Knight (Class and Sub-Class Mod)","nexusUploadedBy":"Paranoiac21","nexusModId":23831,"paks":[
 {"nexusFileName":"Solamnic Knight","nexusFileVersion":"2","nexusFileUploadedAt":1783881559,"pakFileName":"Solamnic Knight.pak","nexusFileId":125495,"metaUuid":null}
+]},
+"23833":{"nexusModName":"Pretty Poison Heads","nexusUploadedBy":"AdrasteaMoon","nexusModId":23833,"paks":[
+{"nexusFileName":"Pretty Poison","nexusFileVersion":"1","nexusFileUploadedAt":1783885696,"pakFileName":"Pretty Poison.pak","nexusFileId":125499,"metaUuid":null}
 ]}}
