@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-07-13T14:51:56.760915+00:00","total_mods":16866},
+{"_meta":{"last_run":"2026-07-13T15:52:00.898737+00:00","total_mods":16868},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -30977,7 +30977,8 @@
 {"nexusFileName":"Himbofied Halsin - Older","nexusFileVersion":"2.0","nexusFileUploadedAt":1728061612,"pakFileName":"SD_Halsin_M.pak","nexusFileId":73947,"metaUuid":null},
 {"nexusFileName":"Himbofied Halsin - OlderFangs","nexusFileVersion":"2.0","nexusFileUploadedAt":1728062725,"pakFileName":"SD_Halsin_MF.pak","nexusFileId":73950,"metaUuid":null},
 {"nexusFileName":"Himbofied Halsin - Original","nexusFileVersion":"2.0","nexusFileUploadedAt":1728063966,"pakFileName":"SD_Halsin_O.pak","nexusFileId":73952,"metaUuid":null},
-{"nexusFileName":"Himbofied Halsin - Original w Fangs","nexusFileVersion":"2.0","nexusFileUploadedAt":1728064883,"pakFileName":"SD_Halsin_OF.pak","nexusFileId":73953,"metaUuid":null}
+{"nexusFileName":"Himbofied Halsin - Original w Fangs","nexusFileVersion":"2.0","nexusFileUploadedAt":1728064883,"pakFileName":"SD_Halsin_OF.pak","nexusFileId":73953,"metaUuid":null},
+{"nexusFileName":"Himbofied Halsin - Eye Patch","nexusFileVersion":"2.0","nexusFileUploadedAt":1728084965,"pakFileName":"SD_Halsin_EP.pak","nexusFileId":73992,"metaUuid":null}
 ]},
 "10768":{"nexusModName":"Daddy Raphael","nexusUploadedBy":"SydMeier","nexusModId":10768,"paks":[
 {"nexusFileName":"Daddy Raphael","nexusFileVersion":"1.0","nexusFileUploadedAt":1720207800,"pakFileName":"DaddyRaphael.pak","nexusFileId":63159,"metaUuid":null},
@@ -61317,7 +61318,7 @@
 {"nexusFileName":"Metamagic Merged","nexusFileVersion":"1.1.0","nexusFileUploadedAt":1779738342,"pakFileName":"Metamagic_Merged.pak","nexusFileId":122128,"metaUuid":"a1b2c3d4-e5f6-7890-abcd-ef1234567890"}
 ]},
 "21744":{"nexusModName":"Trials of Tav - Reloaded for Korean","nexusUploadedBy":"Eolaloe","nexusModId":21744,"paks":[
-{"nexusFileName":"Trials of Tav - Reloaded for Korean","nexusFileVersion":"2.3.4.2","nexusFileUploadedAt":1783943532,"pakFileName":"CombatMod_kr.pak","nexusFileId":125543,"metaUuid":"437a1a0c-7a0e-44e8-a06e-0c24ee898d37"}
+{"nexusFileName":"Trials of Tav - Reloaded for Korean","nexusFileVersion":"2.3.4.2","nexusFileUploadedAt":1783956775,"pakFileName":"CombatMod_kr.pak","nexusFileId":125549,"metaUuid":"437a1a0c-7a0e-44e8-a06e-0c24ee898d37"}
 ]},
 "21745":{"nexusModName":"Advanced Tabletop Spells for Korean","nexusUploadedBy":"Eolaloe","nexusModId":21745,"paks":[
 {"nexusFileName":"Advanced Tabletop Spells for Korean","nexusFileVersion":"1.1.9.1","nexusFileUploadedAt":1773620800,"pakFileName":"AdvancedTTSpells_kr.pak","nexusFileId":116825,"metaUuid":"2587057b-393e-4799-8644-50cdb5af3a6a"}
@@ -66398,7 +66399,7 @@
 {"nexusFileName":"HT DarkUrgeTweeaks Chs","nexusFileVersion":"1","nexusFileUploadedAt":1783132897,"pakFileName":"HT_DarkUrgeTweeaks_Chs.pak","nexusFileId":124822,"metaUuid":null}
 ]},
 "23702":{"nexusModName":"Cooking Recipes for JWL Crafting Framework","nexusUploadedBy":"JimmyJohn3216","nexusModId":23702,"paks":[
-{"nexusFileName":"Cooking Recipes","nexusFileVersion":"1","nexusFileUploadedAt":1783182078,"pakFileName":"CookingRecipes_b8ba240d-c945-abc2-3fdc-3e675c67a3d7.pak","nexusFileId":124871,"metaUuid":"b8ba240d-c945-abc2-3fdc-3e675c67a3d7"}
+{"nexusFileName":"Cooking Recipes","nexusFileVersion":"1.5","nexusFileUploadedAt":1783955487,"pakFileName":"CookingRecipes_b8ba240d-c945-abc2-3fdc-3e675c67a3d7.pak","nexusFileId":125547,"metaUuid":"b8ba240d-c945-abc2-3fdc-3e675c67a3d7"}
 ]},
 "23703":{"nexusModName":"The Weaver Class - Write Your Own Spells","nexusUploadedBy":"MiyuunDev","nexusModId":23703,"paks":[
 {"nexusFileName":"The Weaver Class - 1.3.1 ALPHA","nexusFileVersion":"1.3.1","nexusFileUploadedAt":1783878916,"pakFileName":"WeaverTisserand.pak","nexusFileId":125494,"metaUuid":"bc43c834-0569-4dcd-847b-4aabf46560c6"}
@@ -66609,6 +66610,9 @@
 "23793":{"nexusModName":"Clean Mattresses Now","nexusUploadedBy":"gobanaoblin","nexusModId":23793,"paks":[
 {"nexusFileName":"Clean Mattresses Now","nexusFileVersion":"2","nexusFileUploadedAt":1783626204,"pakFileName":"CleanMattressesNow_14e5c068-b2a7-9b48-3d54-72bb95ce7998.pak","nexusFileId":125302,"metaUuid":"14e5c068-b2a7-9b48-3d54-72bb95ce7998"}
 ]},
+"23794":{"nexusModName":"New Boot Goofin' - Boots of Striding Appearance Tweak","nexusUploadedBy":"auracrest","nexusModId":23794,"paks":[
+{"nexusFileName":"New Boot Goofin'","nexusFileVersion":"1.0","nexusFileUploadedAt":1783625755,"pakFileName":"Boots_Of_Striding_Tweak_e7486117-3890-7206-beef-1399ac9cb60f.pak","nexusFileId":125301,"metaUuid":null}
+]},
 "23795":{"nexusModName":"Moon's Beloved Piercing Set (With physics)","nexusUploadedBy":"Elledwyn","nexusModId":23795,"paks":[
 {"nexusFileName":"Moons Beloved Piercing Set","nexusFileVersion":"1","nexusFileUploadedAt":1783611086,"pakFileName":"Moons_Beloved_95053ae2-df83-9abd-d60c-8b5d35b35419.pak","nexusFileId":125277,"metaUuid":"95053ae2-df83-9abd-d60c-8b5d35b35419"}
 ]},
@@ -66704,4 +66708,7 @@
 ]},
 "23838":{"nexusModName":"Cambion","nexusUploadedBy":"PupFenrir20","nexusModId":23838,"paks":[
 {"nexusFileName":"Cambion","nexusFileVersion":"1","nexusFileUploadedAt":1783950497,"pakFileName":"Cambion.pak","nexusFileId":125545,"metaUuid":null}
+]},
+"23839":{"nexusModName":"Ember's Armoury (Steel Rose Rapiers)","nexusUploadedBy":"Ariefel","nexusModId":23839,"paks":[
+{"nexusFileName":"steelroserapier","nexusFileVersion":"1.0.0.7","nexusFileUploadedAt":1783955488,"pakFileName":"SteelRoseRapier_6d4048e2-74e6-f8d8-a11e-b14e0984795f.pak","nexusFileId":125548,"metaUuid":null}
 ]}}
