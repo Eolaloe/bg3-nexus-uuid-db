@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-07-13T22:52:20.914177+00:00","total_mods":16876},
+{"_meta":{"last_run":"2026-07-13T23:52:32.248213+00:00","total_mods":16878},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -66690,7 +66690,8 @@
 {"nexusFileName":"Sunshine Orange Dice","nexusFileVersion":"1","nexusFileUploadedAt":1783757393,"pakFileName":"Sunshine Orange Dice.pak","nexusFileId":125409,"metaUuid":null},
 {"nexusFileName":"Dusky Dice","nexusFileVersion":"1","nexusFileUploadedAt":1783757436,"pakFileName":"Dusky Dice.pak","nexusFileId":125410,"metaUuid":null},
 {"nexusFileName":"Fire Ruby Dice","nexusFileVersion":"1","nexusFileUploadedAt":1783757450,"pakFileName":"Fire Ruby Dice.pak","nexusFileId":125411,"metaUuid":null},
-{"nexusFileName":"Starry Sky Dice","nexusFileVersion":"1","nexusFileUploadedAt":1783757463,"pakFileName":"Starry Sky Dice.pak","nexusFileId":125412,"metaUuid":null}
+{"nexusFileName":"Starry Sky Dice","nexusFileVersion":"1","nexusFileUploadedAt":1783757463,"pakFileName":"Starry Sky Dice.pak","nexusFileId":125412,"metaUuid":null},
+{"nexusFileName":"Twilight Dice","nexusFileVersion":"1","nexusFileUploadedAt":1783984122,"pakFileName":"Twilight Dice.pak","nexusFileId":125578,"metaUuid":null}
 ]},
 "23822":{"nexusModName":"Shared Bags for Your Party","nexusUploadedBy":"Eolaloe","nexusModId":23822,"paks":[
 {"nexusFileName":"Shared Bags for Your Party","nexusFileVersion":"1.0.0.5","nexusFileUploadedAt":1783962252,"pakFileName":"SharedBags.pak","nexusFileId":125553,"metaUuid":"b68a904f-fb57-4a64-a4bb-1e7cf264862f"},
@@ -66749,6 +66750,13 @@
 "23845":{"nexusModName":"Moon Map - Incomplete Map","nexusUploadedBy":"inkyplz","nexusModId":23845,"paks":[
 {"nexusFileName":"Moon Map - Incomplete","nexusFileVersion":"1.0.0.6","nexusFileUploadedAt":1783965467,"pakFileName":"Inky_Eidelin_fdd0cc10-3dc9-f2bf-288b-3b71c92efc68.pak","nexusFileId":125559,"metaUuid":null}
 ]},
+"23850":{"nexusModName":"Shar Origin","nexusUploadedBy":"TheCobaltCactus","nexusModId":23850,"paks":[
+{"nexusFileName":"Shar Origin","nexusFileVersion":"1.0.0.3","nexusFileUploadedAt":1783983463,"pakFileName":"Origin_Shar_New_cfd7d1ab-73b4-bcd5-052f-b0b18d907f48.pak","nexusFileId":125577,"metaUuid":null}
+]},
 "23852":{"nexusModName":"Solamnic Knight Feat Every 2 Levels","nexusUploadedBy":"Paranoiac21","nexusModId":23852,"paks":[
 {"nexusFileName":"SolamnicKnightFeatTwoLevels","nexusFileVersion":"1","nexusFileUploadedAt":1783982692,"pakFileName":"SolamnicKnightFeatTwoLevels.pak","nexusFileId":125576,"metaUuid":null}
+]},
+"23854":{"nexusModName":"Standalone Vanilla Armours - No ModFixer","nexusUploadedBy":"lonelynipple","nexusModId":23854,"paks":[
+{"nexusFileName":"VanillaSets","nexusFileVersion":"1","nexusFileUploadedAt":1783984581,"pakFileName":"VanillaSets.pak","nexusFileId":125580,"metaUuid":null},
+{"nexusFileName":"VanillaSetsExpansion","nexusFileVersion":"1","nexusFileUploadedAt":1783984605,"pakFileName":"VanillaSetsExpansion.pak","nexusFileId":125581,"metaUuid":null}
 ]}}
