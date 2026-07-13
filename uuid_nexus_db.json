@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-07-13T19:52:24.237069+00:00","total_mods":16873},
+{"_meta":{"last_run":"2026-07-13T20:52:26.643206+00:00","total_mods":16875},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -62224,7 +62224,7 @@
 {"nexusFileName":"Kawaii Babydoll - SBBF","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1774119829,"pakFileName":"kawaiiBabydoll.pak","nexusFileId":117226,"metaUuid":null}
 ]},
 "22056":{"nexusModName":"Fragmented Past - Official Registry","nexusUploadedBy":"RoseArete","nexusModId":22056,"paks":[
-{"nexusFileName":"Fragmented Past - Forgotten Files","nexusFileVersion":"1.5.2.6","nexusFileUploadedAt":1781198532,"pakFileName":"Registry_f41b5f7b-949c-0124-5c4c-5dddd2328397.pak","nexusFileId":123339,"metaUuid":"f41b5f7b-949c-0124-5c4c-5dddd2328397"}
+{"nexusFileName":"Fragmented Past - Forgotten Files","nexusFileVersion":"1.5.2.7","nexusFileUploadedAt":1783975410,"pakFileName":"Registry_f41b5f7b-949c-0124-5c4c-5dddd2328397.pak","nexusFileId":125573,"metaUuid":"f41b5f7b-949c-0124-5c4c-5dddd2328397"}
 ]},
 "22057":{"nexusModName":"The Last Two People On Earth Pose Pack","nexusUploadedBy":"Deckard82","nexusModId":22057,"paks":[
 {"nexusFileName":"The Last Two People On Earth Pose Pack","nexusFileVersion":"1.0.0.10","nexusFileUploadedAt":1774122066,"pakFileName":"TheLastTwoPeopleOnEarth_22efb7d3-c8cb-7309-fb16-f1bca51a1996.pak","nexusFileId":117230,"metaUuid":"22efb7d3-c8cb-7309-fb16-f1bca51a1996"}
@@ -66677,6 +66677,21 @@
 "23820":{"nexusModName":"Goon's Slayer Overhaul for Japanese","nexusUploadedBy":"Eolaloe","nexusModId":23820,"paks":[
 {"nexusFileName":"Goon's Slayer Overhaul for Japanese","nexusFileVersion":"1.1.0.0","nexusFileUploadedAt":1783751027,"pakFileName":"Goon's Slayer Overhaul_jp.pak","nexusFileId":125396,"metaUuid":null}
 ]},
+"23821":{"nexusModName":"Sunset Dice","nexusUploadedBy":"curlyyfryz","nexusModId":23821,"paks":[
+{"nexusFileName":"Sunset Dice (all in one)","nexusFileVersion":"1","nexusFileUploadedAt":1783757281,"pakFileName":"Dusky Dice.pak","nexusFileId":125406,"metaUuid":null},
+{"nexusFileName":"Sunset Dice (all in one)","nexusFileVersion":"1","nexusFileUploadedAt":1783757281,"pakFileName":"Fire Ruby Dice.pak","nexusFileId":125406,"metaUuid":null},
+{"nexusFileName":"Sunset Dice (all in one)","nexusFileVersion":"1","nexusFileUploadedAt":1783757281,"pakFileName":"Starry Sky Dice.pak","nexusFileId":125406,"metaUuid":null},
+{"nexusFileName":"Sunset Dice (all in one)","nexusFileVersion":"1","nexusFileUploadedAt":1783757281,"pakFileName":"Sunbeam Dice.pak","nexusFileId":125406,"metaUuid":null},
+{"nexusFileName":"Sunset Dice (all in one)","nexusFileVersion":"1","nexusFileUploadedAt":1783757281,"pakFileName":"Sunshine Orange Dice.pak","nexusFileId":125406,"metaUuid":null},
+{"nexusFileName":"Sunset Dice (all in one)","nexusFileVersion":"1","nexusFileUploadedAt":1783757281,"pakFileName":"Twilight Dice.pak","nexusFileId":125406,"metaUuid":null},
+{"nexusFileName":"Sunset Dice (all in one)","nexusFileVersion":"1","nexusFileUploadedAt":1783757281,"pakFileName":"Vaporwave Dice.pak","nexusFileId":125406,"metaUuid":null},
+{"nexusFileName":"Vaporwave Dice","nexusFileVersion":"1","nexusFileUploadedAt":1783757336,"pakFileName":"Vaporwave Dice.pak","nexusFileId":125407,"metaUuid":null},
+{"nexusFileName":"Sunbeam Dice","nexusFileVersion":"1","nexusFileUploadedAt":1783757369,"pakFileName":"Sunbeam Dice.pak","nexusFileId":125408,"metaUuid":null},
+{"nexusFileName":"Sunshine Orange Dice","nexusFileVersion":"1","nexusFileUploadedAt":1783757393,"pakFileName":"Sunshine Orange Dice.pak","nexusFileId":125409,"metaUuid":null},
+{"nexusFileName":"Dusky Dice","nexusFileVersion":"1","nexusFileUploadedAt":1783757436,"pakFileName":"Dusky Dice.pak","nexusFileId":125410,"metaUuid":null},
+{"nexusFileName":"Fire Ruby Dice","nexusFileVersion":"1","nexusFileUploadedAt":1783757450,"pakFileName":"Fire Ruby Dice.pak","nexusFileId":125411,"metaUuid":null},
+{"nexusFileName":"Starry Sky Dice","nexusFileVersion":"1","nexusFileUploadedAt":1783757463,"pakFileName":"Starry Sky Dice.pak","nexusFileId":125412,"metaUuid":null}
+]},
 "23822":{"nexusModName":"Shared Bags for Your Party","nexusUploadedBy":"Eolaloe","nexusModId":23822,"paks":[
 {"nexusFileName":"Shared Bags for Your Party","nexusFileVersion":"1.0.0.5","nexusFileUploadedAt":1783962252,"pakFileName":"SharedBags.pak","nexusFileId":125553,"metaUuid":"b68a904f-fb57-4a64-a4bb-1e7cf264862f"},
 {"nexusFileName":"SharedBags_Better Inventory UI Compatibility Patch","nexusFileVersion":"1.0.0.5","nexusFileUploadedAt":1783962283,"pakFileName":"SharedBags_BIUIPatch.pak","nexusFileId":125554,"metaUuid":null},
@@ -66724,6 +66739,9 @@
 {"nexusFileName":"The Batman Class (Fixed)","nexusFileVersion":"1.0.1.0","nexusFileUploadedAt":1783965665,"pakFileName":"The_Batman_Class2_4434689c-48be-cc75-a2f1-44cc88a9123a.pak","nexusFileId":125560,"metaUuid":null},
 {"nexusFileName":"The Batgirl Class (Fixed)","nexusFileVersion":"1.0.1.0","nexusFileUploadedAt":1783965977,"pakFileName":"Bat_Girl_Class_65395f57-f6f6-9f93-8084-36e631af9f2b.pak","nexusFileId":125562,"metaUuid":null},
 {"nexusFileName":"The Batpack (Fixed)","nexusFileVersion":"1.0.1.0","nexusFileUploadedAt":1783966054,"pakFileName":"Batpack_e68f9a13-4f96-e97c-ea9b-ed12fb4eb5e9.pak","nexusFileId":125563,"metaUuid":null}
+]},
+"23843":{"nexusModName":"KAVT - UT - Tattoo Outfit Patch","nexusUploadedBy":"BirbRR","nexusModId":23843,"paks":[
+{"nexusFileName":"KAVT UT Tattoo Patch 1.0.0","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1783973421,"pakFileName":"KAVT-UT Tattoo Patch.pak","nexusFileId":125572,"metaUuid":null}
 ]},
 "23844":{"nexusModName":"Plus 2 Proficiency Bonus","nexusUploadedBy":"Cainhurtz","nexusModId":23844,"paks":[
 {"nexusFileName":"Plus 2 Proficiency Bonus","nexusFileVersion":"1","nexusFileUploadedAt":1783965689,"pakFileName":"Plus_2_Proficiency_Bonus.pak","nexusFileId":125561,"metaUuid":null}
