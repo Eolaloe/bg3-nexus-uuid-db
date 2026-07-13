@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-07-13T05:51:55.621253+00:00","total_mods":16863},
+{"_meta":{"last_run":"2026-07-13T06:51:46.690570+00:00","total_mods":16865},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -66345,6 +66345,10 @@
 "23677":{"nexusModName":"Living Sculptures Pose Pack","nexusUploadedBy":"primnose","nexusModId":23677,"paks":[
 {"nexusFileName":"Primnose's Living Sculpture Pose Pack","nexusFileVersion":"1.0.0.3","nexusFileUploadedAt":1783876809,"pakFileName":"Primnose_LivingSculptures_Poses_7734f3d0-9c63-8f49-dbb1-6c79caabbb7d.pak","nexusFileId":125487,"metaUuid":"7734f3d0-9c63-8f49-dbb1-6c79caabbb7d"}
 ]},
+"23679":{"nexusModName":"Translation Mod Emperor vs. Orpheus russian version","nexusUploadedBy":"Vlayder1","nexusModId":23679,"paks":[
+{"nexusFileName":"Russian EvsO","nexusFileVersion":"1","nexusFileUploadedAt":1783923048,"pakFileName":"EmpVsOrpheus_NoRomance_8c9090d6-8b00-7a34-1179-96b6d11b593f.pak","nexusFileId":125521,"metaUuid":null},
+{"nexusFileName":"Russian EvsO","nexusFileVersion":"1","nexusFileUploadedAt":1783923048,"pakFileName":"EmperorVsOrpheus_ru.pak","nexusFileId":125521,"metaUuid":null}
+]},
 "23680":{"nexusModName":"Starting Equipment Selection","nexusUploadedBy":"NecroticFlame","nexusModId":23680,"paks":[
 {"nexusFileName":"Humanoid Equipment and Clothing","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1783057657,"pakFileName":"ECC_Humanoid_5f2c3462-94d5-feeb-5f39-5cd0f7a76c5a.pak","nexusFileId":124757,"metaUuid":"5f2c3462-94d5-feeb-5f39-5cd0f7a76c5a"},
 {"nexusFileName":"Githyanki Equipment","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1783057830,"pakFileName":"ECC_Githyanki_9fb63845-8b2d-314d-99a2-bd0c75199995.pak","nexusFileId":124758,"metaUuid":"9fb63845-8b2d-314d-99a2-bd0c75199995"},
@@ -66360,7 +66364,7 @@
 {"nexusFileName":"Umberlee's Earrings (Gold)","nexusFileVersion":"1.0","nexusFileUploadedAt":1783055916,"pakFileName":"Umberlee's Earrings (Gold).pak","nexusFileId":124756,"metaUuid":null}
 ]},
 "23685":{"nexusModName":"Blackwood's Red Mage","nexusUploadedBy":"EnixLHQ","nexusModId":23685,"paks":[
-{"nexusFileName":"Blackwood's Red Mage","nexusFileVersion":"2.2.4.29","nexusFileUploadedAt":1783911758,"pakFileName":"Red_Mage_Homebrew_6aec3ad4-990d-7667-a8e9-399d1bb6fc4b.pak","nexusFileId":125512,"metaUuid":null}
+{"nexusFileName":"Blackwood's Red Mage","nexusFileVersion":"2.2.4.31","nexusFileUploadedAt":1783925319,"pakFileName":"Red_Mage_Homebrew_6aec3ad4-990d-7667-a8e9-399d1bb6fc4b.pak","nexusFileId":125523,"metaUuid":null}
 ]},
 "23686":{"nexusModName":"Improved Equip Menu","nexusUploadedBy":"sowww","nexusModId":23686,"paks":[
 {"nexusFileName":"Improved Equip Menu","nexusFileVersion":"1.1.0","nexusFileUploadedAt":1783264510,"pakFileName":"ImprovedEquipMenu.pak","nexusFileId":124956,"metaUuid":"c953c1b3-cf57-4688-9950-9fc6fdc23415"}
@@ -66643,7 +66647,7 @@
 {"nexusFileName":"WomenofDragonAgeHeads","nexusFileVersion":"1","nexusFileUploadedAt":1783731350,"pakFileName":"WomenofDragonAgeHeads_cfdfbe35-a291-ce5a-460e-a6f81a06b931.pak","nexusFileId":125384,"metaUuid":"cfdfbe35-a291-ce5a-460e-a6f81a06b931"}
 ]},
 "23814":{"nexusModName":"Defensive Duelist Reaction Fix","nexusUploadedBy":"KaiJai","nexusModId":23814,"paks":[
-{"nexusFileName":"DefensiveDuelistReactionFix","nexusFileVersion":"0.1.0.0","nexusFileUploadedAt":1783745554,"pakFileName":"DefensiveDuelistReactionFix.pak","nexusFileId":125390,"metaUuid":null}
+{"nexusFileName":"DefensiveDuelistReactionFix","nexusFileVersion":"0.1.1.0","nexusFileUploadedAt":1783924194,"pakFileName":"DefensiveDuelistReactionFix.pak","nexusFileId":125522,"metaUuid":null}
 ]},
 "23815":{"nexusModName":"Dual Wielding Begone","nexusUploadedBy":"Cainhurtz","nexusModId":23815,"paks":[
 {"nexusFileName":"Dual Wielding Begone","nexusFileVersion":"1","nexusFileUploadedAt":1783747440,"pakFileName":"Fluck_Dual_Wielding.pak","nexusFileId":125392,"metaUuid":null}
@@ -66693,4 +66697,7 @@
 ]},
 "23833":{"nexusModName":"Pretty Poison Heads","nexusUploadedBy":"AdrasteaMoon","nexusModId":23833,"paks":[
 {"nexusFileName":"Pretty Poison","nexusFileVersion":"1","nexusFileUploadedAt":1783885696,"pakFileName":"Pretty Poison.pak","nexusFileId":125499,"metaUuid":null}
+]},
+"23834":{"nexusModName":"Never Dark Again - Give Arabella Komira's Locket (And Other Act 2 Tweaks)","nexusUploadedBy":"magnetuning","nexusModId":23834,"paks":[
+{"nexusFileName":"Never Dark Again - Arabella Act 2 Tweaks","nexusFileVersion":"1.0.0.2","nexusFileUploadedAt":1783906974,"pakFileName":"MGNTN_ArabellaAct2Tweaks.pak","nexusFileId":125506,"metaUuid":null}
 ]}}
