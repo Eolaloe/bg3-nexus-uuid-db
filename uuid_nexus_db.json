@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-07-13T02:52:10.199969+00:00","total_mods":16863},
+{"_meta":{"last_run":"2026-07-13T03:51:52.219315+00:00","total_mods":16863},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -35990,7 +35990,7 @@
 ]},
 "12727":{"nexusModName":"DnD 5.5e All-in-One BEYOND","nexusUploadedBy":"yoonmoonsik43","nexusModId":12727,"paks":[
 {"nexusFileName":"dnd2024 - V3 Legacy","nexusFileVersion":"3.4.6.4","nexusFileUploadedAt":1771945305,"pakFileName":"DnD2024_897914ef-5c96-053c-44af-0be823f895fe.pak","nexusFileId":115523,"metaUuid":"897914ef-5c96-053c-44af-0be823f895fe"},
-{"nexusFileName":"DnD 5.5e All-in-One BEYOND","nexusFileVersion":"4.9.1.0","nexusFileUploadedAt":1783892414,"pakFileName":"DnD2024_897914ef-5c96-053c-44af-0be823f895fe.pak","nexusFileId":125501,"metaUuid":"897914ef-5c96-053c-44af-0be823f895fe"}
+{"nexusFileName":"DnD 5.5e All-in-One BEYOND","nexusFileVersion":"4.10.0.0","nexusFileUploadedAt":1783912658,"pakFileName":"DnD2024_897914ef-5c96-053c-44af-0be823f895fe.pak","nexusFileId":125513,"metaUuid":"897914ef-5c96-053c-44af-0be823f895fe"}
 ]},
 "12728":{"nexusModName":"Origin-Themed Headwear KR","nexusUploadedBy":"Soorawang","nexusModId":12728,"paks":[
 {"nexusFileName":"Origin-Themed Headwear KR","nexusFileVersion":"1.0","nexusFileUploadedAt":1727930331,"pakFileName":"OriginHeadwear_kr.pak","nexusFileId":73692,"metaUuid":null}
@@ -63344,7 +63344,7 @@
 {"nexusFileName":"Fatebond","nexusFileVersion":"1.3.1","nexusFileUploadedAt":1783208148,"pakFileName":"Fatebond.pak","nexusFileId":124903,"metaUuid":"6cfead1f-d54c-4dfb-bc94-05e9fc1e2970"}
 ]},
 "22459":{"nexusModName":"DnD 5.5e All-in-One BEYOND Russian Localization","nexusUploadedBy":"XapcT","nexusModId":22459,"paks":[
-{"nexusFileName":"DnD 5.5e AIO Russian v0.3.126.zip","nexusFileVersion":"0.3.126","nexusFileUploadedAt":1783908129,"pakFileName":"DnD 5.5e AIO Russian.pak","nexusFileId":125508,"metaUuid":null}
+{"nexusFileName":"DnD 5.5e AIO Russian v0.3.128.zip","nexusFileVersion":"0.3.128","nexusFileUploadedAt":1783913536,"pakFileName":"DnD 5.5e AIO Russian.pak","nexusFileId":125515,"metaUuid":null}
 ]},
 "22460":{"nexusModName":"Elementally Based Gear","nexusUploadedBy":"Useyourrifle","nexusModId":22460,"paks":[
 {"nexusFileName":"Elemental_Gear.7z","nexusFileVersion":"1","nexusFileUploadedAt":1776346340,"pakFileName":"OP_Bow_56032304-f037-e077-f5e7-045d2e03ef1c.pak","nexusFileId":119147,"metaUuid":"56032304-f037-e077-f5e7-045d2e03ef1c"}
@@ -66360,7 +66360,7 @@
 {"nexusFileName":"Umberlee's Earrings (Gold)","nexusFileVersion":"1.0","nexusFileUploadedAt":1783055916,"pakFileName":"Umberlee's Earrings (Gold).pak","nexusFileId":124756,"metaUuid":null}
 ]},
 "23685":{"nexusModName":"Blackwood's Red Mage","nexusUploadedBy":"EnixLHQ","nexusModId":23685,"paks":[
-{"nexusFileName":"Blackwood's Red Mage","nexusFileVersion":"2.2.4.28","nexusFileUploadedAt":1783756738,"pakFileName":"Red_Mage_Homebrew_6aec3ad4-990d-7667-a8e9-399d1bb6fc4b.pak","nexusFileId":125405,"metaUuid":null}
+{"nexusFileName":"Blackwood's Red Mage","nexusFileVersion":"2.2.4.29","nexusFileUploadedAt":1783911758,"pakFileName":"Red_Mage_Homebrew_6aec3ad4-990d-7667-a8e9-399d1bb6fc4b.pak","nexusFileId":125512,"metaUuid":null}
 ]},
 "23686":{"nexusModName":"Improved Equip Menu","nexusUploadedBy":"sowww","nexusModId":23686,"paks":[
 {"nexusFileName":"Improved Equip Menu","nexusFileVersion":"1.1.0","nexusFileUploadedAt":1783264510,"pakFileName":"ImprovedEquipMenu.pak","nexusFileId":124956,"metaUuid":"c953c1b3-cf57-4688-9950-9fc6fdc23415"}
@@ -66665,7 +66665,9 @@
 ]},
 "23822":{"nexusModName":"Shared Bags for Your Party","nexusUploadedBy":"Eolaloe","nexusModId":23822,"paks":[
 {"nexusFileName":"Shared Bags for Your Party","nexusFileVersion":"1.0.0.2","nexusFileUploadedAt":1783860801,"pakFileName":"SharedBags.pak","nexusFileId":125479,"metaUuid":null},
-{"nexusFileName":"SharedBags_Better Inventory UI Compatibility Patch","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1783910216,"pakFileName":"SharedBags_BIUIPatch.pak","nexusFileId":125509,"metaUuid":null}
+{"nexusFileName":"SharedBags_Better Inventory UI Compatibility Patch","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1783910216,"pakFileName":"SharedBags_BIUIPatch.pak","nexusFileId":125509,"metaUuid":null},
+{"nexusFileName":"SharedBags_Better Context Menu Compatibility Patch","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1783911288,"pakFileName":"SharedBags_BCMPatch.pak","nexusFileId":125510,"metaUuid":null},
+{"nexusFileName":"SharedBags_Better UI AiO Compatibility Patch","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1783911378,"pakFileName":"SharedBags_BTAIOPatch.pak","nexusFileId":125511,"metaUuid":null}
 ]},
 "23823":{"nexusModName":"Shields Begone","nexusUploadedBy":"Cainhurtz","nexusModId":23823,"paks":[
 {"nexusFileName":"Shields Begone","nexusFileVersion":"3","nexusFileUploadedAt":1783825225,"pakFileName":"Fluck_Shields.pak","nexusFileId":125458,"metaUuid":null}
