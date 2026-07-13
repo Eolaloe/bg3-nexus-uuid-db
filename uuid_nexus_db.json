@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-07-13T16:52:26.544648+00:00","total_mods":16868},
+{"_meta":{"last_run":"2026-07-13T17:52:45.953514+00:00","total_mods":16869},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -41607,8 +41607,10 @@
 {"nexusFileName":"Sylvan Songweave Dress","nexusFileVersion":"1.0","nexusFileUploadedAt":1738061398,"pakFileName":"SylvanSongweaveDress.pak","nexusFileId":84913,"metaUuid":"548182b2-7634-4685-8ba2-24b16c431139"},
 {"nexusFileName":"Lightcrown Dress","nexusFileVersion":"1.0","nexusFileUploadedAt":1738061472,"pakFileName":"LightcrownDress.pak","nexusFileId":84914,"metaUuid":"7a39f515-8773-4967-8688-0ed4f40e3016"},
 {"nexusFileName":"Athena's Chiton","nexusFileVersion":"1.0","nexusFileUploadedAt":1738492307,"pakFileName":"AthenasChiton.pak","nexusFileId":85244,"metaUuid":"9d3d2e26-9fd8-45c7-a7f5-6476265e33a8"},
+{"nexusFileName":"Athena's Chiton (Camp Clothes)","nexusFileVersion":"1.1","nexusFileUploadedAt":1738494865,"pakFileName":"AthenasChitonCC.pak","nexusFileId":85247,"metaUuid":null},
 {"nexusFileName":"Hiwar Al Turab","nexusFileVersion":"1.0","nexusFileUploadedAt":1739380554,"pakFileName":"HiwarAlTurab.pak","nexusFileId":85727,"metaUuid":"e8f06280-19fe-44c8-a38d-39f9f0981356"},
 {"nexusFileName":"Dragon's Snare","nexusFileVersion":"1.1","nexusFileUploadedAt":1739898846,"pakFileName":"DragonsSnare.pak","nexusFileId":86055,"metaUuid":"f2967dbb-9658-4af1-9ed4-f40de11006d7"},
+{"nexusFileName":"Luminous SBBF Conversions","nexusFileVersion":"1","nexusFileUploadedAt":1740835741,"pakFileName":"LuminousSBBF.pak","nexusFileId":86558,"metaUuid":null},
 {"nexusFileName":"Lady of the Orchids Dress","nexusFileVersion":"1","nexusFileUploadedAt":1756829821,"pakFileName":"LadyoftheOrchids.pak","nexusFileId":101933,"metaUuid":"b9d4a503-e0c0-410d-87f3-fe374ef35f34"}
 ]},
 "14820":{"nexusModName":"Spellsword Class (formerly Vanguard)_KOR","nexusUploadedBy":"Ahdarugo","nexusModId":14820,"paks":[
@@ -62741,7 +62743,7 @@
 {"nexusFileName":"Involved_Patrons_Fewer_Demands_CH","nexusFileVersion":"2.0.0.1","nexusFileUploadedAt":1775018630,"pakFileName":"Involved_Patrons_Fewer_Demands_CH.pak","nexusFileId":117921,"metaUuid":null}
 ]},
 "22245":{"nexusModName":"DnD 5.5e All-in-One BEYOND for Korean","nexusUploadedBy":"Eolaloe","nexusModId":22245,"paks":[
-{"nexusFileName":"DnD 5.5e All-in-One BEYOND for Korean","nexusFileVersion":"4.8.16.0","nexusFileUploadedAt":1783756042,"pakFileName":"DnD2024_kr.pak","nexusFileId":125401,"metaUuid":"12aa92ca-07e6-4edc-82f4-dd1f99cc43c2"}
+{"nexusFileName":"DnD 5.5e All-in-One BEYOND for Korean","nexusFileVersion":"4.10.1.0","nexusFileUploadedAt":1783963979,"pakFileName":"DnD2024_kr.pak","nexusFileId":125558,"metaUuid":"12aa92ca-07e6-4edc-82f4-dd1f99cc43c2"}
 ]},
 "22246":{"nexusModName":"War Magic Initiate","nexusUploadedBy":"DragBr","nexusModId":22246,"paks":[
 {"nexusFileName":"Iniciado em Magia Belica","nexusFileVersion":"1.0.0.5","nexusFileUploadedAt":1775051653,"pakFileName":"Magia_Belica_06b29149-fbdf-72f8-7f56-3e222e19a6bd.pak","nexusFileId":117957,"metaUuid":"06b29149-fbdf-72f8-7f56-3e222e19a6bd"}
@@ -65400,7 +65402,7 @@
 {"nexusFileName":"Guardian of Faith Fixes","nexusFileVersion":"1.0","nexusFileUploadedAt":1780756324,"pakFileName":"GuardianofFaithFixes.pak","nexusFileId":122914,"metaUuid":"4811f0c0-8086-90e1-e6e9-b77c6f2ea2f8"}
 ]},
 "23237":{"nexusModName":"Home Brew - Comprehensive Reworks (CHS) - Hierot Edition","nexusUploadedBy":"HIEROT","nexusModId":23237,"paks":[
-{"nexusFileName":"HomeBrewComprehensiveReworksCHS Hierot","nexusFileVersion":"9.0.3.1","nexusFileUploadedAt":1783693423,"pakFileName":"HomeBrewComprehensiveReworksCHS-Hierot.pak","nexusFileId":125344,"metaUuid":"02f264e1-cbd1-4376-87d8-cc9e98753e4d"}
+{"nexusFileName":"HomeBrewComprehensiveReworksCHS Hierot","nexusFileVersion":"9.0.4.2","nexusFileUploadedAt":1783961992,"pakFileName":"HomeBrewComprehensiveReworksCHS-Hierot.pak","nexusFileId":125552,"metaUuid":"02f264e1-cbd1-4376-87d8-cc9e98753e4d"}
 ]},
 "23238":{"nexusModName":"Yoga Poses - greet the sun with Astarion","nexusUploadedBy":"HastursQueen","nexusModId":23238,"paks":[
 {"nexusFileName":"YogaPoses","nexusFileVersion":"1","nexusFileUploadedAt":1781400487,"pakFileName":"YogaPoses.pak","nexusFileId":123510,"metaUuid":null}
@@ -66673,10 +66675,10 @@
 {"nexusFileName":"Goon's Slayer Overhaul for Japanese","nexusFileVersion":"1.1.0.0","nexusFileUploadedAt":1783751027,"pakFileName":"Goon's Slayer Overhaul_jp.pak","nexusFileId":125396,"metaUuid":null}
 ]},
 "23822":{"nexusModName":"Shared Bags for Your Party","nexusUploadedBy":"Eolaloe","nexusModId":23822,"paks":[
-{"nexusFileName":"Shared Bags for Your Party","nexusFileVersion":"1.0.0.2","nexusFileUploadedAt":1783860801,"pakFileName":"SharedBags.pak","nexusFileId":125479,"metaUuid":"b68a904f-fb57-4a64-a4bb-1e7cf264862f"},
-{"nexusFileName":"SharedBags_Better Inventory UI Compatibility Patch","nexusFileVersion":"1.0.0.2","nexusFileUploadedAt":1783934923,"pakFileName":"SharedBags_BIUIPatch.pak","nexusFileId":125525,"metaUuid":null},
-{"nexusFileName":"SharedBags_Better Context Menu Compatibility Patch","nexusFileVersion":"1.0.0.2","nexusFileUploadedAt":1783934937,"pakFileName":"SharedBags_BCMPatch.pak","nexusFileId":125526,"metaUuid":null},
-{"nexusFileName":"SharedBags_Better UI AiO Compatibility Patch","nexusFileVersion":"1.0.0.2","nexusFileUploadedAt":1783934950,"pakFileName":"SharedBags_BTAIOPatch.pak","nexusFileId":125527,"metaUuid":null}
+{"nexusFileName":"Shared Bags for Your Party","nexusFileVersion":"1.0.0.5","nexusFileUploadedAt":1783962252,"pakFileName":"SharedBags.pak","nexusFileId":125553,"metaUuid":"b68a904f-fb57-4a64-a4bb-1e7cf264862f"},
+{"nexusFileName":"SharedBags_Better Inventory UI Compatibility Patch","nexusFileVersion":"1.0.0.5","nexusFileUploadedAt":1783962283,"pakFileName":"SharedBags_BIUIPatch.pak","nexusFileId":125554,"metaUuid":null},
+{"nexusFileName":"SharedBags_Better Context Menu Compatibility Patch","nexusFileVersion":"1.0.0.5","nexusFileUploadedAt":1783962301,"pakFileName":"SharedBags_BCMPatch.pak","nexusFileId":125555,"metaUuid":null},
+{"nexusFileName":"SharedBags_Better UI AiO Compatibility Patch","nexusFileVersion":"1.0.0.5","nexusFileUploadedAt":1783962315,"pakFileName":"SharedBags_BTAIOPatch.pak","nexusFileId":125556,"metaUuid":null}
 ]},
 "23823":{"nexusModName":"Shields Begone","nexusUploadedBy":"Cainhurtz","nexusModId":23823,"paks":[
 {"nexusFileName":"Shields Begone","nexusFileVersion":"3","nexusFileUploadedAt":1783825225,"pakFileName":"Fluck_Shields.pak","nexusFileId":125458,"metaUuid":null}
@@ -66711,4 +66713,7 @@
 ]},
 "23839":{"nexusModName":"Ember's Armoury (Steel Rose Rapiers)","nexusUploadedBy":"Ariefel","nexusModId":23839,"paks":[
 {"nexusFileName":"steelroserapier","nexusFileVersion":"1.0.0.7","nexusFileUploadedAt":1783955488,"pakFileName":"SteelRoseRapier_6d4048e2-74e6-f8d8-a11e-b14e0984795f.pak","nexusFileId":125548,"metaUuid":null}
+]},
+"23841":{"nexusModName":"Syanna's Gear","nexusUploadedBy":"westhavian","nexusModId":23841,"paks":[
+{"nexusFileName":"WM SyannaOutfit","nexusFileVersion":"1","nexusFileUploadedAt":1783963523,"pakFileName":"WM_SyannaOutfit_60c27a06-db52-3ca3-571e-68f93b7c8175.pak","nexusFileId":125557,"metaUuid":null}
 ]}}
