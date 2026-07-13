@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-07-13T01:51:47.587522+00:00","total_mods":16863},
+{"_meta":{"last_run":"2026-07-13T02:52:10.199969+00:00","total_mods":16863},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -28899,11 +28899,11 @@
 ]},
 "10000":{"nexusModName":"A Candle In The Dark - Custom Companion Jason Altea (Alpha Release)","nexusUploadedBy":"magnetuning","nexusModId":10000,"paks":[
 {"nexusFileName":"Jason Items In Tutorial Chest Patch","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1759788572,"pakFileName":"MGNTN_JasonItemsTUTChestPatch.pak","nexusFileId":104489,"metaUuid":"8aafd4a8-eb44-4e39-a39a-06add3f545a8"},
-{"nexusFileName":"A Candle In The Dark - Custom Companion - Part 2","nexusFileVersion":"1.1.5.2","nexusFileUploadedAt":1782098290,"pakFileName":"MGNTN_JasonCompanionPt2.pak","nexusFileId":124054,"metaUuid":"659571cb-e6f1-4c1a-9ab0-cc40a5d28463"},
 {"nexusFileName":"A Candle In The Dark - Custom Companion - Part 3","nexusFileVersion":"1.1.0.1","nexusFileUploadedAt":1782098318,"pakFileName":"MGNTN_JasonCompanionPt3.pak","nexusFileId":124055,"metaUuid":"9978eded-312f-4656-9a0b-bc6fe8d9615c"},
 {"nexusFileName":"Jason Skill Proficiencies Patch","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1782098486,"pakFileName":"MGNTN_JasonDefaultSkillsPatch.pak","nexusFileId":124056,"metaUuid":"951fc302-521f-4eb1-902f-3ab0a111f8b8"},
 {"nexusFileName":"Give Me My Title Patch for Jason","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1782098636,"pakFileName":"KJMMGNTN_JasonGiveMeMyTitlePatch.pak","nexusFileId":124057,"metaUuid":"53023745-e092-497a-9b18-d220ba6ed830"},
-{"nexusFileName":"A Candle In The Dark - Custom Companion - Part 1","nexusFileVersion":"1.1.1.1","nexusFileUploadedAt":1782273425,"pakFileName":"MGNTN_JasonCompanionPt1.pak","nexusFileId":124186,"metaUuid":"2396f116-b622-4940-96bf-083b120e2a30"}
+{"nexusFileName":"A Candle In The Dark - Custom Companion - Part 1","nexusFileVersion":"1.1.1.1","nexusFileUploadedAt":1782273425,"pakFileName":"MGNTN_JasonCompanionPt1.pak","nexusFileId":124186,"metaUuid":"2396f116-b622-4940-96bf-083b120e2a30"},
+{"nexusFileName":"A Candle In The Dark - Custom Companion - Part 2","nexusFileVersion":"1.1.6.1","nexusFileUploadedAt":1783907738,"pakFileName":"MGNTN_JasonCompanionPt2.pak","nexusFileId":125507,"metaUuid":"659571cb-e6f1-4c1a-9ab0-cc40a5d28463"}
 ]},
 "10002":{"nexusModName":"Ponytail Hairstyles","nexusUploadedBy":"Cerberry","nexusModId":10002,"paks":[
 {"nexusFileName":"Ponytails","nexusFileVersion":"1.1.1.0","nexusFileUploadedAt":1727298956,"pakFileName":"CBR_Ponytails.pak","nexusFileId":72705,"metaUuid":"143878ab-a689-493c-8816-686103d889bd"}
@@ -63344,7 +63344,7 @@
 {"nexusFileName":"Fatebond","nexusFileVersion":"1.3.1","nexusFileUploadedAt":1783208148,"pakFileName":"Fatebond.pak","nexusFileId":124903,"metaUuid":"6cfead1f-d54c-4dfb-bc94-05e9fc1e2970"}
 ]},
 "22459":{"nexusModName":"DnD 5.5e All-in-One BEYOND Russian Localization","nexusUploadedBy":"XapcT","nexusModId":22459,"paks":[
-{"nexusFileName":"DnD 5.5e AIO Russian v0.3.125.zip","nexusFileVersion":"0.3.125","nexusFileUploadedAt":1783891943,"pakFileName":"DnD 5.5e AIO Russian.pak","nexusFileId":125500,"metaUuid":null}
+{"nexusFileName":"DnD 5.5e AIO Russian v0.3.126.zip","nexusFileVersion":"0.3.126","nexusFileUploadedAt":1783908129,"pakFileName":"DnD 5.5e AIO Russian.pak","nexusFileId":125508,"metaUuid":null}
 ]},
 "22460":{"nexusModName":"Elementally Based Gear","nexusUploadedBy":"Useyourrifle","nexusModId":22460,"paks":[
 {"nexusFileName":"Elemental_Gear.7z","nexusFileVersion":"1","nexusFileUploadedAt":1776346340,"pakFileName":"OP_Bow_56032304-f037-e077-f5e7-045d2e03ef1c.pak","nexusFileId":119147,"metaUuid":"56032304-f037-e077-f5e7-045d2e03ef1c"}
@@ -66664,7 +66664,8 @@
 {"nexusFileName":"Goon's Slayer Overhaul for Japanese","nexusFileVersion":"1.1.0.0","nexusFileUploadedAt":1783751027,"pakFileName":"Goon's Slayer Overhaul_jp.pak","nexusFileId":125396,"metaUuid":null}
 ]},
 "23822":{"nexusModName":"Shared Bags for Your Party","nexusUploadedBy":"Eolaloe","nexusModId":23822,"paks":[
-{"nexusFileName":"Shared Bags for Your Party","nexusFileVersion":"1.0.0.2","nexusFileUploadedAt":1783860801,"pakFileName":"SharedBags.pak","nexusFileId":125479,"metaUuid":null}
+{"nexusFileName":"Shared Bags for Your Party","nexusFileVersion":"1.0.0.2","nexusFileUploadedAt":1783860801,"pakFileName":"SharedBags.pak","nexusFileId":125479,"metaUuid":null},
+{"nexusFileName":"SharedBags_Better Inventory UI Compatibility Patch","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1783910216,"pakFileName":"SharedBags_BIUIPatch.pak","nexusFileId":125509,"metaUuid":null}
 ]},
 "23823":{"nexusModName":"Shields Begone","nexusUploadedBy":"Cainhurtz","nexusModId":23823,"paks":[
 {"nexusFileName":"Shields Begone","nexusFileVersion":"3","nexusFileUploadedAt":1783825225,"pakFileName":"Fluck_Shields.pak","nexusFileId":125458,"metaUuid":null}
