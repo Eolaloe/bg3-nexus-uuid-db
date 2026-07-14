@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-07-13T23:52:32.248213+00:00","total_mods":16878},
+{"_meta":{"last_run":"2026-07-14T00:52:21.376503+00:00","total_mods":16879},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -62224,7 +62224,7 @@
 {"nexusFileName":"Kawaii Babydoll - SBBF","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1774119829,"pakFileName":"kawaiiBabydoll.pak","nexusFileId":117226,"metaUuid":null}
 ]},
 "22056":{"nexusModName":"Fragmented Past - Forgotten Files","nexusUploadedBy":"RoseArete","nexusModId":22056,"paks":[
-{"nexusFileName":"Fragmented Past - Forgotten Files","nexusFileVersion":"1.5.2.7","nexusFileUploadedAt":1783975410,"pakFileName":"Registry_f41b5f7b-949c-0124-5c4c-5dddd2328397.pak","nexusFileId":125573,"metaUuid":"f41b5f7b-949c-0124-5c4c-5dddd2328397"}
+{"nexusFileName":"Fragmented Past - Forgotten Files","nexusFileVersion":"1.5.2.8","nexusFileUploadedAt":1783987839,"pakFileName":"Registry_f41b5f7b-949c-0124-5c4c-5dddd2328397.pak","nexusFileId":125585,"metaUuid":"f41b5f7b-949c-0124-5c4c-5dddd2328397"}
 ]},
 "22057":{"nexusModName":"The Last Two People On Earth Pose Pack","nexusUploadedBy":"Deckard82","nexusModId":22057,"paks":[
 {"nexusFileName":"The Last Two People On Earth Pose Pack","nexusFileVersion":"1.0.0.10","nexusFileUploadedAt":1774122066,"pakFileName":"TheLastTwoPeopleOnEarth_22efb7d3-c8cb-7309-fb16-f1bca51a1996.pak","nexusFileId":117230,"metaUuid":"22efb7d3-c8cb-7309-fb16-f1bca51a1996"}
@@ -63351,7 +63351,7 @@
 {"nexusFileName":"Fatebond","nexusFileVersion":"1.3.1","nexusFileUploadedAt":1783208148,"pakFileName":"Fatebond.pak","nexusFileId":124903,"metaUuid":"6cfead1f-d54c-4dfb-bc94-05e9fc1e2970"}
 ]},
 "22459":{"nexusModName":"DnD 5.5e All-in-One BEYOND Russian Localization","nexusUploadedBy":"XapcT","nexusModId":22459,"paks":[
-{"nexusFileName":"DnD 5.5e AIO Russian v0.3.130.zip","nexusFileVersion":"0.3.130","nexusFileUploadedAt":1783960392,"pakFileName":"DnD 5.5e AIO Russian.pak","nexusFileId":125551,"metaUuid":null}
+{"nexusFileName":"DnD 5.5e AIO Russian v0.3.131.zip","nexusFileVersion":"0.3.131","nexusFileUploadedAt":1783990040,"pakFileName":"DnD 5.5e AIO Russian.pak","nexusFileId":125590,"metaUuid":null}
 ]},
 "22460":{"nexusModName":"Elementally Based Gear","nexusUploadedBy":"Useyourrifle","nexusModId":22460,"paks":[
 {"nexusFileName":"Elemental_Gear.7z","nexusFileVersion":"1","nexusFileUploadedAt":1776346340,"pakFileName":"OP_Bow_56032304-f037-e077-f5e7-045d2e03ef1c.pak","nexusFileId":119147,"metaUuid":"56032304-f037-e077-f5e7-045d2e03ef1c"}
@@ -66684,7 +66684,7 @@
 {"nexusFileName":"Sunset Dice (all in one)","nexusFileVersion":"1","nexusFileUploadedAt":1783757281,"pakFileName":"Sunbeam Dice.pak","nexusFileId":125406,"metaUuid":null},
 {"nexusFileName":"Sunset Dice (all in one)","nexusFileVersion":"1","nexusFileUploadedAt":1783757281,"pakFileName":"Sunshine Orange Dice.pak","nexusFileId":125406,"metaUuid":null},
 {"nexusFileName":"Sunset Dice (all in one)","nexusFileVersion":"1","nexusFileUploadedAt":1783757281,"pakFileName":"Twilight Dice.pak","nexusFileId":125406,"metaUuid":null},
-{"nexusFileName":"Sunset Dice (all in one)","nexusFileVersion":"1","nexusFileUploadedAt":1783757281,"pakFileName":"Vaporwave Dice.pak","nexusFileId":125406,"metaUuid":null},
+{"nexusFileName":"Sunset Dice (all in one)","nexusFileVersion":"1","nexusFileUploadedAt":1783757281,"pakFileName":"Vaporwave Dice.pak","nexusFileId":125406,"metaUuid":"15110e6d-9835-4d87-a7a7-71b78377c17e"},
 {"nexusFileName":"Vaporwave Dice","nexusFileVersion":"1","nexusFileUploadedAt":1783757336,"pakFileName":"Vaporwave Dice.pak","nexusFileId":125407,"metaUuid":"15110e6d-9835-4d87-a7a7-71b78377c17e"},
 {"nexusFileName":"Sunbeam Dice","nexusFileVersion":"1","nexusFileUploadedAt":1783757369,"pakFileName":"Sunbeam Dice.pak","nexusFileId":125408,"metaUuid":null},
 {"nexusFileName":"Sunshine Orange Dice","nexusFileVersion":"1","nexusFileUploadedAt":1783757393,"pakFileName":"Sunshine Orange Dice.pak","nexusFileId":125409,"metaUuid":null},
@@ -66759,4 +66759,7 @@
 "23854":{"nexusModName":"Standalone Vanilla Armours - No ModFixer","nexusUploadedBy":"lonelynipple","nexusModId":23854,"paks":[
 {"nexusFileName":"VanillaSets","nexusFileVersion":"1","nexusFileUploadedAt":1783984581,"pakFileName":"VanillaSets.pak","nexusFileId":125580,"metaUuid":null},
 {"nexusFileName":"VanillaSetsExpansion","nexusFileVersion":"1","nexusFileUploadedAt":1783984605,"pakFileName":"VanillaSetsExpansion.pak","nexusFileId":125581,"metaUuid":null}
+]},
+"23855":{"nexusModName":"Almighty Mahkloompah","nexusUploadedBy":"littlehouseofimagination","nexusModId":23855,"paks":[
+{"nexusFileName":"Mahkloompah","nexusFileVersion":"1","nexusFileUploadedAt":1783984153,"pakFileName":"Mahkloompah_05bfc50d-d099-4ecb-207b-5b0da6f1bfd5.pak","nexusFileId":125579,"metaUuid":null}
 ]}}
