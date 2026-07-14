@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-07-14T16:52:17.188289+00:00","total_mods":16887},
+{"_meta":{"last_run":"2026-07-14T17:52:29.002545+00:00","total_mods":16887},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -51272,8 +51272,8 @@
 {"nexusFileName":"Gunslinger Plus","nexusFileVersion":"1.0.1.1","nexusFileUploadedAt":1756732238,"pakFileName":"GunslingerPlus.pak","nexusFileId":101848,"metaUuid":"190ccc53-58a8-4587-b655-007fe6fd5744"}
 ]},
 "18406":{"nexusModName":"Warrior of the Elements Monk PHB2024 DnD 5R","nexusUploadedBy":"chizfreak","nexusModId":18406,"paks":[
-{"nexusFileName":"OneDnD Monk Mods Compatibility Patch","nexusFileVersion":"1.2","nexusFileUploadedAt":1756600737,"pakFileName":"WarriorOfTheElements CLPatch.pak","nexusFileId":101748,"metaUuid":"2a32e2e2-dbc3-40f9-be78-65accf402724"},
-{"nexusFileName":"Warrior of the Elements Monk PHB2024","nexusFileVersion":"2.2.1","nexusFileUploadedAt":1769574366,"pakFileName":"WarriorOfTheElementsPHB2024_e4ce1392-83ee-53ea-45ce-4bedea0e00dc.pak","nexusFileId":113428,"metaUuid":"e4ce1392-83ee-53ea-45ce-4bedea0e00dc"}
+{"nexusFileName":"Warrior of the Elements Monk PHB2024","nexusFileVersion":"2.3.0","nexusFileUploadedAt":1784050819,"pakFileName":"WarriorOfTheElementsPHB2024_e4ce1392-83ee-53ea-45ce-4bedea0e00dc.pak","nexusFileId":125631,"metaUuid":"e4ce1392-83ee-53ea-45ce-4bedea0e00dc"},
+{"nexusFileName":"OneDnD Monk Mods Compatibility Patch","nexusFileVersion":"2.3.0","nexusFileUploadedAt":1784050835,"pakFileName":"WarriorOfTheElements CLPatch.pak","nexusFileId":125632,"metaUuid":"2a32e2e2-dbc3-40f9-be78-65accf402724"}
 ]},
 "18408":{"nexusModName":"Toggle Swarmkeeper Effects","nexusUploadedBy":"robogena","nexusModId":18408,"paks":[
 {"nexusFileName":"Toggle Swarmkeeper Effects","nexusFileVersion":"1.0","nexusFileUploadedAt":1756535356,"pakFileName":"robogena_ToggleSwarmkeeperFX.pak","nexusFileId":101699,"metaUuid":"8c28a068-4338-42b0-8aec-11995d4d1173"}
@@ -63799,7 +63799,7 @@
 "22633":{"nexusModName":"Vagabond Class","nexusUploadedBy":"AsBallaAsPossible","nexusModId":22633,"paks":[
 {"nexusFileName":"Vagabond","nexusFileVersion":"1.11.0.128","nexusFileUploadedAt":1779803659,"pakFileName":"Vagabond_29c0a0e0-3def-be94-ad3f-8bc612f8cb38.pak","nexusFileId":122194,"metaUuid":null}
 ]},
-"22635":{"nexusModName":"The Pugilist - A Streetfighting Class with Swagger to Spare","nexusUploadedBy":"TheWailingBard","nexusModId":22635,"paks":[
+"22635":{"nexusModName":"Huffman's Pugilist - A Streetfighting Class with Swagger to Spare","nexusUploadedBy":"TheWailingBard","nexusModId":22635,"paks":[
 {"nexusFileName":"The Pugilist","nexusFileVersion":"1.0.0.19","nexusFileUploadedAt":1782163827,"pakFileName":"SterlingVerminPugilist_e7adb940-58a2-3d57-a98a-87038eb76ffd.pak","nexusFileId":124124,"metaUuid":"e7adb940-58a2-3d57-a98a-87038eb76ffd"},
 {"nexusFileName":"The Pugilist - Grappling Extension","nexusFileVersion":"1.0.0.7","nexusFileUploadedAt":1782163965,"pakFileName":"SterlingVerminPugilistGrapplingExtension_7d38a87b-0117-bfc7-d9ac-3915a8d08baa.pak","nexusFileId":124125,"metaUuid":null}
 ]},
@@ -66217,7 +66217,7 @@
 ]},
 "23613":{"nexusModName":"STAV - Snailzx Tattoos And VTs","nexusUploadedBy":"EvilSnail0fDestruktion","nexusModId":23613,"paks":[
 {"nexusFileName":"STAV - VT","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1783989645,"pakFileName":"STAV [VT].pak","nexusFileId":125589,"metaUuid":"fc77b87d-2714-4545-99f4-db8042760e8d"},
-{"nexusFileName":"STAV","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1783990827,"pakFileName":"STAV.pak","nexusFileId":125592,"metaUuid":"2b9e05c8-d15a-3ac2-7237-6aa263f1dceb"}
+{"nexusFileName":"STAV","nexusFileVersion":"1.0.1","nexusFileUploadedAt":1784050292,"pakFileName":"STAV.pak","nexusFileId":125630,"metaUuid":"2b9e05c8-d15a-3ac2-7237-6aa263f1dceb"}
 ]},
 "23614":{"nexusModName":"WotD Aasimar Traduzione ITA","nexusUploadedBy":"EveeLaverne","nexusModId":23614,"paks":[
 {"nexusFileName":"WotD Aasimar ITA","nexusFileVersion":"1.0.1.0","nexusFileUploadedAt":1783784411,"pakFileName":"WotD-Aasimar ITA.pak","nexusFileId":125431,"metaUuid":null}
@@ -66345,7 +66345,7 @@
 {"nexusFileName":"FairyRaceITA","nexusFileVersion":"1.0.1.1","nexusFileUploadedAt":1783780502,"pakFileName":"FairyRaceITA.pak","nexusFileId":125428,"metaUuid":null}
 ]},
 "23672":{"nexusModName":"Nearby Loot Scan","nexusUploadedBy":"Eolaloe","nexusModId":23672,"paks":[
-{"nexusFileName":"Nearby Loot Scan","nexusFileVersion":"1.0.1.2","nexusFileUploadedAt":1783727482,"pakFileName":"NearbyLootScan.pak","nexusFileId":125380,"metaUuid":"6f32203b-d69d-13fc-2c7b-b8b12bca7f00"}
+{"nexusFileName":"Nearby Loot Scan","nexusFileVersion":"1.0.2.0","nexusFileUploadedAt":1784051292,"pakFileName":"NearbyLootScan.pak","nexusFileId":125633,"metaUuid":"6f32203b-d69d-13fc-2c7b-b8b12bca7f00"}
 ]},
 "23673":{"nexusModName":"Mellow Harmony for College of Swords Bard","nexusUploadedBy":"koboldJuno","nexusModId":23673,"paks":[
 {"nexusFileName":"Mellow Harmony for sword bard.","nexusFileVersion":"1.0","nexusFileUploadedAt":1783018345,"pakFileName":"SwordBardMellowHarmony_8d38d234-9f3d-b237-2f38-986f30f2f6dd.pak","nexusFileId":124731,"metaUuid":null}
@@ -66790,6 +66790,9 @@
 ]},
 "23865":{"nexusModName":"Spear of the Red Warden","nexusUploadedBy":"PolivkaZKari","nexusModId":23865,"paks":[
 {"nexusFileName":"Spear of the Red Warden","nexusFileVersion":"2","nexusFileUploadedAt":1784037955,"pakFileName":"red_spear_31c66f72-d213-4b7b-8d90-f4d277d50546.pak","nexusFileId":125619,"metaUuid":null}
+]},
+"23866":{"nexusModName":"Immersive Nightsong Armour","nexusUploadedBy":"xJustAdam","nexusModId":23866,"paks":[
+{"nexusFileName":"Immersive Nightsong Armour","nexusFileVersion":"1.0","nexusFileUploadedAt":1784049136,"pakFileName":"Immersive Nightsong Armour.pak","nexusFileId":125628,"metaUuid":null}
 ]},
 "23867":{"nexusModName":"Snake Eyes - Eyes of the Beholder Preset","nexusUploadedBy":"RevolutionScribe","nexusModId":23867,"paks":[
 {"nexusFileName":"Snake Eyes - Standard","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1784045169,"pakFileName":"SnakeEyes.pak","nexusFileId":125623,"metaUuid":null},
