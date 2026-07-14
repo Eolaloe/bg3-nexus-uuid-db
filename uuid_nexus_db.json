@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-07-14T20:52:13.443634+00:00","total_mods":16889},
+{"_meta":{"last_run":"2026-07-14T21:52:22.723684+00:00","total_mods":16891},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -66780,6 +66780,9 @@
 "23855":{"nexusModName":"Almighty Mahkloompah","nexusUploadedBy":"littlehouseofimagination","nexusModId":23855,"paks":[
 {"nexusFileName":"Mahkloompah","nexusFileVersion":"1","nexusFileUploadedAt":1783984153,"pakFileName":"Mahkloompah_05bfc50d-d099-4ecb-207b-5b0da6f1bfd5.pak","nexusFileId":125579,"metaUuid":null}
 ]},
+"23856":{"nexusModName":"Graceful Poses","nexusUploadedBy":"Grace455","nexusModId":23856,"paks":[
+{"nexusFileName":"Graceful Poses","nexusFileVersion":"1","nexusFileUploadedAt":1783987429,"pakFileName":"GRACE_Graceful_Poses_1e16f517-403f-58b0-3d33-8c03c524107b.pak","nexusFileId":125583,"metaUuid":null}
+]},
 "23857":{"nexusModName":"Fiend Hunter's Hammer and Armor","nexusUploadedBy":"Raven570","nexusModId":23857,"paks":[
 {"nexusFileName":"FiendHunterSet","nexusFileVersion":"1","nexusFileUploadedAt":1783997566,"pakFileName":"FiendHunterBattlehammer_66ca89a2-3c01-fe78-6d7c-074b564c34b8.pak","nexusFileId":125598,"metaUuid":null}
 ]},
@@ -66806,4 +66809,7 @@
 "23872":{"nexusModName":"Immersive Ketheric Armour","nexusUploadedBy":"xJustAdam","nexusModId":23872,"paks":[
 {"nexusFileName":"Immersive Ketheric Armour","nexusFileVersion":"1.0","nexusFileUploadedAt":1784059490,"pakFileName":"Immersive Ketheric Armour.pak","nexusFileId":125645,"metaUuid":null},
 {"nexusFileName":"Immersive Ketheric Armour - Challenge Version","nexusFileVersion":"1.0","nexusFileUploadedAt":1784060282,"pakFileName":"Immersive Ketheric Armour - Challenge Version.pak","nexusFileId":125648,"metaUuid":null}
+]},
+"23876":{"nexusModName":"Correct Counterspell Ability Score","nexusUploadedBy":"celerev","nexusModId":23876,"paks":[
+{"nexusFileName":"CorrectCounterspell","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1784063682,"pakFileName":"CorrectCounterspell_3d1b5440-1bf1-45c1-4530-097ca976bf6f.pak","nexusFileId":125655,"metaUuid":null}
 ]}}
