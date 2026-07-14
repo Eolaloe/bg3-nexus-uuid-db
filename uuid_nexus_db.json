@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-07-14T05:52:39.892287+00:00","total_mods":16882},
+{"_meta":{"last_run":"2026-07-14T06:52:43.876979+00:00","total_mods":16883},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -48716,7 +48716,7 @@
 ]},
 "17485":{"nexusModName":"Stomp that Tadpole","nexusUploadedBy":"whatsontheflip","nexusModId":17485,"paks":[
 {"nexusFileName":"Stomp that Tadpole - No Skill Check","nexusFileVersion":"1.0.0.2","nexusFileUploadedAt":1776033870,"pakFileName":"Tadpole_Stomp_NoRoll_0d1705fb-4fad-73aa-e0e5-fb928353b0d7.pak","nexusFileId":118812,"metaUuid":"0d1705fb-4fad-73aa-e0e5-fb928353b0d7"},
-{"nexusFileName":"Stomp that Tadpole","nexusFileVersion":"1.0.0.3","nexusFileUploadedAt":1776033895,"pakFileName":"Tadpole_Stomp_57f14548-1aed-731d-74bb-d5df68e9474f.pak","nexusFileId":118813,"metaUuid":"57f14548-1aed-731d-74bb-d5df68e9474f"}
+{"nexusFileName":"Stomp that Tadpole","nexusFileVersion":"1.0.0.5","nexusFileUploadedAt":1784008301,"pakFileName":"Tadpole_Stomp_57f14548-1aed-731d-74bb-d5df68e9474f.pak","nexusFileId":125610,"metaUuid":"57f14548-1aed-731d-74bb-d5df68e9474f"}
 ]},
 "17486":{"nexusModName":"Circle of Restoration-KR","nexusUploadedBy":"MshapedHairLoss","nexusModId":17486,"paks":[
 {"nexusFileName":"Circle of Restoration-KR","nexusFileVersion":"1.0.10.0","nexusFileUploadedAt":1751988865,"pakFileName":"Circle of Restoration-KR.pak","nexusFileId":97669,"metaUuid":null}
@@ -59259,7 +59259,7 @@
 {"nexusFileName":"SolarPlayerFeaturesForVanilla","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1769487351,"pakFileName":"SolarPlayerFeaturesForVanilla.pak","nexusFileId":113339,"metaUuid":"88d342df-747b-4b6d-81ed-50f46b8bb04d"}
 ]},
 "21038":{"nexusModName":"Guilt-Free Slayer Form - BETA","nexusUploadedBy":"whatsontheflip","nexusModId":21038,"paks":[
-{"nexusFileName":"Guilt-Free Slayer Form","nexusFileVersion":"1.1.0.1","nexusFileUploadedAt":1775256273,"pakFileName":"Guilt_Free_Slayer_7e03c99e-c7ab-7f68-e2f1-1faf2f78dac9.pak","nexusFileId":118053,"metaUuid":"7e03c99e-c7ab-7f68-e2f1-1faf2f78dac9"}
+{"nexusFileName":"Guilt-Free Slayer Form","nexusFileVersion":"1.1.0.3","nexusFileUploadedAt":1784009115,"pakFileName":"Guilt_Free_Slayer_7e03c99e-c7ab-7f68-e2f1-1faf2f78dac9.pak","nexusFileId":125611,"metaUuid":"7e03c99e-c7ab-7f68-e2f1-1faf2f78dac9"}
 ]},
 "21039":{"nexusModName":"J17's Companion Tattoos - Minthara - Jaheira - Minsc","nexusUploadedBy":"Joesiah17","nexusModId":21039,"paks":[
 {"nexusFileName":"MintharaBodyTattoos","nexusFileVersion":"1.01","nexusFileUploadedAt":1769504200,"pakFileName":"MintharaBodyTattoo_c4b6d4c8-325f-aca6-106c-c1c5caa5ca6d.pak","nexusFileId":113344,"metaUuid":"c4b6d4c8-325f-aca6-106c-c1c5caa5ca6d"},
@@ -66756,6 +66756,9 @@
 ]},
 "23845":{"nexusModName":"Moon Map - Incomplete Map","nexusUploadedBy":"inkyplz","nexusModId":23845,"paks":[
 {"nexusFileName":"Moon Map - Incomplete","nexusFileVersion":"1.0.0.6","nexusFileUploadedAt":1783965467,"pakFileName":"Inky_Eidelin_fdd0cc10-3dc9-f2bf-288b-3b71c92efc68.pak","nexusFileId":125559,"metaUuid":"fdd0cc10-3dc9-f2bf-288b-3b71c92efc68"}
+]},
+"23846":{"nexusModName":"Lie to Glut - Sovereign Glut Quest Tweaks and Bugfixes","nexusUploadedBy":"magnetuning","nexusModId":23846,"paks":[
+{"nexusFileName":"Lie to Glut - PAK","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1783968307,"pakFileName":"MGNTN_LieToGlut.pak","nexusFileId":125568,"metaUuid":null}
 ]},
 "23848":{"nexusModName":"Transmuted Spell - a Metamagic for Every Element","nexusUploadedBy":"JThug","nexusModId":23848,"paks":[
 {"nexusFileName":"TransmutedSpell Nexus V1.0","nexusFileVersion":"1","nexusFileUploadedAt":1783997769,"pakFileName":"StarkMeiProbe.pak","nexusFileId":125599,"metaUuid":null},
