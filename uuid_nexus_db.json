@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-07-14T12:52:24.002105+00:00","total_mods":16885},
+{"_meta":{"last_run":"2026-07-14T13:52:35.993463+00:00","total_mods":16885},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -51176,7 +51176,10 @@
 {"nexusFileName":"Move Through Others 2024","nexusFileVersion":"1.0.3.2","nexusFileUploadedAt":1760914485,"pakFileName":"DrKekyll_MoveThroughOthers2024.pak","nexusFileId":105608,"metaUuid":"ecb2b576-cdd4-49de-8ada-dbd71f0740f4"}
 ]},
 "18374":{"nexusModName":"Baldur's Gate 3 Viet Hoa CCT50K (Not Full)","nexusUploadedBy":"L4723","nexusModId":18374,"paks":[
-{"nexusFileName":"CCT-VH-Path8","nexusFileVersion":"4.1.1.689","nexusFileUploadedAt":1760054166,"pakFileName":"English.pak","nexusFileId":104747,"metaUuid":null}
+{"nexusFileName":"Fix-CCT-VH-Path8","nexusFileVersion":"4.1.1.689","nexusFileUploadedAt":1756372596,"pakFileName":"Game.pak","nexusFileId":101564,"metaUuid":null},
+{"nexusFileName":"Fix-CCT-VH-Path8","nexusFileVersion":"4.1.1.689","nexusFileUploadedAt":1756372596,"pakFileName":"English.pak","nexusFileId":101564,"metaUuid":null},
+{"nexusFileName":"CCT-VH","nexusFileVersion":"4.1.1.72","nexusFileUploadedAt":1784036180,"pakFileName":"English.CCT.Female.pak","nexusFileId":125617,"metaUuid":null},
+{"nexusFileName":"CCT-VH","nexusFileVersion":"4.1.1.72","nexusFileUploadedAt":1784036180,"pakFileName":"English.CCT.Male.pak","nexusFileId":125617,"metaUuid":null}
 ]},
 "18376":{"nexusModName":"Dungeon Light Spell Toggle (Lumen Umbra)","nexusUploadedBy":"swissfred","nexusModId":18376,"paks":[
 {"nexusFileName":"Dungeon Light Spell Toggle (Lumen Umbra)","nexusFileVersion":"1.0.8.2","nexusFileUploadedAt":1769888365,"pakFileName":"LumenUmbraSpell_5a40b0cf-b282-4dd8-ddfd-450c3a35cc86.pak","nexusFileId":113774,"metaUuid":"5a40b0cf-b282-4dd8-ddfd-450c3a35cc86"}
