@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-07-14T00:52:21.376503+00:00","total_mods":16879},
+{"_meta":{"last_run":"2026-07-14T01:52:21.084964+00:00","total_mods":16879},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -35991,7 +35991,7 @@
 ]},
 "12727":{"nexusModName":"DnD 5.5e All-in-One BEYOND","nexusUploadedBy":"yoonmoonsik43","nexusModId":12727,"paks":[
 {"nexusFileName":"dnd2024 - V3 Legacy","nexusFileVersion":"3.4.6.4","nexusFileUploadedAt":1771945305,"pakFileName":"DnD2024_897914ef-5c96-053c-44af-0be823f895fe.pak","nexusFileId":115523,"metaUuid":"897914ef-5c96-053c-44af-0be823f895fe"},
-{"nexusFileName":"DnD 5.5e All-in-One BEYOND","nexusFileVersion":"4.10.1.0","nexusFileUploadedAt":1783959581,"pakFileName":"DnD2024_897914ef-5c96-053c-44af-0be823f895fe.pak","nexusFileId":125550,"metaUuid":"897914ef-5c96-053c-44af-0be823f895fe"}
+{"nexusFileName":"DnD 5.5e All-in-One BEYOND","nexusFileVersion":"4.10.2.0","nexusFileUploadedAt":1783990667,"pakFileName":"DnD2024_897914ef-5c96-053c-44af-0be823f895fe.pak","nexusFileId":125591,"metaUuid":"897914ef-5c96-053c-44af-0be823f895fe"}
 ]},
 "12728":{"nexusModName":"Origin-Themed Headwear KR","nexusUploadedBy":"Soorawang","nexusModId":12728,"paks":[
 {"nexusFileName":"Origin-Themed Headwear KR","nexusFileVersion":"1.0","nexusFileUploadedAt":1727930331,"pakFileName":"OriginHeadwear_kr.pak","nexusFileId":73692,"metaUuid":null}
@@ -66210,7 +66210,8 @@
 {"nexusFileName":"Necribelle - A Summon Mod for Korean","nexusFileVersion":"2.5","nexusFileUploadedAt":1783104714,"pakFileName":"Necri_Soul_Wand_kr.pak","nexusFileId":124803,"metaUuid":null}
 ]},
 "23613":{"nexusModName":"STAV - Snailzx Tattoos And VTs","nexusUploadedBy":"EvilSnail0fDestruktion","nexusModId":23613,"paks":[
-{"nexusFileName":"STAV Main File","nexusFileVersion":"0.3.1","nexusFileUploadedAt":1783310928,"pakFileName":"STAV_2b9e05c8-d15a-3ac2-7237-6aa263f1dceb.pak","nexusFileId":125015,"metaUuid":"2b9e05c8-d15a-3ac2-7237-6aa263f1dceb"}
+{"nexusFileName":"STAV - VT","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1783989645,"pakFileName":"STAV [VT].pak","nexusFileId":125589,"metaUuid":null},
+{"nexusFileName":"STAV","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1783990827,"pakFileName":"STAV.pak","nexusFileId":125592,"metaUuid":null}
 ]},
 "23614":{"nexusModName":"WotD Aasimar Traduzione ITA","nexusUploadedBy":"EveeLaverne","nexusModId":23614,"paks":[
 {"nexusFileName":"WotD Aasimar ITA","nexusFileVersion":"1.0.1.0","nexusFileUploadedAt":1783784411,"pakFileName":"WotD-Aasimar ITA.pak","nexusFileId":125431,"metaUuid":null}
@@ -66232,7 +66233,7 @@
 {"nexusFileName":"SEAF Commandoes","nexusFileVersion":"1","nexusFileUploadedAt":1783432756,"pakFileName":"SEAF_Commandoes_f31b41d6-5f1c-de1d-0fd5-464cb50db406.pak","nexusFileId":125164,"metaUuid":null}
 ]},
 "23623":{"nexusModName":"Missing Starting Equipment And Passives Fix","nexusUploadedBy":"NecroticFlame","nexusModId":23623,"paks":[
-{"nexusFileName":"Main","nexusFileVersion":"1.1.1","nexusFileUploadedAt":1783838045,"pakFileName":"ECC_Fixes_5470bce5-0ad7-4e05-287f-2d6fa3e9eb04.pak","nexusFileId":125461,"metaUuid":"5470bce5-0ad7-4e05-287f-2d6fa3e9eb04"}
+{"nexusFileName":"Main","nexusFileVersion":"1.1.2","nexusFileUploadedAt":1783992419,"pakFileName":"ECC_Fixes_5470bce5-0ad7-4e05-287f-2d6fa3e9eb04.pak","nexusFileId":125593,"metaUuid":"5470bce5-0ad7-4e05-287f-2d6fa3e9eb04"}
 ]},
 "23625":{"nexusModName":"Bloodtrail - Path of Undeath Chapter 2 PT-BR","nexusUploadedBy":"ShadowAhJin","nexusModId":23625,"paks":[
 {"nexusFileName":"Path Of Undeath Bloodtrail PT-BR","nexusFileVersion":"1.0.0.3","nexusFileUploadedAt":1783695108,"pakFileName":"Bloodtrail_-_Path_of_Undeath_Chapter_2_PTBR.pak","nexusFileId":125347,"metaUuid":null}
@@ -66357,11 +66358,11 @@
 {"nexusFileName":"Russian EvsO","nexusFileVersion":"1","nexusFileUploadedAt":1783923048,"pakFileName":"EmperorVsOrpheus_ru.pak","nexusFileId":125521,"metaUuid":null}
 ]},
 "23680":{"nexusModName":"Starting Equipment Selection","nexusUploadedBy":"NecroticFlame","nexusModId":23680,"paks":[
-{"nexusFileName":"Humanoid Equipment and Clothing","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1783057657,"pakFileName":"ECC_Humanoid_5f2c3462-94d5-feeb-5f39-5cd0f7a76c5a.pak","nexusFileId":124757,"metaUuid":"5f2c3462-94d5-feeb-5f39-5cd0f7a76c5a"},
 {"nexusFileName":"Githyanki Equipment","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1783057830,"pakFileName":"ECC_Githyanki_9fb63845-8b2d-314d-99a2-bd0c75199995.pak","nexusFileId":124758,"metaUuid":"9fb63845-8b2d-314d-99a2-bd0c75199995"},
 {"nexusFileName":"Drow Equipment & Clothing","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1783403033,"pakFileName":"ECC_Drow_b0f12c3a-ea1c-3e15-3f16-2fe463d2963b.pak","nexusFileId":125148,"metaUuid":"b0f12c3a-ea1c-3e15-3f16-2fe463d2963b"},
 {"nexusFileName":"Absolute Equipment and Clothing","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1783671258,"pakFileName":"ECC_Absolute_f3ef7850-1c69-23b7-737a-55b866f40584.pak","nexusFileId":125328,"metaUuid":null},
-{"nexusFileName":"Main","nexusFileVersion":"1.0.3","nexusFileUploadedAt":1783838235,"pakFileName":"ECC_a1e921ae-8aa2-655c-c399-cfd97ed46f4c.pak","nexusFileId":125464,"metaUuid":"a1e921ae-8aa2-655c-c399-cfd97ed46f4c"}
+{"nexusFileName":"Main","nexusFileVersion":"1.0.4","nexusFileUploadedAt":1783992684,"pakFileName":"ECC_a1e921ae-8aa2-655c-c399-cfd97ed46f4c.pak","nexusFileId":125594,"metaUuid":"a1e921ae-8aa2-655c-c399-cfd97ed46f4c"},
+{"nexusFileName":"Humanoid Equipment and Clothing","nexusFileVersion":"1.0.1","nexusFileUploadedAt":1783992947,"pakFileName":"ECC_Humanoid_5f2c3462-94d5-feeb-5f39-5cd0f7a76c5a.pak","nexusFileId":125595,"metaUuid":"5f2c3462-94d5-feeb-5f39-5cd0f7a76c5a"}
 ]},
 "23682":{"nexusModName":"Draconic Heritage - New Feat and Dragonborn Breath Weapon Tweaks","nexusUploadedBy":"aljoxo","nexusModId":23682,"paks":[
 {"nexusFileName":"Draconic Heritage","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1783070266,"pakFileName":"DraconicHeritageFeat_6717ff34-c605-60f2-a7d4-43af802463a2.pak","nexusFileId":124765,"metaUuid":"6717ff34-c605-60f2-a7d4-43af802463a2"}
