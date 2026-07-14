@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-07-14T22:52:06.001424+00:00","total_mods":16890},
+{"_meta":{"last_run":"2026-07-14T23:52:08.665981+00:00","total_mods":16895},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -64075,8 +64075,8 @@
 {"nexusFileName":"Shadow Burst Level 9 (for v2.0 of the main mod)","nexusFileVersion":"2.0","nexusFileUploadedAt":1780335164,"pakFileName":"Shadow Burst Level 9.pak","nexusFileId":122588,"metaUuid":"ec0aa0d4-e653-42d2-b167-5b6d11f9ad79"},
 {"nexusFileName":"TDR Old Cantrips (works with any version)","nexusFileVersion":"2.0","nexusFileUploadedAt":1780335197,"pakFileName":"TDR Old Cantrips.pak","nexusFileId":122589,"metaUuid":null},
 {"nexusFileName":"Trickery Domain Reworked (OLD VERSION)","nexusFileVersion":"2.1","nexusFileUploadedAt":1780793883,"pakFileName":"Trickery Domain Reworked.pak","nexusFileId":123034,"metaUuid":"1c6fc9ea-b02e-440b-9a1c-6b084e025c4d"},
-{"nexusFileName":"Trickery Domain Reworked","nexusFileVersion":"3.0","nexusFileUploadedAt":1784043443,"pakFileName":"Trickery Domain Reworked.pak","nexusFileId":125620,"metaUuid":"1c6fc9ea-b02e-440b-9a1c-6b084e025c4d"},
-{"nexusFileName":"Shadow Burst Level 9","nexusFileVersion":"3.0","nexusFileUploadedAt":1784044562,"pakFileName":"Shadow Burst Level 9.pak","nexusFileId":125622,"metaUuid":"ec0aa0d4-e653-42d2-b167-5b6d11f9ad79"}
+{"nexusFileName":"Shadow Burst Level 9","nexusFileVersion":"3.0","nexusFileUploadedAt":1784044562,"pakFileName":"Shadow Burst Level 9.pak","nexusFileId":125622,"metaUuid":"ec0aa0d4-e653-42d2-b167-5b6d11f9ad79"},
+{"nexusFileName":"Trickery Domain Reworked","nexusFileVersion":"3.1.1","nexusFileUploadedAt":1784071292,"pakFileName":"Trickery Domain Reworked.pak","nexusFileId":125661,"metaUuid":"1c6fc9ea-b02e-440b-9a1c-6b084e025c4d"}
 ]},
 "22743":{"nexusModName":"Force Pause","nexusUploadedBy":"TimeReprise","nexusModId":22743,"paks":[
 {"nexusFileName":"Force FTB","nexusFileVersion":"1","nexusFileUploadedAt":1778422970,"pakFileName":"Force_FTB.pak","nexusFileId":120892,"metaUuid":null}
@@ -65990,6 +65990,12 @@
 "23505":{"nexusModName":"Decoy Saboteur - A Tactical Decoy Trap Rogue Subclass","nexusUploadedBy":"dddzmpzmp","nexusModId":23505,"paks":[
 {"nexusFileName":"DecoySaboteur","nexusFileVersion":"1.0.4.0","nexusFileUploadedAt":1782922349,"pakFileName":"DecoySaboteurRogue_4c18113d-dffa-4671-b705-8a51499e155b.pak","nexusFileId":124656,"metaUuid":null}
 ]},
+"23507":{"nexusModName":"Dark Urge Heal - Both Memories Unlocked","nexusUploadedBy":"Seristina","nexusModId":23507,"paks":[
+{"nexusFileName":"DurgeHealMemoryUnlock","nexusFileVersion":"1","nexusFileUploadedAt":1784055605,"pakFileName":"DurgeHealMemoryUnlock.pak","nexusFileId":125641,"metaUuid":null}
+]},
+"23508":{"nexusModName":"Dark Urge Noblestalk Memory Swap","nexusUploadedBy":"Seristina","nexusModId":23508,"paks":[
+{"nexusFileName":"DurgeNoblestalkMemorySwap","nexusFileVersion":"1","nexusFileUploadedAt":1784055559,"pakFileName":"DurgeNoblestalkMemorySwap.pak","nexusFileId":125640,"metaUuid":null}
+]},
 "23531":{"nexusModName":"Abjuration Wizard Shield Fix","nexusUploadedBy":"yoonmoonsik43","nexusModId":23531,"paks":[
 {"nexusFileName":"Abjurationwizardshield E0d25da Atgb","nexusFileVersion":"1","nexusFileUploadedAt":1782177127,"pakFileName":"AbjurationWizardShield_e0d25da2-d513-ac32-8e6a-23d2c36ab91d.pak","nexusFileId":124132,"metaUuid":"e0d25da2-d513-ac32-8e6a-23d2c36ab91d"}
 ]},
@@ -66580,6 +66586,9 @@
 "23767":{"nexusModName":"Follow Astarion - New Endgame Cutscene","nexusUploadedBy":"HyperspaceTowel","nexusModId":23767,"paks":[
 {"nexusFileName":"HT_FollowAstarion","nexusFileVersion":"1.0.0.39","nexusFileUploadedAt":1783647910,"pakFileName":"HT_FollowAstarion_ba4a2341-854f-7b3c-0c07-bf7ac830f411.pak","nexusFileId":125315,"metaUuid":"ba4a2341-854f-7b3c-0c07-bf7ac830f411"}
 ]},
+"23769":{"nexusModName":"Dark Urge Hide From Your Past Narrator Line Fix","nexusUploadedBy":"Seristina","nexusModId":23769,"paks":[
+{"nexusFileName":"HideFromPast","nexusFileVersion":"1","nexusFileUploadedAt":1784055519,"pakFileName":"HideFromPast.pak","nexusFileId":125639,"metaUuid":null}
+]},
 "23770":{"nexusModName":"Emotional Narrator - Male (Frosty Resolve) - Japanese","nexusUploadedBy":"ToxicDrake","nexusModId":23770,"paks":[
 {"nexusFileName":"EMO YouN Male Japanese","nexusFileVersion":"1","nexusFileUploadedAt":1783464216,"pakFileName":"EMO_YouN_Male_Japanese.pak","nexusFileId":125193,"metaUuid":null}
 ]},
@@ -66759,6 +66768,9 @@
 "23846":{"nexusModName":"Lie to Glut - Sovereign Glut Quest Tweaks and Bugfixes","nexusUploadedBy":"magnetuning","nexusModId":23846,"paks":[
 {"nexusFileName":"Lie to Glut - PAK","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1783968307,"pakFileName":"MGNTN_LieToGlut.pak","nexusFileId":125568,"metaUuid":null}
 ]},
+"23847":{"nexusModName":"Flashback about Gortash - new durgetash cutscene","nexusUploadedBy":"Nuage12","nexusModId":23847,"paks":[
+{"nexusFileName":"Main file","nexusFileVersion":"1","nexusFileUploadedAt":1784069598,"pakFileName":"gortflash_80d47f66-036b-e1a5-b3d8-44b178f6a0f7.pak","nexusFileId":125658,"metaUuid":null}
+]},
 "23848":{"nexusModName":"Transmuted Spell - a Metamagic for Every Element","nexusUploadedBy":"JThug","nexusModId":23848,"paks":[
 {"nexusFileName":"TransmutedSpell Nexus V1.0","nexusFileVersion":"1","nexusFileUploadedAt":1783997769,"pakFileName":"StarkMeiProbe.pak","nexusFileId":125599,"metaUuid":null},
 {"nexusFileName":"TransmutedSpell Nexus V1.0","nexusFileVersion":"1","nexusFileUploadedAt":1783997769,"pakFileName":"TransmutedSpell.pak","nexusFileId":125599,"metaUuid":null}
@@ -66805,6 +66817,9 @@
 "23872":{"nexusModName":"Immersive Ketheric Armour","nexusUploadedBy":"xJustAdam","nexusModId":23872,"paks":[
 {"nexusFileName":"Immersive Ketheric Armour","nexusFileVersion":"1.0","nexusFileUploadedAt":1784059490,"pakFileName":"Immersive Ketheric Armour.pak","nexusFileId":125645,"metaUuid":null},
 {"nexusFileName":"Immersive Ketheric Armour - Challenge Version","nexusFileVersion":"1.0","nexusFileUploadedAt":1784060282,"pakFileName":"Immersive Ketheric Armour - Challenge Version.pak","nexusFileId":125648,"metaUuid":null}
+]},
+"23873":{"nexusModName":"The Crimes of Skahr - Drow Assassin Equipment Set","nexusUploadedBy":"SHanson70","nexusModId":23873,"paks":[
+{"nexusFileName":"CrimesOfSkahr","nexusFileVersion":"1.0","nexusFileUploadedAt":1784069936,"pakFileName":"CrimesOfSkahr_02a4b503-b4f0-424c-810a-56a71aeb296d.pak","nexusFileId":125659,"metaUuid":null}
 ]},
 "23876":{"nexusModName":"Correct Counterspell Ability Score","nexusUploadedBy":"celerev","nexusModId":23876,"paks":[
 {"nexusFileName":"CorrectCounterspell","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1784063682,"pakFileName":"CorrectCounterspell_3d1b5440-1bf1-45c1-4530-097ca976bf6f.pak","nexusFileId":125655,"metaUuid":null}
