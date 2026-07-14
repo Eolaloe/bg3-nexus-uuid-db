@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-07-14T02:52:26.241626+00:00","total_mods":16879},
+{"_meta":{"last_run":"2026-07-14T03:52:53.705292+00:00","total_mods":16882},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -35991,7 +35991,7 @@
 ]},
 "12727":{"nexusModName":"DnD 5.5e All-in-One BEYOND","nexusUploadedBy":"yoonmoonsik43","nexusModId":12727,"paks":[
 {"nexusFileName":"dnd2024 - V3 Legacy","nexusFileVersion":"3.4.6.4","nexusFileUploadedAt":1771945305,"pakFileName":"DnD2024_897914ef-5c96-053c-44af-0be823f895fe.pak","nexusFileId":115523,"metaUuid":"897914ef-5c96-053c-44af-0be823f895fe"},
-{"nexusFileName":"DnD 5.5e All-in-One BEYOND","nexusFileVersion":"4.10.3.0","nexusFileUploadedAt":1783993893,"pakFileName":"DnD2024_897914ef-5c96-053c-44af-0be823f895fe.pak","nexusFileId":125596,"metaUuid":"897914ef-5c96-053c-44af-0be823f895fe"}
+{"nexusFileName":"DnD 5.5e All-in-One BEYOND","nexusFileVersion":"4.10.4.0","nexusFileUploadedAt":1783999716,"pakFileName":"DnD2024_897914ef-5c96-053c-44af-0be823f895fe.pak","nexusFileId":125600,"metaUuid":"897914ef-5c96-053c-44af-0be823f895fe"}
 ]},
 "12728":{"nexusModName":"Origin-Themed Headwear KR","nexusUploadedBy":"Soorawang","nexusModId":12728,"paks":[
 {"nexusFileName":"Origin-Themed Headwear KR","nexusFileVersion":"1.0","nexusFileUploadedAt":1727930331,"pakFileName":"OriginHeadwear_kr.pak","nexusFileId":73692,"metaUuid":null}
@@ -66054,6 +66054,9 @@
 "23555":{"nexusModName":"G.A.R.L.I.C. - Astarion's Temporary Debuff","nexusUploadedBy":"koboldJuno","nexusModId":23555,"paks":[
 {"nexusFileName":"G.A.R.L.I.C.","nexusFileVersion":"1.0","nexusFileUploadedAt":1782423339,"pakFileName":"KJM_Astarion_GarlicDebuff_9be654b1-2202-71ec-c2a9-2ae55ca2d400.pak","nexusFileId":124277,"metaUuid":null}
 ]},
+"23557":{"nexusModName":"Helping Hand - Gale's hand as Crawling Claw Summon","nexusUploadedBy":"koboldJuno","nexusModId":23557,"paks":[
+{"nexusFileName":"Gale's Helping Hand","nexusFileVersion":"1.0","nexusFileUploadedAt":1782488954,"pakFileName":"GaleHelpingHand.pak","nexusFileId":124330,"metaUuid":null}
+]},
 "23558":{"nexusModName":"Equinox","nexusUploadedBy":"bennymp4","nexusModId":23558,"paks":[
 {"nexusFileName":"Main","nexusFileVersion":"2.0.0.7","nexusFileUploadedAt":1782502133,"pakFileName":"Equinox_fc5ad1a8-6062-8ee2-ead5-89170458c4f4.pak","nexusFileId":124342,"metaUuid":"fc5ad1a8-6062-8ee2-ead5-89170458c4f4"}
 ]},
@@ -66752,6 +66755,10 @@
 "23845":{"nexusModName":"Moon Map - Incomplete Map","nexusUploadedBy":"inkyplz","nexusModId":23845,"paks":[
 {"nexusFileName":"Moon Map - Incomplete","nexusFileVersion":"1.0.0.6","nexusFileUploadedAt":1783965467,"pakFileName":"Inky_Eidelin_fdd0cc10-3dc9-f2bf-288b-3b71c92efc68.pak","nexusFileId":125559,"metaUuid":"fdd0cc10-3dc9-f2bf-288b-3b71c92efc68"}
 ]},
+"23848":{"nexusModName":"Transmuted Spell - a Metamagic for Every Element","nexusUploadedBy":"JThug","nexusModId":23848,"paks":[
+{"nexusFileName":"TransmutedSpell Nexus V1.0","nexusFileVersion":"1","nexusFileUploadedAt":1783997769,"pakFileName":"StarkMeiProbe.pak","nexusFileId":125599,"metaUuid":null},
+{"nexusFileName":"TransmutedSpell Nexus V1.0","nexusFileVersion":"1","nexusFileUploadedAt":1783997769,"pakFileName":"TransmutedSpell.pak","nexusFileId":125599,"metaUuid":null}
+]},
 "23850":{"nexusModName":"Shar Origin","nexusUploadedBy":"TheCobaltCactus","nexusModId":23850,"paks":[
 {"nexusFileName":"Shar Origin","nexusFileVersion":"1.0.0.3","nexusFileUploadedAt":1783983463,"pakFileName":"Origin_Shar_New_cfd7d1ab-73b4-bcd5-052f-b0b18d907f48.pak","nexusFileId":125577,"metaUuid":null}
 ]},
@@ -66764,4 +66771,7 @@
 ]},
 "23855":{"nexusModName":"Almighty Mahkloompah","nexusUploadedBy":"littlehouseofimagination","nexusModId":23855,"paks":[
 {"nexusFileName":"Mahkloompah","nexusFileVersion":"1","nexusFileUploadedAt":1783984153,"pakFileName":"Mahkloompah_05bfc50d-d099-4ecb-207b-5b0da6f1bfd5.pak","nexusFileId":125579,"metaUuid":null}
+]},
+"23857":{"nexusModName":"Fiend Hunter's Hammer and Armor","nexusUploadedBy":"Raven570","nexusModId":23857,"paks":[
+{"nexusFileName":"FiendHunterSet","nexusFileVersion":"1","nexusFileUploadedAt":1783997566,"pakFileName":"FiendHunterBattlehammer_66ca89a2-3c01-fe78-6d7c-074b564c34b8.pak","nexusFileId":125598,"metaUuid":null}
 ]}}
