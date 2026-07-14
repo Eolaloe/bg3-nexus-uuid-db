@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-07-14T15:52:58.318928+00:00","total_mods":16886},
+{"_meta":{"last_run":"2026-07-14T16:52:17.188289+00:00","total_mods":16887},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -64080,9 +64080,10 @@
 ]},
 "22740":{"nexusModName":"Trickery Domain Cleric - Full Rework","nexusUploadedBy":"Chlamydia1","nexusModId":22740,"paks":[
 {"nexusFileName":"Shadow Burst Level 9 (for v2.0 of the main mod)","nexusFileVersion":"2.0","nexusFileUploadedAt":1780335164,"pakFileName":"Shadow Burst Level 9.pak","nexusFileId":122588,"metaUuid":"ec0aa0d4-e653-42d2-b167-5b6d11f9ad79"},
-{"nexusFileName":"TDR Old Cantrips","nexusFileVersion":"2.0","nexusFileUploadedAt":1780335197,"pakFileName":"TDR Old Cantrips.pak","nexusFileId":122589,"metaUuid":null},
+{"nexusFileName":"TDR Old Cantrips (works with any version)","nexusFileVersion":"2.0","nexusFileUploadedAt":1780335197,"pakFileName":"TDR Old Cantrips.pak","nexusFileId":122589,"metaUuid":null},
 {"nexusFileName":"Trickery Domain Reworked (OLD VERSION)","nexusFileVersion":"2.1","nexusFileUploadedAt":1780793883,"pakFileName":"Trickery Domain Reworked.pak","nexusFileId":123034,"metaUuid":"1c6fc9ea-b02e-440b-9a1c-6b084e025c4d"},
-{"nexusFileName":"Trickery Domain Reworked","nexusFileVersion":"3.0","nexusFileUploadedAt":1784043443,"pakFileName":"Trickery Domain Reworked.pak","nexusFileId":125620,"metaUuid":"1c6fc9ea-b02e-440b-9a1c-6b084e025c4d"}
+{"nexusFileName":"Trickery Domain Reworked","nexusFileVersion":"3.0","nexusFileUploadedAt":1784043443,"pakFileName":"Trickery Domain Reworked.pak","nexusFileId":125620,"metaUuid":"1c6fc9ea-b02e-440b-9a1c-6b084e025c4d"},
+{"nexusFileName":"Shadow Burst Level 9","nexusFileVersion":"3.0","nexusFileUploadedAt":1784044562,"pakFileName":"Shadow Burst Level 9.pak","nexusFileId":125622,"metaUuid":"ec0aa0d4-e653-42d2-b167-5b6d11f9ad79"}
 ]},
 "22743":{"nexusModName":"Force Pause","nexusUploadedBy":"TimeReprise","nexusModId":22743,"paks":[
 {"nexusFileName":"Force FTB","nexusFileVersion":"1","nexusFileUploadedAt":1778422970,"pakFileName":"Force_FTB.pak","nexusFileId":120892,"metaUuid":null}
@@ -66416,7 +66417,7 @@
 {"nexusFileName":"Cooking Recipes","nexusFileVersion":"1.5","nexusFileUploadedAt":1783955487,"pakFileName":"CookingRecipes_b8ba240d-c945-abc2-3fdc-3e675c67a3d7.pak","nexusFileId":125547,"metaUuid":"b8ba240d-c945-abc2-3fdc-3e675c67a3d7"}
 ]},
 "23703":{"nexusModName":"The Weaver Class - Write Your Own Spells","nexusUploadedBy":"MiyuunDev","nexusModId":23703,"paks":[
-{"nexusFileName":"The Weaver Class - 1.3.1 ALPHA","nexusFileVersion":"1.3.1","nexusFileUploadedAt":1783878916,"pakFileName":"WeaverTisserand.pak","nexusFileId":125494,"metaUuid":"bc43c834-0569-4dcd-847b-4aabf46560c6"}
+{"nexusFileName":"The Weaver Class - 1.3.2 ALPHA","nexusFileVersion":"1.3.2","nexusFileUploadedAt":1784045594,"pakFileName":"WeaverTisserand.pak","nexusFileId":125625,"metaUuid":"bc43c834-0569-4dcd-847b-4aabf46560c6"}
 ]},
 "23705":{"nexusModName":"Kurenai Kage - Crimson Shadow Katana","nexusUploadedBy":"ForKiramay","nexusModId":23705,"paks":[
 {"nexusFileName":"Kurenai Kage","nexusFileVersion":"1.0.0.3","nexusFileUploadedAt":1783183879,"pakFileName":"ShadowKatana_c5d996d0-5958-742d-14d6-d6e8c9307e7d.pak","nexusFileId":124872,"metaUuid":"c5d996d0-5958-742d-14d6-d6e8c9307e7d"}
@@ -66792,4 +66793,9 @@
 ]},
 "23865":{"nexusModName":"Spear of the Red Warden","nexusUploadedBy":"PolivkaZKari","nexusModId":23865,"paks":[
 {"nexusFileName":"Spear of the Red Warden","nexusFileVersion":"2","nexusFileUploadedAt":1784037955,"pakFileName":"red_spear_31c66f72-d213-4b7b-8d90-f4d277d50546.pak","nexusFileId":125619,"metaUuid":null}
+]},
+"23867":{"nexusModName":"Snake Eyes - Eyes of the Beholder Preset","nexusUploadedBy":"RevolutionScribe","nexusModId":23867,"paks":[
+{"nexusFileName":"Snake Eyes - Standard","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1784045169,"pakFileName":"SnakeEyes.pak","nexusFileId":125623,"metaUuid":null},
+{"nexusFileName":"Snake Eyes - Large","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1784045197,"pakFileName":"SnakeEyesLarge.pak","nexusFileId":125624,"metaUuid":null},
+{"nexusFileName":"Snake Eye Colours","nexusFileVersion":"1.0.0.1","nexusFileUploadedAt":1784045737,"pakFileName":"SnakeEyeColours_1.0.0.1.pak","nexusFileId":125626,"metaUuid":null}
 ]}}
