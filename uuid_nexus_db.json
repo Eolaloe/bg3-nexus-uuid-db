@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-07-15T16:55:11.225232+00:00","total_mods":16906},
+{"_meta":{"last_run":"2026-07-15T17:55:43.827173+00:00","total_mods":16907},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -51837,12 +51837,12 @@
 {"nexusFileName":"Dawnstar's Grimoire_KOR","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1757779904,"pakFileName":"BloodofWitches_KOR.pak","nexusFileId":102683,"metaUuid":null}
 ]},
 "18629":{"nexusModName":"Shadowheart Concept Art Tattoos","nexusUploadedBy":"Nzx","nexusModId":18629,"paks":[
-{"nexusFileName":"Shadowheart_Concept_Art_Tattoos_ARM(pak)","nexusFileVersion":"1.1.0","nexusFileUploadedAt":1758500927,"pakFileName":"Shadowheart_Concept_Art_Tattoos_ARM.pak","nexusFileId":103392,"metaUuid":null},
-{"nexusFileName":"Shadowheart_Concept_Art_Tattoos_ARM_ON(pak)","nexusFileVersion":"1.1.0","nexusFileUploadedAt":1758500965,"pakFileName":"Shadowheart_Concept_Art_Tattoos_ARM_ON.pak","nexusFileId":103393,"metaUuid":null},
-{"nexusFileName":"Shadowheart_Concept_Art_Tattoos_ALT(pak)","nexusFileVersion":"1.2.0","nexusFileUploadedAt":1759304280,"pakFileName":"Shadowheart_Concept_Art_Tattoos_ALT.pak","nexusFileId":104082,"metaUuid":"84afa3a5-b759-4eb0-8d07-d7e967bc3d5a"},
-{"nexusFileName":"Shadowheart_Concept_Art_Tattoos_ALT_ON(pak)","nexusFileVersion":"1.2.0","nexusFileUploadedAt":1759304319,"pakFileName":"Shadowheart_Concept_Art_Tattoos_ALT_ON.pak","nexusFileId":104083,"metaUuid":null},
-{"nexusFileName":"Shadowheart_Concept_Art_Tattoos_AIO_ON(pak)","nexusFileVersion":"1.3.0","nexusFileUploadedAt":1759308228,"pakFileName":"Shadowheart_Concept_Art_Tattoos_ON.pak","nexusFileId":104089,"metaUuid":"84afa3a5-b759-4eb0-8d07-d7e967bc3d5a"},
-{"nexusFileName":"Shadowheart_Concept_Art_Tattoos(pak)","nexusFileVersion":"1.3.1","nexusFileUploadedAt":1759410428,"pakFileName":"Shadowheart_Concept_Art_Tattoos.pak","nexusFileId":104158,"metaUuid":"84afa3a5-b759-4eb0-8d07-d7e967bc3d5a"}
+{"nexusFileName":"Shadowheart_Concept_Art_Tattoos_ARM_ON(pak)","nexusFileVersion":"1.3.3","nexusFileUploadedAt":1784135495,"pakFileName":"Shadowheart_Concept_Art_Tattoos_ARM_ON.pak","nexusFileId":125729,"metaUuid":null},
+{"nexusFileName":"Shadowheart_Concept_Art_Tattoos_ARM(pak)","nexusFileVersion":"1.3.3","nexusFileUploadedAt":1784135515,"pakFileName":"Shadowheart_Concept_Art_Tattoos_ARM.pak","nexusFileId":125730,"metaUuid":null},
+{"nexusFileName":"Shadowheart_Concept_Art_Tattoos_ALT_ON(pak)","nexusFileVersion":"1.3.3","nexusFileUploadedAt":1784135530,"pakFileName":"Shadowheart_Concept_Art_Tattoos_ALT_ON.pak","nexusFileId":125731,"metaUuid":null},
+{"nexusFileName":"Shadowheart_Concept_Art_Tattoos_ALT(pak)","nexusFileVersion":"1.3.3","nexusFileUploadedAt":1784135544,"pakFileName":"Shadowheart_Concept_Art_Tattoos_ALT.pak","nexusFileId":125732,"metaUuid":"84afa3a5-b759-4eb0-8d07-d7e967bc3d5a"},
+{"nexusFileName":"Shadowheart_Concept_Art_Tattoos_ON(pak)","nexusFileVersion":"1.3.3","nexusFileUploadedAt":1784135561,"pakFileName":"Shadowheart_Concept_Art_Tattoos_ON.pak","nexusFileId":125733,"metaUuid":"84afa3a5-b759-4eb0-8d07-d7e967bc3d5a"},
+{"nexusFileName":"Shadowheart_Concept_Art_Tattoos(pak)","nexusFileVersion":"1.3.3","nexusFileUploadedAt":1784135573,"pakFileName":"Shadowheart_Concept_Art_Tattoos.pak","nexusFileId":125734,"metaUuid":"84afa3a5-b759-4eb0-8d07-d7e967bc3d5a"}
 ]},
 "18630":{"nexusModName":"Oathbreaker Reborn CHS","nexusUploadedBy":"LDHC","nexusModId":18630,"paks":[
 {"nexusFileName":"Oathbreaker Reborn CHS","nexusFileVersion":"2.0.4","nexusFileUploadedAt":1759174335,"pakFileName":"Oathbreaker Reborn CHS.pak","nexusFileId":103949,"metaUuid":null}
@@ -62822,7 +62822,8 @@
 {"nexusFileName":"SGT_Moon Flower_SeluniteShartsHairReplacer","nexusFileVersion":"1.1","nexusFileUploadedAt":1783526335,"pakFileName":"Moon Flower_SeluniteShartHairReplacer.pak","nexusFileId":125229,"metaUuid":"3cfff108-bff9-4b6f-bf2d-ca0e30ee5d7e"},
 {"nexusFileName":"SGT_Gloomy Moon_Hairs_For_CC","nexusFileVersion":"1.1","nexusFileUploadedAt":1783526420,"pakFileName":"Gloomy Moon Hairs for CC.pak","nexusFileId":125230,"metaUuid":"1b89ed35-57aa-4693-897d-e9b15d435577"},
 {"nexusFileName":"SGT_Moon Bob_Act3","nexusFileVersion":"1","nexusFileUploadedAt":1783526497,"pakFileName":"Moon Flower_BOB_SeluniteShartHairReplacer.pak","nexusFileId":125231,"metaUuid":null},
-{"nexusFileName":"SGT_Gloomy Bob_Act1","nexusFileVersion":"1","nexusFileUploadedAt":1783526570,"pakFileName":"Gloomy Flower_BOB_ShartHairReplacer.pak","nexusFileId":125232,"metaUuid":null}
+{"nexusFileName":"SGT_Gloomy Bob_Act1","nexusFileVersion":"1","nexusFileUploadedAt":1783526570,"pakFileName":"Gloomy Flower_BOB_ShartHairReplacer.pak","nexusFileId":125232,"metaUuid":null},
+{"nexusFileName":"SGT_Gloomy Flower_Act3","nexusFileVersion":"1.1","nexusFileUploadedAt":1784136176,"pakFileName":"GloomyFlower_Act3.pak","nexusFileId":125735,"metaUuid":null}
 ]},
 "22271":{"nexusModName":"Curse of Binding - Lockable Equipment","nexusUploadedBy":"tripulah","nexusModId":22271,"paks":[
 {"nexusFileName":"Bg3bindingcurse Ea15eefe 5a5f 79qy","nexusFileVersion":"1.1.1.12","nexusFileUploadedAt":1776791454,"pakFileName":"BG3BindingCurse_ea15eefe-5a5f-0838-49dd-a1bb16460f26.pak","nexusFileId":119617,"metaUuid":null}
@@ -65668,7 +65669,7 @@
 "23356":{"nexusModName":"Draco's Fantasy Gunslinger","nexusUploadedBy":"dracotunes","nexusModId":23356,"paks":[
 {"nexusFileName":"Feat Every 2 Levels","nexusFileVersion":"1","nexusFileUploadedAt":1781346587,"pakFileName":"DTGSfeat2level_6fd8fdf3-b0d9-71ae-4519-094aed82ae5c.pak","nexusFileId":123468,"metaUuid":"6fd8fdf3-b0d9-71ae-4519-094aed82ae5c"},
 {"nexusFileName":"Spawn All Weapons into Tutorial Chest","nexusFileVersion":"4","nexusFileUploadedAt":1781690169,"pakFileName":"DTGStutorialchestadd_5483ad95-adbb-3ef0-50ee-1a293bfbe213.pak","nexusFileId":123747,"metaUuid":"5483ad95-adbb-3ef0-50ee-1a293bfbe213"},
-{"nexusFileName":"Draco's Fantasy Gunslinger","nexusFileVersion":"13","nexusFileUploadedAt":1783863636,"pakFileName":"GUNSLINGERR_1d17e144-004d-7375-194e-f8d7854fe7d8.pak","nexusFileId":125481,"metaUuid":"1d17e144-004d-7375-194e-f8d7854fe7d8"}
+{"nexusFileName":"Draco's Fantasy Gunslinger","nexusFileVersion":"14","nexusFileUploadedAt":1784134760,"pakFileName":"GUNSLINGERR_1d17e144-004d-7375-194e-f8d7854fe7d8.pak","nexusFileId":125726,"metaUuid":"1d17e144-004d-7375-194e-f8d7854fe7d8"}
 ]},
 "23358":{"nexusModName":"Heo Nam-Jun Head Preset","nexusUploadedBy":"VespertilioArt","nexusModId":23358,"paks":[
 {"nexusFileName":"HeoNamJun","nexusFileVersion":"1.0.0.1","nexusFileUploadedAt":1781630510,"pakFileName":"HeoNamJun.pak","nexusFileId":123717,"metaUuid":"fd039493-8755-4249-bcb7-ed2ba461db08"},
@@ -65850,7 +65851,7 @@
 {"nexusFileName":"Infinite Combat Encounters and Zombies","nexusFileVersion":"1","nexusFileUploadedAt":1781799882,"pakFileName":"ZombiesBG3Mode_f77df079-70a6-57c1-15ec-6cfddf8b7e51.pak","nexusFileId":123838,"metaUuid":null}
 ]},
 "23446":{"nexusModName":"Wish Spell","nexusUploadedBy":"actualsailorcat","nexusModId":23446,"paks":[
-{"nexusFileName":"Wish","nexusFileVersion":"1.00.03","nexusFileUploadedAt":1783033121,"pakFileName":"Wish.pak","nexusFileId":124738,"metaUuid":"c5786672-3c9d-4bfb-a777-e92fb962fab5"}
+{"nexusFileName":"Wish","nexusFileVersion":"1.00.04","nexusFileUploadedAt":1784135389,"pakFileName":"Wish.pak","nexusFileId":125727,"metaUuid":"c5786672-3c9d-4bfb-a777-e92fb962fab5"}
 ]},
 "23448":{"nexusModName":"Valkrana's Wish Spell for Korean","nexusUploadedBy":"Eolaloe","nexusModId":23448,"paks":[
 {"nexusFileName":"Wish Spell for Korean","nexusFileVersion":"1.00.00","nexusFileUploadedAt":1781806486,"pakFileName":"Wish_kr.pak","nexusFileId":123841,"metaUuid":null}
@@ -66841,6 +66842,9 @@
 ]},
 "23881":{"nexusModName":"Best of Hands - Quick Lockpick and Disarm","nexusUploadedBy":"nymphipoo","nexusModId":23881,"paks":[
 {"nexusFileName":"Best of Hands - Quick Lockpick and Disarm","nexusFileVersion":"1","nexusFileUploadedAt":1784097197,"pakFileName":"BestofHands.pak","nexusFileId":125680,"metaUuid":null}
+]},
+"23883":{"nexusModName":"Dynamic Permanent Summons","nexusUploadedBy":"actualsailorcat","nexusModId":23883,"paks":[
+{"nexusFileName":"Dynamic Permanent Summons","nexusFileVersion":"1.00.01","nexusFileUploadedAt":1784135441,"pakFileName":"Dynamic Permanent Summons.pak","nexusFileId":125728,"metaUuid":null}
 ]},
 "23884":{"nexusModName":"NPCs have Subclasses and Feats (PT-BR)","nexusUploadedBy":"Firetoga","nexusModId":23884,"paks":[
 {"nexusFileName":"NPCs Have Subclasses (PT-BR)","nexusFileVersion":"2.3.0.12","nexusFileUploadedAt":1784088602,"pakFileName":"NPCs have Subclasses_BR.pak","nexusFileId":125669,"metaUuid":null},
