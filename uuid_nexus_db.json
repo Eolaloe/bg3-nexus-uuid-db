@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-07-15T03:51:53.998305+00:00","total_mods":16895},
+{"_meta":{"last_run":"2026-07-15T04:51:57.231277+00:00","total_mods":16896},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -66824,4 +66824,8 @@
 ]},
 "23876":{"nexusModName":"Correct Counterspell Ability Score","nexusUploadedBy":"celerev","nexusModId":23876,"paks":[
 {"nexusFileName":"CorrectCounterspell","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1784063682,"pakFileName":"CorrectCounterspell_3d1b5440-1bf1-45c1-4530-097ca976bf6f.pak","nexusFileId":125655,"metaUuid":null}
+]},
+"23884":{"nexusModName":"NPCs have Subclasses and Feats (PT-BR)","nexusUploadedBy":"Firetoga","nexusModId":23884,"paks":[
+{"nexusFileName":"NPCs Have Subclasses (PT-BR)","nexusFileVersion":"2.3.0.12","nexusFileUploadedAt":1784088602,"pakFileName":"NPCs have Subclasses_BR.pak","nexusFileId":125669,"metaUuid":null},
+{"nexusFileName":"NPCs Have Subclasses - Script Extender","nexusFileVersion":"3.3","nexusFileUploadedAt":1784088641,"pakFileName":"NPCs have Subclasses - SE (PT-BR).pak","nexusFileId":125670,"metaUuid":null}
 ]}}
