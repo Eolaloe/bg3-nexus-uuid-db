@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-07-15T06:55:24.734363+00:00","total_mods":16899},
+{"_meta":{"last_run":"2026-07-15T07:55:34.739677+00:00","total_mods":16900},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -63351,7 +63351,7 @@
 {"nexusFileName":"Fatebond","nexusFileVersion":"1.3.1","nexusFileUploadedAt":1783208148,"pakFileName":"Fatebond.pak","nexusFileId":124903,"metaUuid":"6cfead1f-d54c-4dfb-bc94-05e9fc1e2970"}
 ]},
 "22459":{"nexusModName":"DnD 5.5e All-in-One BEYOND Russian Localization","nexusUploadedBy":"XapcT","nexusModId":22459,"paks":[
-{"nexusFileName":"DnD 5.5e AIO Russian v0.3.133.zip","nexusFileVersion":"0.3.133","nexusFileUploadedAt":1784098087,"pakFileName":"DnD 5.5e AIO Russian.pak","nexusFileId":125683,"metaUuid":null}
+{"nexusFileName":"DnD 5.5e AIO Russian v0.3.135.zip","nexusFileVersion":"0.3.135","nexusFileUploadedAt":1784101665,"pakFileName":"DnD 5.5e AIO Russian.pak","nexusFileId":125690,"metaUuid":null}
 ]},
 "22460":{"nexusModName":"Elementally Based Gear","nexusUploadedBy":"Useyourrifle","nexusModId":22460,"paks":[
 {"nexusFileName":"Elemental_Gear.7z","nexusFileVersion":"1","nexusFileUploadedAt":1776346340,"pakFileName":"OP_Bow_56032304-f037-e077-f5e7-045d2e03ef1c.pak","nexusFileId":119147,"metaUuid":"56032304-f037-e077-f5e7-045d2e03ef1c"}
@@ -66238,8 +66238,8 @@
 {"nexusFileName":"OBSC Renees Princess Wardrobe Plus","nexusFileVersion":"1","nexusFileUploadedAt":1782703006,"pakFileName":"OBSC_Renees_Princess_Wardrobe_Plus.pak","nexusFileId":124516,"metaUuid":null}
 ]},
 "23620":{"nexusModName":"The Cosmic Patron - Warlock Subclass","nexusUploadedBy":"aljoxo","nexusModId":23620,"paks":[
-{"nexusFileName":"Cosmic Warlock - PHB2024 Patch","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1783838106,"pakFileName":"CosmicWarlock - PHB2024 Patch.pak","nexusFileId":125463,"metaUuid":"42c29f2e-f650-45c4-ad8c-926b93598f82"},
-{"nexusFileName":"Cosmic Warlock","nexusFileVersion":"1.0.1","nexusFileUploadedAt":1783884159,"pakFileName":"CosmicWarlock_bd683971-5e12-1bf5-3e48-7d20c2a5bb5d.pak","nexusFileId":125496,"metaUuid":null}
+{"nexusFileName":"Cosmic Warlock","nexusFileVersion":"1.0.2","nexusFileUploadedAt":1784100643,"pakFileName":"CosmicWarlock_bd683971-5e12-1bf5-3e48-7d20c2a5bb5d.pak","nexusFileId":125687,"metaUuid":null},
+{"nexusFileName":"Cosmic Warlock - PHB2024 Patch","nexusFileVersion":"1.0.2","nexusFileUploadedAt":1784101191,"pakFileName":"CosmicWarlock - PHB2024 Patch.pak","nexusFileId":125689,"metaUuid":"42c29f2e-f650-45c4-ad8c-926b93598f82"}
 ]},
 "23622":{"nexusModName":"SEAF Commando - Helldivers 2","nexusUploadedBy":"JaegerWasTaken","nexusModId":23622,"paks":[
 {"nexusFileName":"SEAF Commandoes","nexusFileVersion":"1","nexusFileUploadedAt":1783432756,"pakFileName":"SEAF_Commandoes_f31b41d6-5f1c-de1d-0fd5-464cb50db406.pak","nexusFileId":125164,"metaUuid":null}
@@ -66384,7 +66384,7 @@
 {"nexusFileName":"Umberlee's Earrings (Gold)","nexusFileVersion":"1.0","nexusFileUploadedAt":1783055916,"pakFileName":"Umberlee's Earrings (Gold).pak","nexusFileId":124756,"metaUuid":null}
 ]},
 "23685":{"nexusModName":"Blackwood's Red Mage","nexusUploadedBy":"EnixLHQ","nexusModId":23685,"paks":[
-{"nexusFileName":"Blackwood's Red Mage","nexusFileVersion":"2.2.4.31","nexusFileUploadedAt":1783925319,"pakFileName":"Red_Mage_Homebrew_6aec3ad4-990d-7667-a8e9-399d1bb6fc4b.pak","nexusFileId":125523,"metaUuid":null}
+{"nexusFileName":"Blackwood's Red Mage","nexusFileVersion":"2.2.4.34","nexusFileUploadedAt":1784099415,"pakFileName":"Red_Mage_Homebrew_6aec3ad4-990d-7667-a8e9-399d1bb6fc4b.pak","nexusFileId":125686,"metaUuid":null}
 ]},
 "23686":{"nexusModName":"Improved Equip Menu","nexusUploadedBy":"sowww","nexusModId":23686,"paks":[
 {"nexusFileName":"Improved Equip Menu","nexusFileVersion":"1.1.0","nexusFileUploadedAt":1783264510,"pakFileName":"ImprovedEquipMenu.pak","nexusFileId":124956,"metaUuid":"c953c1b3-cf57-4688-9950-9fc6fdc23415"}
@@ -66840,4 +66840,7 @@
 ]},
 "23886":{"nexusModName":"Living World Goblin Raiders","nexusUploadedBy":"GabeCamomescro","nexusModId":23886,"paks":[
 {"nexusFileName":"Livingworldconflicts 33a72de3 3h6t","nexusFileVersion":"1.0.0.78","nexusFileUploadedAt":1784097512,"pakFileName":"LivingWorldConflicts_33a72de3-5161-19e4-9f68-ee79dfa3ac8f.pak","nexusFileId":125682,"metaUuid":null}
+]},
+"23887":{"nexusModName":"Improved Scroll Tooltips","nexusUploadedBy":"sowww","nexusModId":23887,"paks":[
+{"nexusFileName":"Improved Scroll Tooltips","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1784098272,"pakFileName":"ImprovedScrollTooltips.pak","nexusFileId":125685,"metaUuid":null}
 ]}}
