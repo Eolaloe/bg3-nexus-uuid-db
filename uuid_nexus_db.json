@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-07-15T11:54:25.685586+00:00","total_mods":16901},
+{"_meta":{"last_run":"2026-07-15T12:55:25.496119+00:00","total_mods":16902},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -24860,8 +24860,8 @@
 {"nexusFileName":"Spells Extra - Library 1.5.0 ITA","nexusFileVersion":"1.5.0","nexusFileUploadedAt":1779430738,"pakFileName":"Spells Extra - Library - ITA.pak","nexusFileId":121905,"metaUuid":null},
 {"nexusFileName":"More Options for Barcus Windmill Dialogue ITA","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1779435665,"pakFileName":"MGNTN_BarcusWindmillDialogueTweaks - ITA.pak","nexusFileId":121907,"metaUuid":null},
 {"nexusFileName":"Scratch and Shovel ITA","nexusFileVersion":"1.3.6.6","nexusFileUploadedAt":1779436201,"pakFileName":"Scratch_And_Shovel_ITA_7d589019-cfae-482a-83f2-875283144d71.pak","nexusFileId":121909,"metaUuid":"391f8c7c-d49d-ee1c-30a4-b077843ac94b"},
-{"nexusFileName":"Aylin And Isobel Join The Party IT","nexusFileVersion":"1.0.2.9","nexusFileUploadedAt":1784091810,"pakFileName":"Aylin_and_Isobel_Join_the_Party_ITA.pak","nexusFileId":125671,"metaUuid":null},
-{"nexusFileName":"HT Early Access Scenes Restored ITA","nexusFileVersion":"1.4.1.1","nexusFileUploadedAt":1784104385,"pakFileName":"HT_Early_Access_Scenes_Restored_IT.pak","nexusFileId":125691,"metaUuid":null}
+{"nexusFileName":"Early Access Scenes Restored ITA","nexusFileVersion":"1.4.1.1","nexusFileUploadedAt":1784116845,"pakFileName":"HT_Early_Access_Scenes_Restored_IT_2b73415b-8f54-411e-90b8-11c08f718e4f.pak","nexusFileId":125698,"metaUuid":null},
+{"nexusFileName":"Aylin And Isobel Join The Party IT","nexusFileVersion":"1.0.2.9","nexusFileUploadedAt":1784117373,"pakFileName":"Aylin_and_Isobel_Join_the_Party_ITA_6984874c-44ff-43fd-9e1c-797360ef9a73.pak","nexusFileId":125699,"metaUuid":null}
 ]},
 "8338":{"nexusModName":"Lunar Sorcery Sorcerer Subclass CHS","nexusUploadedBy":"Dovasmith","nexusModId":8338,"paks":[
 {"nexusFileName":"Lunar Sorcery Sorcerer Subclass CHS","nexusFileVersion":"1.2","nexusFileUploadedAt":1713401647,"pakFileName":"LunarSorcery CHS.pak","nexusFileId":54110,"metaUuid":null}
@@ -54001,7 +54001,7 @@
 {"nexusFileName":"Hexblood CC Patch - Half-Tiefs Flora and Fauna","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1766544319,"pakFileName":"Hexblood Patch - Flora and Fauna.pak","nexusFileId":110212,"metaUuid":null},
 {"nexusFileName":"Hexblood CC Patch - Horns of Faerun","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1766544358,"pakFileName":"Hexblood Patch - Horns of Faerun.pak","nexusFileId":110213,"metaUuid":null},
 {"nexusFileName":"Hexblood CC Patch - Saer's Horns","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1766544406,"pakFileName":"Hexblood Patch - Saers Horns.pak","nexusFileId":110214,"metaUuid":null},
-{"nexusFileName":"Van Richten's Hexblood","nexusFileVersion":"1.2.2","nexusFileUploadedAt":1778340200,"pakFileName":"Hexbloods.pak","nexusFileId":120834,"metaUuid":"596a3398-b512-4ad5-8fbc-369f8fe81956"}
+{"nexusFileName":"Van Richten's Hexblood","nexusFileVersion":"1.3.2","nexusFileUploadedAt":1784116596,"pakFileName":"Hexbloods.pak","nexusFileId":125697,"metaUuid":"596a3398-b512-4ad5-8fbc-369f8fe81956"}
 ]},
 "19407":{"nexusModName":"More Unlocks for Trials of Tav - Reloaded","nexusUploadedBy":"Xgatt","nexusModId":19407,"paks":[
 {"nexusFileName":"Main File","nexusFileVersion":"1.2.0","nexusFileUploadedAt":1761894358,"pakFileName":"More Unlocks for Trials of Tav Reloaded.pak","nexusFileId":106413,"metaUuid":"dc8420fe-4f78-487a-90d5-de2594eec08f"}
@@ -66846,4 +66846,7 @@
 ]},
 "23887":{"nexusModName":"Improved Scroll Tooltips","nexusUploadedBy":"sowww","nexusModId":23887,"paks":[
 {"nexusFileName":"Improved Scroll Tooltips","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1784098272,"pakFileName":"ImprovedScrollTooltips.pak","nexusFileId":125685,"metaUuid":null}
+]},
+"23890":{"nexusModName":"A Capitalist Hell - Markers of Romantic Devotion","nexusUploadedBy":"BittenThrice","nexusModId":23890,"paks":[
+{"nexusFileName":"CapitalistHellMarkersofDevotion","nexusFileVersion":"1.0.1.15","nexusFileUploadedAt":1784119674,"pakFileName":"CapitalistHellMarkersofDevotion.pak","nexusFileId":125705,"metaUuid":null}
 ]}}
