@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-07-15T12:55:25.496119+00:00","total_mods":16902},
+{"_meta":{"last_run":"2026-07-15T13:54:30.392209+00:00","total_mods":16903},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -46623,7 +46623,7 @@
 {"nexusFileName":"Ritual Casting and Always-Prepared Spells","nexusFileVersion":"2.1.0","nexusFileUploadedAt":1778033508,"pakFileName":"Ritual Casting and Always-Prepared Spells for Wizards.pak","nexusFileId":120620,"metaUuid":"8e6f13fc-921f-4628-84cc-119cc367ee25"},
 {"nexusFileName":"Ritual Casting and Always-Prep. Spells - 5eSpells","nexusFileVersion":"1.1.0","nexusFileUploadedAt":1781212109,"pakFileName":"Ritual Casting and Always-Prepared Spells for Wizards - 5e Spells.pak","nexusFileId":123345,"metaUuid":"4ba8b4db-1447-460b-a320-b977f768b154"},
 {"nexusFileName":"Rituals and Utility Spells Consolidated - 5eSpells","nexusFileVersion":"1.1.0","nexusFileUploadedAt":1781212125,"pakFileName":"Rituals and Utility Spells_consolidated - 5e Spells Patch.pak","nexusFileId":123346,"metaUuid":"08c35fce-14a1-463a-a174-3404e5923fc5"},
-{"nexusFileName":"Rituals and Utility Spells Consolidated","nexusFileVersion":"2.2.0","nexusFileUploadedAt":1781212180,"pakFileName":"Rituals and Utility Spells_consolidated.pak","nexusFileId":123347,"metaUuid":"e967c0c9-9947-482e-a86f-4ed2048bafca"}
+{"nexusFileName":"Rituals and Utility Spells Consolidated","nexusFileVersion":"2.3.0","nexusFileUploadedAt":1784122486,"pakFileName":"Rituals and Utility Spells_consolidated.pak","nexusFileId":125706,"metaUuid":"e967c0c9-9947-482e-a86f-4ed2048bafca"}
 ]},
 "16791":{"nexusModName":"Strong Astarion","nexusUploadedBy":"yoonmoonsik43","nexusModId":16791,"paks":[
 {"nexusFileName":"StrongAstarion","nexusFileVersion":"1.0.0.1","nexusFileUploadedAt":1748000791,"pakFileName":"StrongAstarion_11e3ed34-f12e-5723-2d6c-90d1dedcb506.pak","nexusFileId":93832,"metaUuid":null}
@@ -63354,7 +63354,7 @@
 {"nexusFileName":"Fatebond","nexusFileVersion":"1.3.1","nexusFileUploadedAt":1783208148,"pakFileName":"Fatebond.pak","nexusFileId":124903,"metaUuid":"6cfead1f-d54c-4dfb-bc94-05e9fc1e2970"}
 ]},
 "22459":{"nexusModName":"DnD 5.5e All-in-One BEYOND Russian Localization","nexusUploadedBy":"XapcT","nexusModId":22459,"paks":[
-{"nexusFileName":"DnD 5.5e AIO Russian v0.3.135.zip","nexusFileVersion":"0.3.135","nexusFileUploadedAt":1784101665,"pakFileName":"DnD 5.5e AIO Russian.pak","nexusFileId":125690,"metaUuid":null}
+{"nexusFileName":"DnD 5.5e AIO Russian v0.3.136.zip","nexusFileVersion":"0.3.136","nexusFileUploadedAt":1784123316,"pakFileName":"DnD 5.5e AIO Russian.pak","nexusFileId":125708,"metaUuid":null}
 ]},
 "22460":{"nexusModName":"Elementally Based Gear","nexusUploadedBy":"Useyourrifle","nexusModId":22460,"paks":[
 {"nexusFileName":"Elemental_Gear.7z","nexusFileVersion":"1","nexusFileUploadedAt":1776346340,"pakFileName":"OP_Bow_56032304-f037-e077-f5e7-045d2e03ef1c.pak","nexusFileId":119147,"metaUuid":"56032304-f037-e077-f5e7-045d2e03ef1c"}
@@ -65722,8 +65722,8 @@
 "23378":{"nexusModName":"axi and rakor assets","nexusUploadedBy":"axianaa","nexusModId":23378,"paks":[
 {"nexusFileName":"axi_and_r_ assets","nexusFileVersion":"1.0.0.63","nexusFileUploadedAt":1781702650,"pakFileName":"axi_and_r_assets.pak","nexusFileId":123758,"metaUuid":"643fb4fd-ae00-8c58-9ac4-cf0277d91d56"}
 ]},
-"23379":{"nexusModName":"Divinity Preludes","nexusUploadedBy":"GabeCamomescro","nexusModId":23379,"paks":[
-{"nexusFileName":"Main (Live) File","nexusFileVersion":"1.0.0.1240","nexusFileUploadedAt":1784096019,"pakFileName":"Preludes_f6c7657d-7c5e-cd0e-f0a9-6c851d5c473d.pak","nexusFileId":125676,"metaUuid":null}
+"23379":{"nexusModName":"Divinity - Preludes","nexusUploadedBy":"GabeCamomescro","nexusModId":23379,"paks":[
+{"nexusFileName":"Main (Live) File","nexusFileVersion":"1.0.0.1245","nexusFileUploadedAt":1784123391,"pakFileName":"Preludes_f6c7657d-7c5e-cd0e-f0a9-6c851d5c473d.pak","nexusFileId":125709,"metaUuid":null}
 ]},
 "23380":{"nexusModName":"Quality of Life Hotkeys","nexusUploadedBy":"sowww","nexusModId":23380,"paks":[
 {"nexusFileName":"Quality of Life Hotkeys","nexusFileVersion":"1.5.0","nexusFileUploadedAt":1783870841,"pakFileName":"AddToWaresHotkey.pak","nexusFileId":125485,"metaUuid":"dbddeb99-0037-4845-9c43-c77b9b19a62f"}
@@ -66841,7 +66841,7 @@
 "23885":{"nexusModName":"Jewels of the desert (Earrings with physics)","nexusUploadedBy":"Elledwyn","nexusModId":23885,"paks":[
 {"nexusFileName":"Jewels Of The Desert","nexusFileVersion":"1","nexusFileUploadedAt":1784093000,"pakFileName":"Jewels_of_the_Desert_2e0b541f-5cbf-9482-2f55-a14e0d8436ac.pak","nexusFileId":125674,"metaUuid":null}
 ]},
-"23886":{"nexusModName":"Living World Goblin Raiders","nexusUploadedBy":"GabeCamomescro","nexusModId":23886,"paks":[
+"23886":{"nexusModName":"Living World - Goblin Raiders","nexusUploadedBy":"GabeCamomescro","nexusModId":23886,"paks":[
 {"nexusFileName":"Livingworldconflicts 33a72de3 3h6t","nexusFileVersion":"1.0.0.78","nexusFileUploadedAt":1784097512,"pakFileName":"LivingWorldConflicts_33a72de3-5161-19e4-9f68-ee79dfa3ac8f.pak","nexusFileId":125682,"metaUuid":null}
 ]},
 "23887":{"nexusModName":"Improved Scroll Tooltips","nexusUploadedBy":"sowww","nexusModId":23887,"paks":[
@@ -66849,4 +66849,7 @@
 ]},
 "23890":{"nexusModName":"A Capitalist Hell - Markers of Romantic Devotion","nexusUploadedBy":"BittenThrice","nexusModId":23890,"paks":[
 {"nexusFileName":"CapitalistHellMarkersofDevotion","nexusFileVersion":"1.0.1.15","nexusFileUploadedAt":1784119674,"pakFileName":"CapitalistHellMarkersofDevotion.pak","nexusFileId":125705,"metaUuid":null}
+]},
+"23892":{"nexusModName":"Hot Thing - Karlach edit","nexusUploadedBy":"SweetGenerousThing","nexusModId":23892,"paks":[
+{"nexusFileName":"SGT_Hot Thing_Karlach edit","nexusFileVersion":"1","nexusFileUploadedAt":1784119367,"pakFileName":"SGT_KarlachEdit_ad691c90-093a-33fe-81d4-3d33cb3b06e2.pak","nexusFileId":125702,"metaUuid":null}
 ]}}
