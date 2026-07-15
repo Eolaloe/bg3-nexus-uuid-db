@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-07-15T20:54:42.338494+00:00","total_mods":16907},
+{"_meta":{"last_run":"2026-07-15T21:55:24.887815+00:00","total_mods":16907},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -66131,7 +66131,7 @@
 {"nexusFileName":"MonsterSlayer ProgressiveEquipmentSet TR","nexusFileVersion":"1.00.00","nexusFileUploadedAt":1782554321,"pakFileName":"MonsterSlayer_ProgressiveEquipmentSet_TR.pak","nexusFileId":124367,"metaUuid":null}
 ]},
 "23584":{"nexusModName":"Druid - Wild Shape Flexibility","nexusUploadedBy":"Grimmineller","nexusModId":23584,"paks":[
-{"nexusFileName":"Wildshape Flexibility","nexusFileVersion":"1.0.0.5","nexusFileUploadedAt":1782668861,"pakFileName":"wildshape_flex_f8a8cd22-0bc1-c7f6-8c3d-06aad9ed681e.pak","nexusFileId":124493,"metaUuid":null}
+{"nexusFileName":"Wildshape Flexibility","nexusFileVersion":"1.0.0.6","nexusFileUploadedAt":1784149942,"pakFileName":"wildshape_flex_f8a8cd22-0bc1-c7f6-8c3d-06aad9ed681e.pak","nexusFileId":125740,"metaUuid":null}
 ]},
 "23585":{"nexusModName":"Ordinary Maid Dress","nexusUploadedBy":"Chunyou2039","nexusModId":23585,"paks":[
 {"nexusFileName":"Maid 5259cdf3 6e3c 4231 3745 C681d89bd87a","nexusFileVersion":"1","nexusFileUploadedAt":1782565519,"pakFileName":"Maid_5259cdf3-6e3c-4231-3745-c681d89bd87a.pak","nexusFileId":124380,"metaUuid":null}
@@ -66863,4 +66863,9 @@
 ]},
 "23895":{"nexusModName":"More Enemies in Boss fights","nexusUploadedBy":"koboldJuno","nexusModId":23895,"paks":[
 {"nexusFileName":"Juno More Encounters","nexusFileVersion":"1.0","nexusFileUploadedAt":1784125817,"pakFileName":"JunoMoreEncounters_4b314b11-d6fd-eed1-4296-4e064bae4228.pak","nexusFileId":125718,"metaUuid":null}
+]},
+"23900":{"nexusModName":"Galestarion","nexusUploadedBy":"Nzx","nexusModId":23900,"paks":[
+{"nexusFileName":"Gale - OldTex","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1784150726,"pakFileName":"Gale [OldTex].pak","nexusFileId":125743,"metaUuid":null},
+{"nexusFileName":"Astarion - OldTex","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1784150748,"pakFileName":"Astarion [OldTex].pak","nexusFileId":125744,"metaUuid":null},
+{"nexusFileName":"Galestarion","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1784150782,"pakFileName":"Galestarion.pak","nexusFileId":125745,"metaUuid":null}
 ]}}
