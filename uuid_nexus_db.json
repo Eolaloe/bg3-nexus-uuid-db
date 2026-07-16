@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-07-16T15:55:08.435185+00:00","total_mods":16907},
+{"_meta":{"last_run":"2026-07-16T16:55:06.524544+00:00","total_mods":16908},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -66770,7 +66770,11 @@
 {"nexusFileName":"TransmutedMagic Nexus Extended V1.2","nexusFileVersion":"1.2","nexusFileUploadedAt":1784174904,"pakFileName":"StarkMeiProbe.pak","nexusFileId":125761,"metaUuid":null},
 {"nexusFileName":"TransmutedMagic Nexus Extended V1.2","nexusFileVersion":"1.2","nexusFileUploadedAt":1784174904,"pakFileName":"TransmutedMagic.pak","nexusFileId":125761,"metaUuid":null},
 {"nexusFileName":"TransmutedSpell Nexus V1.2","nexusFileVersion":"1.2","nexusFileUploadedAt":1784174986,"pakFileName":"StarkMeiProbe.pak","nexusFileId":125762,"metaUuid":null},
-{"nexusFileName":"TransmutedSpell Nexus V1.2","nexusFileVersion":"1.2","nexusFileUploadedAt":1784174986,"pakFileName":"TransmutedSpell.pak","nexusFileId":125762,"metaUuid":null}
+{"nexusFileName":"TransmutedSpell Nexus V1.2","nexusFileVersion":"1.2","nexusFileUploadedAt":1784174986,"pakFileName":"TransmutedSpell.pak","nexusFileId":125762,"metaUuid":null},
+{"nexusFileName":"TransmutedSpell Nexus V1.3","nexusFileVersion":"1.3","nexusFileUploadedAt":1784220693,"pakFileName":"StarkMeiProbe.pak","nexusFileId":125778,"metaUuid":null},
+{"nexusFileName":"TransmutedSpell Nexus V1.3","nexusFileVersion":"1.3","nexusFileUploadedAt":1784220693,"pakFileName":"TransmutedSpell.pak","nexusFileId":125778,"metaUuid":null},
+{"nexusFileName":"TransmutedMagic Nexus Extended V1.3","nexusFileVersion":"1.3","nexusFileUploadedAt":1784220744,"pakFileName":"StarkMeiProbe.pak","nexusFileId":125779,"metaUuid":null},
+{"nexusFileName":"TransmutedMagic Nexus Extended V1.3","nexusFileVersion":"1.3","nexusFileUploadedAt":1784220744,"pakFileName":"TransmutedMagic.pak","nexusFileId":125779,"metaUuid":null}
 ]},
 "23850":{"nexusModName":"Shar Origin","nexusUploadedBy":"TheCobaltCactus","nexusModId":23850,"paks":[
 {"nexusFileName":"Shar Origin","nexusFileVersion":"1.0.0.3","nexusFileUploadedAt":1783983463,"pakFileName":"Origin_Shar_New_cfd7d1ab-73b4-bcd5-052f-b0b18d907f48.pak","nexusFileId":125577,"metaUuid":null}
@@ -66871,4 +66875,7 @@
 ]},
 "23906":{"nexusModName":"Armour of Agility Boots and Gloves Restored","nexusUploadedBy":"koboldJuno","nexusModId":23906,"paks":[
 {"nexusFileName":"Boots and Gloves of Agility Restored","nexusFileVersion":"1.0","nexusFileUploadedAt":1784201920,"pakFileName":"BootsandGlovesofAgilityRestored_0ba71852-aacb-2375-752f-756916ad7dd1.pak","nexusFileId":125769,"metaUuid":null}
+]},
+"23907":{"nexusModName":"Infernal Fury - BG3SX Patch","nexusUploadedBy":"GustavoSchip","nexusModId":23907,"paks":[
+{"nexusFileName":"Infernal Fury - BG3SX Patch","nexusFileVersion":"1.0.1","nexusFileUploadedAt":1784219792,"pakFileName":"InfernalFuryCambionsBG3SX.pak","nexusFileId":125777,"metaUuid":null}
 ]}}
