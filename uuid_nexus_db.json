@@ -17885,7 +17885,7 @@
 {"nexusFileName":"Loading Reset","nexusFileVersion":"1.0.1","nexusFileUploadedAt":1706612940,"pakFileName":"ResetCooldowns.pak","nexusFileId":42442,"metaUuid":null}
 ]},
 "5662":{"nexusModName":"Tav's Hairpins Box","nexusUploadedBy":"almasy87","nexusModId":5662,"paks":[
-{"nexusFileName":"Tav's Hairpin Box","nexusFileVersion":"2.3","nexusFileUploadedAt":1714781850,"pakFileName":"TavsHairpinBox.pak","nexusFileId":55837,"metaUuid":null},
+{"nexusFileName":"Tav's Hairpin Box","nexusFileVersion":"2.3","nexusFileUploadedAt":1714781850,"pakFileName":"TavsHairpinBox.pak","nexusFileId":55837,"metaUuid":"a5073cdb-facb-4047-abeb-71efd3a13dfa"},
 {"nexusFileName":"Tav's Hairpin Box (head version)","nexusFileVersion":"2.3","nexusFileUploadedAt":1714781948,"pakFileName":"TavsHairpinBox.pak","nexusFileId":55838,"metaUuid":"a5073cdb-facb-4047-abeb-71efd3a13dfa"}
 ]},
 "5665":{"nexusModName":"Warforged Race","nexusUploadedBy":"BlueHuman123","nexusModId":5665,"paks":[
@@ -19512,7 +19512,7 @@
 ]},
 "6189":{"nexusModName":"True Soul - Branded Feat","nexusUploadedBy":"BitterPast","nexusModId":6189,"paks":[
 {"nexusFileName":"Branded Feat","nexusFileVersion":"1.0.2","nexusFileUploadedAt":1707823971,"pakFileName":"BrandedFeat.pak","nexusFileId":44470,"metaUuid":null},
-{"nexusFileName":"Branded - ASI","nexusFileVersion":"1.0.2","nexusFileUploadedAt":1707823986,"pakFileName":"BrandedFeat.pak","nexusFileId":44471,"metaUuid":null},
+{"nexusFileName":"Branded - ASI","nexusFileVersion":"1.0.2","nexusFileUploadedAt":1707823986,"pakFileName":"BrandedFeat.pak","nexusFileId":44471,"metaUuid":"15506dd0-2dc2-4224-afa2-42e3400c7caa"},
 {"nexusFileName":"Branded - Passives Only","nexusFileVersion":"1.0.2b","nexusFileUploadedAt":1707829432,"pakFileName":"BrandedFeat.pak","nexusFileId":44478,"metaUuid":"15506dd0-2dc2-4224-afa2-42e3400c7caa"}
 ]},
 "6190":{"nexusModName":"Appearance Edit Enhanced - Chinese Translation","nexusUploadedBy":"cf69735560","nexusModId":6190,"paks":[
@@ -26012,16 +26012,16 @@
 {"nexusFileName":"UCA - Prince of the Gate Patch","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1766521864,"pakFileName":"princeofgate-uca_patch.pak","nexusFileId":110198,"metaUuid":null},
 {"nexusFileName":"UCA - KAVT Patch","nexusFileVersion":"KAVTPatch1.0.0.0","nexusFileUploadedAt":1766619553,"pakFileName":"KAVT UCA Patch.pak","nexusFileId":110284,"metaUuid":"cc991189-9026-41dd-9782-e20e44568a06"},
 {"nexusFileName":"UCA - Combined","nexusFileVersion":"2.1.0.6","nexusFileUploadedAt":1783941034,"pakFileName":"p4_unique_com_8cc519bd-cfd3-4041-9468-518cc3e31b28.pak","nexusFileId":125535,"metaUuid":"8cc519bd-cfd3-4041-9468-518cc3e31b28"},
-{"nexusFileName":"UCA - Separated - All","nexusFileVersion":"2.1.0.6","nexusFileUploadedAt":1783941126,"pakFileName":"uca_astarion_218afea6-6117-3513-06e9-ff5dcb90c1d1.pak","nexusFileId":125536,"metaUuid":"6e01d21e-cd86-6eb7-8377-adb1696b2279"},
-{"nexusFileName":"UCA - Separated - All","nexusFileVersion":"2.1.0.6","nexusFileUploadedAt":1783941126,"pakFileName":"uca_gale_6e01d21e-cd86-6eb7-8377-adb1696b2279.pak","nexusFileId":125536,"metaUuid":"6e01d21e-cd86-6eb7-8377-adb1696b2279"},
-{"nexusFileName":"UCA - Separated - All","nexusFileVersion":"2.1.0.6","nexusFileUploadedAt":1783941126,"pakFileName":"uca_halsin_5c5fe398-9180-7fb8-dee5-c238b05cceb7.pak","nexusFileId":125536,"metaUuid":"6e01d21e-cd86-6eb7-8377-adb1696b2279"},
-{"nexusFileName":"UCA - Separated - All","nexusFileVersion":"2.1.0.6","nexusFileUploadedAt":1783941126,"pakFileName":"uca_jaheira_b4d6f18a-7e4d-4f89-bc80-6e59bc95a5d7.pak","nexusFileId":125536,"metaUuid":"6e01d21e-cd86-6eb7-8377-adb1696b2279"},
-{"nexusFileName":"UCA - Separated - All","nexusFileVersion":"2.1.0.6","nexusFileUploadedAt":1783941126,"pakFileName":"uca_karlach_1beb7ab8-0283-5ece-2355-6c76b6aa9fe1.pak","nexusFileId":125536,"metaUuid":"6e01d21e-cd86-6eb7-8377-adb1696b2279"},
-{"nexusFileName":"UCA - Separated - All","nexusFileVersion":"2.1.0.6","nexusFileUploadedAt":1783941126,"pakFileName":"uca_laezel_e7c2af3d-8a0f-42d4-2abe-4ec9182b9ce9.pak","nexusFileId":125536,"metaUuid":"6e01d21e-cd86-6eb7-8377-adb1696b2279"},
-{"nexusFileName":"UCA - Separated - All","nexusFileVersion":"2.1.0.6","nexusFileUploadedAt":1783941126,"pakFileName":"uca_minsc_03ce77f5-58dc-361c-b0b6-02ad30c1cc4c.pak","nexusFileId":125536,"metaUuid":"6e01d21e-cd86-6eb7-8377-adb1696b2279"},
-{"nexusFileName":"UCA - Separated - All","nexusFileVersion":"2.1.0.6","nexusFileUploadedAt":1783941126,"pakFileName":"uca_minthara_c448fdce-3b0c-4055-e543-e899e652bd98.pak","nexusFileId":125536,"metaUuid":"6e01d21e-cd86-6eb7-8377-adb1696b2279"},
-{"nexusFileName":"UCA - Separated - All","nexusFileVersion":"2.1.0.6","nexusFileUploadedAt":1783941126,"pakFileName":"uca_shadowheart_517032eb-2802-ecb6-986f-f6c0cd766dc3.pak","nexusFileId":125536,"metaUuid":"6e01d21e-cd86-6eb7-8377-adb1696b2279"},
-{"nexusFileName":"UCA - Separated - All","nexusFileVersion":"2.1.0.6","nexusFileUploadedAt":1783941126,"pakFileName":"uca_wyll_6317d5e3-40b0-1512-7420-4d9d65bb9b59.pak","nexusFileId":125536,"metaUuid":"6e01d21e-cd86-6eb7-8377-adb1696b2279"}
+{"nexusFileName":"UCA - Separated - All","nexusFileVersion":"2.1.0.6","nexusFileUploadedAt":1783941126,"pakFileName":"uca_astarion_218afea6-6117-3513-06e9-ff5dcb90c1d1.pak","nexusFileId":125536,"metaUuid":"03ce77f5-58dc-361c-b0b6-02ad30c1cc4c"},
+{"nexusFileName":"UCA - Separated - All","nexusFileVersion":"2.1.0.6","nexusFileUploadedAt":1783941126,"pakFileName":"uca_gale_6e01d21e-cd86-6eb7-8377-adb1696b2279.pak","nexusFileId":125536,"metaUuid":"03ce77f5-58dc-361c-b0b6-02ad30c1cc4c"},
+{"nexusFileName":"UCA - Separated - All","nexusFileVersion":"2.1.0.6","nexusFileUploadedAt":1783941126,"pakFileName":"uca_halsin_5c5fe398-9180-7fb8-dee5-c238b05cceb7.pak","nexusFileId":125536,"metaUuid":"03ce77f5-58dc-361c-b0b6-02ad30c1cc4c"},
+{"nexusFileName":"UCA - Separated - All","nexusFileVersion":"2.1.0.6","nexusFileUploadedAt":1783941126,"pakFileName":"uca_jaheira_b4d6f18a-7e4d-4f89-bc80-6e59bc95a5d7.pak","nexusFileId":125536,"metaUuid":"03ce77f5-58dc-361c-b0b6-02ad30c1cc4c"},
+{"nexusFileName":"UCA - Separated - All","nexusFileVersion":"2.1.0.6","nexusFileUploadedAt":1783941126,"pakFileName":"uca_karlach_1beb7ab8-0283-5ece-2355-6c76b6aa9fe1.pak","nexusFileId":125536,"metaUuid":"03ce77f5-58dc-361c-b0b6-02ad30c1cc4c"},
+{"nexusFileName":"UCA - Separated - All","nexusFileVersion":"2.1.0.6","nexusFileUploadedAt":1783941126,"pakFileName":"uca_laezel_e7c2af3d-8a0f-42d4-2abe-4ec9182b9ce9.pak","nexusFileId":125536,"metaUuid":"03ce77f5-58dc-361c-b0b6-02ad30c1cc4c"},
+{"nexusFileName":"UCA - Separated - All","nexusFileVersion":"2.1.0.6","nexusFileUploadedAt":1783941126,"pakFileName":"uca_minsc_03ce77f5-58dc-361c-b0b6-02ad30c1cc4c.pak","nexusFileId":125536,"metaUuid":"03ce77f5-58dc-361c-b0b6-02ad30c1cc4c"},
+{"nexusFileName":"UCA - Separated - All","nexusFileVersion":"2.1.0.6","nexusFileUploadedAt":1783941126,"pakFileName":"uca_minthara_c448fdce-3b0c-4055-e543-e899e652bd98.pak","nexusFileId":125536,"metaUuid":"03ce77f5-58dc-361c-b0b6-02ad30c1cc4c"},
+{"nexusFileName":"UCA - Separated - All","nexusFileVersion":"2.1.0.6","nexusFileUploadedAt":1783941126,"pakFileName":"uca_shadowheart_517032eb-2802-ecb6-986f-f6c0cd766dc3.pak","nexusFileId":125536,"metaUuid":"03ce77f5-58dc-361c-b0b6-02ad30c1cc4c"},
+{"nexusFileName":"UCA - Separated - All","nexusFileVersion":"2.1.0.6","nexusFileUploadedAt":1783941126,"pakFileName":"uca_wyll_6317d5e3-40b0-1512-7420-4d9d65bb9b59.pak","nexusFileId":125536,"metaUuid":"03ce77f5-58dc-361c-b0b6-02ad30c1cc4c"}
 ]},
 "8835":{"nexusModName":"Tutorial Chest Summoning - Ukrainian Translation","nexusUploadedBy":"PortgarAce","nexusModId":8835,"paks":[
 {"nexusFileName":"Tutorial Chest Summoning - Ukr Translation","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1713360928,"pakFileName":"TutorialChestSummoning-Ukr.pak","nexusFileId":54060,"metaUuid":null}
