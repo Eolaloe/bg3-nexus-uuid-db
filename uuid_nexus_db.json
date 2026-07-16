@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-07-16T18:54:05.531806+00:00","total_mods":16910},
+{"_meta":{"last_run":"2026-07-16T19:55:09.149984+00:00","total_mods":16910},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -63549,8 +63549,8 @@
 {"nexusFileName":"VergilClothes","nexusFileVersion":"1.3","nexusFileUploadedAt":1781518292,"pakFileName":"_VergilClothes.pak","nexusFileId":123651,"metaUuid":"18602479-a284-4e69-9348-105df5626779"}
 ]},
 "22540":{"nexusModName":"Devil May Cry 5 (DMC5) Dante","nexusUploadedBy":"KraytClaw","nexusModId":22540,"paks":[
-{"nexusFileName":"DanteHair","nexusFileVersion":"1","nexusFileUploadedAt":1776987753,"pakFileName":"DanteHair.pak","nexusFileId":119758,"metaUuid":null},
-{"nexusFileName":"DanteHead","nexusFileVersion":"1.2","nexusFileUploadedAt":1783349643,"pakFileName":"DanteHead.pak","nexusFileId":125067,"metaUuid":null}
+{"nexusFileName":"DanteHead","nexusFileVersion":"1.2","nexusFileUploadedAt":1783349643,"pakFileName":"DanteHead.pak","nexusFileId":125067,"metaUuid":null},
+{"nexusFileName":"DanteHair","nexusFileVersion":"1.2","nexusFileUploadedAt":1784230697,"pakFileName":"DanteHair.pak","nexusFileId":125788,"metaUuid":null}
 ]},
 "22541":{"nexusModName":"Clean Thy Mess","nexusUploadedBy":"Siaell","nexusModId":22541,"paks":[
 {"nexusFileName":"Clean Thy Mess","nexusFileVersion":"1","nexusFileUploadedAt":1776991075,"pakFileName":"Clean Thy Mess.pak","nexusFileId":119765,"metaUuid":"1dca904f-2872-498f-a5bf-eaf66c51b4d1"}
@@ -66204,7 +66204,9 @@
 {"nexusFileName":"Tav's Arcanist Boots","nexusFileVersion":"1","nexusFileUploadedAt":1783185617,"pakFileName":"R_TavBoots.pak","nexusFileId":124877,"metaUuid":null},
 {"nexusFileName":"Durge's Vengeance Boots","nexusFileVersion":"1","nexusFileUploadedAt":1783185658,"pakFileName":"R_DurgeBoots.pak","nexusFileId":124878,"metaUuid":null},
 {"nexusFileName":"Tav's Arcanist Cloak","nexusFileVersion":"1","nexusFileUploadedAt":1783612439,"pakFileName":"R_TavCloak.pak","nexusFileId":125280,"metaUuid":null},
-{"nexusFileName":"Durge's Vengeance Cloak","nexusFileVersion":"1","nexusFileUploadedAt":1783612475,"pakFileName":"R_DurgeCloak.pak","nexusFileId":125281,"metaUuid":null}
+{"nexusFileName":"Durge's Vengeance Cloak","nexusFileVersion":"1","nexusFileUploadedAt":1783612475,"pakFileName":"R_DurgeCloak.pak","nexusFileId":125281,"metaUuid":null},
+{"nexusFileName":"Tav's Arcanist Diadem","nexusFileVersion":"1","nexusFileUploadedAt":1784230815,"pakFileName":"R_TavDiadem.pak","nexusFileId":125790,"metaUuid":null},
+{"nexusFileName":"Durge's Vengeance Diadem","nexusFileVersion":"1","nexusFileUploadedAt":1784230843,"pakFileName":"R_DurgeDiadem.pak","nexusFileId":125791,"metaUuid":null}
 ]},
 "23612":{"nexusModName":"Necribelle - A Summon Mod for Korean","nexusUploadedBy":"Eolaloe","nexusModId":23612,"paks":[
 {"nexusFileName":"Necribelle - A Summon Mod for Korean","nexusFileVersion":"2.5","nexusFileUploadedAt":1783104714,"pakFileName":"Necri_Soul_Wand_kr.pak","nexusFileId":124803,"metaUuid":null}
@@ -66405,7 +66407,7 @@
 {"nexusFileName":"HT DarkUrgeTweeaks Chs","nexusFileVersion":"1","nexusFileUploadedAt":1783132897,"pakFileName":"HT_DarkUrgeTweeaks_Chs.pak","nexusFileId":124822,"metaUuid":null}
 ]},
 "23699":{"nexusModName":"Shadowcursed Lands Restoration - BETA","nexusUploadedBy":"gobanaoblin","nexusModId":23699,"paks":[
-{"nexusFileName":"Return to Reithwin","nexusFileVersion":"1","nexusFileUploadedAt":1784226764,"pakFileName":"MiniMaps_123d407b-be36-912f-2677-82062553e18b.pak","nexusFileId":125785,"metaUuid":null}
+{"nexusFileName":"Shadowcursed Lands Restoration","nexusFileVersion":"1","nexusFileUploadedAt":1784231315,"pakFileName":"MiniMaps_123d407b-be36-912f-2677-82062553e18b.pak","nexusFileId":125792,"metaUuid":null}
 ]},
 "23702":{"nexusModName":"Cooking Recipes for JWL Crafting Framework","nexusUploadedBy":"JimmyJohn3216","nexusModId":23702,"paks":[
 {"nexusFileName":"Cooking Recipes","nexusFileVersion":"1.5","nexusFileUploadedAt":1783955487,"pakFileName":"CookingRecipes_b8ba240d-c945-abc2-3fdc-3e675c67a3d7.pak","nexusFileId":125547,"metaUuid":"b8ba240d-c945-abc2-3fdc-3e675c67a3d7"}
@@ -66691,14 +66693,14 @@
 {"nexusFileName":"Sunset Dice (all in one)","nexusFileVersion":"1","nexusFileUploadedAt":1783757281,"pakFileName":"Sunbeam Dice.pak","nexusFileId":125406,"metaUuid":"b072517e-4f55-423f-80a2-feb1633cd8d7"},
 {"nexusFileName":"Sunset Dice (all in one)","nexusFileVersion":"1","nexusFileUploadedAt":1783757281,"pakFileName":"Sunshine Orange Dice.pak","nexusFileId":125406,"metaUuid":"b072517e-4f55-423f-80a2-feb1633cd8d7"},
 {"nexusFileName":"Sunset Dice (all in one)","nexusFileVersion":"1","nexusFileUploadedAt":1783757281,"pakFileName":"Twilight Dice.pak","nexusFileId":125406,"metaUuid":"b072517e-4f55-423f-80a2-feb1633cd8d7"},
-{"nexusFileName":"Sunset Dice (all in one)","nexusFileVersion":"1","nexusFileUploadedAt":1783757281,"pakFileName":"Vaporwave Dice.pak","nexusFileId":125406,"metaUuid":"b072517e-4f55-423f-80a2-feb1633cd8d7"},
+{"nexusFileName":"Sunset Dice (all in one)","nexusFileVersion":"1","nexusFileUploadedAt":1783757281,"pakFileName":"Vaporwave Dice.pak","nexusFileId":125406,"metaUuid":"15110e6d-9835-4d87-a7a7-71b78377c17e"},
 {"nexusFileName":"Vaporwave Dice","nexusFileVersion":"1","nexusFileUploadedAt":1783757336,"pakFileName":"Vaporwave Dice.pak","nexusFileId":125407,"metaUuid":"15110e6d-9835-4d87-a7a7-71b78377c17e"},
-{"nexusFileName":"Sunbeam Dice","nexusFileVersion":"1","nexusFileUploadedAt":1783757369,"pakFileName":"Sunbeam Dice.pak","nexusFileId":125408,"metaUuid":null},
-{"nexusFileName":"Sunshine Orange Dice","nexusFileVersion":"1","nexusFileUploadedAt":1783757393,"pakFileName":"Sunshine Orange Dice.pak","nexusFileId":125409,"metaUuid":null},
-{"nexusFileName":"Dusky Dice","nexusFileVersion":"1","nexusFileUploadedAt":1783757436,"pakFileName":"Dusky Dice.pak","nexusFileId":125410,"metaUuid":null},
-{"nexusFileName":"Fire Ruby Dice","nexusFileVersion":"1","nexusFileUploadedAt":1783757450,"pakFileName":"Fire Ruby Dice.pak","nexusFileId":125411,"metaUuid":null},
-{"nexusFileName":"Starry Sky Dice","nexusFileVersion":"1","nexusFileUploadedAt":1783757463,"pakFileName":"Starry Sky Dice.pak","nexusFileId":125412,"metaUuid":null},
-{"nexusFileName":"Twilight Dice","nexusFileVersion":"1","nexusFileUploadedAt":1783984122,"pakFileName":"Twilight Dice.pak","nexusFileId":125578,"metaUuid":null}
+{"nexusFileName":"Sunbeam Dice","nexusFileVersion":"1","nexusFileUploadedAt":1783757369,"pakFileName":"Sunbeam Dice.pak","nexusFileId":125408,"metaUuid":"b072517e-4f55-423f-80a2-feb1633cd8d7"},
+{"nexusFileName":"Sunshine Orange Dice","nexusFileVersion":"1","nexusFileUploadedAt":1783757393,"pakFileName":"Sunshine Orange Dice.pak","nexusFileId":125409,"metaUuid":"b072517e-4f55-423f-80a2-feb1633cd8d7"},
+{"nexusFileName":"Dusky Dice","nexusFileVersion":"1","nexusFileUploadedAt":1783757436,"pakFileName":"Dusky Dice.pak","nexusFileId":125410,"metaUuid":"b072517e-4f55-423f-80a2-feb1633cd8d7"},
+{"nexusFileName":"Fire Ruby Dice","nexusFileVersion":"1","nexusFileUploadedAt":1783757450,"pakFileName":"Fire Ruby Dice.pak","nexusFileId":125411,"metaUuid":"b072517e-4f55-423f-80a2-feb1633cd8d7"},
+{"nexusFileName":"Starry Sky Dice","nexusFileVersion":"1","nexusFileUploadedAt":1783757463,"pakFileName":"Starry Sky Dice.pak","nexusFileId":125412,"metaUuid":"b072517e-4f55-423f-80a2-feb1633cd8d7"},
+{"nexusFileName":"Twilight Dice","nexusFileVersion":"1","nexusFileUploadedAt":1783984122,"pakFileName":"Twilight Dice.pak","nexusFileId":125578,"metaUuid":"b072517e-4f55-423f-80a2-feb1633cd8d7"}
 ]},
 "23822":{"nexusModName":"Shared Bags for Your Party","nexusUploadedBy":"Eolaloe","nexusModId":23822,"paks":[
 {"nexusFileName":"Better Context Menu Patch (x1.3)","nexusFileVersion":"1.0.0.5","nexusFileUploadedAt":1784001959,"pakFileName":"SharedBags_BCMPatch13.pak","nexusFileId":125601,"metaUuid":null},
@@ -66719,7 +66721,7 @@
 ]},
 "23828":{"nexusModName":"Devil May Cry 5 (DMC5) Nero","nexusUploadedBy":"KraytClaw","nexusModId":23828,"paks":[
 {"nexusFileName":" NeroHead","nexusFileVersion":"1.0","nexusFileUploadedAt":1783851327,"pakFileName":"_NeroHead.pak","nexusFileId":125469,"metaUuid":null},
-{"nexusFileName":" NeroHair","nexusFileVersion":"1.0","nexusFileUploadedAt":1783851351,"pakFileName":"_NeroHair.pak","nexusFileId":125470,"metaUuid":null}
+{"nexusFileName":" NeroHair","nexusFileVersion":"1.1","nexusFileUploadedAt":1784230763,"pakFileName":"_NeroHair.pak","nexusFileId":125789,"metaUuid":null}
 ]},
 "23829":{"nexusModName":"Fate of Stelmane","nexusUploadedBy":"Nuage12","nexusModId":23829,"paks":[
 {"nexusFileName":"Emperor always show you fate of Stelmane","nexusFileVersion":"1","nexusFileUploadedAt":1783856118,"pakFileName":"empchm_37bc1ba1-37a3-dd7c-91c8-c91bd13abe34.pak","nexusFileId":125474,"metaUuid":"37bc1ba1-37a3-dd7c-91c8-c91bd13abe34"}
