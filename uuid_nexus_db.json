@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-07-16T10:54:48.659365+00:00","total_mods":16907},
+{"_meta":{"last_run":"2026-07-16T11:55:15.811308+00:00","total_mods":16908},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -24594,6 +24594,7 @@
 {"nexusFileName":"Veenab Library - VBT_Resource(3.4.1) ITA","nexusFileVersion":"3.4.1","nexusFileUploadedAt":1742200193,"pakFileName":"VBT_Resource - ITA.pak","nexusFileId":87392,"metaUuid":null},
 {"nexusFileName":"Veenab Library - VBT_Resource(3.4.1) ITA","nexusFileVersion":"3.4.1","nexusFileUploadedAt":1742200193,"pakFileName":"VBT_Toolkit_ITA_5e4039d9-ba15-a8d0-fd3e-0821fcb16824.pak","nexusFileId":87392,"metaUuid":null},
 {"nexusFileName":"Luminous Threads ITA","nexusFileVersion":"1.0","nexusFileUploadedAt":1742203601,"pakFileName":"AthenasChiton - ITA.pak","nexusFileId":87396,"metaUuid":null},
+{"nexusFileName":"PF2e Spells Updated ITA","nexusFileVersion":"1.0","nexusFileUploadedAt":1742385153,"pakFileName":"ListoPFSpells - ITA.pak","nexusFileId":87519,"metaUuid":null},
 {"nexusFileName":"Tiefling Subraces ITA","nexusFileVersion":"1.1","nexusFileUploadedAt":1742451411,"pakFileName":"TieflingSubraces_ITA_0b7711a2-e691-2680-f0da-785a092421f1.pak","nexusFileId":87572,"metaUuid":null},
 {"nexusFileName":"The Raven Queen ITA","nexusFileVersion":"1.0.0.2","nexusFileUploadedAt":1742539260,"pakFileName":"TheRavenQueen - ITA.pak","nexusFileId":87612,"metaUuid":null},
 {"nexusFileName":"Artificer class and all subclasses - Artificer ITA","nexusFileVersion":"2.22.0","nexusFileUploadedAt":1742969264,"pakFileName":"Artificer - ITA.pak","nexusFileId":87884,"metaUuid":null},
@@ -66870,4 +66871,7 @@
 ]},
 "23904":{"nexusModName":"Darkside's Rebalanced Elixirs","nexusUploadedBy":"Darkside057","nexusModId":23904,"paks":[
 {"nexusFileName":"Fixed Elixirs","nexusFileVersion":"1","nexusFileUploadedAt":1784178410,"pakFileName":"AngelosFixedElixirs_80ba90a0-9568-e435-a721-c2073d89c501.pak","nexusFileId":125763,"metaUuid":null}
+]},
+"23906":{"nexusModName":"Armour of Agility Boots and Gloves Restored","nexusUploadedBy":"koboldJuno","nexusModId":23906,"paks":[
+{"nexusFileName":"Boots and Gloves of Agility Restored","nexusFileVersion":"1.0","nexusFileUploadedAt":1784201920,"pakFileName":"BootsandGlovesofAgilityRestored_0ba71852-aacb-2375-752f-756916ad7dd1.pak","nexusFileId":125769,"metaUuid":null}
 ]}}
