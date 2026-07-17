@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-07-17T14:51:44.197356+00:00","total_mods":16919},
+{"_meta":{"last_run":"2026-07-17T15:51:54.675115+00:00","total_mods":16921},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -46215,7 +46215,7 @@
 {"nexusFileName":"aseglamping_c6d5f9af-41fe-7f5a-c1qh","nexusFileVersion":"1.0.0.13","nexusFileUploadedAt":1747933639,"pakFileName":"AseGlamping_c6d5f9af-41fe-7f5a-bf20-ab56906eee47.pak","nexusFileId":93779,"metaUuid":"c6d5f9af-41fe-7f5a-bf20-ab56906eee47"}
 ]},
 "16649":{"nexusModName":"ImpUI_P8_Fork (ImprovedUI)","nexusUploadedBy":"bibsan","nexusModId":16649,"paks":[
-{"nexusFileName":"ImpUI_P8_Fork - 8.0.4","nexusFileVersion":"8.0.4","nexusFileUploadedAt":1784214739,"pakFileName":"ImpUI_P8_Fork_26922ba9-6018-5252-075d-7ff2ba6ed879.pak","nexusFileId":125775,"metaUuid":"26922ba9-6018-5252-075d-7ff2ba6ed879"}
+{"nexusFileName":"ImpUI_P8_Fork - 8.0.5","nexusFileVersion":"8.0.5","nexusFileUploadedAt":1784300356,"pakFileName":"ImpUI_P8_Fork_26922ba9-6018-5252-075d-7ff2ba6ed879.pak","nexusFileId":125846,"metaUuid":"26922ba9-6018-5252-075d-7ff2ba6ed879"}
 ]},
 "16651":{"nexusModName":"Houndmaster Fighter Subclass","nexusUploadedBy":"havsglimt","nexusModId":16651,"paks":[
 {"nexusFileName":"Houndmaster Fighter Subclass","nexusFileVersion":"1.0","nexusFileUploadedAt":1747661648,"pakFileName":"Houndmaster_73e36653-7090-6d27-284b-e2bc0f3e0604.pak","nexusFileId":93430,"metaUuid":"73e36653-7090-6d27-284b-e2bc0f3e0604"}
@@ -66864,6 +66864,9 @@
 "23892":{"nexusModName":"Hot Thing - Karlach edit","nexusUploadedBy":"SweetGenerousThing","nexusModId":23892,"paks":[
 {"nexusFileName":"SGT_Hot Thing_Karlach edit","nexusFileVersion":"1","nexusFileUploadedAt":1784119367,"pakFileName":"SGT_KarlachEdit_ad691c90-093a-33fe-81d4-3d33cb3b06e2.pak","nexusFileId":125702,"metaUuid":null}
 ]},
+"23893":{"nexusModName":"Noir Poses - Solo Edition","nexusUploadedBy":"MunchyInTechnicolor","nexusModId":23893,"paks":[
+{"nexusFileName":"NoirPoses Solo V1","nexusFileVersion":"1","nexusFileUploadedAt":1784160634,"pakFileName":"NoirPoses_Solo_V1.pak","nexusFileId":125751,"metaUuid":null}
+]},
 "23895":{"nexusModName":"More Enemies in Boss fights","nexusUploadedBy":"koboldJuno","nexusModId":23895,"paks":[
 {"nexusFileName":"Juno More Encounters","nexusFileVersion":"1.0","nexusFileUploadedAt":1784125817,"pakFileName":"JunoMoreEncounters_4b314b11-d6fd-eed1-4296-4e064bae4228.pak","nexusFileId":125718,"metaUuid":"4b314b11-d6fd-eed1-4296-4e064bae4228"}
 ]},
@@ -66914,4 +66917,7 @@
 ]},
 "23920":{"nexusModName":"Better Tooltips (Russian Localization)","nexusUploadedBy":"ganeuken","nexusModId":23920,"paks":[
 {"nexusFileName":"Better Tooltips Russian Localization","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1784289618,"pakFileName":"BetterTooltips_RU.pak","nexusFileId":125831,"metaUuid":null}
+]},
+"23921":{"nexusModName":"Better Hag Hair (Russian Localization)","nexusUploadedBy":"ganeuken","nexusModId":23921,"paks":[
+{"nexusFileName":"Better Hag Hair Russian Localization","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1784299968,"pakFileName":"BetterHagHair_RU.pak","nexusFileId":125845,"metaUuid":null}
 ]}}
