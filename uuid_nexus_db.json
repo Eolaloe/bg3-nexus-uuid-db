@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-07-17T05:51:37.475705+00:00","total_mods":16914},
+{"_meta":{"last_run":"2026-07-17T06:51:49.993021+00:00","total_mods":16916},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -16418,7 +16418,7 @@
 {"nexusFileName":"Minthara Fixed Origin - Clean","nexusFileVersion":"1.1","nexusFileUploadedAt":1722225243,"pakFileName":"Minthara - Fixed Origin - Clean.pak","nexusFileId":65568,"metaUuid":null}
 ]},
 "5209":{"nexusModName":"Select your Statuses","nexusUploadedBy":"swissfred","nexusModId":5209,"paks":[
-{"nexusFileName":"Select your Statuses","nexusFileVersion":"3.3.8.2","nexusFileUploadedAt":1783768676,"pakFileName":"SelectYourStatuses_8244181d-f260-2a5d-7298-71977f29bf3b.pak","nexusFileId":125419,"metaUuid":"8244181d-f260-2a5d-7298-71977f29bf3b"}
+{"nexusFileName":"Select your Statuses","nexusFileVersion":"3.3.8.4","nexusFileUploadedAt":1784267663,"pakFileName":"SelectYourStatuses_8244181d-f260-2a5d-7298-71977f29bf3b.pak","nexusFileId":125809,"metaUuid":"8244181d-f260-2a5d-7298-71977f29bf3b"}
 ]},
 "5210":{"nexusModName":"5e Banneret (Purple Dragon Knight) - Fighter Subclasss (Deprecated)","nexusUploadedBy":"sumradagnoth8","nexusModId":5210,"paks":[
 {"nexusFileName":"Banneret5e.zip","nexusFileVersion":"1.9.0.2","nexusFileUploadedAt":1731022912,"pakFileName":"Banneret5e.pak","nexusFileId":78197,"metaUuid":null}
@@ -66707,12 +66707,12 @@
 {"nexusFileName":"Twilight Dice","nexusFileVersion":"1","nexusFileUploadedAt":1783984122,"pakFileName":"Twilight Dice.pak","nexusFileId":125578,"metaUuid":"b072517e-4f55-423f-80a2-feb1633cd8d7"}
 ]},
 "23822":{"nexusModName":"Shared Bags for Your Party","nexusUploadedBy":"Eolaloe","nexusModId":23822,"paks":[
-{"nexusFileName":"Better Context Menu Patch (x1.3)","nexusFileVersion":"1.0.0.5","nexusFileUploadedAt":1784001959,"pakFileName":"SharedBags_BCMPatch13.pak","nexusFileId":125601,"metaUuid":null},
-{"nexusFileName":"Better Context Menu Patch","nexusFileVersion":"1.0.0.5","nexusFileUploadedAt":1784002013,"pakFileName":"SharedBags_BCMPatch.pak","nexusFileId":125602,"metaUuid":null},
-{"nexusFileName":"Better Inventory UI Patch","nexusFileVersion":"1.0.0.5","nexusFileUploadedAt":1784002072,"pakFileName":"SharedBags_BIUIPatch.pak","nexusFileId":125603,"metaUuid":null},
-{"nexusFileName":"Better UI AiO Patch (x1.3)","nexusFileVersion":"1.0.0.5","nexusFileUploadedAt":1784002140,"pakFileName":"SharedBags_BTAIOPatch13.pak","nexusFileId":125605,"metaUuid":"b3debe79-b88c-431e-806c-1e89d0f9f4db"},
-{"nexusFileName":"Better UI AiO Patch","nexusFileVersion":"1.0.0.5","nexusFileUploadedAt":1784002178,"pakFileName":"SharedBags_BTAIOPatch.pak","nexusFileId":125607,"metaUuid":"135b278b-c4f4-4351-8356-83d868a3bb40"},
-{"nexusFileName":"Shared Bags for Your Party","nexusFileVersion":"1.0.3.3","nexusFileUploadedAt":1784259093,"pakFileName":"SharedBags.pak","nexusFileId":125801,"metaUuid":"b68a904f-fb57-4a64-a4bb-1e7cf264862f"}
+{"nexusFileName":"Better Context Menu Patch (x1.3)","nexusFileVersion":"1.0.1.0","nexusFileUploadedAt":1784269091,"pakFileName":"SharedBags_BCMPatch13.pak","nexusFileId":125810,"metaUuid":null},
+{"nexusFileName":"Better Context Menu Patch","nexusFileVersion":"1.0.1.0","nexusFileUploadedAt":1784269105,"pakFileName":"SharedBags_BCMPatch.pak","nexusFileId":125811,"metaUuid":null},
+{"nexusFileName":"Better Inventory UI Patch","nexusFileVersion":"1.0.1.0","nexusFileUploadedAt":1784269119,"pakFileName":"SharedBags_BIUIPatch.pak","nexusFileId":125812,"metaUuid":null},
+{"nexusFileName":"Better UI AiO Patch (x1.3)","nexusFileVersion":"1.0.1.0","nexusFileUploadedAt":1784269136,"pakFileName":"SharedBags_BTAIOPatch13.pak","nexusFileId":125813,"metaUuid":"b3debe79-b88c-431e-806c-1e89d0f9f4db"},
+{"nexusFileName":"Better UI AiO Patch","nexusFileVersion":"1.0.1.0","nexusFileUploadedAt":1784269148,"pakFileName":"SharedBags_BTAIOPatch.pak","nexusFileId":125814,"metaUuid":"135b278b-c4f4-4351-8356-83d868a3bb40"},
+{"nexusFileName":"Shared Bags for Your Party","nexusFileVersion":"1.0.4.0","nexusFileUploadedAt":1784269174,"pakFileName":"SharedBags.pak","nexusFileId":125815,"metaUuid":"b68a904f-fb57-4a64-a4bb-1e7cf264862f"}
 ]},
 "23823":{"nexusModName":"Shields Begone","nexusUploadedBy":"Cainhurtz","nexusModId":23823,"paks":[
 {"nexusFileName":"Shields Begone","nexusFileVersion":"3","nexusFileUploadedAt":1783825225,"pakFileName":"Fluck_Shields.pak","nexusFileId":125458,"metaUuid":"69615e25-b334-5f90-9732-f21dd2ea7f34"}
@@ -66875,6 +66875,11 @@
 {"nexusFileName":"Astarion - OldTex","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1784150748,"pakFileName":"Astarion [OldTex].pak","nexusFileId":125744,"metaUuid":null},
 {"nexusFileName":"Galestarion","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1784150782,"pakFileName":"Galestarion.pak","nexusFileId":125745,"metaUuid":null}
 ]},
+"23902":{"nexusModName":"No More Blatant Lies","nexusUploadedBy":"magnetuning","nexusModId":23902,"paks":[
+{"nexusFileName":"No More Blatant Lies - Astarion is 5'9","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1784266314,"pakFileName":"MGNTN_NoMoreBlatantLies.pak","nexusFileId":125805,"metaUuid":null},
+{"nexusFileName":"No More Blatant Lies - Astarion is 5'4","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1784266384,"pakFileName":"MGNTN_NoMoreBlatantLies.pak","nexusFileId":125806,"metaUuid":null},
+{"nexusFileName":"No More Blatant Lies - Astarion is 5'1","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1784266442,"pakFileName":"MGNTN_NoMoreBlatantLies.pak","nexusFileId":125807,"metaUuid":null}
+]},
 "23904":{"nexusModName":"Darkside's Rebalanced Elixirs","nexusUploadedBy":"Darkside057","nexusModId":23904,"paks":[
 {"nexusFileName":"Rebalanced Elixirs","nexusFileVersion":"2","nexusFileUploadedAt":1784263466,"pakFileName":"DarksidesRebalancedElixirs_1436ae28-9c78-b0a5-42e1-7bbabfa7b3c5.pak","nexusFileId":125803,"metaUuid":null}
 ]},
@@ -66895,4 +66900,8 @@
 ]},
 "23914":{"nexusModName":"Spell Scroll Duplication - And No More Revivify","nexusUploadedBy":"Sw1shyFishy","nexusModId":23914,"paks":[
 {"nexusFileName":"SwishyFishy ReplaceRevivifyScrolls","nexusFileVersion":"1.0.0.1","nexusFileUploadedAt":1784258148,"pakFileName":"SwishyFishy_ReplaceRevivifyScrolls.pak","nexusFileId":125800,"metaUuid":null}
+]},
+"23915":{"nexusModName":"SpellForge","nexusUploadedBy":"BirbRR","nexusModId":23915,"paks":[
+{"nexusFileName":"Spellforge MAIN","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1784269406,"pakFileName":"BirbRR_Spellforge.pak","nexusFileId":125816,"metaUuid":null},
+{"nexusFileName":"Spellforge Tutorial Chest Addon (CHEAT)","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1784269471,"pakFileName":"BirbRR_SF_TutChest.pak","nexusFileId":125817,"metaUuid":null}
 ]}}
