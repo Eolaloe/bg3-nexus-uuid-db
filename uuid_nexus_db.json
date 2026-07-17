@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-07-17T22:52:17.097824+00:00","total_mods":16924},
+{"_meta":{"last_run":"2026-07-17T23:52:12.298503+00:00","total_mods":16924},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -40635,7 +40635,7 @@
 {"nexusFileName":"FaerieFacePatch","nexusFileVersion":"1.0.0.1","nexusFileUploadedAt":1765061037,"pakFileName":"FaerieRaceFacePatch.pak","nexusFileId":109042,"metaUuid":null},
 {"nexusFileName":"Faerie Wing Underwear","nexusFileVersion":"1.0.0.7","nexusFileUploadedAt":1768422375,"pakFileName":"FaerieWings_d51b9505-bf4a-fc3f-4a7f-1ff40a9013a9.pak","nexusFileId":112185,"metaUuid":"d51b9505-bf4a-fc3f-4a7f-1ff40a9013a9"},
 {"nexusFileName":"Faerie Race Main File","nexusFileVersion":"5.1.0.0","nexusFileUploadedAt":1778871785,"pakFileName":"FaerieRace_555b318b-fdc8-a277-5e91-22b22df624a3.pak","nexusFileId":121322,"metaUuid":"555b318b-fdc8-a277-5e91-22b22df624a3"},
-{"nexusFileName":"STAVFaeriePatch","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1783198904,"pakFileName":"STAVFaeriePatch_a37ced05-3601-bc95-2b5a-1125df12ecc5.pak","nexusFileId":124896,"metaUuid":null}
+{"nexusFileName":"STAVFaeriePatch","nexusFileVersion":"1.0.0.2","nexusFileUploadedAt":1784330594,"pakFileName":"STAVFaeriePatch_a37ced05-3601-bc95-2b5a-1125df12ecc5.pak","nexusFileId":125873,"metaUuid":null}
 ]},
 "14435":{"nexusModName":"Satan's Templates and Tutorials","nexusUploadedBy":"SatanModding","nexusModId":14435,"paks":[
 {"nexusFileName":"BG3SX_Compatible_ExampleRace","nexusFileVersion":"1","nexusFileUploadedAt":1735299132,"pakFileName":"BG3SX_Compatible_ExampleRace.pak","nexusFileId":82895,"metaUuid":null},
@@ -66926,7 +66926,18 @@
 ]},
 "23925":{"nexusModName":"Deities Dice Pack","nexusUploadedBy":"SultryShea","nexusModId":23925,"paks":[
 {"nexusFileName":"Deities Dice Pack","nexusFileVersion":"1","nexusFileUploadedAt":1784319069,"pakFileName":"DeitiesDicePack_49480de6-8296-974e-ed7c-c19df7f76d8f.pak","nexusFileId":125861,"metaUuid":null},
-{"nexusFileName":"Bane Dice","nexusFileVersion":"1","nexusFileUploadedAt":1784326357,"pakFileName":"BaneDice_bde8477c-f577-726e-a2db-cf9f7f618df7.pak","nexusFileId":125871,"metaUuid":null}
+{"nexusFileName":"Bane Dice","nexusFileVersion":"1","nexusFileUploadedAt":1784326357,"pakFileName":"BaneDice_bde8477c-f577-726e-a2db-cf9f7f618df7.pak","nexusFileId":125871,"metaUuid":null},
+{"nexusFileName":"Bhaal Dice","nexusFileVersion":"1","nexusFileUploadedAt":1784330607,"pakFileName":"BhaalDice_803c941f-04d5-cda9-870e-da2c950fc6fd.pak","nexusFileId":125874,"metaUuid":null},
+{"nexusFileName":"Eilistraee Dice","nexusFileVersion":"1","nexusFileUploadedAt":1784330659,"pakFileName":"EilistraeeDice_aab3b245-6572-70e5-1536-c634b405989e.pak","nexusFileId":125875,"metaUuid":null},
+{"nexusFileName":"Gruumsh Dice","nexusFileVersion":"1","nexusFileUploadedAt":1784330712,"pakFileName":"Gruumsh_11a9cad7-a131-67d4-71d2-a5c3e351df0a.pak","nexusFileId":125876,"metaUuid":null},
+{"nexusFileName":"Ilmater Dice","nexusFileVersion":"1","nexusFileUploadedAt":1784330739,"pakFileName":"IlmaterDice_ce2fbd79-a90d-e727-6254-d1dcf33e6d54.pak","nexusFileId":125877,"metaUuid":null},
+{"nexusFileName":"Lathander Dice","nexusFileVersion":"1","nexusFileUploadedAt":1784330768,"pakFileName":"LathanderDice_30bb6502-3ffa-4337-740e-e10260fb2fac.pak","nexusFileId":125878,"metaUuid":null},
+{"nexusFileName":"Lolth Dice","nexusFileVersion":"1","nexusFileUploadedAt":1784330792,"pakFileName":"LolthDice_d52af8b9-a374-75fc-9424-ce06c1ff78b9.pak","nexusFileId":125879,"metaUuid":null},
+{"nexusFileName":"Myrkul Dice","nexusFileVersion":"1","nexusFileUploadedAt":1784330814,"pakFileName":"MyrkulDice_437cf770-2ac8-d34d-98db-26738b727d36.pak","nexusFileId":125880,"metaUuid":null},
+{"nexusFileName":"Mystra Dice","nexusFileVersion":"1","nexusFileUploadedAt":1784330838,"pakFileName":"MystraDice_5263ed3b-478e-01f3-b26e-ff21a57c4926.pak","nexusFileId":125881,"metaUuid":null},
+{"nexusFileName":"Selune Dice","nexusFileVersion":"1","nexusFileUploadedAt":1784330899,"pakFileName":"SeluneDice_a6300f86-6fc2-4d5a-d6e4-8adfe6905a0c.pak","nexusFileId":125882,"metaUuid":null},
+{"nexusFileName":"Shar Dice","nexusFileVersion":"1","nexusFileUploadedAt":1784330926,"pakFileName":"SharDice_46150b39-e29c-1cdd-a2f8-e26b5d700346.pak","nexusFileId":125883,"metaUuid":null},
+{"nexusFileName":"Vlaakith Dice","nexusFileVersion":"1","nexusFileUploadedAt":1784330957,"pakFileName":"VlaakithDice_0d7499a7-38ba-0c64-add8-88d2a32bd8e4.pak","nexusFileId":125884,"metaUuid":null}
 ]},
 "23926":{"nexusModName":"Conjure Celestial Deva","nexusUploadedBy":"winterwinds19","nexusModId":23926,"paks":[
 {"nexusFileName":"Conjure Celestial Scaling Deva V1 0 1","nexusFileVersion":"1.1","nexusFileUploadedAt":1784321497,"pakFileName":"Conjure Celestial - Scaling Deva.pak","nexusFileId":125863,"metaUuid":null}
