@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-07-17T11:51:40.249723+00:00","total_mods":16917},
+{"_meta":{"last_run":"2026-07-17T12:51:48.005749+00:00","total_mods":16919},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -62072,7 +62072,7 @@
 {"nexusFileName":"Hammer of Disenchantment_KOR","nexusFileVersion":"1.0","nexusFileUploadedAt":1773980453,"pakFileName":"Hammer_Of_Disenchantment_KOR.pak","nexusFileId":117071,"metaUuid":"287f0e41-d515-421e-8579-4de782f5053d"}
 ]},
 "22003":{"nexusModName":"Cheat Spells","nexusUploadedBy":"chizfreak","nexusModId":22003,"paks":[
-{"nexusFileName":"Cheat Spells","nexusFileVersion":"2.1","nexusFileUploadedAt":1776036260,"pakFileName":"CheatSpells_8180320e-305c-d63e-6c49-9f3ff03c9d62.pak","nexusFileId":118817,"metaUuid":"8180320e-305c-d63e-6c49-9f3ff03c9d62"}
+{"nexusFileName":"Cheat Spells","nexusFileVersion":"2.2","nexusFileUploadedAt":1784291797,"pakFileName":"CheatSpells_8180320e-305c-d63e-6c49-9f3ff03c9d62.pak","nexusFileId":125834,"metaUuid":"8180320e-305c-d63e-6c49-9f3ff03c9d62"}
 ]},
 "22004":{"nexusModName":"Trials of Tav - Reloaded_CHT","nexusUploadedBy":"Bzax","nexusModId":22004,"paks":[
 {"nexusFileName":"Trials of Tav - Reloaded_CHT","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1774008352,"pakFileName":"Trials of Tav - Reloaded_CHT.pak","nexusFileId":117078,"metaUuid":null}
@@ -66907,4 +66907,11 @@
 ]},
 "23916":{"nexusModName":"Eladrin Head Preset - CPF","nexusUploadedBy":"Prediri","nexusModId":23916,"paks":[
 {"nexusFileName":"Eladrin High Elf Preset - pak version","nexusFileVersion":"1.0","nexusFileUploadedAt":1784281326,"pakFileName":"CPF_EladrinHighElf_6a4c1787-3a14-4ea6-889b-a1f4f80.pak","nexusFileId":125822,"metaUuid":null}
+]},
+"23919":{"nexusModName":"Flanking Rules","nexusUploadedBy":"chizfreak","nexusModId":23919,"paks":[
+{"nexusFileName":"Flanking Rules - Pathfinder version","nexusFileVersion":"1.1","nexusFileUploadedAt":1784290453,"pakFileName":"Flanking Rules - Pathfinder ver.pak","nexusFileId":125832,"metaUuid":null},
+{"nexusFileName":"Flanking Rules - DnD version","nexusFileVersion":"1.1","nexusFileUploadedAt":1784290466,"pakFileName":"Flanking Rules - DnD ver.pak","nexusFileId":125833,"metaUuid":null}
+]},
+"23920":{"nexusModName":"Better Tooltips Russian Localization","nexusUploadedBy":"ganeuken","nexusModId":23920,"paks":[
+{"nexusFileName":"Better Tooltips Russian Localization","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1784289618,"pakFileName":"BetterTooltips_RU.pak","nexusFileId":125831,"metaUuid":null}
 ]}}
