@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-07-17T09:51:31.856448+00:00","total_mods":16916},
+{"_meta":{"last_run":"2026-07-17T10:51:56.048218+00:00","total_mods":16917},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -36302,7 +36302,7 @@
 {"nexusFileName":"TheTrueChampion_v1.2 - BR","nexusFileVersion":"1.0","nexusFileUploadedAt":1728187370,"pakFileName":"TheTrueChampion_v1.2 - BR.pak","nexusFileId":74189,"metaUuid":null}
 ]},
 "12834":{"nexusModName":"Goon's Library - Passives Functions Spells and More","nexusUploadedBy":"BaldursGoonsack","nexusModId":12834,"paks":[
-{"nexusFileName":"Goon's Library","nexusFileVersion":"4.12.0.0","nexusFileUploadedAt":1784224806,"pakFileName":"Goon's Library.pak","nexusFileId":125784,"metaUuid":"07fbc2f1-f359-4b9d-b243-fe28bd783e4c"}
+{"nexusFileName":"Goon's Library","nexusFileVersion":"4.13.0.0","nexusFileUploadedAt":1784283850,"pakFileName":"Goon's Library.pak","nexusFileId":125826,"metaUuid":"07fbc2f1-f359-4b9d-b243-fe28bd783e4c"}
 ]},
 "12835":{"nexusModName":"Fiendish Races (Succubus and Cambions)","nexusUploadedBy":"haytur","nexusModId":12835,"paks":[
 {"nexusFileName":"Fiendish Races","nexusFileVersion":"1.5","nexusFileUploadedAt":1754198767,"pakFileName":"CambionRace.pak","nexusFileId":99769,"metaUuid":"d3a48c4c-f446-a697-1982-5628a8ebb728"}
@@ -61486,7 +61486,7 @@
 {"nexusFileName":"B. The Gunslinger Addon Revolver OffHand","nexusFileVersion":"1.0.0.5","nexusFileUploadedAt":1778125078,"pakFileName":"TheGunslingerOffHandAddon_db9c5c90-6f70-f07a-153e-d873fc5f803d.pak","nexusFileId":120665,"metaUuid":null},
 {"nexusFileName":"E. The Gunslinger Warlock Invocations Addon","nexusFileVersion":"1.0.0.1","nexusFileUploadedAt":1780540932,"pakFileName":"TheGunslingerWarlockInvocations_Addon.pak","nexusFileId":122725,"metaUuid":"6fa28431-31c2-4bc0-b8f8-1d18cf65a4f9"},
 {"nexusFileName":"D. Rebalance Feats Compatibility","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1781445565,"pakFileName":"TheGunslinger-RebalanceFeatsCompatibility.pak","nexusFileId":123546,"metaUuid":null},
-{"nexusFileName":"The Gunslinger Class (ENG-KOR)","nexusFileVersion":"2.0.0.3","nexusFileUploadedAt":1784274770,"pakFileName":"TheGunslinger_1f2b82d7-19c8-734b-5f43-05d57d3e7601.pak","nexusFileId":125818,"metaUuid":"1f2b82d7-19c8-734b-5f43-05d57d3e7601"}
+{"nexusFileName":"The Gunslinger Class (ENG-KOR)","nexusFileVersion":"2.0.0.4","nexusFileUploadedAt":1784281530,"pakFileName":"TheGunslinger_1f2b82d7-19c8-734b-5f43-05d57d3e7601.pak","nexusFileId":125823,"metaUuid":"1f2b82d7-19c8-734b-5f43-05d57d3e7601"}
 ]},
 "21796":{"nexusModName":"Em's Misc Head Collection","nexusUploadedBy":"emsthings","nexusModId":21796,"paks":[
 {"nexusFileName":"Em's Head Collection","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1772951131,"pakFileName":"Ems_Heads_41f62b28-72fa-cd43-2b54-e521a962a342.pak","nexusFileId":116314,"metaUuid":null}
@@ -61760,7 +61760,7 @@
 {"nexusFileName":"DXMD Jensen Outfits-CHS","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1773492566,"pakFileName":"DXMD Jensen Outfits-CHS.pak","nexusFileId":116719,"metaUuid":null}
 ]},
 "21888":{"nexusModName":"DnD 5.5e All-in-One Beyond (Russian Localization)","nexusUploadedBy":"ganeuken","nexusModId":21888,"paks":[
-{"nexusFileName":"DnD 5.5e All-in-One Beyond Russian Localization","nexusFileVersion":"2.2.0.0","nexusFileUploadedAt":1782552584,"pakFileName":"DnD_5.5e_Russian.pak","nexusFileId":124365,"metaUuid":null}
+{"nexusFileName":"DnD 5.5e All-in-One Beyond Russian Localization","nexusFileVersion":"2.3.0.0","nexusFileUploadedAt":1784285225,"pakFileName":"DnD_5.5e_Russian.pak","nexusFileId":125827,"metaUuid":null}
 ]},
 "21889":{"nexusModName":"Trials of Tav - Reloaded_CHS","nexusUploadedBy":"lzioah","nexusModId":21889,"paks":[
 {"nexusFileName":"CombatMod_ch","nexusFileVersion":"1.01","nexusFileUploadedAt":1773560687,"pakFileName":"CombatMod_ch.pak","nexusFileId":116773,"metaUuid":null}
@@ -66904,4 +66904,7 @@
 "23915":{"nexusModName":"SpellForge","nexusUploadedBy":"BirbRR","nexusModId":23915,"paks":[
 {"nexusFileName":"Spellforge MAIN","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1784269406,"pakFileName":"BirbRR_Spellforge.pak","nexusFileId":125816,"metaUuid":"a449f731-7ee1-4b1b-b83d-311da1c50add"},
 {"nexusFileName":"Spellforge Tutorial Chest Addon (CHEAT)","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1784269471,"pakFileName":"BirbRR_SF_TutChest.pak","nexusFileId":125817,"metaUuid":null}
+]},
+"23916":{"nexusModName":"Eladrin Head Preset - CPF","nexusUploadedBy":"Prediri","nexusModId":23916,"paks":[
+{"nexusFileName":"Eladrin High Elf Preset - pak version","nexusFileVersion":"1.0","nexusFileUploadedAt":1784281326,"pakFileName":"CPF_EladrinHighElf_6a4c1787-3a14-4ea6-889b-a1f4f80.pak","nexusFileId":125822,"metaUuid":null}
 ]}}
