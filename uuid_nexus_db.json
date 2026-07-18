@@ -1574,7 +1574,7 @@
 "690":{"nexusModName":"Deities Restored (plus Shar Curse Immunity)","nexusUploadedBy":"Koriik","nexusModId":690,"paks":[
 {"nexusFileName":"Deities Restored","nexusFileVersion":"2.2.1","nexusFileUploadedAt":1748313205,"pakFileName":"K_DeitiesRestored_a9f0d5bf-dbca-2d1c-9fad-d5c1c01d7e65.pak","nexusFileId":94163,"metaUuid":null},
 {"nexusFileName":"Deities Restored (No Curse)","nexusFileVersion":"2.2.1","nexusFileUploadedAt":1748313230,"pakFileName":"K_DeitiesRestored_a9f0d5bf-dbca-2d1c-9fad-d5c1c01d7e65.pak","nexusFileId":94164,"metaUuid":null},
-{"nexusFileName":"Deities Restored - Paladin Enabled","nexusFileVersion":"2.2.1","nexusFileUploadedAt":1748469937,"pakFileName":"K_DeitiesRestoredPaladin.pak","nexusFileId":94340,"metaUuid":null}
+{"nexusFileName":"Deities Restored - Paladin Enabled","nexusFileVersion":"2.2.1","nexusFileUploadedAt":1748469937,"pakFileName":"K_DeitiesRestoredPaladin.pak","nexusFileId":94340,"metaUuid":"392e4566-0363-439a-b331-6bce2bf190a6"}
 ]},
 "691":{"nexusModName":"Paladin Unleashed - The Divine Warrior - Lay on Hands Restored and Auras Buffed","nexusUploadedBy":"Mharius","nexusModId":691,"paks":[
 {"nexusFileName":"03 - Standalone - Lay on Hands Restored","nexusFileVersion":"7.0-P7","nexusFileUploadedAt":1725660687,"pakFileName":"Lay on Hands Restored.pak","nexusFileId":69257,"metaUuid":"7b1e3a28-e446-4359-b0b7-23af26dab107"},
@@ -5523,7 +5523,7 @@
 {"nexusFileName":"Blood Of Lathander Re-divined - RR 10d10","nexusFileVersion":"1.1","nexusFileUploadedAt":1726410843,"pakFileName":"Blood Of Lathander Re-divined ReallyRadiant (Spellcasting ability added) and 10d10 DC18 first cast.pak","nexusFileId":71282,"metaUuid":"c77763a2-5770-4611-8e8e-415ac06ad7d6"},
 {"nexusFileName":"Blood Of Lathander Re-divined - RR 10d10 Bless","nexusFileVersion":"1.1","nexusFileUploadedAt":1726410901,"pakFileName":"Blood Of Lathander Re-divined ReallyRadiant (Spellcasting ability added) and 10d10 DC18 first cast Bless (Shillelagh).pak","nexusFileId":71283,"metaUuid":"c77763a2-5770-4611-8e8e-415ac06ad7d6"},
 {"nexusFileName":"Blood Of Lathander Re-divined - RR Bless","nexusFileVersion":"1.1","nexusFileUploadedAt":1726410942,"pakFileName":"Blood Of Lathander Re-divined ReallyRadiant (Spellcasting ability added) Bless (Shillelagh).pak","nexusFileId":71284,"metaUuid":null},
-{"nexusFileName":"ReallyRadiant HealOnHIt","nexusFileVersion":"1.1","nexusFileUploadedAt":1726411036,"pakFileName":"Blood Of Lathander Re-divined ReallyRadiant (Spellcasting ability added) healonhit.pak","nexusFileId":71285,"metaUuid":null}
+{"nexusFileName":"ReallyRadiant HealOnHIt","nexusFileVersion":"1.1","nexusFileUploadedAt":1726411036,"pakFileName":"Blood Of Lathander Re-divined ReallyRadiant (Spellcasting ability added) healonhit.pak","nexusFileId":71285,"metaUuid":"c77763a2-5770-4611-8e8e-415ac06ad7d6"}
 ]},
 "1549":{"nexusModName":"Ancient Metamagic","nexusUploadedBy":"Xeroeth","nexusModId":1549,"paks":[
 {"nexusFileName":"Ancient Metamagic","nexusFileVersion":"1.0","nexusFileUploadedAt":1693163547,"pakFileName":"Ancient Metamagic.pak","nexusFileId":10962,"metaUuid":null}
@@ -8104,7 +8104,7 @@
 {"nexusFileName":"Infernal Armor Standart","nexusFileVersion":"1.6","nexusFileUploadedAt":1696951438,"pakFileName":"InfernalArmorS.pak","nexusFileId":21871,"metaUuid":null}
 ]},
 "2458":{"nexusModName":"Trade with Withers - Fully modular and customizable trader","nexusUploadedBy":"yakuzadeso","nexusModId":2458,"paks":[
-{"nexusFileName":"TradeWithWithersAddonAIO","nexusFileVersion":"1.0.0.7","nexusFileUploadedAt":1716391878,"pakFileName":"TradeWithWithersAddonAIO.pak","nexusFileId":58195,"metaUuid":null},
+{"nexusFileName":"TradeWithWithersAddonAIO","nexusFileVersion":"1.0.0.7","nexusFileUploadedAt":1716391878,"pakFileName":"TradeWithWithersAddonAIO.pak","nexusFileId":58195,"metaUuid":"198749c1-18c4-4c4f-bc68-199679719edf"},
 {"nexusFileName":"trade with withers","nexusFileVersion":"1.0.0.8","nexusFileUploadedAt":1754320408,"pakFileName":"TradeWithWithers.pak","nexusFileId":99907,"metaUuid":"c7c3ba79-97bd-411e-82f4-1c615e9945a7"},
 {"nexusFileName":"trade with withers reset inventory","nexusFileVersion":"1.0.0.8","nexusFileUploadedAt":1754320484,"pakFileName":"TradeWithWithersResetInventory.pak","nexusFileId":99908,"metaUuid":"fab6a124-7087-4693-89ba-4ebd4dc8fe0b"},
 {"nexusFileName":"TradeWithWithersAddonAIORandom","nexusFileVersion":"1.0.0.8","nexusFileUploadedAt":1754320559,"pakFileName":"TradeWithWithersAddonAIORandom.pak","nexusFileId":99909,"metaUuid":"e51ebdd2-15b1-4487-8c35-4e41c2c2e6c1"},
@@ -9070,7 +9070,7 @@
 "2783":{"nexusModName":"More Mage Gear","nexusUploadedBy":"pooteeweet","nexusModId":2783,"paks":[
 {"nexusFileName":"More Mage Gear","nexusFileVersion":"1.4.2","nexusFileUploadedAt":1726254844,"pakFileName":"PTW_Sorcerer.pak","nexusFileId":70937,"metaUuid":null},
 {"nexusFileName":"More Mage Gear - No Vendors","nexusFileVersion":"1.4.2","nexusFileUploadedAt":1726254896,"pakFileName":"PTW_Sorcerer.pak","nexusFileId":70938,"metaUuid":"94fed047-7d79-41e3-9d1c-1a3b3de781e4"},
-{"nexusFileName":"More Mage Gear - Armor costs 1 GP","nexusFileVersion":"1.4.2","nexusFileUploadedAt":1726254961,"pakFileName":"PTW_Sorcerer.pak","nexusFileId":70940,"metaUuid":null}
+{"nexusFileName":"More Mage Gear - Armor costs 1 GP","nexusFileVersion":"1.4.2","nexusFileUploadedAt":1726254961,"pakFileName":"PTW_Sorcerer.pak","nexusFileId":70940,"metaUuid":"94fed047-7d79-41e3-9d1c-1a3b3de781e4"}
 ]},
 "2785":{"nexusModName":"Varscona","nexusUploadedBy":"Ambaryerno","nexusModId":2785,"paks":[
 {"nexusFileName":"Varscona","nexusFileVersion":"1.0.2.0","nexusFileUploadedAt":1744945834,"pakFileName":"Varscona.pak","nexusFileId":89463,"metaUuid":"fa9b4dce-439c-11ee-be56-0242ac120002"}
@@ -16455,7 +16455,7 @@
 {"nexusFileName":"Rebalance - Level 1 Spells","nexusFileVersion":"1.0.16","nexusFileUploadedAt":1779054523,"pakFileName":"Rebalance_Lvl1_Spells.pak","nexusFileId":121499,"metaUuid":"7595d80f-dff9-4a4e-a1cc-576d7a5b9237"}
 ]},
 "5223":{"nexusModName":"2500 Gold and a Shovel","nexusUploadedBy":"jonhinkerton","nexusModId":5223,"paks":[
-{"nexusFileName":"2500Gold.zip","nexusFileVersion":"1.0","nexusFileUploadedAt":1702940182,"pakFileName":"2500Gold.pak","nexusFileId":35102,"metaUuid":null}
+{"nexusFileName":"2500Gold.zip","nexusFileVersion":"1.0","nexusFileUploadedAt":1702940182,"pakFileName":"2500Gold.pak","nexusFileId":35102,"metaUuid":"91dd0d9c-5478-47f9-b276-b08b27512777"}
 ]},
 "5224":{"nexusModName":"Knocking Ring","nexusUploadedBy":"jonhinkerton","nexusModId":5224,"paks":[
 {"nexusFileName":"Knocking Ring.zip","nexusFileVersion":"1.0","nexusFileUploadedAt":1702941472,"pakFileName":"Knocking Ring.pak","nexusFileId":35104,"metaUuid":"d89de764-a041-4386-93b7-89548b80cb9e"}
@@ -18351,7 +18351,7 @@
 {"nexusFileName":"Barcus Wroot's Twin","nexusFileVersion":"1.0","nexusFileUploadedAt":1704898048,"pakFileName":"Barcus.pak","nexusFileId":39155,"metaUuid":null}
 ]},
 "5827":{"nexusModName":"Slaytheric Thorm","nexusUploadedBy":"neonbutchery","nexusModId":5827,"paks":[
-{"nexusFileName":"Slaytheric Thorm","nexusFileVersion":"1.0","nexusFileUploadedAt":1704901890,"pakFileName":"slaytheric_thorm.pak","nexusFileId":39163,"metaUuid":null}
+{"nexusFileName":"Slaytheric Thorm","nexusFileVersion":"1.0","nexusFileUploadedAt":1704901890,"pakFileName":"slaytheric_thorm.pak","nexusFileId":39163,"metaUuid":"4b2e75cb-ade7-43cd-96a2-8d2fb3a5f641"}
 ]},
 "5828":{"nexusModName":"Remington 870 - Shotgun","nexusUploadedBy":"Palmaman33","nexusModId":5828,"paks":[
 {"nexusFileName":"Remington 870","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1705852923,"pakFileName":"P33_Remington.pak","nexusFileId":41119,"metaUuid":"c9bdc5e8-1959-4b22-ab3a-7f03a289dffb"}
@@ -20569,7 +20569,7 @@
 {"nexusFileName":"Tasha's Cauldron of Faces (Base)","nexusFileVersion":"1.9.5","nexusFileUploadedAt":1725601180,"pakFileName":"Tasha's Cauldron of Faces.pak","nexusFileId":69049,"metaUuid":"64b2b4b2-b1cc-4aee-8d2a-5742d35b651f"},
 {"nexusFileName":"Tasha's Cauldron of Faces (Unique Tav)","nexusFileVersion":"1.9.5","nexusFileUploadedAt":1725601473,"pakFileName":"Tasha's Cauldron of Faces.pak","nexusFileId":69050,"metaUuid":null},
 {"nexusFileName":"Tasha's Cauldron of Faces (Unique Tav and EotB)","nexusFileVersion":"1.9.5","nexusFileUploadedAt":1725601733,"pakFileName":"Tasha's Cauldron of Faces.pak","nexusFileId":69053,"metaUuid":null},
-{"nexusFileName":"Tasha's Cauldron of Faces (Eyes of the Beholder)","nexusFileVersion":"1.9.5","nexusFileUploadedAt":1725602574,"pakFileName":"Tasha's Cauldron of Faces.pak","nexusFileId":69055,"metaUuid":null}
+{"nexusFileName":"Tasha's Cauldron of Faces (Eyes of the Beholder)","nexusFileVersion":"1.9.5","nexusFileUploadedAt":1725602574,"pakFileName":"Tasha's Cauldron of Faces.pak","nexusFileId":69055,"metaUuid":"64b2b4b2-b1cc-4aee-8d2a-5742d35b651f"}
 ]},
 "6636":{"nexusModName":"Better Action Economy","nexusUploadedBy":"Elefay","nexusModId":6636,"paks":[
 {"nexusFileName":"Better Action Economy","nexusFileVersion":"3.1.0","nexusFileUploadedAt":1733131143,"pakFileName":"Better Action Economy.pak","nexusFileId":80806,"metaUuid":null}
@@ -22497,7 +22497,7 @@
 {"nexusFileName":"War Domain Enhanced 1.5.0","nexusFileVersion":"1.5.0","nexusFileUploadedAt":1722296247,"pakFileName":"War Domain Enhanced.pak","nexusFileId":65685,"metaUuid":"916f28a7-e72c-4a84-8d38-9e38fcfb015e"}
 ]},
 "7510":{"nexusModName":"Lae'zel's Makeup Studio","nexusUploadedBy":"TheCobaltCactus","nexusModId":7510,"paks":[
-{"nexusFileName":"Option 1 - Cat's Eyes","nexusFileVersion":"1.3.1","nexusFileUploadedAt":1774408511,"pakFileName":"LMS_Option_1_a5aa97a9-4359-bbc1-6a3f-7b4beb433fe9.pak","nexusFileId":117393,"metaUuid":null},
+{"nexusFileName":"Option 1 - Cat's Eyes","nexusFileVersion":"1.3.1","nexusFileUploadedAt":1774408511,"pakFileName":"LMS_Option_1_a5aa97a9-4359-bbc1-6a3f-7b4beb433fe9.pak","nexusFileId":117393,"metaUuid":"a5aa97a9-4359-bbc1-6a3f-7b4beb433fe9"},
 {"nexusFileName":"Option 1 - Cat's Eyes - No Cheek Makeup","nexusFileVersion":"1.3.1","nexusFileUploadedAt":1774408559,"pakFileName":"LMS_option_1_nocheeks_50499f90-acc6-4996-1f63-73392807fdca.pak","nexusFileId":117394,"metaUuid":null},
 {"nexusFileName":"Option 10 - Gish","nexusFileVersion":"1.3.1","nexusFileUploadedAt":1774408602,"pakFileName":"LMS_option_10_8d1b9261-021b-52e7-29c4-6c08f01c8d23.pak","nexusFileId":117395,"metaUuid":null},
 {"nexusFileName":"Option 10 - Gish - No Cheek Makeup","nexusFileVersion":"1.3.1","nexusFileUploadedAt":1774408634,"pakFileName":"LMS_option_10_nocheeks_bf7d9fcf-7c04-693d-048c-0f0d9c08d493.pak","nexusFileId":117396,"metaUuid":null},
@@ -23634,7 +23634,7 @@
 {"nexusFileName":"FuryCox","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1710532258,"pakFileName":"FuryCox.pak","nexusFileId":50146,"metaUuid":null}
 ]},
 "7980":{"nexusModName":"Containers Extended","nexusUploadedBy":"darkcharl","nexusModId":7980,"paks":[
-{"nexusFileName":"ContainersExtended-Withers.zip","nexusFileVersion":"3.0.0.0","nexusFileUploadedAt":1736025481,"pakFileName":"ContainersExtendedWithers.pak","nexusFileId":83397,"metaUuid":null},
+{"nexusFileName":"ContainersExtended-Withers.zip","nexusFileVersion":"3.0.0.0","nexusFileUploadedAt":1736025481,"pakFileName":"ContainersExtendedWithers.pak","nexusFileId":83397,"metaUuid":"83fdfca3-d749-4149-9bcd-555853c4099c"},
 {"nexusFileName":"ContainersExtended-Vendors.zip","nexusFileVersion":"3.0.0.0","nexusFileUploadedAt":1736026072,"pakFileName":"ContainersExtendedVendors.pak","nexusFileId":83399,"metaUuid":"5d10b6c8-a2ca-4e6b-91c8-f8c00725b78e"},
 {"nexusFileName":"ContainersExtended-TutorialChest.zip","nexusFileVersion":"3.0.0.1","nexusFileUploadedAt":1736532222,"pakFileName":"ContainersExtendedTutorial.pak","nexusFileId":83833,"metaUuid":"004dc11d-5fe5-427a-a0b5-3d6c6aa27aad"},
 {"nexusFileName":"ContainersExtended-StartingEquipment.zip","nexusFileVersion":"3.2.0.1","nexusFileUploadedAt":1747575716,"pakFileName":"ContainersExtendedStartingEquipment.pak","nexusFileId":93320,"metaUuid":"3afcbb5f-5bea-4a57-bc9a-ae28c710cbb1"},
@@ -25760,7 +25760,7 @@
 {"nexusFileName":"Medusae's Muses","nexusFileVersion":"1.8","nexusFileUploadedAt":1766696039,"pakFileName":"Medusae's Muses.pak","nexusFileId":110336,"metaUuid":null},
 {"nexusFileName":"Medusae's Muses (EotB and UTav)","nexusFileVersion":"1.8","nexusFileUploadedAt":1766696137,"pakFileName":"Medusae's Muses (Unique Tav +EotB).pak","nexusFileId":110340,"metaUuid":"641be5f1-e555-4f49-8b27-181d65226271"},
 {"nexusFileName":"Medusae's Muses (Eye of the Beholder)","nexusFileVersion":"1.8","nexusFileUploadedAt":1766696231,"pakFileName":"Medusae's Muses (EotB).pak","nexusFileId":110341,"metaUuid":null},
-{"nexusFileName":"Medusae's Muses (Unique Tav)","nexusFileVersion":"1.8","nexusFileUploadedAt":1766696333,"pakFileName":"Medusae's Muses (Unique Tav).pak","nexusFileId":110342,"metaUuid":null},
+{"nexusFileName":"Medusae's Muses (Unique Tav)","nexusFileVersion":"1.8","nexusFileUploadedAt":1766696333,"pakFileName":"Medusae's Muses (Unique Tav).pak","nexusFileId":110342,"metaUuid":"641be5f1-e555-4f49-8b27-181d65226271"},
 {"nexusFileName":"Muses Flutter and Whimsy Fairy Race (Patch)","nexusFileVersion":"1.8","nexusFileUploadedAt":1766696372,"pakFileName":"Muses_Fairy_Patch.pak","nexusFileId":110343,"metaUuid":null}
 ]},
 "8732":{"nexusModName":"Greater Darkvision","nexusUploadedBy":"Anacronica","nexusModId":8732,"paks":[
@@ -41182,7 +41182,7 @@
 "14641":{"nexusModName":"Bambi's Rue","nexusUploadedBy":"bambi009","nexusModId":14641,"paks":[
 {"nexusFileName":"Bambi's Rue","nexusFileVersion":"2.0","nexusFileUploadedAt":1774453572,"pakFileName":"Bambi's Rue.pak","nexusFileId":117443,"metaUuid":"bc731084-4382-4316-9132-fbefd05308b0"},
 {"nexusFileName":"Bambi's Rue EOTB","nexusFileVersion":"2.0","nexusFileUploadedAt":1774453602,"pakFileName":"Bambi's Rue EOTB.pak","nexusFileId":117444,"metaUuid":null},
-{"nexusFileName":"Bambi's Rue UTAV","nexusFileVersion":"2.0","nexusFileUploadedAt":1774453635,"pakFileName":"Bambi's Rue UTAV.pak","nexusFileId":117445,"metaUuid":null},
+{"nexusFileName":"Bambi's Rue UTAV","nexusFileVersion":"2.0","nexusFileUploadedAt":1774453635,"pakFileName":"Bambi's Rue UTAV.pak","nexusFileId":117445,"metaUuid":"bc731084-4382-4316-9132-fbefd05308b0"},
 {"nexusFileName":"Bambi's Rue EOTB UTAV","nexusFileVersion":"2.0","nexusFileUploadedAt":1774453668,"pakFileName":"Bambi's Rue EOTB UTAV.pak","nexusFileId":117446,"metaUuid":"bc731084-4382-4316-9132-fbefd05308b0"},
 {"nexusFileName":"Bambi's Rue EOTB CCO","nexusFileVersion":"2.0","nexusFileUploadedAt":1774453696,"pakFileName":"Bambi's Rue CCO EOTB.pak","nexusFileId":117447,"metaUuid":null},
 {"nexusFileName":"Bambi's Rue CCO","nexusFileVersion":"2.0","nexusFileUploadedAt":1774453723,"pakFileName":"Bambi's Rue CCO.pak","nexusFileId":117448,"metaUuid":null}
@@ -42751,7 +42751,7 @@
 {"nexusFileName":"Astral Plane Romance Overhaul - Italian","nexusFileVersion":"1","nexusFileUploadedAt":1741479668,"pakFileName":"AstralPlaneRomanceOverhaulIT.pak","nexusFileId":86917,"metaUuid":null}
 ]},
 "15263":{"nexusModName":"Notable Dream Guardians","nexusUploadedBy":"TheCobaltCactus","nexusModId":15263,"paks":[
-{"nexusFileName":"Notable Dream Guardians","nexusFileVersion":"1.0.0.12","nexusFileUploadedAt":1752779887,"pakFileName":"notable_guardians_a8abde8c-60f3-1306-0d2e-1fed719dd38e.pak","nexusFileId":98319,"metaUuid":null}
+{"nexusFileName":"Notable Dream Guardians","nexusFileVersion":"1.0.0.12","nexusFileUploadedAt":1752779887,"pakFileName":"notable_guardians_a8abde8c-60f3-1306-0d2e-1fed719dd38e.pak","nexusFileId":98319,"metaUuid":"a8abde8c-60f3-1306-0d2e-1fed719dd38e"}
 ]},
 "15265":{"nexusModName":"Creation's Echo Fix","nexusUploadedBy":"robogena","nexusModId":15265,"paks":[
 {"nexusFileName":"Creation's Echo Fix","nexusFileVersion":"1.0","nexusFileUploadedAt":1741494712,"pakFileName":"robogena_CreationsEchoFix.pak","nexusFileId":86926,"metaUuid":null},
@@ -44763,7 +44763,7 @@
 {"nexusFileName":"Better Visuals for Shadow Hound (Nimbus)","nexusFileVersion":"2.0","nexusFileUploadedAt":1745753427,"pakFileName":"Aza_BetterShadowHound.pak","nexusFileId":90832,"metaUuid":"c5dec426-24f7-cc31-22ff-95df0839324d"}
 ]},
 "16088":{"nexusModName":"Valuables Collector","nexusUploadedBy":"swissfred","nexusModId":16088,"paks":[
-{"nexusFileName":"Valuables Collector","nexusFileVersion":"2.0.8.26","nexusFileUploadedAt":1749381386,"pakFileName":"ValuablesCollector_6b5e1703-a51c-df2a-36d8-c537c7348b43.pak","nexusFileId":95353,"metaUuid":null}
+{"nexusFileName":"Valuables Collector","nexusFileVersion":"2.0.8.26","nexusFileUploadedAt":1749381386,"pakFileName":"ValuablesCollector_6b5e1703-a51c-df2a-36d8-c537c7348b43.pak","nexusFileId":95353,"metaUuid":"6b5e1703-a51c-df2a-36d8-c537c7348b43"}
 ]},
 "16089":{"nexusModName":"Evacuate Crowd CHS","nexusUploadedBy":"LaundryDragonmaidOfficial","nexusModId":16089,"paks":[
 {"nexusFileName":"EvacuateCrowdCHS","nexusFileVersion":"1.0.3","nexusFileUploadedAt":1745593951,"pakFileName":"EvacuateCrowdCHS.pak","nexusFileId":90607,"metaUuid":null}
@@ -46452,7 +46452,7 @@
 {"nexusFileName":"Lynia Orin Makeover - Outfit Only","nexusFileVersion":"1.0","nexusFileUploadedAt":1747788093,"pakFileName":"Lynia_OrinMakeover_OutfitOnly.pak","nexusFileId":93595,"metaUuid":null}
 ]},
 "16725":{"nexusModName":"Withers' Wondrous Wares","nexusUploadedBy":"thecommabandit","nexusModId":16725,"paks":[
-{"nexusFileName":"Withers Wondrous Wares","nexusFileVersion":"1.0.1.10","nexusFileUploadedAt":1748038638,"pakFileName":"WithersWondrousWares_263f6f94-043e-61b6-e34d-bb378fb0a783.pak","nexusFileId":93878,"metaUuid":null}
+{"nexusFileName":"Withers Wondrous Wares","nexusFileVersion":"1.0.1.10","nexusFileUploadedAt":1748038638,"pakFileName":"WithersWondrousWares_263f6f94-043e-61b6-e34d-bb378fb0a783.pak","nexusFileId":93878,"metaUuid":"263f6f94-043e-61b6-e34d-bb378fb0a783"}
 ]},
 "16726":{"nexusModName":"Arms of the Betrayers - Critical Role Collection","nexusUploadedBy":"Androbo7","nexusModId":16726,"paks":[
 {"nexusFileName":"Arms World Loot Add-On","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1747788732,"pakFileName":"ArmsWorldLootAdd-On.pak","nexusFileId":93597,"metaUuid":null},
@@ -53241,7 +53241,7 @@
 {"nexusFileName":"1.Voluntary Ceremorphosis for Uninfected (Ver.VA)","nexusFileVersion":"1.0.1.0","nexusFileUploadedAt":1760658883,"pakFileName":"Voluntary_Ceremorphosis_VA_bbf43666-d908-3cbe-c542-ddb20bb1e489.pak","nexusFileId":105339,"metaUuid":"bbf43666-d908-3cbe-c542-ddb20bb1e489"},
 {"nexusFileName":"2.Voluntary Ceremorphosis for Everyone (Ver.VA)","nexusFileVersion":"1.0.1.0","nexusFileUploadedAt":1760658921,"pakFileName":"Voluntary_Ceremorphosis_VA_All_a25d99af-0896-5182-9457-7bb663af9147.pak","nexusFileId":105340,"metaUuid":"a25d99af-0896-5182-9457-7bb663af9147"},
 {"nexusFileName":"3.Voluntary Ceremorphosis for Uninfected (Ver.IPO)","nexusFileVersion":"1.0.1.0","nexusFileUploadedAt":1760659025,"pakFileName":"Voluntary_Ceremorphosis_IPO_4305807d-3578-9393-d80f-12b09771af5f.pak","nexusFileId":105341,"metaUuid":null},
-{"nexusFileName":"4.Voluntary Ceremorphosis for Everyone (Ver.IPO)","nexusFileVersion":"1.0.1.0","nexusFileUploadedAt":1760659072,"pakFileName":"Voluntary_Ceremorphosis_IPO_All_b91681e7-d747-6aee-122a-695383469c0d.pak","nexusFileId":105343,"metaUuid":null}
+{"nexusFileName":"4.Voluntary Ceremorphosis for Everyone (Ver.IPO)","nexusFileVersion":"1.0.1.0","nexusFileUploadedAt":1760659072,"pakFileName":"Voluntary_Ceremorphosis_IPO_All_b91681e7-d747-6aee-122a-695383469c0d.pak","nexusFileId":105343,"metaUuid":"b91681e7-d747-6aee-122a-695383469c0d"}
 ]},
 "19102":{"nexusModName":"Raise The Dead (Work in Progress)","nexusUploadedBy":"TimeReprise","nexusModId":19102,"paks":[
 {"nexusFileName":"V1.5","nexusFileVersion":"1.5","nexusFileUploadedAt":1767026283,"pakFileName":"Raise_The_Dead_98c1e812-b324-47a6-baab-26e23490a0cb.pak","nexusFileId":110622,"metaUuid":null}
