@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-07-18T16:51:42.426514+00:00","total_mods":16933},
+{"_meta":{"last_run":"2026-07-18T17:51:52.956780+00:00","total_mods":16933},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -12504,7 +12504,7 @@
 "3939":{"nexusModName":"Echo Knight Fighter Subclass","nexusUploadedBy":"wesslen","nexusModId":3939,"paks":[
 {"nexusFileName":"RAW Level Progression","nexusFileVersion":"1.0.1","nexusFileUploadedAt":1699465105,"pakFileName":"DEchoKnightRAW.pak","nexusFileId":27420,"metaUuid":"ecc0c754-0135-4236-96f2-87d53981d1de"},
 {"nexusFileName":"No Chromatic Aberration","nexusFileVersion":"1.2.13.1","nexusFileUploadedAt":1705778955,"pakFileName":"DEchoKnightNoChroma.pak","nexusFileId":40953,"metaUuid":"1c87a78c-07fc-4db6-a195-2ecd92bbc3b1"},
-{"nexusFileName":"Echo Knight","nexusFileVersion":"1.5.7","nexusFileUploadedAt":1776964802,"pakFileName":"DEchoKnight.pak","nexusFileId":119729,"metaUuid":"ecc0c754-0911-462e-8983-dcffe56c4d8d"}
+{"nexusFileName":"Echo Knight","nexusFileVersion":"1.5.8","nexusFileUploadedAt":1784394928,"pakFileName":"DEchoKnight.pak","nexusFileId":125945,"metaUuid":"ecc0c754-0911-462e-8983-dcffe56c4d8d"}
 ]},
 "3940":{"nexusModName":"Object Character Support","nexusUploadedBy":"wesslen","nexusModId":3940,"paks":[
 {"nexusFileName":"Object Character Support","nexusFileVersion":"1.2.2","nexusFileUploadedAt":1765369356,"pakFileName":"ObjectCharacterSupport.pak","nexusFileId":109338,"metaUuid":"0c50deb2-303c-4e00-9bc7-a60a347d6593"}
@@ -58529,7 +58529,7 @@
 "20775":{"nexusModName":"Crimson Mayhem","nexusUploadedBy":"ForKiramay","nexusModId":20775,"paks":[
 {"nexusFileName":"Crimson Mayhem","nexusFileVersion":"1.0.0.2","nexusFileUploadedAt":1768754960,"pakFileName":"CrimsonBlade_c1acaec3-2489-7661-8cb1-cf8dfe31222b.pak","nexusFileId":112535,"metaUuid":"c1acaec3-2489-7661-8cb1-cf8dfe31222b"}
 ]},
-"20777":{"nexusModName":"Instant Main Menu","nexusUploadedBy":"nyilas7","nexusModId":20777,"paks":[
+"20777":{"nexusModName":"Instant Main Menu - No Intro - Fast Startup - No Press Any Key","nexusUploadedBy":"nyilas7","nexusModId":20777,"paks":[
 {"nexusFileName":"Instant Main Menu","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1768765320,"pakFileName":"InstantMainMenu.pak","nexusFileId":112542,"metaUuid":"3b9d2f6a-8c41-4e2a-b1f6-9e7c5a4d0f92"},
 {"nexusFileName":"Instant Main Menu No Sign In","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1768765355,"pakFileName":"InstantMainMenuNoSignIn.pak","nexusFileId":112543,"metaUuid":"3b9d2f6a-8c41-4e2a-b1f6-9e7c5a4d0f92"}
 ]},
@@ -66924,8 +66924,8 @@
 {"nexusFileName":"SwishyFishy ReplaceRevivifyScrolls","nexusFileVersion":"1.0.0.1","nexusFileUploadedAt":1784258148,"pakFileName":"SwishyFishy_ReplaceRevivifyScrolls.pak","nexusFileId":125800,"metaUuid":null}
 ]},
 "23915":{"nexusModName":"SpellForge","nexusUploadedBy":"BirbRR","nexusModId":23915,"paks":[
-{"nexusFileName":"Spellforge MAIN","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1784269406,"pakFileName":"BirbRR_Spellforge.pak","nexusFileId":125816,"metaUuid":"a449f731-7ee1-4b1b-b83d-311da1c50add"},
-{"nexusFileName":"Spellforge Tutorial Chest Addon (CHEAT)","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1784269471,"pakFileName":"BirbRR_SF_TutChest.pak","nexusFileId":125817,"metaUuid":null}
+{"nexusFileName":"Spellforge Tutorial Chest Addon (CHEAT)","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1784269471,"pakFileName":"BirbRR_SF_TutChest.pak","nexusFileId":125817,"metaUuid":null},
+{"nexusFileName":"Spellforge MAIN","nexusFileVersion":"1.0.1","nexusFileUploadedAt":1784394906,"pakFileName":"BirbRR_Spellforge.pak","nexusFileId":125944,"metaUuid":"a449f731-7ee1-4b1b-b83d-311da1c50add"}
 ]},
 "23916":{"nexusModName":"Eladrin Head Preset - CPF","nexusUploadedBy":"Prediri","nexusModId":23916,"paks":[
 {"nexusFileName":"Eladrin High Elf Preset - pak version","nexusFileVersion":"1.0","nexusFileUploadedAt":1784281326,"pakFileName":"CPF_EladrinHighElf_6a4c1787-3a14-4ea6-889b-a1f4f80.pak","nexusFileId":125822,"metaUuid":null}
