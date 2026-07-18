@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-07-18T01:51:37.923511+00:00","total_mods":16924},
+{"_meta":{"last_run":"2026-07-18T02:51:51.520471+00:00","total_mods":16927},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -52635,7 +52635,8 @@
 {"nexusFileName":"Falataeric Cli Lyre 2K","nexusFileVersion":"1.0","nexusFileUploadedAt":1759015641,"pakFileName":"Foxheads_Unique_Falataeric_Cli_Lyre_2f2eb3ca-ea74-2ffb-b53f-abf9583d7576.pak","nexusFileId":103823,"metaUuid":"2f2eb3ca-ea74-2ffb-b53f-abf9583d7576"}
 ]},
 "18889":{"nexusModName":"Really Shadowheart (pt-BR)","nexusUploadedBy":"Firetoga","nexusModId":18889,"paks":[
-{"nexusFileName":"Really Shadowheart (PT-BR)","nexusFileVersion":"2.1.0.22","nexusFileUploadedAt":1774187198,"pakFileName":"Really Shadowheart 2.1.0.22 (PT-BR).pak","nexusFileId":117273,"metaUuid":null}
+{"nexusFileName":"Really Shadowheart (PT-BR) - Umbralma","nexusFileVersion":"2.1.0.23.3","nexusFileUploadedAt":1784342961,"pakFileName":"Really Shadowheart 2.1.0.23 (Remake - PT-BR - Versão Umbralma).pak","nexusFileId":125896,"metaUuid":null},
+{"nexusFileName":"Really Shadowheart (PT-BR) - Shadowheart","nexusFileVersion":"2.1.0.23.3","nexusFileUploadedAt":1784342981,"pakFileName":"Really Shadowheart 2.1.0.23 (Remake - PT-BR).pak","nexusFileId":125897,"metaUuid":null}
 ]},
 "18891":{"nexusModName":"Sky Boon - A Thunder and Lightning Themed Bless Alternative - Multiple Versions - Russian translation","nexusUploadedBy":"FanLarin","nexusModId":18891,"paks":[
 {"nexusFileName":"Sky Boon - Faster Scaling Blessings_RU","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1759048903,"pakFileName":"Sky Boon - Faster Scaling Blessings_RU.pak","nexusFileId":103853,"metaUuid":null}
@@ -66921,6 +66922,9 @@
 "23921":{"nexusModName":"Better Hag Hair (Russian Localization)","nexusUploadedBy":"ganeuken","nexusModId":23921,"paks":[
 {"nexusFileName":"Better Hag Hair Russian Localization","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1784299968,"pakFileName":"BetterHagHair_RU.pak","nexusFileId":125845,"metaUuid":null}
 ]},
+"23922":{"nexusModName":"Fish Scales for STAV","nexusUploadedBy":"EvilSnail0fDestruktion","nexusModId":23922,"paks":[
+{"nexusFileName":"STAVFishScales","nexusFileVersion":"1.0.1","nexusFileUploadedAt":1784325278,"pakFileName":"STAVFishScales.pak","nexusFileId":125868,"metaUuid":null}
+]},
 "23924":{"nexusModName":"Ancient Dragon Lord's Eye Staff - Fire and Lightning","nexusUploadedBy":"JasondunnaYT","nexusModId":23924,"paks":[
 {"nexusFileName":"Dragon Lord's Eye Staff 1.0","nexusFileVersion":"1","nexusFileUploadedAt":1784308688,"pakFileName":"DragonEyeStaff_856a4a0f-393f-1a43-5708-f40862368468.pak","nexusFileId":125851,"metaUuid":null}
 ]},
@@ -66941,4 +66945,13 @@
 ]},
 "23926":{"nexusModName":"Conjure Celestial Deva","nexusUploadedBy":"winterwinds19","nexusModId":23926,"paks":[
 {"nexusFileName":"Conjure Celestial Scaling Deva V1 0 1","nexusFileVersion":"1.1","nexusFileUploadedAt":1784321497,"pakFileName":"Conjure Celestial - Scaling Deva.pak","nexusFileId":125863,"metaUuid":null}
+]},
+"23930":{"nexusModName":"Clea Dessendre Head and Hair Preset","nexusUploadedBy":"aureusco","nexusModId":23930,"paks":[
+{"nexusFileName":"E33 Clea Head and Hair Preset by aureusco","nexusFileVersion":"1.000","nexusFileUploadedAt":1784339855,"pakFileName":"E33 Clea Hair.pak","nexusFileId":125888,"metaUuid":null},
+{"nexusFileName":"E33 Clea Head and Hair Preset by aureusco","nexusFileVersion":"1.000","nexusFileUploadedAt":1784339855,"pakFileName":"E33 Clea Head.pak","nexusFileId":125888,"metaUuid":null},
+{"nexusFileName":"E33 Clea Head and Hair Preset by aureusco","nexusFileVersion":"1.000","nexusFileUploadedAt":1784339855,"pakFileName":"._E33 Clea Hair.pak","nexusFileId":125888,"metaUuid":null},
+{"nexusFileName":"E33 Clea Head and Hair Preset by aureusco","nexusFileVersion":"1.000","nexusFileUploadedAt":1784339855,"pakFileName":"._E33 Clea Head.pak","nexusFileId":125888,"metaUuid":null}
+]},
+"23932":{"nexusModName":"Saved by the Slayer (Near-Death Slayer Form Transformation)","nexusUploadedBy":"Sw1shyFishy","nexusModId":23932,"paks":[
+{"nexusFileName":"SwishyFishy SlayerFormSavesYou","nexusFileVersion":"1.0.0.3","nexusFileUploadedAt":1784341376,"pakFileName":"SwishyFishy_SlayerFormSavesYou.pak","nexusFileId":125893,"metaUuid":null}
 ]}}
