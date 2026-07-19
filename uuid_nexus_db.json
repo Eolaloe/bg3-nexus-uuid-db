@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-07-19T08:51:41.156911+00:00","total_mods":16934},
+{"_meta":{"last_run":"2026-07-19T09:51:32.279127+00:00","total_mods":16934},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -644,7 +644,7 @@
 {"nexusFileName":"Oath of Conquest Paladin Subclass","nexusFileVersion":"3.4","nexusFileUploadedAt":1750373281,"pakFileName":"OathofConquest_7066e995-e7fc-3932-10db-9d2c9c7de8c8.pak","nexusFileId":96262,"metaUuid":"7066e995-e7fc-3932-10db-9d2c9c7de8c8"}
 ]},
 "480":{"nexusModName":"Mirror Blade","nexusUploadedBy":"wesslen","nexusModId":480,"paks":[
-{"nexusFileName":"Mirror Blade","nexusFileVersion":"1.6.1","nexusFileUploadedAt":1706175693,"pakFileName":"MirrorBlade.pak","nexusFileId":41623,"metaUuid":"0c3e5641-061c-49de-a53a-566132816e1d"}
+{"nexusFileName":"Mirror Blade","nexusFileVersion":"1.7","nexusFileUploadedAt":1784451227,"pakFileName":"MirrorBlade.pak","nexusFileId":125988,"metaUuid":"0c3e5641-061c-49de-a53a-566132816e1d"}
 ]},
 "481":{"nexusModName":"Gale's Stylist - Skimpy Edition","nexusUploadedBy":"Padme4000","nexusModId":481,"paks":[
 {"nexusFileName":"Gale - Shirtless 01","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1692374831,"pakFileName":"GaleShirtless01.pak","nexusFileId":8265,"metaUuid":null}
@@ -18329,10 +18329,11 @@
 "5822":{"nexusModName":"War Caster (2014 and 2024)","nexusUploadedBy":"wesslen","nexusModId":5822,"paks":[
 {"nexusFileName":"API Sample","nexusFileVersion":"1.4","nexusFileUploadedAt":1705498371,"pakFileName":"UAWarCasterSample.pak","nexusFileId":40359,"metaUuid":null},
 {"nexusFileName":"Lenient Rules","nexusFileVersion":"1.5.4","nexusFileUploadedAt":1707635131,"pakFileName":"UAWarCasterLenient.pak","nexusFileId":44187,"metaUuid":"ca739d43-fa9c-478c-b09f-6a1deddeb1f0"},
-{"nexusFileName":"Mystra's Spells Support","nexusFileVersion":"1.15","nexusFileUploadedAt":1779623520,"pakFileName":"UAWarCasterMystrasSpells.pak","nexusFileId":122042,"metaUuid":"45e8c601-cba4-432e-85a2-92a2b2018227"},
-{"nexusFileName":"5e Spells Support","nexusFileVersion":"1.15.1","nexusFileUploadedAt":1779697428,"pakFileName":"UAWarCaster5eSpells.pak","nexusFileId":122101,"metaUuid":"52fbf3db-552a-4315-a3b5-fb68b440e49a"},
-{"nexusFileName":"War Caster","nexusFileVersion":"1.15.2","nexusFileUploadedAt":1779912365,"pakFileName":"UAWarCaster.pak","nexusFileId":122309,"metaUuid":"61a154cf-07a9-42bf-b209-1d562770a520"},
-{"nexusFileName":"More Upcasting","nexusFileVersion":"1.15.2","nexusFileUploadedAt":1779912383,"pakFileName":"UAWarCasterUpcasting.pak","nexusFileId":122310,"metaUuid":"e797c3b0-f63c-45b7-8e97-cef77e6b1af4"}
+{"nexusFileName":"War Caster","nexusFileVersion":"1.16","nexusFileUploadedAt":1784450208,"pakFileName":"UAWarCaster.pak","nexusFileId":125983,"metaUuid":"61a154cf-07a9-42bf-b209-1d562770a520"},
+{"nexusFileName":"More Upcasting","nexusFileVersion":"1.16","nexusFileUploadedAt":1784450238,"pakFileName":"UAWarCasterUpcasting.pak","nexusFileId":125984,"metaUuid":"e797c3b0-f63c-45b7-8e97-cef77e6b1af4"},
+{"nexusFileName":"5e Spells Support","nexusFileVersion":"1.16","nexusFileUploadedAt":1784450265,"pakFileName":"UAWarCaster5eSpells.pak","nexusFileId":125985,"metaUuid":"52fbf3db-552a-4315-a3b5-fb68b440e49a"},
+{"nexusFileName":"Mystra's Spells Support","nexusFileVersion":"1.16","nexusFileUploadedAt":1784450282,"pakFileName":"UAWarCasterMystrasSpells.pak","nexusFileId":125986,"metaUuid":"45e8c601-cba4-432e-85a2-92a2b2018227"},
+{"nexusFileName":"Critical Miss Retaliation","nexusFileVersion":"1.16","nexusFileUploadedAt":1784450490,"pakFileName":"UAWarCasterCriticalMiss.pak","nexusFileId":125987,"metaUuid":null}
 ]},
 "5823":{"nexusModName":"d100 Initiative Roll","nexusUploadedBy":"BitterPast","nexusModId":5823,"paks":[
 {"nexusFileName":"d100 Initiative","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1704886117,"pakFileName":"Initiative100.pak","nexusFileId":39131,"metaUuid":null}
@@ -46791,7 +46792,7 @@
 {"nexusFileName":"Legacy of the Grand Master","nexusFileVersion":"1.0.0.5","nexusFileUploadedAt":1750490320,"pakFileName":"LaserSwordGrandMaster_08b205a3-7c81-7b5c-4797-f24be3ce0558.pak","nexusFileId":96354,"metaUuid":null}
 ]},
 "16860":{"nexusModName":"True Strike (2024)","nexusUploadedBy":"wesslen","nexusModId":16860,"paks":[
-{"nexusFileName":"True Strike (2024)","nexusFileVersion":"1.4.10","nexusFileUploadedAt":1777376108,"pakFileName":"DTrueStrike.pak","nexusFileId":120060,"metaUuid":"b6734115-955b-4238-8ca6-4adae030c6ef"}
+{"nexusFileName":"True Strike (2024)","nexusFileVersion":"1.5","nexusFileUploadedAt":1784451314,"pakFileName":"DTrueStrike.pak","nexusFileId":125989,"metaUuid":"b6734115-955b-4238-8ca6-4adae030c6ef"}
 ]},
 "16861":{"nexusModName":"New Class -- Slay the Spire","nexusUploadedBy":"friefrank","nexusModId":16861,"paks":[
 {"nexusFileName":"New Class -- Slay the Spire","nexusFileVersion":"1.1.0","nexusFileUploadedAt":1757128595,"pakFileName":"主职-Slay The Spire-杀戮尖塔.pak","nexusFileId":102161,"metaUuid":null}
@@ -49402,7 +49403,7 @@
 {"nexusFileName":"Rebalance_Lvl3_Spells_Ru","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1753265267,"pakFileName":"Rebalance_Lvl3_Spells_Ru.pak","nexusFileId":98809,"metaUuid":null}
 ]},
 "17746":{"nexusModName":"Occultist Class (Blue Mage)","nexusUploadedBy":"wesslen","nexusModId":17746,"paks":[
-{"nexusFileName":"Occultist (Blue Mage)","nexusFileVersion":"1.6.6","nexusFileUploadedAt":1776974109,"pakFileName":"DBlueMage.pak","nexusFileId":119743,"metaUuid":"deba3096-24c5-4b6d-bd77-52c2e3661d21"}
+{"nexusFileName":"Occultist (Blue Mage)","nexusFileVersion":"1.7","nexusFileUploadedAt":1784451583,"pakFileName":"DBlueMage.pak","nexusFileId":125990,"metaUuid":"deba3096-24c5-4b6d-bd77-52c2e3661d21"}
 ]},
 "17748":{"nexusModName":"DreadOverlord9.10-KR NEXUS VER","nexusUploadedBy":"MshapedHairLoss","nexusModId":17748,"paks":[
 {"nexusFileName":"DreadOverlord9.10-KR NEXUS.VER","nexusFileVersion":"9.10.6.5","nexusFileUploadedAt":1754061060,"pakFileName":"DreadOverlord9.10-KR.pak","nexusFileId":99633,"metaUuid":null},
@@ -66361,8 +66362,8 @@
 {"nexusFileName":"Drow Equipment & Clothing","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1783403033,"pakFileName":"ECC_Drow_b0f12c3a-ea1c-3e15-3f16-2fe463d2963b.pak","nexusFileId":125148,"metaUuid":"b0f12c3a-ea1c-3e15-3f16-2fe463d2963b"},
 {"nexusFileName":"Absolute Equipment and Clothing","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1783671258,"pakFileName":"ECC_Absolute_f3ef7850-1c69-23b7-737a-55b866f40584.pak","nexusFileId":125328,"metaUuid":"f3ef7850-1c69-23b7-737a-55b866f40584"},
 {"nexusFileName":"Humanoid Equipment and Clothing","nexusFileVersion":"1.1.0","nexusFileUploadedAt":1784259560,"pakFileName":"ECC_Humanoid_5f2c3462-94d5-feeb-5f39-5cd0f7a76c5a.pak","nexusFileId":125802,"metaUuid":"5f2c3462-94d5-feeb-5f39-5cd0f7a76c5a"},
-{"nexusFileName":"Main","nexusFileVersion":"1.0.5","nexusFileUploadedAt":1784333578,"pakFileName":"ECC_a1e921ae-8aa2-655c-c399-cfd97ed46f4c.pak","nexusFileId":125885,"metaUuid":"a1e921ae-8aa2-655c-c399-cfd97ed46f4c"},
-{"nexusFileName":"Githyanki Equipment","nexusFileVersion":"1.1.1","nexusFileUploadedAt":1784441813,"pakFileName":"ECC_Githyanki_9fb63845-8b2d-314d-99a2-bd0c75199995.pak","nexusFileId":125977,"metaUuid":"9fb63845-8b2d-314d-99a2-bd0c75199995"}
+{"nexusFileName":"Main","nexusFileVersion":"1.1.0","nexusFileUploadedAt":1784451922,"pakFileName":"ECC_a1e921ae-8aa2-655c-c399-cfd97ed46f4c.pak","nexusFileId":125991,"metaUuid":"a1e921ae-8aa2-655c-c399-cfd97ed46f4c"},
+{"nexusFileName":"Githyanki Equipment","nexusFileVersion":"1.1.2","nexusFileUploadedAt":1784452408,"pakFileName":"ECC_Githyanki_9fb63845-8b2d-314d-99a2-bd0c75199995.pak","nexusFileId":125992,"metaUuid":"9fb63845-8b2d-314d-99a2-bd0c75199995"}
 ]},
 "23682":{"nexusModName":"Draconic Heritage - New Feat and Dragonborn Breath Weapon Tweaks","nexusUploadedBy":"aljoxo","nexusModId":23682,"paks":[
 {"nexusFileName":"Draconic Heritage","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1783070266,"pakFileName":"DraconicHeritageFeat_6717ff34-c605-60f2-a7d4-43af802463a2.pak","nexusFileId":124765,"metaUuid":"6717ff34-c605-60f2-a7d4-43af802463a2"}
