@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-07-19T12:51:42.790898+00:00","total_mods":16934},
+{"_meta":{"last_run":"2026-07-19T13:51:35.491467+00:00","total_mods":16935},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -52631,8 +52631,8 @@
 {"nexusFileName":"Falataeric Cli Lyre 2K","nexusFileVersion":"1.0","nexusFileUploadedAt":1759015641,"pakFileName":"Foxheads_Unique_Falataeric_Cli_Lyre_2f2eb3ca-ea74-2ffb-b53f-abf9583d7576.pak","nexusFileId":103823,"metaUuid":"2f2eb3ca-ea74-2ffb-b53f-abf9583d7576"}
 ]},
 "18889":{"nexusModName":"Really Shadowheart (PT-BR)","nexusUploadedBy":"Firetoga","nexusModId":18889,"paks":[
-{"nexusFileName":"Really Shadowheart (PT-BR) - Umbralma","nexusFileVersion":"2.1.0.23.9","nexusFileUploadedAt":1784459455,"pakFileName":"Really Shadowheart 2.1.0.23 (Remake - PT-BR - Versão Umbralma).pak","nexusFileId":125998,"metaUuid":null},
-{"nexusFileName":"Really Shadowheart (PT-BR) - Shadowheart","nexusFileVersion":"2.1.0.23.9","nexusFileUploadedAt":1784459471,"pakFileName":"Really Shadowheart 2.1.0.23 (Remake - PT-BR).pak","nexusFileId":125999,"metaUuid":null}
+{"nexusFileName":"Really Shadowheart (PT-BR) - Shadowheart","nexusFileVersion":"2.1.0.23.10","nexusFileUploadedAt":1784466790,"pakFileName":"Really Shadowheart 2.1.0.23 (Remake - PT-BR).pak","nexusFileId":126005,"metaUuid":null},
+{"nexusFileName":"Really Shadowheart (PT-BR) - Umbralma","nexusFileVersion":"2.1.0.23.10","nexusFileUploadedAt":1784466861,"pakFileName":"Really Shadowheart 2.1.0.23 (Remake - PT-BR - Versão Umbralma).pak","nexusFileId":126007,"metaUuid":null}
 ]},
 "18891":{"nexusModName":"Sky Boon - A Thunder and Lightning Themed Bless Alternative - Multiple Versions - Russian translation","nexusUploadedBy":"FanLarin","nexusModId":18891,"paks":[
 {"nexusFileName":"Sky Boon - Faster Scaling Blessings_RU","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1759048903,"pakFileName":"Sky Boon - Faster Scaling Blessings_RU.pak","nexusFileId":103853,"metaUuid":null}
@@ -66253,6 +66253,9 @@
 "23630":{"nexusModName":"Gale's Slutty Robe","nexusUploadedBy":"Cadyplays","nexusModId":23630,"paks":[
 {"nexusFileName":"Galessluttyrobe","nexusFileVersion":"1","nexusFileUploadedAt":1782779707,"pakFileName":"galessluttyrobe_24d4ae6e-c5cf-e7af-5968-32c1b01c33aa(1).pak","nexusFileId":124565,"metaUuid":"24d4ae6e-c5cf-e7af-5968-32c1b01c33aa"}
 ]},
+"23631":{"nexusModName":"Bellydancing Poses","nexusUploadedBy":"HastursQueen","nexusModId":23631,"paks":[
+{"nexusFileName":"BellydancingPoses","nexusFileVersion":"1","nexusFileUploadedAt":1782827395,"pakFileName":"BellydancingPoses.pak","nexusFileId":124590,"metaUuid":null}
+]},
 "23632":{"nexusModName":"Hotsprings Getaway","nexusUploadedBy":"OneEyeAskew","nexusModId":23632,"paks":[
 {"nexusFileName":"Hotsprings","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1782830577,"pakFileName":"Hotsprings.pak","nexusFileId":124592,"metaUuid":"edb88fb0-7ea3-47ac-b39a-61fd7f7cf999"}
 ]},
@@ -66731,7 +66734,7 @@
 {"nexusFileName":"Astarion's Beautiful Elegant Tent","nexusFileVersion":"1.0","nexusFileUploadedAt":1783872232,"pakFileName":"v1.0_SAR_Astarions-beautiful-elegant-tent_a3ec8b31-53fb-3c35-ecd9-3f97852a4cb6.pak","nexusFileId":125486,"metaUuid":null}
 ]},
 "23831":{"nexusModName":"Solamnic Knight (Class and Sub-Class Mod)","nexusUploadedBy":"Paranoiac21","nexusModId":23831,"paks":[
-{"nexusFileName":"Solamnic Knight","nexusFileVersion":"2","nexusFileUploadedAt":1783881559,"pakFileName":"Solamnic Knight.pak","nexusFileId":125495,"metaUuid":null}
+{"nexusFileName":"Solamnic Knight","nexusFileVersion":"3","nexusFileUploadedAt":1784466282,"pakFileName":"Solamnic Knight.pak","nexusFileId":126004,"metaUuid":null}
 ]},
 "23833":{"nexusModName":"Pretty Poison Heads","nexusUploadedBy":"AdrasteaMoon","nexusModId":23833,"paks":[
 {"nexusFileName":"Pretty Poison","nexusFileVersion":"1","nexusFileUploadedAt":1783885696,"pakFileName":"Pretty Poison.pak","nexusFileId":125499,"metaUuid":"162f8de8-328a-430e-aa7a-3580533edd43"}
