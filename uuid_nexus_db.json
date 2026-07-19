@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-07-19T05:51:30.484838+00:00","total_mods":16933},
+{"_meta":{"last_run":"2026-07-19T06:51:34.239325+00:00","total_mods":16934},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -66363,7 +66363,7 @@
 {"nexusFileName":"Absolute Equipment and Clothing","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1783671258,"pakFileName":"ECC_Absolute_f3ef7850-1c69-23b7-737a-55b866f40584.pak","nexusFileId":125328,"metaUuid":"f3ef7850-1c69-23b7-737a-55b866f40584"},
 {"nexusFileName":"Humanoid Equipment and Clothing","nexusFileVersion":"1.1.0","nexusFileUploadedAt":1784259560,"pakFileName":"ECC_Humanoid_5f2c3462-94d5-feeb-5f39-5cd0f7a76c5a.pak","nexusFileId":125802,"metaUuid":"5f2c3462-94d5-feeb-5f39-5cd0f7a76c5a"},
 {"nexusFileName":"Main","nexusFileVersion":"1.0.5","nexusFileUploadedAt":1784333578,"pakFileName":"ECC_a1e921ae-8aa2-655c-c399-cfd97ed46f4c.pak","nexusFileId":125885,"metaUuid":"a1e921ae-8aa2-655c-c399-cfd97ed46f4c"},
-{"nexusFileName":"Githyanki Equipment","nexusFileVersion":"1.1.0","nexusFileUploadedAt":1784421918,"pakFileName":"ECC_Githyanki_9fb63845-8b2d-314d-99a2-bd0c75199995.pak","nexusFileId":125966,"metaUuid":"9fb63845-8b2d-314d-99a2-bd0c75199995"}
+{"nexusFileName":"Githyanki Equipment","nexusFileVersion":"1.1.1","nexusFileUploadedAt":1784441813,"pakFileName":"ECC_Githyanki_9fb63845-8b2d-314d-99a2-bd0c75199995.pak","nexusFileId":125977,"metaUuid":"9fb63845-8b2d-314d-99a2-bd0c75199995"}
 ]},
 "23682":{"nexusModName":"Draconic Heritage - New Feat and Dragonborn Breath Weapon Tweaks","nexusUploadedBy":"aljoxo","nexusModId":23682,"paks":[
 {"nexusFileName":"Draconic Heritage","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1783070266,"pakFileName":"DraconicHeritageFeat_6717ff34-c605-60f2-a7d4-43af802463a2.pak","nexusFileId":124765,"metaUuid":"6717ff34-c605-60f2-a7d4-43af802463a2"}
@@ -66986,4 +66986,8 @@
 ]},
 "23943":{"nexusModName":"Astarion Bite Unlimited","nexusUploadedBy":"batuhan12161","nexusModId":23943,"paks":[
 {"nexusFileName":"AstarionsVampireBiteLeveled 1.0.0","nexusFileVersion":"1","nexusFileUploadedAt":1784416578,"pakFileName":"AstarionBiteImproved.pak","nexusFileId":125963,"metaUuid":"c5c95eca-f0c6-4f1b-a70f-40f393ceacb1"}
+]},
+"23947":{"nexusModName":"Circle of the Sovereign - Spores Druid Overhaul (Levels 6-20)","nexusUploadedBy":"rhinohamster","nexusModId":23947,"paks":[
+{"nexusFileName":"Circle of the Sovereign","nexusFileVersion":"1.0","nexusFileUploadedAt":1784442980,"pakFileName":"CircleOfTheSovereign.pak","nexusFileId":125978,"metaUuid":null},
+{"nexusFileName":"Circle of the Sovereign - Balanced","nexusFileVersion":"1.0","nexusFileUploadedAt":1784443078,"pakFileName":"CircleOfTheSovereign-Balanced.pak","nexusFileId":125980,"metaUuid":null}
 ]}}
