@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-07-19T19:51:38.749194+00:00","total_mods":16939},
+{"_meta":{"last_run":"2026-07-19T20:51:44.205523+00:00","total_mods":16940},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -67007,4 +67007,10 @@
 ]},
 "23955":{"nexusModName":"Gnome Beauties Head Pack","nexusUploadedBy":"manuliparoni","nexusModId":23955,"paks":[
 {"nexusFileName":"Gnome Beauties","nexusFileVersion":"1","nexusFileUploadedAt":1784482650,"pakFileName":"Gnome_Beauties.pak","nexusFileId":126018,"metaUuid":null}
+]},
+"23958":{"nexusModName":"Sanctuary Spell Nerfed - Increased Cooldown","nexusUploadedBy":"Reveurr","nexusModId":23958,"paks":[
+{"nexusFileName":"Sanctuary Blocked 2 Turns","nexusFileVersion":"1","nexusFileUploadedAt":1784491003,"pakFileName":"SanctuaryBlocked2Turns_e8360dd8-6e1c-2766-679c-0ff9299956f5.pak","nexusFileId":126025,"metaUuid":null},
+{"nexusFileName":"Sanctuary Blocked 3 Turns","nexusFileVersion":"1","nexusFileUploadedAt":1784492538,"pakFileName":"SanctuaryBlocked3Turns_d8b5bedb-938e-3736-4d36-b156561228c6.pak","nexusFileId":126027,"metaUuid":null},
+{"nexusFileName":"Sanctuary Blocked 4 Turns","nexusFileVersion":"1","nexusFileUploadedAt":1784492864,"pakFileName":"SanctuaryBlocked4Turns_766d6fcb-d66f-c9a8-7227-89ad67e56690.pak","nexusFileId":126028,"metaUuid":null},
+{"nexusFileName":"Sanctuary Blocked 5 Turns","nexusFileVersion":"1","nexusFileUploadedAt":1784493094,"pakFileName":"SanctuaryBlocked5Turns_eff45bda-02ac-d085-3b22-b2da4395e75f.pak","nexusFileId":126029,"metaUuid":null}
 ]}}
