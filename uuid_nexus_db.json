@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-07-19T02:52:05.150969+00:00","total_mods":16934},
+{"_meta":{"last_run":"2026-07-19T03:51:42.521004+00:00","total_mods":16934},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -66376,7 +66376,8 @@
 {"nexusFileName":"Umberlee's Earrings (Gold)","nexusFileVersion":"1.0","nexusFileUploadedAt":1783055916,"pakFileName":"Umberlee's Earrings (Gold).pak","nexusFileId":124756,"metaUuid":null}
 ]},
 "23685":{"nexusModName":"Blackwood's Red Mage","nexusUploadedBy":"EnixLHQ","nexusModId":23685,"paks":[
-{"nexusFileName":"Blackwood's Red Mage","nexusFileVersion":"2.2.4.37","nexusFileUploadedAt":1784358560,"pakFileName":"Red_Mage_Homebrew_6aec3ad4-990d-7667-a8e9-399d1bb6fc4b.pak","nexusFileId":125919,"metaUuid":null}
+{"nexusFileName":"Blackwood's Red Mage","nexusFileVersion":"2.2.4.37","nexusFileUploadedAt":1784358560,"pakFileName":"Red_Mage_Homebrew_6aec3ad4-990d-7667-a8e9-399d1bb6fc4b.pak","nexusFileId":125919,"metaUuid":null},
+{"nexusFileName":"Blackwood's Red Mage - Free Offhand","nexusFileVersion":"1","nexusFileUploadedAt":1784431444,"pakFileName":"RedMage_FreeOffhand.pak","nexusFileId":125974,"metaUuid":null}
 ]},
 "23686":{"nexusModName":"Improved Equip Menu","nexusUploadedBy":"sowww","nexusModId":23686,"paks":[
 {"nexusFileName":"Improved Equip Menu","nexusFileVersion":"1.1.0","nexusFileUploadedAt":1783264510,"pakFileName":"ImprovedEquipMenu.pak","nexusFileId":124956,"metaUuid":"c953c1b3-cf57-4688-9950-9fc6fdc23415"}
@@ -66710,7 +66711,7 @@
 {"nexusFileName":"Better Inventory UI Patch","nexusFileVersion":"1.0.1.2","nexusFileUploadedAt":1784294199,"pakFileName":"SharedBags_BIUIPatch.pak","nexusFileId":125837,"metaUuid":null},
 {"nexusFileName":"Better UI AiO Patch (x1.3)","nexusFileVersion":"1.0.1.2","nexusFileUploadedAt":1784294210,"pakFileName":"SharedBags_BTAIOPatch13.pak","nexusFileId":125838,"metaUuid":"b3debe79-b88c-431e-806c-1e89d0f9f4db"},
 {"nexusFileName":"Better UI AiO Patch","nexusFileVersion":"1.0.1.2","nexusFileUploadedAt":1784294219,"pakFileName":"SharedBags_BTAIOPatch.pak","nexusFileId":125839,"metaUuid":"135b278b-c4f4-4351-8356-83d868a3bb40"},
-{"nexusFileName":"Shared Bags for Your Party","nexusFileVersion":"1.0.4.4","nexusFileUploadedAt":1784382092,"pakFileName":"SharedBags.pak","nexusFileId":125936,"metaUuid":"b68a904f-fb57-4a64-a4bb-1e7cf264862f"}
+{"nexusFileName":"Shared Bags for Your Party","nexusFileVersion":"1.0.4.5","nexusFileUploadedAt":1784429862,"pakFileName":"SharedBags.pak","nexusFileId":125970,"metaUuid":"b68a904f-fb57-4a64-a4bb-1e7cf264862f"}
 ]},
 "23823":{"nexusModName":"Shields Begone","nexusUploadedBy":"Cainhurtz","nexusModId":23823,"paks":[
 {"nexusFileName":"Shields Begone","nexusFileVersion":"3","nexusFileUploadedAt":1783825225,"pakFileName":"Fluck_Shields.pak","nexusFileId":125458,"metaUuid":"69615e25-b334-5f90-9732-f21dd2ea7f34"}
@@ -66969,7 +66970,7 @@
 {"nexusFileName":"SwishyFishy SlayerFormSavesYou","nexusFileVersion":"1.0.0.3","nexusFileUploadedAt":1784341376,"pakFileName":"SwishyFishy_SlayerFormSavesYou.pak","nexusFileId":125893,"metaUuid":null}
 ]},
 "23934":{"nexusModName":"Spellstaff","nexusUploadedBy":"qhrals8","nexusModId":23934,"paks":[
-{"nexusFileName":"Spellstaff","nexusFileVersion":"4","nexusFileUploadedAt":1784387178,"pakFileName":"Spellstaff(1.2).pak","nexusFileId":125940,"metaUuid":null}
+{"nexusFileName":"Spellstaff","nexusFileVersion":"5","nexusFileUploadedAt":1784429918,"pakFileName":"Spellstaff(1.3).pak","nexusFileId":125973,"metaUuid":null}
 ]},
 "23937":{"nexusModName":"Rain's Midway Magic","nexusUploadedBy":"rainbow1411","nexusModId":23937,"paks":[
 {"nexusFileName":"Midway Magic","nexusFileVersion":"1","nexusFileUploadedAt":1784377604,"pakFileName":"Midway_Magic_925e9cd7-bf1a-bb78-7904-285dda3021e3.pak","nexusFileId":125929,"metaUuid":null}
