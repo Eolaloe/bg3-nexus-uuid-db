@@ -6804,7 +6804,7 @@
 {"nexusFileName":"Alt Toggle - Hide Looted","nexusFileVersion":"3.2","nexusFileUploadedAt":1753023909,"pakFileName":"EnhancedWorldTooltips_b8efd00b-375b-5f97-e28f-c33d3ef7311a.pak","nexusFileId":98599,"metaUuid":"b8efd00b-375b-5f97-e28f-c33d3ef7311a"},
 {"nexusFileName":"Alt Toggle - Preview","nexusFileVersion":"3.2","nexusFileUploadedAt":1753023927,"pakFileName":"EnhancedWorldTooltips_b8efd00b-375b-5f97-e28f-c33d3ef7311a.pak","nexusFileId":98600,"metaUuid":null},
 {"nexusFileName":"Hide Looted","nexusFileVersion":"3.2","nexusFileUploadedAt":1753023946,"pakFileName":"EnhancedWorldTooltips_b8efd00b-375b-5f97-e28f-c33d3ef7311a.pak","nexusFileId":98601,"metaUuid":"b8efd00b-375b-5f97-e28f-c33d3ef7311a"},
-{"nexusFileName":"Hide Looted - Preview","nexusFileVersion":"3.2","nexusFileUploadedAt":1753023965,"pakFileName":"EnhancedWorldTooltips_b8efd00b-375b-5f97-e28f-c33d3ef7311a.pak","nexusFileId":98602,"metaUuid":null},
+{"nexusFileName":"Hide Looted - Preview","nexusFileVersion":"3.2","nexusFileUploadedAt":1753023965,"pakFileName":"EnhancedWorldTooltips_b8efd00b-375b-5f97-e28f-c33d3ef7311a.pak","nexusFileId":98602,"metaUuid":"b8efd00b-375b-5f97-e28f-c33d3ef7311a"},
 {"nexusFileName":"Preview","nexusFileVersion":"3.2","nexusFileUploadedAt":1753023981,"pakFileName":"EnhancedWorldTooltips_b8efd00b-375b-5f97-e28f-c33d3ef7311a.pak","nexusFileId":98603,"metaUuid":"b8efd00b-375b-5f97-e28f-c33d3ef7311a"}
 ]},
 "2039":{"nexusModName":"Volo's Dark Ersatz Eye","nexusUploadedBy":"neoaikon","nexusModId":2039,"paks":[
@@ -46940,7 +46940,7 @@
 ]},
 "16903":{"nexusModName":"Astarion's Messy Curls","nexusUploadedBy":"preciouslittlebhaalbabee","nexusModId":16903,"paks":[
 {"nexusFileName":"Messy Hair Remastered","nexusFileVersion":"1.0","nexusFileUploadedAt":1771246537,"pakFileName":"MessyCurls2_cf99e2ea-fd51-0e55-a358-9562fe427c3e.pak","nexusFileId":114946,"metaUuid":"cf99e2ea-fd51-0e55-a358-9562fe427c3e"},
-{"nexusFileName":"Non-Replacer version","nexusFileVersion":"1.0","nexusFileUploadedAt":1771257217,"pakFileName":"MessyCurlsNonReplacer_bf9034f5-cd15-8375-d107-e8be9c9a5f69.pak","nexusFileId":114952,"metaUuid":"bf9034f5-cd15-8375-d107-e8be9c9a5f69"}
+{"nexusFileName":"Non-Replacer version","nexusFileVersion":"1.0","nexusFileUploadedAt":1771257217,"pakFileName":"MessyCurlsNonReplacer_bf9034f5-cd15-8375-d107-e8be9c9a5f69.pak","nexusFileId":114952,"metaUuid":"cf99e2ea-fd51-0e55-a358-9562fe427c3e"}
 ]},
 "16905":{"nexusModName":"Oath of Pestilence Paladin Subclass","nexusUploadedBy":"havsglimt","nexusModId":16905,"paks":[
 {"nexusFileName":"Oath of Pestilence Paladin Subclass","nexusFileVersion":"1.0","nexusFileUploadedAt":1748604696,"pakFileName":"OathofPestilence_55436d3d-6b2d-41ef-780b-4319ed31a9a7.pak","nexusFileId":94528,"metaUuid":"55436d3d-6b2d-41ef-780b-4319ed31a9a7"}
@@ -66703,8 +66703,8 @@
 ]},
 "23822":{"nexusModName":"Shared Bags for Your Party","nexusUploadedBy":"Eolaloe","nexusModId":23822,"paks":[
 {"nexusFileName":"Better Context Menu Patch (x1.3)","nexusFileVersion":"1.0.1.2","nexusFileUploadedAt":1784294178,"pakFileName":"SharedBags_BCMPatch13.pak","nexusFileId":125835,"metaUuid":null},
-{"nexusFileName":"Better Context Menu Patch","nexusFileVersion":"1.0.1.2","nexusFileUploadedAt":1784294188,"pakFileName":"SharedBags_BCMPatch.pak","nexusFileId":125836,"metaUuid":null},
-{"nexusFileName":"Better Inventory UI Patch","nexusFileVersion":"1.0.1.2","nexusFileUploadedAt":1784294199,"pakFileName":"SharedBags_BIUIPatch.pak","nexusFileId":125837,"metaUuid":null},
+{"nexusFileName":"Better Context Menu Patch","nexusFileVersion":"1.0.1.2","nexusFileUploadedAt":1784294188,"pakFileName":"SharedBags_BCMPatch.pak","nexusFileId":125836,"metaUuid":"fc63a4af-29d0-438b-bf28-101528e39512"},
+{"nexusFileName":"Better Inventory UI Patch","nexusFileVersion":"1.0.1.2","nexusFileUploadedAt":1784294199,"pakFileName":"SharedBags_BIUIPatch.pak","nexusFileId":125837,"metaUuid":"a9cde387-476e-43a7-a292-d9f96c817f99"},
 {"nexusFileName":"Better UI AiO Patch (x1.3)","nexusFileVersion":"1.0.1.2","nexusFileUploadedAt":1784294210,"pakFileName":"SharedBags_BTAIOPatch13.pak","nexusFileId":125838,"metaUuid":"b3debe79-b88c-431e-806c-1e89d0f9f4db"},
 {"nexusFileName":"Better UI AiO Patch","nexusFileVersion":"1.0.1.2","nexusFileUploadedAt":1784294219,"pakFileName":"SharedBags_BTAIOPatch.pak","nexusFileId":125839,"metaUuid":"135b278b-c4f4-4351-8356-83d868a3bb40"},
 {"nexusFileName":"Shared Bags for Your Party","nexusFileVersion":"1.0.4.6","nexusFileUploadedAt":1784439222,"pakFileName":"SharedBags.pak","nexusFileId":125975,"metaUuid":"b68a904f-fb57-4a64-a4bb-1e7cf264862f"}
