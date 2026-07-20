@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-07-20T19:51:32.511992+00:00","total_mods":16945},
+{"_meta":{"last_run":"2026-07-20T20:51:30.227211+00:00","total_mods":16946},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -23979,7 +23979,7 @@
 ]},
 "8154":{"nexusModName":"Disastrous Dyes","nexusUploadedBy":"fasterdisasters","nexusModId":8154,"paks":[
 {"nexusFileName":"Disastrous Dyes","nexusFileVersion":"2.0b","nexusFileUploadedAt":1721533790,"pakFileName":"DisastrousDyes.pak","nexusFileId":64673,"metaUuid":"cdcae0e3-13c2-4e8a-a07a-ce503eaea557"},
-{"nexusFileName":"Disastrous Dyes - No Vendors","nexusFileVersion":"2.0.0","nexusFileUploadedAt":1726333591,"pakFileName":"DisastrousDyes.pak","nexusFileId":71112,"metaUuid":null},
+{"nexusFileName":"Disastrous Dyes - No Vendors","nexusFileVersion":"2.0.0","nexusFileUploadedAt":1726333591,"pakFileName":"DisastrousDyes.pak","nexusFileId":71112,"metaUuid":"cdcae0e3-13c2-4e8a-a07a-ce503eaea557"},
 {"nexusFileName":"Disastrous Dyes - No Vendor No Tutorial Chest","nexusFileVersion":"2.0.0","nexusFileUploadedAt":1726333732,"pakFileName":"DisastrousDyes.pak","nexusFileId":71113,"metaUuid":"cdcae0e3-13c2-4e8a-a07a-ce503eaea557"}
 ]},
 "8160":{"nexusModName":"Reincarnation Nier Inspired","nexusUploadedBy":"aruless","nexusModId":8160,"paks":[
@@ -57004,9 +57004,12 @@
 "20238":{"nexusModName":"TRM1 Vanilla Outfits","nexusUploadedBy":"tealrabbit19","nexusModId":20238,"paks":[
 {"nexusFileName":"TRM1V Root Template Overrides","nexusFileVersion":"1.0","nexusFileUploadedAt":1766349466,"pakFileName":"TRM1_RTO.pak","nexusFileId":110042,"metaUuid":null},
 {"nexusFileName":"TRM1VF Root Template Overrides","nexusFileVersion":"1.0","nexusFileUploadedAt":1766349798,"pakFileName":"TRM1F_RTO.pak","nexusFileId":110043,"metaUuid":null},
+{"nexusFileName":"TRM1V CC Patch","nexusFileVersion":"1.0","nexusFileUploadedAt":1766768479,"pakFileName":"TRM1_CC.pak","nexusFileId":110399,"metaUuid":null},
+{"nexusFileName":"TRM1VF CC Patch","nexusFileVersion":"1.0","nexusFileUploadedAt":1766768591,"pakFileName":"TRM1F_CC.pak","nexusFileId":110400,"metaUuid":null},
 {"nexusFileName":"TRM1 Vanilla Outfits","nexusFileVersion":"2.0","nexusFileUploadedAt":1768300853,"pakFileName":"TRM1VanillaOutfits.pak","nexusFileId":112083,"metaUuid":"0a3a07e9-e938-4a1a-ac6c-0300cbe31bcb"},
+{"nexusFileName":"TRM1 Tutorial Chest Addon","nexusFileVersion":"1.0","nexusFileUploadedAt":1768300939,"pakFileName":"TRM1_TC.pak","nexusFileId":112085,"metaUuid":null},
 {"nexusFileName":"TRM1 Seldarine Drow Edit","nexusFileVersion":"1.0","nexusFileUploadedAt":1768762247,"pakFileName":"TRM1_Seldarine.pak","nexusFileId":112540,"metaUuid":null},
-{"nexusFileName":"TRM1 NPC Outfits","nexusFileVersion":"1.6","nexusFileUploadedAt":1769041159,"pakFileName":"TRM1NPCOutfits.pak","nexusFileId":112872,"metaUuid":null}
+{"nexusFileName":"TRM1 NPC Outfits","nexusFileVersion":"1.7","nexusFileUploadedAt":1784580477,"pakFileName":"TRM1NPCOutfits.pak","nexusFileId":126096,"metaUuid":null}
 ]},
 "20239":{"nexusModName":"Vespena Armor","nexusUploadedBy":"AyuroArt","nexusModId":20239,"paks":[
 {"nexusFileName":"Ayu_Vespena","nexusFileVersion":"1.1","nexusFileUploadedAt":1767481895,"pakFileName":"AYU_BDO_Vespena_1efcedea-8198-dec4-c01d-398d79ac96a3.pak","nexusFileId":111035,"metaUuid":"1efcedea-8198-dec4-c01d-398d79ac96a3"}
@@ -60101,7 +60104,8 @@
 {"nexusFileName":"PooldrippEvolved","nexusFileVersion":"1.1.3.0","nexusFileUploadedAt":1783683657,"pakFileName":"PooldrippEvolved_ee953702-9f2a-ea1f-5618-e90d6f1dd2c4.pak","nexusFileId":125338,"metaUuid":"ee953702-9f2a-ea1f-5618-e90d6f1dd2c4"}
 ]},
 "21344":{"nexusModName":"Prismortalis - A Dark-Fantasy Spellblade","nexusUploadedBy":"nvlliel","nexusModId":21344,"paks":[
-{"nexusFileName":"Prismortalis - A Dark-Fantasy Spellblade","nexusFileVersion":"5.5.0","nexusFileUploadedAt":1784513808,"pakFileName":"Prismortalis_5a28cde7-cff0-e977-dc6d-17244faeaa8c.pak","nexusFileId":126051,"metaUuid":"5a28cde7-cff0-e977-dc6d-17244faeaa8c"}
+{"nexusFileName":"Prismortalis - A Dark-Fantasy Spellblade","nexusFileVersion":"5.5.0.1","nexusFileUploadedAt":1784578461,"pakFileName":"Prismortalis_5a28cde7-cff0-e977-dc6d-17244faeaa8c.pak","nexusFileId":126093,"metaUuid":"5a28cde7-cff0-e977-dc6d-17244faeaa8c"},
+{"nexusFileName":"Prismortalis - Feats Every Two Levels","nexusFileVersion":"1.0.0.1","nexusFileUploadedAt":1784578982,"pakFileName":"PrismortalisFeatsEvery2Levels_a230221a-2a95-a352-bedb-d13b30a5e412.pak","nexusFileId":126094,"metaUuid":null}
 ]},
 "21345":{"nexusModName":"Marksman - A Gunslinger class for Korean","nexusUploadedBy":"Eolaloe","nexusModId":21345,"paks":[
 {"nexusFileName":"Marksman - A Gunslinger class for Korean","nexusFileVersion":"1.2.1.0","nexusFileUploadedAt":1782326055,"pakFileName":"Marksman_Class_kr.pak","nexusFileId":124220,"metaUuid":null}
@@ -63336,7 +63340,7 @@
 {"nexusFileName":"Fatebond","nexusFileVersion":"1.4","nexusFileUploadedAt":1784576306,"pakFileName":"Fatebond.pak","nexusFileId":126087,"metaUuid":"6cfead1f-d54c-4dfb-bc94-05e9fc1e2970"}
 ]},
 "22459":{"nexusModName":"DnD 5.5e All-in-One BEYOND Russian Localization","nexusUploadedBy":"XapcT","nexusModId":22459,"paks":[
-{"nexusFileName":"DnD 5.5e AIO Russian v0.3.144.zip","nexusFileVersion":"0.3.144","nexusFileUploadedAt":1784495853,"pakFileName":"DnD 5.5e AIO Russian.pak","nexusFileId":126036,"metaUuid":null}
+{"nexusFileName":"DnD 5.5e AIO Russian v0.3.145.zip","nexusFileVersion":"0.3.145","nexusFileUploadedAt":1784577754,"pakFileName":"DnD 5.5e AIO Russian.pak","nexusFileId":126092,"metaUuid":null}
 ]},
 "22460":{"nexusModName":"Elementally Based Gear","nexusUploadedBy":"Useyourrifle","nexusModId":22460,"paks":[
 {"nexusFileName":"Elemental_Gear.7z","nexusFileVersion":"1","nexusFileUploadedAt":1776346340,"pakFileName":"OP_Bow_56032304-f037-e077-f5e7-045d2e03ef1c.pak","nexusFileId":119147,"metaUuid":"56032304-f037-e077-f5e7-045d2e03ef1c"}
@@ -67001,7 +67005,7 @@
 {"nexusFileName":"Allandra","nexusFileVersion":"1","nexusFileUploadedAt":1784477755,"pakFileName":"AllandraO_50c75c95-6c83-4fbf-551f-7a6861ac3dae.pak","nexusFileId":126013,"metaUuid":null}
 ]},
 "23955":{"nexusModName":"Gnome Beauties Head Pack","nexusUploadedBy":"manuliparoni","nexusModId":23955,"paks":[
-{"nexusFileName":"Gnome Beauties","nexusFileVersion":"1","nexusFileUploadedAt":1784482650,"pakFileName":"Gnome_Beauties.pak","nexusFileId":126018,"metaUuid":"f9182f76-936f-4756-a458-d6f0c27c23fe"}
+{"nexusFileName":"Gnome Beauties","nexusFileVersion":"2","nexusFileUploadedAt":1784579003,"pakFileName":"Gnome_Beauties.pak","nexusFileId":126095,"metaUuid":"f9182f76-936f-4756-a458-d6f0c27c23fe"}
 ]},
 "23958":{"nexusModName":"Sanctuary - Cooldown Rebalance","nexusUploadedBy":"Reveurr","nexusModId":23958,"paks":[
 {"nexusFileName":"Sanctuary Blocked 2 Turns","nexusFileVersion":"1","nexusFileUploadedAt":1784491003,"pakFileName":"SanctuaryBlocked2Turns_e8360dd8-6e1c-2766-679c-0ff9299956f5.pak","nexusFileId":126025,"metaUuid":null},
@@ -67030,4 +67034,7 @@
 ]},
 "23971":{"nexusModName":"Grant Flight - Ritual Spell","nexusUploadedBy":"Reveurr","nexusModId":23971,"paks":[
 {"nexusFileName":"Grant Flight Ritual","nexusFileVersion":"1","nexusFileUploadedAt":1784576324,"pakFileName":"GrantFlightRitual_9787c81d-a3d7-e274-734f-64d7d3689210.pak","nexusFileId":126088,"metaUuid":null}
+]},
+"23973":{"nexusModName":"Force Weapons","nexusUploadedBy":"Tyranno85","nexusModId":23973,"paks":[
+{"nexusFileName":"Force 509053cc Ea81 B575 C221 7a6f54cc331e","nexusFileVersion":"1","nexusFileUploadedAt":1784580530,"pakFileName":"Force_509053cc-ea81-b575-c221-7a6f54cc331e.pak","nexusFileId":126097,"metaUuid":null}
 ]}}
