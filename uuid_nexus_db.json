@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-07-19T23:51:32.018319+00:00","total_mods":16941},
+{"_meta":{"last_run":"2026-07-20T02:51:48.240148+00:00","total_mods":16940},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -40633,8 +40633,8 @@
 {"nexusFileName":"faerieraceUTAVpatch","nexusFileVersion":"1.0.0.1","nexusFileUploadedAt":1764724311,"pakFileName":"FaerieRaceUTAVPatch.pak","nexusFileId":108727,"metaUuid":null},
 {"nexusFileName":"FaerieFacePatch","nexusFileVersion":"1.0.0.1","nexusFileUploadedAt":1765061037,"pakFileName":"FaerieRaceFacePatch.pak","nexusFileId":109042,"metaUuid":null},
 {"nexusFileName":"Faerie Wing Underwear","nexusFileVersion":"1.0.0.7","nexusFileUploadedAt":1768422375,"pakFileName":"FaerieWings_d51b9505-bf4a-fc3f-4a7f-1ff40a9013a9.pak","nexusFileId":112185,"metaUuid":"d51b9505-bf4a-fc3f-4a7f-1ff40a9013a9"},
-{"nexusFileName":"Faerie Race Main File","nexusFileVersion":"5.1.0.0","nexusFileUploadedAt":1778871785,"pakFileName":"FaerieRace_555b318b-fdc8-a277-5e91-22b22df624a3.pak","nexusFileId":121322,"metaUuid":"555b318b-fdc8-a277-5e91-22b22df624a3"},
-{"nexusFileName":"STAVFaeriePatch","nexusFileVersion":"1.0.0.2","nexusFileUploadedAt":1784330594,"pakFileName":"STAVFaeriePatch_a37ced05-3601-bc95-2b5a-1125df12ecc5.pak","nexusFileId":125873,"metaUuid":null}
+{"nexusFileName":"STAVFaeriePatch","nexusFileVersion":"1.0.0.2","nexusFileUploadedAt":1784330594,"pakFileName":"STAVFaeriePatch_a37ced05-3601-bc95-2b5a-1125df12ecc5.pak","nexusFileId":125873,"metaUuid":null},
+{"nexusFileName":"Faerie Race Main File","nexusFileVersion":"5.1.0.1","nexusFileUploadedAt":1784507752,"pakFileName":"FaerieRace_555b318b-fdc8-a277-5e91-22b22df624a3.pak","nexusFileId":126044,"metaUuid":"555b318b-fdc8-a277-5e91-22b22df624a3"}
 ]},
 "14435":{"nexusModName":"Satan's Templates and Tutorials","nexusUploadedBy":"SatanModding","nexusModId":14435,"paks":[
 {"nexusFileName":"BG3SX_Compatible_ExampleRace","nexusFileVersion":"1","nexusFileUploadedAt":1735299132,"pakFileName":"BG3SX_Compatible_ExampleRace.pak","nexusFileId":82895,"metaUuid":null},
@@ -44702,7 +44702,7 @@
 {"nexusFileName":"PPHB2024 - 5e Spells Patch","nexusFileVersion":"4.0.0","nexusFileUploadedAt":1762069510,"pakFileName":"PaladinPHB2024 5e Spells Patch.pak","nexusFileId":106577,"metaUuid":"36f5a133-f226-4d59-be6b-bb7245f63e52"},
 {"nexusFileName":"zDivine Smite - No Bonus Action Cost","nexusFileVersion":"6.1.0","nexusFileUploadedAt":1777157461,"pakFileName":"PaladinPHB2024 Smite No BA Cost.pak","nexusFileId":119867,"metaUuid":"45af5b6f-c492-4ce4-93d1-dbd54cfa65d0"},
 {"nexusFileName":"PPHB2024 - Summon Undead Patch","nexusFileVersion":"6.2.3","nexusFileUploadedAt":1784222015,"pakFileName":"PaladinPHB2024 Summon Undead Patch.pak","nexusFileId":125780,"metaUuid":null},
-{"nexusFileName":"Paladin and Oaths DnD 5R PHB2024","nexusFileVersion":"6.2.3","nexusFileUploadedAt":1784381485,"pakFileName":"PaladinPHB2024_9b9367cc-77ff-7773-7327-75dd42089bea.pak","nexusFileId":125935,"metaUuid":"9b9367cc-77ff-7773-7327-75dd42089bea"}
+{"nexusFileName":"Paladin and Oaths DnD 5R PHB2024","nexusFileVersion":"6.2.5","nexusFileUploadedAt":1784515424,"pakFileName":"PaladinPHB2024_9b9367cc-77ff-7773-7327-75dd42089bea.pak","nexusFileId":126054,"metaUuid":"9b9367cc-77ff-7773-7327-75dd42089bea"}
 ]},
 "16066":{"nexusModName":"Grave Domain Cleric SubclassCHS","nexusUploadedBy":"yangyangmeiiii","nexusModId":16066,"paks":[
 {"nexusFileName":"Grave Domain Cleric SubclassCHS","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1745557519,"pakFileName":"GraveDomainCHS.pak","nexusFileId":90539,"metaUuid":null}
@@ -60101,7 +60101,7 @@
 {"nexusFileName":"PooldrippEvolved","nexusFileVersion":"1.1.3.0","nexusFileUploadedAt":1783683657,"pakFileName":"PooldrippEvolved_ee953702-9f2a-ea1f-5618-e90d6f1dd2c4.pak","nexusFileId":125338,"metaUuid":"ee953702-9f2a-ea1f-5618-e90d6f1dd2c4"}
 ]},
 "21344":{"nexusModName":"Prismortalis - A Dark-Fantasy Spellblade","nexusUploadedBy":"nvlliel","nexusModId":21344,"paks":[
-{"nexusFileName":"Prismortalis","nexusFileVersion":"5.4.1","nexusFileUploadedAt":1781455354,"pakFileName":"Prismortalis_5a28cde7-cff0-e977-dc6d-17244faeaa8c.pak","nexusFileId":123569,"metaUuid":"5a28cde7-cff0-e977-dc6d-17244faeaa8c"}
+{"nexusFileName":"Prismortalis - A Dark-Fantasy Spellblade","nexusFileVersion":"5.5.0","nexusFileUploadedAt":1784513808,"pakFileName":"Prismortalis_5a28cde7-cff0-e977-dc6d-17244faeaa8c.pak","nexusFileId":126051,"metaUuid":"5a28cde7-cff0-e977-dc6d-17244faeaa8c"}
 ]},
 "21345":{"nexusModName":"Marksman - A Gunslinger class for Korean","nexusUploadedBy":"Eolaloe","nexusModId":21345,"paks":[
 {"nexusFileName":"Marksman - A Gunslinger class for Korean","nexusFileVersion":"1.2.1.0","nexusFileUploadedAt":1782326055,"pakFileName":"Marksman_Class_kr.pak","nexusFileId":124220,"metaUuid":null}
@@ -63901,7 +63901,7 @@
 {"nexusFileName":"Warlock PHB2024 - ScriptExtender Patch","nexusFileVersion":"5.0.0","nexusFileUploadedAt":1784082082,"pakFileName":"Warlock PHB2024 - ScriptExtender Patch.pak","nexusFileId":125665,"metaUuid":"15b1f301-4560-49d3-b553-c67c2e6ff410"},
 {"nexusFileName":"Warlock PHB2024 - 5e Spells And Expansion Patch","nexusFileVersion":"5.0.1","nexusFileUploadedAt":1784084584,"pakFileName":"Warlock PHB2024 - 5e Spells and Expansion Patch.pak","nexusFileId":125667,"metaUuid":"b318d404-af3f-4084-9dc5-df9bed5ca210"},
 {"nexusFileName":"Warlock PHB2024 -  Counterspell Patch","nexusFileVersion":"5.0.2","nexusFileUploadedAt":1784166229,"pakFileName":"Warlock PHB2024 - Counterspell Patch.pak","nexusFileId":125756,"metaUuid":"e5ee3170-eb9c-47fe-b140-7c593f7a5096"},
-{"nexusFileName":"Warlock and Patrons DnD 5R PHB2024","nexusFileVersion":"5.2.1","nexusFileUploadedAt":1784326940,"pakFileName":"WarlockAndPatronsPHB2024_b2f266ab-d569-8fee-1f69-f3f44741bfdf.pak","nexusFileId":125872,"metaUuid":"b2f266ab-d569-8fee-1f69-f3f44741bfdf"}
+{"nexusFileName":"Warlock and Patrons DnD 5R PHB2024","nexusFileVersion":"5.2.2","nexusFileUploadedAt":1784513264,"pakFileName":"WarlockAndPatronsPHB2024_b2f266ab-d569-8fee-1f69-f3f44741bfdf.pak","nexusFileId":126050,"metaUuid":"b2f266ab-d569-8fee-1f69-f3f44741bfdf"}
 ]},
 "22678":{"nexusModName":"Moon Knight  - Reithwin Governor's Armor","nexusUploadedBy":"marten9","nexusModId":22678,"paks":[
 {"nexusFileName":"Moon Knight 1.3","nexusFileVersion":"1.3","nexusFileUploadedAt":1778134002,"pakFileName":"Light_Justiciar_57dfb5d1-4fbd-8a82-1e87-08e7559111f3.pak","nexusFileId":120670,"metaUuid":"57dfb5d1-4fbd-8a82-1e87-08e7559111f3"}
@@ -65393,7 +65393,7 @@
 {"nexusFileName":"Guardian of Faith Fixes","nexusFileVersion":"1.0","nexusFileUploadedAt":1780756324,"pakFileName":"GuardianofFaithFixes.pak","nexusFileId":122914,"metaUuid":"4811f0c0-8086-90e1-e6e9-b77c6f2ea2f8"}
 ]},
 "23237":{"nexusModName":"Home Brew - Comprehensive Reworks (CHS) - Hierot Edition","nexusUploadedBy":"HIEROT","nexusModId":23237,"paks":[
-{"nexusFileName":"HomeBrewComprehensiveReworksCHS Hierot","nexusFileVersion":"9.0.4.2","nexusFileUploadedAt":1783961992,"pakFileName":"HomeBrewComprehensiveReworksCHS-Hierot.pak","nexusFileId":125552,"metaUuid":"02f264e1-cbd1-4376-87d8-cc9e98753e4d"}
+{"nexusFileName":"HomeBrewComprehensiveReworksCHS Hierot","nexusFileVersion":"9.0.5.1","nexusFileUploadedAt":1784515577,"pakFileName":"HomeBrewComprehensiveReworksCHS-Hierot.pak","nexusFileId":126055,"metaUuid":"02f264e1-cbd1-4376-87d8-cc9e98753e4d"}
 ]},
 "23238":{"nexusModName":"Yoga Poses - greet the sun with Astarion","nexusUploadedBy":"HastursQueen","nexusModId":23238,"paks":[
 {"nexusFileName":"YogaPoses","nexusFileVersion":"1","nexusFileUploadedAt":1781400487,"pakFileName":"YogaPoses.pak","nexusFileId":123510,"metaUuid":null}
@@ -66347,7 +66347,7 @@
 {"nexusFileName":"Mellow Harmony for sword bard.","nexusFileVersion":"1.0","nexusFileUploadedAt":1783018345,"pakFileName":"SwordBardMellowHarmony_8d38d234-9f3d-b237-2f38-986f30f2f6dd.pak","nexusFileId":124731,"metaUuid":null}
 ]},
 "23675":{"nexusModName":"Mazzle's MF Radio","nexusUploadedBy":"Mazzle23","nexusModId":23675,"paks":[
-{"nexusFileName":"MF Radio 1.6.0","nexusFileVersion":"1.6.0","nexusFileUploadedAt":1784499720,"pakFileName":"MF_Radio.pak","nexusFileId":126039,"metaUuid":"d9e9fd0b-6a72-4cd2-bdc9-a9cb1dd3efc2"}
+{"nexusFileName":"MF Radio 1.6.2","nexusFileVersion":"1.6.2","nexusFileUploadedAt":1784507608,"pakFileName":"MF_Radio.pak","nexusFileId":126043,"metaUuid":"d9e9fd0b-6a72-4cd2-bdc9-a9cb1dd3efc2"}
 ]},
 "23676":{"nexusModName":"STAV - Universal Automatic Patcher (UAP)","nexusUploadedBy":"Volitio","nexusModId":23676,"paks":[
 {"nexusFileName":"STAV UAP 1.0.0","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1783640867,"pakFileName":"Universal STAV Patcher.pak","nexusFileId":125308,"metaUuid":"a347f848-222b-4cdc-8cba-754ee581d6d9"}
@@ -66987,11 +66987,11 @@
 {"nexusFileName":"Complete Concentration Rework","nexusFileVersion":"1","nexusFileUploadedAt":1784406747,"pakFileName":"Complete Concentration Rework.pak","nexusFileId":125952,"metaUuid":null}
 ]},
 "23943":{"nexusModName":"Astarion Bite Unlimited","nexusUploadedBy":"batuhan12161","nexusModId":23943,"paks":[
-{"nexusFileName":"AstarionsVampireBiteLeveled 1.0.0","nexusFileVersion":"1.1","nexusFileUploadedAt":1784499962,"pakFileName":"AstarionBiteImproved.pak","nexusFileId":126040,"metaUuid":"c5c95eca-f0c6-4f1b-a70f-40f393ceacb1"}
+{"nexusFileName":"AstarionsVampireBiteLeveled 1.0.0","nexusFileVersion":"1.2","nexusFileUploadedAt":1784513891,"pakFileName":"AstarionBiteImproved.pak","nexusFileId":126052,"metaUuid":"c5c95eca-f0c6-4f1b-a70f-40f393ceacb1"}
 ]},
 "23947":{"nexusModName":"Circle of the Sovereign - Spores Druid Overhaul (Levels 6-20)","nexusUploadedBy":"rhinohamster","nexusModId":23947,"paks":[
-{"nexusFileName":"Circle of the Sovereign","nexusFileVersion":"1.1","nexusFileUploadedAt":1784470537,"pakFileName":"CircleOfTheSovereign.pak","nexusFileId":126008,"metaUuid":null},
-{"nexusFileName":"Circle of the Sovereign - Balanced","nexusFileVersion":"1.1","nexusFileUploadedAt":1784470549,"pakFileName":"CircleOfTheSovereign-Balanced.pak","nexusFileId":126009,"metaUuid":null}
+{"nexusFileName":"Circle of the Sovereign - Balanced","nexusFileVersion":"2.2","nexusFileUploadedAt":1784512027,"pakFileName":"CircleOfTheSovereign-Balanced.pak","nexusFileId":126045,"metaUuid":null},
+{"nexusFileName":"Circle of the Sovereign","nexusFileVersion":"2.2","nexusFileUploadedAt":1784512053,"pakFileName":"CircleOfTheSovereign.pak","nexusFileId":126046,"metaUuid":null}
 ]},
 "23952":{"nexusModName":"AutoLoot Alchemical Ingredients","nexusUploadedBy":"ben14142","nexusModId":23952,"paks":[
 {"nexusFileName":"AutoLoot 1.0.0","nexusFileVersion":"1","nexusFileUploadedAt":1784473039,"pakFileName":"AutoLoot_cbcd1a90-6657-7061-472c-2d253a8aac78.pak","nexusFileId":126010,"metaUuid":null}
@@ -67007,6 +67007,10 @@
 {"nexusFileName":"Sanctuary Blocked 3 Turns","nexusFileVersion":"1","nexusFileUploadedAt":1784492538,"pakFileName":"SanctuaryBlocked3Turns_d8b5bedb-938e-3736-4d36-b156561228c6.pak","nexusFileId":126027,"metaUuid":null},
 {"nexusFileName":"Sanctuary Blocked 4 Turns","nexusFileVersion":"1","nexusFileUploadedAt":1784492864,"pakFileName":"SanctuaryBlocked4Turns_766d6fcb-d66f-c9a8-7227-89ad67e56690.pak","nexusFileId":126028,"metaUuid":null},
 {"nexusFileName":"Sanctuary Blocked 5 Turns","nexusFileVersion":"1","nexusFileUploadedAt":1784493094,"pakFileName":"SanctuaryBlocked5Turns_eff45bda-02ac-d085-3b22-b2da4395e75f.pak","nexusFileId":126029,"metaUuid":null}
+]},
+"23959":{"nexusModName":"True Third-Person Camera","nexusUploadedBy":"Relysia","nexusModId":23959,"paks":[
+{"nexusFileName":"True Third-Person Camera (All-In-One) - V1.0","nexusFileVersion":"1","nexusFileUploadedAt":1784512956,"pakFileName":"TrueThirdPersonCameraMCM.pak","nexusFileId":126047,"metaUuid":null},
+{"nexusFileName":"True Third-Person Camera (MCM Addon) - V1.0","nexusFileVersion":"1","nexusFileUploadedAt":1784513101,"pakFileName":"TrueThirdPersonCameraMCM.pak","nexusFileId":126049,"metaUuid":null}
 ]},
 "23960":{"nexusModName":"Diviner's Focus - Divination Wizard Level 4 Feature","nexusUploadedBy":"batuhan12161","nexusModId":23960,"paks":[
 {"nexusFileName":"DivinersFocus 1.0.0","nexusFileVersion":"1","nexusFileUploadedAt":1784502619,"pakFileName":"DivinationFocus.pak","nexusFileId":126041,"metaUuid":null}
