@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-07-20T07:51:44.224978+00:00","total_mods":16940},
+{"_meta":{"last_run":"2026-07-20T08:51:50.853124+00:00","total_mods":16941},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -67002,7 +67002,7 @@
 "23955":{"nexusModName":"Gnome Beauties Head Pack","nexusUploadedBy":"manuliparoni","nexusModId":23955,"paks":[
 {"nexusFileName":"Gnome Beauties","nexusFileVersion":"1","nexusFileUploadedAt":1784482650,"pakFileName":"Gnome_Beauties.pak","nexusFileId":126018,"metaUuid":"f9182f76-936f-4756-a458-d6f0c27c23fe"}
 ]},
-"23958":{"nexusModName":"Sanctuary Spell Nerfed - Increased Cooldown","nexusUploadedBy":"Reveurr","nexusModId":23958,"paks":[
+"23958":{"nexusModName":"Sanctuary - Cooldown Rebalance","nexusUploadedBy":"Reveurr","nexusModId":23958,"paks":[
 {"nexusFileName":"Sanctuary Blocked 2 Turns","nexusFileVersion":"1","nexusFileUploadedAt":1784491003,"pakFileName":"SanctuaryBlocked2Turns_e8360dd8-6e1c-2766-679c-0ff9299956f5.pak","nexusFileId":126025,"metaUuid":null},
 {"nexusFileName":"Sanctuary Blocked 3 Turns","nexusFileVersion":"1","nexusFileUploadedAt":1784492538,"pakFileName":"SanctuaryBlocked3Turns_d8b5bedb-938e-3736-4d36-b156561228c6.pak","nexusFileId":126027,"metaUuid":null},
 {"nexusFileName":"Sanctuary Blocked 4 Turns","nexusFileVersion":"1","nexusFileUploadedAt":1784492864,"pakFileName":"SanctuaryBlocked4Turns_766d6fcb-d66f-c9a8-7227-89ad67e56690.pak","nexusFileId":126028,"metaUuid":null},
@@ -67014,4 +67014,7 @@
 ]},
 "23960":{"nexusModName":"Diviner's Focus - Divination Wizard Level 4 Feature","nexusUploadedBy":"batuhan12161","nexusModId":23960,"paks":[
 {"nexusFileName":"DivinersFocus 1.0.0","nexusFileVersion":"1","nexusFileUploadedAt":1784502619,"pakFileName":"DivinationFocus.pak","nexusFileId":126041,"metaUuid":null}
+]},
+"23965":{"nexusModName":"CombatBodysuit_TheFirstDescendant_ViessaUltimate","nexusUploadedBy":"EvilRecluse","nexusModId":23965,"paks":[
+{"nexusFileName":"CombatBodysuit TheFirstDescendant ViessaUltimate","nexusFileVersion":"1","nexusFileUploadedAt":1784536547,"pakFileName":"CombatBodysuit_TheFirstDescendant_ViessaUltimate.pak","nexusFileId":126059,"metaUuid":null}
 ]}}
