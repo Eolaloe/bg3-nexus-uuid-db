@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-07-20T20:51:30.227211+00:00","total_mods":16946},
+{"_meta":{"last_run":"2026-07-20T21:51:22.752280+00:00","total_mods":16948},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -67029,6 +67029,10 @@
 "23965":{"nexusModName":"CombatBodysuit_TheFirstDescendant_ViessaUltimate","nexusUploadedBy":"EvilRecluse","nexusModId":23965,"paks":[
 {"nexusFileName":"CombatBodysuit TheFirstDescendant ViessaUltimate","nexusFileVersion":"1","nexusFileUploadedAt":1784536547,"pakFileName":"CombatBodysuit_TheFirstDescendant_ViessaUltimate.pak","nexusFileId":126059,"metaUuid":null}
 ]},
+"23968":{"nexusModName":"Shifting Sands - Forgotten Armoury III - Staff and Outfit","nexusUploadedBy":"Lyniara","nexusModId":23968,"paks":[
+{"nexusFileName":"Shifting Sands Staff and Desert Mage outfit","nexusFileVersion":"1.0.0.8","nexusFileUploadedAt":1784580659,"pakFileName":"LYRA_LYN_Sands_Of_Time_1.0.0.8.pak","nexusFileId":126098,"metaUuid":null},
+{"nexusFileName":"Tutorial Chest Addon","nexusFileVersion":"1","nexusFileUploadedAt":1784580784,"pakFileName":"Shifting Sands - Desert Mage - Tut Chest Addon.pak","nexusFileId":126099,"metaUuid":null}
+]},
 "23969":{"nexusModName":"Pentos Gown","nexusUploadedBy":"Elledwyn","nexusModId":23969,"paks":[
 {"nexusFileName":"Targaryen Fashion - Pentos Gown","nexusFileVersion":"1","nexusFileUploadedAt":1784570619,"pakFileName":"TF_Pentos_Gown_8310cf04-28a2-38bb-ca77-614a8448fddd.pak","nexusFileId":126081,"metaUuid":null}
 ]},
@@ -67037,4 +67041,7 @@
 ]},
 "23973":{"nexusModName":"Force Weapons","nexusUploadedBy":"Tyranno85","nexusModId":23973,"paks":[
 {"nexusFileName":"Force 509053cc Ea81 B575 C221 7a6f54cc331e","nexusFileVersion":"1","nexusFileUploadedAt":1784580530,"pakFileName":"Force_509053cc-ea81-b575-c221-7a6f54cc331e.pak","nexusFileId":126097,"metaUuid":null}
+]},
+"23975":{"nexusModName":"Aegis Class (PT-BR)","nexusUploadedBy":"Firetoga","nexusModId":23975,"paks":[
+{"nexusFileName":"AegisClass (PT-BR)","nexusFileVersion":"4.0.1","nexusFileUploadedAt":1784580911,"pakFileName":"AegisClass_BR.pak","nexusFileId":126100,"metaUuid":null}
 ]}}
