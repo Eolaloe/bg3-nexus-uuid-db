@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-07-20T16:51:38.353949+00:00","total_mods":16943},
+{"_meta":{"last_run":"2026-07-20T17:51:21.171273+00:00","total_mods":16943},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -39603,9 +39603,9 @@
 ]},
 "14032":{"nexusModName":"New Game Plus (NGP)","nexusUploadedBy":"masospaghetti","nexusModId":14032,"paks":[
 {"nexusFileName":"NGP - Part B","nexusFileVersion":"1.05","nexusFileUploadedAt":1777149068,"pakFileName":"NGP_756cd4d2-34a7-dc41-cdb5-01a1313e8b66.pak","nexusFileId":119849,"metaUuid":"756cd4d2-34a7-dc41-cdb5-01a1313e8b66"},
-{"nexusFileName":"NGP - Part A","nexusFileVersion":"1.05","nexusFileUploadedAt":1777149080,"pakFileName":"NewGamePlus.pak","nexusFileId":119850,"metaUuid":"385d83e6-4cf6-4472-afa9-c09868e3014c"},
 {"nexusFileName":"NGP - Part A - Prerelease","nexusFileVersion":"PR1.06","nexusFileUploadedAt":1782082160,"pakFileName":"NewGamePlus.pak","nexusFileId":124031,"metaUuid":"385d83e6-4cf6-4472-afa9-c09868e3014c"},
-{"nexusFileName":"NGP - Part B - Prerelease","nexusFileVersion":"PR1.06","nexusFileUploadedAt":1782449204,"pakFileName":"NGP_756cd4d2-34a7-dc41-cdb5-01a1313e8b66.pak","nexusFileId":124295,"metaUuid":"756cd4d2-34a7-dc41-cdb5-01a1313e8b66"}
+{"nexusFileName":"NGP - Part B - Prerelease","nexusFileVersion":"PR1.06","nexusFileUploadedAt":1782449204,"pakFileName":"NGP_756cd4d2-34a7-dc41-cdb5-01a1313e8b66.pak","nexusFileId":124295,"metaUuid":"756cd4d2-34a7-dc41-cdb5-01a1313e8b66"},
+{"nexusFileName":"NGP - Part A","nexusFileVersion":"1.06","nexusFileUploadedAt":1784569641,"pakFileName":"NewGamePlus.pak","nexusFileId":126079,"metaUuid":"385d83e6-4cf6-4472-afa9-c09868e3014c"}
 ]},
 "14033":{"nexusModName":"The House of Hope Couture - Raphael Korrilla and Yurgir outfits","nexusUploadedBy":"Nikjima","nexusModId":14033,"paks":[
 {"nexusFileName":"The House of Hope Couture","nexusFileVersion":"1.1.0.145","nexusFileUploadedAt":1760392179,"pakFileName":"HouseOfHauteCouture_bd3c3acf-4a0e-ae69-106b-78ba64785ced.pak","nexusFileId":105083,"metaUuid":"bd3c3acf-4a0e-ae69-106b-78ba64785ced"}
@@ -58484,10 +58484,10 @@
 "20760":{"nexusModName":"Astarion - Vampire in the RAW","nexusUploadedBy":"MaxStrengthWizard","nexusModId":20760,"paks":[
 {"nexusFileName":"Ascendant OP Buff","nexusFileVersion":"2.0.0.0","nexusFileUploadedAt":1768947208,"pakFileName":"Ascendant OP Buff.pak","nexusFileId":112759,"metaUuid":"c1891217-c978-4f90-a409-0a7d78dcee51"},
 {"nexusFileName":"Astarion Sunlight Hypersensitivity","nexusFileVersion":"1.0.0.5","nexusFileUploadedAt":1768947231,"pakFileName":"Astarion Sunlight Hypersensitivity.pak","nexusFileId":112760,"metaUuid":null},
-{"nexusFileName":"Astarion Sunlight Sensitivity","nexusFileVersion":"1.0.0.5","nexusFileUploadedAt":1768947250,"pakFileName":"Astarion Sunlight Sensitivity.pak","nexusFileId":112761,"metaUuid":null},
-{"nexusFileName":"Astarion Yaaas Claws","nexusFileVersion":"1.0.0.5","nexusFileUploadedAt":1768947304,"pakFileName":"Astarion Yaaas Claws.pak","nexusFileId":112763,"metaUuid":"f8091bb7-a4c8-44a7-9828-0c940f01e509"},
-{"nexusFileName":"Vampires RAW","nexusFileVersion":"2.0.0.1","nexusFileUploadedAt":1769185044,"pakFileName":"Vampires RAW.pak","nexusFileId":113027,"metaUuid":"e89d08e0-f4ac-4108-a10d-e03ebcbdcd1e"},
-{"nexusFileName":"Astarion True Undead","nexusFileVersion":"1.1.0.5","nexusFileUploadedAt":1770248938,"pakFileName":"Astarion True Undead.pak","nexusFileId":114146,"metaUuid":"d551d33c-9974-4e55-aa74-e8156f78767d"}
+{"nexusFileName":"Astarion Sunlight Sensitivity","nexusFileVersion":"1.0.7","nexusFileUploadedAt":1784567560,"pakFileName":"Astarion Sunlight Sensitivity.pak","nexusFileId":126075,"metaUuid":null},
+{"nexusFileName":"Astarion True Undead","nexusFileVersion":"1.1.7","nexusFileUploadedAt":1784567580,"pakFileName":"Astarion True Undead.pak","nexusFileId":126076,"metaUuid":"d551d33c-9974-4e55-aa74-e8156f78767d"},
+{"nexusFileName":"Astarion Yaaas Claws","nexusFileVersion":"1.0.7","nexusFileUploadedAt":1784567599,"pakFileName":"Astarion Yaaas Claws.pak","nexusFileId":126077,"metaUuid":"f8091bb7-a4c8-44a7-9828-0c940f01e509"},
+{"nexusFileName":"Vampires RAW","nexusFileVersion":"2.0.3","nexusFileUploadedAt":1784567644,"pakFileName":"Vampires RAW.pak","nexusFileId":126078,"metaUuid":"e89d08e0-f4ac-4108-a10d-e03ebcbdcd1e"}
 ]},
 "20762":{"nexusModName":"Worn Traveler's Attire","nexusUploadedBy":"Elledwyn","nexusModId":20762,"paks":[
 {"nexusFileName":"TealRabbit's (Trans)Masculine Body 1 (TRM1)","nexusFileVersion":"1.0.0.16","nexusFileUploadedAt":1768844208,"pakFileName":"Elle_Worn_Travelers_Attire_TRM1.pak","nexusFileId":112606,"metaUuid":null},
