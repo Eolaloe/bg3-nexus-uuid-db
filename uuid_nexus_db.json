@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-07-20T17:51:21.171273+00:00","total_mods":16943},
+{"_meta":{"last_run":"2026-07-20T18:51:16.320452+00:00","total_mods":16944},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -39602,10 +39602,10 @@
 {"nexusFileName":"Femme Githyanki Heads","nexusFileVersion":"1","nexusFileUploadedAt":1732772264,"pakFileName":"Femme Githyanki Heads.pak","nexusFileId":80301,"metaUuid":"d202a367-80d9-4e05-a71f-3640e8003134"}
 ]},
 "14032":{"nexusModName":"New Game Plus (NGP)","nexusUploadedBy":"masospaghetti","nexusModId":14032,"paks":[
-{"nexusFileName":"NGP - Part B","nexusFileVersion":"1.05","nexusFileUploadedAt":1777149068,"pakFileName":"NGP_756cd4d2-34a7-dc41-cdb5-01a1313e8b66.pak","nexusFileId":119849,"metaUuid":"756cd4d2-34a7-dc41-cdb5-01a1313e8b66"},
 {"nexusFileName":"NGP - Part A - Prerelease","nexusFileVersion":"PR1.06","nexusFileUploadedAt":1782082160,"pakFileName":"NewGamePlus.pak","nexusFileId":124031,"metaUuid":"385d83e6-4cf6-4472-afa9-c09868e3014c"},
 {"nexusFileName":"NGP - Part B - Prerelease","nexusFileVersion":"PR1.06","nexusFileUploadedAt":1782449204,"pakFileName":"NGP_756cd4d2-34a7-dc41-cdb5-01a1313e8b66.pak","nexusFileId":124295,"metaUuid":"756cd4d2-34a7-dc41-cdb5-01a1313e8b66"},
-{"nexusFileName":"NGP - Part A","nexusFileVersion":"1.06","nexusFileUploadedAt":1784569641,"pakFileName":"NewGamePlus.pak","nexusFileId":126079,"metaUuid":"385d83e6-4cf6-4472-afa9-c09868e3014c"}
+{"nexusFileName":"NGP - Part A","nexusFileVersion":"1.06","nexusFileUploadedAt":1784569641,"pakFileName":"NewGamePlus.pak","nexusFileId":126079,"metaUuid":"385d83e6-4cf6-4472-afa9-c09868e3014c"},
+{"nexusFileName":"NGP - Part B","nexusFileVersion":"1.06","nexusFileUploadedAt":1784569909,"pakFileName":"NGP_756cd4d2-34a7-dc41-cdb5-01a1313e8b66.pak","nexusFileId":126080,"metaUuid":"756cd4d2-34a7-dc41-cdb5-01a1313e8b66"}
 ]},
 "14033":{"nexusModName":"The House of Hope Couture - Raphael Korrilla and Yurgir outfits","nexusUploadedBy":"Nikjima","nexusModId":14033,"paks":[
 {"nexusFileName":"The House of Hope Couture","nexusFileVersion":"1.1.0.145","nexusFileUploadedAt":1760392179,"pakFileName":"HouseOfHauteCouture_bd3c3acf-4a0e-ae69-106b-78ba64785ced.pak","nexusFileId":105083,"metaUuid":"bd3c3acf-4a0e-ae69-106b-78ba64785ced"}
@@ -44663,9 +44663,9 @@
 {"nexusFileName":"Heavy Armor Addon","nexusFileVersion":"1.1.2","nexusFileUploadedAt":1746374323,"pakFileName":"KimerAardi_BattlemasterArmour_HA_c9657463-ee09-4056-bd5b-c1b60fca0524.pak","nexusFileId":91721,"metaUuid":null},
 {"nexusFileName":"No Tassets Addon","nexusFileVersion":"1.1.2","nexusFileUploadedAt":1746374390,"pakFileName":"KimerAardi_BattlemasterArmour_NT_71e7a757-a3d7-4f47-b8c5-0dd86c65317f.pak","nexusFileId":91723,"metaUuid":null},
 {"nexusFileName":"Divine Champion's set","nexusFileVersion":"1.1.4.1","nexusFileUploadedAt":1777221266,"pakFileName":"KimerAardi_BattlemasterArmour_DC_dcd1e613-d862-498e-8d21-c280dc3f6e5e.pak","nexusFileId":119938,"metaUuid":"dcd1e613-d862-498e-8d21-c280dc3f6e5e"},
-{"nexusFileName":"Remake of paladin's starting equipment","nexusFileVersion":"1.1.5","nexusFileUploadedAt":1784486706,"pakFileName":"KimerAardi_BattlemasterArmour_b5070985-c9e7-d383-9665-0890dc72209a.pak","nexusFileId":126019,"metaUuid":"b5070985-c9e7-d383-9665-0890dc72209a"},
 {"nexusFileName":"No Plume Addon","nexusFileVersion":"1.1.5","nexusFileUploadedAt":1784486734,"pakFileName":"KimerAardi_BattlemasterArmour_NP_bee1a551-060b-431b-a526-585dd9d2bea7.pak","nexusFileId":126020,"metaUuid":null},
-{"nexusFileName":"Tutorial Chest Addon","nexusFileVersion":"1.1.5","nexusFileUploadedAt":1784486759,"pakFileName":"KimerAardi_BattlemasterArmour_TUT_e6966b82-1835-4cc7-b130-61dd8c5427df.pak","nexusFileId":126021,"metaUuid":null}
+{"nexusFileName":"Tutorial Chest Addon","nexusFileVersion":"1.1.5","nexusFileUploadedAt":1784486759,"pakFileName":"KimerAardi_BattlemasterArmour_TUT_e6966b82-1835-4cc7-b130-61dd8c5427df.pak","nexusFileId":126021,"metaUuid":null},
+{"nexusFileName":"Remake of paladin's starting equipment","nexusFileVersion":"1.1.5.1","nexusFileUploadedAt":1784570778,"pakFileName":"KimerAardi_BattlemasterArmour_b5070985-c9e7-d383-9665-0890dc72209a.pak","nexusFileId":126082,"metaUuid":"b5070985-c9e7-d383-9665-0890dc72209a"}
 ]},
 "16054":{"nexusModName":"Find Familiar Owlbear Cub CN","nexusUploadedBy":"chareloy","nexusModId":16054,"paks":[
 {"nexusFileName":"8b","nexusFileVersion":"8b","nexusFileUploadedAt":1745518391,"pakFileName":"summonableowlbearcub_CN.pak","nexusFileId":90492,"metaUuid":null}
@@ -66104,7 +66104,8 @@
 {"nexusFileName":"Karlach Yassified 2.0","nexusFileVersion":"2","nexusFileUploadedAt":1782753760,"pakFileName":"yesskarr.pak","nexusFileId":124546,"metaUuid":null},
 {"nexusFileName":"Jaheira Yassified 2.0","nexusFileVersion":"2","nexusFileUploadedAt":1782753811,"pakFileName":"yessjahh.pak","nexusFileId":124547,"metaUuid":null},
 {"nexusFileName":"Mizora Yassified 2.0","nexusFileVersion":"2","nexusFileUploadedAt":1782890232,"pakFileName":"yessmizz.pak","nexusFileId":124627,"metaUuid":null},
-{"nexusFileName":"Lae'zel Yassified 4.0","nexusFileVersion":"4","nexusFileUploadedAt":1782972445,"pakFileName":"yesslazz.pak","nexusFileId":124704,"metaUuid":null}
+{"nexusFileName":"Lae'zel Yassified 4.0","nexusFileVersion":"4","nexusFileUploadedAt":1782972445,"pakFileName":"yesslazz.pak","nexusFileId":124704,"metaUuid":null},
+{"nexusFileName":"Lesser Mizora Yassified","nexusFileVersion":"1","nexusFileUploadedAt":1784571075,"pakFileName":"yessmizz.pak","nexusFileId":126083,"metaUuid":null}
 ]},
 "23580":{"nexusModName":"Kur'leth (Klingon Shortsword)","nexusUploadedBy":"haytur","nexusModId":23580,"paks":[
 {"nexusFileName":"Kurleth","nexusFileVersion":"1.0R","nexusFileUploadedAt":1782536776,"pakFileName":"Kurleth.pak","nexusFileId":124357,"metaUuid":"bb755824-762b-10ed-0779-78a5ca72955d"}
@@ -67023,4 +67024,7 @@
 ]},
 "23965":{"nexusModName":"CombatBodysuit_TheFirstDescendant_ViessaUltimate","nexusUploadedBy":"EvilRecluse","nexusModId":23965,"paks":[
 {"nexusFileName":"CombatBodysuit TheFirstDescendant ViessaUltimate","nexusFileVersion":"1","nexusFileUploadedAt":1784536547,"pakFileName":"CombatBodysuit_TheFirstDescendant_ViessaUltimate.pak","nexusFileId":126059,"metaUuid":null}
+]},
+"23969":{"nexusModName":"Pentos Gown","nexusUploadedBy":"Elledwyn","nexusModId":23969,"paks":[
+{"nexusFileName":"Targaryen Fashion - Pentos Gown","nexusFileVersion":"1","nexusFileUploadedAt":1784570619,"pakFileName":"TF_Pentos_Gown_8310cf04-28a2-38bb-ca77-614a8448fddd.pak","nexusFileId":126081,"metaUuid":null}
 ]}}
