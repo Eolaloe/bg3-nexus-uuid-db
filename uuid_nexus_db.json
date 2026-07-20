@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-07-20T21:51:22.752280+00:00","total_mods":16948},
+{"_meta":{"last_run":"2026-07-20T22:51:22.463137+00:00","total_mods":16949},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -58335,7 +58335,7 @@
 {"nexusFileName":"Display Status Immunities - ES","nexusFileVersion":"2","nexusFileUploadedAt":1769490982,"pakFileName":"DisplayStatusImmunitiesSpanish.pak","nexusFileId":113340,"metaUuid":null}
 ]},
 "20708":{"nexusModName":"Midsize BT1 Custom Body","nexusUploadedBy":"Haarlepspup","nexusModId":20708,"paks":[
-{"nexusFileName":"Midsize Clothes Chest","nexusFileVersion":"1.0.1","nexusFileUploadedAt":1776368121,"pakFileName":"Midsize_BT1.pak","nexusFileId":119189,"metaUuid":null}
+{"nexusFileName":"Midsize Clothes Chest","nexusFileVersion":"1.0.2","nexusFileUploadedAt":1784586479,"pakFileName":"Midsize_BT1.pak","nexusFileId":126102,"metaUuid":null}
 ]},
 "20709":{"nexusModName":"Necromancer Warlock - The Dread Overlord - Hotfix 35 Compatible for Korean","nexusUploadedBy":"Eolaloe","nexusModId":20709,"paks":[
 {"nexusFileName":"Necromancer Warlock-The Dread Overlord for Korean","nexusFileVersion":"9.11","nexusFileUploadedAt":1770786932,"pakFileName":"DreadOverlord_kr.pak","nexusFileId":114572,"metaUuid":null}
@@ -63606,7 +63606,8 @@
 {"nexusFileName":"ShadarKai ES","nexusFileVersion":"1","nexusFileUploadedAt":1777110901,"pakFileName":"ShadarKai_ES.pak","nexusFileId":119823,"metaUuid":null}
 ]},
 "22557":{"nexusModName":"Adventuring and Expansion of rest System","nexusUploadedBy":"TimeReprise","nexusModId":22557,"paks":[
-{"nexusFileName":"Apcs RestSystem","nexusFileVersion":"2.5","nexusFileUploadedAt":1781865822,"pakFileName":"apcs_RestSystem.pak","nexusFileId":123874,"metaUuid":null}
+{"nexusFileName":"Apcs RestSystem","nexusFileVersion":"3","nexusFileUploadedAt":1784586923,"pakFileName":"apcs_RestSystem.pak","nexusFileId":126103,"metaUuid":null},
+{"nexusFileName":"Apcs RestSystem NoSupplyPacks","nexusFileVersion":"3","nexusFileUploadedAt":1784586984,"pakFileName":"apcs_RestSystem_NoSupplyPacks.pak","nexusFileId":126104,"metaUuid":null}
 ]},
 "22558":{"nexusModName":"Ultimate Tactical AI Companions","nexusUploadedBy":"Vercadi","nexusModId":22558,"paks":[
 {"nexusFileName":"Ultimate Tactical AI Companions v1.1.3","nexusFileVersion":"1.1.3","nexusFileUploadedAt":1779117839,"pakFileName":"UTAC.pak","nexusFileId":121582,"metaUuid":"300fb883-8af8-4be9-a101-171b56698dc5"}
@@ -67041,6 +67042,9 @@
 ]},
 "23973":{"nexusModName":"Force Weapons","nexusUploadedBy":"Tyranno85","nexusModId":23973,"paks":[
 {"nexusFileName":"Force 509053cc Ea81 B575 C221 7a6f54cc331e","nexusFileVersion":"1","nexusFileUploadedAt":1784580530,"pakFileName":"Force_509053cc-ea81-b575-c221-7a6f54cc331e.pak","nexusFileId":126097,"metaUuid":"509053cc-ea81-b575-c221-7a6f54cc331e"}
+]},
+"23974":{"nexusModName":"Echoes in the Sand Poses","nexusUploadedBy":"MadMicky10","nexusModId":23974,"paks":[
+{"nexusFileName":"MadMicky Echos In The Sand Poses","nexusFileVersion":"1","nexusFileUploadedAt":1784585318,"pakFileName":"Echos_in_the_Sand__876823ba-2984-96ef-aee2-3bfc0f833b1f.pak","nexusFileId":126101,"metaUuid":null}
 ]},
 "23975":{"nexusModName":"Aegis Class (PT-BR)","nexusUploadedBy":"Firetoga","nexusModId":23975,"paks":[
 {"nexusFileName":"AegisClass (PT-BR)","nexusFileVersion":"4.0.1","nexusFileUploadedAt":1784580911,"pakFileName":"AegisClass_BR.pak","nexusFileId":126100,"metaUuid":null}
