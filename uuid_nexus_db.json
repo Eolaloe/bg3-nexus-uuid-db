@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-07-21T14:52:36.400291+00:00","total_mods":16955},
+{"_meta":{"last_run":"2026-07-21T15:53:33.605061+00:00","total_mods":16956},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -38601,7 +38601,8 @@
 {"nexusFileName":"(Accessory) Wings Character Customization (15257)","nexusFileVersion":"compatibility-3.2","nexusFileUploadedAt":1780612661,"pakFileName":"Wings Character Customization - WCC @SN.pak","nexusFileId":122807,"metaUuid":null},
 {"nexusFileName":"(Hair) LM Hairstyles (patreon. free)","nexusFileVersion":"compatibility-3.2","nexusFileUploadedAt":1780678354,"pakFileName":"PK_Hair_Pack_2 @SN.pak","nexusFileId":122858,"metaUuid":null},
 {"nexusFileName":"(Face) Painterly Presets - Heads For CC (21670)","nexusFileVersion":"compatibility-3.2","nexusFileUploadedAt":1781427847,"pakFileName":"Painterly Heads (BT1) @SN.pak","nexusFileId":123533,"metaUuid":null},
-{"nexusFileName":"Beyond Simple Nymph","nexusFileVersion":"2.3.11.517","nexusFileUploadedAt":1781886154,"pakFileName":"SimpleNymph.pak","nexusFileId":123890,"metaUuid":"04c29312-0713-b84c-76a8-0598dbda7927"}
+{"nexusFileName":"Beyond Simple Nymph","nexusFileVersion":"2.3.11.517","nexusFileUploadedAt":1781886154,"pakFileName":"SimpleNymph.pak","nexusFileId":123890,"metaUuid":"04c29312-0713-b84c-76a8-0598dbda7927"},
+{"nexusFileName":"(Face) Bambi's Liz VAMP (17036)","nexusFileVersion":"3.2","nexusFileUploadedAt":1784648632,"pakFileName":"Bambi's Liz (VAMP) @SN.pak","nexusFileId":126147,"metaUuid":null}
 ]},
 "13683":{"nexusModName":"LeggyEquip_SHV_CHS","nexusUploadedBy":"shenshengxuweiduo","nexusModId":13683,"paks":[
 {"nexusFileName":"LeggyEquip_SHV_CHS","nexusFileVersion":"1.1.1.0","nexusFileUploadedAt":1731085821,"pakFileName":"LeggyEquip_SHV_CHS.pak","nexusFileId":78260,"metaUuid":"b83f0798-86d1-4681-b6c1-3819805ef34f"}
@@ -61486,7 +61487,7 @@
 {"nexusFileName":"E. The Gunslinger Warlock Invocations Addon","nexusFileVersion":"1.0.0.1","nexusFileUploadedAt":1780540932,"pakFileName":"TheGunslingerWarlockInvocations_Addon.pak","nexusFileId":122725,"metaUuid":"6fa28431-31c2-4bc0-b8f8-1d18cf65a4f9"},
 {"nexusFileName":"D. Rebalance Feats Compatibility","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1781445565,"pakFileName":"TheGunslinger-RebalanceFeatsCompatibility.pak","nexusFileId":123546,"metaUuid":null},
 {"nexusFileName":"B. The Gunslinger Addon Revolver OffHand","nexusFileVersion":"2.0.0.6","nexusFileUploadedAt":1784352419,"pakFileName":"TheGunslingerOffHandAddon_db9c5c90-6f70-f07a-153e-d873fc5f803d.pak","nexusFileId":125916,"metaUuid":null},
-{"nexusFileName":"The Gunslinger Class (ENG-KOR)","nexusFileVersion":"3.0.0.1","nexusFileUploadedAt":1784640439,"pakFileName":"TheGunslinger_1f2b82d7-19c8-734b-5f43-05d57d3e7601.pak","nexusFileId":126136,"metaUuid":"1f2b82d7-19c8-734b-5f43-05d57d3e7601"}
+{"nexusFileName":"The Gunslinger Class (ENG-KOR)","nexusFileVersion":"3.0.0.2","nexusFileUploadedAt":1784646415,"pakFileName":"TheGunslinger_1f2b82d7-19c8-734b-5f43-05d57d3e7601.pak","nexusFileId":126145,"metaUuid":"1f2b82d7-19c8-734b-5f43-05d57d3e7601"}
 ]},
 "21796":{"nexusModName":"Em's Misc Head Collection","nexusUploadedBy":"emsthings","nexusModId":21796,"paks":[
 {"nexusFileName":"Em's Head Collection","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1772951131,"pakFileName":"Ems_Heads_41f62b28-72fa-cd43-2b54-e521a962a342.pak","nexusFileId":116314,"metaUuid":null}
@@ -67067,4 +67068,7 @@
 ]},
 "23984":{"nexusModName":"The Gardener","nexusUploadedBy":"swissfred","nexusModId":23984,"paks":[
 {"nexusFileName":"The Gardener","nexusFileVersion":"6.0.8.0","nexusFileUploadedAt":1784640927,"pakFileName":"TheGardener_128118f1-f92e-09ca-0c75-661ca8b3072d.pak","nexusFileId":126138,"metaUuid":null}
+]},
+"23985":{"nexusModName":"The Bunny Outfit By REN","nexusUploadedBy":"DarthRen","nexusModId":23985,"paks":[
+{"nexusFileName":"BunnyOutfitByREN","nexusFileVersion":"1","nexusFileUploadedAt":1784646516,"pakFileName":"BunnyOutfitByREN.pak","nexusFileId":126146,"metaUuid":null}
 ]}}
