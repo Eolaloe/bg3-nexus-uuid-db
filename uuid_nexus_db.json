@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-07-21T13:52:42.446959+00:00","total_mods":16955},
+{"_meta":{"last_run":"2026-07-21T14:52:36.400291+00:00","total_mods":16955},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -42207,11 +42207,11 @@
 "15044":{"nexusModName":"Feats Overhaul","nexusUploadedBy":"Cahooots","nexusModId":15044,"paks":[
 {"nexusFileName":"FeatsOverhaul GWMPatch","nexusFileVersion":"1.0.1","nexusFileUploadedAt":1756835448,"pakFileName":"FeatsOverhaul_GWMPatch.pak","nexusFileId":101937,"metaUuid":"393ee939-c4c6-4ed4-a7f7-0cccdbb41a02"},
 {"nexusFileName":"FeatsOverhaul ListoPatch","nexusFileVersion":"1.1.3","nexusFileUploadedAt":1761192206,"pakFileName":"FeatsOverhaul_ListoPatch.pak","nexusFileId":105830,"metaUuid":"ac9b0904-9eb2-4048-9a2a-4ef9932e1e98"},
-{"nexusFileName":"FeatsOverhaul RangedWeaponsRebalancePatch","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1763768994,"pakFileName":"FeatsOverhaul_RangedWeaponsRebalancePatch.pak","nexusFileId":107875,"metaUuid":"0a8a9f67-ac60-4cb1-8acb-1976c66b085d"},
 {"nexusFileName":"FeatsOverhaul AlertPatch","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1776444848,"pakFileName":"FeatsOverhaul_AlertPatch.pak","nexusFileId":119293,"metaUuid":"7da6084a-0837-4964-9da8-872b4f4e8170"},
 {"nexusFileName":"FeatsOverhaul HitDicePatch","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1779231272,"pakFileName":"FeatsOverhaul_HitDicePatch.pak","nexusFileId":121718,"metaUuid":"19edd084-c1bd-4042-a9f1-61a7817448d1"},
 {"nexusFileName":"FeatsOverhaul DualWielderPatch","nexusFileVersion":"1.0.2","nexusFileUploadedAt":1780003994,"pakFileName":"FeatsOverhaul_DualWielderPatch.pak","nexusFileId":122374,"metaUuid":"f1f0cb96-009b-40fa-b309-fcd26124bcb9"},
-{"nexusFileName":"FeatsOverhaul","nexusFileVersion":"1.5.12","nexusFileUploadedAt":1784465367,"pakFileName":"FeatsOverhaul.pak","nexusFileId":126003,"metaUuid":"c2f1a230-8c0c-481b-9ab2-987e27d7db05"}
+{"nexusFileName":"FeatsOverhaul","nexusFileVersion":"1.5.13","nexusFileUploadedAt":1784642147,"pakFileName":"FeatsOverhaul.pak","nexusFileId":126139,"metaUuid":"c2f1a230-8c0c-481b-9ab2-987e27d7db05"},
+{"nexusFileName":"FeatsOverhaul RangedWeaponsRebalancePatch","nexusFileVersion":"1.0.1","nexusFileUploadedAt":1784642162,"pakFileName":"FeatsOverhaul_RangedWeaponsRebalancePatch.pak","nexusFileId":126140,"metaUuid":"0a8a9f67-ac60-4cb1-8acb-1976c66b085d"}
 ]},
 "15045":{"nexusModName":"5e Ranger Subclasses Combined_KOR","nexusUploadedBy":"Ahdarugo","nexusModId":15045,"paks":[
 {"nexusFileName":"5e Ranger Subclasses Combined_KOR","nexusFileVersion":"2.0.0.3","nexusFileUploadedAt":1770134218,"pakFileName":"ranger__6473a445-3c30-7721-47ce-966e72fab1fd.pak","nexusFileId":114048,"metaUuid":"6473a445-3c30-7721-47ce-966e72fab1fd"}
@@ -50849,7 +50849,7 @@
 {"nexusFileName":"Witcher Class-Reborn-20-Level","nexusFileVersion":"2.0.0.99","nexusFileUploadedAt":1784055023,"pakFileName":"Witcher Class.pak","nexusFileId":125638,"metaUuid":"8be1ab10-817c-4fe3-8954-4dc0da81ff55"}
 ]},
 "18260":{"nexusModName":"Scratch Evolved","nexusUploadedBy":"Exaen","nexusModId":18260,"paks":[
-{"nexusFileName":"ScratchEvolved","nexusFileVersion":"1.2.4.0","nexusFileUploadedAt":1781545301,"pakFileName":"ScratchEvolved_3a0b775f-bdc1-1bf2-8b95-df894d25bc3f.pak","nexusFileId":123671,"metaUuid":"3a0b775f-bdc1-1bf2-8b95-df894d25bc3f"}
+{"nexusFileName":"ScratchEvolved","nexusFileVersion":"2.0.0.0","nexusFileUploadedAt":1784645411,"pakFileName":"ScratchEvolved_3a0b775f-bdc1-1bf2-8b95-df894d25bc3f.pak","nexusFileId":126144,"metaUuid":"3a0b775f-bdc1-1bf2-8b95-df894d25bc3f"}
 ]},
 "18262":{"nexusModName":"Better Shortswords","nexusUploadedBy":"KiwiLifter","nexusModId":18262,"paks":[
 {"nexusFileName":"Better Shortswords","nexusFileVersion":"1.0","nexusFileUploadedAt":1755760558,"pakFileName":"BetterShortswords.pak","nexusFileId":101137,"metaUuid":"b7c8406e-6572-4772-8993-a8a4ad3ec783"}
@@ -56896,8 +56896,7 @@
 {"nexusFileName":"Enchantments of Faerun","nexusFileVersion":"1.4.1.0","nexusFileUploadedAt":1768726684,"pakFileName":"ArmorEnchantment_kr.pak","nexusFileId":112503,"metaUuid":"0a98e5f6-edd0-4783-ab4b-4faf16f10d50"}
 ]},
 "20199":{"nexusModName":"Distinctive Arrows of Slaying","nexusUploadedBy":"Roxidium","nexusModId":20199,"paks":[
-{"nexusFileName":"Distinctive Arrows of Slaying","nexusFileVersion":"1.0","nexusFileUploadedAt":1766087751,"pakFileName":"ROX_Arrows_Slaying.pak","nexusFileId":109853,"metaUuid":null},
-{"nexusFileName":"Distinctive Arrows of Slaying","nexusFileVersion":"1.1","nexusFileUploadedAt":1766167661,"pakFileName":"ROX_Arrows_Slaying.pak","nexusFileId":109919,"metaUuid":null}
+{"nexusFileName":"Distinctive Arrows of Slaying","nexusFileVersion":"1.2","nexusFileUploadedAt":1784643731,"pakFileName":"ROX_Arrows_Slaying.pak","nexusFileId":126143,"metaUuid":null}
 ]},
 "20200":{"nexusModName":"Progression Preview - Full Class Progressions Shown Ingame for Korean","nexusUploadedBy":"Eolaloe","nexusModId":20200,"paks":[
 {"nexusFileName":"Progression Preview for Korean","nexusFileVersion":"1.3.0.1","nexusFileUploadedAt":1781095979,"pakFileName":"ProgressionPreview_kr.pak","nexusFileId":123279,"metaUuid":"7edfb141-1422-4ae9-af44-3dce5cb9c9e2"}
