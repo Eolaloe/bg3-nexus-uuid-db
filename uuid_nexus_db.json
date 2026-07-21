@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-07-21T22:52:49.369736+00:00","total_mods":16960},
+{"_meta":{"last_run":"2026-07-21T23:54:14.985710+00:00","total_mods":16964},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -40627,7 +40627,6 @@
 {"nexusFileName":"faerieraceUTAVpatch","nexusFileVersion":"1.0.0.1","nexusFileUploadedAt":1764724311,"pakFileName":"FaerieRaceUTAVPatch.pak","nexusFileId":108727,"metaUuid":null},
 {"nexusFileName":"FaerieFacePatch","nexusFileVersion":"1.0.0.1","nexusFileUploadedAt":1765061037,"pakFileName":"FaerieRaceFacePatch.pak","nexusFileId":109042,"metaUuid":null},
 {"nexusFileName":"Faerie Wing Underwear","nexusFileVersion":"1.0.0.7","nexusFileUploadedAt":1768422375,"pakFileName":"FaerieWings_d51b9505-bf4a-fc3f-4a7f-1ff40a9013a9.pak","nexusFileId":112185,"metaUuid":"d51b9505-bf4a-fc3f-4a7f-1ff40a9013a9"},
-{"nexusFileName":"STAVFaeriePatch","nexusFileVersion":"1.0.0.2","nexusFileUploadedAt":1784330594,"pakFileName":"STAVFaeriePatch_a37ced05-3601-bc95-2b5a-1125df12ecc5.pak","nexusFileId":125873,"metaUuid":null},
 {"nexusFileName":"Faerie Race Main File","nexusFileVersion":"5.1.0.1","nexusFileUploadedAt":1784507752,"pakFileName":"FaerieRace_555b318b-fdc8-a277-5e91-22b22df624a3.pak","nexusFileId":126044,"metaUuid":"555b318b-fdc8-a277-5e91-22b22df624a3"}
 ]},
 "14435":{"nexusModName":"Satan's Templates and Tutorials","nexusUploadedBy":"SatanModding","nexusModId":14435,"paks":[
@@ -60066,7 +60065,7 @@
 {"nexusFileName":"Tyrant Alive - Saving Gortash mod for Korean","nexusFileVersion":"2.0","nexusFileUploadedAt":1771526761,"pakFileName":"gortsuvive_kr.pak","nexusFileId":115156,"metaUuid":"954e59b4-71e0-41b3-ba65-3a9f898a4739"}
 ]},
 "21332":{"nexusModName":"RAW Concentration","nexusUploadedBy":"KaiJai","nexusModId":21332,"paks":[
-{"nexusFileName":"RAW Concentration","nexusFileVersion":"0.1.0.1","nexusFileUploadedAt":1771153764,"pakFileName":"RAWConcentration.pak","nexusFileId":114882,"metaUuid":null}
+{"nexusFileName":"RAW Concentration","nexusFileVersion":"0.1.1.0","nexusFileUploadedAt":1784677052,"pakFileName":"RAWConcentration.pak","nexusFileId":126185,"metaUuid":null}
 ]},
 "21333":{"nexusModName":"Tyrant Alive - Saving Gortash mod for Japanese","nexusUploadedBy":"Eolaloe","nexusModId":21333,"paks":[
 {"nexusFileName":"Tyrant Alive - Saving Gortash mod for Japanese","nexusFileVersion":"2.0","nexusFileUploadedAt":1771526802,"pakFileName":"gortsuvive_jp.pak","nexusFileId":115157,"metaUuid":null}
@@ -67051,6 +67050,9 @@
 "23977":{"nexusModName":"Enchanter - SpellForge Canvas Class","nexusUploadedBy":"Sobekeus","nexusModId":23977,"paks":[
 {"nexusFileName":"Enchanter","nexusFileVersion":"1.0","nexusFileUploadedAt":1784590008,"pakFileName":"Enchanter_a68279e0-ed92-0096-be1d-d2125ba75068.pak","nexusFileId":126106,"metaUuid":null}
 ]},
+"23978":{"nexusModName":"Muscular Dragonborn Body Type 3 and 4 Custom Armors","nexusUploadedBy":"AbrahamtheHeavy","nexusModId":23978,"paks":[
+{"nexusFileName":"Muscular Dragonborn BT 3 and 4 Custom Armors","nexusFileVersion":"1.0.0.2","nexusFileUploadedAt":1784613580,"pakFileName":"MDGB_BT34_Custom_Armors_8d22361b-84f9-04f6-4952-52c8c35995c0.pak","nexusFileId":126115,"metaUuid":null}
+]},
 "23979":{"nexusModName":"Twinblades of the Bickering Gods","nexusUploadedBy":"haytur","nexusModId":23979,"paks":[
 {"nexusFileName":"Khopesh","nexusFileVersion":"1.1","nexusFileUploadedAt":1784652574,"pakFileName":"Khopesh.pak","nexusFileId":126150,"metaUuid":"0b90fcd4-2296-5543-719e-064dde10774d"}
 ]},
@@ -67078,5 +67080,19 @@
 "23991":{"nexusModName":"Tav Epilogue Gear Replacer","nexusUploadedBy":"Seristina","nexusModId":23991,"paks":[
 {"nexusFileName":"TavEpilogueGearReplacer Elanor","nexusFileVersion":"1","nexusFileUploadedAt":1784662380,"pakFileName":"TavEpilogueGearReplacer_Elanor.pak","nexusFileId":126167,"metaUuid":null},
 {"nexusFileName":"TavEpilogueGearReplacer ElenMinya","nexusFileVersion":"1","nexusFileUploadedAt":1784662438,"pakFileName":"TavEpilogueGearReplacer_ElenMinya.pak","nexusFileId":126168,"metaUuid":null},
-{"nexusFileName":"TavEpilogueGearReplacer ArgentisGift","nexusFileVersion":"1","nexusFileUploadedAt":1784672803,"pakFileName":"TavEpilogueGearReplacer_ArgentisGift.pak","nexusFileId":126178,"metaUuid":null}
+{"nexusFileName":"TavEpilogueGearReplacer ArgentisGift","nexusFileVersion":"1","nexusFileUploadedAt":1784672803,"pakFileName":"TavEpilogueGearReplacer_ArgentisGift.pak","nexusFileId":126178,"metaUuid":null},
+{"nexusFileName":"TavEpilogueGearReplacer MoonPearl","nexusFileVersion":"1","nexusFileUploadedAt":1784676147,"pakFileName":"TavEpilogueGearReplacer_MoonPearl.pak","nexusFileId":126183,"metaUuid":null},
+{"nexusFileName":"TavEpilogueGearReplacer MoonPearl Shoes","nexusFileVersion":"1","nexusFileUploadedAt":1784676163,"pakFileName":"TavEpilogueGearReplacer_MoonPearl_Shoes.pak","nexusFileId":126184,"metaUuid":null}
+]},
+"23992":{"nexusModName":"Body and Clothing Morphs for SBBF and BCB (by SerpentineShel)","nexusUploadedBy":"SerpentineShel","nexusModId":23992,"paks":[
+{"nexusFileName":"BodyAndClothingMorph V413 LaunchPackage 20260721","nexusFileVersion":"1","nexusFileUploadedAt":1784672688,"pakFileName":"ClothMorphSCO.pak","nexusFileId":126177,"metaUuid":null},
+{"nexusFileName":"BodyAndClothingMorph V413 LaunchPackage 20260721","nexusFileVersion":"1","nexusFileUploadedAt":1784672688,"pakFileName":"ClothMorphBCB_pilot.pak","nexusFileId":126177,"metaUuid":null},
+{"nexusFileName":"BodyAndClothingMorph V413 LaunchPackage 20260721","nexusFileVersion":"1","nexusFileUploadedAt":1784672688,"pakFileName":"ClothMorphContent.pak","nexusFileId":126177,"metaUuid":null},
+{"nexusFileName":"BodyAndClothingMorph V413 LaunchPackage 20260721","nexusFileVersion":"1","nexusFileUploadedAt":1784672688,"pakFileName":"ClothMorphRuntime.pak","nexusFileId":126177,"metaUuid":null}
+]},
+"23994":{"nexusModName":"Hunter's Crossbow","nexusUploadedBy":"NetRaptor","nexusModId":23994,"paks":[
+{"nexusFileName":"Hunter's Crossbow","nexusFileVersion":"1","nexusFileUploadedAt":1784676136,"pakFileName":"HuntersCrossbow_864a3159-bd3b-6349-8581-5cdc77032593.pak","nexusFileId":126182,"metaUuid":null}
+]},
+"23995":{"nexusModName":"Vampire Race (PT-BR)","nexusUploadedBy":"Firetoga","nexusModId":23995,"paks":[
+{"nexusFileName":"Vampire Race (PT-BR)","nexusFileVersion":"1.0.0.87","nexusFileUploadedAt":1784675941,"pakFileName":"Vampire_Race_BR.pak","nexusFileId":126181,"metaUuid":null}
 ]}}
