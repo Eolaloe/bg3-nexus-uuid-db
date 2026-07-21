@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-07-21T18:53:18.548281+00:00","total_mods":16958},
+{"_meta":{"last_run":"2026-07-21T19:53:13.511630+00:00","total_mods":16958},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -24305,13 +24305,7 @@
 {"nexusFileName":"Lunar Sorcery Sorcerer Subclass - PTBR","nexusFileVersion":"1.2.0.0","nexusFileUploadedAt":1713320247,"pakFileName":"LunarSorceryPTBR.pak","nexusFileId":54002,"metaUuid":null}
 ]},
 "8322":{"nexusModName":"Ring of Golden Recovery","nexusUploadedBy":"Gius00","nexusModId":8322,"paks":[
-{"nexusFileName":"Golden Recovery Plus10","nexusFileVersion":"2.1","nexusFileUploadedAt":1711906707,"pakFileName":"GoldenRecovery+10.pak","nexusFileId":52116,"metaUuid":null},
-{"nexusFileName":"Golden Recovery Plus25","nexusFileVersion":"2.1","nexusFileUploadedAt":1711906852,"pakFileName":"GoldenRecovery+25.pak","nexusFileId":52118,"metaUuid":null},
-{"nexusFileName":"Golden Recovery Plus50","nexusFileVersion":"2.1","nexusFileUploadedAt":1711906902,"pakFileName":"GoldenRecovery+50.pak","nexusFileId":52119,"metaUuid":null},
-{"nexusFileName":"Golden Recovery Plus100","nexusFileVersion":"2.1","nexusFileUploadedAt":1711906955,"pakFileName":"GoldenRecovery+100.pak","nexusFileId":52120,"metaUuid":null},
-{"nexusFileName":"Golden Recovery - Custom","nexusFileVersion":"2.1","nexusFileUploadedAt":1711907025,"pakFileName":"GoldenRecovery-Custom.pak","nexusFileId":52121,"metaUuid":null},
-{"nexusFileName":"Golden Recovery - Free","nexusFileVersion":"2.1","nexusFileUploadedAt":1711907075,"pakFileName":"GoldenRecovery-Free.pak","nexusFileId":52122,"metaUuid":null},
-{"nexusFileName":"Golden Recovery x1.7","nexusFileVersion":"2.2","nexusFileUploadedAt":1712947599,"pakFileName":"GoldenRecovery-x1-7.pak","nexusFileId":53564,"metaUuid":null}
+{"nexusFileName":"Golden Recovery (Configurable)","nexusFileVersion":"3.0","nexusFileUploadedAt":1784660444,"pakFileName":"GoldenRecovery.pak","nexusFileId":126157,"metaUuid":null}
 ]},
 "8324":{"nexusModName":"Savage Caster","nexusUploadedBy":"PrimalFire","nexusModId":8324,"paks":[
 {"nexusFileName":"Savage Caster","nexusFileVersion":"1","nexusFileUploadedAt":1711640687,"pakFileName":"SavageCasterFeat.pak","nexusFileId":51708,"metaUuid":"750a3549-0fe9-4e74-9f86-830aa5ed9c9e"}
@@ -49791,7 +49785,7 @@
 ]},
 "17883":{"nexusModName":"NPCs have Subclasses and Feats (with Sorcerers NPCs)","nexusUploadedBy":"darkynho","nexusModId":17883,"paks":[
 {"nexusFileName":"NPCs have Subclasses","nexusFileVersion":"2.3.0.12","nexusFileUploadedAt":1771847498,"pakFileName":"NPCs have Subclasses.pak","nexusFileId":115457,"metaUuid":"598add30-4903-450b-8cbb-2d558a5eb5c0"},
-{"nexusFileName":"NPCs Have Subclasses - SE Beta version","nexusFileVersion":"3.3","nexusFileUploadedAt":1783877816,"pakFileName":"NPCs have Subclasses - SE.pak","nexusFileId":125490,"metaUuid":"8fc43c5d-fe37-4d51-9cc3-a3840adc21b2"}
+{"nexusFileName":"NPCs Have Subclasses - SE Beta version","nexusFileVersion":"3.4","nexusFileUploadedAt":1784661977,"pakFileName":"NPCs have Subclasses - SE.pak","nexusFileId":126160,"metaUuid":"8fc43c5d-fe37-4d51-9cc3-a3840adc21b2"}
 ]},
 "17884":{"nexusModName":"Armory - Auto-Transmog Vanity Outfit Manager_KOR","nexusUploadedBy":"Ahdarugo","nexusModId":17884,"paks":[
 {"nexusFileName":"Armory_KOR","nexusFileVersion":"1.8","nexusFileUploadedAt":1776484119,"pakFileName":"Armory_KOR.pak","nexusFileId":119332,"metaUuid":null}
@@ -67027,7 +67021,6 @@
 {"nexusFileName":"Npcs Have Subclasses Chs 3c1ba 0fwh","nexusFileVersion":"1","nexusFileUploadedAt":1784548605,"pakFileName":"NPCs_have_Subclasses_CHS_3c1baa36-d2d4-8c39-0046-5028c409d406.pak","nexusFileId":126073,"metaUuid":null}
 ]},
 "23963":{"nexusModName":"Eyes of the Hoarder","nexusUploadedBy":"MiahNelah","nexusModId":23963,"paks":[
-{"nexusFileName":"EyesOfTheHoarder","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1784539773,"pakFileName":"EyesOfTheHoarder-1.0.0.0.pak","nexusFileId":126069,"metaUuid":null},
 {"nexusFileName":"EyesOfTheHoarder","nexusFileVersion":"1.1.0.0","nexusFileUploadedAt":1784655871,"pakFileName":"EyesOfTheHoarder-1.1.0.0.pak","nexusFileId":126152,"metaUuid":null}
 ]},
 "23965":{"nexusModName":"CombatBodysuit_TheFirstDescendant_ViessaUltimate","nexusUploadedBy":"EvilRecluse","nexusModId":23965,"paks":[
@@ -67074,7 +67067,7 @@
 {"nexusFileName":"Interesting Origins CHS","nexusFileVersion":"1","nexusFileUploadedAt":1784649120,"pakFileName":"Interesting Origins CHS.pak","nexusFileId":126148,"metaUuid":null}
 ]},
 "23989":{"nexusModName":"Devil Fruit User Class (Gomu Gomu no Mi)","nexusUploadedBy":"SORRAG","nexusModId":23989,"paks":[
-{"nexusFileName":"Devil Fruit User Class","nexusFileVersion":"1","nexusFileUploadedAt":1784659929,"pakFileName":"DevilFruitUser_38428ec6-e04a-747b-759c-2b2ac3b5e489.pak","nexusFileId":126156,"metaUuid":null}
+{"nexusFileName":"Devil Fruit User Class","nexusFileVersion":"1.1.0","nexusFileUploadedAt":1784659929,"pakFileName":"DevilFruitUser_38428ec6-e04a-747b-759c-2b2ac3b5e489.pak","nexusFileId":126156,"metaUuid":null}
 ]},
 "23990":{"nexusModName":"Ravenloft Subclasses (PT-BR)","nexusUploadedBy":"Firetoga","nexusModId":23990,"paks":[
 {"nexusFileName":"RavenloftSubclasses (PT-BR)","nexusFileVersion":"1.0","nexusFileUploadedAt":1784658895,"pakFileName":"RavenloftSubclasses2024_BR.pak","nexusFileId":126154,"metaUuid":null}
