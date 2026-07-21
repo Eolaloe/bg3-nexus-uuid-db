@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-07-21T06:51:42.817257+00:00","total_mods":16952},
+{"_meta":{"last_run":"2026-07-21T07:51:48.165236+00:00","total_mods":16952},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -66905,8 +66905,8 @@
 {"nexusFileName":"No More Blatant Lies - Astarion is 5'4","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1784266384,"pakFileName":"MGNTN_NoMoreBlatantLies.pak","nexusFileId":125806,"metaUuid":"bbb39083-df60-4619-84b6-21be636cf61e"},
 {"nexusFileName":"No More Blatant Lies - Astarion is 5'1","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1784266442,"pakFileName":"MGNTN_NoMoreBlatantLies.pak","nexusFileId":125807,"metaUuid":"bbb39083-df60-4619-84b6-21be636cf61e"}
 ]},
-"23904":{"nexusModName":"Darkside's Rebalanced Elixirs","nexusUploadedBy":"Darkside057","nexusModId":23904,"paks":[
-{"nexusFileName":"Rebalanced Elixirs","nexusFileVersion":"2","nexusFileUploadedAt":1784263466,"pakFileName":"DarksidesRebalancedElixirs_1436ae28-9c78-b0a5-42e1-7bbabfa7b3c5.pak","nexusFileId":125803,"metaUuid":null}
+"23904":{"nexusModName":"Darkside's Elixir Overhaul","nexusUploadedBy":"Darkside057","nexusModId":23904,"paks":[
+{"nexusFileName":"Elixir Overhaul","nexusFileVersion":"3","nexusFileUploadedAt":1784617438,"pakFileName":"RebalancedElixirsBalorEdition_521b0d69-b176-4694-f22d-084cf5b2ae56.pak","nexusFileId":126122,"metaUuid":null}
 ]},
 "23906":{"nexusModName":"Armour of Agility Boots and Gloves Restored","nexusUploadedBy":"koboldJuno","nexusModId":23906,"paks":[
 {"nexusFileName":"Boots and Gloves of Agility Restored","nexusFileVersion":"1.1","nexusFileUploadedAt":1784265813,"pakFileName":"BootsandGlovesofAgilityRestored_0ba71852-aacb-2375-752f-756916ad7dd1.pak","nexusFileId":125804,"metaUuid":"0ba71852-aacb-2375-752f-756916ad7dd1"}
@@ -66918,7 +66918,7 @@
 {"nexusFileName":"Noah Combat Behavior Fix","nexusFileVersion":"1","nexusFileUploadedAt":1784224405,"pakFileName":"Noah_Combat_Behavior_Fix_a7a6f5cd-f443-3ac5-409b-ba15debda15d.pak","nexusFileId":125782,"metaUuid":"a7a6f5cd-f443-3ac5-409b-ba15debda15d"}
 ]},
 "23910":{"nexusModName":"Standalone Shop Window Mod","nexusUploadedBy":"BaiYanYueQWQ","nexusModId":23910,"paks":[
-{"nexusFileName":"Shop","nexusFileVersion":"1.0.1.1","nexusFileUploadedAt":1784416770,"pakFileName":"Shop.pak","nexusFileId":125964,"metaUuid":"a1b2c3d4-e5f6-7890-abcd-ef1234567890"}
+{"nexusFileName":"Shop","nexusFileVersion":"1.1.0.0","nexusFileUploadedAt":1784617387,"pakFileName":"Shop.pak","nexusFileId":126121,"metaUuid":"a1b2c3d4-e5f6-7890-abcd-ef1234567890"}
 ]},
 "23912":{"nexusModName":"Pocket Traders","nexusUploadedBy":"ForKiramay","nexusModId":23912,"paks":[
 {"nexusFileName":"Pocket Traders","nexusFileVersion":"1.0.0.9","nexusFileUploadedAt":1784240434,"pakFileName":"PocketTraders_40c6bcaa-7f68-49f6-4ab2-156687a37f15.pak","nexusFileId":125795,"metaUuid":"40c6bcaa-7f68-49f6-4ab2-156687a37f15"}
@@ -67016,8 +67016,7 @@
 {"nexusFileName":"Sanctuary Blocked 5 Turns","nexusFileVersion":"1","nexusFileUploadedAt":1784493094,"pakFileName":"SanctuaryBlocked5Turns_eff45bda-02ac-d085-3b22-b2da4395e75f.pak","nexusFileId":126029,"metaUuid":null}
 ]},
 "23959":{"nexusModName":"True Third-Person Camera","nexusUploadedBy":"Relysia","nexusModId":23959,"paks":[
-{"nexusFileName":"True Third-Person Camera (All-In-One) - V1.0","nexusFileVersion":"1","nexusFileUploadedAt":1784512956,"pakFileName":"TrueThirdPersonCameraMCM.pak","nexusFileId":126047,"metaUuid":null},
-{"nexusFileName":"True Third-Person Camera (MCM Addon) - V1.0","nexusFileVersion":"1","nexusFileUploadedAt":1784513101,"pakFileName":"TrueThirdPersonCameraMCM.pak","nexusFileId":126049,"metaUuid":null}
+{"nexusFileName":"True Third-Person Camera (All-In-One) - V1.1","nexusFileVersion":"1.1","nexusFileUploadedAt":1784618030,"pakFileName":"TrueThirdPersonCameraMCM.pak","nexusFileId":126123,"metaUuid":null}
 ]},
 "23960":{"nexusModName":"Diviner's Focus - Divination Wizard Level 4 Feature","nexusUploadedBy":"batuhan12161","nexusModId":23960,"paks":[
 {"nexusFileName":"DivinersFocus 1.0.0","nexusFileVersion":"1","nexusFileUploadedAt":1784502619,"pakFileName":"DivinationFocus.pak","nexusFileId":126041,"metaUuid":"34500037-9a20-4698-811d-0d72f63d2ed5"}
@@ -67036,7 +67035,7 @@
 {"nexusFileName":"Tutorial Chest Addon","nexusFileVersion":"1","nexusFileUploadedAt":1784580784,"pakFileName":"Shifting Sands - Desert Mage - Tut Chest Addon.pak","nexusFileId":126099,"metaUuid":null}
 ]},
 "23969":{"nexusModName":"Pentos Gown","nexusUploadedBy":"Elledwyn","nexusModId":23969,"paks":[
-{"nexusFileName":"Targaryen Fashion - Pentos Gown","nexusFileVersion":"2","nexusFileUploadedAt":1784612008,"pakFileName":"TF_Pentos_Gown_8310cf04-28a2-38bb-ca77-614a8448fddd.pak","nexusFileId":126112,"metaUuid":"8310cf04-28a2-38bb-ca77-614a8448fddd"}
+{"nexusFileName":"Targaryen Fashion - Pentos Gown","nexusFileVersion":"3","nexusFileUploadedAt":1784619815,"pakFileName":"TF_Pentos_Gown_8310cf04-28a2-38bb-ca77-614a8448fddd.pak","nexusFileId":126124,"metaUuid":"8310cf04-28a2-38bb-ca77-614a8448fddd"}
 ]},
 "23971":{"nexusModName":"Grant Flight - Ritual Spell","nexusUploadedBy":"Reveurr","nexusModId":23971,"paks":[
 {"nexusFileName":"Grant Flight Ritual","nexusFileVersion":"1","nexusFileUploadedAt":1784576324,"pakFileName":"GrantFlightRitual_9787c81d-a3d7-e274-734f-64d7d3689210.pak","nexusFileId":126088,"metaUuid":null}
