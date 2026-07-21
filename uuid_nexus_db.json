@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-07-21T11:52:17.834910+00:00","total_mods":16952},
+{"_meta":{"last_run":"2026-07-21T12:52:24.430266+00:00","total_mods":16954},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -56081,7 +56081,7 @@
 {"nexusFileName":"cadystieflingposes","nexusFileVersion":"1.0.0.7","nexusFileUploadedAt":1764669160,"pakFileName":"tiefposes_2fcf2d22-c06a-25fd-be53-f73a46e9099e.pak","nexusFileId":108655,"metaUuid":"2fcf2d22-c06a-25fd-be53-f73a46e9099e"}
 ]},
 "19908":{"nexusModName":"DnD 5.5e All-in-One BEYOND for Chinese","nexusUploadedBy":"pom0328tw","nexusModId":19908,"paks":[
-{"nexusFileName":"Dnd2024CHSCHT","nexusFileVersion":"2.8.1","nexusFileUploadedAt":1784375949,"pakFileName":"dnd2024CHSCHT.pak","nexusFileId":125928,"metaUuid":"577d1a0d-1421-441b-b563-060e7b564a00"}
+{"nexusFileName":"Dnd2024CHSCHT","nexusFileVersion":"2.9","nexusFileUploadedAt":1784636684,"pakFileName":"dnd2024CHSCHT.pak","nexusFileId":126131,"metaUuid":"577d1a0d-1421-441b-b563-060e7b564a00"}
 ]},
 "19909":{"nexusModName":"Zorn - a pretty boy head preset for HRC","nexusUploadedBy":"Midsommarnacht","nexusModId":19909,"paks":[
 {"nexusFileName":"Zorn - EOTB","nexusFileVersion":"1.2.1","nexusFileUploadedAt":1764847572,"pakFileName":"♡a pretty orc head mod♡ -EOTB.pak","nexusFileId":108841,"metaUuid":null},
@@ -67002,6 +67002,9 @@
 {"nexusFileName":"Circle of the Sovereign - Balanced","nexusFileVersion":"2.2","nexusFileUploadedAt":1784512027,"pakFileName":"CircleOfTheSovereign-Balanced.pak","nexusFileId":126045,"metaUuid":null},
 {"nexusFileName":"Circle of the Sovereign","nexusFileVersion":"2.2","nexusFileUploadedAt":1784512053,"pakFileName":"CircleOfTheSovereign.pak","nexusFileId":126046,"metaUuid":null}
 ]},
+"23949":{"nexusModName":"Danan Dyes - Polychrome Jewels","nexusUploadedBy":"FoxxyCanuck","nexusModId":23949,"paks":[
+{"nexusFileName":"Danan Dyes - Polychrome Jewels","nexusFileVersion":"3.7.5.45","nexusFileUploadedAt":1784635039,"pakFileName":"DananDyesPolychromeJewels_56981f70-f05f-816e-2cc1-9410e42ac755.pak","nexusFileId":126130,"metaUuid":null}
+]},
 "23952":{"nexusModName":"AutoLoot Alchemical Ingredients","nexusUploadedBy":"ben14142","nexusModId":23952,"paks":[
 {"nexusFileName":"AutoLoot 1.0.0","nexusFileVersion":"1","nexusFileUploadedAt":1784473039,"pakFileName":"AutoLoot_cbcd1a90-6657-7061-472c-2d253a8aac78.pak","nexusFileId":126010,"metaUuid":null}
 ]},
@@ -67059,4 +67062,7 @@
 ]},
 "23981":{"nexusModName":"Respec Limit - 3 Per Act","nexusUploadedBy":"Darkside057","nexusModId":23981,"paks":[
 {"nexusFileName":"Limit Respecs","nexusFileVersion":"1","nexusFileUploadedAt":1784616611,"pakFileName":"Limit_Respecs_4dfece18-0f04-7232-98c8-29abe4cdaa34.pak","nexusFileId":126120,"metaUuid":null}
+]},
+"23982":{"nexusModName":"Bard Performance Overhaul","nexusUploadedBy":"batuhan12161","nexusModId":23982,"paks":[
+{"nexusFileName":"BardicCourage 1.0.0","nexusFileVersion":"1","nexusFileUploadedAt":1784636761,"pakFileName":"BardicCourage.pak","nexusFileId":126132,"metaUuid":null}
 ]}}
