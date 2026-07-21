@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-07-21T21:53:14.128377+00:00","total_mods":16959},
+{"_meta":{"last_run":"2026-07-21T22:52:49.369736+00:00","total_mods":16960},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -52614,7 +52614,7 @@
 "18883":{"nexusModName":"Mazzle's EZ-Documentation (MazzleDocs)","nexusUploadedBy":"Mazzle23","nexusModId":18883,"paks":[
 {"nexusFileName":"Item Spawner Mod 2.1","nexusFileVersion":"2.1.0","nexusFileUploadedAt":1761601393,"pakFileName":"MD_Simple_Item_Spawner.pak","nexusFileId":106142,"metaUuid":null},
 {"nexusFileName":"Screen Archery Demo Mod - includes custom images","nexusFileVersion":"2.1.0","nexusFileUploadedAt":1761601539,"pakFileName":"Mazzle_Docs_Demo.pak","nexusFileId":106144,"metaUuid":null},
-{"nexusFileName":"MazzleDocs 2.4.2","nexusFileVersion":"2.4.2","nexusFileUploadedAt":1778343845,"pakFileName":"Mazzle_Docs.pak","nexusFileId":120840,"metaUuid":"ad95bd1c-1a80-45fb-b73b-9eea1f8e58d0"}
+{"nexusFileName":"MazzleDocs 2.5.2","nexusFileVersion":"2.5.2.4","nexusFileUploadedAt":1784672623,"pakFileName":"Mazzle_Docs.pak","nexusFileId":126176,"metaUuid":"ad95bd1c-1a80-45fb-b73b-9eea1f8e58d0"}
 ]},
 "18884":{"nexusModName":"Fabric Manufacturer","nexusUploadedBy":"rakor","nexusModId":18884,"paks":[
 {"nexusFileName":"Fabric Manufacturer","nexusFileVersion":"1.0.1","nexusFileUploadedAt":1758990756,"pakFileName":"FabricManufacturer_f3ced6ee-12b5-1347-1232-7e9e2ce00354.pak","nexusFileId":103794,"metaUuid":null}
@@ -66212,7 +66212,7 @@
 ]},
 "23613":{"nexusModName":"STAV - Snailzx Tattoos And VTs","nexusUploadedBy":"EvilSnail0fDestruktion","nexusModId":23613,"paks":[
 {"nexusFileName":"STAV - VT","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1783989645,"pakFileName":"STAV [VT].pak","nexusFileId":125589,"metaUuid":"fc77b87d-2714-4545-99f4-db8042760e8d"},
-{"nexusFileName":"STAV","nexusFileVersion":"1.1.0","nexusFileUploadedAt":1784657440,"pakFileName":"STAV.pak","nexusFileId":126153,"metaUuid":"2b9e05c8-d15a-3ac2-7237-6aa263f1dceb"}
+{"nexusFileName":"STAV","nexusFileVersion":"1.1.1","nexusFileUploadedAt":1784673665,"pakFileName":"STAV.pak","nexusFileId":126180,"metaUuid":"2b9e05c8-d15a-3ac2-7237-6aa263f1dceb"}
 ]},
 "23614":{"nexusModName":"WotD Aasimar Traduzione ITA","nexusUploadedBy":"EveeLaverne","nexusModId":23614,"paks":[
 {"nexusFileName":"WotD Aasimar ITA","nexusFileVersion":"1.0.1.0","nexusFileUploadedAt":1783784411,"pakFileName":"WotD-Aasimar ITA.pak","nexusFileId":125431,"metaUuid":null}
@@ -66938,7 +66938,7 @@
 {"nexusFileName":"Better Hag Hair Russian Localization","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1784299968,"pakFileName":"BetterHagHair_RU.pak","nexusFileId":125845,"metaUuid":null}
 ]},
 "23922":{"nexusModName":"Fish Scales for STAV","nexusUploadedBy":"EvilSnail0fDestruktion","nexusModId":23922,"paks":[
-{"nexusFileName":"STAVFishScales","nexusFileVersion":"1.0.1","nexusFileUploadedAt":1784325278,"pakFileName":"STAVFishScales.pak","nexusFileId":125868,"metaUuid":null}
+{"nexusFileName":"STAVFishScales","nexusFileVersion":"1.0.2","nexusFileUploadedAt":1784671383,"pakFileName":"STAVFishScales.pak","nexusFileId":126175,"metaUuid":null}
 ]},
 "23924":{"nexusModName":"Ancient Dragon Lord's Eye Staff - Fire and Lightning","nexusUploadedBy":"JasondunnaYT","nexusModId":23924,"paks":[
 {"nexusFileName":"Dragon Lord's Eye Staff 1.0","nexusFileVersion":"1","nexusFileUploadedAt":1784308688,"pakFileName":"DragonEyeStaff_856a4a0f-393f-1a43-5708-f40862368468.pak","nexusFileId":125851,"metaUuid":null}
@@ -67074,4 +67074,9 @@
 ]},
 "23990":{"nexusModName":"Ravenloft Subclasses (PT-BR)","nexusUploadedBy":"Firetoga","nexusModId":23990,"paks":[
 {"nexusFileName":"RavenloftSubclasses (PT-BR)","nexusFileVersion":"1.0","nexusFileUploadedAt":1784658895,"pakFileName":"RavenloftSubclasses2024_BR.pak","nexusFileId":126154,"metaUuid":null}
+]},
+"23991":{"nexusModName":"Tav Epilogue Gear Replacer","nexusUploadedBy":"Seristina","nexusModId":23991,"paks":[
+{"nexusFileName":"TavEpilogueGearReplacer Elanor","nexusFileVersion":"1","nexusFileUploadedAt":1784662380,"pakFileName":"TavEpilogueGearReplacer_Elanor.pak","nexusFileId":126167,"metaUuid":null},
+{"nexusFileName":"TavEpilogueGearReplacer ElenMinya","nexusFileVersion":"1","nexusFileUploadedAt":1784662438,"pakFileName":"TavEpilogueGearReplacer_ElenMinya.pak","nexusFileId":126168,"metaUuid":null},
+{"nexusFileName":"TavEpilogueGearReplacer ArgentisGift","nexusFileVersion":"1","nexusFileUploadedAt":1784672803,"pakFileName":"TavEpilogueGearReplacer_ArgentisGift.pak","nexusFileId":126178,"metaUuid":null}
 ]}}
