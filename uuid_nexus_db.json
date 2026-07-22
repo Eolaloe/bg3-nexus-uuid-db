@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-07-22T19:51:49.538695+00:00","total_mods":16980},
+{"_meta":{"last_run":"2026-07-22T20:51:54.809695+00:00","total_mods":16980},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -67040,7 +67040,8 @@
 {"nexusFileName":"Grant Flight Ritual","nexusFileVersion":"1","nexusFileUploadedAt":1784576324,"pakFileName":"GrantFlightRitual_9787c81d-a3d7-e274-734f-64d7d3689210.pak","nexusFileId":126088,"metaUuid":null}
 ]},
 "23973":{"nexusModName":"Force Weapons","nexusUploadedBy":"Tyranno85","nexusModId":23973,"paks":[
-{"nexusFileName":"Force 509053cc Ea81 B575 C221 7a6f54cc331e","nexusFileVersion":"1","nexusFileUploadedAt":1784580530,"pakFileName":"Force_509053cc-ea81-b575-c221-7a6f54cc331e.pak","nexusFileId":126097,"metaUuid":"509053cc-ea81-b575-c221-7a6f54cc331e"}
+{"nexusFileName":"Force 509053cc Ea81 B575 C221 7a6f54cc331e","nexusFileVersion":"0.8","nexusFileUploadedAt":1784580530,"pakFileName":"Force_509053cc-ea81-b575-c221-7a6f54cc331e.pak","nexusFileId":126097,"metaUuid":"509053cc-ea81-b575-c221-7a6f54cc331e"},
+{"nexusFileName":"Force 509053cc Ea81 B575 C221 7a6f54cc331e","nexusFileVersion":"0.9","nexusFileUploadedAt":1784752359,"pakFileName":"Force_509053cc-ea81-b575-c221-7a6f54cc331e.pak","nexusFileId":126246,"metaUuid":"509053cc-ea81-b575-c221-7a6f54cc331e"}
 ]},
 "23974":{"nexusModName":"Echoes in the Sand Poses","nexusUploadedBy":"MadMicky10","nexusModId":23974,"paks":[
 {"nexusFileName":"MadMicky Echos In The Sand Poses","nexusFileVersion":"1","nexusFileUploadedAt":1784585318,"pakFileName":"Echos_in_the_Sand__876823ba-2984-96ef-aee2-3bfc0f833b1f.pak","nexusFileId":126101,"metaUuid":"876823ba-2984-96ef-aee2-3bfc0f833b1f"}
@@ -67092,10 +67093,8 @@
 {"nexusFileName":"TavEpilogueGearReplacer MoonPearl Shoes","nexusFileVersion":"1","nexusFileUploadedAt":1784676163,"pakFileName":"TavEpilogueGearReplacer_MoonPearl_Shoes.pak","nexusFileId":126184,"metaUuid":null}
 ]},
 "23992":{"nexusModName":"Body and Clothing Morphs for SBBF and BCB (by SerpentineShel)","nexusUploadedBy":"SerpentineShel","nexusModId":23992,"paks":[
-{"nexusFileName":"BodyAndClothingMorph V413 LaunchPackage 20260721","nexusFileVersion":"1","nexusFileUploadedAt":1784672688,"pakFileName":"ClothMorphSCO.pak","nexusFileId":126177,"metaUuid":null},
-{"nexusFileName":"BodyAndClothingMorph V413 LaunchPackage 20260721","nexusFileVersion":"1","nexusFileUploadedAt":1784672688,"pakFileName":"ClothMorphBCB_pilot.pak","nexusFileId":126177,"metaUuid":null},
-{"nexusFileName":"BodyAndClothingMorph V413 LaunchPackage 20260721","nexusFileVersion":"1","nexusFileUploadedAt":1784672688,"pakFileName":"ClothMorphContent.pak","nexusFileId":126177,"metaUuid":null},
-{"nexusFileName":"BodyAndClothingMorph V413 LaunchPackage 20260721","nexusFileVersion":"1","nexusFileUploadedAt":1784672688,"pakFileName":"ClothMorphRuntime.pak","nexusFileId":126177,"metaUuid":null}
+{"nexusFileName":"BodyAndClothingMorph Package v. 1.1 ","nexusFileVersion":"1.1","nexusFileUploadedAt":1784752946,"pakFileName":"ClothMorphContent.pak","nexusFileId":126247,"metaUuid":null},
+{"nexusFileName":"BodyAndClothingMorph Package v. 1.1 ","nexusFileVersion":"1.1","nexusFileUploadedAt":1784752946,"pakFileName":"ClothMorphRuntime.pak","nexusFileId":126247,"metaUuid":null}
 ]},
 "23993":{"nexusModName":"Planescapes","nexusUploadedBy":"Terrorbyte33","nexusModId":23993,"paks":[
 {"nexusFileName":"Planescapes","nexusFileVersion":"1","nexusFileUploadedAt":1784673215,"pakFileName":"Planescapes.pak","nexusFileId":126179,"metaUuid":null}
