@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-07-22T15:51:51.351059+00:00","total_mods":16972},
+{"_meta":{"last_run":"2026-07-22T16:52:04.361581+00:00","total_mods":16976},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -66707,12 +66707,12 @@
 {"nexusFileName":"Sunset Dice (all in one)","nexusFileVersion":"1.1","nexusFileUploadedAt":1784321627,"pakFileName":"Vaporwave Dice.pak","nexusFileId":125865,"metaUuid":"8f6d6a5f-4a66-41dd-a366-ad6f5af591a2"}
 ]},
 "23822":{"nexusModName":"Shared Bags for Your Party","nexusUploadedBy":"Eolaloe","nexusModId":23822,"paks":[
-{"nexusFileName":"Better Context Menu Patch (x1.3)","nexusFileVersion":"1.0.1.5","nexusFileUploadedAt":1784495068,"pakFileName":"SharedBags_BCMPatch13.pak","nexusFileId":126030,"metaUuid":null},
 {"nexusFileName":"Better Context Menu Patch","nexusFileVersion":"1.0.1.5","nexusFileUploadedAt":1784495077,"pakFileName":"SharedBags_BCMPatch.pak","nexusFileId":126031,"metaUuid":"fc63a4af-29d0-438b-bf28-101528e39512"},
 {"nexusFileName":"Better Inventory UI Patch","nexusFileVersion":"1.0.1.5","nexusFileUploadedAt":1784495086,"pakFileName":"SharedBags_BIUIPatch.pak","nexusFileId":126032,"metaUuid":"a9cde387-476e-43a7-a292-d9f96c817f99"},
-{"nexusFileName":"Better UI AiO Patch (x1.3)","nexusFileVersion":"1.0.1.5","nexusFileUploadedAt":1784495096,"pakFileName":"SharedBags_BTAIOPatch13.pak","nexusFileId":126033,"metaUuid":"b3debe79-b88c-431e-806c-1e89d0f9f4db"},
 {"nexusFileName":"Better UI AiO Patch","nexusFileVersion":"1.0.1.5","nexusFileUploadedAt":1784495106,"pakFileName":"SharedBags_BTAIOPatch.pak","nexusFileId":126034,"metaUuid":"135b278b-c4f4-4351-8356-83d868a3bb40"},
-{"nexusFileName":"Shared Bags for Your Party","nexusFileVersion":"1.0.6.1","nexusFileUploadedAt":1784575207,"pakFileName":"SharedBags.pak","nexusFileId":126085,"metaUuid":"b68a904f-fb57-4a64-a4bb-1e7cf264862f"}
+{"nexusFileName":"Shared Bags for Your Party","nexusFileVersion":"1.0.6.1","nexusFileUploadedAt":1784575207,"pakFileName":"SharedBags.pak","nexusFileId":126085,"metaUuid":"b68a904f-fb57-4a64-a4bb-1e7cf264862f"},
+{"nexusFileName":"Better Context Menu Patch (x1.3)","nexusFileVersion":"1.0.1.6","nexusFileUploadedAt":1784737829,"pakFileName":"SharedBags_BCMPatch13.pak","nexusFileId":126228,"metaUuid":null},
+{"nexusFileName":"Better UI AiO Patch (x1.3)","nexusFileVersion":"1.0.1.6","nexusFileUploadedAt":1784737849,"pakFileName":"SharedBags_BTAIOPatch13.pak","nexusFileId":126229,"metaUuid":"b3debe79-b88c-431e-806c-1e89d0f9f4db"}
 ]},
 "23823":{"nexusModName":"Shields Begone","nexusUploadedBy":"Cainhurtz","nexusModId":23823,"paks":[
 {"nexusFileName":"Shields Begone","nexusFileVersion":"3","nexusFileUploadedAt":1783825225,"pakFileName":"Fluck_Shields.pak","nexusFileId":125458,"metaUuid":"69615e25-b334-5f90-9732-f21dd2ea7f34"}
@@ -67121,7 +67121,19 @@
 "24002":{"nexusModName":"Cleric Shield - Spell List Expansion","nexusUploadedBy":"Reveurr","nexusModId":24002,"paks":[
 {"nexusFileName":"Cleric Shield - Spell List Expansion","nexusFileVersion":"1","nexusFileUploadedAt":1784727732,"pakFileName":"ShieldForClerics_5916062b-227d-9c66-1103-8942e9103359.pak","nexusFileId":126212,"metaUuid":"5916062b-227d-9c66-1103-8942e9103359"}
 ]},
+"24004":{"nexusModName":"Auntie Ethel Redux - The Caretaker","nexusUploadedBy":"PoisonValentineXIII","nexusModId":24004,"paks":[
+{"nexusFileName":"Auntie Ethel Redux - The Caretaker","nexusFileVersion":"1.0.0.2","nexusFileUploadedAt":1784732097,"pakFileName":"AuntieEthelRedux_fe14f04b-c7d4-a972-0d51-f853f2203b2f.pak","nexusFileId":126220,"metaUuid":null}
+]},
 "24005":{"nexusModName":"Useful Hag Eye","nexusUploadedBy":"thelunarfirefly","nexusModId":24005,"paks":[
-{"nexusFileName":"Useful Hag Eye Devil's Sight","nexusFileVersion":"1","nexusFileUploadedAt":1784734746,"pakFileName":"Useful Hag Eye DS.pak","nexusFileId":126224,"metaUuid":null},
-{"nexusFileName":"Useful Hag Eye","nexusFileVersion":"1","nexusFileUploadedAt":1784734769,"pakFileName":"Useful Hag Eye.pak","nexusFileId":126225,"metaUuid":null}
+{"nexusFileName":"Useful Hag Eye","nexusFileVersion":"2","nexusFileUploadedAt":1784738363,"pakFileName":"Useful Hag Eye.pak","nexusFileId":126231,"metaUuid":null},
+{"nexusFileName":"Useful Hag Eye Devil's Sight","nexusFileVersion":"2","nexusFileUploadedAt":1784738391,"pakFileName":"Useful Hag Eye DS.pak","nexusFileId":126232,"metaUuid":null}
+]},
+"24006":{"nexusModName":"Shadowheart's Better Starting Gear (PT-BR)","nexusUploadedBy":"Firetoga","nexusModId":24006,"paks":[
+{"nexusFileName":"Shadowheart's Better Starting Gear (PT-BR)","nexusFileVersion":"2.2","nexusFileUploadedAt":1784737144,"pakFileName":"Aza_Shart_Halfplate_BR.pak","nexusFileId":126226,"metaUuid":null}
+]},
+"24007":{"nexusModName":"Gale's Better Starting Gear (PT-BR)","nexusUploadedBy":"Firetoga","nexusModId":24007,"paks":[
+{"nexusFileName":"Gale's Better Starting Gear (PT-BR)","nexusFileVersion":"1.6","nexusFileUploadedAt":1784737416,"pakFileName":"Aza_BSG_Gale_BR.pak","nexusFileId":126227,"metaUuid":null}
+]},
+"24008":{"nexusModName":"Lae'zel Better Starting Gear (PT-BR)","nexusUploadedBy":"Firetoga","nexusModId":24008,"paks":[
+{"nexusFileName":"Lae'zel Better Starting Gear (PT-BR)","nexusFileVersion":"2.0","nexusFileUploadedAt":1784737864,"pakFileName":"Aza_Laezel_BSGv2_BR.pak","nexusFileId":126230,"metaUuid":null}
 ]}}
