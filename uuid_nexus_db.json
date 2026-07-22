@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-07-22T21:53:38.038315+00:00","total_mods":16980},
+{"_meta":{"last_run":"2026-07-22T22:52:11.547378+00:00","total_mods":16981},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -40624,7 +40624,7 @@
 "14433":{"nexusModName":"FearTaylor's Camp Clothes CHS","nexusUploadedBy":"SeanYork","nexusModId":14433,"paks":[
 {"nexusFileName":"FearTaylor's Camp Clothes CHS","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1735223026,"pakFileName":"feartaylorcampclothes_chs_ea5b-aewg.pak","nexusFileId":82826,"metaUuid":null}
 ]},
-"14434":{"nexusModName":"Faerie Race","nexusUploadedBy":"EvilSnail0fDestruktion","nexusModId":14434,"paks":[
+"14434":{"nexusModName":"Faerie Race (5e UA Fairy Version)","nexusUploadedBy":"EvilSnail0fDestruktion","nexusModId":14434,"paks":[
 {"nexusFileName":"faerieraceUTAVpatch","nexusFileVersion":"1.0.0.1","nexusFileUploadedAt":1764724311,"pakFileName":"FaerieRaceUTAVPatch.pak","nexusFileId":108727,"metaUuid":"65d24cfc-b3e5-baf0-27ff-b4368195a71b"},
 {"nexusFileName":"FaerieFacePatch","nexusFileVersion":"1.0.0.1","nexusFileUploadedAt":1765061037,"pakFileName":"FaerieRaceFacePatch.pak","nexusFileId":109042,"metaUuid":"5923c401-1222-e08c-c668-92ecef20257e"},
 {"nexusFileName":"Faerie Wing Underwear","nexusFileVersion":"1.0.0.7","nexusFileUploadedAt":1768422375,"pakFileName":"FaerieWings_d51b9505-bf4a-fc3f-4a7f-1ff40a9013a9.pak","nexusFileId":112185,"metaUuid":"d51b9505-bf4a-fc3f-4a7f-1ff40a9013a9"},
@@ -65058,7 +65058,7 @@
 ]},
 "23139":{"nexusModName":"Solo Leveling - Shadow Monarch MCM","nexusUploadedBy":"iNoah","nexusModId":23139,"paks":[
 {"nexusFileName":"SoloLeveling Shadow Exchange Patch","nexusFileVersion":"1","nexusFileUploadedAt":1782512591,"pakFileName":"SoloLeveling_Shadow_Exchange_Patch.pak","nexusFileId":124347,"metaUuid":"718005a5-0cc1-460f-aa25-79f332f4100d"},
-{"nexusFileName":"Solo Leveling -  MCM","nexusFileVersion":"3.02","nexusFileUploadedAt":1784481007,"pakFileName":"SoloLeveling.pak","nexusFileId":126015,"metaUuid":"b9c1d5f0-c0b6-8a01-00dc-14bbf18057a0"}
+{"nexusFileName":"Solo Leveling -  MCM","nexusFileVersion":"3.03","nexusFileUploadedAt":1784757811,"pakFileName":"SoloLeveling.pak","nexusFileId":126250,"metaUuid":"b9c1d5f0-c0b6-8a01-00dc-14bbf18057a0"}
 ]},
 "23140":{"nexusModName":"Spell Mods Data","nexusUploadedBy":"Nzx","nexusModId":23140,"paks":[
 {"nexusFileName":"SpellModsData","nexusFileVersion":"1.0.2","nexusFileUploadedAt":1781210207,"pakFileName":"SpellModsData.pak","nexusFileId":123343,"metaUuid":null}
@@ -66837,7 +66837,7 @@
 {"nexusFileName":"Snake Eye Colours","nexusFileVersion":"1.0.0.1","nexusFileUploadedAt":1784045737,"pakFileName":"SnakeEyeColours_1.0.0.1.pak","nexusFileId":125626,"metaUuid":null}
 ]},
 "23868":{"nexusModName":"Celestial Circus Ensamble - Refit Dulcet A","nexusUploadedBy":"LittleTeafling","nexusModId":23868,"paks":[
-{"nexusFileName":"Celestial Circus DulcA","nexusFileVersion":"2","nexusFileUploadedAt":1784754427,"pakFileName":"Celestial_Circus_DulcA.pak","nexusFileId":126248,"metaUuid":"bd5f397a-0c0d-431a-bb48-666215ef3db2"}
+{"nexusFileName":"Celestial Circus DulcA 1.1","nexusFileVersion":"2","nexusFileUploadedAt":1784754427,"pakFileName":"Celestial_Circus_DulcA.pak","nexusFileId":126248,"metaUuid":"bd5f397a-0c0d-431a-bb48-666215ef3db2"}
 ]},
 "23869":{"nexusModName":"STYGIA - Armor and Camp Clothing","nexusUploadedBy":"Naerys","nexusModId":23869,"paks":[
 {"nexusFileName":"NAERYS Stygia","nexusFileVersion":"2","nexusFileUploadedAt":1784142705,"pakFileName":"NAERYS_Stygia_a7f483fb-effc-ff8c-bd19-23fe143fd5ae.pak","nexusFileId":125736,"metaUuid":"a7f483fb-effc-ff8c-bd19-23fe143fd5ae"}
@@ -67151,4 +67151,7 @@
 ]},
 "24011":{"nexusModName":"Sharess' Caress' New Look","nexusUploadedBy":"Khloii1","nexusModId":24011,"paks":[
 {"nexusFileName":"Sharess' Caress' New Look","nexusFileVersion":"1.0","nexusFileUploadedAt":1784749231,"pakFileName":"Sharess_Caress_New_Look_b65899da-47ef-fa5c-abc2-4fb97915974f.pak","nexusFileId":126245,"metaUuid":"b65899da-47ef-fa5c-abc2-4fb97915974f"}
+]},
+"24014":{"nexusModName":"Swappable Auntie Ethel's Boon","nexusUploadedBy":"chizfreak","nexusModId":24014,"paks":[
+{"nexusFileName":"Swappable Auntie Ethel's Boon","nexusFileVersion":"1.0","nexusFileUploadedAt":1784759896,"pakFileName":"EthelHairSwap_b699da51-1c4a-6e6d-b4be-cf1e5531aefd.pak","nexusFileId":126251,"metaUuid":null}
 ]}}
