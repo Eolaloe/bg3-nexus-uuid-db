@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-07-22T16:52:04.361581+00:00","total_mods":16976},
+{"_meta":{"last_run":"2026-07-22T17:52:15.350710+00:00","total_mods":16977},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -67126,7 +67126,9 @@
 ]},
 "24005":{"nexusModName":"Useful Hag Eye","nexusUploadedBy":"thelunarfirefly","nexusModId":24005,"paks":[
 {"nexusFileName":"Useful Hag Eye","nexusFileVersion":"2","nexusFileUploadedAt":1784738363,"pakFileName":"Useful Hag Eye.pak","nexusFileId":126231,"metaUuid":null},
-{"nexusFileName":"Useful Hag Eye Devil's Sight","nexusFileVersion":"2","nexusFileUploadedAt":1784738391,"pakFileName":"Useful Hag Eye DS.pak","nexusFileId":126232,"metaUuid":null}
+{"nexusFileName":"Useful Hag Eye Devil's Sight","nexusFileVersion":"2","nexusFileUploadedAt":1784738391,"pakFileName":"Useful Hag Eye DS.pak","nexusFileId":126232,"metaUuid":null},
+{"nexusFileName":"Useful Hag Eye - Disadvantage against Hags","nexusFileVersion":"1","nexusFileUploadedAt":1784740265,"pakFileName":"Useful Hag Eye Dis Hag.pak","nexusFileId":126233,"metaUuid":null},
+{"nexusFileName":"Useful Hag Eye DS - Disadvantage against Hags","nexusFileVersion":"1","nexusFileUploadedAt":1784740405,"pakFileName":"Useful Hag Eye DS Dis Hag.pak","nexusFileId":126234,"metaUuid":null}
 ]},
 "24006":{"nexusModName":"Shadowheart's Better Starting Gear (PT-BR)","nexusUploadedBy":"Firetoga","nexusModId":24006,"paks":[
 {"nexusFileName":"Shadowheart's Better Starting Gear (PT-BR)","nexusFileVersion":"2.2","nexusFileUploadedAt":1784737144,"pakFileName":"Aza_Shart_Halfplate_BR.pak","nexusFileId":126226,"metaUuid":null}
@@ -67136,4 +67138,8 @@
 ]},
 "24008":{"nexusModName":"Lae'zel Better Starting Gear (PT-BR)","nexusUploadedBy":"Firetoga","nexusModId":24008,"paks":[
 {"nexusFileName":"Lae'zel Better Starting Gear (PT-BR)","nexusFileVersion":"2.0","nexusFileUploadedAt":1784737864,"pakFileName":"Aza_Laezel_BSGv2_BR.pak","nexusFileId":126230,"metaUuid":null}
+]},
+"24009":{"nexusModName":"Create More Undead","nexusUploadedBy":"edhelsereg","nexusModId":24009,"paks":[
+{"nexusFileName":"CreateMoreUndead By Edhelsereg","nexusFileVersion":"1","nexusFileUploadedAt":1784741988,"pakFileName":"CreateMoreUndead_50ff21b4-ac17-38fb-aabb-e1c52a1c4ff9.pak","nexusFileId":126235,"metaUuid":null},
+{"nexusFileName":"CreateMoreUndead By Edhelsereg","nexusFileVersion":"1","nexusFileUploadedAt":1784741988,"pakFileName":"._CreateMoreUndead_50ff21b4-ac17-38fb-aabb-e1c52a1c4ff9.pak","nexusFileId":126235,"metaUuid":null}
 ]}}
