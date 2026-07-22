@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-07-22T12:52:30.381469+00:00","total_mods":16970},
+{"_meta":{"last_run":"2026-07-22T13:52:37.774931+00:00","total_mods":16971},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -20079,7 +20079,7 @@
 ]},
 "6433":{"nexusModName":"Hammer of Disenchantment Quest","nexusUploadedBy":"lokia2","nexusModId":6433,"paks":[
 {"nexusFileName":"Hammer of Disenchantment Tutorial Chest 1.6011","nexusFileVersion":"1.6011","nexusFileUploadedAt":1727631254,"pakFileName":"Hammer_Of_Disenchantment_tutorial_chest.pak","nexusFileId":73254,"metaUuid":"c46c7f26-55fd-4a8a-82f7-61e0d6193656"},
-{"nexusFileName":"Hammer of Disenchantment (quest) (2.0)","nexusFileVersion":"2.0","nexusFileUploadedAt":1780400309,"pakFileName":"Hammer_Of_Disenchantment_quest.pak","nexusFileId":122625,"metaUuid":"c46c7f26-55fd-4a8a-82f7-61e0d6193656"}
+{"nexusFileName":"Hammer of Disenchantment (quest)","nexusFileVersion":"2.1","nexusFileUploadedAt":1784725330,"pakFileName":"Hammer_Of_Disenchantment_quest.pak","nexusFileId":126211,"metaUuid":"c46c7f26-55fd-4a8a-82f7-61e0d6193656"}
 ]},
 "6434":{"nexusModName":"RAW addon","nexusUploadedBy":"Aigleborgne","nexusModId":6434,"paks":[
 {"nexusFileName":"bg3-RAW-addon","nexusFileVersion":"1.5.0","nexusFileUploadedAt":1738048659,"pakFileName":"RAW-addon-barbarian.pak","nexusFileId":84895,"metaUuid":null},
@@ -65651,7 +65651,7 @@
 "23356":{"nexusModName":"Draco's Fantasy Gunslinger","nexusUploadedBy":"dracotunes","nexusModId":23356,"paks":[
 {"nexusFileName":"Feat Every 2 Levels","nexusFileVersion":"1","nexusFileUploadedAt":1781346587,"pakFileName":"DTGSfeat2level_6fd8fdf3-b0d9-71ae-4519-094aed82ae5c.pak","nexusFileId":123468,"metaUuid":"6fd8fdf3-b0d9-71ae-4519-094aed82ae5c"},
 {"nexusFileName":"Spawn All Weapons into Tutorial Chest","nexusFileVersion":"4","nexusFileUploadedAt":1781690169,"pakFileName":"DTGStutorialchestadd_5483ad95-adbb-3ef0-50ee-1a293bfbe213.pak","nexusFileId":123747,"metaUuid":"5483ad95-adbb-3ef0-50ee-1a293bfbe213"},
-{"nexusFileName":"Draco's Fantasy Gunslinger","nexusFileVersion":"17","nexusFileUploadedAt":1784650712,"pakFileName":"GUNSLINGERR_1d17e144-004d-7375-194e-f8d7854fe7d8.pak","nexusFileId":126149,"metaUuid":"1d17e144-004d-7375-194e-f8d7854fe7d8"}
+{"nexusFileName":"Draco's Fantasy Gunslinger","nexusFileVersion":"18","nexusFileUploadedAt":1784728177,"pakFileName":"GUNSLINGERR_1d17e144-004d-7375-194e-f8d7854fe7d8.pak","nexusFileId":126214,"metaUuid":"1d17e144-004d-7375-194e-f8d7854fe7d8"}
 ]},
 "23358":{"nexusModName":"Heo Nam-Jun Head Preset","nexusUploadedBy":"VespertilioArt","nexusModId":23358,"paks":[
 {"nexusFileName":"HeoNamJun","nexusFileVersion":"1.0.0.1","nexusFileUploadedAt":1781630510,"pakFileName":"HeoNamJun.pak","nexusFileId":123717,"metaUuid":"fd039493-8755-4249-bcb7-ed2ba461db08"},
@@ -65859,7 +65859,7 @@
 {"nexusFileName":"TidesOfChaos2024CHS","nexusFileVersion":"1.0","nexusFileUploadedAt":1781866169,"pakFileName":"TidesOfChaos2024CHS.pak","nexusFileId":123876,"metaUuid":null}
 ]},
 "23456":{"nexusModName":"Camp Activities (Fixed)","nexusUploadedBy":"GabeCamomescro","nexusModId":23456,"paks":[
-{"nexusFileName":"Main (Live) File","nexusFileVersion":"1.0.0.104","nexusFileUploadedAt":1783410632,"pakFileName":"CampActivitiesFixed_82983cc8-c8f3-790c-d3ff-cf448ce04845.pak","nexusFileId":125153,"metaUuid":"82983cc8-c8f3-790c-d3ff-cf448ce04845"}
+{"nexusFileName":"Main (Live) File","nexusFileVersion":"1.0.0.118","nexusFileUploadedAt":1784728030,"pakFileName":"CampActivitiesFixed_82983cc8-c8f3-790c-d3ff-cf448ce04845.pak","nexusFileId":126213,"metaUuid":"82983cc8-c8f3-790c-d3ff-cf448ce04845"}
 ]},
 "23457":{"nexusModName":"Agonizing Cantrips","nexusUploadedBy":"yoonmoonsik43","nexusModId":23457,"paks":[
 {"nexusFileName":"Agonizingcantrip D2c2aab8 E7fb K9cx","nexusFileVersion":"2","nexusFileUploadedAt":1781854232,"pakFileName":"AgonizingCantrip_d2c2aab8-e7fb-98fe-8793-c1c0a198a211.pak","nexusFileId":123870,"metaUuid":"d2c2aab8-e7fb-98fe-8793-c1c0a198a211"}
@@ -66878,7 +66878,8 @@
 {"nexusFileName":"CapitalistHellMarkersofDevotion","nexusFileVersion":"1.0.1.16","nexusFileUploadedAt":1784168876,"pakFileName":"CapitalistHellMarkersofDevotion.pak","nexusFileId":125759,"metaUuid":null}
 ]},
 "23892":{"nexusModName":"Hot Thing - Karlach edit","nexusUploadedBy":"SweetGenerousThing","nexusModId":23892,"paks":[
-{"nexusFileName":"SGT_Hot Thing_Karlach edit","nexusFileVersion":"1","nexusFileUploadedAt":1784119367,"pakFileName":"SGT_KarlachEdit_ad691c90-093a-33fe-81d4-3d33cb3b06e2.pak","nexusFileId":125702,"metaUuid":"ad691c90-093a-33fe-81d4-3d33cb3b06e2"}
+{"nexusFileName":"SGT_Hot Thing_Karlach edit","nexusFileVersion":"1","nexusFileUploadedAt":1784119367,"pakFileName":"SGT_KarlachEdit_ad691c90-093a-33fe-81d4-3d33cb3b06e2.pak","nexusFileId":125702,"metaUuid":"ad691c90-093a-33fe-81d4-3d33cb3b06e2"},
+{"nexusFileName":"SGT_Hot Thing - Portrait","nexusFileVersion":"1","nexusFileUploadedAt":1784725330,"pakFileName":"Hot Thing - Karlach Portrait.pak","nexusFileId":126210,"metaUuid":null}
 ]},
 "23893":{"nexusModName":"Noir Poses - Solo Edition","nexusUploadedBy":"MunchyInTechnicolor","nexusModId":23893,"paks":[
 {"nexusFileName":"NoirPoses Solo V1","nexusFileVersion":"1","nexusFileUploadedAt":1784160634,"pakFileName":"NoirPoses_Solo_V1.pak","nexusFileId":125751,"metaUuid":null}
@@ -67116,4 +67117,7 @@
 "24001":{"nexusModName":"The Outfit With No Name","nexusUploadedBy":"magnetuning","nexusModId":24001,"paks":[
 {"nexusFileName":"The Outfit With No Name - PAK","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1784710831,"pakFileName":"MGNTN_OutfitWithNoName.pak","nexusFileId":126198,"metaUuid":null},
 {"nexusFileName":"The Outfit With No Name - Tutorial Chest Patch","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1784711081,"pakFileName":"MGNTN_OutfitWithNoName_TUTChestPatch.pak","nexusFileId":126199,"metaUuid":null}
+]},
+"24002":{"nexusModName":"Cleric Shield - Spell List Expansion","nexusUploadedBy":"Reveurr","nexusModId":24002,"paks":[
+{"nexusFileName":"Cleric Shield - Spell List Expansion","nexusFileVersion":"1","nexusFileUploadedAt":1784727732,"pakFileName":"ShieldForClerics_5916062b-227d-9c66-1103-8942e9103359.pak","nexusFileId":126212,"metaUuid":null}
 ]}}
