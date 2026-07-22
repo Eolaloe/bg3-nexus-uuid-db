@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-07-21T23:54:14.985710+00:00","total_mods":16964},
+{"_meta":{"last_run":"2026-07-22T00:53:04.192328+00:00","total_mods":16966},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -66851,7 +66851,8 @@
 {"nexusFileName":"CorrectCounterspell","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1784063682,"pakFileName":"CorrectCounterspell_3d1b5440-1bf1-45c1-4530-097ca976bf6f.pak","nexusFileId":125655,"metaUuid":"3d1b5440-1bf1-45c1-4530-097ca976bf6f"}
 ]},
 "23881":{"nexusModName":"Best of Hands - Quick Lockpick and Disarm","nexusUploadedBy":"nymphipoo","nexusModId":23881,"paks":[
-{"nexusFileName":"Best of Hands - Quick Lockpick and Disarm","nexusFileVersion":"1.0.1","nexusFileUploadedAt":1784498503,"pakFileName":"BestofHands.pak","nexusFileId":126038,"metaUuid":"8a82593c-28a3-4ed1-8c46-3d9bacff42e1"}
+{"nexusFileName":"Best of Hands - Quick Lockpick and Disarm","nexusFileVersion":"1.0.1","nexusFileUploadedAt":1784498503,"pakFileName":"BestofHands.pak","nexusFileId":126038,"metaUuid":"8a82593c-28a3-4ed1-8c46-3d9bacff42e1"},
+{"nexusFileName":"Test Build","nexusFileVersion":"1.1.0beta","nexusFileUploadedAt":1784679776,"pakFileName":"BestofHands.pak","nexusFileId":126186,"metaUuid":"8a82593c-28a3-4ed1-8c46-3d9bacff42e1"}
 ]},
 "23883":{"nexusModName":"Dynamic Permanent Summons","nexusUploadedBy":"actualsailorcat","nexusModId":23883,"paks":[
 {"nexusFileName":"Dynamic Permanent Summons","nexusFileVersion":"1.00.01","nexusFileUploadedAt":1784135441,"pakFileName":"Dynamic Permanent Summons.pak","nexusFileId":125728,"metaUuid":"e9a6d786-ee7b-4bb1-8122-3783f192ac75"}
@@ -67090,9 +67091,15 @@
 {"nexusFileName":"BodyAndClothingMorph V413 LaunchPackage 20260721","nexusFileVersion":"1","nexusFileUploadedAt":1784672688,"pakFileName":"ClothMorphContent.pak","nexusFileId":126177,"metaUuid":null},
 {"nexusFileName":"BodyAndClothingMorph V413 LaunchPackage 20260721","nexusFileVersion":"1","nexusFileUploadedAt":1784672688,"pakFileName":"ClothMorphRuntime.pak","nexusFileId":126177,"metaUuid":null}
 ]},
+"23993":{"nexusModName":"Planescapes","nexusUploadedBy":"Terrorbyte33","nexusModId":23993,"paks":[
+{"nexusFileName":"Planescapes","nexusFileVersion":"1","nexusFileUploadedAt":1784673215,"pakFileName":"Planescapes.pak","nexusFileId":126179,"metaUuid":null}
+]},
 "23994":{"nexusModName":"Hunter's Crossbow","nexusUploadedBy":"NetRaptor","nexusModId":23994,"paks":[
 {"nexusFileName":"Hunter's Crossbow","nexusFileVersion":"1","nexusFileUploadedAt":1784676136,"pakFileName":"HuntersCrossbow_864a3159-bd3b-6349-8581-5cdc77032593.pak","nexusFileId":126182,"metaUuid":null}
 ]},
 "23995":{"nexusModName":"Vampire Race (PT-BR)","nexusUploadedBy":"Firetoga","nexusModId":23995,"paks":[
 {"nexusFileName":"Vampire Race (PT-BR)","nexusFileVersion":"1.0.0.87","nexusFileUploadedAt":1784675941,"pakFileName":"Vampire_Race_BR.pak","nexusFileId":126181,"metaUuid":null}
+]},
+"23996":{"nexusModName":"Pickle Pisstress","nexusUploadedBy":"meepmeganmeep","nexusModId":23996,"paks":[
+{"nexusFileName":"Pickle Pisstress","nexusFileVersion":"1","nexusFileUploadedAt":1784680230,"pakFileName":"Pickle_Pisstress_18486386-a063-1cff-f832-a2e4de942790.pak","nexusFileId":126187,"metaUuid":null}
 ]}}
