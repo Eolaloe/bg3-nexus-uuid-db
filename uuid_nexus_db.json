@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-07-22T17:52:15.350710+00:00","total_mods":16977},
+{"_meta":{"last_run":"2026-07-22T18:52:01.837995+00:00","total_mods":16979},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -56550,7 +56550,8 @@
 "20083":{"nexusModName":"Celestial Might - Playable Aasimar","nexusUploadedBy":"tepkunset","nexusModId":20083,"paks":[
 {"nexusFileName":"Celestial Might Heads","nexusFileVersion":"2.1","nexusFileUploadedAt":1774524510,"pakFileName":"CelestialMightHeads.pak","nexusFileId":117494,"metaUuid":"d1c8fac1-8f09-9dc9-a546-05fb4ac9ace8"},
 {"nexusFileName":"Celestial Might Aasimar","nexusFileVersion":"2.2","nexusFileUploadedAt":1777989372,"pakFileName":"CelestialMightAasimar.pak","nexusFileId":120588,"metaUuid":"5b59f11d-cec5-c8a3-8448-97208c9e5f0f"},
-{"nexusFileName":"CelestialMightAasimar KAVT Patch","nexusFileVersion":"2.2","nexusFileUploadedAt":1777989407,"pakFileName":"CelestialMightAasimar KAVT Patch.pak","nexusFileId":120589,"metaUuid":"627710fc-9631-413c-801c-8a15fb163609"}
+{"nexusFileName":"CelestialMightAasimar KAVT Patch","nexusFileVersion":"2.2","nexusFileUploadedAt":1777989407,"pakFileName":"CelestialMightAasimar KAVT Patch.pak","nexusFileId":120589,"metaUuid":"627710fc-9631-413c-801c-8a15fb163609"},
+{"nexusFileName":"CelestialMightAasimar STAV Patch","nexusFileVersion":"1","nexusFileUploadedAt":1784745972,"pakFileName":"CelestialMightAasimar STAV Patch.pak","nexusFileId":126238,"metaUuid":null}
 ]},
 "20088":{"nexusModName":"Sandi's Waypoint Only Fast Travel - BH Vova's Edn.","nexusUploadedBy":"Sandiford","nexusModId":20088,"paks":[
 {"nexusFileName":"Sandi's Waypoint Only Fast Travel - Remover","nexusFileVersion":"2","nexusFileUploadedAt":1766266393,"pakFileName":"Sandis Waypoint Only Fast Travel - Remover.pak","nexusFileId":109980,"metaUuid":null},
@@ -65053,7 +65054,7 @@
 {"nexusFileName":"WinterWeave Ff2918e4 29a5 144d 8a51 4bb260156f3f","nexusFileVersion":"1","nexusFileUploadedAt":1780236772,"pakFileName":"WinterWeave_ff2918e4-29a5-144d-8a51-4bb260156f3f.pak","nexusFileId":122518,"metaUuid":null}
 ]},
 "23138":{"nexusModName":"Vampiric Head Pack","nexusUploadedBy":"manuliparoni","nexusModId":23138,"paks":[
-{"nexusFileName":"Vampiric Head Pack","nexusFileVersion":"3","nexusFileUploadedAt":1782400822,"pakFileName":"Vampiric_head_pack.pak","nexusFileId":124265,"metaUuid":"474899fa-02b2-4a9d-acd7-96c4e900903e"}
+{"nexusFileName":"Vampiric Head Pack","nexusFileVersion":"1.2","nexusFileUploadedAt":1782400822,"pakFileName":"Vampiric_head_pack.pak","nexusFileId":124265,"metaUuid":"474899fa-02b2-4a9d-acd7-96c4e900903e"}
 ]},
 "23139":{"nexusModName":"Solo Leveling - Shadow Monarch MCM","nexusUploadedBy":"iNoah","nexusModId":23139,"paks":[
 {"nexusFileName":"SoloLeveling Shadow Exchange Patch","nexusFileVersion":"1","nexusFileUploadedAt":1782512591,"pakFileName":"SoloLeveling_Shadow_Exchange_Patch.pak","nexusFileId":124347,"metaUuid":"718005a5-0cc1-460f-aa25-79f332f4100d"},
@@ -67074,6 +67075,9 @@
 "23986":{"nexusModName":"Interesting Origins CHS","nexusUploadedBy":"ngqx264","nexusModId":23986,"paks":[
 {"nexusFileName":"Interesting Origins CHS","nexusFileVersion":"1","nexusFileUploadedAt":1784649120,"pakFileName":"Interesting Origins CHS.pak","nexusFileId":126148,"metaUuid":null}
 ]},
+"23987":{"nexusModName":"The Dreamer's Divide","nexusUploadedBy":"axianaa","nexusModId":23987,"paks":[
+{"nexusFileName":"The Dreamer's Divide","nexusFileVersion":"1.0.0.14","nexusFileUploadedAt":1784743764,"pakFileName":"The_Dreamers_Divide.pak","nexusFileId":126237,"metaUuid":null}
+]},
 "23989":{"nexusModName":"Devil Fruit User Class (Gomu Gomu no Mi)","nexusUploadedBy":"SORRAG","nexusModId":23989,"paks":[
 {"nexusFileName":"Devil Fruit User Class","nexusFileVersion":"1.1.0","nexusFileUploadedAt":1784659929,"pakFileName":"DevilFruitUser_38428ec6-e04a-747b-759c-2b2ac3b5e489.pak","nexusFileId":126156,"metaUuid":null}
 ]},
@@ -67142,4 +67146,7 @@
 "24009":{"nexusModName":"Create More Undead","nexusUploadedBy":"edhelsereg","nexusModId":24009,"paks":[
 {"nexusFileName":"CreateMoreUndead By Edhelsereg","nexusFileVersion":"1","nexusFileUploadedAt":1784741988,"pakFileName":"CreateMoreUndead_50ff21b4-ac17-38fb-aabb-e1c52a1c4ff9.pak","nexusFileId":126235,"metaUuid":null},
 {"nexusFileName":"CreateMoreUndead By Edhelsereg","nexusFileVersion":"1","nexusFileUploadedAt":1784741988,"pakFileName":"._CreateMoreUndead_50ff21b4-ac17-38fb-aabb-e1c52a1c4ff9.pak","nexusFileId":126235,"metaUuid":null}
+]},
+"24010":{"nexusModName":"Warlock Invocation Overhaul","nexusUploadedBy":"TheDoctorWhomst","nexusModId":24010,"paks":[
+{"nexusFileName":"Warlock Invocation Overhaul","nexusFileVersion":"1","nexusFileUploadedAt":1784745999,"pakFileName":"Warlock_Invocation_Overhaul_6af445c7-cc7c-705c-4655-222df7bfd1d1.pak","nexusFileId":126239,"metaUuid":null}
 ]}}
