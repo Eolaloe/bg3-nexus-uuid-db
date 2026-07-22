@@ -17775,7 +17775,7 @@
 {"nexusFileName":"ThomasTankSummon","nexusFileVersion":"1.1.0.0","nexusFileUploadedAt":1709917325,"pakFileName":"ThomasTankSummon.pak","nexusFileId":49009,"metaUuid":null}
 ]},
 "5618":{"nexusModName":"Shorter Staves","nexusUploadedBy":"tanna0","nexusModId":5618,"paks":[
-{"nexusFileName":"Shorter Staves (PAK)","nexusFileVersion":"1.0","nexusFileUploadedAt":1704318989,"pakFileName":"Shorter_Staves.pak","nexusFileId":37925,"metaUuid":null}
+{"nexusFileName":"Shorter Staves (PAK)","nexusFileVersion":"1.0","nexusFileUploadedAt":1704318989,"pakFileName":"Shorter_Staves.pak","nexusFileId":37925,"metaUuid":"7416ff60-d860-4d0b-a0fc-8aaa13f62734"}
 ]},
 "5619":{"nexusModName":"Talos' Armory - Legendary Armor Set and Accessories","nexusUploadedBy":"Archigosai","nexusModId":5619,"paks":[
 {"nexusFileName":"AccessoriesOfTalos","nexusFileVersion":"1.1","nexusFileUploadedAt":1704417529,"pakFileName":"TalassanAccessories.pak","nexusFileId":38109,"metaUuid":null},
@@ -38970,11 +38970,11 @@
 {"nexusFileName":"Fade's Equipment Distribution - FED","nexusFileVersion":"1.0.0.25","nexusFileUploadedAt":1756770092,"pakFileName":"FED_3baef2b9-80d3-777b-a256-394f7f7be0d8.pak","nexusFileId":101898,"metaUuid":"3baef2b9-80d3-777b-a256-394f7f7be0d8"}
 ]},
 "13825":{"nexusModName":"Tweaks to Eldritch Invocations and new Homebrew invocations for Warlocks","nexusUploadedBy":"dmarquez","nexusModId":13825,"paks":[
-{"nexusFileName":"Shadowflight Invocation","nexusFileVersion":"1.0","nexusFileUploadedAt":1731710772,"pakFileName":"ShadowflightInvocation.pak","nexusFileId":79049,"metaUuid":null},
-{"nexusFileName":"Armour of Shadows Tweaks","nexusFileVersion":"1.0","nexusFileUploadedAt":1731713910,"pakFileName":"ArmorofShadowsInvocationTweak.pak","nexusFileId":79054,"metaUuid":null},
-{"nexusFileName":"Eldritch Overload Invocation","nexusFileVersion":"1.1","nexusFileUploadedAt":1732045124,"pakFileName":"QuickenedInvocation.pak","nexusFileId":79404,"metaUuid":null},
-{"nexusFileName":"Minions of Chaos","nexusFileVersion":"1.0","nexusFileUploadedAt":1732850822,"pakFileName":"MinionofChaosLvlScale.pak","nexusFileId":80419,"metaUuid":null},
-{"nexusFileName":"More Spellslots and Invocations","nexusFileVersion":"1.1","nexusFileUploadedAt":1732989461,"pakFileName":"MoreSpellslotsandInvocations.pak","nexusFileId":80601,"metaUuid":null}
+{"nexusFileName":"Shadowflight Invocation","nexusFileVersion":"1.0","nexusFileUploadedAt":1731710772,"pakFileName":"ShadowflightInvocation.pak","nexusFileId":79049,"metaUuid":"d868e9f9-9404-413b-9bc9-e677cd5d5fea"},
+{"nexusFileName":"Armour of Shadows Tweaks","nexusFileVersion":"1.0","nexusFileUploadedAt":1731713910,"pakFileName":"ArmorofShadowsInvocationTweak.pak","nexusFileId":79054,"metaUuid":"b3acf715-f027-43f6-ae71-d719e5bf71cc"},
+{"nexusFileName":"Eldritch Overload Invocation","nexusFileVersion":"1.1","nexusFileUploadedAt":1732045124,"pakFileName":"QuickenedInvocation.pak","nexusFileId":79404,"metaUuid":"605ff18b-7332-44a1-895f-3a3503b97701"},
+{"nexusFileName":"Minions of Chaos","nexusFileVersion":"1.0","nexusFileUploadedAt":1732850822,"pakFileName":"MinionofChaosLvlScale.pak","nexusFileId":80419,"metaUuid":"386be151-fad0-4bc6-87d1-e26a85a46548"},
+{"nexusFileName":"More Spellslots and Invocations","nexusFileVersion":"1.1","nexusFileUploadedAt":1732989461,"pakFileName":"MoreSpellslotsandInvocations.pak","nexusFileId":80601,"metaUuid":"6a1c1e37-ac23-4959-a307-e9e8984b8f35"}
 ]},
 "13827":{"nexusModName":"Calculated Ferocity - Early Game Barbarian items","nexusUploadedBy":"Cordelliia","nexusModId":13827,"paks":[
 {"nexusFileName":"Calculated Ferocity","nexusFileVersion":"1.1","nexusFileUploadedAt":1731722461,"pakFileName":"BarbarianActOneStuff_49977c2a-5ce8-17c0-6764-ffd88bef668a.pak","nexusFileId":79063,"metaUuid":"49977c2a-5ce8-17c0-6764-ffd88bef668a"}
@@ -47535,7 +47535,7 @@
 {"nexusFileName":"Xara's LibraryCHS","nexusFileVersion":"1.5","nexusFileUploadedAt":1755374221,"pakFileName":"XaraLibraryCHS.pak","nexusFileId":100782,"metaUuid":null}
 ]},
 "17122":{"nexusModName":"Guidance Until Long Rest (Patch 8 Compatible)","nexusUploadedBy":"CatAnatomie","nexusModId":17122,"paks":[
-{"nexusFileName":"GuidanceTilLongRest","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1749784174,"pakFileName":"GuidanceTilLongRest_b66fdfcb-0ef9-1d90-62c5-0f68a2027175.pak","nexusFileId":95744,"metaUuid":null}
+{"nexusFileName":"GuidanceTilLongRest","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1749784174,"pakFileName":"GuidanceTilLongRest_b66fdfcb-0ef9-1d90-62c5-0f68a2027175.pak","nexusFileId":95744,"metaUuid":"b66fdfcb-0ef9-1d90-62c5-0f68a2027175"}
 ]},
 "17123":{"nexusModName":"Character Appearance Editor (Charactery Character Editory Editor) (CCEE) WIP","nexusUploadedBy":"rakor","nexusModId":17123,"paks":[
 {"nexusFileName":"CCEE","nexusFileVersion":"1.1.0","nexusFileUploadedAt":1783649563,"pakFileName":"CCEE_de58d193-9a32-7db1-de7c-69e4e55b4002.pak","nexusFileId":125319,"metaUuid":"de58d193-9a32-7db1-de7c-69e4e55b4002"}
@@ -58056,7 +58056,7 @@
 ]},
 "20608":{"nexusModName":"Dusk's Favour - A Buffed Moonlight-Themed Cold and Radiant Divine Favour - Multiple Versions","nexusUploadedBy":"SymboJones","nexusModId":20608,"paks":[
 {"nexusFileName":"A-01. Dusk's Favour - CRF Divine Favour","nexusFileVersion":"1.0.0-A-01","nexusFileUploadedAt":1768104637,"pakFileName":"Dusks Favour - Cold Radiant and Force Divine Favour - A-01.pak","nexusFileId":111849,"metaUuid":null},
-{"nexusFileName":"A-02. Dusk's Favour - CRF - Permanent","nexusFileVersion":"1.0.0-A-02","nexusFileUploadedAt":1768104733,"pakFileName":"Dusks Favour - Cold Radiant and Force Divine Favour - A-02.pak","nexusFileId":111850,"metaUuid":null},
+{"nexusFileName":"A-02. Dusk's Favour - CRF - Permanent","nexusFileVersion":"1.0.0-A-02","nexusFileUploadedAt":1768104733,"pakFileName":"Dusks Favour - Cold Radiant and Force Divine Favour - A-02.pak","nexusFileId":111850,"metaUuid":"de19a7c9-1334-4868-ae32-ec7ccfdeaf80"},
 {"nexusFileName":"A-03. Dusk's Favour - CRF - 10 Turns","nexusFileVersion":"1.0.0-A-03","nexusFileUploadedAt":1768104852,"pakFileName":"Dusks Favour - Cold Radiant and Force Divine Favour - A-03.pak","nexusFileId":111851,"metaUuid":null},
 {"nexusFileName":"A-04. Dusk's Favour - CRF - LR Concentration","nexusFileVersion":"1.0.0-A-04","nexusFileUploadedAt":1768104988,"pakFileName":"Dusks Favour - Cold Radiant and Force Divine Favour - A-04.pak","nexusFileId":111852,"metaUuid":null},
 {"nexusFileName":"A-05. Dusk's Favour - CRF - 10 Turn Conc. (PHB)","nexusFileVersion":"1.0.0-A-05","nexusFileUploadedAt":1768105106,"pakFileName":"Dusks Favour - Cold Radiant and Force Divine Favour - A-05.pak","nexusFileId":111853,"metaUuid":"88096ef7-dd43-4873-9edb-8d9bc4f9ac0d"},
@@ -61307,7 +61307,7 @@
 ]},
 "21743":{"nexusModName":"Metamagic Merged","nexusUploadedBy":"AIbator","nexusModId":21743,"paks":[
 {"nexusFileName":"Metamagic Merged - Duplicate Patch (Essential)","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1772743619,"pakFileName":"Metamagic Merged - Duplicate Patch (Essential).pak","nexusFileId":116128,"metaUuid":null},
-{"nexusFileName":"Metamagic Merged - Duplicate Patch (FeatsExtra)","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1772743639,"pakFileName":"Metamagic Merged - Duplicate Patch (FeatsExtra).pak","nexusFileId":116129,"metaUuid":null},
+{"nexusFileName":"Metamagic Merged - Duplicate Patch (FeatsExtra)","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1772743639,"pakFileName":"Metamagic Merged - Duplicate Patch (FeatsExtra).pak","nexusFileId":116129,"metaUuid":"c4d5e6f7-8901-2345-abcd-ef6789012345"},
 {"nexusFileName":"Metamagic Merged - Duplicate Patch","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1772743666,"pakFileName":"Metamagic Merged - Duplicate Patch.pak","nexusFileId":116130,"metaUuid":"c4d5e6f7-8901-2345-abcd-ef6789012345"},
 {"nexusFileName":"Metamagic Merged","nexusFileVersion":"1.1.0","nexusFileUploadedAt":1779738342,"pakFileName":"Metamagic_Merged.pak","nexusFileId":122128,"metaUuid":"a1b2c3d4-e5f6-7890-abcd-ef1234567890"}
 ]},
@@ -67024,7 +67024,7 @@
 {"nexusFileName":"Npcs Have Subclasses Chs 3c1ba 0fwh","nexusFileVersion":"1","nexusFileUploadedAt":1784548605,"pakFileName":"NPCs_have_Subclasses_CHS_3c1baa36-d2d4-8c39-0046-5028c409d406.pak","nexusFileId":126073,"metaUuid":null}
 ]},
 "23963":{"nexusModName":"Eyes of the Hoarder","nexusUploadedBy":"MiahNelah","nexusModId":23963,"paks":[
-{"nexusFileName":"EyesOfTheHoarder","nexusFileVersion":"1.2.0.0","nexusFileUploadedAt":1784748129,"pakFileName":"EyesOfTheHoarder-1.2.0.0.pak","nexusFileId":126241,"metaUuid":null}
+{"nexusFileName":"EyesOfTheHoarder","nexusFileVersion":"1.2.0.0","nexusFileUploadedAt":1784748129,"pakFileName":"EyesOfTheHoarder-1.2.0.0.pak","nexusFileId":126241,"metaUuid":"0292cb8a-600a-4c29-9f22-dd9b32ef6758"}
 ]},
 "23965":{"nexusModName":"CombatBodysuit_TheFirstDescendant_ViessaUltimate","nexusUploadedBy":"EvilRecluse","nexusModId":23965,"paks":[
 {"nexusFileName":"CombatBodysuit TheFirstDescendant ViessaUltimate","nexusFileVersion":"1","nexusFileUploadedAt":1784536547,"pakFileName":"CombatBodysuit_TheFirstDescendant_ViessaUltimate.pak","nexusFileId":126059,"metaUuid":null}
@@ -67147,8 +67147,8 @@
 {"nexusFileName":"CreateMoreUndead By Edhelsereg","nexusFileVersion":"1","nexusFileUploadedAt":1784741988,"pakFileName":"._CreateMoreUndead_50ff21b4-ac17-38fb-aabb-e1c52a1c4ff9.pak","nexusFileId":126235,"metaUuid":null}
 ]},
 "24010":{"nexusModName":"Warlock Invocation Overhaul","nexusUploadedBy":"TheDoctorWhomst","nexusModId":24010,"paks":[
-{"nexusFileName":"Warlock Invocation Overhaul","nexusFileVersion":"1","nexusFileUploadedAt":1784745999,"pakFileName":"Warlock_Invocation_Overhaul_6af445c7-cc7c-705c-4655-222df7bfd1d1.pak","nexusFileId":126239,"metaUuid":null}
+{"nexusFileName":"Warlock Invocation Overhaul","nexusFileVersion":"1","nexusFileUploadedAt":1784745999,"pakFileName":"Warlock_Invocation_Overhaul_6af445c7-cc7c-705c-4655-222df7bfd1d1.pak","nexusFileId":126239,"metaUuid":"6af445c7-cc7c-705c-4655-222df7bfd1d1"}
 ]},
 "24011":{"nexusModName":"Sharess' Caress' New Look","nexusUploadedBy":"Khloii1","nexusModId":24011,"paks":[
-{"nexusFileName":"Sharess' Caress' New Look","nexusFileVersion":"1.0","nexusFileUploadedAt":1784749231,"pakFileName":"Sharess_Caress_New_Look_b65899da-47ef-fa5c-abc2-4fb97915974f.pak","nexusFileId":126245,"metaUuid":null}
+{"nexusFileName":"Sharess' Caress' New Look","nexusFileVersion":"1.0","nexusFileUploadedAt":1784749231,"pakFileName":"Sharess_Caress_New_Look_b65899da-47ef-fa5c-abc2-4fb97915974f.pak","nexusFileId":126245,"metaUuid":"b65899da-47ef-fa5c-abc2-4fb97915974f"}
 ]}}
