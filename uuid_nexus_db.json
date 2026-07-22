@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-07-22T06:53:26.283213+00:00","total_mods":16967},
+{"_meta":{"last_run":"2026-07-22T07:53:14.794898+00:00","total_mods":16968},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -39398,7 +39398,8 @@
 {"nexusFileName":"PhalarAluveLegendary-CHS","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1732367200,"pakFileName":"PhalarAluveLegendary-CHS.pak","nexusFileId":79777,"metaUuid":null}
 ]},
 "13958":{"nexusModName":"Tales of the Forgotten Resources","nexusUploadedBy":"XirlioMerazul","nexusModId":13958,"paks":[
-{"nexusFileName":"ToTF Shadowheart","nexusFileVersion":"1","nexusFileUploadedAt":1783523004,"pakFileName":"ToTF Shadowheart.pak","nexusFileId":125225,"metaUuid":null}
+{"nexusFileName":"ToTF Shadowheart","nexusFileVersion":"1","nexusFileUploadedAt":1783523004,"pakFileName":"ToTF Shadowheart.pak","nexusFileId":125225,"metaUuid":null},
+{"nexusFileName":"ToTF REL_Light Immersive Items Resources","nexusFileVersion":"R8","nexusFileUploadedAt":1784706335,"pakFileName":"RandomizedEquipmentLootLight_Vanilla.pak","nexusFileId":126197,"metaUuid":null}
 ]},
 "13959":{"nexusModName":"5e Fey Wanderer - Ranger Subclass (Deprecated)","nexusUploadedBy":"sumradagnoth8","nexusModId":13959,"paks":[
 {"nexusFileName":"FeyWanderer5e.zip","nexusFileVersion":"1.9.0.2","nexusFileUploadedAt":1732577357,"pakFileName":"FeyWanderer5e.pak","nexusFileId":80117,"metaUuid":null},
@@ -67105,4 +67106,7 @@
 ]},
 "23999":{"nexusModName":"Enemy Loot Randomizer","nexusUploadedBy":"GabeCamomescro","nexusModId":23999,"paks":[
 {"nexusFileName":"Gabesenemylootrandomizer 4549d 4bhx","nexusFileVersion":"1.0.0.288","nexusFileUploadedAt":1784700765,"pakFileName":"GabesEnemyLootRandomizer_4549d561-e6e6-8631-873a-5fbf2d730242.pak","nexusFileId":126194,"metaUuid":null}
+]},
+"24000":{"nexusModName":"Underdark Cork Hat","nexusUploadedBy":"Volno","nexusModId":24000,"paks":[
+{"nexusFileName":"Cork Hat Fb3c0429 A3bc 88bb 9519 935d6b15e51e","nexusFileVersion":"1.0.0.3","nexusFileUploadedAt":1784705895,"pakFileName":"Cork_Hat_fb3c0429-a3bc-88bb-9519-935d6b15e51e.pak","nexusFileId":126195,"metaUuid":null}
 ]}}
