@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-07-22T05:53:03.993524+00:00","total_mods":16965},
+{"_meta":{"last_run":"2026-07-22T06:53:26.283213+00:00","total_mods":16967},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -67051,6 +67051,9 @@
 "23979":{"nexusModName":"Twinblades of the Bickering Gods","nexusUploadedBy":"haytur","nexusModId":23979,"paks":[
 {"nexusFileName":"Khopesh","nexusFileVersion":"1.1","nexusFileUploadedAt":1784652574,"pakFileName":"Khopesh.pak","nexusFileId":126150,"metaUuid":"0b90fcd4-2296-5543-719e-064dde10774d"}
 ]},
+"23980":{"nexusModName":"Flora Fey Dress","nexusUploadedBy":"Elledwyn","nexusModId":23980,"paks":[
+{"nexusFileName":"Elle Flora Fey Dress","nexusFileVersion":"1","nexusFileUploadedAt":1784615337,"pakFileName":"Elle_Flora_Fey_Dress_38d987ed-b125-0310-274d-6969e87176ba.pak","nexusFileId":126118,"metaUuid":null}
+]},
 "23981":{"nexusModName":"Respec Limit - 3 Per Act","nexusUploadedBy":"Darkside057","nexusModId":23981,"paks":[
 {"nexusFileName":"Limit Respecs","nexusFileVersion":"1","nexusFileUploadedAt":1784616611,"pakFileName":"Limit_Respecs_4dfece18-0f04-7232-98c8-29abe4cdaa34.pak","nexusFileId":126120,"metaUuid":null}
 ]},
@@ -67099,4 +67102,7 @@
 ]},
 "23997":{"nexusModName":"Cleric Haste - Spell List Expansion","nexusUploadedBy":"Reveurr","nexusModId":23997,"paks":[
 {"nexusFileName":"Cleric Haste - Spell List Expansion","nexusFileVersion":"2","nexusFileUploadedAt":1784683219,"pakFileName":"HasteForCleric_399d521f-86ba-30a0-5e1e-85fd2cdc531a.pak","nexusFileId":126191,"metaUuid":null}
+]},
+"23999":{"nexusModName":"Enemy Loot Randomizer","nexusUploadedBy":"GabeCamomescro","nexusModId":23999,"paks":[
+{"nexusFileName":"Gabesenemylootrandomizer 4549d 4bhx","nexusFileVersion":"1.0.0.288","nexusFileUploadedAt":1784700765,"pakFileName":"GabesEnemyLootRandomizer_4549d561-e6e6-8631-873a-5fbf2d730242.pak","nexusFileId":126194,"metaUuid":null}
 ]}}
