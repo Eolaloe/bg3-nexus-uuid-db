@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-07-22T22:52:11.547378+00:00","total_mods":16981},
+{"_meta":{"last_run":"2026-07-22T23:52:00.313475+00:00","total_mods":16986},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -65777,6 +65777,9 @@
 "23409":{"nexusModName":"The Watcher's Gaze","nexusUploadedBy":"chain181","nexusModId":23409,"paks":[
 {"nexusFileName":"Helmet Variants 63d79229 756c 4cr6","nexusFileVersion":"1","nexusFileUploadedAt":1781637307,"pakFileName":"Helmet_Variants_63d79229-756c-3b69-f7b4-35c0491077a6.pak","nexusFileId":123727,"metaUuid":"63d79229-756c-3b69-f7b4-35c0491077a6"}
 ]},
+"23411":{"nexusModName":"All In Game Gears Mod","nexusUploadedBy":"BigBlackCorgi","nexusModId":23411,"paks":[
+{"nexusFileName":"AllGearsChest","nexusFileVersion":"1","nexusFileUploadedAt":1784761711,"pakFileName":"AllGearsChest.pak","nexusFileId":126254,"metaUuid":null}
+]},
 "23413":{"nexusModName":"BG3WASD Camera Follow (Fork) - Smooth Camera Modes","nexusUploadedBy":"snowwy123","nexusModId":23413,"paks":[
 {"nexusFileName":"BG3WASD CameraFollow V1.2.0","nexusFileVersion":"1.2.0","nexusFileUploadedAt":1782930560,"pakFileName":"BG3YawBridge.pak","nexusFileId":124673,"metaUuid":"3f33bb6d-4c56-4a63-b01f-0c0f72f13b1d"}
 ]},
@@ -67143,8 +67146,8 @@
 {"nexusFileName":"Lae'zel Better Starting Gear (PT-BR)","nexusFileVersion":"2.0","nexusFileUploadedAt":1784737864,"pakFileName":"Aza_Laezel_BSGv2_BR.pak","nexusFileId":126230,"metaUuid":null}
 ]},
 "24009":{"nexusModName":"Create More Undead","nexusUploadedBy":"edhelsereg","nexusModId":24009,"paks":[
-{"nexusFileName":"CreateMoreUndead By Edhelsereg","nexusFileVersion":"1","nexusFileUploadedAt":1784741988,"pakFileName":"CreateMoreUndead_50ff21b4-ac17-38fb-aabb-e1c52a1c4ff9.pak","nexusFileId":126235,"metaUuid":null},
-{"nexusFileName":"CreateMoreUndead By Edhelsereg","nexusFileVersion":"1","nexusFileUploadedAt":1784741988,"pakFileName":"._CreateMoreUndead_50ff21b4-ac17-38fb-aabb-e1c52a1c4ff9.pak","nexusFileId":126235,"metaUuid":null}
+{"nexusFileName":"CreateMoreUndead By Edhelsereg","nexusFileVersion":"1.1","nexusFileUploadedAt":1784761796,"pakFileName":"CreateMoreUndead_50ff21b4-ac17-38fb-aabb-e1c52a1c4ff9-2.pak","nexusFileId":126255,"metaUuid":null},
+{"nexusFileName":"CreateMoreUndead By Edhelsereg","nexusFileVersion":"1.1","nexusFileUploadedAt":1784761796,"pakFileName":"._CreateMoreUndead_50ff21b4-ac17-38fb-aabb-e1c52a1c4ff9-2.pak","nexusFileId":126255,"metaUuid":null}
 ]},
 "24010":{"nexusModName":"Warlock Invocation Overhaul","nexusUploadedBy":"TheDoctorWhomst","nexusModId":24010,"paks":[
 {"nexusFileName":"Warlock Invocation Overhaul","nexusFileVersion":"1","nexusFileUploadedAt":1784745999,"pakFileName":"Warlock_Invocation_Overhaul_6af445c7-cc7c-705c-4655-222df7bfd1d1.pak","nexusFileId":126239,"metaUuid":"6af445c7-cc7c-705c-4655-222df7bfd1d1"}
@@ -67152,6 +67155,18 @@
 "24011":{"nexusModName":"Sharess' Caress' New Look","nexusUploadedBy":"Khloii1","nexusModId":24011,"paks":[
 {"nexusFileName":"Sharess' Caress' New Look","nexusFileVersion":"1.0","nexusFileUploadedAt":1784749231,"pakFileName":"Sharess_Caress_New_Look_b65899da-47ef-fa5c-abc2-4fb97915974f.pak","nexusFileId":126245,"metaUuid":"b65899da-47ef-fa5c-abc2-4fb97915974f"}
 ]},
+"24012":{"nexusModName":"A Touch of Fey - Weapons Pack","nexusUploadedBy":"khaleesinz","nexusModId":24012,"paks":[
+{"nexusFileName":"A Touch of Fey","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1784760609,"pakFileName":"ATouchOfFey_khaleesinz_b9807609-284b-9978-7564-895892cc55f1.pak","nexusFileId":126252,"metaUuid":null}
+]},
+"24013":{"nexusModName":"Catstarion","nexusUploadedBy":"RevolutionScribe","nexusModId":24013,"paks":[
+{"nexusFileName":"Catstarion","nexusFileVersion":"1.0.0.2","nexusFileUploadedAt":1784761222,"pakFileName":"Catstarion_1.0.0.2.pak","nexusFileId":126253,"metaUuid":null}
+]},
 "24014":{"nexusModName":"Swappable Auntie Ethel's Boon","nexusUploadedBy":"chizfreak","nexusModId":24014,"paks":[
 {"nexusFileName":"Swappable Auntie Ethel's Boon","nexusFileVersion":"1.0","nexusFileUploadedAt":1784759896,"pakFileName":"EthelHairSwap_b699da51-1c4a-6e6d-b4be-cf1e5531aefd.pak","nexusFileId":126251,"metaUuid":null}
+]},
+"24015":{"nexusModName":"Photo Mode Category Sorter","nexusUploadedBy":"julesberry","nexusModId":24015,"paks":[
+{"nexusFileName":"Photo Mode Category Sorter","nexusFileVersion":"1.0.2.0","nexusFileUploadedAt":1784763812,"pakFileName":"PhotoModeCategorySorter.pak","nexusFileId":126258,"metaUuid":null}
+]},
+"24016":{"nexusModName":"Sorcerer Spirit Guardians - Spell List Expansion","nexusUploadedBy":"Reveurr","nexusModId":24016,"paks":[
+{"nexusFileName":"Sorcerer Spirit Guardians - Spell List Expansion","nexusFileVersion":"1","nexusFileUploadedAt":1784762852,"pakFileName":"SorcererSpiritGuardians_4e53e1d0-34a3-38f8-391c-1916031e49c4.pak","nexusFileId":126257,"metaUuid":null}
 ]}}
