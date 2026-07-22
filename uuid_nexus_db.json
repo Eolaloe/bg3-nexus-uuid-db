@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-07-22T10:52:31.027120+00:00","total_mods":16969},
+{"_meta":{"last_run":"2026-07-22T11:52:40.586134+00:00","total_mods":16970},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -58481,12 +58481,12 @@
 {"nexusFileName":"Multiplayer Party Swap","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1768638934,"pakFileName":"MultiplayerPartySwap.pak","nexusFileId":112416,"metaUuid":null}
 ]},
 "20760":{"nexusModName":"Astarion - Vampire in the RAW","nexusUploadedBy":"MaxStrengthWizard","nexusModId":20760,"paks":[
-{"nexusFileName":"Ascendant OP Buff","nexusFileVersion":"2.0.0.0","nexusFileUploadedAt":1768947208,"pakFileName":"Ascendant OP Buff.pak","nexusFileId":112759,"metaUuid":"c1891217-c978-4f90-a409-0a7d78dcee51"},
 {"nexusFileName":"Astarion Sunlight Hypersensitivity","nexusFileVersion":"1.0.0.5","nexusFileUploadedAt":1768947231,"pakFileName":"Astarion Sunlight Hypersensitivity.pak","nexusFileId":112760,"metaUuid":null},
 {"nexusFileName":"Astarion Sunlight Sensitivity","nexusFileVersion":"1.0.7","nexusFileUploadedAt":1784567560,"pakFileName":"Astarion Sunlight Sensitivity.pak","nexusFileId":126075,"metaUuid":null},
 {"nexusFileName":"Astarion True Undead","nexusFileVersion":"1.1.7","nexusFileUploadedAt":1784567580,"pakFileName":"Astarion True Undead.pak","nexusFileId":126076,"metaUuid":"d551d33c-9974-4e55-aa74-e8156f78767d"},
 {"nexusFileName":"Astarion Yaaas Claws","nexusFileVersion":"1.0.7","nexusFileUploadedAt":1784567599,"pakFileName":"Astarion Yaaas Claws.pak","nexusFileId":126077,"metaUuid":"f8091bb7-a4c8-44a7-9828-0c940f01e509"},
-{"nexusFileName":"Vampires RAW","nexusFileVersion":"2.0.3","nexusFileUploadedAt":1784567644,"pakFileName":"Vampires RAW.pak","nexusFileId":126078,"metaUuid":"e89d08e0-f4ac-4108-a10d-e03ebcbdcd1e"}
+{"nexusFileName":"Ascendant OP Buff","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1784718564,"pakFileName":"Ascendant OP Buff.pak","nexusFileId":126204,"metaUuid":"c1891217-c978-4f90-a409-0a7d78dcee51"},
+{"nexusFileName":"Vampires RAW","nexusFileVersion":"2.0.4","nexusFileUploadedAt":1784718594,"pakFileName":"Vampires RAW.pak","nexusFileId":126205,"metaUuid":"e89d08e0-f4ac-4108-a10d-e03ebcbdcd1e"}
 ]},
 "20762":{"nexusModName":"Worn Traveler's Attire","nexusUploadedBy":"Elledwyn","nexusModId":20762,"paks":[
 {"nexusFileName":"TealRabbit's (Trans)Masculine Body 1 (TRM1)","nexusFileVersion":"1.0.0.16","nexusFileUploadedAt":1768844208,"pakFileName":"Elle_Worn_Travelers_Attire_TRM1.pak","nexusFileId":112606,"metaUuid":null},
@@ -61481,7 +61481,7 @@
 {"nexusFileName":"E. The Gunslinger Warlock Invocations Addon","nexusFileVersion":"1.0.0.1","nexusFileUploadedAt":1780540932,"pakFileName":"TheGunslingerWarlockInvocations_Addon.pak","nexusFileId":122725,"metaUuid":"6fa28431-31c2-4bc0-b8f8-1d18cf65a4f9"},
 {"nexusFileName":"D. Rebalance Feats Compatibility","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1781445565,"pakFileName":"TheGunslinger-RebalanceFeatsCompatibility.pak","nexusFileId":123546,"metaUuid":null},
 {"nexusFileName":"B. The Gunslinger Addon Revolver OffHand","nexusFileVersion":"2.0.0.6","nexusFileUploadedAt":1784352419,"pakFileName":"TheGunslingerOffHandAddon_db9c5c90-6f70-f07a-153e-d873fc5f803d.pak","nexusFileId":125916,"metaUuid":null},
-{"nexusFileName":"The Gunslinger Class (ENG-KOR)","nexusFileVersion":"3.0.0.2","nexusFileUploadedAt":1784646415,"pakFileName":"TheGunslinger_1f2b82d7-19c8-734b-5f43-05d57d3e7601.pak","nexusFileId":126145,"metaUuid":"1f2b82d7-19c8-734b-5f43-05d57d3e7601"}
+{"nexusFileName":"The Gunslinger Class (ENG-KOR)","nexusFileVersion":"3.0.0.4","nexusFileUploadedAt":1784720583,"pakFileName":"TheGunslinger_1f2b82d7-19c8-734b-5f43-05d57d3e7601.pak","nexusFileId":126206,"metaUuid":"1f2b82d7-19c8-734b-5f43-05d57d3e7601"}
 ]},
 "21796":{"nexusModName":"Em's Misc Head Collection","nexusUploadedBy":"emsthings","nexusModId":21796,"paks":[
 {"nexusFileName":"Em's Head Collection","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1772951131,"pakFileName":"Ems_Heads_41f62b28-72fa-cd43-2b54-e521a962a342.pak","nexusFileId":116314,"metaUuid":null}
@@ -62715,6 +62715,9 @@
 ]},
 "22237":{"nexusModName":"Divine Caster Dress and Staff for BT1 and TMTS","nexusUploadedBy":"AyuroArt","nexusModId":22237,"paks":[
 {"nexusFileName":"Ayu_Divine_Caster","nexusFileVersion":"1.1","nexusFileUploadedAt":1777374818,"pakFileName":"AYU_R2_DivineCaster_1e1ec4a8-2de1-4859-8654-9913bbd8a9ae.pak","nexusFileId":120058,"metaUuid":"1e1ec4a8-2de1-4859-8654-9913bbd8a9ae"}
+]},
+"22238":{"nexusModName":"Early Access Dream Visitor Restored","nexusUploadedBy":"HyperspaceTowel","nexusModId":22238,"paks":[
+{"nexusFileName":"HT EA Daisy 63ed74ca 5cb6 2f7e 307e 6ee5428d47f0","nexusFileVersion":"1.0.1.1","nexusFileUploadedAt":1784720779,"pakFileName":"HT_EA_Daisy_63ed74ca-5cb6-2f7e-307e-6ee5428d47f0.pak","nexusFileId":126207,"metaUuid":null}
 ]},
 "22239":{"nexusModName":"Coruscation Ring - Spirit Guardians Fix","nexusUploadedBy":"OsoMoore","nexusModId":22239,"paks":[
 {"nexusFileName":"CoruscationSpiritGuardiansFix V1.0.1","nexusFileVersion":"1.0.1","nexusFileUploadedAt":1775046701,"pakFileName":"CoruscationSpiritGuardiansFix_v1.0.1.pak","nexusFileId":117951,"metaUuid":"fd358a7f-6cb8-4b57-a491-89c5d8cb3768"}
