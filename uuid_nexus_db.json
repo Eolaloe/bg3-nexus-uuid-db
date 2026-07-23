@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-07-22T23:52:00.313475+00:00","total_mods":16986},
+{"_meta":{"last_run":"2026-07-23T00:52:12.465028+00:00","total_mods":16989},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -153,7 +153,9 @@
 {"nexusFileName":"SearchTheRoom.pak","nexusFileVersion":"3","nexusFileUploadedAt":1607085626,"pakFileName":"SearchTheRoom.pak","nexusFileId":672,"metaUuid":null}
 ]},
 "132":{"nexusModName":"Padme's BG3 Tutorials Templates and Modding Resources","nexusUploadedBy":"Padme4000","nexusModId":132,"paks":[
-{"nexusFileName":"Dragonborn Skin Colour Parameter References","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1706206428,"pakFileName":"Dragonborn_Colour_Assignment.pak","nexusFileId":41657,"metaUuid":null}
+{"nexusFileName":"Dragonborn Skin Colour Parameter References","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1706206428,"pakFileName":"Dragonborn_Colour_Assignment.pak","nexusFileId":41657,"metaUuid":null},
+{"nexusFileName":"Genererate less Vanilla CC Icons in the Toolkit","nexusFileVersion":"1.0.0.3","nexusFileUploadedAt":1773574895,"pakFileName":"less_CC_icons_e139aa56-320e-9420-e28d-73e32705380c.pak","nexusFileId":116783,"metaUuid":null},
+{"nexusFileName":"Customise Your CC Icons","nexusFileVersion":"1.0","nexusFileUploadedAt":1784764381,"pakFileName":"customise_cc_icons_9758fff9-a31b-e8b0-1f2d-1ed724cae738.pak","nexusFileId":126259,"metaUuid":null}
 ]},
 "133":{"nexusModName":"Fighter Samurai subclass","nexusUploadedBy":"florreke1990","nexusModId":133,"paks":[
 {"nexusFileName":"Playable Subclasses - Samurai","nexusFileVersion":"1.001","nexusFileUploadedAt":1606359102,"pakFileName":"Samurai.pak","nexusFileId":631,"metaUuid":null}
@@ -65863,7 +65865,7 @@
 {"nexusFileName":"TidesOfChaos2024CHS","nexusFileVersion":"1.0","nexusFileUploadedAt":1781866169,"pakFileName":"TidesOfChaos2024CHS.pak","nexusFileId":123876,"metaUuid":null}
 ]},
 "23456":{"nexusModName":"Camp Activities (Fixed)","nexusUploadedBy":"GabeCamomescro","nexusModId":23456,"paks":[
-{"nexusFileName":"Main (Live) File","nexusFileVersion":"1.0.0.118","nexusFileUploadedAt":1784728030,"pakFileName":"CampActivitiesFixed_82983cc8-c8f3-790c-d3ff-cf448ce04845.pak","nexusFileId":126213,"metaUuid":"82983cc8-c8f3-790c-d3ff-cf448ce04845"}
+{"nexusFileName":"Main (Live) File","nexusFileVersion":"1.0.0.123","nexusFileUploadedAt":1784765772,"pakFileName":"CampActivitiesFixed_82983cc8-c8f3-790c-d3ff-cf448ce04845.pak","nexusFileId":126261,"metaUuid":"82983cc8-c8f3-790c-d3ff-cf448ce04845"}
 ]},
 "23457":{"nexusModName":"Agonizing Cantrips","nexusUploadedBy":"yoonmoonsik43","nexusModId":23457,"paks":[
 {"nexusFileName":"Agonizingcantrip D2c2aab8 E7fb K9cx","nexusFileVersion":"2","nexusFileUploadedAt":1781854232,"pakFileName":"AgonizingCantrip_d2c2aab8-e7fb-98fe-8793-c1c0a198a211.pak","nexusFileId":123870,"metaUuid":"d2c2aab8-e7fb-98fe-8793-c1c0a198a211"}
@@ -66809,6 +66811,9 @@
 "23852":{"nexusModName":"Solamnic Knight Feat Every 2 Levels","nexusUploadedBy":"Paranoiac21","nexusModId":23852,"paks":[
 {"nexusFileName":"SolamnicKnightFeatTwoLevels","nexusFileVersion":"1","nexusFileUploadedAt":1783982692,"pakFileName":"SolamnicKnightFeatTwoLevels.pak","nexusFileId":125576,"metaUuid":null}
 ]},
+"23853":{"nexusModName":"Vengeance - Refit Clawstep Dragonborn","nexusUploadedBy":"LittleTeafling","nexusModId":23853,"paks":[
+{"nexusFileName":"Vengeance DGB","nexusFileVersion":"1","nexusFileUploadedAt":1784765399,"pakFileName":"Vengeance_DGB.pak","nexusFileId":126260,"metaUuid":null}
+]},
 "23854":{"nexusModName":"Standalone Vanilla Armours - No ModFixer","nexusUploadedBy":"lonelynipple","nexusModId":23854,"paks":[
 {"nexusFileName":"VanillaSets","nexusFileVersion":"1","nexusFileUploadedAt":1783984581,"pakFileName":"VanillaSets.pak","nexusFileId":125580,"metaUuid":null},
 {"nexusFileName":"VanillaSetsExpansion","nexusFileVersion":"1","nexusFileUploadedAt":1783984605,"pakFileName":"VanillaSetsExpansion.pak","nexusFileId":125581,"metaUuid":null}
@@ -67169,4 +67174,10 @@
 ]},
 "24016":{"nexusModName":"Sorcerer Spirit Guardians - Spell List Expansion","nexusUploadedBy":"Reveurr","nexusModId":24016,"paks":[
 {"nexusFileName":"Sorcerer Spirit Guardians - Spell List Expansion","nexusFileVersion":"1","nexusFileUploadedAt":1784762852,"pakFileName":"SorcererSpiritGuardians_4e53e1d0-34a3-38f8-391c-1916031e49c4.pak","nexusFileId":126257,"metaUuid":null}
+]},
+"24017":{"nexusModName":"Risky Ring - No Drawback (Removes Disadvantage on Saving Throws)","nexusUploadedBy":"DanishMcGee","nexusModId":24017,"paks":[
+{"nexusFileName":"RiskyRingNoDrawback","nexusFileVersion":"1","nexusFileUploadedAt":1784766149,"pakFileName":"RiskyRingNoDrawback.pak","nexusFileId":126262,"metaUuid":null}
+]},
+"24018":{"nexusModName":"Nothing is Unique","nexusUploadedBy":"ForKiramay","nexusModId":24018,"paks":[
+{"nexusFileName":"Nothing is Unique","nexusFileVersion":"1.0.0.2","nexusFileUploadedAt":1784766164,"pakFileName":"NotUnique_73d5d9aa-48e2-0050-2470-1ff857abfc50.pak","nexusFileId":126263,"metaUuid":null}
 ]}}
