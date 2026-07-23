@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-07-23T11:51:59.552919+00:00","total_mods":16994},
+{"_meta":{"last_run":"2026-07-23T12:51:56.446496+00:00","total_mods":16995},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -15515,8 +15515,7 @@
 {"nexusFileName":"1d4 to 2d6 at 10","nexusFileVersion":"1.0.1","nexusFileUploadedAt":1702035591,"pakFileName":"ImprovedDuellingFightingStyle.pak","nexusFileId":33299,"metaUuid":null}
 ]},
 "4958":{"nexusModName":"Save Restore Stash","nexusUploadedBy":"swissfred","nexusModId":4958,"paks":[
-{"nexusFileName":"Save and Restore Stash","nexusFileVersion":"7.0.7","nexusFileUploadedAt":1725650180,"pakFileName":"SaveRestoreStash-P7.pak","nexusFileId":69188,"metaUuid":null},
-{"nexusFileName":"Save and Restore Stash","nexusFileVersion":"7.0.8","nexusFileUploadedAt":1729716889,"pakFileName":"SaveRestoreStash-P7.pak","nexusFileId":76422,"metaUuid":null}
+{"nexusFileName":"Save and Restore Stash","nexusFileVersion":"8.0.8.0","nexusFileUploadedAt":1784808962,"pakFileName":"SaveRestoreStash-P8.pak","nexusFileId":126295,"metaUuid":null}
 ]},
 "4959":{"nexusModName":"Let Astarion be a Bat","nexusUploadedBy":"yourselfcola","nexusModId":4959,"paks":[
 {"nexusFileName":"batmode","nexusFileVersion":"1.3","nexusFileUploadedAt":1702264433,"pakFileName":"batmode.pak","nexusFileId":33864,"metaUuid":null},
@@ -46615,7 +46614,7 @@
 {"nexusFileName":"Ritual Casting and Always-Prepared Spells","nexusFileVersion":"2.1.0","nexusFileUploadedAt":1778033508,"pakFileName":"Ritual Casting and Always-Prepared Spells for Wizards.pak","nexusFileId":120620,"metaUuid":"8e6f13fc-921f-4628-84cc-119cc367ee25"},
 {"nexusFileName":"Ritual Casting and Always-Prep. Spells - 5eSpells","nexusFileVersion":"1.1.0","nexusFileUploadedAt":1781212109,"pakFileName":"Ritual Casting and Always-Prepared Spells for Wizards - 5e Spells.pak","nexusFileId":123345,"metaUuid":"4ba8b4db-1447-460b-a320-b977f768b154"},
 {"nexusFileName":"Rituals and Utility Spells Consolidated - 5eSpells","nexusFileVersion":"1.1.0","nexusFileUploadedAt":1781212125,"pakFileName":"Rituals and Utility Spells_consolidated - 5e Spells Patch.pak","nexusFileId":123346,"metaUuid":"08c35fce-14a1-463a-a174-3404e5923fc5"},
-{"nexusFileName":"Rituals and Utility Spells Consolidated","nexusFileVersion":"2.3.0","nexusFileUploadedAt":1784122486,"pakFileName":"Rituals and Utility Spells_consolidated.pak","nexusFileId":125706,"metaUuid":"e967c0c9-9947-482e-a86f-4ed2048bafca"}
+{"nexusFileName":"Rituals and Utility Spells Consolidated","nexusFileVersion":"2.4.0","nexusFileUploadedAt":1784808642,"pakFileName":"Rituals and Utility Spells_consolidated.pak","nexusFileId":126294,"metaUuid":"e967c0c9-9947-482e-a86f-4ed2048bafca"}
 ]},
 "16791":{"nexusModName":"Strong Astarion","nexusUploadedBy":"yoonmoonsik43","nexusModId":16791,"paks":[
 {"nexusFileName":"StrongAstarion","nexusFileVersion":"1.0.0.1","nexusFileUploadedAt":1748000791,"pakFileName":"StrongAstarion_11e3ed34-f12e-5723-2d6c-90d1dedcb506.pak","nexusFileId":93832,"metaUuid":null}
@@ -46864,7 +46863,7 @@
 "16884":{"nexusModName":"Basic Weapon Actions Consolidated","nexusUploadedBy":"Mueffel","nexusModId":16884,"paks":[
 {"nexusFileName":"Paired Weapons - Temporary Weapon Actions Patch","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1781117094,"pakFileName":"Paired Weapons - Temporary Weapon Actions Patch.pak","nexusFileId":123292,"metaUuid":"8e2d1f7a-29df-4e5b-8a10-d4aba752e579"},
 {"nexusFileName":"GearAndThrowingOverhaul - Offhand WA Removal Patch","nexusFileVersion":"1.0.1","nexusFileUploadedAt":1781270908,"pakFileName":"Goon's Gear and Throwing Overhaul - Offhand Weapon Actions Removal Patch.pak","nexusFileId":123407,"metaUuid":null},
-{"nexusFileName":"Basic Weapon Actions Consolidated","nexusFileVersion":"2.3.0","nexusFileUploadedAt":1784372531,"pakFileName":"Basic Weapon Attacks_consolidated.pak","nexusFileId":125926,"metaUuid":"3db1cb73-ef1d-45a8-a5a5-9863581dec86"}
+{"nexusFileName":"Basic Weapon Actions Consolidated","nexusFileVersion":"2.4.0","nexusFileUploadedAt":1784808592,"pakFileName":"Basic Weapon Attacks_consolidated.pak","nexusFileId":126293,"metaUuid":"3db1cb73-ef1d-45a8-a5a5-9863581dec86"}
 ]},
 "16885":{"nexusModName":"Shadow blade RAW (With variants)","nexusUploadedBy":"101Brian","nexusModId":16885,"paks":[
 {"nexusFileName":"ShadowBladeRAW (FULL)","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1748481853,"pakFileName":"ShadoBladeConcentration_67712464-6473-f118-1110-742163c48cd9 (FULL).pak","nexusFileId":94362,"metaUuid":null},
@@ -49154,7 +49153,7 @@
 ]},
 "17654":{"nexusModName":"Goon's Barbarian Overhaul","nexusUploadedBy":"BaldursGoonsack","nexusModId":17654,"paks":[
 {"nexusFileName":"Goon's Barbarian Overhaul Dynamic Wildheart Patch","nexusFileVersion":"1.1.0.0","nexusFileUploadedAt":1769474101,"pakFileName":"Goon's Barbarian Overhaul - Dynamic Wildheart Patch.pak","nexusFileId":113324,"metaUuid":"4202092c-204a-4d1c-bdb1-c33e4dc56e64"},
-{"nexusFileName":"Goon's Barbarian Overhaul","nexusFileVersion":"1.1.3.6","nexusFileUploadedAt":1778076347,"pakFileName":"Goon's Barbarian Overhaul.pak","nexusFileId":120646,"metaUuid":"55ff4fda-2514-4ae9-943e-ca60e51395f5"}
+{"nexusFileName":"Goon's Barbarian Overhaul","nexusFileVersion":"1.2.0.0","nexusFileUploadedAt":1784807894,"pakFileName":"Goon's Barbarian Overhaul.pak","nexusFileId":126292,"metaUuid":"55ff4fda-2514-4ae9-943e-ca60e51395f5"}
 ]},
 "17655":{"nexusModName":"Additional Fighting Styles_KOR","nexusUploadedBy":"Ahdarugo","nexusModId":17655,"paks":[
 {"nexusFileName":"Additional Fighting Styles_KOR","nexusFileVersion":"1.0","nexusFileUploadedAt":1752817396,"pakFileName":"AdditionalFightingStyles_KOR.pak","nexusFileId":98338,"metaUuid":null}
@@ -67196,4 +67195,7 @@
 ]},
 "24020":{"nexusModName":"War Caster (2014 and 2024) - PTBR","nexusUploadedBy":"TAPAtlas","nexusModId":24020,"paks":[
 {"nexusFileName":"UAWarCaster - PTBR","nexusFileVersion":"1.16","nexusFileUploadedAt":1784793213,"pakFileName":"UAWarCaster - PTBR.pak","nexusFileId":126281,"metaUuid":null}
+]},
+"24021":{"nexusModName":"Hunger of Hadar for Sorcerer and Wizard","nexusUploadedBy":"Reveurr","nexusModId":24021,"paks":[
+{"nexusFileName":"Hunger of Hadar for Sorcerer and Wizard","nexusFileVersion":"1","nexusFileUploadedAt":1784807516,"pakFileName":"SorcererWizardHungerOfHadar_2650cb2a-0606-fd2c-d34f-e7926d2b23b4.pak","nexusFileId":126291,"metaUuid":null}
 ]}}
