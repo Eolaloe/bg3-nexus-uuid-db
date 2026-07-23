@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-07-23T22:52:00.263249+00:00","total_mods":17004},
+{"_meta":{"last_run":"2026-07-23T23:51:48.487126+00:00","total_mods":17005},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -65485,7 +65485,7 @@
 {"nexusFileName":"HPDR - All In Dialogues","nexusFileVersion":"1","nexusFileUploadedAt":1780915309,"pakFileName":"Hide Passive Dice Rolls - All in Dialogues.pak","nexusFileId":123157,"metaUuid":null},
 {"nexusFileName":"HPDR - All Out Of Combat","nexusFileVersion":"1","nexusFileUploadedAt":1780915355,"pakFileName":"Hide Passive Dice Rolls - All out of combat.pak","nexusFileId":123158,"metaUuid":null},
 {"nexusFileName":"HPDR - All But Death Save Throws","nexusFileVersion":"1","nexusFileUploadedAt":1780915372,"pakFileName":"Hide Passive Dice Rolls - All but Death Save Throws.pak","nexusFileId":123159,"metaUuid":"b2a0a124-1d3d-4a54-a15f-433774795b66"},
-{"nexusFileName":"Hide Passive Dice Rolls - HIDE DICE FIX","nexusFileVersion":"1.1","nexusFileUploadedAt":1784819409,"pakFileName":"Hide Passive Dice Rolls - HIDE DICE FIX.pak","nexusFileId":126300,"metaUuid":"b2a0a124-1d3d-4a54-a15f-433774795b66"}
+{"nexusFileName":"Hide Passive Dice Rolls - HIDE DICE FIX","nexusFileVersion":"1.1","nexusFileUploadedAt":1784850451,"pakFileName":"Hide Passive Dice Rolls - HIDE DICE FIX.pak","nexusFileId":126337,"metaUuid":"b2a0a124-1d3d-4a54-a15f-433774795b66"}
 ]},
 "23266":{"nexusModName":"Advanced Enemy Randomizer for Korean","nexusUploadedBy":"Eolaloe","nexusModId":23266,"paks":[
 {"nexusFileName":"Advanced Enemy Randomizer for Korean","nexusFileVersion":"0.9.4.3","nexusFileUploadedAt":1781098511,"pakFileName":"AERando_kr.pak","nexusFileId":123282,"metaUuid":null}
@@ -65779,7 +65779,7 @@
 {"nexusFileName":"Helmet Variants 63d79229 756c 4cr6","nexusFileVersion":"1","nexusFileUploadedAt":1781637307,"pakFileName":"Helmet_Variants_63d79229-756c-3b69-f7b4-35c0491077a6.pak","nexusFileId":123727,"metaUuid":"63d79229-756c-3b69-f7b4-35c0491077a6"}
 ]},
 "23411":{"nexusModName":"All In Game Gears Mod","nexusUploadedBy":"BigBlackCorgi","nexusModId":23411,"paks":[
-{"nexusFileName":"AllGearsChest_Vanilla","nexusFileVersion":"3","nexusFileUploadedAt":1784831959,"pakFileName":"AllGearChestSE.pak","nexusFileId":126317,"metaUuid":"19440557-14dc-474d-93e9-60d09b157b51"}
+{"nexusFileName":"AllGearsChest_Vanilla","nexusFileVersion":"4","nexusFileUploadedAt":1784850053,"pakFileName":"AllGearChestSE.pak","nexusFileId":126336,"metaUuid":"19440557-14dc-474d-93e9-60d09b157b51"}
 ]},
 "23413":{"nexusModName":"BG3WASD Camera Follow (Fork) - Smooth Camera Modes","nexusUploadedBy":"snowwy123","nexusModId":23413,"paks":[
 {"nexusFileName":"BG3WASD CameraFollow V1.2.0","nexusFileVersion":"1.2.0","nexusFileUploadedAt":1782930560,"pakFileName":"BG3YawBridge.pak","nexusFileId":124673,"metaUuid":"3f33bb6d-4c56-4a63-b01f-0c0f72f13b1d"}
@@ -67227,4 +67227,7 @@
 ]},
 "24033":{"nexusModName":"5e Fighter Subclasses Combined - PTBR (2026)","nexusUploadedBy":"BarovZx","nexusModId":24033,"paks":[
 {"nexusFileName":"Fighter Subclasses5e Combined PTBR","nexusFileVersion":"26.01.2026","nexusFileUploadedAt":1784844915,"pakFileName":"Fighter Subclasses5e Combined PTBR.pak","nexusFileId":126333,"metaUuid":null}
+]},
+"24034":{"nexusModName":"Sorcerous Burst - Sorcerer DnD 5R PHB2024","nexusUploadedBy":"chizfreak","nexusModId":24034,"paks":[
+{"nexusFileName":"Sorcerous Burst - Sorcerer DnD 5R PHB2024","nexusFileVersion":"1.0","nexusFileUploadedAt":1784848188,"pakFileName":"SorcerousBurst2024_f98d3829-d649-aa88-c93b-93f5e0c739e7.pak","nexusFileId":126335,"metaUuid":null}
 ]}}
