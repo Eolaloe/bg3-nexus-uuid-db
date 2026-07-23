@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-07-23T14:51:45.540715+00:00","total_mods":16995},
+{"_meta":{"last_run":"2026-07-23T15:51:48.367333+00:00","total_mods":16997},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -65485,7 +65485,7 @@
 {"nexusFileName":"HPDR - All In Dialogues","nexusFileVersion":"1","nexusFileUploadedAt":1780915309,"pakFileName":"Hide Passive Dice Rolls - All in Dialogues.pak","nexusFileId":123157,"metaUuid":null},
 {"nexusFileName":"HPDR - All Out Of Combat","nexusFileVersion":"1","nexusFileUploadedAt":1780915355,"pakFileName":"Hide Passive Dice Rolls - All out of combat.pak","nexusFileId":123158,"metaUuid":null},
 {"nexusFileName":"HPDR - All But Death Save Throws","nexusFileVersion":"1","nexusFileUploadedAt":1780915372,"pakFileName":"Hide Passive Dice Rolls - All but Death Save Throws.pak","nexusFileId":123159,"metaUuid":"b2a0a124-1d3d-4a54-a15f-433774795b66"},
-{"nexusFileName":"Hide Passive Dice Rolls - HIDE DICE FIX","nexusFileVersion":"1.1","nexusFileUploadedAt":1784804089,"pakFileName":"Hide Passive Dice Rolls - HIDE DICE FIX.pak","nexusFileId":126289,"metaUuid":"b2a0a124-1d3d-4a54-a15f-433774795b66"}
+{"nexusFileName":"Hide Passive Dice Rolls - HIDE DICE FIX","nexusFileVersion":"1.1","nexusFileUploadedAt":1784819409,"pakFileName":"Hide Passive Dice Rolls - HIDE DICE FIX.pak","nexusFileId":126300,"metaUuid":"b2a0a124-1d3d-4a54-a15f-433774795b66"}
 ]},
 "23266":{"nexusModName":"Advanced Enemy Randomizer for Korean","nexusUploadedBy":"Eolaloe","nexusModId":23266,"paks":[
 {"nexusFileName":"Advanced Enemy Randomizer for Korean","nexusFileVersion":"0.9.4.3","nexusFileUploadedAt":1781098511,"pakFileName":"AERando_kr.pak","nexusFileId":123282,"metaUuid":null}
@@ -67044,8 +67044,8 @@
 {"nexusFileName":"CombatBodysuit TheFirstDescendant ViessaUltimate","nexusFileVersion":"1","nexusFileUploadedAt":1784536547,"pakFileName":"CombatBodysuit_TheFirstDescendant_ViessaUltimate.pak","nexusFileId":126059,"metaUuid":"5efb9354-9532-471e-8ae5-1aeae515f6cf"}
 ]},
 "23968":{"nexusModName":"Shifting Sands - Forgotten Armoury III - Staff and Outfit","nexusUploadedBy":"Lyniara","nexusModId":23968,"paks":[
-{"nexusFileName":"Shifting Sands Staff and Desert Mage outfit","nexusFileVersion":"1.0.0.8","nexusFileUploadedAt":1784580659,"pakFileName":"LYRA_LYN_Sands_Of_Time_1.0.0.8.pak","nexusFileId":126098,"metaUuid":"46101d5b-1906-9f30-f15c-1d868753d696"},
-{"nexusFileName":"Tutorial Chest Addon","nexusFileVersion":"1","nexusFileUploadedAt":1784580784,"pakFileName":"Shifting Sands - Desert Mage - Tut Chest Addon.pak","nexusFileId":126099,"metaUuid":"d9bc4dc3-36b8-40b5-8b08-915899111389"}
+{"nexusFileName":"Tutorial Chest Addon","nexusFileVersion":"1","nexusFileUploadedAt":1784580784,"pakFileName":"Shifting Sands - Desert Mage - Tut Chest Addon.pak","nexusFileId":126099,"metaUuid":"d9bc4dc3-36b8-40b5-8b08-915899111389"},
+{"nexusFileName":"Shifting Sands Staff and Desert Mage outfit","nexusFileVersion":"1.0.0.9","nexusFileUploadedAt":1784819431,"pakFileName":"LYRA_LYN_Sands_Of_Time_1.0.0.9.pak","nexusFileId":126301,"metaUuid":null}
 ]},
 "23969":{"nexusModName":"Pentos Gown","nexusUploadedBy":"Elledwyn","nexusModId":23969,"paks":[
 {"nexusFileName":"Targaryen Fashion - Pentos Gown","nexusFileVersion":"3","nexusFileUploadedAt":1784619815,"pakFileName":"TF_Pentos_Gown_8310cf04-28a2-38bb-ca77-614a8448fddd.pak","nexusFileId":126124,"metaUuid":"8310cf04-28a2-38bb-ca77-614a8448fddd"}
@@ -67198,4 +67198,10 @@
 ]},
 "24021":{"nexusModName":"Hunger of Hadar for Sorcerer and Wizard","nexusUploadedBy":"Reveurr","nexusModId":24021,"paks":[
 {"nexusFileName":"Hunger of Hadar for Sorcerer and Wizard","nexusFileVersion":"1","nexusFileUploadedAt":1784807516,"pakFileName":"SorcererWizardHungerOfHadar_2650cb2a-0606-fd2c-d34f-e7926d2b23b4.pak","nexusFileId":126291,"metaUuid":"2650cb2a-0606-fd2c-d34f-e7926d2b23b4"}
+]},
+"24024":{"nexusModName":"MFM POSE PACK (BT2xBT1xBT2) by badgrlsblog","nexusUploadedBy":"badgrlsblog","nexusModId":24024,"paks":[
+{"nexusFileName":"Bgb MFM POSE PACK","nexusFileVersion":"1","nexusFileUploadedAt":1784818991,"pakFileName":"bgb_MFM_POSE_PACK_1_c591ec61-9455-7c08-0553-4091277db896.pak","nexusFileId":126298,"metaUuid":null}
+]},
+"24025":{"nexusModName":"Transmog Enhanced Revamped (PT-BR)","nexusUploadedBy":"Firetoga","nexusModId":24025,"paks":[
+{"nexusFileName":"Transmog Enhanced Revamped (PT-BR)","nexusFileVersion":"v1.3.6","nexusFileUploadedAt":1784819020,"pakFileName":"TransmogEnhanced_Revamped_BR.pak","nexusFileId":126299,"metaUuid":null}
 ]}}
