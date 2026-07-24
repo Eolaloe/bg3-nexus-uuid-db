@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-07-24T12:51:37.901009+00:00","total_mods":17010},
+{"_meta":{"last_run":"2026-07-24T13:51:43.555962+00:00","total_mods":17012},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -67247,4 +67247,10 @@
 ]},
 "24042":{"nexusModName":"Quick Precision Attack","nexusUploadedBy":"yoonmoonsik43","nexusModId":24042,"paks":[
 {"nexusFileName":"Quickprecisionattack 1313e70b 2kep","nexusFileVersion":"1","nexusFileUploadedAt":1784874935,"pakFileName":"QuickPrecisionAttack_1313e70b-54c1-15de-d112-eb9aa8906c77.pak","nexusFileId":126350,"metaUuid":null}
+]},
+"24045":{"nexusModName":"Female Create Undead","nexusUploadedBy":"Wlasiuk","nexusModId":24045,"paks":[
+{"nexusFileName":"Female Create Undead","nexusFileVersion":"1.0.0.3","nexusFileUploadedAt":1784899169,"pakFileName":"NudeFemaleCreateUndead_b62391aa-9e2a-5680-2f3a-498e43e0aea3.pak","nexusFileId":126358,"metaUuid":null}
+]},
+"24046":{"nexusModName":"Female Animate Dead","nexusUploadedBy":"Wlasiuk","nexusModId":24046,"paks":[
+{"nexusFileName":"Female Animate Dead","nexusFileVersion":"1.0.0.3","nexusFileUploadedAt":1784899802,"pakFileName":"NudeFemaleAnimateDead_2a059e43-d863-53b6-6f7f-3a8507c9cb53.pak","nexusFileId":126359,"metaUuid":null}
 ]}}
