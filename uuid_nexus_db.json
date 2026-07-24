@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-07-24T04:51:41.031880+00:00","total_mods":17007},
+{"_meta":{"last_run":"2026-07-24T05:51:27.159297+00:00","total_mods":17008},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -66372,9 +66372,9 @@
 {"nexusFileName":"Drow Equipment & Clothing","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1783403033,"pakFileName":"ECC_Drow_b0f12c3a-ea1c-3e15-3f16-2fe463d2963b.pak","nexusFileId":125148,"metaUuid":"b0f12c3a-ea1c-3e15-3f16-2fe463d2963b"},
 {"nexusFileName":"Absolute Equipment and Clothing","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1783671258,"pakFileName":"ECC_Absolute_f3ef7850-1c69-23b7-737a-55b866f40584.pak","nexusFileId":125328,"metaUuid":"f3ef7850-1c69-23b7-737a-55b866f40584"},
 {"nexusFileName":"Humanoid Equipment and Clothing","nexusFileVersion":"1.1.0","nexusFileUploadedAt":1784259560,"pakFileName":"ECC_Humanoid_5f2c3462-94d5-feeb-5f39-5cd0f7a76c5a.pak","nexusFileId":125802,"metaUuid":"5f2c3462-94d5-feeb-5f39-5cd0f7a76c5a"},
-{"nexusFileName":"Main","nexusFileVersion":"1.1.0","nexusFileUploadedAt":1784451922,"pakFileName":"ECC_a1e921ae-8aa2-655c-c399-cfd97ed46f4c.pak","nexusFileId":125991,"metaUuid":"a1e921ae-8aa2-655c-c399-cfd97ed46f4c"},
 {"nexusFileName":"Githyanki Equipment","nexusFileVersion":"1.1.2","nexusFileUploadedAt":1784452408,"pakFileName":"ECC_Githyanki_9fb63845-8b2d-314d-99a2-bd0c75199995.pak","nexusFileId":125992,"metaUuid":"9fb63845-8b2d-314d-99a2-bd0c75199995"},
-{"nexusFileName":"Flaming Fist Equipment","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1784613341,"pakFileName":"ECC_FlamingFist_65c74891-9078-8eec-e159-2d3a9b674b91.pak","nexusFileId":126114,"metaUuid":"65c74891-9078-8eec-e159-2d3a9b674b91"}
+{"nexusFileName":"Flaming Fist Equipment","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1784613341,"pakFileName":"ECC_FlamingFist_65c74891-9078-8eec-e159-2d3a9b674b91.pak","nexusFileId":126114,"metaUuid":"65c74891-9078-8eec-e159-2d3a9b674b91"},
+{"nexusFileName":"Main","nexusFileVersion":"1.2.0","nexusFileUploadedAt":1784872219,"pakFileName":"ECC_a1e921ae-8aa2-655c-c399-cfd97ed46f4c.pak","nexusFileId":126349,"metaUuid":"a1e921ae-8aa2-655c-c399-cfd97ed46f4c"}
 ]},
 "23682":{"nexusModName":"Draconic Heritage - New Feat and Dragonborn Breath Weapon Tweaks","nexusUploadedBy":"aljoxo","nexusModId":23682,"paks":[
 {"nexusFileName":"Draconic Heritage","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1783070266,"pakFileName":"DraconicHeritageFeat_6717ff34-c605-60f2-a7d4-43af802463a2.pak","nexusFileId":124765,"metaUuid":"6717ff34-c605-60f2-a7d4-43af802463a2"}
@@ -67236,4 +67236,8 @@
 ]},
 "24039":{"nexusModName":"Vulnerable Nerf","nexusUploadedBy":"Cainhurtz","nexusModId":24039,"paks":[
 {"nexusFileName":"Vulnerability Nerf","nexusFileVersion":"1","nexusFileUploadedAt":1784858123,"pakFileName":"VulnerabilityNerf.pak","nexusFileId":126342,"metaUuid":null}
+]},
+"24041":{"nexusModName":"Dragonborn XL penis","nexusUploadedBy":"benben1205","nexusModId":24041,"paks":[
+{"nexusFileName":"T2DGB Penis","nexusFileVersion":"1.0.0.1","nexusFileUploadedAt":1784869606,"pakFileName":"DGBPenis_a18f4947-42c5-ac95-3997-f7f6d67c2a1e.pak","nexusFileId":126347,"metaUuid":null},
+{"nexusFileName":"T4DGB Penis","nexusFileVersion":"1.0.0.1","nexusFileUploadedAt":1784869644,"pakFileName":"MDGBPenis_28945a03-2e10-4279-df99-20232c0a633f.pak","nexusFileId":126348,"metaUuid":null}
 ]}}
