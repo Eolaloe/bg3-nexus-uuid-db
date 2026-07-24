@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-07-24T15:51:53.991499+00:00","total_mods":17013},
+{"_meta":{"last_run":"2026-07-24T16:52:21.591862+00:00","total_mods":17016},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -67017,6 +67017,10 @@
 "23949":{"nexusModName":"Danan Dyes - Polychrome Jewels","nexusUploadedBy":"FoxxyCanuck","nexusModId":23949,"paks":[
 {"nexusFileName":"Danan Dyes - Polychrome Jewels","nexusFileVersion":"1","nexusFileUploadedAt":1784640737,"pakFileName":"DananDyesPolychromeJewels_56981f70-f05f-816e-2cc1-9410e42ac755.pak","nexusFileId":126137,"metaUuid":"56981f70-f05f-816e-2cc1-9410e42ac755"}
 ]},
+"23950":{"nexusModName":"A Dream of Silence ReVamped - Act 3 - Complete Story Mod - Custom Campaign","nexusUploadedBy":"lizardphunk","nexusModId":23950,"paks":[
+{"nexusFileName":"ADOS SkipToAct3 Act1 3 V1","nexusFileVersion":"1","nexusFileUploadedAt":1784907699,"pakFileName":"DAY1_152_cb3ced5e-72ba-d826-1002-0a554c5addde.pak","nexusFileId":126369,"metaUuid":null},
+{"nexusFileName":"ADOS Act1 3 V1","nexusFileVersion":"1","nexusFileUploadedAt":1784908427,"pakFileName":"DAY1_152_cb3ced5e-72ba-d826-1002-0a554c5addde.pak","nexusFileId":126372,"metaUuid":null}
+]},
 "23952":{"nexusModName":"AutoLoot Alchemical Ingredients","nexusUploadedBy":"ben14142","nexusModId":23952,"paks":[
 {"nexusFileName":"AutoLoot 1.0.0","nexusFileVersion":"1","nexusFileUploadedAt":1784473039,"pakFileName":"AutoLoot_cbcd1a90-6657-7061-472c-2d253a8aac78.pak","nexusFileId":126010,"metaUuid":null}
 ]},
@@ -67059,7 +67063,8 @@
 ]},
 "23973":{"nexusModName":"Force Weapons","nexusUploadedBy":"Tyranno85","nexusModId":23973,"paks":[
 {"nexusFileName":"Force 509053cc Ea81 B575 C221 7a6f54cc331e","nexusFileVersion":"0.8","nexusFileUploadedAt":1784580530,"pakFileName":"Force_509053cc-ea81-b575-c221-7a6f54cc331e.pak","nexusFileId":126097,"metaUuid":"509053cc-ea81-b575-c221-7a6f54cc331e"},
-{"nexusFileName":"Force 509053cc Ea81 B575 C221 7a6f54cc331e","nexusFileVersion":"0.9","nexusFileUploadedAt":1784752359,"pakFileName":"Force_509053cc-ea81-b575-c221-7a6f54cc331e.pak","nexusFileId":126246,"metaUuid":"509053cc-ea81-b575-c221-7a6f54cc331e"}
+{"nexusFileName":"Force 509053cc Ea81 B575 C221 7a6f54cc331e","nexusFileVersion":"0.9","nexusFileUploadedAt":1784752359,"pakFileName":"Force_509053cc-ea81-b575-c221-7a6f54cc331e.pak","nexusFileId":126246,"metaUuid":"509053cc-ea81-b575-c221-7a6f54cc331e"},
+{"nexusFileName":"Force","nexusFileVersion":"1","nexusFileUploadedAt":1784911771,"pakFileName":"Force_509053cc-ea81-b575-c221-7a6f54cc331e.pak","nexusFileId":126378,"metaUuid":"509053cc-ea81-b575-c221-7a6f54cc331e"}
 ]},
 "23974":{"nexusModName":"Echoes in the Sand Poses","nexusUploadedBy":"MadMicky10","nexusModId":23974,"paks":[
 {"nexusFileName":"MadMicky Echos In The Sand Poses","nexusFileVersion":"1","nexusFileUploadedAt":1784585318,"pakFileName":"Echos_in_the_Sand__876823ba-2984-96ef-aee2-3bfc0f833b1f.pak","nexusFileId":126101,"metaUuid":"876823ba-2984-96ef-aee2-3bfc0f833b1f"}
@@ -67256,4 +67261,10 @@
 ]},
 "24047":{"nexusModName":"Kitsune Reborn CHS","nexusUploadedBy":"ngqx264","nexusModId":24047,"paks":[
 {"nexusFileName":"Kitsune Reborn CHS","nexusFileVersion":"1","nexusFileUploadedAt":1784902080,"pakFileName":"Kitsune_Reborn_CHS.pak","nexusFileId":126361,"metaUuid":null}
+]},
+"24050":{"nexusModName":"Team-Oriented Skill-Checked Feats and So On (BAMJO Feats)","nexusUploadedBy":"R6R6R","nexusModId":24050,"paks":[
+{"nexusFileName":"BAMJOFeats","nexusFileVersion":"1","nexusFileUploadedAt":1784909370,"pakFileName":"BAMJOFeats.pak","nexusFileId":126373,"metaUuid":null}
+]},
+"24056":{"nexusModName":"BG3 - Traducao PT-BR (Steam)","nexusUploadedBy":"raraFGAFA","nexusModId":24056,"paks":[
+{"nexusFileName":"BG3 PTBR Translation Pack","nexusFileVersion":"5","nexusFileUploadedAt":1784911917,"pakFileName":"BrazilianPortuguese.pak","nexusFileId":126379,"metaUuid":null}
 ]}}
