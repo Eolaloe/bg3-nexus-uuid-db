@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-07-24T01:51:51.223836+00:00","total_mods":17006},
+{"_meta":{"last_run":"2026-07-24T02:51:32.657912+00:00","total_mods":17007},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -67133,7 +67133,7 @@
 "23997":{"nexusModName":"Cleric Haste - Spell List Expansion","nexusUploadedBy":"Reveurr","nexusModId":23997,"paks":[
 {"nexusFileName":"Cleric Haste - Spell List Expansion","nexusFileVersion":"2","nexusFileUploadedAt":1784683219,"pakFileName":"HasteForCleric_399d521f-86ba-30a0-5e1e-85fd2cdc531a.pak","nexusFileId":126191,"metaUuid":"399d521f-86ba-30a0-5e1e-85fd2cdc531a"}
 ]},
-"23999":{"nexusModName":"Enemy Loot Randomizer","nexusUploadedBy":"GabeCamomescro","nexusModId":23999,"paks":[
+"23999":{"nexusModName":"Universal Loot Randomizer","nexusUploadedBy":"GabeCamomescro","nexusModId":23999,"paks":[
 {"nexusFileName":"Gabesenemylootrandomizer 4549d 4bhx","nexusFileVersion":"1.0.0.291","nexusFileUploadedAt":1784784894,"pakFileName":"GabesEnemyLootRandomizer_4549d561-e6e6-8631-873a-5fbf2d730242.pak","nexusFileId":126276,"metaUuid":"4549d561-e6e6-8631-873a-5fbf2d730242"}
 ]},
 "24000":{"nexusModName":"Underdark Cork Hat","nexusUploadedBy":"Volno","nexusModId":24000,"paks":[
@@ -67233,4 +67233,7 @@
 ]},
 "24035":{"nexusModName":"CHAR's Hair Salon","nexusUploadedBy":"char","nexusModId":24035,"paks":[
 {"nexusFileName":"Char's Hairs","nexusFileVersion":"1","nexusFileUploadedAt":1784850816,"pakFileName":"CHAR_CharsHairs_92dbee15-d61a-1443-25d7-e6c66a568ba3.pak","nexusFileId":126338,"metaUuid":null}
+]},
+"24039":{"nexusModName":"Vulnerable Nerf","nexusUploadedBy":"Cainhurtz","nexusModId":24039,"paks":[
+{"nexusFileName":"Vulnerability Nerf","nexusFileVersion":"1","nexusFileUploadedAt":1784858123,"pakFileName":"VulnerabilityNerf.pak","nexusFileId":126342,"metaUuid":null}
 ]}}
