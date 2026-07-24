@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-07-24T17:51:48.737461+00:00","total_mods":17017},
+{"_meta":{"last_run":"2026-07-24T18:51:57.596515+00:00","total_mods":17019},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -67251,11 +67251,14 @@
 "24042":{"nexusModName":"Quick Precision Attack","nexusUploadedBy":"yoonmoonsik43","nexusModId":24042,"paks":[
 {"nexusFileName":"Quickprecisionattack 1313e70b 2kep","nexusFileVersion":"1","nexusFileUploadedAt":1784874935,"pakFileName":"QuickPrecisionAttack_1313e70b-54c1-15de-d112-eb9aa8906c77.pak","nexusFileId":126350,"metaUuid":null}
 ]},
+"24044":{"nexusModName":"Dark Urge Morning After - Always Wyll","nexusUploadedBy":"Seristina","nexusModId":24044,"paks":[
+{"nexusFileName":"DurgeMorningAlwaysWyll","nexusFileVersion":"1","nexusFileUploadedAt":1784916543,"pakFileName":"DurgeMorningAlwaysWyll.pak","nexusFileId":126384,"metaUuid":null}
+]},
 "24045":{"nexusModName":"Female Create Undead","nexusUploadedBy":"Wlasiuk","nexusModId":24045,"paks":[
-{"nexusFileName":"Female Create Undead","nexusFileVersion":"1.0.0.3","nexusFileUploadedAt":1784899169,"pakFileName":"NudeFemaleCreateUndead_b62391aa-9e2a-5680-2f3a-498e43e0aea3.pak","nexusFileId":126358,"metaUuid":null}
+{"nexusFileName":"Female Create Undead","nexusFileVersion":"1.0.0.5","nexusFileUploadedAt":1784916335,"pakFileName":"NudeFemaleCreateUndead_b62391aa-9e2a-5680-2f3a-498e43e0aea3.pak","nexusFileId":126383,"metaUuid":null}
 ]},
 "24046":{"nexusModName":"Female Animate Dead","nexusUploadedBy":"Wlasiuk","nexusModId":24046,"paks":[
-{"nexusFileName":"Female Animate Dead","nexusFileVersion":"1.0.0.3","nexusFileUploadedAt":1784899802,"pakFileName":"NudeFemaleAnimateDead_2a059e43-d863-53b6-6f7f-3a8507c9cb53.pak","nexusFileId":126359,"metaUuid":null}
+{"nexusFileName":"Female Animate Dead","nexusFileVersion":"1.0.0.5","nexusFileUploadedAt":1784916262,"pakFileName":"NudeFemaleAnimateDead_2a059e43-d863-53b6-6f7f-3a8507c9cb53.pak","nexusFileId":126382,"metaUuid":null}
 ]},
 "24047":{"nexusModName":"Kitsune Reborn CHS","nexusUploadedBy":"ngqx264","nexusModId":24047,"paks":[
 {"nexusFileName":"Kitsune Reborn CHS","nexusFileVersion":"2","nexusFileUploadedAt":1784912441,"pakFileName":"Kitsune_Reborn_CHS.pak","nexusFileId":126381,"metaUuid":null}
@@ -67268,4 +67271,7 @@
 ]},
 "24057":{"nexusModName":"Resonance Stone Rebalanced","nexusUploadedBy":"chizfreak","nexusModId":24057,"paks":[
 {"nexusFileName":"Resonance Stone Rebalanced","nexusFileVersion":"1.0","nexusFileUploadedAt":1784912164,"pakFileName":"ResonanceStoneRebalance_4d3ef42c-b9c0-8dd6-bbf8-f0c9cda66477.pak","nexusFileId":126380,"metaUuid":null}
+]},
+"24060":{"nexusModName":"Quick Second Wind","nexusUploadedBy":"yoonmoonsik43","nexusModId":24060,"paks":[
+{"nexusFileName":"Quicksecondwind 11aabc80 36ad 3qmv","nexusFileVersion":"1","nexusFileUploadedAt":1784917946,"pakFileName":"QuickSecondWind_11aabc80-36ad-7197-0fd6-f66b6b5a0915.pak","nexusFileId":126385,"metaUuid":null}
 ]}}
