@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-07-24T22:52:05.185783+00:00","total_mods":17022},
+{"_meta":{"last_run":"2026-07-24T23:52:01.657966+00:00","total_mods":17022},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -42398,7 +42398,7 @@
 {"nexusFileName":"Gladiator_Geta","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1740570311,"pakFileName":"Head_Geta_22c11154-b2e1-229c-d4fd-77c3ea334676.pak","nexusFileId":86384,"metaUuid":null}
 ]},
 "15116":{"nexusModName":"Chaos and Control - Sorcerer Equipment","nexusUploadedBy":"GraphicFade","nexusModId":15116,"paks":[
-{"nexusFileName":"Chaos and Control - Sorcerer Equipment","nexusFileVersion":"1.0.0.14","nexusFileUploadedAt":1774461747,"pakFileName":"CC_Sorcerer_Equipment_8ead7f8f-6e3f-335d-754e-52eb849fe189.pak","nexusFileId":117453,"metaUuid":"8ead7f8f-6e3f-335d-754e-52eb849fe189"}
+{"nexusFileName":"Chaos and Control - Sorcerer Equipment","nexusFileVersion":"1.0.0.15","nexusFileUploadedAt":1784933543,"pakFileName":"CC_Sorcerer_Equipment_8ead7f8f-6e3f-335d-754e-52eb849fe189.pak","nexusFileId":126418,"metaUuid":"8ead7f8f-6e3f-335d-754e-52eb849fe189"}
 ]},
 "15117":{"nexusModName":"Astral Plane Romance Overhaul-Chinese Translation","nexusUploadedBy":"KomaedaAimei","nexusModId":15117,"paks":[
 {"nexusFileName":"AstralPlaneRomanceOverhaul-Chinese Translation","nexusFileVersion":"1.0","nexusFileUploadedAt":1740589479,"pakFileName":"AstralPlaneRomanceOverhaul-CHS.pak","nexusFileId":86395,"metaUuid":null}
@@ -45376,7 +45376,7 @@
 {"nexusFileName":"TAZ - Balance Magic Items","nexusFileVersion":"1.2","nexusFileUploadedAt":1746399393,"pakFileName":"TAZBalance.pak","nexusFileId":91765,"metaUuid":null}
 ]},
 "16328":{"nexusModName":"Fade's Equipment Distribution AIO","nexusUploadedBy":"GraphicFade","nexusModId":16328,"paks":[
-{"nexusFileName":"Fade's Equipment Distribution AIO","nexusFileVersion":"1.0.0.15","nexusFileUploadedAt":1778540682,"pakFileName":"xFED_AIO_af330e86-7335-b20c-ce70-6df8539d4597.pak","nexusFileId":121012,"metaUuid":"af330e86-7335-b20c-ce70-6df8539d4597"}
+{"nexusFileName":"Fade's Equipment Distribution AIO","nexusFileVersion":"1.0.0.18","nexusFileUploadedAt":1784933991,"pakFileName":"xFED_AIO_af330e86-7335-b20c-ce70-6df8539d4597.pak","nexusFileId":126419,"metaUuid":"af330e86-7335-b20c-ce70-6df8539d4597"}
 ]},
 "16330":{"nexusModName":"Better Hag Hair","nexusUploadedBy":"Syrchalis","nexusModId":16330,"paks":[
 {"nexusFileName":"Better Hag Hair","nexusFileVersion":"1.0.1","nexusFileUploadedAt":1749113551,"pakFileName":"BetterHagHair_7c345e8f-a290-e2ce-3757-b2dc4fd9870f.pak","nexusFileId":95113,"metaUuid":"7c345e8f-a290-e2ce-3757-b2dc4fd9870f"}
@@ -67115,7 +67115,9 @@
 {"nexusFileName":"TavEpilogueGearReplacer ArgentisGift","nexusFileVersion":"1","nexusFileUploadedAt":1784672803,"pakFileName":"TavEpilogueGearReplacer_ArgentisGift.pak","nexusFileId":126178,"metaUuid":null},
 {"nexusFileName":"TavEpilogueGearReplacer MoonPearl","nexusFileVersion":"1","nexusFileUploadedAt":1784676147,"pakFileName":"TavEpilogueGearReplacer_MoonPearl.pak","nexusFileId":126183,"metaUuid":null},
 {"nexusFileName":"TavEpilogueGearReplacer MoonPearl Shoes","nexusFileVersion":"1","nexusFileUploadedAt":1784676163,"pakFileName":"TavEpilogueGearReplacer_MoonPearl_Shoes.pak","nexusFileId":126184,"metaUuid":null},
-{"nexusFileName":"TavEpilogueGearReplacer ArgentisGift non-AIO","nexusFileVersion":"1","nexusFileUploadedAt":1784839894,"pakFileName":"TavEpilogueGearReplacer_ArgentisGift_single.pak","nexusFileId":126325,"metaUuid":null}
+{"nexusFileName":"EPI Replacer GoldfireGowns Elanor non-AIO","nexusFileVersion":"1","nexusFileUploadedAt":1784934037,"pakFileName":"TavEpilogueGearReplacer_GoldfireGowns_Elanor_single.pak","nexusFileId":126420,"metaUuid":null},
+{"nexusFileName":"EPI Replacer GoldfireGowns ElenMinya non-AIO","nexusFileVersion":"1","nexusFileUploadedAt":1784934158,"pakFileName":"TavEpilogueGearReplacer_GoldfireGowns_ElenMinya_single.pak","nexusFileId":126421,"metaUuid":null},
+{"nexusFileName":"EPI Replacer ArgentisGift non-AIO","nexusFileVersion":"2","nexusFileUploadedAt":1784935897,"pakFileName":"TavEpilogueGearReplacer_ArgentisGift_single.pak","nexusFileId":126422,"metaUuid":null}
 ]},
 "23992":{"nexusModName":"Body and Clothing Morphs for SBBF and BCB (by SerpentineShel)","nexusUploadedBy":"SerpentineShel","nexusModId":23992,"paks":[
 {"nexusFileName":"BodyAndClothingMorph Package v. 1.1 ","nexusFileVersion":"1.1","nexusFileUploadedAt":1784752946,"pakFileName":"ClothMorphContent.pak","nexusFileId":126247,"metaUuid":"af8a21a0-2612-540f-9819-39a83a2af0f0"},
