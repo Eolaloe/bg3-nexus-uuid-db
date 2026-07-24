@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-07-24T18:51:57.596515+00:00","total_mods":17019},
+{"_meta":{"last_run":"2026-07-24T19:51:48.746989+00:00","total_mods":17021},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -67046,7 +67046,7 @@
 {"nexusFileName":"Npcs Have Subclasses Chs 3c1ba 0fwh","nexusFileVersion":"1","nexusFileUploadedAt":1784548605,"pakFileName":"NPCs_have_Subclasses_CHS_3c1baa36-d2d4-8c39-0046-5028c409d406.pak","nexusFileId":126073,"metaUuid":null}
 ]},
 "23963":{"nexusModName":"Eyes of the Hoarder","nexusUploadedBy":"MiahNelah","nexusModId":23963,"paks":[
-{"nexusFileName":"EyesOfTheHoarder","nexusFileVersion":"1.4.0.0","nexusFileUploadedAt":1784885329,"pakFileName":"EyesOfTheHoarder-1.4.0.0.pak","nexusFileId":126353,"metaUuid":null}
+{"nexusFileName":"EyesOfTheHoarder","nexusFileVersion":"1.5.0.0","nexusFileUploadedAt":1784921016,"pakFileName":"EyesOfTheHoarder-1.5.0.0.pak","nexusFileId":126398,"metaUuid":null}
 ]},
 "23965":{"nexusModName":"CombatBodysuit_TheFirstDescendant_ViessaUltimate","nexusUploadedBy":"EvilRecluse","nexusModId":23965,"paks":[
 {"nexusFileName":"CombatBodysuit TheFirstDescendant ViessaUltimate","nexusFileVersion":"1","nexusFileUploadedAt":1784536547,"pakFileName":"CombatBodysuit_TheFirstDescendant_ViessaUltimate.pak","nexusFileId":126059,"metaUuid":"5efb9354-9532-471e-8ae5-1aeae515f6cf"}
@@ -67109,7 +67109,7 @@
 "23990":{"nexusModName":"Ravenloft Subclasses (PT-BR)","nexusUploadedBy":"Firetoga","nexusModId":23990,"paks":[
 {"nexusFileName":"RavenloftSubclasses (PT-BR)","nexusFileVersion":"1.0","nexusFileUploadedAt":1784658895,"pakFileName":"RavenloftSubclasses2024_BR.pak","nexusFileId":126154,"metaUuid":null}
 ]},
-"23991":{"nexusModName":"Tav Epilogue Gear Replacer","nexusUploadedBy":"Seristina","nexusModId":23991,"paks":[
+"23991":{"nexusModName":"Tav Epilogue Gear Replacer - Radiant Threads Edition","nexusUploadedBy":"Seristina","nexusModId":23991,"paks":[
 {"nexusFileName":"TavEpilogueGearReplacer Elanor","nexusFileVersion":"1","nexusFileUploadedAt":1784662380,"pakFileName":"TavEpilogueGearReplacer_Elanor.pak","nexusFileId":126167,"metaUuid":null},
 {"nexusFileName":"TavEpilogueGearReplacer ElenMinya","nexusFileVersion":"1","nexusFileUploadedAt":1784662438,"pakFileName":"TavEpilogueGearReplacer_ElenMinya.pak","nexusFileId":126168,"metaUuid":null},
 {"nexusFileName":"TavEpilogueGearReplacer ArgentisGift","nexusFileVersion":"1","nexusFileUploadedAt":1784672803,"pakFileName":"TavEpilogueGearReplacer_ArgentisGift.pak","nexusFileId":126178,"metaUuid":null},
@@ -67224,7 +67224,10 @@
 ]},
 "24030":{"nexusModName":"The Oaken Maiden - Jaheira Edit","nexusUploadedBy":"SweetGenerousThing","nexusModId":24030,"paks":[
 {"nexusFileName":"SGT_The Oaken Maiden_Jaheira Edit","nexusFileVersion":"1","nexusFileUploadedAt":1784834784,"pakFileName":"SGT_JaheiraEdit_801d16be-dca8-cdcb-72d3-6c41c312f62e.pak","nexusFileId":126318,"metaUuid":null},
-{"nexusFileName":"SGT_The Oaken Maiden - Portrait","nexusFileVersion":"1","nexusFileUploadedAt":1784834843,"pakFileName":"Oaken Maiden - Jaheira Portrait.pak","nexusFileId":126319,"metaUuid":null}
+{"nexusFileName":"SGT_The Oaken Maiden - Portrait","nexusFileVersion":"1","nexusFileUploadedAt":1784834843,"pakFileName":"Oaken Maiden - Jaheira Portrait.pak","nexusFileId":126319,"metaUuid":null},
+{"nexusFileName":"SGT_The Oaken Maiden_Vanilla Colors","nexusFileVersion":"1","nexusFileUploadedAt":1784919263,"pakFileName":"SGT_JaheiraEdit_801d16be-dca8-cdcb-72d3-6c41c312f62e.pak","nexusFileId":126394,"metaUuid":null},
+{"nexusFileName":"SGT_The Oaken Maiden_Young","nexusFileVersion":"1","nexusFileUploadedAt":1784919384,"pakFileName":"SGT_JaheiraEdit_801d16be-dca8-cdcb-72d3-6c41c312f62e.pak","nexusFileId":126395,"metaUuid":null},
+{"nexusFileName":"SGT_The Oaken Maiden - Portrait - Young","nexusFileVersion":"1","nexusFileUploadedAt":1784919456,"pakFileName":"Oaken Maiden - Jaheira Portrait - Young.pak","nexusFileId":126396,"metaUuid":null}
 ]},
 "24031":{"nexusModName":"Aylin's Kintsugi for STAV","nexusUploadedBy":"EvilSnail0fDestruktion","nexusModId":24031,"paks":[
 {"nexusFileName":"STAVAylin","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1784838391,"pakFileName":"STAVAylin.pak","nexusFileId":126324,"metaUuid":null}
@@ -67263,6 +67266,11 @@
 "24047":{"nexusModName":"Kitsune Reborn CHS","nexusUploadedBy":"ngqx264","nexusModId":24047,"paks":[
 {"nexusFileName":"Kitsune Reborn CHS","nexusFileVersion":"2","nexusFileUploadedAt":1784912441,"pakFileName":"Kitsune_Reborn_CHS.pak","nexusFileId":126381,"metaUuid":null}
 ]},
+"24048":{"nexusModName":"TealRabbit's Masculine Body 1 Races","nexusUploadedBy":"tealrabbit19","nexusModId":24048,"paks":[
+{"nexusFileName":"TRM1 Races","nexusFileVersion":"1","nexusFileUploadedAt":1784907291,"pakFileName":"TRM1_Races_97bca857-f004-3675-3e83-b57dbcf98572.pak","nexusFileId":126365,"metaUuid":null},
+{"nexusFileName":"TRM1 Races UTAV Patch","nexusFileVersion":"1","nexusFileUploadedAt":1784907439,"pakFileName":"TRM1Races_UTAV_Patch.pak","nexusFileId":126367,"metaUuid":null},
+{"nexusFileName":"TRM1 Races Transmasc Genitalia Patch","nexusFileVersion":"1","nexusFileUploadedAt":1784907487,"pakFileName":"tdicks for TRM1.pak","nexusFileId":126368,"metaUuid":null}
+]},
 "24050":{"nexusModName":"Team-Oriented Skill-Checked Feats and So On (BAMJO Feats)","nexusUploadedBy":"R6R6R","nexusModId":24050,"paks":[
 {"nexusFileName":"BAMJOFeats","nexusFileVersion":"1","nexusFileUploadedAt":1784909370,"pakFileName":"BAMJOFeats.pak","nexusFileId":126373,"metaUuid":"ce358962-8bae-4891-a171-f306b2fab092"}
 ]},
@@ -67271,6 +67279,16 @@
 ]},
 "24057":{"nexusModName":"Resonance Stone Rebalanced","nexusUploadedBy":"chizfreak","nexusModId":24057,"paks":[
 {"nexusFileName":"Resonance Stone Rebalanced","nexusFileVersion":"1.0","nexusFileUploadedAt":1784912164,"pakFileName":"ResonanceStoneRebalance_4d3ef42c-b9c0-8dd6-bbf8-f0c9cda66477.pak","nexusFileId":126380,"metaUuid":null}
+]},
+"24059":{"nexusModName":"TRM1 Races Mod Refits","nexusUploadedBy":"tealrabbit19","nexusModId":24059,"paks":[
+{"nexusFileName":"Bandit Armors and Camp Clothes TRM1R","nexusFileVersion":"1","nexusFileUploadedAt":1784918794,"pakFileName":"CBR_BanditArmors_TRM1R.pak","nexusFileId":126386,"metaUuid":null},
+{"nexusFileName":"Citizen Outfits as Camp Clothes TRM1R","nexusFileVersion":"1","nexusFileUploadedAt":1784918831,"pakFileName":"CBR_CitizenOutfits_TRM1R.pak","nexusFileId":126387,"metaUuid":null},
+{"nexusFileName":"Battlemage Armor TRM1R","nexusFileVersion":"1","nexusFileUploadedAt":1784918860,"pakFileName":"CBR_Battlemage_TRM1R.pak","nexusFileId":126388,"metaUuid":null},
+{"nexusFileName":"Gothyanki Gear TRM1R","nexusFileVersion":"1","nexusFileUploadedAt":1784918887,"pakFileName":"jerinski_gothyanki-gear_TRM1R.pak","nexusFileId":126389,"metaUuid":null},
+{"nexusFileName":"Ranger's Leather Armor TRM1R","nexusFileVersion":"1","nexusFileUploadedAt":1784918921,"pakFileName":"SimpleRangerOutfitTRM1R.pak","nexusFileId":126390,"metaUuid":null},
+{"nexusFileName":"PK Clothes and Armours TRM1R","nexusFileVersion":"1","nexusFileUploadedAt":1784918959,"pakFileName":"PK_Armors_N_Clothes_TRM1R.pak","nexusFileId":126391,"metaUuid":null},
+{"nexusFileName":"PK Clothes and Armours - Haunted Sea TRM1R","nexusFileVersion":"1","nexusFileUploadedAt":1784919007,"pakFileName":"PK_Haunted_Sea_TRM1R.pak","nexusFileId":126392,"metaUuid":null},
+{"nexusFileName":"PK Clothes and Armours NH Addon TRM1R","nexusFileVersion":"1","nexusFileUploadedAt":1784919118,"pakFileName":"PK_Armors_N_Clothes_NH_TRM1R.pak","nexusFileId":126393,"metaUuid":null}
 ]},
 "24060":{"nexusModName":"Quick Second Wind","nexusUploadedBy":"yoonmoonsik43","nexusModId":24060,"paks":[
 {"nexusFileName":"Quicksecondwind 11aabc80 36ad 3qmv","nexusFileVersion":"1","nexusFileUploadedAt":1784917946,"pakFileName":"QuickSecondWind_11aabc80-36ad-7197-0fd6-f66b6b5a0915.pak","nexusFileId":126385,"metaUuid":null}
