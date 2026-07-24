@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-07-24T14:51:30.477910+00:00","total_mods":17013},
+{"_meta":{"last_run":"2026-07-24T15:51:53.991499+00:00","total_mods":17013},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -56997,7 +56997,7 @@
 "20236":{"nexusModName":"Quiver Me Timbers RU","nexusUploadedBy":"Garrett1988","nexusModId":20236,"paks":[
 {"nexusFileName":"Quiver Me Timbers RU","nexusFileVersion":"1.0R","nexusFileUploadedAt":1766332513,"pakFileName":"QuiverMeTembersRU.pak","nexusFileId":110027,"metaUuid":null}
 ]},
-"20238":{"nexusModName":"TRM1 Vanilla Outfits","nexusUploadedBy":"tealrabbit19","nexusModId":20238,"paks":[
+"20238":{"nexusModName":"TRM1 UTav Standalone Vanilla Outfits","nexusUploadedBy":"tealrabbit19","nexusModId":20238,"paks":[
 {"nexusFileName":"TRM1V Root Template Overrides","nexusFileVersion":"1.0","nexusFileUploadedAt":1766349466,"pakFileName":"TRM1_RTO.pak","nexusFileId":110042,"metaUuid":null},
 {"nexusFileName":"TRM1VF Root Template Overrides","nexusFileVersion":"1.0","nexusFileUploadedAt":1766349798,"pakFileName":"TRM1F_RTO.pak","nexusFileId":110043,"metaUuid":null},
 {"nexusFileName":"TRM1V CC Patch","nexusFileVersion":"1.0","nexusFileUploadedAt":1766768479,"pakFileName":"TRM1_CC.pak","nexusFileId":110399,"metaUuid":null},
@@ -57010,19 +57010,19 @@
 "20239":{"nexusModName":"Vespena Armor","nexusUploadedBy":"AyuroArt","nexusModId":20239,"paks":[
 {"nexusFileName":"Ayu_Vespena","nexusFileVersion":"1.1","nexusFileUploadedAt":1767481895,"pakFileName":"AYU_BDO_Vespena_1efcedea-8198-dec4-c01d-398d79ac96a3.pak","nexusFileId":111035,"metaUuid":"1efcedea-8198-dec4-c01d-398d79ac96a3"}
 ]},
-"20240":{"nexusModName":"Gothyanki Gear for TRM1","nexusUploadedBy":"tealrabbit19","nexusModId":20240,"paks":[
+"20240":{"nexusModName":"Gothyanki Gear for TRM1-UTav","nexusUploadedBy":"tealrabbit19","nexusModId":20240,"paks":[
 {"nexusFileName":"Unarmored Patch","nexusFileVersion":"1.0","nexusFileUploadedAt":1766350973,"pakFileName":"jerinski_gothyanki-gear_patch-clothes_TRM1.pak","nexusFileId":110046,"metaUuid":null},
 {"nexusFileName":"TRM1 Gothyanki Gear","nexusFileVersion":"1.1","nexusFileUploadedAt":1766431249,"pakFileName":"jerinski_gothyanki-gear_TRM1.pak","nexusFileId":110106,"metaUuid":"b9edade4-4940-4814-9b4a-1c7a8354499e"}
 ]},
 "20241":{"nexusModName":"Ratchaser Mantle - Shoulder Cape","nexusUploadedBy":"AeehyehssReeper","nexusModId":20241,"paks":[
 {"nexusFileName":"Ratchaser Mantle","nexusFileVersion":"1.0.1","nexusFileUploadedAt":1775235461,"pakFileName":"OrthonMantle_41883912-387a-801e-a681-5c4fe8921745.pak","nexusFileId":118037,"metaUuid":"41883912-387a-801e-a681-5c4fe8921745"}
 ]},
-"20242":{"nexusModName":"Ranger's Leather Armour for TRM1","nexusUploadedBy":"tealrabbit19","nexusModId":20242,"paks":[
+"20242":{"nexusModName":"Ranger's Leather Armour for TRM1-UTav","nexusUploadedBy":"tealrabbit19","nexusModId":20242,"paks":[
 {"nexusFileName":"TRM1 Ranger's Leather Outfit Tutorial Chest Addon","nexusFileVersion":"1.1","nexusFileUploadedAt":1766427744,"pakFileName":"SimpleRangerOutfitTutChestTRM1.pak","nexusFileId":110104,"metaUuid":null},
 {"nexusFileName":"TRM1 Ranger's Leather Armor","nexusFileVersion":"1.2","nexusFileUploadedAt":1766524405,"pakFileName":"SimpleRangerOutfitTRM1.pak","nexusFileId":110202,"metaUuid":"690e4898-98b6-46cf-a765-59928d26f9a9"},
 {"nexusFileName":"TRM1 Ranger's Starting Gear","nexusFileVersion":"1.0","nexusFileUploadedAt":1766769366,"pakFileName":"SimpleRangerOutfitStarterTRM1.pak","nexusFileId":110402,"metaUuid":null}
 ]},
-"20243":{"nexusModName":"PK Clothes and Armours for TRM1","nexusUploadedBy":"tealrabbit19","nexusModId":20243,"paks":[
+"20243":{"nexusModName":"PK Clothes and Armours for TRM1-UTav","nexusUploadedBy":"tealrabbit19","nexusModId":20243,"paks":[
 {"nexusFileName":"TRM1 PK Clothes and Armours","nexusFileVersion":"1.0","nexusFileUploadedAt":1766352586,"pakFileName":"PK_Armors_N_Clothes_TRM1.pak","nexusFileId":110050,"metaUuid":"9a3a0f4e-30a6-4071-80c5-46930cf1e94c"},
 {"nexusFileName":"TRM1 PK Haunted Sea Set","nexusFileVersion":"1.0","nexusFileUploadedAt":1766352621,"pakFileName":"PK_Haunted_Sea_TRM1.pak","nexusFileId":110051,"metaUuid":"093d55fc-8544-49df-a13e-5fd2e7cf128f"},
 {"nexusFileName":"TRM1 PK Wanderer No Hair Patch","nexusFileVersion":"1.0","nexusFileUploadedAt":1766352707,"pakFileName":"PK_Armors_N_Clothes_NH_TRM1.pak","nexusFileId":110052,"metaUuid":null}
@@ -57865,10 +57865,10 @@
 "20548":{"nexusModName":"Clawstep - Dragonborn Body - Breast CC Selector","nexusUploadedBy":"AkELkA","nexusModId":20548,"paks":[
 {"nexusFileName":"Clawstep - Dragonborn Body - Breast CC Selector","nexusFileVersion":"1.0.0.8","nexusFileUploadedAt":1771704494,"pakFileName":"DGB_Body_AkELkA_ATCH_BRST_A_889057d6-c227-1ac6-120f-f7735001842c.pak","nexusFileId":115300,"metaUuid":"889057d6-c227-1ac6-120f-f7735001842c"}
 ]},
-"20549":{"nexusModName":"Lathander's Armory for TRM1","nexusUploadedBy":"tealrabbit19","nexusModId":20549,"paks":[
+"20549":{"nexusModName":"Lathander's Armory for TRM1-UTav","nexusUploadedBy":"tealrabbit19","nexusModId":20549,"paks":[
 {"nexusFileName":"Lathander's Armory TRM1","nexusFileVersion":"1.0","nexusFileUploadedAt":1767732028,"pakFileName":"LathanderArmory_TRM1.pak","nexusFileId":111343,"metaUuid":"5080ee98-80dd-4b60-8db6-acf2e24e56db"}
 ]},
-"20550":{"nexusModName":"Maiden Of The Night for TRM1","nexusUploadedBy":"tealrabbit19","nexusModId":20550,"paks":[
+"20550":{"nexusModName":"Maiden Of The Night for TRM1-UTav","nexusUploadedBy":"tealrabbit19","nexusModId":20550,"paks":[
 {"nexusFileName":"Maiden of the Night TRM1","nexusFileVersion":"1.0","nexusFileUploadedAt":1767732934,"pakFileName":"CSSSeluneOutfit_TRM1.pak","nexusFileId":111345,"metaUuid":"423d33db-b767-45b6-a55f-2129768e2721"}
 ]},
 "20551":{"nexusModName":"New Game Plus (NGP) for Japanese","nexusUploadedBy":"Eolaloe","nexusModId":20551,"paks":[
@@ -63607,8 +63607,8 @@
 {"nexusFileName":"ShadarKai ES","nexusFileVersion":"1","nexusFileUploadedAt":1777110901,"pakFileName":"ShadarKai_ES.pak","nexusFileId":119823,"metaUuid":null}
 ]},
 "22557":{"nexusModName":"Adventuring and Expansion of rest System","nexusUploadedBy":"TimeReprise","nexusModId":22557,"paks":[
-{"nexusFileName":"Apcs RestSystem","nexusFileVersion":"3","nexusFileUploadedAt":1784586923,"pakFileName":"apcs_RestSystem.pak","nexusFileId":126103,"metaUuid":null},
-{"nexusFileName":"Apcs RestSystem NoSupplyPacks","nexusFileVersion":"3","nexusFileUploadedAt":1784586984,"pakFileName":"apcs_RestSystem_NoSupplyPacks.pak","nexusFileId":126104,"metaUuid":null}
+{"nexusFileName":"Apcs RestSystem NoSupplyPacks","nexusFileVersion":"3.1","nexusFileUploadedAt":1784907831,"pakFileName":"apcs_RestSystem_NoSupplyPacks.pak","nexusFileId":126370,"metaUuid":null},
+{"nexusFileName":"Apcs RestSystem","nexusFileVersion":"3.1","nexusFileUploadedAt":1784907868,"pakFileName":"apcs_RestSystem.pak","nexusFileId":126371,"metaUuid":null}
 ]},
 "22558":{"nexusModName":"Ultimate Tactical AI Companions","nexusUploadedBy":"Vercadi","nexusModId":22558,"paks":[
 {"nexusFileName":"Ultimate Tactical AI Companions v1.1.3","nexusFileVersion":"1.1.3","nexusFileUploadedAt":1779117839,"pakFileName":"UTAC.pak","nexusFileId":121582,"metaUuid":"300fb883-8af8-4be9-a101-171b56698dc5"}
@@ -65653,7 +65653,7 @@
 "23356":{"nexusModName":"Draco's Fantasy Gunslinger","nexusUploadedBy":"dracotunes","nexusModId":23356,"paks":[
 {"nexusFileName":"Feat Every 2 Levels","nexusFileVersion":"1","nexusFileUploadedAt":1781346587,"pakFileName":"DTGSfeat2level_6fd8fdf3-b0d9-71ae-4519-094aed82ae5c.pak","nexusFileId":123468,"metaUuid":"6fd8fdf3-b0d9-71ae-4519-094aed82ae5c"},
 {"nexusFileName":"Spawn All Weapons into Tutorial Chest","nexusFileVersion":"4","nexusFileUploadedAt":1781690169,"pakFileName":"DTGStutorialchestadd_5483ad95-adbb-3ef0-50ee-1a293bfbe213.pak","nexusFileId":123747,"metaUuid":"5483ad95-adbb-3ef0-50ee-1a293bfbe213"},
-{"nexusFileName":"Draco's Fantasy Gunslinger","nexusFileVersion":"18","nexusFileUploadedAt":1784827181,"pakFileName":"GUNSLINGERR_1d17e144-004d-7375-194e-f8d7854fe7d8.pak","nexusFileId":126309,"metaUuid":"1d17e144-004d-7375-194e-f8d7854fe7d8"}
+{"nexusFileName":"Draco's Fantasy Gunslinger","nexusFileVersion":"18","nexusFileUploadedAt":1784906488,"pakFileName":"GUNSLINGERR_1d17e144-004d-7375-194e-f8d7854fe7d8.pak","nexusFileId":126364,"metaUuid":"1d17e144-004d-7375-194e-f8d7854fe7d8"}
 ]},
 "23358":{"nexusModName":"Heo Nam-Jun Head Preset","nexusUploadedBy":"VespertilioArt","nexusModId":23358,"paks":[
 {"nexusFileName":"HeoNamJun","nexusFileVersion":"1.0.0.1","nexusFileUploadedAt":1781630510,"pakFileName":"HeoNamJun.pak","nexusFileId":123717,"metaUuid":"fd039493-8755-4249-bcb7-ed2ba461db08"},
@@ -65864,7 +65864,7 @@
 {"nexusFileName":"TidesOfChaos2024CHS","nexusFileVersion":"1.0","nexusFileUploadedAt":1781866169,"pakFileName":"TidesOfChaos2024CHS.pak","nexusFileId":123876,"metaUuid":null}
 ]},
 "23456":{"nexusModName":"Camp Activities (Fixed)","nexusUploadedBy":"GabeCamomescro","nexusModId":23456,"paks":[
-{"nexusFileName":"Main (Live) File","nexusFileVersion":"1.0.0.123","nexusFileUploadedAt":1784765772,"pakFileName":"CampActivitiesFixed_82983cc8-c8f3-790c-d3ff-cf448ce04845.pak","nexusFileId":126261,"metaUuid":"82983cc8-c8f3-790c-d3ff-cf448ce04845"}
+{"nexusFileName":"Main (Live) File","nexusFileVersion":"1.0.0.124","nexusFileUploadedAt":1784905282,"pakFileName":"CampActivitiesFixed_82983cc8-c8f3-790c-d3ff-cf448ce04845.pak","nexusFileId":126363,"metaUuid":"82983cc8-c8f3-790c-d3ff-cf448ce04845"}
 ]},
 "23457":{"nexusModName":"Agonizing Cantrips","nexusUploadedBy":"yoonmoonsik43","nexusModId":23457,"paks":[
 {"nexusFileName":"Agonizingcantrip D2c2aab8 E7fb K9cx","nexusFileVersion":"2","nexusFileUploadedAt":1781854232,"pakFileName":"AgonizingCantrip_d2c2aab8-e7fb-98fe-8793-c1c0a198a211.pak","nexusFileId":123870,"metaUuid":"d2c2aab8-e7fb-98fe-8793-c1c0a198a211"}
