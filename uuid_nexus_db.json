@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-07-24T10:51:21.986400+00:00","total_mods":17010},
+{"_meta":{"last_run":"2026-07-24T11:51:47.867890+00:00","total_mods":17010},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -15515,7 +15515,7 @@
 {"nexusFileName":"1d4 to 2d6 at 10","nexusFileVersion":"1.0.1","nexusFileUploadedAt":1702035591,"pakFileName":"ImprovedDuellingFightingStyle.pak","nexusFileId":33299,"metaUuid":null}
 ]},
 "4958":{"nexusModName":"Save Restore Stash","nexusUploadedBy":"swissfred","nexusModId":4958,"paks":[
-{"nexusFileName":"Save and Restore Stash","nexusFileVersion":"8.0.8.0","nexusFileUploadedAt":1784808962,"pakFileName":"SaveRestoreStash-P8.pak","nexusFileId":126295,"metaUuid":null}
+{"nexusFileName":"Save and Restore Stash","nexusFileVersion":"8.0.8.2","nexusFileUploadedAt":1784891848,"pakFileName":"SaveRestoreStash-P8.pak","nexusFileId":126354,"metaUuid":null}
 ]},
 "4959":{"nexusModName":"Let Astarion be a Bat","nexusUploadedBy":"yourselfcola","nexusModId":4959,"paks":[
 {"nexusFileName":"batmode","nexusFileVersion":"1.3","nexusFileUploadedAt":1702264433,"pakFileName":"batmode.pak","nexusFileId":33864,"metaUuid":null},
@@ -44660,7 +44660,7 @@
 {"nexusFileName":"Divine Champion's set","nexusFileVersion":"1.1.4.1","nexusFileUploadedAt":1777221266,"pakFileName":"KimerAardi_BattlemasterArmour_DC_dcd1e613-d862-498e-8d21-c280dc3f6e5e.pak","nexusFileId":119938,"metaUuid":"dcd1e613-d862-498e-8d21-c280dc3f6e5e"},
 {"nexusFileName":"No Plume Addon","nexusFileVersion":"1.1.5","nexusFileUploadedAt":1784486734,"pakFileName":"KimerAardi_BattlemasterArmour_NP_bee1a551-060b-431b-a526-585dd9d2bea7.pak","nexusFileId":126020,"metaUuid":null},
 {"nexusFileName":"Tutorial Chest Addon","nexusFileVersion":"1.1.5","nexusFileUploadedAt":1784486759,"pakFileName":"KimerAardi_BattlemasterArmour_TUT_e6966b82-1835-4cc7-b130-61dd8c5427df.pak","nexusFileId":126021,"metaUuid":null},
-{"nexusFileName":"Remake of paladin's starting equipment","nexusFileVersion":"1.1.5.1","nexusFileUploadedAt":1784570778,"pakFileName":"KimerAardi_BattlemasterArmour_b5070985-c9e7-d383-9665-0890dc72209a.pak","nexusFileId":126082,"metaUuid":"b5070985-c9e7-d383-9665-0890dc72209a"}
+{"nexusFileName":"Remake of paladin's starting equipment","nexusFileVersion":"1.1.5.2","nexusFileUploadedAt":1784892692,"pakFileName":"KimerAardi_BattlemasterArmour_b5070985-c9e7-d383-9665-0890dc72209a.pak","nexusFileId":126355,"metaUuid":"b5070985-c9e7-d383-9665-0890dc72209a"}
 ]},
 "16054":{"nexusModName":"Find Familiar Owlbear Cub CN","nexusUploadedBy":"chareloy","nexusModId":16054,"paks":[
 {"nexusFileName":"8b","nexusFileVersion":"8b","nexusFileUploadedAt":1745518391,"pakFileName":"summonableowlbearcub_CN.pak","nexusFileId":90492,"metaUuid":null}
