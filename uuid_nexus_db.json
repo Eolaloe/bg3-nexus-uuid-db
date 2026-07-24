@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-07-24T05:51:27.159297+00:00","total_mods":17008},
+{"_meta":{"last_run":"2026-07-24T06:51:53.874454+00:00","total_mods":17010},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -67219,6 +67219,10 @@
 "24029":{"nexusModName":"STAV Race Patches","nexusUploadedBy":"briararoundroses","nexusModId":24029,"paks":[
 {"nexusFileName":"STAV Race Patches","nexusFileVersion":"1","nexusFileUploadedAt":1784840984,"pakFileName":"STAV [Race Patches].pak","nexusFileId":126327,"metaUuid":"e36fb585-65cd-43a2-a44e-a5040134ee01"}
 ]},
+"24030":{"nexusModName":"The Oaken Maiden - Jaheira Edit","nexusUploadedBy":"SweetGenerousThing","nexusModId":24030,"paks":[
+{"nexusFileName":"SGT_The Oaken Maiden_Jaheira Edit","nexusFileVersion":"1","nexusFileUploadedAt":1784834784,"pakFileName":"SGT_JaheiraEdit_801d16be-dca8-cdcb-72d3-6c41c312f62e.pak","nexusFileId":126318,"metaUuid":null},
+{"nexusFileName":"SGT_The Oaken Maiden - Portrait","nexusFileVersion":"1","nexusFileUploadedAt":1784834843,"pakFileName":"Oaken Maiden - Jaheira Portrait.pak","nexusFileId":126319,"metaUuid":null}
+]},
 "24031":{"nexusModName":"Aylin's Kintsugi for STAV","nexusUploadedBy":"EvilSnail0fDestruktion","nexusModId":24031,"paks":[
 {"nexusFileName":"STAVAylin","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1784838391,"pakFileName":"STAVAylin.pak","nexusFileId":126324,"metaUuid":null}
 ]},
@@ -67240,4 +67244,7 @@
 "24041":{"nexusModName":"Dragonborn XL penis","nexusUploadedBy":"benben1205","nexusModId":24041,"paks":[
 {"nexusFileName":"T2DGB Penis","nexusFileVersion":"1.0.0.1","nexusFileUploadedAt":1784869606,"pakFileName":"DGBPenis_a18f4947-42c5-ac95-3997-f7f6d67c2a1e.pak","nexusFileId":126347,"metaUuid":null},
 {"nexusFileName":"T4DGB Penis","nexusFileVersion":"1.0.0.1","nexusFileUploadedAt":1784869644,"pakFileName":"MDGBPenis_28945a03-2e10-4279-df99-20232c0a633f.pak","nexusFileId":126348,"metaUuid":null}
+]},
+"24042":{"nexusModName":"Quick Precision Attack","nexusUploadedBy":"yoonmoonsik43","nexusModId":24042,"paks":[
+{"nexusFileName":"Quickprecisionattack 1313e70b 2kep","nexusFileVersion":"1","nexusFileUploadedAt":1784874935,"pakFileName":"QuickPrecisionAttack_1313e70b-54c1-15de-d112-eb9aa8906c77.pak","nexusFileId":126350,"metaUuid":null}
 ]}}
