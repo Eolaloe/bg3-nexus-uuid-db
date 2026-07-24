@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-07-24T19:51:48.746989+00:00","total_mods":17021},
+{"_meta":{"last_run":"2026-07-24T20:51:55.301235+00:00","total_mods":17021},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -47784,7 +47784,8 @@
 {"nexusFileName":"Scratch of Ill Omen","nexusFileVersion":"1.0.0.6","nexusFileUploadedAt":1752884864,"pakFileName":"Scratch_Nimbus_3016d6c8-3785-c741-7070-1dba58626c36.pak","nexusFileId":98451,"metaUuid":null},
 {"nexusFileName":"Shadow Scratch","nexusFileVersion":"1.0.0.4","nexusFileUploadedAt":1752884891,"pakFileName":"Scratch_Shadow_Mastiff_88f72aac-2eca-6323-5b62-e468c1bdd21c.pak","nexusFileId":98452,"metaUuid":null},
 {"nexusFileName":"Undead Scratch","nexusFileVersion":"1.0.0.5","nexusFileUploadedAt":1752884919,"pakFileName":"Scratch_Squire_969a377b-3747-4f47-d7a8-e5a3fa4c9911.pak","nexusFileId":98453,"metaUuid":null},
-{"nexusFileName":"Ghost Scratch","nexusFileVersion":"2.0.0.11","nexusFileUploadedAt":1755068093,"pakFileName":"Scratch_Ghost_58fbaa4e-1129-94f6-480a-1261437e0cce.pak","nexusFileId":100510,"metaUuid":"58fbaa4e-1129-94f6-480a-1261437e0cce"}
+{"nexusFileName":"Ghost Scratch","nexusFileVersion":"2.0.0.11","nexusFileUploadedAt":1755068093,"pakFileName":"Scratch_Ghost_58fbaa4e-1129-94f6-480a-1261437e0cce.pak","nexusFileId":100510,"metaUuid":"58fbaa4e-1129-94f6-480a-1261437e0cce"},
+{"nexusFileName":"Scratch Uninstall","nexusFileVersion":"1.0.0.1","nexusFileUploadedAt":1784925968,"pakFileName":"Scratch_Uninstall.pak","nexusFileId":126401,"metaUuid":null}
 ]},
 "17203":{"nexusModName":"Toggle Darkvision Characterlight","nexusUploadedBy":"yoonmoonsik43","nexusModId":17203,"paks":[
 {"nexusFileName":"DarkvisionLightToggle","nexusFileVersion":"1.0.0.1","nexusFileUploadedAt":1750212910,"pakFileName":"DarkvisionLightToggle_e8f2d829-76a6-7951-465f-b8ebaab7d661.pak","nexusFileId":96134,"metaUuid":null}
@@ -52573,8 +52574,7 @@
 {"nexusFileName":"Extra Body Types for Woodland Dress","nexusFileVersion":"1.1.0","nexusFileUploadedAt":1758977373,"pakFileName":"Em_Woodland_Dress_Patch.pak","nexusFileId":103785,"metaUuid":"35546875-e094-4bf4-bd25-af3b12f01e10"}
 ]},
 "18865":{"nexusModName":"Female Planar Ally Bare","nexusUploadedBy":"Wlasiuk","nexusModId":18865,"paks":[
-{"nexusFileName":"Female Planar Ally Semi","nexusFileVersion":"1.0.0.43","nexusFileUploadedAt":1761763694,"pakFileName":"NudeFemalePlanarAlly_906a69b9-71b2-9edc-3d6d-a41548f21f50.pak","nexusFileId":106283,"metaUuid":null},
-{"nexusFileName":"Female Planar Ally Bare","nexusFileVersion":"1.0.0.44","nexusFileUploadedAt":1763740176,"pakFileName":"NudeFemalePlanarAlly_906a69b9-71b2-9edc-3d6d-a41548f21f50.pak","nexusFileId":107860,"metaUuid":null}
+{"nexusFileName":"Female Planar Ally Bare","nexusFileVersion":"1.0.0.46","nexusFileUploadedAt":1784925005,"pakFileName":"NudeFemalePlanarAlly_906a69b9-71b2-9edc-3d6d-a41548f21f50.pak","nexusFileId":126400,"metaUuid":null}
 ]},
 "18866":{"nexusModName":"Sacred Wind - A Thunder (and Lightning) Sacred Flame Alternative - Multiple Versions - Russian translation","nexusUploadedBy":"FanLarin","nexusModId":18866,"paks":[
 {"nexusFileName":"Sacred Wind - Resonant Tempest_RU","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1758925554,"pakFileName":"Sacred Wind - Resonant Tempest_RU.pak","nexusFileId":103736,"metaUuid":null}
