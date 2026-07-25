@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-07-25T18:52:02.129083+00:00","total_mods":17032},
+{"_meta":{"last_run":"2026-07-25T19:51:46.432370+00:00","total_mods":17034},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -66613,6 +66613,19 @@
 {"nexusFileName":"Originals P1  - CCO","nexusFileVersion":"1.0.0.2","nexusFileUploadedAt":1783796370,"pakFileName":"Originals_P1 - CCO.pak","nexusFileId":125440,"metaUuid":"a736fd33-b1f3-4eae-b2e1-ebbf65fbd4e7"},
 {"nexusFileName":"Originals P1","nexusFileVersion":"1.0.0.3","nexusFileUploadedAt":1783796390,"pakFileName":"Originals_P1.pak","nexusFileId":125441,"metaUuid":"a736fd33-b1f3-4eae-b2e1-ebbf65fbd4e7"}
 ]},
+"23778":{"nexusModName":"Twilight Flourish - A Moonlight-Themed Melee Cantrip Based on True Strike 2024","nexusUploadedBy":"SymboJones","nexusModId":23778,"paks":[
+{"nexusFileName":"A-01. Twilight Flourish - Action Point - 1d4 Each","nexusFileVersion":"1.0.0-A-01","nexusFileUploadedAt":1784999626,"pakFileName":"Twilight Flourish - Lunar True Strike 2024 - A-01.pak","nexusFileId":126468,"metaUuid":null},
+{"nexusFileName":"A-02. Twilight Flourish - AP - 1d8 Cold","nexusFileVersion":"1.0.0-A-02","nexusFileUploadedAt":1784999686,"pakFileName":"Twilight Flourish - Lunar True Strike 2024 - A-02.pak","nexusFileId":126469,"metaUuid":null},
+{"nexusFileName":"A-03. Twilight Flourish - AP - 1d6 Cold","nexusFileVersion":"1.0.0-A-03","nexusFileUploadedAt":1784999749,"pakFileName":"Twilight Flourish - Lunar True Strike 2024 - A-03.pak","nexusFileId":126470,"metaUuid":null},
+{"nexusFileName":"A-04. Twilight Flourish - AP - 1d8 Radiant","nexusFileVersion":"1.0.0-A-04","nexusFileUploadedAt":1784999830,"pakFileName":"Twilight Flourish - Lunar True Strike 2024 - A-04.pak","nexusFileId":126471,"metaUuid":null},
+{"nexusFileName":"A-05. Twilight Flourish - AP - 1d6 Radiant","nexusFileVersion":"1.0.0-A-05","nexusFileUploadedAt":1784999892,"pakFileName":"Twilight Flourish - Lunar True Strike 2024 - A-05.pak","nexusFileId":126472,"metaUuid":null},
+{"nexusFileName":"Twilight Flourish - All Caster Addon","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1784999953,"pakFileName":"Twilight Flourish - Lunar True Strike 2024 - All Caster Addon.pak","nexusFileId":126473,"metaUuid":null},
+{"nexusFileName":"B-01. Twilight Flourish - Bonus Action - 1d4 Each","nexusFileVersion":"1.0.0-B-01","nexusFileUploadedAt":1784999999,"pakFileName":"Twilight Flourish - Lunar True Strike 2024 - B-01.pak","nexusFileId":126474,"metaUuid":null},
+{"nexusFileName":"B-02. Twilight Flourish - BA - 1d8 Cold","nexusFileVersion":"1.0.0-B-02","nexusFileUploadedAt":1785000027,"pakFileName":"Twilight Flourish - Lunar True Strike 2024 - B-02.pak","nexusFileId":126475,"metaUuid":null},
+{"nexusFileName":"B-03. Twilight Flourish - BA - 1d6 Cold","nexusFileVersion":"1.0.0-B-03","nexusFileUploadedAt":1785000054,"pakFileName":"Twilight Flourish - Lunar True Strike 2024 - B-03.pak","nexusFileId":126476,"metaUuid":null},
+{"nexusFileName":"B-04. Twilight Flourish - BA - 1d8 Radiant","nexusFileVersion":"1.0.0-B-04","nexusFileUploadedAt":1785000080,"pakFileName":"Twilight Flourish - Lunar True Strike 2024 - B-04.pak","nexusFileId":126477,"metaUuid":null},
+{"nexusFileName":"B-05. Twilight Flourish - BA - 1d6 Radiant","nexusFileVersion":"1.0.0-B-05","nexusFileUploadedAt":1785000114,"pakFileName":"Twilight Flourish - Lunar True Strike 2024 - B-05.pak","nexusFileId":126478,"metaUuid":null}
+]},
 "23780":{"nexusModName":"Dark Urge Morning After - Always Gale","nexusUploadedBy":"Seristina","nexusModId":23780,"paks":[
 {"nexusFileName":"DurgeMorningAlwaysGale","nexusFileVersion":"1","nexusFileUploadedAt":1783539513,"pakFileName":"DurgeMorningAlwaysGale.pak","nexusFileId":125239,"metaUuid":"2fa307ee-0222-4014-8a32-48fee506c478"}
 ]},
@@ -67055,7 +67068,7 @@
 {"nexusFileName":"Grant Flight Ritual","nexusFileVersion":"1","nexusFileUploadedAt":1784576324,"pakFileName":"GrantFlightRitual_9787c81d-a3d7-e274-734f-64d7d3689210.pak","nexusFileId":126088,"metaUuid":null}
 ]},
 "23973":{"nexusModName":"Force Weapons","nexusUploadedBy":"Tyranno85","nexusModId":23973,"paks":[
-{"nexusFileName":"Force ","nexusFileVersion":"V1.0.1","nexusFileUploadedAt":1784928619,"pakFileName":"Force_509053cc-ea81-b575-c221-7a6f54cc331e.pak","nexusFileId":126402,"metaUuid":"509053cc-ea81-b575-c221-7a6f54cc331e"}
+{"nexusFileName":"Force ","nexusFileVersion":"V1.0.2","nexusFileUploadedAt":1785007330,"pakFileName":"Force_509053cc-ea81-b575-c221-7a6f54cc331e.pak","nexusFileId":126484,"metaUuid":"509053cc-ea81-b575-c221-7a6f54cc331e"}
 ]},
 "23974":{"nexusModName":"Echoes in the Sand Poses","nexusUploadedBy":"MadMicky10","nexusModId":23974,"paks":[
 {"nexusFileName":"MadMicky Echos In The Sand Poses","nexusFileVersion":"1","nexusFileUploadedAt":1784585318,"pakFileName":"Echos_in_the_Sand__876823ba-2984-96ef-aee2-3bfc0f833b1f.pak","nexusFileId":126101,"metaUuid":"876823ba-2984-96ef-aee2-3bfc0f833b1f"}
@@ -67323,4 +67336,7 @@
 ]},
 "24075":{"nexusModName":"Spelljammer Astral Elves","nexusUploadedBy":"tepkunset","nexusModId":24075,"paks":[
 {"nexusFileName":"AstralElvesTEP","nexusFileVersion":"1","nexusFileUploadedAt":1784996435,"pakFileName":"AstralElvesTEP.pak","nexusFileId":126464,"metaUuid":null}
+]},
+"24076":{"nexusModName":"You're Not Hard To Love Pose Pack","nexusUploadedBy":"Marymeeee","nexusModId":24076,"paks":[
+{"nexusFileName":"You're Not Hard To Love Pose Pack","nexusFileVersion":"1","nexusFileUploadedAt":1785006460,"pakFileName":"YoureNotHardToLove_60f682dd-1bf7-f037-ae0d-d034a0674899.pak","nexusFileId":126483,"metaUuid":null}
 ]}}
