@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-07-25T19:51:46.432370+00:00","total_mods":17034},
+{"_meta":{"last_run":"2026-07-25T20:51:37.069241+00:00","total_mods":17035},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -67277,7 +67277,8 @@
 "24048":{"nexusModName":"TealRabbit's Masculine Body 1 Races","nexusUploadedBy":"tealrabbit19","nexusModId":24048,"paks":[
 {"nexusFileName":"TRM1 Races","nexusFileVersion":"1","nexusFileUploadedAt":1784907291,"pakFileName":"TRM1_Races_97bca857-f004-3675-3e83-b57dbcf98572.pak","nexusFileId":126365,"metaUuid":null},
 {"nexusFileName":"TRM1 Races UTAV Patch","nexusFileVersion":"1","nexusFileUploadedAt":1784907439,"pakFileName":"TRM1Races_UTAV_Patch.pak","nexusFileId":126367,"metaUuid":null},
-{"nexusFileName":"TRM1 Races Transmasc Genitalia Patch","nexusFileVersion":"1","nexusFileUploadedAt":1784907487,"pakFileName":"tdicks for TRM1.pak","nexusFileId":126368,"metaUuid":null}
+{"nexusFileName":"TRM1 Races Transmasc Genitalia Patch","nexusFileVersion":"1","nexusFileUploadedAt":1784907487,"pakFileName":"tdicks for TRM1.pak","nexusFileId":126368,"metaUuid":null},
+{"nexusFileName":"TRM1 Races SGT's Pretty Boys Patch","nexusFileVersion":"1","nexusFileUploadedAt":1785009505,"pakFileName":"TRM1Races_SGTPrettyBoys_Patch.pak","nexusFileId":126486,"metaUuid":null}
 ]},
 "24050":{"nexusModName":"Team-Oriented Skill-Checked Feats and So On (BAMJO Feats)","nexusUploadedBy":"R6R6R","nexusModId":24050,"paks":[
 {"nexusFileName":"BAMJOFeats","nexusFileVersion":"1.1.2","nexusFileUploadedAt":1785003068,"pakFileName":"BAMJOFeats.pak","nexusFileId":126481,"metaUuid":"ce358962-8bae-4891-a171-f306b2fab092"}
@@ -67339,4 +67340,7 @@
 ]},
 "24076":{"nexusModName":"You're Not Hard To Love Pose Pack","nexusUploadedBy":"Marymeeee","nexusModId":24076,"paks":[
 {"nexusFileName":"You're Not Hard To Love Pose Pack","nexusFileVersion":"1","nexusFileUploadedAt":1785006460,"pakFileName":"YoureNotHardToLove_60f682dd-1bf7-f037-ae0d-d034a0674899.pak","nexusFileId":126483,"metaUuid":null}
+]},
+"24077":{"nexusModName":"Crush XP Fix","nexusUploadedBy":"faerryn","nexusModId":24077,"paks":[
+{"nexusFileName":"CrushXPFix","nexusFileVersion":"1","nexusFileUploadedAt":1785008629,"pakFileName":"CrushXPFix.pak","nexusFileId":126485,"metaUuid":null}
 ]}}
