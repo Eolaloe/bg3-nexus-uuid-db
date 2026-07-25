@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-07-25T13:51:47.388823+00:00","total_mods":17027},
+{"_meta":{"last_run":"2026-07-25T14:52:19.997042+00:00","total_mods":17030},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -48444,8 +48444,8 @@
 {"nexusFileName":"Photobooth - Pool Party","nexusFileVersion":"1.0.0.2","nexusFileUploadedAt":1751632799,"pakFileName":"PB_PoolParty_9852c5ef-2866-b99f-2dff-c9f9a38fe68d.pak","nexusFileId":97327,"metaUuid":null}
 ]},
 "17395":{"nexusModName":"Magus - Pathfinder 1e Class Conversion","nexusUploadedBy":"yingluo2010","nexusModId":17395,"paks":[
-{"nexusFileName":"Magus","nexusFileVersion":"3.0","nexusFileUploadedAt":1769946582,"pakFileName":"Magus.pak","nexusFileId":113827,"metaUuid":null},
-{"nexusFileName":"Magus","nexusFileVersion":"3.0","nexusFileUploadedAt":1769946733,"pakFileName":"Magus.pak","nexusFileId":113828,"metaUuid":null}
+{"nexusFileName":"Magus","nexusFileVersion":"3.1","nexusFileUploadedAt":1784988688,"pakFileName":"Magus.pak","nexusFileId":126454,"metaUuid":null},
+{"nexusFileName":"Magus","nexusFileVersion":"3.1","nexusFileUploadedAt":1784988756,"pakFileName":"Magus.pak","nexusFileId":126455,"metaUuid":null}
 ]},
 "17396":{"nexusModName":"Oath of the Silent End Paladin Subclass","nexusUploadedBy":"YouMeAndBG3","nexusModId":17396,"paks":[
 {"nexusFileName":"Oath of the Silent End Paladin Subclass","nexusFileVersion":"1.1","nexusFileUploadedAt":1751640274,"pakFileName":"Oath of the Silent End.pak","nexusFileId":97332,"metaUuid":"2d7cd711-7913-4a32-8e57-e2d8e9599814"}
@@ -54015,7 +54015,7 @@
 {"nexusFileName":"Perfume of Elegance","nexusFileVersion":"1.2","nexusFileUploadedAt":1776692196,"pakFileName":"ElegantPerfume.pak","nexusFileId":119523,"metaUuid":"c9ac1735-bae3-4c3e-d115-0c64c3f4de41"}
 ]},
 "19414":{"nexusModName":"Compatibility Patch for Photo Mode Pose Mods","nexusUploadedBy":"CatastrophicalCat","nexusModId":19414,"paks":[
-{"nexusFileName":"Compatibility Patch for Photo Mode Pose Mods","nexusFileVersion":"1.0.0.73","nexusFileUploadedAt":1784371202,"pakFileName":"One_Patch_To_Pose_Them_All_a5a10678-d1a3-fc3a-2396-79fef5335b15.pak","nexusFileId":125925,"metaUuid":"a5a10678-d1a3-fc3a-2396-79fef5335b15"}
+{"nexusFileName":"Compatibility Patch for Photo Mode Pose Mods","nexusFileVersion":"1.0.0.74","nexusFileUploadedAt":1784988346,"pakFileName":"One_Patch_To_Pose_Them_All_a5a10678-d1a3-fc3a-2396-79fef5335b15.pak","nexusFileId":126453,"metaUuid":"a5a10678-d1a3-fc3a-2396-79fef5335b15"}
 ]},
 "19415":{"nexusModName":"Symbio Blade - An Evolutive Class for Korean","nexusUploadedBy":"Eolaloe","nexusModId":19415,"paks":[
 {"nexusFileName":"Symbio Blade - An Evolutive Class for Korean","nexusFileVersion":"1.0.0.8","nexusFileUploadedAt":1773328452,"pakFileName":"SymbioBlade_kr.pak","nexusFileId":116611,"metaUuid":"8698b82f-ef10-41f4-b2ba-2bd0b16ff728"}
@@ -67308,4 +67308,13 @@
 ]},
 "24071":{"nexusModName":"Super Fast Arrow","nexusUploadedBy":"yoonmoonsik43","nexusModId":24071,"paks":[
 {"nexusFileName":"Superfastarrow 3d8805b1 8cfc F 6ify","nexusFileVersion":"1","nexusFileUploadedAt":1784986836,"pakFileName":"SuperFastArrow_3d8805b1-8cfc-fe7d-3d72-4e8c3f014282.pak","nexusFileId":126452,"metaUuid":null}
+]},
+"24072":{"nexusModName":"Maradis imersive firearms RUS","nexusUploadedBy":"Wakizxshi","nexusModId":24072,"paks":[
+{"nexusFileName":"Maradi S Immersive Firearms RUS RU","nexusFileVersion":"1","nexusFileUploadedAt":1784990617,"pakFileName":"Maradi_s_Immersive_Firearms_RUS_RU.pak","nexusFileId":126457,"metaUuid":null}
+]},
+"24073":{"nexusModName":"Valkrana's Spellbook Rus","nexusUploadedBy":"Wakizxshi","nexusModId":24073,"paks":[
+{"nexusFileName":"Valkrana S Spellbook RUS RU","nexusFileVersion":"1","nexusFileUploadedAt":1784990877,"pakFileName":"Valkrana_s_Spellbook_RUS_RU.pak","nexusFileId":126458,"metaUuid":null}
+]},
+"24074":{"nexusModName":"Fade's Assorted Treasure Expansion RUS","nexusUploadedBy":"Wakizxshi","nexusModId":24074,"paks":[
+{"nexusFileName":"FATE RUS","nexusFileVersion":"1","nexusFileUploadedAt":1784989887,"pakFileName":"FATE_RUS_RU.pak","nexusFileId":126456,"metaUuid":null}
 ]}}
