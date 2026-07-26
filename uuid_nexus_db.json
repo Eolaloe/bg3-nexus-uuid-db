@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-07-26T03:51:37.971505+00:00","total_mods":17038},
+{"_meta":{"last_run":"2026-07-26T04:51:36.775893+00:00","total_mods":17041},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -3391,7 +3391,7 @@
 "1258":{"nexusModName":"Valkrana's Spellbook - 17 New Necromancy Spells","nexusUploadedBy":"actualsailorcat","nexusModId":1258,"paks":[
 {"nexusFileName":"Valkrana's Impart Undeath Feat","nexusFileVersion":"1.01.00","nexusFileUploadedAt":1772167964,"pakFileName":"Valkrana's Impart Undeath Feat.pak","nexusFileId":115684,"metaUuid":"3d311d0d-a184-420e-b4d4-849b23d4a2d5"},
 {"nexusFileName":"Valkrana's Spellbook Limited Lists","nexusFileVersion":"1.00.03","nexusFileUploadedAt":1782860700,"pakFileName":"Valkrana's Spellbook Limited Lists.pak","nexusFileId":124614,"metaUuid":"84ccf67f-ba0d-4413-bb30-a14051f5fd02"},
-{"nexusFileName":"Valkrana's Spellbook","nexusFileVersion":"3.00.02","nexusFileUploadedAt":1784782183,"pakFileName":"Valkrana's Spellbook.pak","nexusFileId":126274,"metaUuid":"9deeb371-f01e-41b4-b20e-c5eee0751b12"}
+{"nexusFileName":"Valkrana's Spellbook","nexusFileVersion":"3.00.03","nexusFileUploadedAt":1785040984,"pakFileName":"Valkrana's Spellbook.pak","nexusFileId":126507,"metaUuid":"9deeb371-f01e-41b4-b20e-c5eee0751b12"}
 ]},
 "1259":{"nexusModName":"Great Old One Dice","nexusUploadedBy":"WingedAsarath","nexusModId":1259,"paks":[
 {"nexusFileName":"Great Old One Dice","nexusFileVersion":"1.1","nexusFileUploadedAt":1692634131,"pakFileName":"GreatOldOneDice.pak","nexusFileId":9187,"metaUuid":null}
@@ -68067,4 +68067,13 @@
 ]},
 "24083":{"nexusModName":"Equipment and Outfit Quick Switch","nexusUploadedBy":"Scor66","nexusModId":24083,"paks":[
 {"nexusFileName":"BagChangeOfClothes","nexusFileVersion":"1","nexusFileUploadedAt":1785032813,"pakFileName":"Scor_BagChangeOfClothes.pak","nexusFileId":126500,"metaUuid":null}
+]},
+"24084":{"nexusModName":"Dynamic_Camp_Supply_Cost_CHS","nexusUploadedBy":"everywherewind","nexusModId":24084,"paks":[
+{"nexusFileName":"Dynamic Camp Supply Cost Chs 3 Pkbe","nexusFileVersion":"1","nexusFileUploadedAt":1785038351,"pakFileName":"Dynamic_Camp_Supply_Cost_CHS_33abec4f-be60-f890-9ffd-3c78dfbbf0fb.pak","nexusFileId":126504,"metaUuid":null}
+]},
+"24085":{"nexusModName":"SparkWittle (gun)","nexusUploadedBy":"haytur","nexusModId":24085,"paks":[
+{"nexusFileName":"FeyGun","nexusFileVersion":"1.0R","nexusFileUploadedAt":1785039341,"pakFileName":"FeyGun.pak","nexusFileId":126506,"metaUuid":null}
+]},
+"24086":{"nexusModName":"Mod_Configuration_Menu_CHS","nexusUploadedBy":"everywherewind","nexusModId":24086,"paks":[
+{"nexusFileName":"Mod Configuration Menu Chs 4dd Atcq","nexusFileVersion":"1","nexusFileUploadedAt":1785038892,"pakFileName":"Mod_Configuration_Menu_CHS_4dda98cb-1f4e-bc09-90b0-2ee98516837f.pak","nexusFileId":126505,"metaUuid":null}
 ]}}
