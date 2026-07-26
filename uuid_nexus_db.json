@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-07-26T16:51:37.517704+00:00","total_mods":17043},
+{"_meta":{"last_run":"2026-07-26T17:52:07.357782+00:00","total_mods":17045},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -66903,6 +66903,15 @@
 "23893":{"nexusModName":"Noir Poses - Solo Edition","nexusUploadedBy":"MunchyInTechnicolor","nexusModId":23893,"paks":[
 {"nexusFileName":"NoirPoses Solo V1","nexusFileVersion":"1","nexusFileUploadedAt":1784160634,"pakFileName":"NoirPoses_Solo_V1.pak","nexusFileId":125751,"metaUuid":null}
 ]},
+"23894":{"nexusModName":"Trashy Companions' Tents in Camp","nexusUploadedBy":"sarymsak","nexusModId":23894,"paks":[
+{"nexusFileName":"Trashy Companions' Tents - all in one","nexusFileVersion":"1.0","nexusFileUploadedAt":1785081263,"pakFileName":"v1.0_SAR_Trashy-companions-tents_20d469d9-c2dc-3b73-560a-4056e05de84e.pak","nexusFileId":126533,"metaUuid":null},
+{"nexusFileName":"Trashy Companions' Tents - Astarion","nexusFileVersion":"1.a","nexusFileUploadedAt":1785082662,"pakFileName":"v1.0_SAR_Trashy-companions-tents_Astarion_bc01ee29-69e2-9b27-bf01-6bdfecc6945b.pak","nexusFileId":126536,"metaUuid":null},
+{"nexusFileName":"Trashy Companions' Tents - Gale","nexusFileVersion":"1.g","nexusFileUploadedAt":1785082774,"pakFileName":"v1.0_SAR_Trashy-companions-tents_Gale_1c6d08df-f8c6-0faf-1f18-54183d19feb0.pak","nexusFileId":126537,"metaUuid":null},
+{"nexusFileName":"Trashy Companions' Tents - Karlach","nexusFileVersion":"1.k","nexusFileUploadedAt":1785082854,"pakFileName":"v1.0_SAR_Trashy-companions-tents_Karlach_bb1b7a92-60ed-bcb2-635c-271a92b2dcef.pak","nexusFileId":126538,"metaUuid":null},
+{"nexusFileName":"Trashy Companions' Tents - Lae'zel","nexusFileVersion":"1.l","nexusFileUploadedAt":1785082916,"pakFileName":"v1.0_SAR_Trashy-companions-tents_Laezel_0d9661f3-324e-ee41-c2ea-d70be0351dd8.pak","nexusFileId":126539,"metaUuid":null},
+{"nexusFileName":"Trashy Companions Tents - Shadowheart","nexusFileVersion":"1.s","nexusFileUploadedAt":1785082985,"pakFileName":"v1.0_SAR_Trashy-companions-tents_Shadowheart_8b694229-09ca-e883-fff1-2cabaaa9495e.pak","nexusFileId":126541,"metaUuid":null},
+{"nexusFileName":"Trashy Companions Tents - Wyll","nexusFileVersion":"1.w","nexusFileUploadedAt":1785083031,"pakFileName":"v1.0_SAR_Trashy-companions-tents_Wyll_818d5810-9895-cc88-834b-9ad84370e2b7.pak","nexusFileId":126542,"metaUuid":null}
+]},
 "23895":{"nexusModName":"More Enemies in Boss fights","nexusUploadedBy":"koboldJuno","nexusModId":23895,"paks":[
 {"nexusFileName":"Juno More Encounters","nexusFileVersion":"1.0","nexusFileUploadedAt":1784125817,"pakFileName":"JunoMoreEncounters_4b314b11-d6fd-eed1-4296-4e064bae4228.pak","nexusFileId":125718,"metaUuid":"4b314b11-d6fd-eed1-4296-4e064bae4228"}
 ]},
@@ -67368,4 +67377,8 @@
 ]},
 "24094":{"nexusModName":"CombatBodysuit_TheFirstDescendant_BunnyUltimate","nexusUploadedBy":"EvilRecluse","nexusModId":24094,"paks":[
 {"nexusFileName":"CombatBodysuit TheFirstDescendant BunnyUltimate","nexusFileVersion":"1","nexusFileUploadedAt":1785077421,"pakFileName":"CombatBodysuit_TheFirstDescendant_BunnyUltimate.pak","nexusFileId":126527,"metaUuid":null}
+]},
+"24097":{"nexusModName":"Blood Sorcery Unleashed_KOR","nexusUploadedBy":"Ahdarugo","nexusModId":24097,"paks":[
+{"nexusFileName":"A. Blood Sorcery Unleashed Balanced KOR","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1785084978,"pakFileName":"Blood_Sorcery_Unleashed_A_Balanced_KOR.pak","nexusFileId":126546,"metaUuid":null},
+{"nexusFileName":"B. Blood Sorcery Unleashed Power Fantasy KOR","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1785085058,"pakFileName":"Blood_Sorcery_Unleashed_B_Power Fantasy_KOR.pak","nexusFileId":126547,"metaUuid":null}
 ]}}
