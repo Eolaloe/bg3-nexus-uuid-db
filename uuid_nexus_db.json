@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-07-26T15:51:37.253742+00:00","total_mods":17043},
+{"_meta":{"last_run":"2026-07-26T16:51:37.517704+00:00","total_mods":17043},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -3391,7 +3391,7 @@
 "1258":{"nexusModName":"Valkrana's Spellbook - 17 New Necromancy Spells","nexusUploadedBy":"actualsailorcat","nexusModId":1258,"paks":[
 {"nexusFileName":"Valkrana's Impart Undeath Feat","nexusFileVersion":"1.01.00","nexusFileUploadedAt":1772167964,"pakFileName":"Valkrana's Impart Undeath Feat.pak","nexusFileId":115684,"metaUuid":"3d311d0d-a184-420e-b4d4-849b23d4a2d5"},
 {"nexusFileName":"Valkrana's Spellbook Limited Lists","nexusFileVersion":"1.00.03","nexusFileUploadedAt":1782860700,"pakFileName":"Valkrana's Spellbook Limited Lists.pak","nexusFileId":124614,"metaUuid":"84ccf67f-ba0d-4413-bb30-a14051f5fd02"},
-{"nexusFileName":"Valkrana's Spellbook","nexusFileVersion":"3.00.03","nexusFileUploadedAt":1785040984,"pakFileName":"Valkrana's Spellbook.pak","nexusFileId":126507,"metaUuid":"9deeb371-f01e-41b4-b20e-c5eee0751b12"}
+{"nexusFileName":"Valkrana's Spellbook","nexusFileVersion":"3.00.04","nexusFileUploadedAt":1785082972,"pakFileName":"Valkrana's Spellbook.pak","nexusFileId":126540,"metaUuid":"9deeb371-f01e-41b4-b20e-c5eee0751b12"}
 ]},
 "1259":{"nexusModName":"Great Old One Dice","nexusUploadedBy":"WingedAsarath","nexusModId":1259,"paks":[
 {"nexusFileName":"Great Old One Dice","nexusFileVersion":"1.1","nexusFileUploadedAt":1692634131,"pakFileName":"GreatOldOneDice.pak","nexusFileId":9187,"metaUuid":null}
@@ -67263,19 +67263,19 @@
 {"nexusFileName":"DurgeMorningAlwaysWyll","nexusFileVersion":"1","nexusFileUploadedAt":1784916543,"pakFileName":"DurgeMorningAlwaysWyll.pak","nexusFileId":126384,"metaUuid":null}
 ]},
 "24045":{"nexusModName":"Female Create Undead","nexusUploadedBy":"Wlasiuk","nexusModId":24045,"paks":[
-{"nexusFileName":"Female Create Undead","nexusFileVersion":"1.0.0.5","nexusFileUploadedAt":1784916335,"pakFileName":"NudeFemaleCreateUndead_b62391aa-9e2a-5680-2f3a-498e43e0aea3.pak","nexusFileId":126383,"metaUuid":"b62391aa-9e2a-5680-2f3a-498e43e0aea3"}
+{"nexusFileName":"Female Create Undead","nexusFileVersion":"1.0.0.6","nexusFileUploadedAt":1785082335,"pakFileName":"NudeFemaleCreateUndead_b62391aa-9e2a-5680-2f3a-498e43e0aea3.pak","nexusFileId":126535,"metaUuid":"b62391aa-9e2a-5680-2f3a-498e43e0aea3"}
 ]},
 "24046":{"nexusModName":"Female Animate Dead","nexusUploadedBy":"Wlasiuk","nexusModId":24046,"paks":[
-{"nexusFileName":"Female Animate Dead","nexusFileVersion":"1.0.0.6","nexusFileUploadedAt":1784929303,"pakFileName":"NudeFemaleAnimateDead_2a059e43-d863-53b6-6f7f-3a8507c9cb53.pak","nexusFileId":126403,"metaUuid":"2a059e43-d863-53b6-6f7f-3a8507c9cb53"}
+{"nexusFileName":"Female Animate Dead","nexusFileVersion":"1.0.0.7","nexusFileUploadedAt":1785082308,"pakFileName":"NudeFemaleAnimateDead_2a059e43-d863-53b6-6f7f-3a8507c9cb53.pak","nexusFileId":126534,"metaUuid":"2a059e43-d863-53b6-6f7f-3a8507c9cb53"}
 ]},
 "24047":{"nexusModName":"Kitsune Reborn CHS","nexusUploadedBy":"ngqx264","nexusModId":24047,"paks":[
 {"nexusFileName":"Kitsune Reborn CHS","nexusFileVersion":"2","nexusFileUploadedAt":1784912441,"pakFileName":"Kitsune_Reborn_CHS.pak","nexusFileId":126381,"metaUuid":null}
 ]},
 "24048":{"nexusModName":"TealRabbit's Masculine Body 1 Races","nexusUploadedBy":"tealrabbit19","nexusModId":24048,"paks":[
-{"nexusFileName":"TRM1 Races","nexusFileVersion":"1","nexusFileUploadedAt":1784907291,"pakFileName":"TRM1_Races_97bca857-f004-3675-3e83-b57dbcf98572.pak","nexusFileId":126365,"metaUuid":null},
 {"nexusFileName":"TRM1 Races UTAV Patch","nexusFileVersion":"1","nexusFileUploadedAt":1784907439,"pakFileName":"TRM1Races_UTAV_Patch.pak","nexusFileId":126367,"metaUuid":null},
 {"nexusFileName":"TRM1 Races Transmasc Genitalia Patch","nexusFileVersion":"1","nexusFileUploadedAt":1784907487,"pakFileName":"tdicks for TRM1.pak","nexusFileId":126368,"metaUuid":null},
-{"nexusFileName":"TRM1 Races SGT's Pretty Boys Patch","nexusFileVersion":"1","nexusFileUploadedAt":1785009505,"pakFileName":"TRM1Races_SGTPrettyBoys_Patch.pak","nexusFileId":126486,"metaUuid":null}
+{"nexusFileName":"TRM1 Races SGT's Pretty Boys Patch","nexusFileVersion":"1","nexusFileUploadedAt":1785009505,"pakFileName":"TRM1Races_SGTPrettyBoys_Patch.pak","nexusFileId":126486,"metaUuid":null},
+{"nexusFileName":"TRM1 Races","nexusFileVersion":"1.1","nexusFileUploadedAt":1785083269,"pakFileName":"TRM1_Races_97bca857-f004-3675-3e83-b57dbcf98572.pak","nexusFileId":126544,"metaUuid":null}
 ]},
 "24050":{"nexusModName":"Team-Oriented Skill-Checked Feats and So On (BAMJO Feats)","nexusUploadedBy":"R6R6R","nexusModId":24050,"paks":[
 {"nexusFileName":"BAMJOFeats","nexusFileVersion":"1.1.2","nexusFileUploadedAt":1785003068,"pakFileName":"BAMJOFeats.pak","nexusFileId":126481,"metaUuid":"ce358962-8bae-4891-a171-f306b2fab092"}
@@ -67294,7 +67294,8 @@
 {"nexusFileName":"Ranger's Leather Armor TRM1R","nexusFileVersion":"1","nexusFileUploadedAt":1784918921,"pakFileName":"SimpleRangerOutfitTRM1R.pak","nexusFileId":126390,"metaUuid":null},
 {"nexusFileName":"PK Clothes and Armours TRM1R","nexusFileVersion":"1","nexusFileUploadedAt":1784918959,"pakFileName":"PK_Armors_N_Clothes_TRM1R.pak","nexusFileId":126391,"metaUuid":null},
 {"nexusFileName":"PK Clothes and Armours - Haunted Sea TRM1R","nexusFileVersion":"1","nexusFileUploadedAt":1784919007,"pakFileName":"PK_Haunted_Sea_TRM1R.pak","nexusFileId":126392,"metaUuid":null},
-{"nexusFileName":"PK Clothes and Armours NH Addon TRM1R","nexusFileVersion":"1","nexusFileUploadedAt":1784919118,"pakFileName":"PK_Armors_N_Clothes_NH_TRM1R.pak","nexusFileId":126393,"metaUuid":null}
+{"nexusFileName":"PK Clothes and Armours NH Addon TRM1R","nexusFileVersion":"1","nexusFileUploadedAt":1784919118,"pakFileName":"PK_Armors_N_Clothes_NH_TRM1R.pak","nexusFileId":126393,"metaUuid":null},
+{"nexusFileName":"The Outfit With No Name TRM1R","nexusFileVersion":"1","nexusFileUploadedAt":1785083647,"pakFileName":"MGNTN_OutfitWithNoName_TRM1R.pak","nexusFileId":126545,"metaUuid":null}
 ]},
 "24060":{"nexusModName":"Quick Second Wind","nexusUploadedBy":"yoonmoonsik43","nexusModId":24060,"paks":[
 {"nexusFileName":"Quicksecondwind 11aabc80 36ad 3qmv","nexusFileVersion":"1","nexusFileUploadedAt":1784917946,"pakFileName":"QuickSecondWind_11aabc80-36ad-7197-0fd6-f66b6b5a0915.pak","nexusFileId":126385,"metaUuid":"11aabc80-36ad-7197-0fd6-f66b6b5a0915"}
