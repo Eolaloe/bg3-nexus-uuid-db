@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-07-27T16:52:11.664432+00:00","total_mods":17052},
+{"_meta":{"last_run":"2026-07-27T17:52:03.501432+00:00","total_mods":17053},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -65420,7 +65420,7 @@
 {"nexusFileName":"Awakened Morninglord's Morningstar","nexusFileVersion":"1.0.1","nexusFileUploadedAt":1780865334,"pakFileName":"Awakened Morninglord's Morningstar Compatibility Patch.pak","nexusFileId":123106,"metaUuid":"a4bc95d6-d14f-4ce5-8401-222937128234"}
 ]},
 "23247":{"nexusModName":"Advanced Enemy Randomizer","nexusUploadedBy":"celerev","nexusModId":23247,"paks":[
-{"nexusFileName":"AERando.zip","nexusFileVersion":"0.9.7.4","nexusFileUploadedAt":1785152902,"pakFileName":"AERando.pak","nexusFileId":126591,"metaUuid":"1ec28411-fbaf-43ba-ad7b-092aa678c0dc"}
+{"nexusFileName":"AERando.zip","nexusFileVersion":"0.9.8.0","nexusFileUploadedAt":1785173544,"pakFileName":"AERando.pak","nexusFileId":126602,"metaUuid":"1ec28411-fbaf-43ba-ad7b-092aa678c0dc"}
 ]},
 "23248":{"nexusModName":"Sharran Weaponry by AzazeL (WIP)_JP","nexusUploadedBy":"Akazonae36","nexusModId":23248,"paks":[
 {"nexusFileName":"Aza Sharran Weaponry WIP JP","nexusFileVersion":"1","nexusFileUploadedAt":1780802520,"pakFileName":"Aza_Sharran_Weaponry_WIP_JP.pak","nexusFileId":123036,"metaUuid":null}
@@ -66238,8 +66238,8 @@
 {"nexusFileName":"Poison archer equipment","nexusFileVersion":"1.1.1.0","nexusFileUploadedAt":1782860003,"pakFileName":"Poisonarcherequipment.pak","nexusFileId":124612,"metaUuid":"df095d6f-6225-4fbc-91da-6689710ec4f7"}
 ]},
 "23627":{"nexusModName":"Forsaken Shard - Forgotten Armoury Part I - Longsword","nexusUploadedBy":"Lyniara","nexusModId":23627,"paks":[
-{"nexusFileName":"Forsaken Shard","nexusFileVersion":"1.0.0.6","nexusFileUploadedAt":1782841535,"pakFileName":"ForsakenShard_1.0.0.6.pak","nexusFileId":124601,"metaUuid":"729413cd-3789-acf6-c7fc-a268d611d9e0"},
-{"nexusFileName":"ForsakenShard - Tutorial Chest Addon","nexusFileVersion":"1","nexusFileUploadedAt":1782841582,"pakFileName":"ForsakenShard - Tut Chest Addon.pak","nexusFileId":124602,"metaUuid":"41202317-3364-41ae-b4e9-75778bea82a8"}
+{"nexusFileName":"ForsakenShard - Tutorial Chest Addon","nexusFileVersion":"1","nexusFileUploadedAt":1782841582,"pakFileName":"ForsakenShard - Tut Chest Addon.pak","nexusFileId":124602,"metaUuid":"41202317-3364-41ae-b4e9-75778bea82a8"},
+{"nexusFileName":"Forsaken Shard","nexusFileVersion":"1.0.0.7","nexusFileUploadedAt":1785172874,"pakFileName":"ForsakenShard_1.0.0.7.pak","nexusFileId":126601,"metaUuid":null}
 ]},
 "23629":{"nexusModName":"Bloodtrail - Path of Undeath Chapter 2 RU","nexusUploadedBy":"xChRoNySx","nexusModId":23629,"paks":[
 {"nexusFileName":"Path Of Undeath   Bloodtrail RU","nexusFileVersion":"1","nexusFileUploadedAt":1782770914,"pakFileName":"Path of Undeath - Bloodtrail_RU.pak","nexusFileId":124560,"metaUuid":null}
@@ -67390,6 +67390,9 @@
 ]},
 "24090":{"nexusModName":"Blood Sorcery - A Sorcerer subclass LV20 Add-On (ENG-KOR)","nexusUploadedBy":"Ahdarugo","nexusModId":24090,"paks":[
 {"nexusFileName":"Blood Sorcery - A Sorcerer subclass LV20 Add-On","nexusFileVersion":"1.0.0.1","nexusFileUploadedAt":1785057662,"pakFileName":"BloodSorceryLV20AddOn_2f9c9a2d-3d27-15b5-a791-1f44406a1895.pak","nexusFileId":126519,"metaUuid":"2f9c9a2d-3d27-15b5-a791-1f44406a1895"}
+]},
+"24092":{"nexusModName":"SAGITTA - Armor and Camp Clothing","nexusUploadedBy":"Naerys","nexusModId":24092,"paks":[
+{"nexusFileName":"NAERYS Sagitta","nexusFileVersion":"1","nexusFileUploadedAt":1785170491,"pakFileName":"NAERYS_Sagitta_73b9edf0-e97f-1d63-ffa7-833487745c5b.pak","nexusFileId":126600,"metaUuid":null}
 ]},
 "24094":{"nexusModName":"CombatBodysuit_TheFirstDescendant_BunnyUltimate","nexusUploadedBy":"EvilRecluse","nexusModId":24094,"paks":[
 {"nexusFileName":"CombatBodysuit TheFirstDescendant BunnyUltimate","nexusFileVersion":"1","nexusFileUploadedAt":1785077421,"pakFileName":"CombatBodysuit_TheFirstDescendant_BunnyUltimate.pak","nexusFileId":126527,"metaUuid":"b8ff7b1d-c2d7-4a7b-8eea-dfd6b74bbc33"}
