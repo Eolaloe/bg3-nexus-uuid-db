@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-07-27T12:52:26.871030+00:00","total_mods":17051},
+{"_meta":{"last_run":"2026-07-27T13:52:08.043136+00:00","total_mods":17051},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -59986,7 +59986,7 @@
 "21303":{"nexusModName":"Scion of Dread","nexusUploadedBy":"Arkasaur","nexusModId":21303,"paks":[
 {"nexusFileName":"scionrogue","nexusFileVersion":"1.0.0.10","nexusFileUploadedAt":1770269758,"pakFileName":"ScionRogue_05326553-fc29-78d0-2e26-96d33b58ee5f.pak","nexusFileId":114159,"metaUuid":"05326553-fc29-78d0-2e26-96d33b58ee5f"}
 ]},
-"21304":{"nexusModName":"Bloodtrail - Path of Undeath Chapter 2","nexusUploadedBy":"Siaell","nexusModId":21304,"paks":[
+"21304":{"nexusModName":"Bloodtrail - Path of Undeath Chapter 2 - Vampire","nexusUploadedBy":"Siaell","nexusModId":21304,"paks":[
 {"nexusFileName":"Path Of Undeath   Bloodtrail","nexusFileVersion":"1.6.3","nexusFileUploadedAt":1783422003,"pakFileName":"Path of Undeath - Bloodtrail.pak","nexusFileId":125157,"metaUuid":"57b41349-6574-4015-87dc-aea3fd1e4618"}
 ]},
 "21308":{"nexusModName":"Goon's Companion Protection for Korean","nexusUploadedBy":"Eolaloe","nexusModId":21308,"paks":[
@@ -66610,8 +66610,8 @@
 {"nexusFileName":"BhapticsBG3Mod V0.6.0","nexusFileVersion":"0.6.0","nexusFileUploadedAt":1783670240,"pakFileName":"BhapticsBG3.pak","nexusFileId":125327,"metaUuid":null}
 ]},
 "23777":{"nexusModName":"Original Head Presets Part 1","nexusUploadedBy":"VespertilioArt","nexusModId":23777,"paks":[
-{"nexusFileName":"Originals P1  - CCO","nexusFileVersion":"1.0.0.2","nexusFileUploadedAt":1783796370,"pakFileName":"Originals_P1 - CCO.pak","nexusFileId":125440,"metaUuid":"a736fd33-b1f3-4eae-b2e1-ebbf65fbd4e7"},
-{"nexusFileName":"Originals P1","nexusFileVersion":"1.0.0.3","nexusFileUploadedAt":1783796390,"pakFileName":"Originals_P1.pak","nexusFileId":125441,"metaUuid":"a736fd33-b1f3-4eae-b2e1-ebbf65fbd4e7"}
+{"nexusFileName":"Originals P1  - CCO","nexusFileVersion":"1.0.0.3","nexusFileUploadedAt":1785160061,"pakFileName":"Originals_P1 - CCO.pak","nexusFileId":126594,"metaUuid":"a736fd33-b1f3-4eae-b2e1-ebbf65fbd4e7"},
+{"nexusFileName":"Originals P1","nexusFileVersion":"1.0.0.4","nexusFileUploadedAt":1785160088,"pakFileName":"Originals_P1.pak","nexusFileId":126595,"metaUuid":"a736fd33-b1f3-4eae-b2e1-ebbf65fbd4e7"}
 ]},
 "23778":{"nexusModName":"Twilight Flourish - A Moonlight-Themed Melee Cantrip Based on True Strike 2024","nexusUploadedBy":"SymboJones","nexusModId":23778,"paks":[
 {"nexusFileName":"A-01. Twilight Flourish - Action Point - 1d4 Each","nexusFileVersion":"1.0.0-A-01","nexusFileUploadedAt":1784999626,"pakFileName":"Twilight Flourish - Lunar True Strike 2024 - A-01.pak","nexusFileId":126468,"metaUuid":null},
@@ -67405,4 +67405,7 @@
 ]},
 "24106":{"nexusModName":"All That Wizard","nexusUploadedBy":"yoonmoonsik43","nexusModId":24106,"paks":[
 {"nexusFileName":"Allwizard Cf177c22 463a 7a2a E Etgn","nexusFileVersion":"1","nexusFileUploadedAt":1785131614,"pakFileName":"AllWizard_cf177c22-463a-7a2a-e12a-99ad3014387a.pak","nexusFileId":126583,"metaUuid":"cf177c22-463a-7a2a-e12a-99ad3014387a"}
+]},
+"24108":{"nexusModName":"Archmage (Wizard as a Class)","nexusUploadedBy":"FortisEstVeritas","nexusModId":24108,"paks":[
+{"nexusFileName":"Archmage","nexusFileVersion":"1.0","nexusFileUploadedAt":1785158592,"pakFileName":"Archmage Wizard.pak","nexusFileId":126593,"metaUuid":null}
 ]}}
