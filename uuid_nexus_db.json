@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-07-27T15:52:33.685424+00:00","total_mods":17051},
+{"_meta":{"last_run":"2026-07-27T16:52:11.664432+00:00","total_mods":17052},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -67245,7 +67245,9 @@
 {"nexusFileName":"SGT_The Oaken Maiden - Portrait","nexusFileVersion":"1","nexusFileUploadedAt":1784834843,"pakFileName":"Oaken Maiden - Jaheira Portrait.pak","nexusFileId":126319,"metaUuid":null},
 {"nexusFileName":"SGT_The Oaken Maiden_Vanilla Colors","nexusFileVersion":"1","nexusFileUploadedAt":1784919263,"pakFileName":"SGT_JaheiraEdit_801d16be-dca8-cdcb-72d3-6c41c312f62e.pak","nexusFileId":126394,"metaUuid":"801d16be-dca8-cdcb-72d3-6c41c312f62e"},
 {"nexusFileName":"SGT_The Oaken Maiden_Young","nexusFileVersion":"1","nexusFileUploadedAt":1784919384,"pakFileName":"SGT_JaheiraEdit_801d16be-dca8-cdcb-72d3-6c41c312f62e.pak","nexusFileId":126395,"metaUuid":"801d16be-dca8-cdcb-72d3-6c41c312f62e"},
-{"nexusFileName":"SGT_The Oaken Maiden - Portrait - Young","nexusFileVersion":"1","nexusFileUploadedAt":1784919456,"pakFileName":"Oaken Maiden - Jaheira Portrait - Young.pak","nexusFileId":126396,"metaUuid":null}
+{"nexusFileName":"SGT_The Oaken Maiden - Portrait - Young","nexusFileVersion":"1","nexusFileUploadedAt":1784919456,"pakFileName":"Oaken Maiden - Jaheira Portrait - Young.pak","nexusFileId":126396,"metaUuid":null},
+{"nexusFileName":"SGT_OakenMaiden_HEAD for CC","nexusFileVersion":"1","nexusFileUploadedAt":1785167996,"pakFileName":"SGT_OakenMaiden_Head_ae0f82ff-0bb4-92b3-cf39-e8234578db8f.pak","nexusFileId":126598,"metaUuid":null},
+{"nexusFileName":"SGT_OakenMaiden_HAIR for CC","nexusFileVersion":"1","nexusFileUploadedAt":1785168100,"pakFileName":"SGT_OakenMaiden_Hair_1829aca3-13ca-4c30-eedb-a187fc15b7e0.pak","nexusFileId":126599,"metaUuid":null}
 ]},
 "24031":{"nexusModName":"Aylin's Kintsugi for STAV","nexusUploadedBy":"EvilSnail0fDestruktion","nexusModId":24031,"paks":[
 {"nexusFileName":"STAVAylin","nexusFileVersion":"1.0.1","nexusFileUploadedAt":1785115104,"pakFileName":"STAVAylin.pak","nexusFileId":126568,"metaUuid":"869f6f17-3ea8-5e35-9b82-a1b7fc565a29"}
@@ -67354,6 +67356,12 @@
 ]},
 "24077":{"nexusModName":"Crush XP Fix","nexusUploadedBy":"faerryn","nexusModId":24077,"paks":[
 {"nexusFileName":"CrushXPFix","nexusFileVersion":"1","nexusFileUploadedAt":1785008629,"pakFileName":"CrushXPFix.pak","nexusFileId":126485,"metaUuid":"e89851d7-4b87-4a77-9234-6c0e3f2b6b9b"}
+]},
+"24079":{"nexusModName":"Manalis' Weapon Actions","nexusUploadedBy":"EmyioAzachi","nexusModId":24079,"paks":[
+{"nexusFileName":"AllWeaponsSkills PerCombat (Once Per Fight - EN)","nexusFileVersion":"1","nexusFileUploadedAt":1785012901,"pakFileName":"AllWeaponsSkills_PerCombat_c59021b1-f908-0265-073b-ee91b1e80d44.pak","nexusFileId":126488,"metaUuid":null},
+{"nexusFileName":"AllWeaponsSkills PerCombat (Per Short Rest - EN)","nexusFileVersion":"1","nexusFileUploadedAt":1785013051,"pakFileName":"AllWeaponsSkills_PerCombat_c59021b1-f908-0265-073b-ee91b1e80d44.pak","nexusFileId":126489,"metaUuid":null},
+{"nexusFileName":"AllWeaponsSkills PerCombat (1 fois par repos - FR)","nexusFileVersion":"1","nexusFileUploadedAt":1785013246,"pakFileName":"AllWeaponsSkills_PerCombat_c59021b1-f908-0265-073b-ee91b1e80d44.pak","nexusFileId":126490,"metaUuid":null},
+{"nexusFileName":"AllWeaponsSkills PerCombat (1 fois par combat  FR)","nexusFileVersion":"1","nexusFileUploadedAt":1785165692,"pakFileName":"AllWeaponsSkills_PerCombat_c59021b1-f908-0265-073b-ee91b1e80d44.pak","nexusFileId":126597,"metaUuid":null}
 ]},
 "24080":{"nexusModName":"Unnerfed Origins ITA","nexusUploadedBy":"flowerssummerr","nexusModId":24080,"paks":[
 {"nexusFileName":"Unnerfed Origins ITA","nexusFileVersion":"1.0","nexusFileUploadedAt":1785014764,"pakFileName":"Unnerfed_Origins_ITA.pak","nexusFileId":126492,"metaUuid":null}
