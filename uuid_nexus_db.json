@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-07-27T22:51:40.609856+00:00","total_mods":17055},
+{"_meta":{"last_run":"2026-07-27T23:51:38.714520+00:00","total_mods":17055},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -44692,7 +44692,7 @@
 {"nexusFileName":"PPHB2024 - 5e Spells Patch","nexusFileVersion":"4.0.0","nexusFileUploadedAt":1762069510,"pakFileName":"PaladinPHB2024 5e Spells Patch.pak","nexusFileId":106577,"metaUuid":"36f5a133-f226-4d59-be6b-bb7245f63e52"},
 {"nexusFileName":"zDivine Smite - No Bonus Action Cost","nexusFileVersion":"6.1.0","nexusFileUploadedAt":1777157461,"pakFileName":"PaladinPHB2024 Smite No BA Cost.pak","nexusFileId":119867,"metaUuid":"45af5b6f-c492-4ce4-93d1-dbd54cfa65d0"},
 {"nexusFileName":"PPHB2024 - Summon Undead Patch","nexusFileVersion":"6.2.3","nexusFileUploadedAt":1784222015,"pakFileName":"PaladinPHB2024 Summon Undead Patch.pak","nexusFileId":125780,"metaUuid":null},
-{"nexusFileName":"Paladin and Oaths DnD 5R PHB2024","nexusFileVersion":"6.2.5","nexusFileUploadedAt":1784515424,"pakFileName":"PaladinPHB2024_9b9367cc-77ff-7773-7327-75dd42089bea.pak","nexusFileId":126054,"metaUuid":"9b9367cc-77ff-7773-7327-75dd42089bea"}
+{"nexusFileName":"Paladin and Oaths DnD 5R PHB2024","nexusFileVersion":"6.3.0","nexusFileUploadedAt":1785193676,"pakFileName":"PaladinPHB2024_9b9367cc-77ff-7773-7327-75dd42089bea.pak","nexusFileId":126617,"metaUuid":"9b9367cc-77ff-7773-7327-75dd42089bea"}
 ]},
 "16066":{"nexusModName":"Grave Domain Cleric SubclassCHS","nexusUploadedBy":"yangyangmeiiii","nexusModId":16066,"paks":[
 {"nexusFileName":"Grave Domain Cleric SubclassCHS","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1745557519,"pakFileName":"GraveDomainCHS.pak","nexusFileId":90539,"metaUuid":null}
@@ -67134,8 +67134,8 @@
 {"nexusFileName":"EPI Replacer GoldfireGowns Elanor non-AIO","nexusFileVersion":"1","nexusFileUploadedAt":1784934037,"pakFileName":"TavEpilogueGearReplacer_GoldfireGowns_Elanor_single.pak","nexusFileId":126420,"metaUuid":null},
 {"nexusFileName":"EPI Replacer GoldfireGowns ElenMinya non-AIO","nexusFileVersion":"1","nexusFileUploadedAt":1784934158,"pakFileName":"TavEpilogueGearReplacer_GoldfireGowns_ElenMinya_single.pak","nexusFileId":126421,"metaUuid":null},
 {"nexusFileName":"EPI Replacer ArgentisGift non-AIO","nexusFileVersion":"2","nexusFileUploadedAt":1784935897,"pakFileName":"TavEpilogueGearReplacer_ArgentisGift_single.pak","nexusFileId":126422,"metaUuid":null},
-{"nexusFileName":"TavEpilogueGearReplacer MoonPearl non-AIO","nexusFileVersion":"1","nexusFileUploadedAt":1785092722,"pakFileName":"TavEpilogueGearReplacer_MoonPearl_single.pak","nexusFileId":126552,"metaUuid":null},
-{"nexusFileName":"TavEpilogueGearReplacer MoonPearl Shoes non-AIO","nexusFileVersion":"1","nexusFileUploadedAt":1785092743,"pakFileName":"TavEpilogueGearReplacer_MoonPearl_shoes_single.pak","nexusFileId":126553,"metaUuid":null}
+{"nexusFileName":"EPI Replacer MoonPearl non-AIO","nexusFileVersion":"1","nexusFileUploadedAt":1785092722,"pakFileName":"TavEpilogueGearReplacer_MoonPearl_single.pak","nexusFileId":126552,"metaUuid":null},
+{"nexusFileName":"EPI Replacer MoonPearl Shoes non-AIO","nexusFileVersion":"1","nexusFileUploadedAt":1785092743,"pakFileName":"TavEpilogueGearReplacer_MoonPearl_shoes_single.pak","nexusFileId":126553,"metaUuid":null}
 ]},
 "23992":{"nexusModName":"Body and Clothing Morphs for SBBF and BCB (by SerpentineShel)","nexusUploadedBy":"SerpentineShel","nexusModId":23992,"paks":[
 {"nexusFileName":"BodyAndClothingMorph Package v. 1.1 ","nexusFileVersion":"1.1","nexusFileUploadedAt":1784752946,"pakFileName":"ClothMorphContent.pak","nexusFileId":126247,"metaUuid":"af8a21a0-2612-540f-9819-39a83a2af0f0"},
@@ -67264,7 +67264,7 @@
 {"nexusFileName":"Sorcerous Burst - Sorcerer DnD 5R PHB2024","nexusFileVersion":"1.0","nexusFileUploadedAt":1784848188,"pakFileName":"SorcerousBurst2024_f98d3829-d649-aa88-c93b-93f5e0c739e7.pak","nexusFileId":126335,"metaUuid":"f98d3829-d649-aa88-c93b-93f5e0c739e7"}
 ]},
 "24035":{"nexusModName":"CHAR's Hair Salon","nexusUploadedBy":"char","nexusModId":24035,"paks":[
-{"nexusFileName":"Char's Hairs","nexusFileVersion":"1.1","nexusFileUploadedAt":1784993168,"pakFileName":"CHAR_CharsHairs_92dbee15-d61a-1443-25d7-e6c66a568ba3.pak","nexusFileId":126462,"metaUuid":"92dbee15-d61a-1443-25d7-e6c66a568ba3"}
+{"nexusFileName":"Char's Hairs","nexusFileVersion":"1.2","nexusFileUploadedAt":1785193633,"pakFileName":"CHAR_CharsHairs_92dbee15-d61a-1443-25d7-e6c66a568ba3.pak","nexusFileId":126616,"metaUuid":"92dbee15-d61a-1443-25d7-e6c66a568ba3"}
 ]},
 "24039":{"nexusModName":"Vulnerable Nerf","nexusUploadedBy":"Cainhurtz","nexusModId":24039,"paks":[
 {"nexusFileName":"Vulnerability Nerf","nexusFileVersion":"1","nexusFileUploadedAt":1784858123,"pakFileName":"VulnerabilityNerf.pak","nexusFileId":126342,"metaUuid":null}
@@ -67369,7 +67369,16 @@
 {"nexusFileName":"Unnerfed Origins ITA","nexusFileVersion":"1.0","nexusFileUploadedAt":1785014764,"pakFileName":"Unnerfed_Origins_ITA.pak","nexusFileId":126492,"metaUuid":null}
 ]},
 "24082":{"nexusModName":"Tav Epilogue Gear Replacer - Ethereal Threads Edition","nexusUploadedBy":"Seristina","nexusModId":24082,"paks":[
-{"nexusFileName":"TavEpilogueGearReplacer Starlight","nexusFileVersion":"1","nexusFileUploadedAt":1785031970,"pakFileName":"TavEpilogueGearReplacer_Starlight.pak","nexusFileId":126499,"metaUuid":null}
+{"nexusFileName":"TavEpilogueGearReplacer Starlight","nexusFileVersion":"1","nexusFileUploadedAt":1785031970,"pakFileName":"TavEpilogueGearReplacer_Starlight.pak","nexusFileId":126499,"metaUuid":null},
+{"nexusFileName":"TavEpilogueGearReplacer DeathRose","nexusFileVersion":"1","nexusFileUploadedAt":1785194382,"pakFileName":"TavEpilogueGearReplacer_DeathRose.pak","nexusFileId":126618,"metaUuid":null},
+{"nexusFileName":"TavEpilogueGearReplacer DeathWielder","nexusFileVersion":"1","nexusFileUploadedAt":1785194397,"pakFileName":"TavEpilogueGearReplacer_DeathWielder.pak","nexusFileId":126619,"metaUuid":null},
+{"nexusFileName":"TavEpilogueGearReplacer DeathWielder Shoes","nexusFileVersion":"1","nexusFileUploadedAt":1785194410,"pakFileName":"TavEpilogueGearReplacer_DeathWielder_Shoes.pak","nexusFileId":126620,"metaUuid":null},
+{"nexusFileName":"TavEpilogueGearReplacer Duskraven","nexusFileVersion":"1","nexusFileUploadedAt":1785194423,"pakFileName":"TavEpilogueGearReplacer_Duskraven.pak","nexusFileId":126621,"metaUuid":null},
+{"nexusFileName":"TavEpilogueGearReplacer Seafoam","nexusFileVersion":"1","nexusFileUploadedAt":1785194440,"pakFileName":"TavEpilogueGearReplacer_Seafoam.pak","nexusFileId":126622,"metaUuid":null},
+{"nexusFileName":"TavEpilogueGearReplacer Thespian","nexusFileVersion":"1","nexusFileUploadedAt":1785194471,"pakFileName":"TavEpilogueGearReplacer_Thespian.pak","nexusFileId":126623,"metaUuid":null},
+{"nexusFileName":"TavEpilogueGearReplacer Thespian Shoes","nexusFileVersion":"1","nexusFileUploadedAt":1785194483,"pakFileName":"TavEpilogueGearReplacer_Thespian_Shoes.pak","nexusFileId":126624,"metaUuid":null},
+{"nexusFileName":"TavEpilogueGearReplacer Blythe","nexusFileVersion":"1","nexusFileUploadedAt":1785194496,"pakFileName":"TavEpilogueGearReplacer_Blythe.pak","nexusFileId":126625,"metaUuid":null},
+{"nexusFileName":"TavEpilogueGearReplacer AoDai","nexusFileVersion":"1","nexusFileUploadedAt":1785194506,"pakFileName":"TavEpilogueGearReplacer_AoDai.pak","nexusFileId":126626,"metaUuid":null}
 ]},
 "24083":{"nexusModName":"Equipment and Outfit Quick Switch","nexusUploadedBy":"Scor66","nexusModId":24083,"paks":[
 {"nexusFileName":"BagChangeOfClothes","nexusFileVersion":"1","nexusFileUploadedAt":1785032813,"pakFileName":"Scor_BagChangeOfClothes.pak","nexusFileId":126500,"metaUuid":"ad8ace47-93ae-4299-8e61-b27cf808065e"}
