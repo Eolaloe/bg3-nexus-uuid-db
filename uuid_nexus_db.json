@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-07-27T23:51:38.714520+00:00","total_mods":17055},
+{"_meta":{"last_run":"2026-07-28T00:52:27.456479+00:00","total_mods":17056},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -14102,8 +14102,8 @@
 "4496":{"nexusModName":"Valkrana's Skeleton Crew - Over 60 Random Undead Allies","nexusUploadedBy":"actualsailorcat","nexusModId":4496,"paks":[
 {"nexusFileName":"VSC and VUE CX","nexusFileVersion":"1.00.02","nexusFileUploadedAt":1770336294,"pakFileName":"VSC and VUE CX.pak","nexusFileId":114208,"metaUuid":"2eff8b0a-6438-4bbf-90af-a24fe65f54ca"},
 {"nexusFileName":"VSCrew XP Enabled","nexusFileVersion":"1.00.02","nexusFileUploadedAt":1777677896,"pakFileName":"Valkrana's Skeleton Crew XP Enabled.pak","nexusFileId":120315,"metaUuid":"b4568e73-abfb-4824-8730-7650eb91e5cb"},
-{"nexusFileName":"Valkrana's Skeleton Crew Feat","nexusFileVersion":"1.29.04","nexusFileUploadedAt":1784692932,"pakFileName":"Valkrana's Skeleton Crew Feat.pak","nexusFileId":126192,"metaUuid":"d76ff1e5-e09e-4565-a9d2-a035037f6134"},
-{"nexusFileName":"Valkrana's Skeleton Crew","nexusFileVersion":"1.29.04","nexusFileUploadedAt":1784692967,"pakFileName":"Valkrana's Skeleton Crew.pak","nexusFileId":126193,"metaUuid":"0dd8b949-b56e-4248-9bf0-b03b3c3bd8c5"}
+{"nexusFileName":"Valkrana's Skeleton Crew","nexusFileVersion":"1.29.05","nexusFileUploadedAt":1785197258,"pakFileName":"Valkrana's Skeleton Crew.pak","nexusFileId":126628,"metaUuid":"0dd8b949-b56e-4248-9bf0-b03b3c3bd8c5"},
+{"nexusFileName":"Valkrana's Skeleton Crew Feat","nexusFileVersion":"1.29.05","nexusFileUploadedAt":1785197290,"pakFileName":"Valkrana's Skeleton Crew Feat.pak","nexusFileId":126629,"metaUuid":"d76ff1e5-e09e-4565-a9d2-a035037f6134"}
 ]},
 "4497":{"nexusModName":"Mystic Class Ita","nexusUploadedBy":"ogugght","nexusModId":4497,"paks":[
 {"nexusFileName":"Mystic Class Ita by Kilay","nexusFileVersion":"1.1","nexusFileUploadedAt":1707381676,"pakFileName":"MysticIta.pak","nexusFileId":43718,"metaUuid":null}
@@ -67361,8 +67361,8 @@
 ]},
 "24079":{"nexusModName":"Manalis' Weapon Actions","nexusUploadedBy":"EmyioAzachi","nexusModId":24079,"paks":[
 {"nexusFileName":"AllWeaponsSkills PerCombat (Once Per Fight - EN)","nexusFileVersion":"1","nexusFileUploadedAt":1785012901,"pakFileName":"AllWeaponsSkills_PerCombat_c59021b1-f908-0265-073b-ee91b1e80d44.pak","nexusFileId":126488,"metaUuid":"c59021b1-f908-0265-073b-ee91b1e80d44"},
-{"nexusFileName":"AllWeaponsSkills PerCombat (Per Short Rest - EN)","nexusFileVersion":"1","nexusFileUploadedAt":1785013051,"pakFileName":"AllWeaponsSkills_PerCombat_c59021b1-f908-0265-073b-ee91b1e80d44.pak","nexusFileId":126489,"metaUuid":null},
-{"nexusFileName":"AllWeaponsSkills PerCombat (1 fois par repos - FR)","nexusFileVersion":"1","nexusFileUploadedAt":1785013246,"pakFileName":"AllWeaponsSkills_PerCombat_c59021b1-f908-0265-073b-ee91b1e80d44.pak","nexusFileId":126490,"metaUuid":null},
+{"nexusFileName":"AllWeaponsSkills PerCombat (Per Short Rest - EN)","nexusFileVersion":"1","nexusFileUploadedAt":1785013051,"pakFileName":"AllWeaponsSkills_PerCombat_c59021b1-f908-0265-073b-ee91b1e80d44.pak","nexusFileId":126489,"metaUuid":"c59021b1-f908-0265-073b-ee91b1e80d44"},
+{"nexusFileName":"AllWeaponsSkills PerCombat (1 fois par repos - FR)","nexusFileVersion":"1","nexusFileUploadedAt":1785013246,"pakFileName":"AllWeaponsSkills_PerCombat_c59021b1-f908-0265-073b-ee91b1e80d44.pak","nexusFileId":126490,"metaUuid":"c59021b1-f908-0265-073b-ee91b1e80d44"},
 {"nexusFileName":"AllWeaponsSkills PerCombat (1 fois par combat  FR)","nexusFileVersion":"1","nexusFileUploadedAt":1785165692,"pakFileName":"AllWeaponsSkills_PerCombat_c59021b1-f908-0265-073b-ee91b1e80d44.pak","nexusFileId":126597,"metaUuid":"c59021b1-f908-0265-073b-ee91b1e80d44"}
 ]},
 "24080":{"nexusModName":"Unnerfed Origins ITA","nexusUploadedBy":"flowerssummerr","nexusModId":24080,"paks":[
@@ -67434,4 +67434,7 @@
 "24114":{"nexusModName":"Sorcubus Class - Freja's Spell Patch","nexusUploadedBy":"WolfPrincessSarah","nexusModId":24114,"paks":[
 {"nexusFileName":"Grab Bag Version","nexusFileVersion":"1","nexusFileUploadedAt":1785182722,"pakFileName":"SorcubusClassFrejaPatch.pak","nexusFileId":126606,"metaUuid":"576b88ef-2ab5-40ab-ac2e-d0e4ce9d9e49"},
 {"nexusFileName":"Tuned Version","nexusFileVersion":"1.1","nexusFileUploadedAt":1785189569,"pakFileName":"SorcubusClassFrejaPatchTuned.pak","nexusFileId":126614,"metaUuid":null}
+]},
+"24115":{"nexusModName":"Sister Collection 1 - Reithwin Rebels Heads","nexusUploadedBy":"tabatha","nexusModId":24115,"paks":[
+{"nexusFileName":"Sister Collection - Reithwin Rebels Heads","nexusFileVersion":"1.0.0.3","nexusFileUploadedAt":1785197215,"pakFileName":"SisterCollection_ReithwinRebels_7dde23b5-1a38-8cb5-9d35-88237e3df506.pak","nexusFileId":126627,"metaUuid":null}
 ]}}
