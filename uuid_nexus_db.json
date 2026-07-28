@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-07-28T14:52:07.167855+00:00","total_mods":17056},
+{"_meta":{"last_run":"2026-07-28T15:51:53.161459+00:00","total_mods":17059},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -64765,8 +64765,8 @@
 {"nexusFileName":"Forge Cleric PTBR","nexusFileVersion":"08.06.2024","nexusFileUploadedAt":1779726653,"pakFileName":"Forge Cleric PTBR.pak","nexusFileId":122121,"metaUuid":null}
 ]},
 "23058":{"nexusModName":"Akm Tiefling Body","nexusUploadedBy":"Akumu22","nexusModId":23058,"paks":[
-{"nexusFileName":"Akm Tiefling Body - BT3 Beta","nexusFileVersion":"2.0.0.0","nexusFileUploadedAt":1785236422,"pakFileName":"Akm Tiefling Body - BT3 - Beta.pak","nexusFileId":126645,"metaUuid":null},
-{"nexusFileName":"Akm Tiefling Body","nexusFileVersion":"2.0.1.0","nexusFileUploadedAt":1785246210,"pakFileName":"Akm Tiefling Body.pak","nexusFileId":126663,"metaUuid":"77b21fea-e837-470c-8e79-a79e84e6221a"}
+{"nexusFileName":"Akm Tiefling Body","nexusFileVersion":"2.0.1.0","nexusFileUploadedAt":1785246210,"pakFileName":"Akm Tiefling Body.pak","nexusFileId":126663,"metaUuid":"77b21fea-e837-470c-8e79-a79e84e6221a"},
+{"nexusFileName":"Akm Tiefling Body - BT3 Beta","nexusFileVersion":"2.0.1.0","nexusFileUploadedAt":1785251512,"pakFileName":"Akm Tiefling Body - BT3 - Beta.pak","nexusFileId":126672,"metaUuid":null}
 ]},
 "23059":{"nexusModName":"Flora Dress and Long Nature Hair","nexusUploadedBy":"Lyniara","nexusModId":23059,"paks":[
 {"nexusFileName":"Flora Dress","nexusFileVersion":"1","nexusFileUploadedAt":1779744844,"pakFileName":"LynFloraDress.pak","nexusFileId":122131,"metaUuid":"a7c4ef09-4ca7-428a-950d-85c4c74573b9"},
@@ -66620,6 +66620,15 @@
 {"nexusFileName":"B-04. Twilight Flourish - BA - 1d8 Radiant","nexusFileVersion":"1.0.0-B-04","nexusFileUploadedAt":1785000080,"pakFileName":"Twilight Flourish - Lunar True Strike 2024 - B-04.pak","nexusFileId":126477,"metaUuid":null},
 {"nexusFileName":"B-05. Twilight Flourish - BA - 1d6 Radiant","nexusFileVersion":"1.0.0-B-05","nexusFileUploadedAt":1785000114,"pakFileName":"Twilight Flourish - Lunar True Strike 2024 - B-05.pak","nexusFileId":126478,"metaUuid":null}
 ]},
+"23779":{"nexusModName":"Silverlight Smite - A Moonlight-Themed Divine Smite Alternative","nexusUploadedBy":"SymboJones","nexusModId":23779,"paks":[
+{"nexusFileName":"A-01. Silverlight Smite - Vanilla - Both types d4s","nexusFileVersion":"1.0.0-A-01","nexusFileUploadedAt":1785250089,"pakFileName":"Silverlight Smite - Lunar Divine Smite - A-01.pak","nexusFileId":126664,"metaUuid":null},
+{"nexusFileName":"A-02. Silverlight Smite - Vanilla - Cold d8s","nexusFileVersion":"1.0.0-A-02","nexusFileUploadedAt":1785250118,"pakFileName":"Silverlight Smite - Lunar Divine Smite - A-02.pak","nexusFileId":126665,"metaUuid":null},
+{"nexusFileName":"A-03. Silverlight Smite - Vanilla - Radiant d8s","nexusFileVersion":"1.0.0-A-03","nexusFileUploadedAt":1785250137,"pakFileName":"Silverlight Smite - Lunar Divine Smite - A-03.pak","nexusFileId":126666,"metaUuid":null},
+{"nexusFileName":"Silverlight Smite - All Caster Addon","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1785250155,"pakFileName":"Silverlight Smite - Lunar Divine Smite - All Caster Addon.pak","nexusFileId":126667,"metaUuid":null},
+{"nexusFileName":"B-01. Silverlight Smite - AP BA - Both d4s","nexusFileVersion":"1.0.0-B-01","nexusFileUploadedAt":1785250204,"pakFileName":"Silverlight Smite - Lunar Divine Smite - B-01.pak","nexusFileId":126668,"metaUuid":null},
+{"nexusFileName":"B-02. Silverlight Smite - AP BA - Cold d8s","nexusFileVersion":"1.0.0-B-02","nexusFileUploadedAt":1785250226,"pakFileName":"Silverlight Smite - Lunar Divine Smite - B-02.pak","nexusFileId":126669,"metaUuid":null},
+{"nexusFileName":"B-03. Silverlight Smite - AP BA - Radiant d8s","nexusFileVersion":"1.0.0-B-03","nexusFileUploadedAt":1785250245,"pakFileName":"Silverlight Smite - Lunar Divine Smite - B-03.pak","nexusFileId":126670,"metaUuid":null}
+]},
 "23780":{"nexusModName":"Dark Urge Morning After - Always Gale","nexusUploadedBy":"Seristina","nexusModId":23780,"paks":[
 {"nexusFileName":"DurgeMorningAlwaysGale","nexusFileVersion":"1","nexusFileUploadedAt":1783539513,"pakFileName":"DurgeMorningAlwaysGale.pak","nexusFileId":125239,"metaUuid":"2fa307ee-0222-4014-8a32-48fee506c478"}
 ]},
@@ -66860,6 +66869,9 @@
 ]},
 "23873":{"nexusModName":"The Crimes of Skahr - Drow Assassin Equipment Set","nexusUploadedBy":"SHanson70","nexusModId":23873,"paks":[
 {"nexusFileName":"CrimesOfSkahr","nexusFileVersion":"1.1","nexusFileUploadedAt":1784146740,"pakFileName":"Crimes Of Skahr.pak","nexusFileId":125738,"metaUuid":"02a4b503-b4f0-424c-810a-56a71aeb296d"}
+]},
+"23875":{"nexusModName":"Alternate Humans","nexusUploadedBy":"aljoxo","nexusModId":23875,"paks":[
+{"nexusFileName":"Alternate Human","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1785187647,"pakFileName":"AlternateHuman_c9161efc-3a6f-9ab0-bb6f-64aa069ac23f.pak","nexusFileId":126612,"metaUuid":null}
 ]},
 "23876":{"nexusModName":"Correct Counterspell Ability Score","nexusUploadedBy":"celerev","nexusModId":23876,"paks":[
 {"nexusFileName":"CorrectCounterspell","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1784063682,"pakFileName":"CorrectCounterspell_3d1b5440-1bf1-45c1-4530-097ca976bf6f.pak","nexusFileId":125655,"metaUuid":"3d1b5440-1bf1-45c1-4530-097ca976bf6f"}
@@ -67432,4 +67444,7 @@
 ]},
 "24119":{"nexusModName":"Paz's Poses Vol. 2","nexusUploadedBy":"dapazo","nexusModId":24119,"paks":[
 {"nexusFileName":"Part2 2f910a25 422c 4d2e 4784 62eab08a25f8","nexusFileVersion":"1","nexusFileUploadedAt":1785214545,"pakFileName":"part2_2f910a25-422c-4d2e-4784-62eab08a25f8.pak","nexusFileId":126639,"metaUuid":null}
+]},
+"24123":{"nexusModName":"Item Mod Source","nexusUploadedBy":"yaynay","nexusModId":24123,"paks":[
+{"nexusFileName":"ItemModSource","nexusFileVersion":"1","nexusFileUploadedAt":1785251250,"pakFileName":"ItemModSource.pak","nexusFileId":126671,"metaUuid":null}
 ]}}
