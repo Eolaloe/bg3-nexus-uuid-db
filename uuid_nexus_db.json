@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-07-28T22:51:58.093569+00:00","total_mods":17063},
+{"_meta":{"last_run":"2026-07-28T23:52:18.972205+00:00","total_mods":17063},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -28899,7 +28899,6 @@
 ]},
 "10000":{"nexusModName":"A Candle In The Dark - Custom Companion Jason Altea (Alpha Release)","nexusUploadedBy":"magnetuning","nexusModId":10000,"paks":[
 {"nexusFileName":"Jason Items In Tutorial Chest Patch","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1759788572,"pakFileName":"MGNTN_JasonItemsTUTChestPatch.pak","nexusFileId":104489,"metaUuid":"8aafd4a8-eb44-4e39-a39a-06add3f545a8"},
-{"nexusFileName":"A Candle In The Dark - Custom Companion - Part 3","nexusFileVersion":"1.1.0.1","nexusFileUploadedAt":1782098318,"pakFileName":"MGNTN_JasonCompanionPt3.pak","nexusFileId":124055,"metaUuid":"9978eded-312f-4656-9a0b-bc6fe8d9615c"},
 {"nexusFileName":"Jason Skill Proficiencies Patch","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1782098486,"pakFileName":"MGNTN_JasonDefaultSkillsPatch.pak","nexusFileId":124056,"metaUuid":"951fc302-521f-4eb1-902f-3ab0a111f8b8"},
 {"nexusFileName":"Give Me My Title Patch for Jason","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1782098636,"pakFileName":"KJMMGNTN_JasonGiveMeMyTitlePatch.pak","nexusFileId":124057,"metaUuid":"53023745-e092-497a-9b18-d220ba6ed830"},
 {"nexusFileName":"A Candle In The Dark - Custom Companion - Part 1","nexusFileVersion":"1.1.1.1","nexusFileUploadedAt":1782273425,"pakFileName":"MGNTN_JasonCompanionPt1.pak","nexusFileId":124186,"metaUuid":"2396f116-b622-4940-96bf-083b120e2a30"},
@@ -53134,7 +53133,6 @@
 ]},
 "19073":{"nexusModName":"ABSolutely Companions","nexusUploadedBy":"Nzx","nexusModId":19073,"paks":[
 {"nexusFileName":"ABSolutely Astarion","nexusFileVersion":"2.1.0","nexusFileUploadedAt":1772801902,"pakFileName":"ABSolutely Astarion.pak","nexusFileId":116165,"metaUuid":null},
-{"nexusFileName":"ABSolutely Astarion Gradient","nexusFileVersion":"2.1.0","nexusFileUploadedAt":1772801925,"pakFileName":"ABSolutely Astarion Gradient.pak","nexusFileId":116166,"metaUuid":null},
 {"nexusFileName":"ABSolutely Companions","nexusFileVersion":"2.1.0","nexusFileUploadedAt":1772801953,"pakFileName":"ABSolutely Companions.pak","nexusFileId":116167,"metaUuid":"2466d6ee-b4fb-49bb-864e-d6acdd07b385"},
 {"nexusFileName":"ABSolutely Gale","nexusFileVersion":"2.1.0","nexusFileUploadedAt":1772801970,"pakFileName":"ABSolutely Gale.pak","nexusFileId":116168,"metaUuid":null},
 {"nexusFileName":"ABSolutely Gale Gradient","nexusFileVersion":"2.1.0","nexusFileUploadedAt":1772801989,"pakFileName":"ABSolutely Gale Gradient.pak","nexusFileId":116169,"metaUuid":null},
@@ -61645,9 +61643,7 @@
 {"nexusFileName":"Forgotten Witcher Gear","nexusFileVersion":"1.2","nexusFileUploadedAt":1775778728,"pakFileName":"Forgotten_Witcher_Gear(1.2).pak","nexusFileId":118574,"metaUuid":"f57f122a-e501-9df8-b2ee-2cca32d5ef80"}
 ]},
 "21854":{"nexusModName":"Verdant Maiden Jaheira","nexusUploadedBy":"Nzx","nexusModId":21854,"paks":[
-{"nexusFileName":"Verdant Maiden Jaheira","nexusFileVersion":"1.0.3","nexusFileUploadedAt":1774728369,"pakFileName":"Verdant Maiden Jaheira.pak","nexusFileId":117659,"metaUuid":"a6e4d4d2-c306-49ff-b787-adad64b00a6d"},
-{"nexusFileName":"Verdant Maiden Jaheira - No Scars","nexusFileVersion":"1.0.3","nexusFileUploadedAt":1774728400,"pakFileName":"Verdant Maiden Jaheira [No Scars].pak","nexusFileId":117660,"metaUuid":"a6e4d4d2-c306-49ff-b787-adad64b00a6d"},
-{"nexusFileName":"Verdant Maiden Jaheira - Head Only","nexusFileVersion":"1.0.3","nexusFileUploadedAt":1774728469,"pakFileName":"Verdant Maiden Jaheira [Head].pak","nexusFileId":117661,"metaUuid":null}
+{"nexusFileName":"Verdant Maiden Jaheira - No Scars","nexusFileVersion":"1.0.3","nexusFileUploadedAt":1774728400,"pakFileName":"Verdant Maiden Jaheira [No Scars].pak","nexusFileId":117660,"metaUuid":"a6e4d4d2-c306-49ff-b787-adad64b00a6d"}
 ]},
 "21855":{"nexusModName":"No Friendly Fire Nyrulna","nexusUploadedBy":"koboldJuno","nexusModId":21855,"paks":[
 {"nexusFileName":"No Friendly Fire Nyrulna","nexusFileVersion":"1.0","nexusFileUploadedAt":1773211762,"pakFileName":"NoFriendlyFireNyrulna.pak","nexusFileId":116520,"metaUuid":"b3951d79-1eb4-4bf4-884a-8c18de12f0bd"}
@@ -61766,7 +61762,6 @@
 {"nexusFileName":"Vendor Stock Control 1.0.0","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1773583160,"pakFileName":"Vendor Stock Control.pak","nexusFileId":116788,"metaUuid":"1fe3dfe1-1a4d-4677-a2dd-9dcae0d704eb"}
 ]},
 "21900":{"nexusModName":"Yir'eh Head Preset","nexusUploadedBy":"Nzx","nexusModId":21900,"paks":[
-{"nexusFileName":"Yir'eh Head Preset (Glow Eyes)","nexusFileVersion":"1.1.2","nexusFileUploadedAt":1785240832,"pakFileName":"Yireh Head Preset [Glow Eyes].pak","nexusFileId":126652,"metaUuid":"99a2cc89-d379-4f76-bbb0-a5cb4fed50d9"},
 {"nexusFileName":"Yir'eh Head Preset","nexusFileVersion":"1.1.2","nexusFileUploadedAt":1785240853,"pakFileName":"Yireh Head Preset.pak","nexusFileId":126653,"metaUuid":"99a2cc89-d379-4f76-bbb0-a5cb4fed50d9"}
 ]},
 "21901":{"nexusModName":"Elemental Power - Playable Genasi CHS","nexusUploadedBy":"DrothertAnekos","nexusModId":21901,"paks":[
@@ -66359,8 +66354,7 @@
 {"nexusFileName":"Absolute Equipment and Clothing","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1783671258,"pakFileName":"ECC_Absolute_f3ef7850-1c69-23b7-737a-55b866f40584.pak","nexusFileId":125328,"metaUuid":"f3ef7850-1c69-23b7-737a-55b866f40584"},
 {"nexusFileName":"Humanoid Equipment and Clothing","nexusFileVersion":"1.1.0","nexusFileUploadedAt":1784259560,"pakFileName":"ECC_Humanoid_5f2c3462-94d5-feeb-5f39-5cd0f7a76c5a.pak","nexusFileId":125802,"metaUuid":"5f2c3462-94d5-feeb-5f39-5cd0f7a76c5a"},
 {"nexusFileName":"Githyanki Equipment","nexusFileVersion":"1.1.2","nexusFileUploadedAt":1784452408,"pakFileName":"ECC_Githyanki_9fb63845-8b2d-314d-99a2-bd0c75199995.pak","nexusFileId":125992,"metaUuid":"9fb63845-8b2d-314d-99a2-bd0c75199995"},
-{"nexusFileName":"Flaming Fist Equipment","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1784613341,"pakFileName":"ECC_FlamingFist_65c74891-9078-8eec-e159-2d3a9b674b91.pak","nexusFileId":126114,"metaUuid":"65c74891-9078-8eec-e159-2d3a9b674b91"},
-{"nexusFileName":"Main","nexusFileVersion":"1.2.1","nexusFileUploadedAt":1785228808,"pakFileName":"ECC_a1e921ae-8aa2-655c-c399-cfd97ed46f4c.pak","nexusFileId":126641,"metaUuid":"a1e921ae-8aa2-655c-c399-cfd97ed46f4c"}
+{"nexusFileName":"Flaming Fist Equipment","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1784613341,"pakFileName":"ECC_FlamingFist_65c74891-9078-8eec-e159-2d3a9b674b91.pak","nexusFileId":126114,"metaUuid":"65c74891-9078-8eec-e159-2d3a9b674b91"}
 ]},
 "23682":{"nexusModName":"Draconic Heritage - New Feat and Dragonborn Breath Weapon Tweaks","nexusUploadedBy":"aljoxo","nexusModId":23682,"paks":[
 {"nexusFileName":"Draconic Heritage","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1783070266,"pakFileName":"DraconicHeritageFeat_6717ff34-c605-60f2-a7d4-43af802463a2.pak","nexusFileId":124765,"metaUuid":"6717ff34-c605-60f2-a7d4-43af802463a2"}
@@ -66613,7 +66607,6 @@
 "23778":{"nexusModName":"Twilight Flourish - A Moonlight-Themed Melee Cantrip Based on True Strike 2024","nexusUploadedBy":"SymboJones","nexusModId":23778,"paks":[
 {"nexusFileName":"A-01. Twilight Flourish - Action Point - 1d4 Each","nexusFileVersion":"1.0.0-A-01","nexusFileUploadedAt":1784999626,"pakFileName":"Twilight Flourish - Lunar True Strike 2024 - A-01.pak","nexusFileId":126468,"metaUuid":null},
 {"nexusFileName":"A-02. Twilight Flourish - AP - 1d8 Cold","nexusFileVersion":"1.0.0-A-02","nexusFileUploadedAt":1784999686,"pakFileName":"Twilight Flourish - Lunar True Strike 2024 - A-02.pak","nexusFileId":126469,"metaUuid":null},
-{"nexusFileName":"A-03. Twilight Flourish - AP - 1d6 Cold","nexusFileVersion":"1.0.0-A-03","nexusFileUploadedAt":1784999749,"pakFileName":"Twilight Flourish - Lunar True Strike 2024 - A-03.pak","nexusFileId":126470,"metaUuid":null},
 {"nexusFileName":"A-04. Twilight Flourish - AP - 1d8 Radiant","nexusFileVersion":"1.0.0-A-04","nexusFileUploadedAt":1784999830,"pakFileName":"Twilight Flourish - Lunar True Strike 2024 - A-04.pak","nexusFileId":126471,"metaUuid":null},
 {"nexusFileName":"A-05. Twilight Flourish - AP - 1d6 Radiant","nexusFileVersion":"1.0.0-A-05","nexusFileUploadedAt":1784999892,"pakFileName":"Twilight Flourish - Lunar True Strike 2024 - A-05.pak","nexusFileId":126472,"metaUuid":null},
 {"nexusFileName":"Twilight Flourish - All Caster Addon","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1784999953,"pakFileName":"Twilight Flourish - Lunar True Strike 2024 - All Caster Addon.pak","nexusFileId":126473,"metaUuid":null},
@@ -66629,8 +66622,7 @@
 {"nexusFileName":"A-03. Silverlight Smite - Vanilla - Radiant d8s","nexusFileVersion":"1.0.0-A-03","nexusFileUploadedAt":1785250137,"pakFileName":"Silverlight Smite - Lunar Divine Smite - A-03.pak","nexusFileId":126666,"metaUuid":null},
 {"nexusFileName":"Silverlight Smite - All Caster Addon","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1785250155,"pakFileName":"Silverlight Smite - Lunar Divine Smite - All Caster Addon.pak","nexusFileId":126667,"metaUuid":null},
 {"nexusFileName":"B-01. Silverlight Smite - AP BA - Both d4s","nexusFileVersion":"1.0.0-B-01","nexusFileUploadedAt":1785250204,"pakFileName":"Silverlight Smite - Lunar Divine Smite - B-01.pak","nexusFileId":126668,"metaUuid":null},
-{"nexusFileName":"B-02. Silverlight Smite - AP BA - Cold d8s","nexusFileVersion":"1.0.0-B-02","nexusFileUploadedAt":1785250226,"pakFileName":"Silverlight Smite - Lunar Divine Smite - B-02.pak","nexusFileId":126669,"metaUuid":null},
-{"nexusFileName":"B-03. Silverlight Smite - AP BA - Radiant d8s","nexusFileVersion":"1.0.0-B-03","nexusFileUploadedAt":1785250245,"pakFileName":"Silverlight Smite - Lunar Divine Smite - B-03.pak","nexusFileId":126670,"metaUuid":null}
+{"nexusFileName":"B-02. Silverlight Smite - AP BA - Cold d8s","nexusFileVersion":"1.0.0-B-02","nexusFileUploadedAt":1785250226,"pakFileName":"Silverlight Smite - Lunar Divine Smite - B-02.pak","nexusFileId":126669,"metaUuid":null}
 ]},
 "23780":{"nexusModName":"Dark Urge Morning After - Always Gale","nexusUploadedBy":"Seristina","nexusModId":23780,"paks":[
 {"nexusFileName":"DurgeMorningAlwaysGale","nexusFileVersion":"1","nexusFileUploadedAt":1783539513,"pakFileName":"DurgeMorningAlwaysGale.pak","nexusFileId":125239,"metaUuid":"2fa307ee-0222-4014-8a32-48fee506c478"}
@@ -67079,7 +67071,7 @@
 ]},
 "23968":{"nexusModName":"Shifting Sands - Forgotten Armoury III - Staff and Outfit","nexusUploadedBy":"Lyniara","nexusModId":23968,"paks":[
 {"nexusFileName":"Tutorial Chest Addon","nexusFileVersion":"1","nexusFileUploadedAt":1784580784,"pakFileName":"Shifting Sands - Desert Mage - Tut Chest Addon.pak","nexusFileId":126099,"metaUuid":"d9bc4dc3-36b8-40b5-8b08-915899111389"},
-{"nexusFileName":"Shifting Sands Staff and Desert Mage outfit","nexusFileVersion":"1.0.0.10","nexusFileUploadedAt":1784998317,"pakFileName":"LYRA_LYN_Sands_Of_Time_1.0.0.10.pak","nexusFileId":126465,"metaUuid":null}
+{"nexusFileName":"Shifting Sands Staff and Desert Mage outfit","nexusFileVersion":"1.0.0.11","nexusFileUploadedAt":1785281912,"pakFileName":"LYRA_LYN_Sands_Of_Time_1.0.0.11.pak","nexusFileId":126708,"metaUuid":null}
 ]},
 "23969":{"nexusModName":"Pentos Gown","nexusUploadedBy":"Elledwyn","nexusModId":23969,"paks":[
 {"nexusFileName":"Targaryen Fashion - Pentos Gown","nexusFileVersion":"3","nexusFileUploadedAt":1784619815,"pakFileName":"TF_Pentos_Gown_8310cf04-28a2-38bb-ca77-614a8448fddd.pak","nexusFileId":126124,"metaUuid":"8310cf04-28a2-38bb-ca77-614a8448fddd"}
@@ -67277,7 +67269,8 @@
 {"nexusFileName":"Char's Hairs","nexusFileVersion":"1.2","nexusFileUploadedAt":1785193633,"pakFileName":"CHAR_CharsHairs_92dbee15-d61a-1443-25d7-e6c66a568ba3.pak","nexusFileId":126616,"metaUuid":"92dbee15-d61a-1443-25d7-e6c66a568ba3"}
 ]},
 "24039":{"nexusModName":"Vulnerable Nerf","nexusUploadedBy":"Cainhurtz","nexusModId":24039,"paks":[
-{"nexusFileName":"Vulnerability Nerf","nexusFileVersion":"1","nexusFileUploadedAt":1784858123,"pakFileName":"VulnerabilityNerf.pak","nexusFileId":126342,"metaUuid":null}
+{"nexusFileName":"Vulnerability Nerf (50)","nexusFileVersion":"1","nexusFileUploadedAt":1784858123,"pakFileName":"VulnerabilityNerf.pak","nexusFileId":126342,"metaUuid":null},
+{"nexusFileName":"Vulnerability Nerf (25)","nexusFileVersion":"1","nexusFileUploadedAt":1785280974,"pakFileName":"VulnerabilityNerf.pak","nexusFileId":126707,"metaUuid":null}
 ]},
 "24041":{"nexusModName":"Dragonborn XL penis","nexusUploadedBy":"benben1205","nexusModId":24041,"paks":[
 {"nexusFileName":"T2DGB Penis","nexusFileVersion":"1.0.0.1","nexusFileUploadedAt":1784869606,"pakFileName":"DGBPenis_a18f4947-42c5-ac95-3997-f7f6d67c2a1e.pak","nexusFileId":126347,"metaUuid":"a18f4947-42c5-ac95-3997-f7f6d67c2a1e"},
@@ -67318,11 +67311,10 @@
 {"nexusFileName":"Citizen Outfits as Camp Clothes TRM1R","nexusFileVersion":"1","nexusFileUploadedAt":1784918831,"pakFileName":"CBR_CitizenOutfits_TRM1R.pak","nexusFileId":126387,"metaUuid":null},
 {"nexusFileName":"Battlemage Armor TRM1R","nexusFileVersion":"1","nexusFileUploadedAt":1784918860,"pakFileName":"CBR_Battlemage_TRM1R.pak","nexusFileId":126388,"metaUuid":null},
 {"nexusFileName":"Gothyanki Gear TRM1R","nexusFileVersion":"1","nexusFileUploadedAt":1784918887,"pakFileName":"jerinski_gothyanki-gear_TRM1R.pak","nexusFileId":126389,"metaUuid":null},
-{"nexusFileName":"Ranger's Leather Armor TRM1R","nexusFileVersion":"1","nexusFileUploadedAt":1784918921,"pakFileName":"SimpleRangerOutfitTRM1R.pak","nexusFileId":126390,"metaUuid":null},
 {"nexusFileName":"PK Clothes and Armours TRM1R","nexusFileVersion":"1","nexusFileUploadedAt":1784918959,"pakFileName":"PK_Armors_N_Clothes_TRM1R.pak","nexusFileId":126391,"metaUuid":null},
-{"nexusFileName":"PK Clothes and Armours - Haunted Sea TRM1R","nexusFileVersion":"1","nexusFileUploadedAt":1784919007,"pakFileName":"PK_Haunted_Sea_TRM1R.pak","nexusFileId":126392,"metaUuid":null},
 {"nexusFileName":"PK Clothes and Armours NH Addon TRM1R","nexusFileVersion":"1","nexusFileUploadedAt":1784919118,"pakFileName":"PK_Armors_N_Clothes_NH_TRM1R.pak","nexusFileId":126393,"metaUuid":"8ee87940-bb6a-44ee-ba17-9dc7336ef83f"},
-{"nexusFileName":"The Outfit With No Name TRM1R","nexusFileVersion":"1","nexusFileUploadedAt":1785097169,"pakFileName":"MGNTN_OutfitWithNoName_TRM1R.pak","nexusFileId":126556,"metaUuid":null}
+{"nexusFileName":"The Outfit With No Name TRM1R","nexusFileVersion":"1","nexusFileUploadedAt":1785097169,"pakFileName":"MGNTN_OutfitWithNoName_TRM1R.pak","nexusFileId":126556,"metaUuid":null},
+{"nexusFileName":"Fade's Class Equipment AIO TRM1R","nexusFileVersion":"1","nexusFileUploadedAt":1785280139,"pakFileName":"xFED_AIO_TRM1R.pak","nexusFileId":126706,"metaUuid":null}
 ]},
 "24060":{"nexusModName":"Quick Second Wind","nexusUploadedBy":"yoonmoonsik43","nexusModId":24060,"paks":[
 {"nexusFileName":"Quicksecondwind 11aabc80 36ad 3qmv","nexusFileVersion":"1","nexusFileUploadedAt":1784917946,"pakFileName":"QuickSecondWind_11aabc80-36ad-7197-0fd6-f66b6b5a0915.pak","nexusFileId":126385,"metaUuid":"11aabc80-36ad-7197-0fd6-f66b6b5a0915"}
@@ -67389,8 +67381,7 @@
 {"nexusFileName":"TavEpilogueGearReplacer Thespian Shoes","nexusFileVersion":"1","nexusFileUploadedAt":1785194483,"pakFileName":"TavEpilogueGearReplacer_Thespian_Shoes.pak","nexusFileId":126624,"metaUuid":null},
 {"nexusFileName":"TavEpilogueGearReplacer Blythe","nexusFileVersion":"1","nexusFileUploadedAt":1785194496,"pakFileName":"TavEpilogueGearReplacer_Blythe.pak","nexusFileId":126625,"metaUuid":null},
 {"nexusFileName":"TavEpilogueGearReplacer AoDai","nexusFileVersion":"1","nexusFileUploadedAt":1785194506,"pakFileName":"TavEpilogueGearReplacer_AoDai.pak","nexusFileId":126626,"metaUuid":null},
-{"nexusFileName":"TavEpilogueGearReplacer Nightwhite - please test","nexusFileVersion":"1","nexusFileUploadedAt":1785275416,"pakFileName":"TavEpilogueGearReplacer_Nightwhite.pak","nexusFileId":126700,"metaUuid":null},
-{"nexusFileName":"TavEpilogueGearReplacer Nightwhite NON-AIO","nexusFileVersion":"1","nexusFileUploadedAt":1785275523,"pakFileName":"TavEpilogueGearReplacer_Nightwhite_single.pak","nexusFileId":126701,"metaUuid":null}
+{"nexusFileName":"TavEpilogueGearReplacer Nightwhite - please test","nexusFileVersion":"1","nexusFileUploadedAt":1785275416,"pakFileName":"TavEpilogueGearReplacer_Nightwhite.pak","nexusFileId":126700,"metaUuid":null}
 ]},
 "24083":{"nexusModName":"Equipment and Outfit Quick Switch","nexusUploadedBy":"Scor66","nexusModId":24083,"paks":[
 {"nexusFileName":"BagChangeOfClothes","nexusFileVersion":"1","nexusFileUploadedAt":1785032813,"pakFileName":"Scor_BagChangeOfClothes.pak","nexusFileId":126500,"metaUuid":"ad8ace47-93ae-4299-8e61-b27cf808065e"}
@@ -67460,7 +67451,8 @@
 {"nexusFileName":"ItemModSource","nexusFileVersion":"1","nexusFileUploadedAt":1785251250,"pakFileName":"ItemModSource.pak","nexusFileId":126671,"metaUuid":"7e9a6a31-caed-4a66-9815-fd149c981e51"}
 ]},
 "24124":{"nexusModName":"Ember's Wardrobe (Thirteen-Hour Court Regalia)","nexusUploadedBy":"Ariefel","nexusModId":24124,"paks":[
-{"nexusFileName":"emberswardrobe-thegoblinking","nexusFileVersion":"1.0.0.10","nexusFileUploadedAt":1785265399,"pakFileName":"EmbersWardrobe-GK_3e2f33ec-e774-46df-a98c-6d550ac62957.pak","nexusFileId":126694,"metaUuid":null}
+{"nexusFileName":"emberswardrobe-thegoblinking","nexusFileVersion":"1.0.0.10","nexusFileUploadedAt":1785265399,"pakFileName":"EmbersWardrobe-GK_3e2f33ec-e774-46df-a98c-6d550ac62957.pak","nexusFileId":126694,"metaUuid":null},
+{"nexusFileName":"emberswardrobe-thegoblinking-4k","nexusFileVersion":"1.0.0.2","nexusFileUploadedAt":1785282142,"pakFileName":"EmbersWardrobe-GK-4K_5ab666e5-d2c1-d68e-04a4-189143d1d1f3.pak","nexusFileId":126709,"metaUuid":null}
 ]},
 "24129":{"nexusModName":"Cum Covered","nexusUploadedBy":"Sindae","nexusModId":24129,"paks":[
 {"nexusFileName":"1.0 CumCovered","nexusFileVersion":"1","nexusFileUploadedAt":1785278209,"pakFileName":"CumFace.pak","nexusFileId":126702,"metaUuid":null},
