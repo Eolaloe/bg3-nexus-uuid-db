@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-07-28T21:51:52.290782+00:00","total_mods":17060},
+{"_meta":{"last_run":"2026-07-28T22:51:58.093569+00:00","total_mods":17063},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -67389,7 +67389,8 @@
 {"nexusFileName":"TavEpilogueGearReplacer Thespian Shoes","nexusFileVersion":"1","nexusFileUploadedAt":1785194483,"pakFileName":"TavEpilogueGearReplacer_Thespian_Shoes.pak","nexusFileId":126624,"metaUuid":null},
 {"nexusFileName":"TavEpilogueGearReplacer Blythe","nexusFileVersion":"1","nexusFileUploadedAt":1785194496,"pakFileName":"TavEpilogueGearReplacer_Blythe.pak","nexusFileId":126625,"metaUuid":null},
 {"nexusFileName":"TavEpilogueGearReplacer AoDai","nexusFileVersion":"1","nexusFileUploadedAt":1785194506,"pakFileName":"TavEpilogueGearReplacer_AoDai.pak","nexusFileId":126626,"metaUuid":null},
-{"nexusFileName":"TavEpilogueGearReplacer Nightwhite - please test","nexusFileVersion":"1","nexusFileUploadedAt":1785275416,"pakFileName":"TavEpilogueGearReplacer_Nightwhite.pak","nexusFileId":126700,"metaUuid":null}
+{"nexusFileName":"TavEpilogueGearReplacer Nightwhite - please test","nexusFileVersion":"1","nexusFileUploadedAt":1785275416,"pakFileName":"TavEpilogueGearReplacer_Nightwhite.pak","nexusFileId":126700,"metaUuid":null},
+{"nexusFileName":"TavEpilogueGearReplacer Nightwhite NON-AIO","nexusFileVersion":"1","nexusFileUploadedAt":1785275523,"pakFileName":"TavEpilogueGearReplacer_Nightwhite_single.pak","nexusFileId":126701,"metaUuid":null}
 ]},
 "24083":{"nexusModName":"Equipment and Outfit Quick Switch","nexusUploadedBy":"Scor66","nexusModId":24083,"paks":[
 {"nexusFileName":"BagChangeOfClothes","nexusFileVersion":"1","nexusFileUploadedAt":1785032813,"pakFileName":"Scor_BagChangeOfClothes.pak","nexusFileId":126500,"metaUuid":"ad8ace47-93ae-4299-8e61-b27cf808065e"}
@@ -67452,6 +67453,16 @@
 "24119":{"nexusModName":"Paz's Poses Vol. 2","nexusUploadedBy":"dapazo","nexusModId":24119,"paks":[
 {"nexusFileName":"Part2 2f910a25 422c 4d2e 4784 62eab08a25f8","nexusFileVersion":"1","nexusFileUploadedAt":1785214545,"pakFileName":"part2_2f910a25-422c-4d2e-4784-62eab08a25f8.pak","nexusFileId":126639,"metaUuid":null}
 ]},
+"24121":{"nexusModName":"Petals of Steel Fairy Poses","nexusUploadedBy":"MadMicky10","nexusModId":24121,"paks":[
+{"nexusFileName":"MadMicky Petals Of Steel Fairy Poses","nexusFileVersion":"1","nexusFileUploadedAt":1785278850,"pakFileName":"Petals_of_Steel_Fairy_Poses_ea7f3a5c-bf48-58d1-2f48-5ea160a19303.pak","nexusFileId":126704,"metaUuid":null}
+]},
 "24123":{"nexusModName":"Item Mod Source","nexusUploadedBy":"yaynay","nexusModId":24123,"paks":[
 {"nexusFileName":"ItemModSource","nexusFileVersion":"1","nexusFileUploadedAt":1785251250,"pakFileName":"ItemModSource.pak","nexusFileId":126671,"metaUuid":"7e9a6a31-caed-4a66-9815-fd149c981e51"}
+]},
+"24124":{"nexusModName":"Ember's Wardrobe (Thirteen-Hour Court Regalia)","nexusUploadedBy":"Ariefel","nexusModId":24124,"paks":[
+{"nexusFileName":"emberswardrobe-thegoblinking","nexusFileVersion":"1.0.0.10","nexusFileUploadedAt":1785265399,"pakFileName":"EmbersWardrobe-GK_3e2f33ec-e774-46df-a98c-6d550ac62957.pak","nexusFileId":126694,"metaUuid":null}
+]},
+"24129":{"nexusModName":"Cum Covered","nexusUploadedBy":"Sindae","nexusModId":24129,"paks":[
+{"nexusFileName":"1.0 CumCovered","nexusFileVersion":"1","nexusFileUploadedAt":1785278209,"pakFileName":"CumFace.pak","nexusFileId":126702,"metaUuid":null},
+{"nexusFileName":"1.0 CumDrenched","nexusFileVersion":"1","nexusFileUploadedAt":1785278232,"pakFileName":"CumFace.pak","nexusFileId":126703,"metaUuid":null}
 ]}}
