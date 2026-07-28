@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-07-28T02:51:53.231549+00:00","total_mods":17056},
+{"_meta":{"last_run":"2026-07-28T03:51:37.755200+00:00","total_mods":17056},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -25178,7 +25178,7 @@
 {"nexusFileName":"Orphic Hammer - BUFFED and Recoverable Spanish","nexusFileVersion":"1.0","nexusFileUploadedAt":1712197219,"pakFileName":"OrphicHammer_ReworkEs.pak","nexusFileId":52517,"metaUuid":null}
 ]},
 "8491":{"nexusModName":"Aegis Fang","nexusUploadedBy":"haytur","nexusModId":8491,"paks":[
-{"nexusFileName":"Aegis Fang","nexusFileVersion":"1.01","nexusFileUploadedAt":1751007439,"pakFileName":"AegisFang.pak","nexusFileId":96733,"metaUuid":"cf39086a-b3fc-4402-bded-5859639c4257"}
+{"nexusFileName":"Aegis Fang","nexusFileVersion":"1.2","nexusFileUploadedAt":1785209620,"pakFileName":"AegisFang_old.pak","nexusFileId":126632,"metaUuid":null}
 ]},
 "8493":{"nexusModName":"Oath of the Storm - Paladin Subclass ITA","nexusUploadedBy":"Rahl81","nexusModId":8493,"paks":[
 {"nexusFileName":"Oath of the Storm ITA","nexusFileVersion":"1.0.3","nexusFileUploadedAt":1712212424,"pakFileName":"OathOfTheStorm - ITA.pak","nexusFileId":52532,"metaUuid":null}
@@ -35988,7 +35988,7 @@
 ]},
 "12727":{"nexusModName":"DnD 5.5e All-in-One BEYOND","nexusUploadedBy":"yoonmoonsik43","nexusModId":12727,"paks":[
 {"nexusFileName":"dnd2024 - V3 Legacy","nexusFileVersion":"3.4.6.4","nexusFileUploadedAt":1771945305,"pakFileName":"DnD2024_897914ef-5c96-053c-44af-0be823f895fe.pak","nexusFileId":115523,"metaUuid":"897914ef-5c96-053c-44af-0be823f895fe"},
-{"nexusFileName":"DnD 5.5e All-in-One BEYOND","nexusFileVersion":"4.11.15.0","nexusFileUploadedAt":1785186396,"pakFileName":"DnD2024_897914ef-5c96-053c-44af-0be823f895fe.pak","nexusFileId":126609,"metaUuid":"897914ef-5c96-053c-44af-0be823f895fe"}
+{"nexusFileName":"DnD 5.5e All-in-One BEYOND","nexusFileVersion":"4.11.16.1","nexusFileUploadedAt":1785210225,"pakFileName":"DnD2024_897914ef-5c96-053c-44af-0be823f895fe.pak","nexusFileId":126634,"metaUuid":"897914ef-5c96-053c-44af-0be823f895fe"}
 ]},
 "12728":{"nexusModName":"Origin-Themed Headwear KR","nexusUploadedBy":"Soorawang","nexusModId":12728,"paks":[
 {"nexusFileName":"Origin-Themed Headwear KR","nexusFileVersion":"1.0","nexusFileUploadedAt":1727930331,"pakFileName":"OriginHeadwear_kr.pak","nexusFileId":73692,"metaUuid":null}
@@ -45160,7 +45160,7 @@
 "16250":{"nexusModName":"Justice For Nessa CHS","nexusUploadedBy":"LaundryDragonmaidOfficial","nexusModId":16250,"paks":[
 {"nexusFileName":"Justice_For_NessaCHS","nexusFileVersion":"1.0.12.3","nexusFileUploadedAt":1748694877,"pakFileName":"Justice_For_NessaCHS.pak","nexusFileId":94646,"metaUuid":null}
 ]},
-"16251":{"nexusModName":"The Sculptors Dreamcache","nexusUploadedBy":"tabatha","nexusModId":16251,"paks":[
+"16251":{"nexusModName":"The Sculptors Dreamcache - Announcement","nexusUploadedBy":"tabatha","nexusModId":16251,"paks":[
 {"nexusFileName":"The Sculptors Dreamcache","nexusFileVersion":"1.0.0.81","nexusFileUploadedAt":1770599179,"pakFileName":"The-Sculptors-Dreamcache_4b010dd1-1c6d-450a-9837-269c688ad4f1.pak","nexusFileId":114441,"metaUuid":"4b010dd1-1c6d-450a-9837-269c688ad4f1"}
 ]},
 "16252":{"nexusModName":"Yeenoghu flail (shattered flail restoration)","nexusUploadedBy":"Zerathyon","nexusModId":16252,"paks":[
@@ -63337,7 +63337,7 @@
 {"nexusFileName":"Fatebond","nexusFileVersion":"1.4","nexusFileUploadedAt":1784576306,"pakFileName":"Fatebond.pak","nexusFileId":126087,"metaUuid":"6cfead1f-d54c-4dfb-bc94-05e9fc1e2970"}
 ]},
 "22459":{"nexusModName":"DnD 5.5e All-in-One BEYOND Russian Localization","nexusUploadedBy":"XapcT","nexusModId":22459,"paks":[
-{"nexusFileName":"DnD 5.5e AIO Russian v0.4.2.zip","nexusFileVersion":"0.4.2","nexusFileUploadedAt":1785187082,"pakFileName":"DnD 5.5e AIO Russian.pak","nexusFileId":126610,"metaUuid":null}
+{"nexusFileName":"DnD 5.5e AIO Russian v0.4.3.zip","nexusFileVersion":"0.4.3","nexusFileUploadedAt":1785210459,"pakFileName":"DnD 5.5e AIO Russian.pak","nexusFileId":126635,"metaUuid":null}
 ]},
 "22460":{"nexusModName":"Elementally Based Gear","nexusUploadedBy":"Useyourrifle","nexusModId":22460,"paks":[
 {"nexusFileName":"Elemental_Gear.7z","nexusFileVersion":"1","nexusFileUploadedAt":1776346340,"pakFileName":"OP_Bow_56032304-f037-e077-f5e7-045d2e03ef1c.pak","nexusFileId":119147,"metaUuid":"56032304-f037-e077-f5e7-045d2e03ef1c"}
@@ -66490,7 +66490,7 @@
 {"nexusFileName":"Westeros Accessories","nexusFileVersion":"1.0.0.9","nexusFileUploadedAt":1783279455,"pakFileName":"Westeros_Accessories_160bf329-a4ce-a2c1-4bd6-573c0d0b3919.pak","nexusFileId":124976,"metaUuid":"160bf329-a4ce-a2c1-4bd6-573c0d0b3919"}
 ]},
 "23730":{"nexusModName":"Selune's Tears - Harper Geraldus as an Endgame Summon","nexusUploadedBy":"whatsontheflip","nexusModId":23730,"paks":[
-{"nexusFileName":"Selune's Tears - Summon Geraldus","nexusFileVersion":"1.1.1.4","nexusFileUploadedAt":1785050130,"pakFileName":"Geraldus_Endgame_Ally_39bb02a5-a23f-e525-b9c6-c69e75544270.pak","nexusFileId":126514,"metaUuid":"39bb02a5-a23f-e525-b9c6-c69e75544270"}
+{"nexusFileName":"Selune's Tears - Summon Geraldus","nexusFileVersion":"1.1.2.6","nexusFileUploadedAt":1785207367,"pakFileName":"Geraldus_Endgame_Ally_39bb02a5-a23f-e525-b9c6-c69e75544270.pak","nexusFileId":126631,"metaUuid":"39bb02a5-a23f-e525-b9c6-c69e75544270"}
 ]},
 "23732":{"nexusModName":"Falazure - Clothing and Light Armor","nexusUploadedBy":"onyx","nexusModId":23732,"paks":[
 {"nexusFileName":"Falazure - Clothing and Light Armor","nexusFileVersion":"1.4","nexusFileUploadedAt":1784148574,"pakFileName":"Falazure_5b6020d1-cc76-c0a3-d53b-88bae8fdef9e.pak","nexusFileId":125739,"metaUuid":"5b6020d1-cc76-c0a3-d53b-88bae8fdef9e"}
