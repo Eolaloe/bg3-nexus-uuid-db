@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-07-29T16:52:16.204161+00:00","total_mods":17070},
+{"_meta":{"last_run":"2026-07-29T17:52:03.100635+00:00","total_mods":17072},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -66956,6 +66956,11 @@
 "23904":{"nexusModName":"Darkside's Elixir Overhaul","nexusUploadedBy":"Darkside057","nexusModId":23904,"paks":[
 {"nexusFileName":"Elixir Overhaul","nexusFileVersion":"3","nexusFileUploadedAt":1784617438,"pakFileName":"RebalancedElixirsBalorEdition_521b0d69-b176-4694-f22d-084cf5b2ae56.pak","nexusFileId":126122,"metaUuid":"521b0d69-b176-4694-f22d-084cf5b2ae56"}
 ]},
+"23905":{"nexusModName":"Hordak - Head Preset and Custom Face and Body Vitiligo","nexusUploadedBy":"mouch30","nexusModId":23905,"paks":[
+{"nexusFileName":"Hordak Head - CCO Version","nexusFileVersion":"1.0","nexusFileUploadedAt":1785322817,"pakFileName":"Hordak.pak","nexusFileId":126737,"metaUuid":null},
+{"nexusFileName":"Hordak - Vanilla Version","nexusFileVersion":"1.0","nexusFileUploadedAt":1785322867,"pakFileName":"Hordak.pak","nexusFileId":126738,"metaUuid":null},
+{"nexusFileName":"Hordak - Custom Face and Body Vitiligo","nexusFileVersion":"1.0","nexusFileUploadedAt":1785343384,"pakFileName":"M30_Hordak_CC_6ec03c80-b171-1953-4aa7-271fa99f658e.pak","nexusFileId":126770,"metaUuid":null}
+]},
 "23906":{"nexusModName":"Armour of Agility Boots and Gloves Restored","nexusUploadedBy":"koboldJuno","nexusModId":23906,"paks":[
 {"nexusFileName":"Boots and Gloves of Agility Restored","nexusFileVersion":"1.1","nexusFileUploadedAt":1784265813,"pakFileName":"BootsandGlovesofAgilityRestored_0ba71852-aacb-2375-752f-756916ad7dd1.pak","nexusFileId":125804,"metaUuid":"0ba71852-aacb-2375-752f-756916ad7dd1"}
 ]},
@@ -67463,7 +67468,7 @@
 "24106":{"nexusModName":"All That Wizard","nexusUploadedBy":"yoonmoonsik43","nexusModId":24106,"paks":[
 {"nexusFileName":"Allwizard Cf177c22 463a 7a2a E Etgn","nexusFileVersion":"1","nexusFileUploadedAt":1785131614,"pakFileName":"AllWizard_cf177c22-463a-7a2a-e12a-99ad3014387a.pak","nexusFileId":126583,"metaUuid":"cf177c22-463a-7a2a-e12a-99ad3014387a"}
 ]},
-"24108":{"nexusModName":"Archmage","nexusUploadedBy":"FortisEstVeritas","nexusModId":24108,"paks":[
+"24108":{"nexusModName":"Archmage (Lore-accurate Class for Origin Gale)","nexusUploadedBy":"FortisEstVeritas","nexusModId":24108,"paks":[
 {"nexusFileName":"Archmage","nexusFileVersion":"1.0","nexusFileUploadedAt":1785158592,"pakFileName":"Archmage Wizard.pak","nexusFileId":126593,"metaUuid":null}
 ]},
 "24111":{"nexusModName":"Glow Frog Eyes - EOTB Preset","nexusUploadedBy":"clownshrooms","nexusModId":24111,"paks":[
@@ -67511,4 +67516,7 @@
 ]},
 "24139":{"nexusModName":"5e Ranger Subclasses Combined - PTBR (2026)","nexusUploadedBy":"BarovZx","nexusModId":24139,"paks":[
 {"nexusFileName":"Ranger Subclasses5e Combined PTBR","nexusFileVersion":"04.02.2026","nexusFileUploadedAt":1785340412,"pakFileName":"Ranger Subclasses5e Combined PTBR.pak","nexusFileId":126763,"metaUuid":null}
+]},
+"24140":{"nexusModName":"merry's yvette and tonya","nexusUploadedBy":"merryvale","nexusModId":24140,"paks":[
+{"nexusFileName":"merry's yvette And tonya","nexusFileVersion":"1","nexusFileUploadedAt":1785347459,"pakFileName":"merryvale's yvette and tonya.pak","nexusFileId":126779,"metaUuid":null}
 ]}}
