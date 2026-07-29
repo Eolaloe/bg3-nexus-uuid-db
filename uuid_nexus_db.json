@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-07-29T01:51:50.460242+00:00","total_mods":17063},
+{"_meta":{"last_run":"2026-07-29T02:51:49.339675+00:00","total_mods":17063},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -67151,9 +67151,14 @@
 {"nexusFileName":"EPI Replacer MoonPearl non-AIO","nexusFileVersion":"1","nexusFileUploadedAt":1785092722,"pakFileName":"TavEpilogueGearReplacer_MoonPearl_single.pak","nexusFileId":126552,"metaUuid":null},
 {"nexusFileName":"EPI Replacer MoonPearl Shoes non-AIO","nexusFileVersion":"1","nexusFileUploadedAt":1785092743,"pakFileName":"TavEpilogueGearReplacer_MoonPearl_shoes_single.pak","nexusFileId":126553,"metaUuid":null}
 ]},
-"23992":{"nexusModName":"Body and Clothing Morphs for SBBF and BCB (by SerpentineShel)","nexusUploadedBy":"SerpentineShel","nexusModId":23992,"paks":[
-{"nexusFileName":"BodyAndClothingMorph Package v. 1.1 ","nexusFileVersion":"1.1","nexusFileUploadedAt":1784752946,"pakFileName":"ClothMorphContent.pak","nexusFileId":126247,"metaUuid":"af8a21a0-2612-540f-9819-39a83a2af0f0"},
-{"nexusFileName":"BodyAndClothingMorph Package v. 1.1 ","nexusFileVersion":"1.1","nexusFileUploadedAt":1784752946,"pakFileName":"ClothMorphRuntime.pak","nexusFileId":126247,"metaUuid":"af8a21a0-2612-540f-9819-39a83a2af0f0"}
+"23992":{"nexusModName":"Body and Clothing Morphs for SBBF and BCB (by SerpentineShel) v. 1.2","nexusUploadedBy":"SerpentineShel","nexusModId":23992,"paks":[
+{"nexusFileName":"BodyAndClothingMorph V1.2 AIO","nexusFileVersion":"1.2","nexusFileUploadedAt":1785293277,"pakFileName":"ClothMorphBCB.pak","nexusFileId":126716,"metaUuid":null},
+{"nexusFileName":"BodyAndClothingMorph V1.2 AIO","nexusFileVersion":"1.2","nexusFileUploadedAt":1785293277,"pakFileName":"ClothMorphContent.pak","nexusFileId":126716,"metaUuid":"af8a21a0-2612-540f-9819-39a83a2af0f0"},
+{"nexusFileName":"BodyAndClothingMorph V1.2 AIO","nexusFileVersion":"1.2","nexusFileUploadedAt":1785293277,"pakFileName":"ClothMorphGithyanki.pak","nexusFileId":126716,"metaUuid":null},
+{"nexusFileName":"BodyAndClothingMorph V1.2 AIO","nexusFileVersion":"1.2","nexusFileUploadedAt":1785293277,"pakFileName":"ClothMorphRuntime.pak","nexusFileId":126716,"metaUuid":"af8a21a0-2612-540f-9819-39a83a2af0f0"},
+{"nexusFileName":"BodyAndClothingMorph V1.2 AIO","nexusFileVersion":"1.2","nexusFileUploadedAt":1785293277,"pakFileName":"ClothMorphSCO.pak","nexusFileId":126716,"metaUuid":null},
+{"nexusFileName":"BodyAndClothingMorph V1.2 Base","nexusFileVersion":"1.2","nexusFileUploadedAt":1785293399,"pakFileName":"ClothMorphContent.pak","nexusFileId":126717,"metaUuid":"af8a21a0-2612-540f-9819-39a83a2af0f0"},
+{"nexusFileName":"BodyAndClothingMorph V1.2 Base","nexusFileVersion":"1.2","nexusFileUploadedAt":1785293399,"pakFileName":"ClothMorphRuntime.pak","nexusFileId":126717,"metaUuid":"af8a21a0-2612-540f-9819-39a83a2af0f0"}
 ]},
 "23993":{"nexusModName":"Planescapes","nexusUploadedBy":"Terrorbyte33","nexusModId":23993,"paks":[
 {"nexusFileName":"Planescapes","nexusFileVersion":"1","nexusFileUploadedAt":1784673215,"pakFileName":"Planescapes.pak","nexusFileId":126179,"metaUuid":"a059bd02-ebc7-b895-238d-9cc93d8e5c47"}
