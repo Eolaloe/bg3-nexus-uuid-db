@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-07-29T11:52:07.842509+00:00","total_mods":17066},
+{"_meta":{"last_run":"2026-07-29T12:52:12.293002+00:00","total_mods":17068},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -43699,7 +43699,7 @@
 {"nexusFileName":"5e Spells CHS CHT","nexusFileVersion":"2.4.3.0","nexusFileUploadedAt":1784939041,"pakFileName":"5eSpellsCHS.pak","nexusFileId":126425,"metaUuid":"6f357f6c-3742-4427-a7ca-6e80f050c285"}
 ]},
 "15638":{"nexusModName":"Simple Circlets","nexusUploadedBy":"Lyniara","nexusModId":15638,"paks":[
-{"nexusFileName":"Simple Circlets","nexusFileVersion":"1.0","nexusFileUploadedAt":1743944062,"pakFileName":"LyniaSimpleCirclets.pak","nexusFileId":88431,"metaUuid":"0bbda4ce-fe56-4ade-b5de-412238d28079"}
+{"nexusFileName":"Simple Circlets","nexusFileVersion":"1.0.1","nexusFileUploadedAt":1785329296,"pakFileName":"LyniaSimpleCirclets.pak","nexusFileId":126744,"metaUuid":"0bbda4ce-fe56-4ade-b5de-412238d28079"}
 ]},
 "15643":{"nexusModName":"Fungal Variant Subraces","nexusUploadedBy":"BG3xe","nexusModId":15643,"paks":[
 {"nexusFileName":"Fungal Variant Subraces","nexusFileVersion":".9","nexusFileUploadedAt":1743948619,"pakFileName":"RACES_FUNGAL_VARIANT_SUBRACES(v2).pak","nexusFileId":88436,"metaUuid":null}
@@ -67464,6 +67464,9 @@
 "24108":{"nexusModName":"Archmage","nexusUploadedBy":"FortisEstVeritas","nexusModId":24108,"paks":[
 {"nexusFileName":"Archmage","nexusFileVersion":"1.0","nexusFileUploadedAt":1785158592,"pakFileName":"Archmage Wizard.pak","nexusFileId":126593,"metaUuid":null}
 ]},
+"24111":{"nexusModName":"Glow Frog Eyes - EOTB Preset","nexusUploadedBy":"clownshrooms","nexusModId":24111,"paks":[
+{"nexusFileName":"GlowFrogEyes","nexusFileVersion":"1","nexusFileUploadedAt":1785328614,"pakFileName":"GlowFrogEyes.pak","nexusFileId":126743,"metaUuid":null}
+]},
 "24114":{"nexusModName":"Sorcubus Class - Freja's Spell Patch","nexusUploadedBy":"WolfPrincessSarah","nexusModId":24114,"paks":[
 {"nexusFileName":"Grab Bag Version","nexusFileVersion":"1","nexusFileUploadedAt":1785182722,"pakFileName":"SorcubusClassFrejaPatch.pak","nexusFileId":126606,"metaUuid":"576b88ef-2ab5-40ab-ac2e-d0e4ce9d9e49"},
 {"nexusFileName":"Tuned Version","nexusFileVersion":"1.1","nexusFileUploadedAt":1785189569,"pakFileName":"SorcubusClassFrejaPatchTuned.pak","nexusFileId":126614,"metaUuid":null}
@@ -67483,6 +67486,10 @@
 "24124":{"nexusModName":"Ember's Wardrobe (Thirteen-Hour Court Regalia)","nexusUploadedBy":"Ariefel","nexusModId":24124,"paks":[
 {"nexusFileName":"emberswardrobe-thegoblinking","nexusFileVersion":"1.0.0.10","nexusFileUploadedAt":1785265399,"pakFileName":"EmbersWardrobe-GK_3e2f33ec-e774-46df-a98c-6d550ac62957.pak","nexusFileId":126694,"metaUuid":"3e2f33ec-e774-46df-a98c-6d550ac62957"},
 {"nexusFileName":"emberswardrobe-thegoblinking-4k","nexusFileVersion":"1.0.0.2","nexusFileUploadedAt":1785282142,"pakFileName":"EmbersWardrobe-GK-4K_5ab666e5-d2c1-d68e-04a4-189143d1d1f3.pak","nexusFileId":126709,"metaUuid":null}
+]},
+"24128":{"nexusModName":"Spineful - Forgotten Armoury IV - Greatsword and Dagger","nexusUploadedBy":"Lyniara","nexusModId":24128,"paks":[
+{"nexusFileName":"Tutorial Chest Addon","nexusFileVersion":"1","nexusFileUploadedAt":1785292266,"pakFileName":"Spineful - Tut Chest Addon.pak","nexusFileId":126715,"metaUuid":null},
+{"nexusFileName":"Spineful","nexusFileVersion":"1.0.0.4","nexusFileUploadedAt":1785325375,"pakFileName":"LYRA_LYN_Spineful_1.0.0.4.pak","nexusFileId":126741,"metaUuid":null}
 ]},
 "24129":{"nexusModName":"Cum Covered","nexusUploadedBy":"Sindae","nexusModId":24129,"paks":[
 {"nexusFileName":"1.0 CumCovered","nexusFileVersion":"1","nexusFileUploadedAt":1785278209,"pakFileName":"CumFace.pak","nexusFileId":126702,"metaUuid":null},
