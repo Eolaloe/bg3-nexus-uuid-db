@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-07-29T07:52:13.248867+00:00","total_mods":17064},
+{"_meta":{"last_run":"2026-07-29T08:53:01.786399+00:00","total_mods":17065},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -7941,8 +7941,14 @@
 {"nexusFileName":"Pulang","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1699955970,"pakFileName":"PrettyFont_Pulang.pak","nexusFileId":28383,"metaUuid":null},
 {"nexusFileName":"Super Dessert","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1699956111,"pakFileName":"PrettyFont_SuperDessert.pak","nexusFileId":28384,"metaUuid":null},
 {"nexusFileName":"Wind Sans Serif","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1699956122,"pakFileName":"PrettyFont_WindSansSerif.pak","nexusFileId":28385,"metaUuid":null},
+{"nexusFileName":"Starcraft","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1699963212,"pakFileName":"PrettyFont_Starcraft.pak","nexusFileId":28396,"metaUuid":null},
+{"nexusFileName":"Sherwood","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1700188647,"pakFileName":"PrettyFont_Sherwood.pak","nexusFileId":28842,"metaUuid":null},
+{"nexusFileName":"High Tower Text","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1700188688,"pakFileName":"PrettyFont_HighTowerText.pak","nexusFileId":28843,"metaUuid":null},
+{"nexusFileName":"Nosferatu","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1700189180,"pakFileName":"PrettyFont_Nosferatu.pak","nexusFileId":28844,"metaUuid":null},
+{"nexusFileName":"Genshin Impact","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1700189743,"pakFileName":"PrettyFont_Genshin.pak","nexusFileId":28845,"metaUuid":null},
 {"nexusFileName":"Noto Sans HK (Simplified Chinese)","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1700235096,"pakFileName":"PrettyFont_NotoSansHK.pak","nexusFileId":28899,"metaUuid":null},
-{"nexusFileName":"Noto Sans TC (Traditional Chinese)","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1700235517,"pakFileName":"PrettyFont_NotoSansTC.pak","nexusFileId":28902,"metaUuid":null}
+{"nexusFileName":"Noto Sans TC (Traditional Chinese)","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1700235517,"pakFileName":"PrettyFont_NotoSansTC.pak","nexusFileId":28902,"metaUuid":null},
+{"nexusFileName":"Inter","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1785314770,"pakFileName":"PrettyFont_Inter.pak","nexusFileId":126734,"metaUuid":null}
 ]},
 "2415":{"nexusModName":"Adamantine Armors Expanded","nexusUploadedBy":"Co0pDawg","nexusModId":2415,"paks":[
 {"nexusFileName":"Adamantine Armors Expanded","nexusFileVersion":"1.4","nexusFileUploadedAt":1695661280,"pakFileName":"AdamantineArmorsExpanded.pak","nexusFileId":18543,"metaUuid":null},
@@ -67484,4 +67490,7 @@
 ]},
 "24133":{"nexusModName":"Early Access Dream Visitor Restored Turkish Translation","nexusUploadedBy":"tarikagl1","nexusModId":24133,"paks":[
 {"nexusFileName":"HT EA Daisy TR","nexusFileVersion":"1.00.00","nexusFileUploadedAt":1785309681,"pakFileName":"HT_EA_Daisy_TR.pak","nexusFileId":126730,"metaUuid":null}
+]},
+"24134":{"nexusModName":"HomeBrew - Comprehensive Reworks rus","nexusUploadedBy":"Nochnoyy","nexusModId":24134,"paks":[
+{"nexusFileName":"HomeBrew   Comprehensive Reworks   RU","nexusFileVersion":"9.0.7","nexusFileUploadedAt":1785313100,"pakFileName":"HomeBrew - Comprehensive Reworks - RU.pak","nexusFileId":126733,"metaUuid":null}
 ]}}
