@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-07-29T13:52:43.664656+00:00","total_mods":17068},
+{"_meta":{"last_run":"2026-07-29T14:52:31.489519+00:00","total_mods":17069},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -67271,13 +67271,13 @@
 {"nexusFileName":"STAV Races Patch","nexusFileVersion":"2","nexusFileUploadedAt":1784884493,"pakFileName":"STAV Races Patch.pak","nexusFileId":126352,"metaUuid":"b08d9526-7b67-4e6a-839d-a09d24e18609"}
 ]},
 "24030":{"nexusModName":"The Oaken Maiden - Jaheira Edit","nexusUploadedBy":"SweetGenerousThing","nexusModId":24030,"paks":[
-{"nexusFileName":"SGT_The Oaken Maiden_Jaheira Edit","nexusFileVersion":"1","nexusFileUploadedAt":1784834784,"pakFileName":"SGT_JaheiraEdit_801d16be-dca8-cdcb-72d3-6c41c312f62e.pak","nexusFileId":126318,"metaUuid":"801d16be-dca8-cdcb-72d3-6c41c312f62e"},
 {"nexusFileName":"SGT_The Oaken Maiden - Portrait","nexusFileVersion":"1","nexusFileUploadedAt":1784834843,"pakFileName":"Oaken Maiden - Jaheira Portrait.pak","nexusFileId":126319,"metaUuid":"0c575630-3690-4384-aca3-8ad158bf1f2c"},
-{"nexusFileName":"SGT_The Oaken Maiden_Vanilla Colors","nexusFileVersion":"1","nexusFileUploadedAt":1784919263,"pakFileName":"SGT_JaheiraEdit_801d16be-dca8-cdcb-72d3-6c41c312f62e.pak","nexusFileId":126394,"metaUuid":"801d16be-dca8-cdcb-72d3-6c41c312f62e"},
-{"nexusFileName":"SGT_The Oaken Maiden_Young","nexusFileVersion":"1","nexusFileUploadedAt":1784919384,"pakFileName":"SGT_JaheiraEdit_801d16be-dca8-cdcb-72d3-6c41c312f62e.pak","nexusFileId":126395,"metaUuid":"801d16be-dca8-cdcb-72d3-6c41c312f62e"},
 {"nexusFileName":"SGT_The Oaken Maiden - Portrait - Young","nexusFileVersion":"1","nexusFileUploadedAt":1784919456,"pakFileName":"Oaken Maiden - Jaheira Portrait - Young.pak","nexusFileId":126396,"metaUuid":null},
 {"nexusFileName":"SGT_OakenMaiden_HEAD for CC","nexusFileVersion":"1","nexusFileUploadedAt":1785167996,"pakFileName":"SGT_OakenMaiden_Head_ae0f82ff-0bb4-92b3-cf39-e8234578db8f.pak","nexusFileId":126598,"metaUuid":null},
-{"nexusFileName":"SGT_OakenMaiden_HAIR for CC","nexusFileVersion":"1","nexusFileUploadedAt":1785168100,"pakFileName":"SGT_OakenMaiden_Hair_1829aca3-13ca-4c30-eedb-a187fc15b7e0.pak","nexusFileId":126599,"metaUuid":null}
+{"nexusFileName":"SGT_OakenMaiden_HAIR for CC","nexusFileVersion":"1","nexusFileUploadedAt":1785168100,"pakFileName":"SGT_OakenMaiden_Hair_1829aca3-13ca-4c30-eedb-a187fc15b7e0.pak","nexusFileId":126599,"metaUuid":null},
+{"nexusFileName":"SGT_The Oaken Maiden_Jaheira Edit","nexusFileVersion":"1.1","nexusFileUploadedAt":1785333454,"pakFileName":"SGT_JaheiraEdit_801d16be-dca8-cdcb-72d3-6c41c312f62e.pak","nexusFileId":126750,"metaUuid":"801d16be-dca8-cdcb-72d3-6c41c312f62e"},
+{"nexusFileName":"SGT_The Oaken Maiden_Young","nexusFileVersion":"1.1","nexusFileUploadedAt":1785333552,"pakFileName":"SGT_JaheiraEdit_801d16be-dca8-cdcb-72d3-6c41c312f62e.pak","nexusFileId":126751,"metaUuid":"801d16be-dca8-cdcb-72d3-6c41c312f62e"},
+{"nexusFileName":"SGT_The Oaken Maiden_Vanilla Colors","nexusFileVersion":"1.1","nexusFileUploadedAt":1785333684,"pakFileName":"SGT_JaheiraEdit_801d16be-dca8-cdcb-72d3-6c41c312f62e.pak","nexusFileId":126752,"metaUuid":"801d16be-dca8-cdcb-72d3-6c41c312f62e"}
 ]},
 "24031":{"nexusModName":"Aylin's Kintsugi for STAV","nexusUploadedBy":"EvilSnail0fDestruktion","nexusModId":24031,"paks":[
 {"nexusFileName":"STAVAylin","nexusFileVersion":"1.0.1","nexusFileUploadedAt":1785115104,"pakFileName":"STAVAylin.pak","nexusFileId":126568,"metaUuid":"869f6f17-3ea8-5e35-9b82-a1b7fc565a29"}
@@ -67503,4 +67503,7 @@
 ]},
 "24136":{"nexusModName":"Gather Your Allies - No Casual Fridays","nexusUploadedBy":"whatsontheflip","nexusModId":24136,"paks":[
 {"nexusFileName":"Gather Your Allies- No Casual Friday","nexusFileVersion":"1.0.0.1","nexusFileUploadedAt":1785321440,"pakFileName":"GatherYourAllies_NoCasualFriday_b601b610-df9f-9a9f-29e0-6ea1557cfb00.pak","nexusFileId":126736,"metaUuid":"b601b610-df9f-9a9f-29e0-6ea1557cfb00"}
+]},
+"24137":{"nexusModName":"HomeBrew - Comprehensive Reworks - CHS - YoloToki","nexusUploadedBy":"YoloToki","nexusModId":24137,"paks":[
+{"nexusFileName":"HomeBrewCHS","nexusFileVersion":"9.0.7","nexusFileUploadedAt":1785334937,"pakFileName":"HomeBrewCHS.pak","nexusFileId":126753,"metaUuid":null}
 ]}}
