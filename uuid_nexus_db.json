@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-07-30T13:51:49.000195+00:00","total_mods":17082},
+{"_meta":{"last_run":"2026-07-30T14:52:25.105923+00:00","total_mods":17085},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -61482,7 +61482,7 @@
 {"nexusFileName":"E. The Gunslinger Warlock Invocations Addon","nexusFileVersion":"1.0.0.1","nexusFileUploadedAt":1780540932,"pakFileName":"TheGunslingerWarlockInvocations_Addon.pak","nexusFileId":122725,"metaUuid":"6fa28431-31c2-4bc0-b8f8-1d18cf65a4f9"},
 {"nexusFileName":"D. Rebalance Feats Compatibility","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1781445565,"pakFileName":"TheGunslinger-RebalanceFeatsCompatibility.pak","nexusFileId":123546,"metaUuid":null},
 {"nexusFileName":"B. The Gunslinger Addon Revolver OffHand","nexusFileVersion":"2.0.0.6","nexusFileUploadedAt":1784352419,"pakFileName":"TheGunslingerOffHandAddon_db9c5c90-6f70-f07a-153e-d873fc5f803d.pak","nexusFileId":125916,"metaUuid":null},
-{"nexusFileName":"The Gunslinger Class (ENG-KOR)","nexusFileVersion":"3.0.0.11","nexusFileUploadedAt":1785340786,"pakFileName":"TheGunslinger_1f2b82d7-19c8-734b-5f43-05d57d3e7601.pak","nexusFileId":126765,"metaUuid":"1f2b82d7-19c8-734b-5f43-05d57d3e7601"}
+{"nexusFileName":"The Gunslinger Class (ENG-KOR)","nexusFileVersion":"3.0.0.12","nexusFileUploadedAt":1785422798,"pakFileName":"TheGunslinger_1f2b82d7-19c8-734b-5f43-05d57d3e7601.pak","nexusFileId":126838,"metaUuid":"1f2b82d7-19c8-734b-5f43-05d57d3e7601"}
 ]},
 "21796":{"nexusModName":"Em's Misc Head Collection","nexusUploadedBy":"emsthings","nexusModId":21796,"paks":[
 {"nexusFileName":"Em's Head Collection","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1772951131,"pakFileName":"Ems_Heads_41f62b28-72fa-cd43-2b54-e521a962a342.pak","nexusFileId":116314,"metaUuid":"41f62b28-72fa-cd43-2b54-e521a962a342"}
@@ -64812,7 +64812,7 @@
 {"nexusFileName":"Skully And Murder Accessories","nexusFileVersion":"1","nexusFileUploadedAt":1779818818,"pakFileName":"SkullyAndMurder_Accessories_c0f5c2b1-ea37-17f2-6d9d-316a3652a5ae.pak","nexusFileId":122211,"metaUuid":"c0f5c2b1-ea37-17f2-6d9d-316a3652a5ae"}
 ]},
 "23075":{"nexusModName":"The Green Screen - A Utility Map","nexusUploadedBy":"inkyplz","nexusModId":23075,"paks":[
-{"nexusFileName":"The Green Screen","nexusFileVersion":"1.0.0.3","nexusFileUploadedAt":1779821747,"pakFileName":"Inky_Green_66e63e88-6ea9-dcc9-4265-e4a4d7004a04.pak","nexusFileId":122221,"metaUuid":null}
+{"nexusFileName":"The Green Screen","nexusFileVersion":"1.0.0.4","nexusFileUploadedAt":1785419425,"pakFileName":"Inky_Green_66e63e88-6ea9-dcc9-4265-e4a4d7004a04.pak","nexusFileId":126831,"metaUuid":null}
 ]},
 "23076":{"nexusModName":"Master of adorable plushies","nexusUploadedBy":"cayssac","nexusModId":23076,"paks":[
 {"nexusFileName":"Master Of Plushies","nexusFileVersion":"1","nexusFileUploadedAt":1779968086,"pakFileName":"Master of Plushies.pak","nexusFileId":122338,"metaUuid":"46004423-c3f9-4c91-806f-3f459b28d9b5"}
@@ -67164,7 +67164,6 @@
 ]},
 "23992":{"nexusModName":"Body and Clothing Morphs for SBBF and BCB (by SerpentineShel) v. 1.2","nexusUploadedBy":"SerpentineShel","nexusModId":23992,"paks":[
 {"nexusFileName":"BodyAndClothingMorph V1.2 BCB Addon","nexusFileVersion":"1.2","nexusFileUploadedAt":1785293502,"pakFileName":"ClothMorphBCB.pak","nexusFileId":126718,"metaUuid":"78f1571f-ffb5-5646-8a5b-63aac7ce2ecd"},
-{"nexusFileName":"BodyAndClothingMorph V1.2 Githyanki Addon","nexusFileVersion":"1.2","nexusFileUploadedAt":1785293564,"pakFileName":"ClothMorphGithyanki.pak","nexusFileId":126719,"metaUuid":"78f1571f-ffb5-5646-8a5b-63aac7ce2ecd"},
 {"nexusFileName":"BodyAndClothingMorph V1.2 SCO Addon","nexusFileVersion":"1.2","nexusFileUploadedAt":1785293633,"pakFileName":"ClothMorphSCO.pak","nexusFileId":126720,"metaUuid":"78f1571f-ffb5-5646-8a5b-63aac7ce2ecd"},
 {"nexusFileName":"BodyAndClothingMorph V1.2.1 AIO","nexusFileVersion":"1.2.1","nexusFileUploadedAt":1785395103,"pakFileName":"ClothMorphBCB.pak","nexusFileId":126813,"metaUuid":"78f1571f-ffb5-5646-8a5b-63aac7ce2ecd"},
 {"nexusFileName":"BodyAndClothingMorph V1.2.1 AIO","nexusFileVersion":"1.2.1","nexusFileUploadedAt":1785395103,"pakFileName":"ClothMorphContent.pak","nexusFileId":126813,"metaUuid":null},
@@ -67172,7 +67171,8 @@
 {"nexusFileName":"BodyAndClothingMorph V1.2.1 AIO","nexusFileVersion":"1.2.1","nexusFileUploadedAt":1785395103,"pakFileName":"ClothMorphRuntime.pak","nexusFileId":126813,"metaUuid":null},
 {"nexusFileName":"BodyAndClothingMorph V1.2.1 AIO","nexusFileVersion":"1.2.1","nexusFileUploadedAt":1785395103,"pakFileName":"ClothMorphSCO.pak","nexusFileId":126813,"metaUuid":"78f1571f-ffb5-5646-8a5b-63aac7ce2ecd"},
 {"nexusFileName":"BodyAndClothingMorph V1.2.1 Base","nexusFileVersion":"1.2.1","nexusFileUploadedAt":1785395230,"pakFileName":"ClothMorphContent.pak","nexusFileId":126814,"metaUuid":null},
-{"nexusFileName":"BodyAndClothingMorph V1.2.1 Base","nexusFileVersion":"1.2.1","nexusFileUploadedAt":1785395230,"pakFileName":"ClothMorphRuntime.pak","nexusFileId":126814,"metaUuid":null}
+{"nexusFileName":"BodyAndClothingMorph V1.2.1 Base","nexusFileVersion":"1.2.1","nexusFileUploadedAt":1785395230,"pakFileName":"ClothMorphRuntime.pak","nexusFileId":126814,"metaUuid":null},
+{"nexusFileName":"BodyAndClothingMorph Githyanki Addon V1.2.1","nexusFileVersion":"1.2.1","nexusFileUploadedAt":1785420389,"pakFileName":"ClothMorphGithyanki.pak","nexusFileId":126834,"metaUuid":"78f1571f-ffb5-5646-8a5b-63aac7ce2ecd"}
 ]},
 "23993":{"nexusModName":"Planescapes","nexusUploadedBy":"Terrorbyte33","nexusModId":23993,"paks":[
 {"nexusFileName":"Planescapes","nexusFileVersion":"1","nexusFileUploadedAt":1784673215,"pakFileName":"Planescapes.pak","nexusFileId":126179,"metaUuid":"a059bd02-ebc7-b895-238d-9cc93d8e5c47"}
@@ -67442,7 +67442,7 @@
 {"nexusFileName":"Level 9 Hotbar Slots","nexusFileVersion":"1","nexusFileUploadedAt":1785052651,"pakFileName":"Level_9_Hotbar_Slots_2c92a4e4-a565-a60d-df27-120fbe28dce4.pak","nexusFileId":126517,"metaUuid":"2c92a4e4-a565-a60d-df27-120fbe28dce4"}
 ]},
 "24090":{"nexusModName":"Blood Sorcery - A Sorcerer subclass LV20 Add-On (ENG-KOR)","nexusUploadedBy":"Ahdarugo","nexusModId":24090,"paks":[
-{"nexusFileName":"Blood Sorcery - A Sorcerer subclass LV20 Add-On","nexusFileVersion":"1.0.0.1","nexusFileUploadedAt":1785057662,"pakFileName":"BloodSorceryLV20AddOn_2f9c9a2d-3d27-15b5-a791-1f44406a1895.pak","nexusFileId":126519,"metaUuid":"2f9c9a2d-3d27-15b5-a791-1f44406a1895"}
+{"nexusFileName":"Blood Sorcery - A Sorcerer subclass LV20 Add-On","nexusFileVersion":"1.0.0.2","nexusFileUploadedAt":1785420085,"pakFileName":"BloodSorceryLV20AddOn_2f9c9a2d-3d27-15b5-a791-1f44406a1895.pak","nexusFileId":126833,"metaUuid":"2f9c9a2d-3d27-15b5-a791-1f44406a1895"}
 ]},
 "24092":{"nexusModName":"SAGITTA - Armor and Camp Clothing","nexusUploadedBy":"Naerys","nexusModId":24092,"paks":[
 {"nexusFileName":"NAERYS Sagitta","nexusFileVersion":"1","nexusFileUploadedAt":1785170491,"pakFileName":"NAERYS_Sagitta_73b9edf0-e97f-1d63-ffa7-833487745c5b.pak","nexusFileId":126600,"metaUuid":null}
@@ -67491,6 +67491,10 @@
 ]},
 "24121":{"nexusModName":"Petals of Steel Fairy Poses","nexusUploadedBy":"MadMicky10","nexusModId":24121,"paks":[
 {"nexusFileName":"MadMicky Petals Of Steel Fairy Poses","nexusFileVersion":"1","nexusFileUploadedAt":1785278850,"pakFileName":"Petals_of_Steel_Fairy_Poses_ea7f3a5c-bf48-58d1-2f48-5ea160a19303.pak","nexusFileId":126704,"metaUuid":null}
+]},
+"24122":{"nexusModName":"Better Girlfriends","nexusUploadedBy":"slowsped","nexusModId":24122,"paks":[
+{"nexusFileName":"BetterGirlfriends","nexusFileVersion":"2","nexusFileUploadedAt":1785421538,"pakFileName":"BetterGirlfriends.pak","nexusFileId":126836,"metaUuid":null},
+{"nexusFileName":"BetterGirlfriends","nexusFileVersion":"2","nexusFileUploadedAt":1785421538,"pakFileName":"St8cyWhitelist.pak","nexusFileId":126836,"metaUuid":null}
 ]},
 "24123":{"nexusModName":"Item Mod Source","nexusUploadedBy":"yaynay","nexusModId":24123,"paks":[
 {"nexusFileName":"ItemModSource","nexusFileVersion":"1","nexusFileUploadedAt":1785251250,"pakFileName":"ItemModSource.pak","nexusFileId":126671,"metaUuid":"7e9a6a31-caed-4a66-9815-fd149c981e51"}
@@ -67551,4 +67555,10 @@
 ]},
 "24153":{"nexusModName":"Crab","nexusUploadedBy":"PupFenrir20","nexusModId":24153,"paks":[
 {"nexusFileName":"Crab","nexusFileVersion":"1","nexusFileUploadedAt":1785417932,"pakFileName":"Crab.pak","nexusFileId":126828,"metaUuid":null}
+]},
+"24154":{"nexusModName":"Drider","nexusUploadedBy":"PupFenrir20","nexusModId":24154,"paks":[
+{"nexusFileName":"Drider","nexusFileVersion":"1","nexusFileUploadedAt":1785420021,"pakFileName":"Drider.pak","nexusFileId":126832,"metaUuid":null}
+]},
+"24155":{"nexusModName":"Bugbear - Race Mod","nexusUploadedBy":"PupFenrir20","nexusModId":24155,"paks":[
+{"nexusFileName":"Bugbear","nexusFileVersion":"1","nexusFileUploadedAt":1785422136,"pakFileName":"Bugbear.pak","nexusFileId":126837,"metaUuid":null}
 ]}}
