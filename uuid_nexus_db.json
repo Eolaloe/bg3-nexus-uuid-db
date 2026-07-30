@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-07-30T16:51:59.028107+00:00","total_mods":17087},
+{"_meta":{"last_run":"2026-07-30T17:51:56.373288+00:00","total_mods":17087},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -63904,7 +63904,7 @@
 {"nexusFileName":"Warlock PHB2024 - 5e Spells And Expansion Patch","nexusFileVersion":"5.0.1","nexusFileUploadedAt":1784084584,"pakFileName":"Warlock PHB2024 - 5e Spells and Expansion Patch.pak","nexusFileId":125667,"metaUuid":"b318d404-af3f-4084-9dc5-df9bed5ca210"},
 {"nexusFileName":"Warlock PHB2024 -  Counterspell Patch","nexusFileVersion":"5.0.2","nexusFileUploadedAt":1784166229,"pakFileName":"Warlock PHB2024 - Counterspell Patch.pak","nexusFileId":125756,"metaUuid":"e5ee3170-eb9c-47fe-b140-7c593f7a5096"},
 {"nexusFileName":"Warlock and Patrons DnD 5R PHB2024","nexusFileVersion":"5.2.3","nexusFileUploadedAt":1784516391,"pakFileName":"WarlockAndPatronsPHB2024_b2f266ab-d569-8fee-1f69-f3f44741bfdf.pak","nexusFileId":126056,"metaUuid":"b2f266ab-d569-8fee-1f69-f3f44741bfdf"},
-{"nexusFileName":"Warlock PHB2024 - ScriptExtender Patch","nexusFileVersion":"5.0.1","nexusFileUploadedAt":1785366079,"pakFileName":"WarlockAndPatronsPHB2024_b2f266ab-d569-8fee-1f69-f3f44741bfdf.pak","nexusFileId":126791,"metaUuid":"b2f266ab-d569-8fee-1f69-f3f44741bfdf"}
+{"nexusFileName":"Warlock PHB2024 - ScriptExtender Patch","nexusFileVersion":"5.2.3","nexusFileUploadedAt":1785432895,"pakFileName":"Warlock PHB2024 - ScriptExtender Patch.pak","nexusFileId":126851,"metaUuid":null}
 ]},
 "22678":{"nexusModName":"Moon Knight  - Reithwin Governor's Armor","nexusUploadedBy":"marten9","nexusModId":22678,"paks":[
 {"nexusFileName":"Moon Knight 1.3","nexusFileVersion":"1.3","nexusFileUploadedAt":1778134002,"pakFileName":"Light_Justiciar_57dfb5d1-4fbd-8a82-1e87-08e7559111f3.pak","nexusFileId":120670,"metaUuid":"57dfb5d1-4fbd-8a82-1e87-08e7559111f3"}
@@ -66160,7 +66160,7 @@
 {"nexusFileName":"Fighting Style Changes","nexusFileVersion":"1","nexusFileUploadedAt":1782605821,"pakFileName":"Fighting_Style_Rework.pak","nexusFileId":124434,"metaUuid":null}
 ]},
 "23599":{"nexusModName":"Goon's Library CHS","nexusUploadedBy":"BaiYanYueQWQ","nexusModId":23599,"paks":[
-{"nexusFileName":"Goon'S LibraryCHS","nexusFileVersion":"1","nexusFileUploadedAt":1782613963,"pakFileName":"Goon's LibraryCHS.pak","nexusFileId":124439,"metaUuid":"e0605a9c-391c-472b-a994-0957a6d7b0c4"}
+{"nexusFileName":"Goon'S LibraryCHS","nexusFileVersion":"4.16.2.0","nexusFileUploadedAt":1785431361,"pakFileName":"Goon's LibraryCHS.pak","nexusFileId":126849,"metaUuid":"e0605a9c-391c-472b-a994-0957a6d7b0c4"}
 ]},
 "23600":{"nexusModName":"Marksman - A Gunslinger class for Chinese","nexusUploadedBy":"MuDeMao","nexusModId":23600,"paks":[
 {"nexusFileName":"Marksman Classchs","nexusFileVersion":"1.2.1.0","nexusFileUploadedAt":1782643646,"pakFileName":"Marksman_Classchs.pak","nexusFileId":124461,"metaUuid":null}
@@ -66603,7 +66603,7 @@
 {"nexusFileName":"CSUK Loremaster E5ES","nexusFileVersion":"1","nexusFileUploadedAt":1784981079,"pakFileName":"CSUK_Loremaster.pak","nexusFileId":126448,"metaUuid":"1a13803e-7e33-4273-949e-00cfd779893d"}
 ]},
 "23772":{"nexusModName":"Difficulty Adjustment","nexusUploadedBy":"BaiYanYueQWQ","nexusModId":23772,"paks":[
-{"nexusFileName":"DifficultyAdjustment","nexusFileVersion":"1.6.0.2","nexusFileUploadedAt":1785296107,"pakFileName":"DifficultyAdjustment.pak","nexusFileId":126723,"metaUuid":"9c20e0b9-b5af-4675-936f-484993cb295a"}
+{"nexusFileName":"DifficultyAdjustment","nexusFileVersion":"1.6.1.0","nexusFileUploadedAt":1785431044,"pakFileName":"DifficultyAdjustment.pak","nexusFileId":126848,"metaUuid":"9c20e0b9-b5af-4675-936f-484993cb295a"}
 ]},
 "23773":{"nexusModName":"Ardeo's Jawbone - Forgotten Armoury II - Shortsword","nexusUploadedBy":"Lyniara","nexusModId":23773,"paks":[
 {"nexusFileName":"Ardeo's Jawbone","nexusFileVersion":"1.0.0.4","nexusFileUploadedAt":1783718067,"pakFileName":"LYRA_LYN_Ardeo_Jawbone_1.0.0.4.pak","nexusFileId":125371,"metaUuid":"25224e76-5de0-9336-beb9-dca7a261e3b1"},
@@ -66889,8 +66889,7 @@
 {"nexusFileName":"CorrectCounterspell","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1784063682,"pakFileName":"CorrectCounterspell_3d1b5440-1bf1-45c1-4530-097ca976bf6f.pak","nexusFileId":125655,"metaUuid":"3d1b5440-1bf1-45c1-4530-097ca976bf6f"}
 ]},
 "23881":{"nexusModName":"Best of Hands - Quick Lockpick and Disarm","nexusUploadedBy":"nymphipoo","nexusModId":23881,"paks":[
-{"nexusFileName":"Best of Hands - Quick Lockpick and Disarm","nexusFileVersion":"2.1.0","nexusFileUploadedAt":1785300340,"pakFileName":"BestofHands.pak","nexusFileId":126725,"metaUuid":"8a82593c-28a3-4ed1-8c46-3d9bacff42e1"},
-{"nexusFileName":"Test Build","nexusFileVersion":"2.1.1beta","nexusFileUploadedAt":1785338275,"pakFileName":"BestofHands.pak","nexusFileId":126756,"metaUuid":"8a82593c-28a3-4ed1-8c46-3d9bacff42e1"}
+{"nexusFileName":"Best of Hands - Quick Lockpick and Disarm","nexusFileVersion":"2.1.1","nexusFileUploadedAt":1785431646,"pakFileName":"BestofHands.pak","nexusFileId":126850,"metaUuid":"8a82593c-28a3-4ed1-8c46-3d9bacff42e1"}
 ]},
 "23883":{"nexusModName":"Dynamic Permanent Summons","nexusUploadedBy":"actualsailorcat","nexusModId":23883,"paks":[
 {"nexusFileName":"Dynamic Permanent Summons","nexusFileVersion":"1.00.01","nexusFileUploadedAt":1784135441,"pakFileName":"Dynamic Permanent Summons.pak","nexusFileId":125728,"metaUuid":"e9a6d786-ee7b-4bb1-8122-3783f192ac75"}
