@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-07-30T11:51:59.543264+00:00","total_mods":17077},
+{"_meta":{"last_run":"2026-07-30T12:53:10.994716+00:00","total_mods":17080},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -61434,7 +61434,7 @@
 ]},
 "21783":{"nexusModName":"Arch Traitor's Armor - Warhammer 40k Fan Work","nexusUploadedBy":"AeehyehssReeper","nexusModId":21783,"paks":[
 {"nexusFileName":"Dyeable Arch Traitor's Armor","nexusFileVersion":"1","nexusFileUploadedAt":1783952613,"pakFileName":"DyeableValcoran_40c6fc4d-0165-b5ea-423f-a7c1761121e3.pak","nexusFileId":125546,"metaUuid":null},
-{"nexusFileName":"Arch Traitor's Armor","nexusFileVersion":"1.2.2","nexusFileUploadedAt":1785100021,"pakFileName":"Valcoran_e179057a-cc1b-cc32-7f26-067d2a31174e.pak","nexusFileId":126558,"metaUuid":"e179057a-cc1b-cc32-7f26-067d2a31174e"}
+{"nexusFileName":"Arch Traitor's Armor","nexusFileVersion":"1.2.3","nexusFileUploadedAt":1785414647,"pakFileName":"Valcoran_e179057a-cc1b-cc32-7f26-067d2a31174e.pak","nexusFileId":126822,"metaUuid":"e179057a-cc1b-cc32-7f26-067d2a31174e"}
 ]},
 "21785":{"nexusModName":"The Viltrumite Race","nexusUploadedBy":"ukmerked","nexusModId":21785,"paks":[
 {"nexusFileName":"The Viltrumite Race - Faces of Faerun Patch","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1772925636,"pakFileName":"The Viltrumite Race - Faces of Faerun Patch.pak","nexusFileId":116291,"metaUuid":null},
@@ -67533,4 +67533,13 @@
 ]},
 "24149":{"nexusModName":"Goon's Immersive Loading Screen Hints CHS","nexusUploadedBy":"migeandend","nexusModId":24149,"paks":[
 {"nexusFileName":"Goon'S Immersive Loading Screen Hints CHS","nexusFileVersion":"1.0.2.0","nexusFileUploadedAt":1785411446,"pakFileName":"Goon's Immersive Loading Screen Hints CHS.pak","nexusFileId":126819,"metaUuid":null}
+]},
+"24150":{"nexusModName":"Githyanki Weapons are no longer restricted by race","nexusUploadedBy":"2902021158","nexusModId":24150,"paks":[
+{"nexusFileName":"Githyanki Weapons are no longer restricted by race","nexusFileVersion":"1","nexusFileUploadedAt":1785414268,"pakFileName":"GithyankiItemsForAll.pak","nexusFileId":126820,"metaUuid":null}
+]},
+"24151":{"nexusModName":"Traps Force Turn Based","nexusUploadedBy":"Nzx","nexusModId":24151,"paks":[
+{"nexusFileName":"Traps Force Turn Based","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1785414608,"pakFileName":"Traps Force Turn Based.pak","nexusFileId":126821,"metaUuid":null}
+]},
+"24152":{"nexusModName":"Blink Dog","nexusUploadedBy":"PupFenrir20","nexusModId":24152,"paks":[
+{"nexusFileName":"Blink Dog","nexusFileVersion":"1","nexusFileUploadedAt":1785414947,"pakFileName":"Blink Dog.pak","nexusFileId":126823,"metaUuid":null}
 ]}}
