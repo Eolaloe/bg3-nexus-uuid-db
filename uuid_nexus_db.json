@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-07-30T12:53:10.994716+00:00","total_mods":17080},
+{"_meta":{"last_run":"2026-07-30T13:51:49.000195+00:00","total_mods":17082},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -49965,7 +49965,7 @@
 {"nexusFileName":"Less Magic Items","nexusFileVersion":"1.5.0","nexusFileUploadedAt":1774045243,"pakFileName":"Less Magic Items.pak","nexusFileId":117138,"metaUuid":null}
 ]},
 "17948":{"nexusModName":"Post-Battle Refresh","nexusUploadedBy":"swissfred","nexusModId":17948,"paks":[
-{"nexusFileName":"Post-Battle Refresh","nexusFileVersion":"1.0.8.6","nexusFileUploadedAt":1784366431,"pakFileName":"PostBattleRefresh_6227a1d9-8533-1d64-9a05-0adafcfd94ec.pak","nexusFileId":125922,"metaUuid":"6227a1d9-8533-1d64-9a05-0adafcfd94ec"}
+{"nexusFileName":"Post-Battle Refresh","nexusFileVersion":"1.0.8.8","nexusFileUploadedAt":1785418061,"pakFileName":"PostBattleRefresh_6227a1d9-8533-1d64-9a05-0adafcfd94ec.pak","nexusFileId":126829,"metaUuid":"6227a1d9-8533-1d64-9a05-0adafcfd94ec"}
 ]},
 "17949":{"nexusModName":"Container Spells Multiclassing Fix","nexusUploadedBy":"KowboyBebop","nexusModId":17949,"paks":[
 {"nexusFileName":"Container Spells Multiclassing Fix","nexusFileVersion":"1.0","nexusFileUploadedAt":1754139330,"pakFileName":"ContainerSpellsMulticlassingFix.pak","nexusFileId":99705,"metaUuid":"f41bd8cf-43f3-4519-a401-5628abb76c63"}
@@ -65426,7 +65426,7 @@
 {"nexusFileName":"Awakened Morninglord's Morningstar","nexusFileVersion":"1.0.1","nexusFileUploadedAt":1780865334,"pakFileName":"Awakened Morninglord's Morningstar Compatibility Patch.pak","nexusFileId":123106,"metaUuid":"a4bc95d6-d14f-4ce5-8401-222937128234"}
 ]},
 "23247":{"nexusModName":"Advanced Enemy Randomizer","nexusUploadedBy":"celerev","nexusModId":23247,"paks":[
-{"nexusFileName":"AERando.zip","nexusFileVersion":"0.9.9.0","nexusFileUploadedAt":1785394705,"pakFileName":"AERando.pak","nexusFileId":126812,"metaUuid":"1ec28411-fbaf-43ba-ad7b-092aa678c0dc"}
+{"nexusFileName":"AERando.zip","nexusFileVersion":"0.9.9.1","nexusFileUploadedAt":1785418621,"pakFileName":"AERando.pak","nexusFileId":126830,"metaUuid":"1ec28411-fbaf-43ba-ad7b-092aa678c0dc"}
 ]},
 "23248":{"nexusModName":"Sharran Weaponry by AzazeL (WIP)_JP","nexusUploadedBy":"Akazonae36","nexusModId":23248,"paks":[
 {"nexusFileName":"Aza Sharran Weaponry WIP JP","nexusFileVersion":"1","nexusFileUploadedAt":1780802520,"pakFileName":"Aza_Sharran_Weaponry_WIP_JP.pak","nexusFileId":123036,"metaUuid":null}
@@ -67528,6 +67528,12 @@
 "24144":{"nexusModName":"Wyll's Better Starting Gear (PT-BR)","nexusUploadedBy":"Firetoga","nexusModId":24144,"paks":[
 {"nexusFileName":"Wyll's Better Starting Gear (PT-BR)","nexusFileVersion":"2.0","nexusFileUploadedAt":1785369843,"pakFileName":"Aza_BSG_Wyll_BR.pak","nexusFileId":126797,"metaUuid":null}
 ]},
+"24147":{"nexusModName":"Dark Urge Voice Toggle","nexusUploadedBy":"magnetuning","nexusModId":24147,"paks":[
+{"nexusFileName":"Dark Urge Voice Toggle - Default ON for Durge","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1785415892,"pakFileName":"MGNTN_DurgeVoiceToggle_DefaultON.pak","nexusFileId":126824,"metaUuid":null},
+{"nexusFileName":"Dark Urge Voice Toggle - Default OFF","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1785415962,"pakFileName":"MGNTN_DurgeVoiceToggle_DefaultOFF.pak","nexusFileId":126825,"metaUuid":null},
+{"nexusFileName":"Dark Urge Voice Toggle - Story Based","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1785416143,"pakFileName":"MGNTN_DurgeVoiceToggle_StoryBased.pak","nexusFileId":126826,"metaUuid":null},
+{"nexusFileName":"Dark Urge Voice Disabled","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1785416233,"pakFileName":"MGNTN_DurgeVoiceDisabled.pak","nexusFileId":126827,"metaUuid":null}
+]},
 "24148":{"nexusModName":"Ferrety's Features - Vampirism (PT-BR)","nexusUploadedBy":"Firetoga","nexusModId":24148,"paks":[
 {"nexusFileName":"Ferrety's Features - Vampirism (PT-BR)","nexusFileVersion":"1.0.11.2","nexusFileUploadedAt":1785382299,"pakFileName":"Ferrety's Features - Vampirism (Tradução PT-BR).pak","nexusFileId":126806,"metaUuid":null}
 ]},
@@ -67542,4 +67548,7 @@
 ]},
 "24152":{"nexusModName":"Blink Dog","nexusUploadedBy":"PupFenrir20","nexusModId":24152,"paks":[
 {"nexusFileName":"Blink Dog","nexusFileVersion":"1","nexusFileUploadedAt":1785414947,"pakFileName":"Blink Dog.pak","nexusFileId":126823,"metaUuid":null}
+]},
+"24153":{"nexusModName":"Crab","nexusUploadedBy":"PupFenrir20","nexusModId":24153,"paks":[
+{"nexusFileName":"Crab","nexusFileVersion":"1","nexusFileUploadedAt":1785417932,"pakFileName":"Crab.pak","nexusFileId":126828,"metaUuid":null}
 ]}}
