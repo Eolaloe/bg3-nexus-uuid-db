@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-07-30T14:52:25.105923+00:00","total_mods":17085},
+{"_meta":{"last_run":"2026-07-30T15:51:57.917794+00:00","total_mods":17085},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -67165,14 +67165,9 @@
 "23992":{"nexusModName":"Body and Clothing Morphs for SBBF and BCB (by SerpentineShel) v. 1.2","nexusUploadedBy":"SerpentineShel","nexusModId":23992,"paks":[
 {"nexusFileName":"BodyAndClothingMorph V1.2 BCB Addon","nexusFileVersion":"1.2","nexusFileUploadedAt":1785293502,"pakFileName":"ClothMorphBCB.pak","nexusFileId":126718,"metaUuid":"78f1571f-ffb5-5646-8a5b-63aac7ce2ecd"},
 {"nexusFileName":"BodyAndClothingMorph V1.2 SCO Addon","nexusFileVersion":"1.2","nexusFileUploadedAt":1785293633,"pakFileName":"ClothMorphSCO.pak","nexusFileId":126720,"metaUuid":"78f1571f-ffb5-5646-8a5b-63aac7ce2ecd"},
-{"nexusFileName":"BodyAndClothingMorph V1.2.1 AIO","nexusFileVersion":"1.2.1","nexusFileUploadedAt":1785395103,"pakFileName":"ClothMorphBCB.pak","nexusFileId":126813,"metaUuid":"78f1571f-ffb5-5646-8a5b-63aac7ce2ecd"},
-{"nexusFileName":"BodyAndClothingMorph V1.2.1 AIO","nexusFileVersion":"1.2.1","nexusFileUploadedAt":1785395103,"pakFileName":"ClothMorphContent.pak","nexusFileId":126813,"metaUuid":null},
-{"nexusFileName":"BodyAndClothingMorph V1.2.1 AIO","nexusFileVersion":"1.2.1","nexusFileUploadedAt":1785395103,"pakFileName":"ClothMorphGithyanki.pak","nexusFileId":126813,"metaUuid":"78f1571f-ffb5-5646-8a5b-63aac7ce2ecd"},
-{"nexusFileName":"BodyAndClothingMorph V1.2.1 AIO","nexusFileVersion":"1.2.1","nexusFileUploadedAt":1785395103,"pakFileName":"ClothMorphRuntime.pak","nexusFileId":126813,"metaUuid":null},
-{"nexusFileName":"BodyAndClothingMorph V1.2.1 AIO","nexusFileVersion":"1.2.1","nexusFileUploadedAt":1785395103,"pakFileName":"ClothMorphSCO.pak","nexusFileId":126813,"metaUuid":"78f1571f-ffb5-5646-8a5b-63aac7ce2ecd"},
-{"nexusFileName":"BodyAndClothingMorph V1.2.1 Base","nexusFileVersion":"1.2.1","nexusFileUploadedAt":1785395230,"pakFileName":"ClothMorphContent.pak","nexusFileId":126814,"metaUuid":null},
-{"nexusFileName":"BodyAndClothingMorph V1.2.1 Base","nexusFileVersion":"1.2.1","nexusFileUploadedAt":1785395230,"pakFileName":"ClothMorphRuntime.pak","nexusFileId":126814,"metaUuid":null},
-{"nexusFileName":"BodyAndClothingMorph Githyanki Addon V1.2.1","nexusFileVersion":"1.2.1","nexusFileUploadedAt":1785420389,"pakFileName":"ClothMorphGithyanki.pak","nexusFileId":126834,"metaUuid":"78f1571f-ffb5-5646-8a5b-63aac7ce2ecd"}
+{"nexusFileName":"BodyAndClothingMorph V1.2.2 UPDATED INCL GITHYANKI","nexusFileVersion":"1.2.2","nexusFileUploadedAt":1785424714,"pakFileName":"ClothMorphGithyanki.pak","nexusFileId":126839,"metaUuid":"78f1571f-ffb5-5646-8a5b-63aac7ce2ecd"},
+{"nexusFileName":"BodyAndClothingMorph V1.2.2 UPDATED INCL GITHYANKI","nexusFileVersion":"1.2.2","nexusFileUploadedAt":1785424714,"pakFileName":"ClothMorphRuntime.pak","nexusFileId":126839,"metaUuid":null},
+{"nexusFileName":"ClothMorphContent V. 1.2.2","nexusFileVersion":"1.2.2","nexusFileUploadedAt":1785425321,"pakFileName":"ClothMorphContent.pak","nexusFileId":126840,"metaUuid":null}
 ]},
 "23993":{"nexusModName":"Planescapes","nexusUploadedBy":"Terrorbyte33","nexusModId":23993,"paks":[
 {"nexusFileName":"Planescapes","nexusFileVersion":"1","nexusFileUploadedAt":1784673215,"pakFileName":"Planescapes.pak","nexusFileId":126179,"metaUuid":"a059bd02-ebc7-b895-238d-9cc93d8e5c47"}
@@ -67267,7 +67262,7 @@
 {"nexusFileName":"Darkest Dungeon","nexusFileVersion":"1","nexusFileUploadedAt":1784822454,"pakFileName":"难度-极暗地牢 Darkest Dungeon.pak","nexusFileId":126303,"metaUuid":"62643666-8bba-7e49-3203-0eeb6b9a6fbd"}
 ]},
 "24024":{"nexusModName":"MFM POSE PACK (BT2xBT1xBT2) by badgrlsblog","nexusUploadedBy":"badgrlsblog","nexusModId":24024,"paks":[
-{"nexusFileName":"Bgb MFM POSE PACK","nexusFileVersion":"1","nexusFileUploadedAt":1784818991,"pakFileName":"bgb_MFM_POSE_PACK_1_c591ec61-9455-7c08-0553-4091277db896.pak","nexusFileId":126298,"metaUuid":"c591ec61-9455-7c08-0553-4091277db896"}
+{"nexusFileName":"bgb MFM POSE PACK ","nexusFileVersion":"2","nexusFileUploadedAt":1785425804,"pakFileName":"bgb_MFM_POSE_PACK_1_c591ec61-9455-7c08-0553-4091277db896.pak","nexusFileId":126841,"metaUuid":"c591ec61-9455-7c08-0553-4091277db896"}
 ]},
 "24025":{"nexusModName":"Transmog Enhanced Revamped (PT-BR)","nexusUploadedBy":"Firetoga","nexusModId":24025,"paks":[
 {"nexusFileName":"Transmog Enhanced Revamped (PT-BR)","nexusFileVersion":"v1.3.6","nexusFileUploadedAt":1784819020,"pakFileName":"TransmogEnhanced_Revamped_BR.pak","nexusFileId":126299,"metaUuid":null}
