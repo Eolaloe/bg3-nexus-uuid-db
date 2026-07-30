@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-07-30T15:51:57.917794+00:00","total_mods":17085},
+{"_meta":{"last_run":"2026-07-30T16:51:59.028107+00:00","total_mods":17087},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -67527,6 +67527,11 @@
 "24144":{"nexusModName":"Wyll's Better Starting Gear (PT-BR)","nexusUploadedBy":"Firetoga","nexusModId":24144,"paks":[
 {"nexusFileName":"Wyll's Better Starting Gear (PT-BR)","nexusFileVersion":"2.0","nexusFileUploadedAt":1785369843,"pakFileName":"Aza_BSG_Wyll_BR.pak","nexusFileId":126797,"metaUuid":null}
 ]},
+"24146":{"nexusModName":"Randomized Item Framework - RIF","nexusUploadedBy":"GraphicFade","nexusModId":24146,"paks":[
+{"nexusFileName":"RIF AddOn Example","nexusFileVersion":"1.0.0.1b","nexusFileUploadedAt":1785427539,"pakFileName":"RIF_AddOn.pak","nexusFileId":126843,"metaUuid":null},
+{"nexusFileName":"RIF Jaydunna Addon","nexusFileVersion":"1.0.0.1c","nexusFileUploadedAt":1785428934,"pakFileName":"RIF_Addon_JayDunna_4a50a8f3-c42d-3859-c497-d21603deeb9a.pak","nexusFileId":126844,"metaUuid":null},
+{"nexusFileName":"Randomized Item Framework","nexusFileVersion":"1.0.0.2","nexusFileUploadedAt":1785430105,"pakFileName":"Randomized_Item_Framework_413ec483-da7b-faeb-ef42-b6b9fa7075fa.pak","nexusFileId":126847,"metaUuid":null}
+]},
 "24147":{"nexusModName":"Dark Urge Voice Toggle","nexusUploadedBy":"magnetuning","nexusModId":24147,"paks":[
 {"nexusFileName":"Dark Urge Voice Toggle - Default ON for Durge","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1785415892,"pakFileName":"MGNTN_DurgeVoiceToggle_DefaultON.pak","nexusFileId":126824,"metaUuid":null},
 {"nexusFileName":"Dark Urge Voice Toggle - Default OFF","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1785415962,"pakFileName":"MGNTN_DurgeVoiceToggle_DefaultOFF.pak","nexusFileId":126825,"metaUuid":null},
@@ -67534,7 +67539,7 @@
 {"nexusFileName":"Dark Urge Voice Disabled","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1785416233,"pakFileName":"MGNTN_DurgeVoiceDisabled.pak","nexusFileId":126827,"metaUuid":null}
 ]},
 "24148":{"nexusModName":"Ferrety's Features - Vampirism (PT-BR)","nexusUploadedBy":"Firetoga","nexusModId":24148,"paks":[
-{"nexusFileName":"Ferrety's Features - Vampirism (PT-BR)","nexusFileVersion":"1.0.11.2","nexusFileUploadedAt":1785382299,"pakFileName":"Ferrety's Features - Vampirism (Tradução PT-BR).pak","nexusFileId":126806,"metaUuid":null}
+{"nexusFileName":"Ferrety's Features - Vampirism (PT-BR)","nexusFileVersion":"1.0.11.2.1","nexusFileUploadedAt":1785429203,"pakFileName":"Ferrety's Features - Vampirism (Tradução PT-BR).pak","nexusFileId":126845,"metaUuid":null}
 ]},
 "24149":{"nexusModName":"Goon's Immersive Loading Screen Hints CHS","nexusUploadedBy":"migeandend","nexusModId":24149,"paks":[
 {"nexusFileName":"Goon'S Immersive Loading Screen Hints CHS","nexusFileVersion":"1.0.2.0","nexusFileUploadedAt":1785411446,"pakFileName":"Goon's Immersive Loading Screen Hints CHS.pak","nexusFileId":126819,"metaUuid":null}
@@ -67556,4 +67561,7 @@
 ]},
 "24155":{"nexusModName":"Bugbear - Race Mod","nexusUploadedBy":"PupFenrir20","nexusModId":24155,"paks":[
 {"nexusFileName":"Bugbear","nexusFileVersion":"1","nexusFileUploadedAt":1785422136,"pakFileName":"Bugbear.pak","nexusFileId":126837,"metaUuid":null}
+]},
+"24156":{"nexusModName":"Rogue Class Expansion","nexusUploadedBy":"dama10032","nexusModId":24156,"paks":[
+{"nexusFileName":"Rogue Class Expansion","nexusFileVersion":"1","nexusFileUploadedAt":1785427453,"pakFileName":"游荡者调整 RogueFix.pak","nexusFileId":126842,"metaUuid":null}
 ]}}
