@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-07-29T23:52:15.959450+00:00","total_mods":17073},
+{"_meta":{"last_run":"2026-07-30T01:52:04.273935+00:00","total_mods":17074},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -23678,7 +23678,7 @@
 {"nexusFileName":"Extension for Succubus-new class ITA","nexusFileVersion":"0.72","nexusFileUploadedAt":1710778151,"pakFileName":"succubus-custom0.72 - ITA.pak","nexusFileId":50531,"metaUuid":null}
 ]},
 "8001":{"nexusModName":"Pirates and Rebels","nexusUploadedBy":"Cerberry","nexusModId":8001,"paks":[
-{"nexusFileName":"Pirates and Rebels","nexusFileVersion":"1.5","nexusFileUploadedAt":1727862418,"pakFileName":"CBR_Pirates_Rebels.pak","nexusFileId":73572,"metaUuid":null},
+{"nexusFileName":"Pirates and Rebels","nexusFileVersion":"1.5","nexusFileUploadedAt":1727862418,"pakFileName":"CBR_Pirates_Rebels.pak","nexusFileId":73572,"metaUuid":"c845e560-7752-4c8e-ba87-90955e78b9e3"},
 {"nexusFileName":"Pirates and Rebels -  No Vendors","nexusFileVersion":"1.5","nexusFileUploadedAt":1727862463,"pakFileName":"CBR_Pirates_Rebels.pak","nexusFileId":73573,"metaUuid":"c845e560-7752-4c8e-ba87-90955e78b9e3"}
 ]},
 "8002":{"nexusModName":"JST's Additional Feats (KR)","nexusUploadedBy":"Jeshtriver","nexusModId":8002,"paks":[
@@ -45490,10 +45490,10 @@
 "16384":{"nexusModName":"Clawstep - Dragonborn body - Digitigrade legs","nexusUploadedBy":"AkELkA","nexusModId":16384,"paks":[
 {"nexusFileName":"Clawstep - UTAV patch - PAK","nexusFileVersion":"1.0.0.1","nexusFileUploadedAt":1756983782,"pakFileName":"Clawstep - UTAV patch - PAK.pak","nexusFileId":102046,"metaUuid":"0895bf8e-4c9a-4ebc-b983-f551d10d6ba2"},
 {"nexusFileName":"Clawstep - Dragonborn body - Digitigrade legs","nexusFileVersion":"1.0.0.41","nexusFileUploadedAt":1761535981,"pakFileName":"DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a.pak","nexusFileId":106089,"metaUuid":"533a435e-8c13-bc21-7cfc-48c3a322e29a"},
-{"nexusFileName":"Clawstep Lazy Armor Patch - Breast","nexusFileVersion":"1.0.0.4","nexusFileUploadedAt":1781151131,"pakFileName":"ZZZ_Lazy_Armor_Patcher_BRST_a913a8a0-ce9c-2f8f-af29-e1ba302de852.pak","nexusFileId":123308,"metaUuid":"a913a8a0-ce9c-2f8f-af29-e1ba302de852"},
-{"nexusFileName":"Clawstep Lazy Armor Patch - Akm - Breast","nexusFileVersion":"1.0.0.2","nexusFileUploadedAt":1781151738,"pakFileName":"ZZZ_Lazy_Armor_Patcher_Akm_BRST_976f7aa0-562d-54cb-4d33-8117f5593ad9.pak","nexusFileId":123309,"metaUuid":"976f7aa0-562d-54cb-4d33-8117f5593ad9"},
 {"nexusFileName":"Clawstep Lazy Armor Patch","nexusFileVersion":"1.0.0.10","nexusFileUploadedAt":1785364564,"pakFileName":"ZZZ_Lazy_Armor_Patcher_c072eaf2-13e1-abb3-10e2-3b58483eb770.pak","nexusFileId":126789,"metaUuid":"c072eaf2-13e1-abb3-10e2-3b58483eb770"},
-{"nexusFileName":"Clawstep Lazy Armor Patch - Akm","nexusFileVersion":"1.0.0.3","nexusFileUploadedAt":1785367521,"pakFileName":"ZZZ_Lazy_Armor_Patcher_Akm_6fe607d6-0989-995e-d952-98927df6b931.pak","nexusFileId":126793,"metaUuid":"6fe607d6-0989-995e-d952-98927df6b931"}
+{"nexusFileName":"Clawstep Lazy Armor Patch - Akm","nexusFileVersion":"1.0.0.3","nexusFileUploadedAt":1785367521,"pakFileName":"ZZZ_Lazy_Armor_Patcher_Akm_6fe607d6-0989-995e-d952-98927df6b931.pak","nexusFileId":126793,"metaUuid":"6fe607d6-0989-995e-d952-98927df6b931"},
+{"nexusFileName":"Clawstep Lazy Armor Patch - Akm - Breast","nexusFileVersion":"1.0.0.3","nexusFileUploadedAt":1785369181,"pakFileName":"ZZZ_Lazy_Armor_Patcher_Akm_BRST_976f7aa0-562d-54cb-4d33-8117f5593ad9.pak","nexusFileId":126796,"metaUuid":"976f7aa0-562d-54cb-4d33-8117f5593ad9"},
+{"nexusFileName":"Clawstep Lazy Armor Patch - Breast","nexusFileVersion":"1.0.0.5","nexusFileUploadedAt":1785369958,"pakFileName":"ZZZ_Lazy_Armor_Patcher_BRST_a913a8a0-ce9c-2f8f-af29-e1ba302de852.pak","nexusFileId":126798,"metaUuid":"a913a8a0-ce9c-2f8f-af29-e1ba302de852"}
 ]},
 "16385":{"nexusModName":"Character Tag Ring CHS","nexusUploadedBy":"LaundryDragonmaidOfficial","nexusModId":16385,"paks":[
 {"nexusFileName":"character_tag_ringCHS","nexusFileVersion":"1.0.2.0","nexusFileUploadedAt":1749723942,"pakFileName":"character_tag_ringCHS.pak","nexusFileId":95689,"metaUuid":null}
@@ -66242,7 +66242,7 @@
 "23626":{"nexusModName":"Poison archer equipment","nexusUploadedBy":"Saihara69","nexusModId":23626,"paks":[
 {"nexusFileName":"Poison archer equipment","nexusFileVersion":"1.1.1.0","nexusFileUploadedAt":1782860003,"pakFileName":"Poisonarcherequipment.pak","nexusFileId":124612,"metaUuid":"df095d6f-6225-4fbc-91da-6689710ec4f7"}
 ]},
-"23627":{"nexusModName":"Forsaken Shard - Forgotten Armoury Part I - Longsword","nexusUploadedBy":"Lyniara","nexusModId":23627,"paks":[
+"23627":{"nexusModName":"Forsaken Shard - Forgotten Armoury I - Longsword","nexusUploadedBy":"Lyniara","nexusModId":23627,"paks":[
 {"nexusFileName":"ForsakenShard - Tutorial Chest Addon","nexusFileVersion":"1","nexusFileUploadedAt":1782841582,"pakFileName":"ForsakenShard - Tut Chest Addon.pak","nexusFileId":124602,"metaUuid":"41202317-3364-41ae-b4e9-75778bea82a8"},
 {"nexusFileName":"Forsaken Shard","nexusFileVersion":"1.0.0.7","nexusFileUploadedAt":1785172874,"pakFileName":"ForsakenShard_1.0.0.7.pak","nexusFileId":126601,"metaUuid":"729413cd-3789-acf6-c7fc-a268d611d9e0"}
 ]},
@@ -66604,7 +66604,7 @@
 "23772":{"nexusModName":"Difficulty Adjustment","nexusUploadedBy":"BaiYanYueQWQ","nexusModId":23772,"paks":[
 {"nexusFileName":"DifficultyAdjustment","nexusFileVersion":"1.6.0.2","nexusFileUploadedAt":1785296107,"pakFileName":"DifficultyAdjustment.pak","nexusFileId":126723,"metaUuid":"9c20e0b9-b5af-4675-936f-484993cb295a"}
 ]},
-"23773":{"nexusModName":"Ardeo's Jawbone - Forgotten Armoury Part II - Shortsword","nexusUploadedBy":"Lyniara","nexusModId":23773,"paks":[
+"23773":{"nexusModName":"Ardeo's Jawbone - Forgotten Armoury II - Shortsword","nexusUploadedBy":"Lyniara","nexusModId":23773,"paks":[
 {"nexusFileName":"Ardeo's Jawbone","nexusFileVersion":"1.0.0.4","nexusFileUploadedAt":1783718067,"pakFileName":"LYRA_LYN_Ardeo_Jawbone_1.0.0.4.pak","nexusFileId":125371,"metaUuid":"25224e76-5de0-9336-beb9-dca7a261e3b1"},
 {"nexusFileName":"Ardeo's Jawbone - Tutorial Chest Addon","nexusFileVersion":"1","nexusFileUploadedAt":1783718179,"pakFileName":"Ardeo Jawbone - Tut Chest Addon.pak","nexusFileId":125372,"metaUuid":"503bb6cb-be06-412f-a810-f15d1594fc25"}
 ]},
@@ -67520,4 +67520,7 @@
 ]},
 "24140":{"nexusModName":"merry's yvette and tonya","nexusUploadedBy":"merryvale","nexusModId":24140,"paks":[
 {"nexusFileName":"merry's yvette And tonya","nexusFileVersion":"1","nexusFileUploadedAt":1785347459,"pakFileName":"merryvale's yvette and tonya.pak","nexusFileId":126779,"metaUuid":null}
+]},
+"24144":{"nexusModName":"Wyll's Better Starting Gear (PT-BR)","nexusUploadedBy":"Firetoga","nexusModId":24144,"paks":[
+{"nexusFileName":"Wyll's Better Starting Gear (PT-BR)","nexusFileVersion":"2.0","nexusFileUploadedAt":1785369843,"pakFileName":"Aza_BSG_Wyll_BR.pak","nexusFileId":126797,"metaUuid":null}
 ]}}
