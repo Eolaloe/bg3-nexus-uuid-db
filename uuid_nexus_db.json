@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-07-30T22:51:58.702714+00:00","total_mods":17089},
+{"_meta":{"last_run":"2026-07-30T23:51:41.468108+00:00","total_mods":17090},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -66329,7 +66329,7 @@
 ]},
 "23665":{"nexusModName":"Aylin and Isobel Join the Party","nexusUploadedBy":"WorldWalker42","nexusModId":23665,"paks":[
 {"nexusFileName":"Aylin and Isobel Dyes","nexusFileVersion":"1","nexusFileUploadedAt":1783114786,"pakFileName":"AylinIsobelDyes_3541bc06-67c1-b54d-cd66-40a812ce6d46.pak","nexusFileId":124815,"metaUuid":"3541bc06-67c1-b54d-cd66-40a812ce6d46"},
-{"nexusFileName":"Aylin and Isobel Join the Party","nexusFileVersion":"1.0.2.9","nexusFileUploadedAt":1783617945,"pakFileName":"WW_AylinIsobelJoinParty_9ef1089a-2941-94e0-99c3-5efebb69f9de.pak","nexusFileId":125292,"metaUuid":"9ef1089a-2941-94e0-99c3-5efebb69f9de"}
+{"nexusFileName":"Aylin and Isobel Join the Party","nexusFileVersion":"1.1.0.69","nexusFileUploadedAt":1785455201,"pakFileName":"WW_AylinIsobelJoinParty_9ef1089a-2941-94e0-99c3-5efebb69f9de.pak","nexusFileId":126865,"metaUuid":"9ef1089a-2941-94e0-99c3-5efebb69f9de"}
 ]},
 "23666":{"nexusModName":"KillCam - Cinematic Combat Mod","nexusUploadedBy":"Tyr4nTX","nexusModId":23666,"paks":[
 {"nexusFileName":"BG3CinematicCombat V1.1","nexusFileVersion":"1.1","nexusFileUploadedAt":1783335399,"pakFileName":"BG3CinematicCombat.pak","nexusFileId":125038,"metaUuid":"c3a1f5e8-9d2b-4a7c-b6e0-8f4d2c1a5b3e"}
@@ -67494,8 +67494,8 @@
 {"nexusFileName":"ItemModSource","nexusFileVersion":"1","nexusFileUploadedAt":1785251250,"pakFileName":"ItemModSource.pak","nexusFileId":126671,"metaUuid":"7e9a6a31-caed-4a66-9815-fd149c981e51"}
 ]},
 "24124":{"nexusModName":"Ember's Wardrobe (Thirteen-Hour Court Regalia)","nexusUploadedBy":"Ariefel","nexusModId":24124,"paks":[
-{"nexusFileName":"emberswardrobe-thegoblinking","nexusFileVersion":"1.0.0.10","nexusFileUploadedAt":1785265399,"pakFileName":"EmbersWardrobe-GK_3e2f33ec-e774-46df-a98c-6d550ac62957.pak","nexusFileId":126694,"metaUuid":"3e2f33ec-e774-46df-a98c-6d550ac62957"},
-{"nexusFileName":"emberswardrobe-thegoblinking-4k","nexusFileVersion":"1.0.0.2","nexusFileUploadedAt":1785282142,"pakFileName":"EmbersWardrobe-GK-4K_5ab666e5-d2c1-d68e-04a4-189143d1d1f3.pak","nexusFileId":126709,"metaUuid":null}
+{"nexusFileName":"emberswardrobe-thegoblinking","nexusFileVersion":"1.1.0.5","nexusFileUploadedAt":1785452909,"pakFileName":"EmbersWardrobe-GK_3e2f33ec-e774-46df-a98c-6d550ac62957.pak","nexusFileId":126863,"metaUuid":"3e2f33ec-e774-46df-a98c-6d550ac62957"},
+{"nexusFileName":"emberswardrobe-thegoblinking-4k","nexusFileVersion":"1.1.0.1","nexusFileUploadedAt":1785453000,"pakFileName":"EmbersWardrobe-GK-4K_5ab666e5-d2c1-d68e-04a4-189143d1d1f3.pak","nexusFileId":126864,"metaUuid":null}
 ]},
 "24128":{"nexusModName":"Spineful - Forgotten Armoury IV - Greatsword and Dagger","nexusUploadedBy":"Lyniara","nexusModId":24128,"paks":[
 {"nexusFileName":"Tutorial Chest Addon","nexusFileVersion":"1","nexusFileUploadedAt":1785292266,"pakFileName":"Spineful - Tut Chest Addon.pak","nexusFileId":126715,"metaUuid":null},
@@ -67569,4 +67569,7 @@
 ]},
 "24161":{"nexusModName":"Silence Character Creator","nexusUploadedBy":"FortisEstVeritas","nexusModId":24161,"paks":[
 {"nexusFileName":"Silence Character Creator Questions","nexusFileVersion":"1.0","nexusFileUploadedAt":1785442694,"pakFileName":"Silence Character Creator Questions.pak","nexusFileId":126860,"metaUuid":null}
+]},
+"24164":{"nexusModName":"Panther Prowl Fix","nexusUploadedBy":"SaberDelta","nexusModId":24164,"paks":[
+{"nexusFileName":"PantherProwlFix V1.1","nexusFileVersion":"1","nexusFileUploadedAt":1785452134,"pakFileName":"PantherProwlFix_v1.1.pak","nexusFileId":126862,"metaUuid":null}
 ]}}
