@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-07-30T04:52:18.279008+00:00","total_mods":17075},
+{"_meta":{"last_run":"2026-07-30T05:52:40.797776+00:00","total_mods":17076},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -65776,7 +65776,7 @@
 "23409":{"nexusModName":"The Watcher's Gaze","nexusUploadedBy":"chain181","nexusModId":23409,"paks":[
 {"nexusFileName":"Helmet Variants 63d79229 756c 4cr6","nexusFileVersion":"1","nexusFileUploadedAt":1781637307,"pakFileName":"Helmet_Variants_63d79229-756c-3b69-f7b4-35c0491077a6.pak","nexusFileId":123727,"metaUuid":"63d79229-756c-3b69-f7b4-35c0491077a6"}
 ]},
-"23411":{"nexusModName":"All In Game Gears Mod","nexusUploadedBy":"BigBlackCorgi","nexusModId":23411,"paks":[
+"23411":{"nexusModName":"All In Game Gears Chest","nexusUploadedBy":"BigBlackCorgi","nexusModId":23411,"paks":[
 {"nexusFileName":"AllGearsChest_Vanilla (6)","nexusFileVersion":"6","nexusFileUploadedAt":1785124323,"pakFileName":"AllGearChestSE.pak","nexusFileId":126579,"metaUuid":"19440557-14dc-474d-93e9-60d09b157b51"}
 ]},
 "23413":{"nexusModName":"BG3WASD Camera Follow (Fork) - Smooth Camera Modes","nexusUploadedBy":"snowwy123","nexusModId":23413,"paks":[
@@ -67396,6 +67396,9 @@
 "24077":{"nexusModName":"Crush XP Fix","nexusUploadedBy":"faerryn","nexusModId":24077,"paks":[
 {"nexusFileName":"CrushXPFix","nexusFileVersion":"1","nexusFileUploadedAt":1785008629,"pakFileName":"CrushXPFix.pak","nexusFileId":126485,"metaUuid":"e89851d7-4b87-4a77-9234-6c0e3f2b6b9b"}
 ]},
+"24078":{"nexusModName":"Weapon Mastery Expanded","nexusUploadedBy":"SilverCrossfire","nexusModId":24078,"paks":[
+{"nexusFileName":"WeaponMasteryExpanded","nexusFileVersion":"1.0.0.1","nexusFileUploadedAt":1785387781,"pakFileName":"WeaponMasteryExpanded_97994621-1a7c-700c-0d4c-ff553f0db936.pak","nexusFileId":126809,"metaUuid":null}
+]},
 "24079":{"nexusModName":"Manalis' Weapon Actions","nexusUploadedBy":"EmyioAzachi","nexusModId":24079,"paks":[
 {"nexusFileName":"AllWeaponsSkills PerCombat (Once Per Fight - EN)","nexusFileVersion":"1","nexusFileUploadedAt":1785012901,"pakFileName":"AllWeaponsSkills_PerCombat_c59021b1-f908-0265-073b-ee91b1e80d44.pak","nexusFileId":126488,"metaUuid":"c59021b1-f908-0265-073b-ee91b1e80d44"},
 {"nexusFileName":"AllWeaponsSkills PerCombat (Per Short Rest - EN)","nexusFileVersion":"1","nexusFileUploadedAt":1785013051,"pakFileName":"AllWeaponsSkills_PerCombat_c59021b1-f908-0265-073b-ee91b1e80d44.pak","nexusFileId":126489,"metaUuid":"c59021b1-f908-0265-073b-ee91b1e80d44"},
@@ -67420,7 +67423,7 @@
 {"nexusFileName":"TavEpilogueGearReplacer Nightwhite NON-AIO","nexusFileVersion":"1","nexusFileUploadedAt":1785275523,"pakFileName":"TavEpilogueGearReplacer_Nightwhite_single.pak","nexusFileId":126701,"metaUuid":null}
 ]},
 "24083":{"nexusModName":"Equipment and Outfit Quick Switch","nexusUploadedBy":"Scor66","nexusModId":24083,"paks":[
-{"nexusFileName":"BagChangeOfClothes","nexusFileVersion":"1","nexusFileUploadedAt":1785032813,"pakFileName":"Scor_BagChangeOfClothes.pak","nexusFileId":126500,"metaUuid":"ad8ace47-93ae-4299-8e61-b27cf808065e"}
+{"nexusFileName":"BagChangeOfClothes","nexusFileVersion":"2","nexusFileUploadedAt":1785387997,"pakFileName":"Scor_BagChangeOfClothes.pak","nexusFileId":126810,"metaUuid":"ad8ace47-93ae-4299-8e61-b27cf808065e"}
 ]},
 "24084":{"nexusModName":"Dynamic_Camp_Supply_Cost_CHS","nexusUploadedBy":"everywherewind","nexusModId":24084,"paks":[
 {"nexusFileName":"Dynamic Camp Supply Cost Chs 3 Pkbe","nexusFileVersion":"1","nexusFileUploadedAt":1785038351,"pakFileName":"Dynamic_Camp_Supply_Cost_CHS_33abec4f-be60-f890-9ffd-3c78dfbbf0fb.pak","nexusFileId":126504,"metaUuid":null}
@@ -67507,8 +67510,8 @@
 "24133":{"nexusModName":"Early Access Dream Visitor Restored Turkish Translation","nexusUploadedBy":"tarikagl1","nexusModId":24133,"paks":[
 {"nexusFileName":"HT EA Daisy TR","nexusFileVersion":"1.00.1","nexusFileUploadedAt":1785323037,"pakFileName":"HT_EA_Daisy_TR.pak","nexusFileId":126739,"metaUuid":null}
 ]},
-"24134":{"nexusModName":"HomeBrew - Comprehensive Reworks rus","nexusUploadedBy":"Nochnoyy","nexusModId":24134,"paks":[
-{"nexusFileName":"HomeBrew   Comprehensive Reworks   RU","nexusFileVersion":"9.0.8","nexusFileUploadedAt":1785348857,"pakFileName":"HomeBrew - Comprehensive Reworks - RU.pak","nexusFileId":126780,"metaUuid":null}
+"24134":{"nexusModName":"HomeBrew - Comprehensive Reworks 9.0.7 rus","nexusUploadedBy":"Nochnoyy","nexusModId":24134,"paks":[
+{"nexusFileName":"HomeBrew   Comprehensive Reworks   RU","nexusFileVersion":"1.1","nexusFileUploadedAt":1785348857,"pakFileName":"HomeBrew - Comprehensive Reworks - RU.pak","nexusFileId":126780,"metaUuid":null}
 ]},
 "24136":{"nexusModName":"Gather Your Allies - No Casual Fridays","nexusUploadedBy":"whatsontheflip","nexusModId":24136,"paks":[
 {"nexusFileName":"Gather Your Allies- No Casual Friday","nexusFileVersion":"1.0.0.1","nexusFileUploadedAt":1785321440,"pakFileName":"GatherYourAllies_NoCasualFriday_b601b610-df9f-9a9f-29e0-6ea1557cfb00.pak","nexusFileId":126736,"metaUuid":"b601b610-df9f-9a9f-29e0-6ea1557cfb00"}
