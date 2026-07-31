@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-07-30T23:51:41.468108+00:00","total_mods":17090},
+{"_meta":{"last_run":"2026-07-31T00:51:34.531573+00:00","total_mods":17091},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -67029,6 +67029,14 @@
 "23934":{"nexusModName":"Spellstaff","nexusUploadedBy":"qhrals8","nexusModId":23934,"paks":[
 {"nexusFileName":"Spellstaff","nexusFileVersion":"5","nexusFileUploadedAt":1784429918,"pakFileName":"Spellstaff(1.3).pak","nexusFileId":125973,"metaUuid":"7693c114-9edb-4754-0101-bd8051da49af"}
 ]},
+"23936":{"nexusModName":"Dolly Thrice Dice","nexusUploadedBy":"curlyyfryz","nexusModId":23936,"paks":[
+{"nexusFileName":"Pixie Blessing Dice","nexusFileVersion":"1","nexusFileUploadedAt":1785455775,"pakFileName":"Pixie Blessing Dice.pak","nexusFileId":126866,"metaUuid":null},
+{"nexusFileName":"Pixie Wings Dice","nexusFileVersion":"1","nexusFileUploadedAt":1785455792,"pakFileName":"Pixie Wings Dice.pak","nexusFileId":126867,"metaUuid":null},
+{"nexusFileName":"Pixie Purple Dice","nexusFileVersion":"1","nexusFileUploadedAt":1785455812,"pakFileName":"Pixie Purple Dice.pak","nexusFileId":126868,"metaUuid":null},
+{"nexusFileName":"AIO Dolly Thrice Dice","nexusFileVersion":"1","nexusFileUploadedAt":1785455852,"pakFileName":"Pixie Blessing Dice.pak","nexusFileId":126869,"metaUuid":null},
+{"nexusFileName":"AIO Dolly Thrice Dice","nexusFileVersion":"1","nexusFileUploadedAt":1785455852,"pakFileName":"Pixie Purple Dice.pak","nexusFileId":126869,"metaUuid":null},
+{"nexusFileName":"AIO Dolly Thrice Dice","nexusFileVersion":"1","nexusFileUploadedAt":1785455852,"pakFileName":"Pixie Wings Dice.pak","nexusFileId":126869,"metaUuid":null}
+]},
 "23937":{"nexusModName":"Rain's Midway Magic","nexusUploadedBy":"rainbow1411","nexusModId":23937,"paks":[
 {"nexusFileName":"Midway Magic","nexusFileVersion":"1","nexusFileUploadedAt":1784377604,"pakFileName":"Midway_Magic_925e9cd7-bf1a-bb78-7904-285dda3021e3.pak","nexusFileId":125929,"metaUuid":"925e9cd7-bf1a-bb78-7904-285dda3021e3"}
 ]},
@@ -67529,7 +67537,8 @@
 "24146":{"nexusModName":"Randomized Item Framework - RIF","nexusUploadedBy":"GraphicFade","nexusModId":24146,"paks":[
 {"nexusFileName":"RIF AddOn Example","nexusFileVersion":"1.0.0.1b","nexusFileUploadedAt":1785427539,"pakFileName":"RIF_AddOn.pak","nexusFileId":126843,"metaUuid":null},
 {"nexusFileName":"RIF Jaydunna Addon","nexusFileVersion":"1.0.0.1c","nexusFileUploadedAt":1785428934,"pakFileName":"RIF_Addon_JayDunna_4a50a8f3-c42d-3859-c497-d21603deeb9a.pak","nexusFileId":126844,"metaUuid":null},
-{"nexusFileName":"Randomized Item Framework","nexusFileVersion":"1.0.0.2","nexusFileUploadedAt":1785430105,"pakFileName":"Randomized_Item_Framework_413ec483-da7b-faeb-ef42-b6b9fa7075fa.pak","nexusFileId":126847,"metaUuid":null}
+{"nexusFileName":"Randomized Item Framework","nexusFileVersion":"1.0.0.2","nexusFileUploadedAt":1785430105,"pakFileName":"Randomized_Item_Framework_413ec483-da7b-faeb-ef42-b6b9fa7075fa.pak","nexusFileId":126847,"metaUuid":null},
+{"nexusFileName":"RIF Purplewalri Addon","nexusFileVersion":"1.0.0.1c","nexusFileUploadedAt":1785457302,"pakFileName":"RIF_Addon_PurpleWalri_638de3c9-e2fe-ee5a-7a05-8f66414a3cd4.pak","nexusFileId":126870,"metaUuid":null}
 ]},
 "24147":{"nexusModName":"Dark Urge Voice Toggle","nexusUploadedBy":"magnetuning","nexusModId":24147,"paks":[
 {"nexusFileName":"Dark Urge Voice Toggle - Default ON for Durge","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1785415892,"pakFileName":"MGNTN_DurgeVoiceToggle_DefaultON.pak","nexusFileId":126824,"metaUuid":null},
