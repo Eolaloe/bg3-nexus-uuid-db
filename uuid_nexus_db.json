@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-07-31T02:51:37.046657+00:00","total_mods":17093},
+{"_meta":{"last_run":"2026-07-31T03:51:54.789359+00:00","total_mods":17094},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -33457,9 +33457,9 @@
 {"nexusFileName":"Nine Swords","nexusFileVersion":"1.4.0.3","nexusFileUploadedAt":1772972868,"pakFileName":"NineSwordsClass.pak","nexusFileId":116321,"metaUuid":"8e004446-c965-4bd2-a381-daf616d176bb"}
 ]},
 "11761":{"nexusModName":"Tail-less Tieflings","nexusUploadedBy":"FluffySpider","nexusModId":11761,"paks":[
-{"nexusFileName":"Tailless_Tieflings(Asmodeus)","nexusFileVersion":"2.1","nexusFileUploadedAt":1726645233,"pakFileName":"Tailless_Tieflings.pak","nexusFileId":71677,"metaUuid":null},
-{"nexusFileName":"Tailless_Tieflings(Mephistopheles)","nexusFileVersion":"2.1","nexusFileUploadedAt":1726645286,"pakFileName":"Tailless_Tieflings.pak","nexusFileId":71678,"metaUuid":null},
-{"nexusFileName":"Tailless_Tieflings(Zariel)","nexusFileVersion":"2.1","nexusFileUploadedAt":1726645338,"pakFileName":"Tailless_Tieflings.pak","nexusFileId":71679,"metaUuid":null},
+{"nexusFileName":"Tailless_Tieflings(Asmodeus)","nexusFileVersion":"2.1","nexusFileUploadedAt":1726645233,"pakFileName":"Tailless_Tieflings.pak","nexusFileId":71677,"metaUuid":"d2c84b89-b3b0-494a-a6a4-8be33f9ccd31"},
+{"nexusFileName":"Tailless_Tieflings(Mephistopheles)","nexusFileVersion":"2.1","nexusFileUploadedAt":1726645286,"pakFileName":"Tailless_Tieflings.pak","nexusFileId":71678,"metaUuid":"d2c84b89-b3b0-494a-a6a4-8be33f9ccd31"},
+{"nexusFileName":"Tailless_Tieflings(Zariel)","nexusFileVersion":"2.1","nexusFileUploadedAt":1726645338,"pakFileName":"Tailless_Tieflings.pak","nexusFileId":71679,"metaUuid":"d2c84b89-b3b0-494a-a6a4-8be33f9ccd31"},
 {"nexusFileName":"Tailless_Tieflings","nexusFileVersion":"3.0.0","nexusFileUploadedAt":1776416417,"pakFileName":"Tailless_Tieflings.pak","nexusFileId":119242,"metaUuid":"d2c84b89-b3b0-494a-a6a4-8be33f9ccd31"},
 {"nexusFileName":"Tailless - ASTRL glowing eyes patch","nexusFileVersion":"3.0.0","nexusFileUploadedAt":1776416443,"pakFileName":"Tailless_Tieflings_ASTRLglowingeyes.pak","nexusFileId":119243,"metaUuid":"2904a733-bde0-4ec1-9d14-4e40030248c2"},
 {"nexusFileName":"Tailless - Wyll's Devil Form","nexusFileVersion":"3.0.0","nexusFileUploadedAt":1776416461,"pakFileName":"Wyll's Devil Form Tailless.pak","nexusFileId":119244,"metaUuid":null},
@@ -33469,7 +33469,8 @@
 {"nexusFileName":"Tailless tieflings - NPC","nexusFileVersion":"3.0.0","nexusFileUploadedAt":1776416695,"pakFileName":"Tailless tieflings - NPCs.pak","nexusFileId":119249,"metaUuid":null},
 {"nexusFileName":"Tailless_Karlach","nexusFileVersion":"3.0.0","nexusFileUploadedAt":1776416779,"pakFileName":"Tailless_Karlach.pak","nexusFileId":119250,"metaUuid":null},
 {"nexusFileName":"TaillessTieflings EOTB Patch","nexusFileVersion":"3.0.0","nexusFileUploadedAt":1776416818,"pakFileName":"TaillessTieflings EOTB Patch.pak","nexusFileId":119251,"metaUuid":"58d8369b-3245-4f06-8f28-a29606f21eef"},
-{"nexusFileName":"Dream Guardian - tailless no stub","nexusFileVersion":"3.0.0","nexusFileUploadedAt":1776417491,"pakFileName":"Tailless_Tieflings_Dream_Guardian.pak","nexusFileId":119255,"metaUuid":"b54040cd-326e-4ff0-9782-25488e2bfb28"}
+{"nexusFileName":"Dream Guardian - tailless no stub","nexusFileVersion":"3.0.0","nexusFileUploadedAt":1776417491,"pakFileName":"Tailless_Tieflings_Dream_Guardian.pak","nexusFileId":119255,"metaUuid":"b54040cd-326e-4ff0-9782-25488e2bfb28"},
+{"nexusFileName":"Tailless Tieflings BCB Beautiful Curvy Body Patch","nexusFileVersion":"3.1","nexusFileUploadedAt":1785466297,"pakFileName":"Tailless_Tieflings_BCB.pak","nexusFileId":126882,"metaUuid":null}
 ]},
 "11762":{"nexusModName":"Fluffy Tiefling Tails for everyone","nexusUploadedBy":"FluffySpider","nexusModId":11762,"paks":[
 {"nexusFileName":"FluffyTieflingTails for everyone","nexusFileVersion":"1.0","nexusFileUploadedAt":1724680579,"pakFileName":"FluffyTieflingTails.pak","nexusFileId":68055,"metaUuid":null},
@@ -51735,7 +51736,7 @@
 {"nexusFileName":"Heads of Plenty Vol. III - UTav and KAVT Patch","nexusFileVersion":"1.0","nexusFileUploadedAt":1757631988,"pakFileName":"Heads_of_Plenty_Vol_3_UTAV.pak","nexusFileId":102528,"metaUuid":"49ff0bc4-884f-4b74-a02d-d46cc3ddcbce"}
 ]},
 "18572":{"nexusModName":"Ghost of Faerun - Fighter Subclass Lv20 Expansion Rework","nexusUploadedBy":"Ahdarugo","nexusModId":18572,"paks":[
-{"nexusFileName":"Ghost of Faerun - Fighter Subclass Lv20","nexusFileVersion":"2.1.0.1","nexusFileUploadedAt":1785380746,"pakFileName":"GhostofFaerun_FighterSubclass_055a9471-1df5-45ab-8935-1e19102cc1a8.pak","nexusFileId":126804,"metaUuid":"055a9471-1df5-45ab-8935-1e19102cc1a8"}
+{"nexusFileName":"Ghost of Faerun - Fighter Subclass Lv20","nexusFileVersion":"2.1.0.3","nexusFileUploadedAt":1785467258,"pakFileName":"GhostofFaerun_FighterSubclass_055a9471-1df5-45ab-8935-1e19102cc1a8.pak","nexusFileId":126884,"metaUuid":"055a9471-1df5-45ab-8935-1e19102cc1a8"}
 ]},
 "18573":{"nexusModName":"Absolute Defeat (Framework)","nexusUploadedBy":"tripulah","nexusModId":18573,"paks":[
 {"nexusFileName":"AbsoluteDefeat","nexusFileVersion":"1.3.1.0","nexusFileUploadedAt":1775791865,"pakFileName":"AbsoluteDefeat.pak","nexusFileId":118585,"metaUuid":"84a166e9-6a68-43a4-82f5-565ec14c349d"}
@@ -65776,6 +65777,9 @@
 "23409":{"nexusModName":"The Watcher's Gaze","nexusUploadedBy":"chain181","nexusModId":23409,"paks":[
 {"nexusFileName":"Helmet Variants 63d79229 756c 4cr6","nexusFileVersion":"1","nexusFileUploadedAt":1781637307,"pakFileName":"Helmet_Variants_63d79229-756c-3b69-f7b4-35c0491077a6.pak","nexusFileId":123727,"metaUuid":"63d79229-756c-3b69-f7b4-35c0491077a6"}
 ]},
+"23410":{"nexusModName":"A Beautiful Webbing - Act 3 - Minthara Romance Scenes - BETA","nexusUploadedBy":"HyperspaceTowel","nexusModId":23410,"paks":[
+{"nexusFileName":"HT_MintharaAct3Romance","nexusFileVersion":"1.0.0.85","nexusFileUploadedAt":1785458166,"pakFileName":"HT_MintharaAct3Romance_95550251-f8ad-63b3-9130-e9328228c738.pak","nexusFileId":126871,"metaUuid":null}
+]},
 "23411":{"nexusModName":"All In Game Gears Chest","nexusUploadedBy":"BigBlackCorgi","nexusModId":23411,"paks":[
 {"nexusFileName":"AllGearsChest_Vanilla (6)","nexusFileVersion":"6","nexusFileUploadedAt":1785124323,"pakFileName":"AllGearChestSE.pak","nexusFileId":126579,"metaUuid":"19440557-14dc-474d-93e9-60d09b157b51"}
 ]},
@@ -66452,7 +66456,7 @@
 {"nexusFileName":"Simple Piercings Cebb36b7 Be74 A943 94a9 zip","nexusFileVersion":"1","nexusFileUploadedAt":1783240615,"pakFileName":"Simple_Piercings_cebb36b7-be74-a943-94a9-30185a9c245e.pak","nexusFileId":124925,"metaUuid":"cebb36b7-be74-a943-94a9-30185a9c245e"}
 ]},
 "23715":{"nexusModName":"Aylin and Isobel Join the Party_KOR","nexusUploadedBy":"Ahdarugo","nexusModId":23715,"paks":[
-{"nexusFileName":"Aylin and Isobel Join the Party_KOR","nexusFileVersion":"1.0.0.2","nexusFileUploadedAt":1783656726,"pakFileName":"AylinAndIsobelJointheParty_KOR_1ee13243-2877-5d1e-ffc2-2abb3d32d5b5.pak","nexusFileId":125323,"metaUuid":null}
+{"nexusFileName":"Aylin and Isobel Join the Party_KOR","nexusFileVersion":"1.0.0.3","nexusFileUploadedAt":1785468325,"pakFileName":"AylinAndIsobelJointheParty_KOR_1ee13243-2877-5d1e-ffc2-2abb3d32d5b5.pak","nexusFileId":126885,"metaUuid":null}
 ]},
 "23716":{"nexusModName":"Samurai Class","nexusUploadedBy":"Tyr4nTX","nexusModId":23716,"paks":[
 {"nexusFileName":"Samurai Class V2","nexusFileVersion":"2","nexusFileUploadedAt":1783854170,"pakFileName":"SamuraiClassV2.pak","nexusFileId":125472,"metaUuid":"a1b2c3d4-e5f6-7890-abcd-ef1234567890"}
