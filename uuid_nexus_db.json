@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-07-31T13:51:51.457202+00:00","total_mods":17098},
+{"_meta":{"last_run":"2026-07-31T14:52:09.727683+00:00","total_mods":17098},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -49147,7 +49147,7 @@
 {"nexusFileName":"True Strike (2024) CH","nexusFileVersion":"1.2.5b","nexusFileUploadedAt":1753082628,"pakFileName":"DTrueStrike CH.pak","nexusFileId":98665,"metaUuid":null}
 ]},
 "17657":{"nexusModName":"Goon's Sorcerer Overhaul","nexusUploadedBy":"BaldursGoonsack","nexusModId":17657,"paks":[
-{"nexusFileName":"Goon's Sorcerer Overhaul","nexusFileVersion":"1.1.2.0","nexusFileUploadedAt":1768446113,"pakFileName":"Goon's Sorcerer Overhaul.pak","nexusFileId":112202,"metaUuid":"e3249bd2-06ca-4af4-b3e6-2e4a83839161"}
+{"nexusFileName":"Goon's Sorcerer Overhaul","nexusFileVersion":"1.2.0.0","nexusFileUploadedAt":1785506723,"pakFileName":"Goon's Sorcerer Overhaul.pak","nexusFileId":126916,"metaUuid":"e3249bd2-06ca-4af4-b3e6-2e4a83839161"}
 ]},
 "17658":{"nexusModName":"Goon's Bard Overhaul","nexusUploadedBy":"BaldursGoonsack","nexusModId":17658,"paks":[
 {"nexusFileName":"Goon's Bard Overhaul","nexusFileVersion":"1.0.1.1","nexusFileUploadedAt":1777631543,"pakFileName":"Goon's Bard Overhaul.pak","nexusFileId":120283,"metaUuid":"5d30ddb4-929c-455d-8ed0-d32c5451ccd0"}
@@ -65342,8 +65342,8 @@
 {"nexusFileName":"Githtara","nexusFileVersion":"1.0.0.3","nexusFileUploadedAt":1780657829,"pakFileName":"Githtara_d77324b3-d576-c2fa-4b07-a1c010edcd88.pak","nexusFileId":122842,"metaUuid":null}
 ]},
 "23218":{"nexusModName":"One Levelled Spell Per Turn","nexusUploadedBy":"Nzx","nexusModId":23218,"paks":[
-{"nexusFileName":"One Levelled Spell Per Turn - 2024","nexusFileVersion":"1.1.2","nexusFileUploadedAt":1785339919,"pakFileName":"One Levelled Spell Per Turn [2024].pak","nexusFileId":126759,"metaUuid":null},
-{"nexusFileName":"One Levelled Spell Per Turn - 2014 RAI","nexusFileVersion":"1.1.2","nexusFileUploadedAt":1785339929,"pakFileName":"One Levelled Spell Per Turn.pak","nexusFileId":126760,"metaUuid":"da0ff8c8-4028-4ceb-b918-ca530cd31900"}
+{"nexusFileName":"One Levelled Spell Per Turn - 2024","nexusFileVersion":"1.1.3","nexusFileUploadedAt":1785508343,"pakFileName":"One Levelled Spell Per Turn [2024].pak","nexusFileId":126917,"metaUuid":null},
+{"nexusFileName":"One Levelled Spell Per Turn - 2014 RAI","nexusFileVersion":"1.1.3","nexusFileUploadedAt":1785508353,"pakFileName":"One Levelled Spell Per Turn.pak","nexusFileId":126918,"metaUuid":"da0ff8c8-4028-4ceb-b918-ca530cd31900"}
 ]},
 "23219":{"nexusModName":"Toggleable Dire Raven Darkness","nexusUploadedBy":"koboldJuno","nexusModId":23219,"paks":[
 {"nexusFileName":"Toggleable Dire Raven Fly","nexusFileVersion":"1.0","nexusFileUploadedAt":1780670821,"pakFileName":"ToggleableDireRavenFly.pak","nexusFileId":122851,"metaUuid":"cf3502c4-d6de-49bf-8daa-61c5b17c8bf6"}
@@ -65625,7 +65625,7 @@
 {"nexusFileName":"Mazzle Level Directory","nexusFileVersion":"1.1.5","nexusFileUploadedAt":1783293886,"pakFileName":"Mazzle_Level_Directory.pak","nexusFileId":124995,"metaUuid":"fbee705d-2adb-4e67-b7e7-09e34d71cf6a"}
 ]},
 "23323":{"nexusModName":"Wye Fey Potions","nexusUploadedBy":"Nzx","nexusModId":23323,"paks":[
-{"nexusFileName":"Wye Fey Potions","nexusFileVersion":"1.0.5","nexusFileUploadedAt":1785340187,"pakFileName":"Wye Fey Potions.pak","nexusFileId":126761,"metaUuid":"93aa6d3d-96d4-4323-9635-0165b3926aba"}
+{"nexusFileName":"Wye Fey Potions","nexusFileVersion":"1.0.6","nexusFileUploadedAt":1785508509,"pakFileName":"Wye Fey Potions.pak","nexusFileId":126919,"metaUuid":"93aa6d3d-96d4-4323-9635-0165b3926aba"}
 ]},
 "23324":{"nexusModName":"Artificer class and all subclasses_JP","nexusUploadedBy":"Akazonae36","nexusModId":23324,"paks":[
 {"nexusFileName":"Artificer JP","nexusFileVersion":"1","nexusFileUploadedAt":1781211558,"pakFileName":"Artificer_JP.pak","nexusFileId":123344,"metaUuid":null}
@@ -65784,7 +65784,7 @@
 {"nexusFileName":"BG3WASD CameraFollow V1.2.0","nexusFileVersion":"1.2.0","nexusFileUploadedAt":1782930560,"pakFileName":"BG3YawBridge.pak","nexusFileId":124673,"metaUuid":"3f33bb6d-4c56-4a63-b01f-0c0f72f13b1d"}
 ]},
 "23415":{"nexusModName":"A Human's Random Loot  for Chinese","nexusUploadedBy":"hanli","nexusModId":23415,"paks":[
-{"nexusFileName":"A Humans Random Loot CHS","nexusFileVersion":"2","nexusFileUploadedAt":1781679502,"pakFileName":"A_Humans_Random_Loot_CHS.pak","nexusFileId":123743,"metaUuid":null}
+{"nexusFileName":"A Humans Random Loot CHS","nexusFileVersion":"3","nexusFileUploadedAt":1785505919,"pakFileName":"A_Humans_Random_Loot_CHS.pak","nexusFileId":126915,"metaUuid":null}
 ]},
 "23416":{"nexusModName":"Karlach for Bodytype 1","nexusUploadedBy":"spacefaces","nexusModId":23416,"paks":[
 {"nexusFileName":"Karlach BT1 AEE","nexusFileVersion":"3","nexusFileUploadedAt":1781773263,"pakFileName":"KarlachBT1_AEE.pak","nexusFileId":123814,"metaUuid":"b7af6b6c-9823-49ac-83f6-aa1b5fd59525"},
