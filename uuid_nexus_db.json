@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-07-31T14:52:09.727683+00:00","total_mods":17098},
+{"_meta":{"last_run":"2026-07-31T15:52:17.887975+00:00","total_mods":17100},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -67208,6 +67208,9 @@
 "24002":{"nexusModName":"Cleric Shield - Spell List Expansion","nexusUploadedBy":"Reveurr","nexusModId":24002,"paks":[
 {"nexusFileName":"Cleric Shield - Spell List Expansion","nexusFileVersion":"1","nexusFileUploadedAt":1784727732,"pakFileName":"ShieldForClerics_5916062b-227d-9c66-1103-8942e9103359.pak","nexusFileId":126212,"metaUuid":"5916062b-227d-9c66-1103-8942e9103359"}
 ]},
+"24003":{"nexusModName":"Miam's Double Exposure Pose Pack (BT2xBT2 BT2xBT4 BT4xBT4)","nexusUploadedBy":"Miam158","nexusModId":24003,"paks":[
+{"nexusFileName":"Miam's Double Exposure Pose Pack","nexusFileVersion":"1.0.0.17","nexusFileUploadedAt":1785510460,"pakFileName":"miam_double_exposure_pose_pack_e9edd596-77c6-87ea-f3b4-312195ea9fc5.pak","nexusFileId":126920,"metaUuid":null}
+]},
 "24004":{"nexusModName":"Auntie Ethel Redux - The Caretaker","nexusUploadedBy":"PoisonValentineXIII","nexusModId":24004,"paks":[
 {"nexusFileName":"Auntie Ethel Redux - The Caretaker","nexusFileVersion":"1.0.0.2","nexusFileUploadedAt":1784732097,"pakFileName":"AuntieEthelRedux_fe14f04b-c7d4-a972-0d51-f853f2203b2f.pak","nexusFileId":126220,"metaUuid":"fe14f04b-c7d4-a972-0d51-f853f2203b2f"}
 ]},
@@ -67564,7 +67567,7 @@
 {"nexusFileName":"Githyanki Weapons are no longer restricted by race","nexusFileVersion":"1","nexusFileUploadedAt":1785414268,"pakFileName":"GithyankiItemsForAll.pak","nexusFileId":126820,"metaUuid":null}
 ]},
 "24151":{"nexusModName":"Traps Force Turn Based","nexusUploadedBy":"Nzx","nexusModId":24151,"paks":[
-{"nexusFileName":"Traps Force Turn Based","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1785414608,"pakFileName":"Traps Force Turn Based.pak","nexusFileId":126821,"metaUuid":null}
+{"nexusFileName":"Traps Force Turn Based","nexusFileVersion":"1.0.1","nexusFileUploadedAt":1785511705,"pakFileName":"Traps Force Turn Based.pak","nexusFileId":126922,"metaUuid":null}
 ]},
 "24152":{"nexusModName":"Blink Dog","nexusUploadedBy":"PupFenrir20","nexusModId":24152,"paks":[
 {"nexusFileName":"Blink Dog","nexusFileVersion":"1","nexusFileUploadedAt":1785414947,"pakFileName":"Blink Dog.pak","nexusFileId":126823,"metaUuid":null}
@@ -67586,6 +67589,12 @@
 ]},
 "24161":{"nexusModName":"Silence Character Creator","nexusUploadedBy":"FortisEstVeritas","nexusModId":24161,"paks":[
 {"nexusFileName":"Silence Character Creator Questions","nexusFileVersion":"1.0","nexusFileUploadedAt":1785442694,"pakFileName":"Silence Character Creator Questions.pak","nexusFileId":126860,"metaUuid":null}
+]},
+"24162":{"nexusModName":"Vaelor and Aria","nexusUploadedBy":"Lunomi","nexusModId":24162,"paks":[
+{"nexusFileName":"Vaelor And Aria","nexusFileVersion":"1","nexusFileUploadedAt":1785511676,"pakFileName":"Vaelor & Aria.pak","nexusFileId":126921,"metaUuid":null},
+{"nexusFileName":"Vaelor And Aria   UTAV","nexusFileVersion":"1","nexusFileUploadedAt":1785511886,"pakFileName":"Vaelor & Aria - UTAV.pak","nexusFileId":126923,"metaUuid":null},
+{"nexusFileName":"Eyes of the Beholder Patch","nexusFileVersion":"1","nexusFileUploadedAt":1785511941,"pakFileName":"Vaelor & Aria - EotB Patch.pak","nexusFileId":126924,"metaUuid":null},
+{"nexusFileName":"Astralities' Glow Eyes Patch","nexusFileVersion":"1","nexusFileUploadedAt":1785511969,"pakFileName":"Vaelor & Aria - AGE Patch.pak","nexusFileId":126925,"metaUuid":null}
 ]},
 "24164":{"nexusModName":"Panther Prowl Fix","nexusUploadedBy":"SaberDelta","nexusModId":24164,"paks":[
 {"nexusFileName":"PantherProwlFix V1.1","nexusFileVersion":"1","nexusFileUploadedAt":1785452134,"pakFileName":"PantherProwlFix_v1.1.pak","nexusFileId":126862,"metaUuid":"a72e99f9-7cf0-42d0-9735-2f843296db3d"}
