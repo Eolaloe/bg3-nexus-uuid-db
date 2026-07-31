@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-07-31T08:51:32.867880+00:00","total_mods":17095},
+{"_meta":{"last_run":"2026-07-31T09:52:06.477271+00:00","total_mods":17097},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -35995,7 +35995,7 @@
 ]},
 "12727":{"nexusModName":"DnD 5.5e All-in-One BEYOND","nexusUploadedBy":"yoonmoonsik43","nexusModId":12727,"paks":[
 {"nexusFileName":"dnd2024 - V3 Legacy","nexusFileVersion":"3.4.6.4","nexusFileUploadedAt":1771945305,"pakFileName":"DnD2024_897914ef-5c96-053c-44af-0be823f895fe.pak","nexusFileId":115523,"metaUuid":"897914ef-5c96-053c-44af-0be823f895fe"},
-{"nexusFileName":"DnD 5.5e All-in-One BEYOND","nexusFileVersion":"4.11.18.6","nexusFileUploadedAt":1785472480,"pakFileName":"DnD2024_897914ef-5c96-053c-44af-0be823f895fe.pak","nexusFileId":126887,"metaUuid":"897914ef-5c96-053c-44af-0be823f895fe"}
+{"nexusFileName":"DnD 5.5e All-in-One BEYOND","nexusFileVersion":"4.11.18.7","nexusFileUploadedAt":1785488734,"pakFileName":"DnD2024_897914ef-5c96-053c-44af-0be823f895fe.pak","nexusFileId":126902,"metaUuid":"897914ef-5c96-053c-44af-0be823f895fe"}
 ]},
 "12728":{"nexusModName":"Origin-Themed Headwear KR","nexusUploadedBy":"Soorawang","nexusModId":12728,"paks":[
 {"nexusFileName":"Origin-Themed Headwear KR","nexusFileVersion":"1.0","nexusFileUploadedAt":1727930331,"pakFileName":"OriginHeadwear_kr.pak","nexusFileId":73692,"metaUuid":null}
@@ -48721,9 +48721,9 @@
 {"nexusFileName":"WithersFreeServices","nexusFileVersion":"1.0","nexusFileUploadedAt":1752014076,"pakFileName":"WithersFreeServices_9a2ae82a-def3-bd9d-393d-e66d77cfa992.pak","nexusFileId":97697,"metaUuid":"9a2ae82a-def3-bd9d-393d-e66d77cfa992"}
 ]},
 "17498":{"nexusModName":"Ectoplasm - Ghost Blood Surface and Spells","nexusUploadedBy":"StorybittenSoul","nexusModId":17498,"paks":[
-{"nexusFileName":"Surface Ectoplasm","nexusFileVersion":"1.0.0.4","nexusFileUploadedAt":1752287976,"pakFileName":"Surface_Ectoplasm_c9a764f9-7dba-595a-ca72-25f78a18423c.pak","nexusFileId":97934,"metaUuid":"c9a764f9-7dba-595a-ca72-25f78a18423c"},
 {"nexusFileName":"Surface Ectoplasm Addons","nexusFileVersion":"1.0.0.1","nexusFileUploadedAt":1754286049,"pakFileName":"Surface_Ectoplasm_Addons_56e8a5e8-fb4d-3afe-2404-4eea0e5c60b5.pak","nexusFileId":99861,"metaUuid":"56e8a5e8-fb4d-3afe-2404-4eea0e5c60b5"},
-{"nexusFileName":"Surface Ectoplasm Compatibility Patches","nexusFileVersion":"1.0.0.7","nexusFileUploadedAt":1785364094,"pakFileName":"Surface_Ectoplasm_CompatibilityPatches_703a0617-f030-4e45-b2d1-27af8ef6893d.pak","nexusFileId":126788,"metaUuid":"703a0617-f030-4e45-b2d1-27af8ef6893d"}
+{"nexusFileName":"Surface Ectoplasm Compatibility Patches","nexusFileVersion":"1.0.0.7","nexusFileUploadedAt":1785364094,"pakFileName":"Surface_Ectoplasm_CompatibilityPatches_703a0617-f030-4e45-b2d1-27af8ef6893d.pak","nexusFileId":126788,"metaUuid":"703a0617-f030-4e45-b2d1-27af8ef6893d"},
+{"nexusFileName":"Surface Ectoplasm","nexusFileVersion":"1.0.0.5","nexusFileUploadedAt":1785490478,"pakFileName":"Surface_Ectoplasm_c9a764f9-7dba-595a-ca72-25f78a18423c.pak","nexusFileId":126903,"metaUuid":"c9a764f9-7dba-595a-ca72-25f78a18423c"}
 ]},
 "17499":{"nexusModName":"Pact Of The Shroud_KOR","nexusUploadedBy":"Ahdarugo","nexusModId":17499,"paks":[
 {"nexusFileName":"Pact Of The Shroud_KOR","nexusFileVersion":"1.0","nexusFileUploadedAt":1752030031,"pakFileName":"PactOfTheShroud_KOR_7fd34459-1611-333c-781f-a7271c0703be.pak","nexusFileId":97703,"metaUuid":null}
@@ -67509,6 +67509,9 @@
 {"nexusFileName":"emberswardrobe-thegoblinking","nexusFileVersion":"1.1.0.5","nexusFileUploadedAt":1785452909,"pakFileName":"EmbersWardrobe-GK_3e2f33ec-e774-46df-a98c-6d550ac62957.pak","nexusFileId":126863,"metaUuid":"3e2f33ec-e774-46df-a98c-6d550ac62957"},
 {"nexusFileName":"emberswardrobe-thegoblinking-4k","nexusFileVersion":"1.1.0.1","nexusFileUploadedAt":1785453000,"pakFileName":"EmbersWardrobe-GK-4K_5ab666e5-d2c1-d68e-04a4-189143d1d1f3.pak","nexusFileId":126864,"metaUuid":null}
 ]},
+"24126":{"nexusModName":"Big Bludgeoning Weapons of Necromancy","nexusUploadedBy":"sarymsak","nexusModId":24126,"paks":[
+{"nexusFileName":"Big Bludgeoning Weapons of Necromancy","nexusFileVersion":"1.0","nexusFileUploadedAt":1785434387,"pakFileName":"v1.0_SAR_Necro-weapons-and-smite_136dccb0-1807-bb84-c199-57238e2f21bb.pak","nexusFileId":126853,"metaUuid":null}
+]},
 "24128":{"nexusModName":"Spineful - Forgotten Armoury IV - Greatsword and Dagger","nexusUploadedBy":"Lyniara","nexusModId":24128,"paks":[
 {"nexusFileName":"Tutorial Chest Addon","nexusFileVersion":"1","nexusFileUploadedAt":1785292266,"pakFileName":"Spineful - Tut Chest Addon.pak","nexusFileId":126715,"metaUuid":null},
 {"nexusFileName":"Spineful","nexusFileVersion":"1.0.0.4","nexusFileUploadedAt":1785325375,"pakFileName":"LYRA_LYN_Spineful_1.0.0.4.pak","nexusFileId":126741,"metaUuid":null}
@@ -67591,6 +67594,9 @@
 ]},
 "24168":{"nexusModName":"Djinni","nexusUploadedBy":"PupFenrir20","nexusModId":24168,"paks":[
 {"nexusFileName":"Djinni","nexusFileVersion":"1","nexusFileUploadedAt":1785463440,"pakFileName":"Djinni.pak","nexusFileId":126877,"metaUuid":null}
+]},
+"24171":{"nexusModName":"Lune's Expedition 33 Outfit","nexusUploadedBy":"aureusco","nexusModId":24171,"paks":[
+{"nexusFileName":"Exp33 Lune Outfit Non-VT","nexusFileVersion":"1.0.0.21","nexusFileUploadedAt":1785484803,"pakFileName":"EXP33_Lune_Gear_20dccfc3-4ada-e8b6-a2bc-c09b755138d0.pak","nexusFileId":126901,"metaUuid":null}
 ]},
 "24172":{"nexusModName":"Boot of the Giants Fix Mod","nexusUploadedBy":"yoonmoonsik43","nexusModId":24172,"paks":[
 {"nexusFileName":"Bootofthegiantsfix F5b263e6 07 7nja","nexusFileVersion":"1","nexusFileUploadedAt":1785477958,"pakFileName":"BootOfTheGiantsFix_f5b263e6-07ad-bcdd-5cbd-6210808913bb.pak","nexusFileId":126892,"metaUuid":null}
