@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-07-31T16:54:24.932504+00:00","total_mods":17100},
+{"_meta":{"last_run":"2026-07-31T17:52:09.334229+00:00","total_mods":17101},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -67546,7 +67546,8 @@
 {"nexusFileName":"RIF AddOn Example","nexusFileVersion":"1.0.0.1b","nexusFileUploadedAt":1785427539,"pakFileName":"RIF_AddOn.pak","nexusFileId":126843,"metaUuid":null},
 {"nexusFileName":"RIF Jaydunna Addon","nexusFileVersion":"1.0.0.1c","nexusFileUploadedAt":1785428934,"pakFileName":"RIF_Addon_JayDunna_4a50a8f3-c42d-3859-c497-d21603deeb9a.pak","nexusFileId":126844,"metaUuid":null},
 {"nexusFileName":"Randomized Item Framework","nexusFileVersion":"1.0.0.2","nexusFileUploadedAt":1785430105,"pakFileName":"Randomized_Item_Framework_413ec483-da7b-faeb-ef42-b6b9fa7075fa.pak","nexusFileId":126847,"metaUuid":null},
-{"nexusFileName":"RIF Purplewalri Addon","nexusFileVersion":"1.0.0.1c","nexusFileUploadedAt":1785457302,"pakFileName":"RIF_Addon_PurpleWalri_638de3c9-e2fe-ee5a-7a05-8f66414a3cd4.pak","nexusFileId":126870,"metaUuid":null}
+{"nexusFileName":"RIF Purplewalri Addon","nexusFileVersion":"1.0.0.1c","nexusFileUploadedAt":1785457302,"pakFileName":"RIF_Addon_PurpleWalri_638de3c9-e2fe-ee5a-7a05-8f66414a3cd4.pak","nexusFileId":126870,"metaUuid":null},
+{"nexusFileName":"RIF Guigodead Addon","nexusFileVersion":"1.0.0.1c","nexusFileUploadedAt":1785518831,"pakFileName":"RIF_Addon_guigodead_b7c59037-1943-f202-0c91-34a19709fb49.pak","nexusFileId":126935,"metaUuid":null}
 ]},
 "24147":{"nexusModName":"Dark Urge Voice Toggle","nexusUploadedBy":"magnetuning","nexusModId":24147,"paks":[
 {"nexusFileName":"Dark Urge Voice Toggle - Default ON for Durge","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1785415892,"pakFileName":"MGNTN_DurgeVoiceToggle_DefaultON.pak","nexusFileId":126824,"metaUuid":null},
@@ -67608,6 +67609,12 @@
 "24172":{"nexusModName":"Boot of the Giants Fix Mod","nexusUploadedBy":"yoonmoonsik43","nexusModId":24172,"paks":[
 {"nexusFileName":"Bootofthegiantsfix F5b263e6 07 7nja","nexusFileVersion":"1","nexusFileUploadedAt":1785477958,"pakFileName":"BootOfTheGiantsFix_f5b263e6-07ad-bcdd-5cbd-6210808913bb.pak","nexusFileId":126892,"metaUuid":null}
 ]},
+"24174":{"nexusModName":"Idle Hands Poses by Echo","nexusUploadedBy":"Echo20","nexusModId":24174,"paks":[
+{"nexusFileName":"IdleHands By Echo","nexusFileVersion":"1.0.1.0","nexusFileUploadedAt":1785516132,"pakFileName":"IdleHandsbyEcho_260da6f6-c5c5-f58e-2f6a-b14b09d08f73.pak","nexusFileId":126930,"metaUuid":null}
+]},
 "24175":{"nexusModName":"Aylin and Isobel Join the Party Turkish Translation","nexusUploadedBy":"tarikagl1","nexusModId":24175,"paks":[
 {"nexusFileName":"WW AylinIsobelJoinParty TR","nexusFileVersion":"1.00.00","nexusFileUploadedAt":1785492857,"pakFileName":"WW_AylinIsobelJoinParty_TR.pak","nexusFileId":126904,"metaUuid":null}
+]},
+"24184":{"nexusModName":"Formal Drider Outfit","nexusUploadedBy":"Lyniara","nexusModId":24184,"paks":[
+{"nexusFileName":"Formal Drider Outfit","nexusFileVersion":"1.0","nexusFileUploadedAt":1785518755,"pakFileName":"LynFormalDrider.pak","nexusFileId":126934,"metaUuid":null}
 ]}}
