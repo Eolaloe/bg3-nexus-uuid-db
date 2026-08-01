@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-08-01T06:52:35.488059+00:00","total_mods":17120},
+{"_meta":{"last_run":"2026-08-01T07:52:23.899768+00:00","total_mods":17123},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -35992,7 +35992,7 @@
 ]},
 "12727":{"nexusModName":"DnD 5.5e All-in-One BEYOND","nexusUploadedBy":"yoonmoonsik43","nexusModId":12727,"paks":[
 {"nexusFileName":"dnd2024 - V3 Legacy","nexusFileVersion":"3.4.6.4","nexusFileUploadedAt":1771945305,"pakFileName":"DnD2024_897914ef-5c96-053c-44af-0be823f895fe.pak","nexusFileId":115523,"metaUuid":"897914ef-5c96-053c-44af-0be823f895fe"},
-{"nexusFileName":"DnD 5.5e All-in-One BEYOND","nexusFileVersion":"4.11.19.0","nexusFileUploadedAt":1785541704,"pakFileName":"DnD2024_897914ef-5c96-053c-44af-0be823f895fe.pak","nexusFileId":126983,"metaUuid":"897914ef-5c96-053c-44af-0be823f895fe"}
+{"nexusFileName":"DnD 5.5e All-in-One BEYOND","nexusFileVersion":"4.11.19.1","nexusFileUploadedAt":1785570370,"pakFileName":"DnD2024_897914ef-5c96-053c-44af-0be823f895fe.pak","nexusFileId":127020,"metaUuid":"897914ef-5c96-053c-44af-0be823f895fe"}
 ]},
 "12728":{"nexusModName":"Origin-Themed Headwear KR","nexusUploadedBy":"Soorawang","nexusModId":12728,"paks":[
 {"nexusFileName":"Origin-Themed Headwear KR","nexusFileVersion":"1.0","nexusFileUploadedAt":1727930331,"pakFileName":"OriginHeadwear_kr.pak","nexusFileId":73692,"metaUuid":null}
@@ -54739,6 +54739,15 @@
 {"nexusFileName":"Dragonborn Walk Fix Male","nexusFileVersion":"1.0","nexusFileUploadedAt":1763140346,"pakFileName":"Dragonborn Walk Fix.pak","nexusFileId":107405,"metaUuid":"1f41527c-52dc-481e-af7d-1b6993010aaf"},
 {"nexusFileName":"Dragonborn Walk Fix Female","nexusFileVersion":"1.0","nexusFileUploadedAt":1763140424,"pakFileName":"Dragonborn Walk Fix Female.pak","nexusFileId":107406,"metaUuid":"447bbe27-31ab-4df4-a000-6fbecd4a8d18"}
 ]},
+"19665":{"nexusModName":"HIMBO (Highly Improved Muscular Body Overhaul)","nexusUploadedBy":"faceplug","nexusModId":19665,"paks":[
+{"nexusFileName":"HIMBO LABOTOR WyllKeyArt Refit","nexusFileVersion":"1","nexusFileUploadedAt":1785528642,"pakFileName":"HIMBO_LABOTOR_WyllKeyArt_Refit.pak","nexusFileId":126941,"metaUuid":null},
+{"nexusFileName":"HIMBO LYNIA Refits","nexusFileVersion":"1","nexusFileUploadedAt":1785528870,"pakFileName":"HIMBO_LYNIA_Refits.pak","nexusFileId":126942,"metaUuid":null},
+{"nexusFileName":"HIMBO Astarion","nexusFileVersion":"1","nexusFileUploadedAt":1785534054,"pakFileName":"HIMBO_Astarion.pak","nexusFileId":126959,"metaUuid":null},
+{"nexusFileName":"HIMBO Gale","nexusFileVersion":"1","nexusFileUploadedAt":1785534098,"pakFileName":"HIMBO_Gale.pak","nexusFileId":126960,"metaUuid":null},
+{"nexusFileName":"HIMBO Wyll","nexusFileVersion":"1","nexusFileUploadedAt":1785534181,"pakFileName":"HIMBO_Wyll.pak","nexusFileId":126961,"metaUuid":null},
+{"nexusFileName":"HIMBO VANILLA Armor Refits","nexusFileVersion":"1","nexusFileUploadedAt":1785567022,"pakFileName":"HIMBO_VANILLA_Armor_Refits.pak","nexusFileId":127017,"metaUuid":null},
+{"nexusFileName":"HIMBO VANILLA Default Replacement","nexusFileVersion":"1","nexusFileUploadedAt":1785567129,"pakFileName":"HIMBO_VANILLA_Default_Replacement.pak","nexusFileId":127018,"metaUuid":null}
+]},
 "19666":{"nexusModName":"5R Conjure Animals (dnd 5e 2024 PHB)","nexusUploadedBy":"ShadyDax","nexusModId":19666,"paks":[
 {"nexusFileName":"5R Conjure Animals - all classes addon","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1781407098,"pakFileName":"5R Conjure Animals - all classes addon.pak","nexusFileId":123513,"metaUuid":null},
 {"nexusFileName":"5R Conjure Animals","nexusFileVersion":"1.0.4.0","nexusFileUploadedAt":1781471739,"pakFileName":"5R Conjure Animals.pak","nexusFileId":123579,"metaUuid":"9358b078-b570-4d6a-8cee-26da67f445ff"},
@@ -67619,6 +67628,9 @@
 "24172":{"nexusModName":"Boot of the Giants Fix Mod","nexusUploadedBy":"yoonmoonsik43","nexusModId":24172,"paks":[
 {"nexusFileName":"Bootofthegiantsfix F5b263e6 07 7nja","nexusFileVersion":"1","nexusFileUploadedAt":1785477958,"pakFileName":"BootOfTheGiantsFix_f5b263e6-07ad-bcdd-5cbd-6210808913bb.pak","nexusFileId":126892,"metaUuid":null}
 ]},
+"24173":{"nexusModName":"NPC Portrait Fixes","nexusUploadedBy":"whatsontheflip","nexusModId":24173,"paks":[
+{"nexusFileName":"NPC Portrait Fixes","nexusFileVersion":"1.0.0.8","nexusFileUploadedAt":1785566340,"pakFileName":"NPC_Portrait_Fixes_998f9c22-0004-f07a-f794-5a153e978e65.pak","nexusFileId":127016,"metaUuid":null}
+]},
 "24174":{"nexusModName":"Idle Hands Poses by Echo","nexusUploadedBy":"Echo20","nexusModId":24174,"paks":[
 {"nexusFileName":"IdleHands By Echo","nexusFileVersion":"1.0.1.0","nexusFileUploadedAt":1785516132,"pakFileName":"IdleHandsbyEcho_260da6f6-c5c5-f58e-2f6a-b14b09d08f73.pak","nexusFileId":126930,"metaUuid":null}
 ]},
@@ -67675,4 +67687,7 @@
 ]},
 "24207":{"nexusModName":"Shield Master Feat - Improved (PT-BR)","nexusUploadedBy":"Firetoga","nexusModId":24207,"paks":[
 {"nexusFileName":"Shield Master Feat - Improved (PT-BR)","nexusFileVersion":"1.0","nexusFileUploadedAt":1785562557,"pakFileName":"Shield Master Feat - Improved (Tradução PT-BR).pak","nexusFileId":127012,"metaUuid":null}
+]},
+"24208":{"nexusModName":"CombatBodysuit_EVA_AsukaPlugsuit","nexusUploadedBy":"EvilRecluse","nexusModId":24208,"paks":[
+{"nexusFileName":"CombatBodysuit EVA Asuka","nexusFileVersion":"1","nexusFileUploadedAt":1785567713,"pakFileName":"CombatBodysuit_EVA_Asuka.pak","nexusFileId":127019,"metaUuid":null}
 ]}}
