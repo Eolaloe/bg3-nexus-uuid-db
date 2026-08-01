@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-08-01T20:52:25.427346+00:00","total_mods":17134},
+{"_meta":{"last_run":"2026-08-01T21:52:40.512170+00:00","total_mods":17135},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -66990,8 +66990,8 @@
 {"nexusFileName":"Eladrin High Elf Preset - pak version","nexusFileVersion":"1.0","nexusFileUploadedAt":1784281326,"pakFileName":"CPF_EladrinHighElf_6a4c1787-3a14-4ea6-889b-a1f4f80.pak","nexusFileId":125822,"metaUuid":"6a4c1787-3a14-4ea6-889b-a1f4f80a3b13"}
 ]},
 "23919":{"nexusModName":"Flanking Rules","nexusUploadedBy":"chizfreak","nexusModId":23919,"paks":[
-{"nexusFileName":"Flanking Rules - Pathfinder version","nexusFileVersion":"3.0.0","nexusFileUploadedAt":1785484788,"pakFileName":"Flanking Rules - Pathfinder ver.pak","nexusFileId":126899,"metaUuid":"84ee967c-1b6d-2185-7051-dddc4b1081b7"},
-{"nexusFileName":"Flanking Rules - DnD version","nexusFileVersion":"3.0.0","nexusFileUploadedAt":1785484800,"pakFileName":"Flanking Rules - DnD ver.pak","nexusFileId":126900,"metaUuid":"84ee967c-1b6d-2185-7051-dddc4b1081b7"}
+{"nexusFileName":"Flanking Rules - DnD version","nexusFileVersion":"4.0.0","nexusFileUploadedAt":1785619328,"pakFileName":"Flanking Rules - DnD ver.pak","nexusFileId":127065,"metaUuid":"84ee967c-1b6d-2185-7051-dddc4b1081b7"},
+{"nexusFileName":"Flanking Rules - Pathfinder version","nexusFileVersion":"4.0.0","nexusFileUploadedAt":1785619342,"pakFileName":"Flanking Rules - Pathfinder ver.pak","nexusFileId":127066,"metaUuid":"84ee967c-1b6d-2185-7051-dddc4b1081b7"}
 ]},
 "23920":{"nexusModName":"Better Tooltips (Russian Localization)","nexusUploadedBy":"ganeuken","nexusModId":23920,"paks":[
 {"nexusFileName":"Better Tooltips Russian Localization","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1784289618,"pakFileName":"BetterTooltips_RU.pak","nexusFileId":125831,"metaUuid":null},
@@ -67646,7 +67646,7 @@
 {"nexusFileName":"Formal Drider Outfit","nexusFileVersion":"1.0","nexusFileUploadedAt":1785518755,"pakFileName":"LynFormalDrider.pak","nexusFileId":126934,"metaUuid":null}
 ]},
 "24185":{"nexusModName":"Rasaad's Robe - Clothes of the Sun Soul Monk","nexusUploadedBy":"commanderstrawberry","nexusModId":24185,"paks":[
-{"nexusFileName":"RasaadMonkOutfit","nexusFileVersion":"1","nexusFileUploadedAt":1785541824,"pakFileName":"RasaadMonkOutfit.pak","nexusFileId":126984,"metaUuid":null}
+{"nexusFileName":"RasaadMonkOutfit","nexusFileVersion":"2","nexusFileUploadedAt":1785618605,"pakFileName":"RasaadMonkOutfit.pak","nexusFileId":127063,"metaUuid":null}
 ]},
 "24186":{"nexusModName":"New Greetings For Wyll (Wyll Cinematic Universe Mod 5)","nexusUploadedBy":"magnetuning","nexusModId":24186,"paks":[
 {"nexusFileName":"New Greetings For Wyll - PAK","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1785552311,"pakFileName":"MGNTN_WyllNewGreetings.pak","nexusFileId":127000,"metaUuid":null}
@@ -67725,4 +67725,7 @@
 ]},
 "24223":{"nexusModName":"Humble Blessed Swords","nexusUploadedBy":"cayssac","nexusModId":24223,"paks":[
 {"nexusFileName":"Humble Blessed Swords","nexusFileVersion":"1","nexusFileUploadedAt":1785613820,"pakFileName":"Humble Blessed swords.pak","nexusFileId":127060,"metaUuid":null}
+]},
+"24226":{"nexusModName":"Chromatic Orb DND 5.5e 2024","nexusUploadedBy":"Crystic","nexusModId":24226,"paks":[
+{"nexusFileName":"Chromaticorb 2024 246f20e0 1d9 7u28","nexusFileVersion":"1","nexusFileUploadedAt":1785619449,"pakFileName":"ChromaticOrb_2024_246f20e0-1d92-7236-3cda-1396f8ad89fa.pak","nexusFileId":127067,"metaUuid":null}
 ]}}
