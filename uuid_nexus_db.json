@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-08-01T17:52:26.833103+00:00","total_mods":17131},
+{"_meta":{"last_run":"2026-08-01T18:52:36.690839+00:00","total_mods":17132},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -49771,7 +49771,7 @@
 ]},
 "17883":{"nexusModName":"NPCs have Subclasses and Feats (with Sorcerers NPCs)","nexusUploadedBy":"darkynho","nexusModId":17883,"paks":[
 {"nexusFileName":"NPCs have Subclasses","nexusFileVersion":"2.3.0.12","nexusFileUploadedAt":1771847498,"pakFileName":"NPCs have Subclasses.pak","nexusFileId":115457,"metaUuid":"598add30-4903-450b-8cbb-2d558a5eb5c0"},
-{"nexusFileName":"NPCs Have Subclasses - SE Beta version","nexusFileVersion":"3.4","nexusFileUploadedAt":1784661977,"pakFileName":"NPCs have Subclasses - SE.pak","nexusFileId":126160,"metaUuid":"8fc43c5d-fe37-4d51-9cc3-a3840adc21b2"}
+{"nexusFileName":"NPCs Have Subclasses - SE Beta version","nexusFileVersion":"3.5","nexusFileUploadedAt":1785606838,"pakFileName":"NPCs have Subclasses - SE.pak","nexusFileId":127053,"metaUuid":"8fc43c5d-fe37-4d51-9cc3-a3840adc21b2"}
 ]},
 "17884":{"nexusModName":"Armory - Auto-Transmog Vanity Outfit Manager_KOR","nexusUploadedBy":"Ahdarugo","nexusModId":17884,"paks":[
 {"nexusFileName":"Armory_KOR","nexusFileVersion":"1.8","nexusFileUploadedAt":1776484119,"pakFileName":"Armory_KOR.pak","nexusFileId":119332,"metaUuid":"19ffc728-043f-4046-8e1c-b03969eb7ae0"}
@@ -67715,4 +67715,7 @@
 ]},
 "24218":{"nexusModName":"Dynamic Difficulty Scaling for Russian","nexusUploadedBy":"MintRains","nexusModId":24218,"paks":[
 {"nexusFileName":"DynamicDifficultyScaling RU","nexusFileVersion":"1","nexusFileUploadedAt":1785597329,"pakFileName":"DynamicDifficultyScaling RU.pak","nexusFileId":127046,"metaUuid":null}
+]},
+"24221":{"nexusModName":"Berry's Head - Jekyll","nexusUploadedBy":"BerrySemifreddo","nexusModId":24221,"paks":[
+{"nexusFileName":"Berry's Head - Jekyll - Main File","nexusFileVersion":"1.0.0.9","nexusFileUploadedAt":1785608549,"pakFileName":"JekyllHead_ab7c04fb-cc8b-bf64-ad23-496e2144839b.pak","nexusFileId":127054,"metaUuid":null}
 ]}}
