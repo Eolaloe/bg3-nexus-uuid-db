@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-08-01T01:52:30.626403+00:00","total_mods":17112},
+{"_meta":{"last_run":"2026-08-01T02:52:26.523727+00:00","total_mods":17114},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -66061,7 +66061,7 @@
 {"nexusFileName":"House's Crimson Palace","nexusFileVersion":"4","nexusFileUploadedAt":1783108612,"pakFileName":"HousesLevels_5d0e52d9-9eb3-12bd-7ff8-7b66a586a041.pak","nexusFileId":124811,"metaUuid":"5d0e52d9-9eb3-12bd-7ff8-7b66a586a041"}
 ]},
 "23564":{"nexusModName":"Spells Reworked - Utility Cantrips (Guidance - Resistance - Thaumaturgy - Blessing of the Trickster)","nexusUploadedBy":"Mueffel","nexusModId":23564,"paks":[
-{"nexusFileName":"Spells Enhanced - Utility Cantrips","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1782488218,"pakFileName":"Spells Enhanced - Utility Cantrips.pak","nexusFileId":124328,"metaUuid":null}
+{"nexusFileName":"Spells Enhanced - Utility Cantrips","nexusFileVersion":"1.1.0","nexusFileUploadedAt":1785549538,"pakFileName":"Spells Enhanced - Utility Cantrips.pak","nexusFileId":126998,"metaUuid":null}
 ]},
 "23565":{"nexusModName":"Lady Jannath Edits - Patron of the Arts","nexusUploadedBy":"PoisonValentineXIII","nexusModId":23565,"paks":[
 {"nexusFileName":"Lady Jannath Edits - Patron of the Arts","nexusFileVersion":"1.0.0.2","nexusFileUploadedAt":1782484938,"pakFileName":"LadyJannathEdits_c7485084-a525-c7e3-cfa0-f034a2bab575.pak","nexusFileId":124322,"metaUuid":"c7485084-a525-c7e3-cfa0-f034a2bab575"}
@@ -67607,6 +67607,9 @@
 "24168":{"nexusModName":"Djinni","nexusUploadedBy":"PupFenrir20","nexusModId":24168,"paks":[
 {"nexusFileName":"Djinni","nexusFileVersion":"1","nexusFileUploadedAt":1785463440,"pakFileName":"Djinni.pak","nexusFileId":126877,"metaUuid":null}
 ]},
+"24169":{"nexusModName":"Vampire Lord's Attire","nexusUploadedBy":"HyperspaceTowel","nexusModId":24169,"paks":[
+{"nexusFileName":"HT_VampireLordsAttire","nexusFileVersion":"1.0.0.18","nexusFileUploadedAt":1785549449,"pakFileName":"HT_LootCazadorsArmor_4424a54e-698f-9f01-d13e-4872cce2ca66.pak","nexusFileId":126997,"metaUuid":null}
+]},
 "24171":{"nexusModName":"Lune's Expedition 33 Outfit","nexusUploadedBy":"aureusco","nexusModId":24171,"paks":[
 {"nexusFileName":"Exp33 Lune Outfit Non-VT","nexusFileVersion":"1.0.0.21","nexusFileUploadedAt":1785484803,"pakFileName":"EXP33_Lune_Gear_20dccfc3-4ada-e8b6-a2bc-c09b755138d0.pak","nexusFileId":126901,"metaUuid":null}
 ]},
@@ -67651,4 +67654,7 @@
 ]},
 "24198":{"nexusModName":"No Auto-move to Cast or Attack","nexusUploadedBy":"shellster","nexusModId":24198,"paks":[
 {"nexusFileName":"NoAutoMoveCast","nexusFileVersion":"1","nexusFileUploadedAt":1785542753,"pakFileName":"NoAutoMoveCast.pak","nexusFileId":126987,"metaUuid":null}
+]},
+"24201":{"nexusModName":"mysterious mystra (mystra redesign)","nexusUploadedBy":"teethingwitch","nexusModId":24201,"paks":[
+{"nexusFileName":"mysteriousmystra","nexusFileVersion":"1","nexusFileUploadedAt":1785552054,"pakFileName":"mysteriousmystra_32dabf18-65de-0669-e865-acbf06ec7d54.pak","nexusFileId":126999,"metaUuid":null}
 ]}}
