@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-08-01T18:52:36.690839+00:00","total_mods":17132},
+{"_meta":{"last_run":"2026-08-01T19:52:55.725611+00:00","total_mods":17133},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -49924,7 +49924,8 @@
 {"nexusFileName":"No Tutorial Popup","nexusFileVersion":"v1.1","nexusFileUploadedAt":1754106693,"pakFileName":"NoTutorialPopup_f571f706-2d9b-9b2d-7775-1e8399360d85.pak","nexusFileId":99679,"metaUuid":"f571f706-2d9b-9b2d-7775-1e8399360d85"}
 ]},
 "17934":{"nexusModName":"Snapshots","nexusUploadedBy":"rdekarios","nexusModId":17934,"paks":[
-{"nexusFileName":"Snapshots","nexusFileVersion":"1.3.0.41","nexusFileUploadedAt":1766322901,"pakFileName":"Snapshots_ccf0be9f-61e4-e7f4-8755-24fecb2f1f9b.pak","nexusFileId":110016,"metaUuid":"ccf0be9f-61e4-e7f4-8755-24fecb2f1f9b"}
+{"nexusFileName":"Snapshots","nexusFileVersion":"1.3.0.42","nexusFileUploadedAt":1785612040,"pakFileName":"Snapshots_ccf0be9f-61e4-e7f4-8755-24fecb2f1f9b (1).pak","nexusFileId":127059,"metaUuid":null},
+{"nexusFileName":"Snapshots","nexusFileVersion":"1.3.0.42","nexusFileUploadedAt":1785612040,"pakFileName":"._Snapshots_ccf0be9f-61e4-e7f4-8755-24fecb2f1f9b (1).pak","nexusFileId":127059,"metaUuid":null}
 ]},
 "17935":{"nexusModName":"Altair s robe (Assassin s Creed)","nexusUploadedBy":"olddude1993","nexusModId":17935,"paks":[
 {"nexusFileName":"Alair Robes","nexusFileVersion":"1","nexusFileUploadedAt":1754054326,"pakFileName":"Altair_c58f4341-1812-773b-166f-14cdec576255.pak","nexusFileId":99622,"metaUuid":null}
@@ -67292,11 +67293,11 @@
 {"nexusFileName":"SGT_The Oaken Maiden - Portrait","nexusFileVersion":"1","nexusFileUploadedAt":1784834843,"pakFileName":"Oaken Maiden - Jaheira Portrait.pak","nexusFileId":126319,"metaUuid":"0c575630-3690-4384-aca3-8ad158bf1f2c"},
 {"nexusFileName":"SGT_The Oaken Maiden - Portrait - Young","nexusFileVersion":"1","nexusFileUploadedAt":1784919456,"pakFileName":"Oaken Maiden - Jaheira Portrait - Young.pak","nexusFileId":126396,"metaUuid":null},
 {"nexusFileName":"SGT_OakenMaiden_HEAD for CC","nexusFileVersion":"1","nexusFileUploadedAt":1785167996,"pakFileName":"SGT_OakenMaiden_Head_ae0f82ff-0bb4-92b3-cf39-e8234578db8f.pak","nexusFileId":126598,"metaUuid":null},
-{"nexusFileName":"SGT_OakenMaiden_HAIR for CC","nexusFileVersion":"1","nexusFileUploadedAt":1785168100,"pakFileName":"SGT_OakenMaiden_Hair_1829aca3-13ca-4c30-eedb-a187fc15b7e0.pak","nexusFileId":126599,"metaUuid":null},
 {"nexusFileName":"SGT_The Oaken Maiden_Jaheira Edit","nexusFileVersion":"1.1","nexusFileUploadedAt":1785333454,"pakFileName":"SGT_JaheiraEdit_801d16be-dca8-cdcb-72d3-6c41c312f62e.pak","nexusFileId":126750,"metaUuid":"801d16be-dca8-cdcb-72d3-6c41c312f62e"},
 {"nexusFileName":"SGT_The Oaken Maiden_Young","nexusFileVersion":"1.1","nexusFileUploadedAt":1785333552,"pakFileName":"SGT_JaheiraEdit_801d16be-dca8-cdcb-72d3-6c41c312f62e.pak","nexusFileId":126751,"metaUuid":"801d16be-dca8-cdcb-72d3-6c41c312f62e"},
 {"nexusFileName":"SGT_The Oaken Maiden_Vanilla Colors","nexusFileVersion":"1.1","nexusFileUploadedAt":1785333684,"pakFileName":"SGT_JaheiraEdit_801d16be-dca8-cdcb-72d3-6c41c312f62e.pak","nexusFileId":126752,"metaUuid":"801d16be-dca8-cdcb-72d3-6c41c312f62e"},
-{"nexusFileName":"SGT_The Oaken Maiden_Young_Vanilla Hair","nexusFileVersion":"1.1","nexusFileUploadedAt":1785524106,"pakFileName":"SGT_JaheiraEdit_801d16be-dca8-cdcb-72d3-6c41c312f62e.pak","nexusFileId":126938,"metaUuid":"801d16be-dca8-cdcb-72d3-6c41c312f62e"}
+{"nexusFileName":"SGT_The Oaken Maiden_Young_Vanilla Hair","nexusFileVersion":"1.1","nexusFileUploadedAt":1785524106,"pakFileName":"SGT_JaheiraEdit_801d16be-dca8-cdcb-72d3-6c41c312f62e.pak","nexusFileId":126938,"metaUuid":"801d16be-dca8-cdcb-72d3-6c41c312f62e"},
+{"nexusFileName":"SGT_OakenMaiden_HAIR for CC","nexusFileVersion":"1.1","nexusFileUploadedAt":1785611206,"pakFileName":"SGT_OakenMaiden_Hair_1829aca3-13ca-4c30-eedb-a187fc15b7e0.pak","nexusFileId":127056,"metaUuid":null}
 ]},
 "24031":{"nexusModName":"Aylin's Kintsugi for STAV","nexusUploadedBy":"EvilSnail0fDestruktion","nexusModId":24031,"paks":[
 {"nexusFileName":"STAVAylin","nexusFileVersion":"1.0.1","nexusFileUploadedAt":1785115104,"pakFileName":"STAVAylin.pak","nexusFileId":126568,"metaUuid":"869f6f17-3ea8-5e35-9b82-a1b7fc565a29"}
@@ -67514,8 +67515,8 @@
 {"nexusFileName":"MadMicky Petals Of Steel Fairy Poses","nexusFileVersion":"1","nexusFileUploadedAt":1785278850,"pakFileName":"Petals_of_Steel_Fairy_Poses_ea7f3a5c-bf48-58d1-2f48-5ea160a19303.pak","nexusFileId":126704,"metaUuid":null}
 ]},
 "24122":{"nexusModName":"Better Girlfriends","nexusUploadedBy":"slowsped","nexusModId":24122,"paks":[
-{"nexusFileName":"BetterGirlfriends","nexusFileVersion":"2","nexusFileUploadedAt":1785421538,"pakFileName":"BetterGirlfriends.pak","nexusFileId":126836,"metaUuid":"c70c0ceb-16a8-4bc1-95d8-a95687d7dc5c"},
-{"nexusFileName":"BetterGirlfriends","nexusFileVersion":"2","nexusFileUploadedAt":1785421538,"pakFileName":"St8cyWhitelist.pak","nexusFileId":126836,"metaUuid":"c70c0ceb-16a8-4bc1-95d8-a95687d7dc5c"}
+{"nexusFileName":"BetterGirlfriends","nexusFileVersion":"3","nexusFileUploadedAt":1785611133,"pakFileName":"BetterGirlfriends.pak","nexusFileId":127055,"metaUuid":"c70c0ceb-16a8-4bc1-95d8-a95687d7dc5c"},
+{"nexusFileName":"BetterGirlfriends","nexusFileVersion":"3","nexusFileUploadedAt":1785611133,"pakFileName":"St8cyWhitelist.pak","nexusFileId":127055,"metaUuid":"c70c0ceb-16a8-4bc1-95d8-a95687d7dc5c"}
 ]},
 "24123":{"nexusModName":"Item Mod Source","nexusUploadedBy":"yaynay","nexusModId":24123,"paks":[
 {"nexusFileName":"ItemModSource","nexusFileVersion":"1","nexusFileUploadedAt":1785251250,"pakFileName":"ItemModSource.pak","nexusFileId":126671,"metaUuid":"7e9a6a31-caed-4a66-9815-fd149c981e51"}
@@ -67614,8 +67615,8 @@
 "24166":{"nexusModName":"Steel Watcher","nexusUploadedBy":"PupFenrir20","nexusModId":24166,"paks":[
 {"nexusFileName":"SteelWatcher","nexusFileVersion":"1","nexusFileUploadedAt":1785460723,"pakFileName":"SteelWatcher.pak","nexusFileId":126872,"metaUuid":null}
 ]},
-"24167":{"nexusModName":"Firstborn Wyrm Patron for Warlock","nexusUploadedBy":"Kaiodenic","nexusModId":24167,"paks":[
-{"nexusFileName":"FirstbornWyrmPatron","nexusFileVersion":"2","nexusFileUploadedAt":1785604882,"pakFileName":"FirstbornWyrmPatron.pak","nexusFileId":127049,"metaUuid":null}
+"24167":{"nexusModName":"Firstborn Wyrm Patron for Warlock (Dragoon)","nexusUploadedBy":"Kaiodenic","nexusModId":24167,"paks":[
+{"nexusFileName":"FirstbornWyrmPatron","nexusFileVersion":"1.0.1","nexusFileUploadedAt":1785604882,"pakFileName":"FirstbornWyrmPatron.pak","nexusFileId":127049,"metaUuid":null}
 ]},
 "24168":{"nexusModName":"Djinni","nexusUploadedBy":"PupFenrir20","nexusModId":24168,"paks":[
 {"nexusFileName":"Djinni","nexusFileVersion":"1","nexusFileUploadedAt":1785463440,"pakFileName":"Djinni.pak","nexusFileId":126877,"metaUuid":null}
@@ -67714,8 +67715,11 @@
 {"nexusFileName":"Cavaleiro Feiticeiro Pt Br","nexusFileVersion":"2.0.0.7","nexusFileUploadedAt":1785586813,"pakFileName":"Weave_Bound_b3e71ef9-2d27-fdb4-dfb3-df552c151ac7.pak","nexusFileId":127035,"metaUuid":null}
 ]},
 "24218":{"nexusModName":"Dynamic Difficulty Scaling for Russian","nexusUploadedBy":"MintRains","nexusModId":24218,"paks":[
-{"nexusFileName":"DynamicDifficultyScaling RU","nexusFileVersion":"1","nexusFileUploadedAt":1785597329,"pakFileName":"DynamicDifficultyScaling RU.pak","nexusFileId":127046,"metaUuid":null}
+{"nexusFileName":"DynamicDifficultyScaling RU","nexusFileVersion":"1.001","nexusFileUploadedAt":1785611273,"pakFileName":"DynamicDifficultyScaling RU.pak","nexusFileId":127057,"metaUuid":null}
 ]},
 "24221":{"nexusModName":"Berry's Head - Jekyll","nexusUploadedBy":"BerrySemifreddo","nexusModId":24221,"paks":[
 {"nexusFileName":"Berry's Head - Jekyll - Main File","nexusFileVersion":"1.0.0.9","nexusFileUploadedAt":1785608549,"pakFileName":"JekyllHead_ab7c04fb-cc8b-bf64-ad23-496e2144839b.pak","nexusFileId":127054,"metaUuid":null}
+]},
+"24223":{"nexusModName":"Humble Blessed Swords","nexusUploadedBy":"cayssac","nexusModId":24223,"paks":[
+{"nexusFileName":"Humble Blessed Swords","nexusFileVersion":"1","nexusFileUploadedAt":1785613820,"pakFileName":"Humble Blessed swords.pak","nexusFileId":127060,"metaUuid":null}
 ]}}
