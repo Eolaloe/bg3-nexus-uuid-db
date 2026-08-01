@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-08-01T21:52:40.512170+00:00","total_mods":17135},
+{"_meta":{"last_run":"2026-08-01T22:52:24.119166+00:00","total_mods":17136},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -35726,7 +35726,7 @@
 {"nexusFileName":"ImprovedHighElfCantrips","nexusFileVersion":"1.0","nexusFileUploadedAt":1727569139,"pakFileName":"ImprovedHighElfCantrips_747b3382-ec91-3cd6-9661-f29e769e831f.pak","nexusFileId":73151,"metaUuid":"747b3382-ec91-3cd6-9661-f29e769e831f"}
 ]},
 "12618":{"nexusModName":"Pactbound - A Warlock Overhaul","nexusUploadedBy":"Ooreeoo","nexusModId":12618,"paks":[
-{"nexusFileName":"Pactbound","nexusFileVersion":"2.3.1.1","nexusFileUploadedAt":1746825035,"pakFileName":"BetterWarlock_6aa4919d-86f1-e95c-04ef-e0efe6c5a87d.pak","nexusFileId":92331,"metaUuid":"6aa4919d-86f1-e95c-04ef-e0efe6c5a87d"}
+{"nexusFileName":"Pactbound","nexusFileVersion":"2.4","nexusFileUploadedAt":1785621931,"pakFileName":"BetterWarlock_6aa4919d-86f1-e95c-04ef-e0efe6c5a87d.pak","nexusFileId":127070,"metaUuid":"6aa4919d-86f1-e95c-04ef-e0efe6c5a87d"}
 ]},
 "12621":{"nexusModName":"Choose Your Stats-zh-cn","nexusUploadedBy":"zuichu","nexusModId":12621,"paks":[
 {"nexusFileName":"chooseyourstatszh-cn","nexusFileVersion":"1.75","nexusFileUploadedAt":1727599223,"pakFileName":"chooseyourstatszh-cn.pak","nexusFileId":73207,"metaUuid":null}
@@ -67450,7 +67450,7 @@
 "24086":{"nexusModName":"Mod_Configuration_Menu_CHS","nexusUploadedBy":"everywherewind","nexusModId":24086,"paks":[
 {"nexusFileName":"Mod Configuration Menu Chs 4dd Atcq","nexusFileVersion":"1","nexusFileUploadedAt":1785038892,"pakFileName":"Mod_Configuration_Menu_CHS_4dda98cb-1f4e-bc09-90b0-2ee98516837f.pak","nexusFileId":126505,"metaUuid":null}
 ]},
-"24087":{"nexusModName":"swirl-less orin (orin redesign)","nexusUploadedBy":"teethingwitch","nexusModId":24087,"paks":[
+"24087":{"nexusModName":"swirl-less orin","nexusUploadedBy":"teethingwitch","nexusModId":24087,"paks":[
 {"nexusFileName":"Swirlessorin","nexusFileVersion":"1","nexusFileUploadedAt":1785044613,"pakFileName":"OrintheRedRedone_8dad2cee-c6b3-7529-923c-d92d61ba82ef.pak","nexusFileId":126508,"metaUuid":null},
 {"nexusFileName":"Orinwithswirls","nexusFileVersion":"1","nexusFileUploadedAt":1785120941,"pakFileName":"OrintheRedRedone_8dad2cee-c6b3-7529-923c-d92d61ba82ef.pak","nexusFileId":126572,"metaUuid":null}
 ]},
@@ -67684,6 +67684,9 @@
 "24201":{"nexusModName":"mysterious mystra","nexusUploadedBy":"teethingwitch","nexusModId":24201,"paks":[
 {"nexusFileName":"mysteriousmystra","nexusFileVersion":"1","nexusFileUploadedAt":1785552054,"pakFileName":"mysteriousmystra_32dabf18-65de-0669-e865-acbf06ec7d54.pak","nexusFileId":126999,"metaUuid":null}
 ]},
+"24202":{"nexusModName":"ketheric (crypt-breath) thorm","nexusUploadedBy":"teethingwitch","nexusModId":24202,"paks":[
+{"nexusFileName":"Cryptbreaththorm","nexusFileVersion":"1","nexusFileUploadedAt":1785621060,"pakFileName":"cryptbreaththorm.pak","nexusFileId":127068,"metaUuid":null}
+]},
 "24204":{"nexusModName":"Ultimate Shields (PT-BR)","nexusUploadedBy":"Firetoga","nexusModId":24204,"paks":[
 {"nexusFileName":"Ultimate Shields (PT-BR)","nexusFileVersion":"1.0","nexusFileUploadedAt":1785556513,"pakFileName":"Ultimate Shields (PT-BR).pak","nexusFileId":127004,"metaUuid":null}
 ]},
@@ -67727,5 +67730,6 @@
 {"nexusFileName":"Humble Blessed Swords","nexusFileVersion":"1","nexusFileUploadedAt":1785613820,"pakFileName":"Humble Blessed swords.pak","nexusFileId":127060,"metaUuid":"effa455b-cc01-4be9-a4b9-69f319aaa0db"}
 ]},
 "24226":{"nexusModName":"Chromatic Orb DND 5.5e 2024","nexusUploadedBy":"Crystic","nexusModId":24226,"paks":[
-{"nexusFileName":"Chromaticorb 2024 246f20e0 1d9 7u28","nexusFileVersion":"1","nexusFileUploadedAt":1785619449,"pakFileName":"ChromaticOrb_2024_246f20e0-1d92-7236-3cda-1396f8ad89fa.pak","nexusFileId":127067,"metaUuid":null}
+{"nexusFileName":"Chromatic Orb 5.5e 2024","nexusFileVersion":"1","nexusFileUploadedAt":1785619449,"pakFileName":"ChromaticOrb_2024_246f20e0-1d92-7236-3cda-1396f8ad89fa.pak","nexusFileId":127067,"metaUuid":null},
+{"nexusFileName":"Empowered Metamagic","nexusFileVersion":"1","nexusFileUploadedAt":1785621323,"pakFileName":"Metamagic_Empowered_18f1ce79-094b-47c1-d039-febdf5bcde17.pak","nexusFileId":127069,"metaUuid":null}
 ]}}
