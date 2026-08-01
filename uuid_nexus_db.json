@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-07-31T23:52:06.899665+00:00","total_mods":17110},
+{"_meta":{"last_run":"2026-08-01T00:52:31.298054+00:00","total_mods":17112},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -28908,8 +28908,8 @@
 {"nexusFileName":"A Candle In The Dark - Custom Companion - Part 3","nexusFileVersion":"1.1.0.1","nexusFileUploadedAt":1782098318,"pakFileName":"MGNTN_JasonCompanionPt3.pak","nexusFileId":124055,"metaUuid":null},
 {"nexusFileName":"Jason Skill Proficiencies Patch","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1782098486,"pakFileName":"MGNTN_JasonDefaultSkillsPatch.pak","nexusFileId":124056,"metaUuid":"951fc302-521f-4eb1-902f-3ab0a111f8b8"},
 {"nexusFileName":"Give Me My Title Patch for Jason","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1782098636,"pakFileName":"KJMMGNTN_JasonGiveMeMyTitlePatch.pak","nexusFileId":124057,"metaUuid":"53023745-e092-497a-9b18-d220ba6ed830"},
-{"nexusFileName":"A Candle In The Dark - Custom Companion - Part 1","nexusFileVersion":"1.1.1.1","nexusFileUploadedAt":1782273425,"pakFileName":"MGNTN_JasonCompanionPt1.pak","nexusFileId":124186,"metaUuid":"2396f116-b622-4940-96bf-083b120e2a30"},
-{"nexusFileName":"A Candle In The Dark - Custom Companion - Part 2","nexusFileVersion":"1.1.6.1","nexusFileUploadedAt":1783907738,"pakFileName":"MGNTN_JasonCompanionPt2.pak","nexusFileId":125507,"metaUuid":"659571cb-e6f1-4c1a-9ab0-cc40a5d28463"}
+{"nexusFileName":"A Candle In The Dark - Custom Companion - Part 2","nexusFileVersion":"1.2.0.0","nexusFileUploadedAt":1785543139,"pakFileName":"MGNTN_JasonCompanionPt2.pak","nexusFileId":126988,"metaUuid":"659571cb-e6f1-4c1a-9ab0-cc40a5d28463"},
+{"nexusFileName":"A Candle In The Dark - Custom Companion - Part 1","nexusFileVersion":"1.2.0.0","nexusFileUploadedAt":1785543265,"pakFileName":"MGNTN_JasonCompanionPt1.pak","nexusFileId":126989,"metaUuid":"2396f116-b622-4940-96bf-083b120e2a30"}
 ]},
 "10002":{"nexusModName":"Ponytail Hairstyles","nexusUploadedBy":"Cerberry","nexusModId":10002,"paks":[
 {"nexusFileName":"Ponytails","nexusFileVersion":"1.1.1.0","nexusFileUploadedAt":1727298956,"pakFileName":"CBR_Ponytails.pak","nexusFileId":72705,"metaUuid":"143878ab-a689-493c-8816-686103d889bd"}
@@ -67601,6 +67601,9 @@
 "24166":{"nexusModName":"Steel Watcher","nexusUploadedBy":"PupFenrir20","nexusModId":24166,"paks":[
 {"nexusFileName":"SteelWatcher","nexusFileVersion":"1","nexusFileUploadedAt":1785460723,"pakFileName":"SteelWatcher.pak","nexusFileId":126872,"metaUuid":null}
 ]},
+"24167":{"nexusModName":"Firstborn Wyrm Patron for Warlock","nexusUploadedBy":"Kaiodenic","nexusModId":24167,"paks":[
+{"nexusFileName":"FirstbornWyrmPatron","nexusFileVersion":"1","nexusFileUploadedAt":1785543795,"pakFileName":"FirstbornWyrmPatron.pak","nexusFileId":126991,"metaUuid":null}
+]},
 "24168":{"nexusModName":"Djinni","nexusUploadedBy":"PupFenrir20","nexusModId":24168,"paks":[
 {"nexusFileName":"Djinni","nexusFileVersion":"1","nexusFileUploadedAt":1785463440,"pakFileName":"Djinni.pak","nexusFileId":126877,"metaUuid":null}
 ]},
@@ -67644,5 +67647,8 @@
 {"nexusFileName":"Murdertribunalredone","nexusFileVersion":"1","nexusFileUploadedAt":1785539958,"pakFileName":"murdertribunalredone_17e16a1e-2e22-8a9c-a21b-d07f698bd4aa.pak","nexusFileId":126976,"metaUuid":null}
 ]},
 "24195":{"nexusModName":"The Dark Fey Labyrinth (WIP)","nexusUploadedBy":"SultryShea","nexusModId":24195,"paks":[
-{"nexusFileName":"The Dark Fey Labyrinth","nexusFileVersion":"1","nexusFileUploadedAt":1785540709,"pakFileName":"FeyLabyrinth_3d3bfda8-acf0-20ec-83e9-52b6f90146d4.pak","nexusFileId":126978,"metaUuid":null}
+{"nexusFileName":"The Dark Fey Labyrinth","nexusFileVersion":"2","nexusFileUploadedAt":1785543599,"pakFileName":"FeyLabyrinth_3d3bfda8-acf0-20ec-83e9-52b6f90146d4.pak","nexusFileId":126990,"metaUuid":null}
+]},
+"24198":{"nexusModName":"No Auto-move to Cast or Attack","nexusUploadedBy":"shellster","nexusModId":24198,"paks":[
+{"nexusFileName":"NoAutoMoveCast","nexusFileVersion":"1","nexusFileUploadedAt":1785542753,"pakFileName":"NoAutoMoveCast.pak","nexusFileId":126987,"metaUuid":null}
 ]}}
