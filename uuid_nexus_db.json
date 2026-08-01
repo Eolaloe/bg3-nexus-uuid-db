@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-08-01T02:52:26.523727+00:00","total_mods":17114},
+{"_meta":{"last_run":"2026-08-01T03:52:07.816228+00:00","total_mods":17116},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -66310,7 +66310,7 @@
 {"nexusFileName":"MadMicky The Space Between Poses","nexusFileVersion":"1","nexusFileUploadedAt":1783216116,"pakFileName":"The_Space_Between_Poses_ad1b627f-0ee3-08a8-dd93-c72560cc3340.pak","nexusFileId":124914,"metaUuid":null}
 ]},
 "23660":{"nexusModName":"Bloodtrail - Path of Undeath (PT-BR)","nexusUploadedBy":"Firetoga","nexusModId":23660,"paks":[
-{"nexusFileName":"Bloodtrail - Path of Undeath (PT-BR)","nexusFileVersion":"1.6.2","nexusFileUploadedAt":1783309796,"pakFileName":"Bloodtrail (1.6.2 - PT-BR).pak","nexusFileId":125013,"metaUuid":null}
+{"nexusFileName":"Bloodtrail - Path of Undeath (PT-BR)","nexusFileVersion":"1.6.3","nexusFileUploadedAt":1785552930,"pakFileName":"Bloodtrail (1.6.3 - PT-BR).pak","nexusFileId":127002,"metaUuid":null}
 ]},
 "23661":{"nexusModName":"Spear of Radiant Decay","nexusUploadedBy":"DorianNotGrey","nexusModId":23661,"paks":[
 {"nexusFileName":"Spear Of Radiant Decay","nexusFileVersion":"1","nexusFileUploadedAt":1782959148,"pakFileName":"Spear_of_Radiant_Decay.pak","nexusFileId":124700,"metaUuid":"64225302-4b42-49c4-8b14-abc83ead135d"}
@@ -67481,6 +67481,9 @@
 "24108":{"nexusModName":"Archmage (Lore-accurate Class for Origin Gale)","nexusUploadedBy":"FortisEstVeritas","nexusModId":24108,"paks":[
 {"nexusFileName":"Archmage","nexusFileVersion":"1.0","nexusFileUploadedAt":1785158592,"pakFileName":"Archmage Wizard.pak","nexusFileId":126593,"metaUuid":null}
 ]},
+"24109":{"nexusModName":"Cursed Loading Screens","nexusUploadedBy":"HyperspaceTowel","nexusModId":24109,"paks":[
+{"nexusFileName":"HT_CursedLoadingScreens","nexusFileVersion":"1.0.1.1","nexusFileUploadedAt":1785552758,"pakFileName":"HT_MemeLoadingScreens_f210b92e-436e-3234-ddee-b30d9bcadeb8.pak","nexusFileId":127001,"metaUuid":null}
+]},
 "24111":{"nexusModName":"Glow Frog Eyes - EOTB Preset","nexusUploadedBy":"clownshrooms","nexusModId":24111,"paks":[
 {"nexusFileName":"GlowFrogEyes","nexusFileVersion":"1","nexusFileUploadedAt":1785328614,"pakFileName":"GlowFrogEyes.pak","nexusFileId":126743,"metaUuid":null}
 ]},
@@ -67631,6 +67634,9 @@
 "24185":{"nexusModName":"Rasaad's Robe - Clothes of the Sun Soul Monk","nexusUploadedBy":"commanderstrawberry","nexusModId":24185,"paks":[
 {"nexusFileName":"RasaadMonkOutfit","nexusFileVersion":"1","nexusFileUploadedAt":1785541824,"pakFileName":"RasaadMonkOutfit.pak","nexusFileId":126984,"metaUuid":null}
 ]},
+"24186":{"nexusModName":"New Greetings For Wyll (Wyll Cinematic Universe Mod 5)","nexusUploadedBy":"magnetuning","nexusModId":24186,"paks":[
+{"nexusFileName":"New Greetings For Wyll - PAK","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1785552311,"pakFileName":"MGNTN_WyllNewGreetings.pak","nexusFileId":127000,"metaUuid":null}
+]},
 "24187":{"nexusModName":"Distinctive Consumables","nexusUploadedBy":"Roxidium","nexusModId":24187,"paks":[
 {"nexusFileName":"Distinctive Consumables","nexusFileVersion":"1","nexusFileUploadedAt":1785530647,"pakFileName":"ROX_Distinctive_Consumables.pak","nexusFileId":126946,"metaUuid":null}
 ]},
@@ -67655,6 +67661,6 @@
 "24198":{"nexusModName":"No Auto-move to Cast or Attack","nexusUploadedBy":"shellster","nexusModId":24198,"paks":[
 {"nexusFileName":"NoAutoMoveCast","nexusFileVersion":"1","nexusFileUploadedAt":1785542753,"pakFileName":"NoAutoMoveCast.pak","nexusFileId":126987,"metaUuid":null}
 ]},
-"24201":{"nexusModName":"mysterious mystra (mystra redesign)","nexusUploadedBy":"teethingwitch","nexusModId":24201,"paks":[
+"24201":{"nexusModName":"mysterious mystra","nexusUploadedBy":"teethingwitch","nexusModId":24201,"paks":[
 {"nexusFileName":"mysteriousmystra","nexusFileVersion":"1","nexusFileUploadedAt":1785552054,"pakFileName":"mysteriousmystra_32dabf18-65de-0669-e865-acbf06ec7d54.pak","nexusFileId":126999,"metaUuid":null}
 ]}}
