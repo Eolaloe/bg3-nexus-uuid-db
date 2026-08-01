@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-08-01T09:52:19.372673+00:00","total_mods":17126},
+{"_meta":{"last_run":"2026-08-01T10:52:39.902545+00:00","total_mods":17127},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -51729,7 +51729,7 @@
 {"nexusFileName":"Heads of Plenty Vol. III - UTav and KAVT Patch","nexusFileVersion":"1.0","nexusFileUploadedAt":1757631988,"pakFileName":"Heads_of_Plenty_Vol_3_UTAV.pak","nexusFileId":102528,"metaUuid":"49ff0bc4-884f-4b74-a02d-d46cc3ddcbce"}
 ]},
 "18572":{"nexusModName":"Ghost of Faerun - Fighter Subclass Lv20 Expansion Rework","nexusUploadedBy":"Ahdarugo","nexusModId":18572,"paks":[
-{"nexusFileName":"Ghost of Faerun - Fighter Subclass Lv20","nexusFileVersion":"2.1.0.5","nexusFileUploadedAt":1785576805,"pakFileName":"GhostofFaerun_FighterSubclass_055a9471-1df5-45ab-8935-1e19102cc1a8.pak","nexusFileId":127027,"metaUuid":"055a9471-1df5-45ab-8935-1e19102cc1a8"}
+{"nexusFileName":"Ghost of Faerun - Fighter Subclass Lv20","nexusFileVersion":"2.1.0.6","nexusFileUploadedAt":1785578359,"pakFileName":"GhostofFaerun_FighterSubclass_055a9471-1df5-45ab-8935-1e19102cc1a8.pak","nexusFileId":127029,"metaUuid":"055a9471-1df5-45ab-8935-1e19102cc1a8"}
 ]},
 "18573":{"nexusModName":"Absolute Defeat (Framework)","nexusUploadedBy":"tripulah","nexusModId":18573,"paks":[
 {"nexusFileName":"AbsoluteDefeat","nexusFileVersion":"1.3.1.0","nexusFileUploadedAt":1775791865,"pakFileName":"AbsoluteDefeat.pak","nexusFileId":118585,"metaUuid":"84a166e9-6a68-43a4-82f5-565ec14c349d"}
@@ -66383,7 +66383,7 @@
 ]},
 "23685":{"nexusModName":"Blackwood's Red Mage","nexusUploadedBy":"EnixLHQ","nexusModId":23685,"paks":[
 {"nexusFileName":"Blackwood's Red Mage - Free Offhand","nexusFileVersion":"1","nexusFileUploadedAt":1784431444,"pakFileName":"RedMage_FreeOffhand.pak","nexusFileId":125974,"metaUuid":null},
-{"nexusFileName":"Blackwood's Red Mage","nexusFileVersion":"2.2.4.44","nexusFileUploadedAt":1785268851,"pakFileName":"Red_Mage_Homebrew_6aec3ad4-990d-7667-a8e9-399d1bb6fc4b.pak","nexusFileId":126695,"metaUuid":null}
+{"nexusFileName":"Blackwood's Red Mage","nexusFileVersion":"2.2.4.45","nexusFileUploadedAt":1785579620,"pakFileName":"Red_Mage_Homebrew_6aec3ad4-990d-7667-a8e9-399d1bb6fc4b.pak","nexusFileId":127031,"metaUuid":null}
 ]},
 "23686":{"nexusModName":"Improved Equip Menu","nexusUploadedBy":"sowww","nexusModId":23686,"paks":[
 {"nexusFileName":"Improved Equip Menu","nexusFileVersion":"1.1.0","nexusFileUploadedAt":1783264510,"pakFileName":"ImprovedEquipMenu.pak","nexusFileId":124956,"metaUuid":"c953c1b3-cf57-4688-9950-9fc6fdc23415"}
@@ -67699,4 +67699,7 @@
 ]},
 "24211":{"nexusModName":"Skirbie's Arcane Witch - Progressive Equipment Set for Chinese","nexusUploadedBy":"Lucian51316","nexusModId":24211,"paks":[
 {"nexusFileName":"Arcane Witch   Progressive Equipment For Chinese","nexusFileVersion":"1","nexusFileUploadedAt":1785576356,"pakFileName":"ATSiestff_cn.pak","nexusFileId":127026,"metaUuid":null}
+]},
+"24212":{"nexusModName":"The Winding Way - Fey Labyrinth Mini Map (WIP)","nexusUploadedBy":"magnetuning","nexusModId":24212,"paks":[
+{"nexusFileName":"The Winding Way - Fey Labyrinth Mini Map","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1785579539,"pakFileName":"MGNTN_FeyLabyrinthMiniMap.pak","nexusFileId":127030,"metaUuid":null}
 ]}}
