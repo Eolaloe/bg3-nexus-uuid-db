@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-08-02T09:52:03.672143+00:00","total_mods":17139},
+{"_meta":{"last_run":"2026-08-02T10:52:19.290753+00:00","total_mods":17139},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -28414,8 +28414,8 @@
 {"nexusFileName":"DIQ Dialogue Patches","nexusFileVersion":"1.4.5.0","nexusFileUploadedAt":1774855695,"pakFileName":"DIQ Dialogue Patches.pak","nexusFileId":117784,"metaUuid":"5bbffb35-97f5-4576-8d1d-af43fb123c4c"},
 {"nexusFileName":"Goon's Druid Overhaul","nexusFileVersion":"0.5.1.1","nexusFileUploadedAt":1777016129,"pakFileName":"Goon's Druid Overhaul.pak","nexusFileId":119780,"metaUuid":"c534d6d5-7c82-4154-bea8-d1c45f11b1bc"},
 {"nexusFileName":"JWL Discordant Instruments Enhanced Revamped","nexusFileVersion":"1.6.1.0","nexusFileUploadedAt":1783351040,"pakFileName":"JWL Discordant Instruments.pak","nexusFileId":125086,"metaUuid":null},
-{"nexusFileName":"DIQ Misc Patches","nexusFileVersion":"1.4.7.1","nexusFileUploadedAt":1785588848,"pakFileName":"DIQ Misc Patches.pak","nexusFileId":127038,"metaUuid":"4c628a1a-34d9-4362-8459-2c2bb3b8e5fb"},
-{"nexusFileName":"DIQ Misc Patches - Overrides","nexusFileVersion":"1.4.7.1","nexusFileUploadedAt":1785588883,"pakFileName":"DIQ Misc Patches - Overrides.pak","nexusFileId":127039,"metaUuid":"4cee820f-03e8-465f-b65c-0a9fa8272b29"}
+{"nexusFileName":"DIQ Misc Patches - Overrides","nexusFileVersion":"1.4.7.1","nexusFileUploadedAt":1785588883,"pakFileName":"DIQ Misc Patches - Overrides.pak","nexusFileId":127039,"metaUuid":"4cee820f-03e8-465f-b65c-0a9fa8272b29"},
+{"nexusFileName":"DIQ Misc Patches","nexusFileVersion":"1.4.7.2","nexusFileUploadedAt":1785666816,"pakFileName":"DIQ Misc Patches.pak","nexusFileId":127107,"metaUuid":"4c628a1a-34d9-4362-8459-2c2bb3b8e5fb"}
 ]},
 "9786":{"nexusModName":"Half-Dragon-CHS","nexusUploadedBy":"Nefelibata426","nexusModId":9786,"paks":[
 {"nexusFileName":"HalfDragon-CHS","nexusFileVersion":"2.1.0.0","nexusFileUploadedAt":1716603680,"pakFileName":"HalfDragonCHS.pak","nexusFileId":58597,"metaUuid":null},
@@ -36299,7 +36299,7 @@
 {"nexusFileName":"TheTrueChampion_v1.2 - BR","nexusFileVersion":"1.0","nexusFileUploadedAt":1728187370,"pakFileName":"TheTrueChampion_v1.2 - BR.pak","nexusFileId":74189,"metaUuid":null}
 ]},
 "12834":{"nexusModName":"Goon's Library - Passives Functions Spells and More","nexusUploadedBy":"BaldursGoonsack","nexusModId":12834,"paks":[
-{"nexusFileName":"Goon's Library","nexusFileVersion":"4.17.0.0","nexusFileUploadedAt":1785494104,"pakFileName":"Goon's Library.pak","nexusFileId":126905,"metaUuid":"07fbc2f1-f359-4b9d-b243-fe28bd783e4c"}
+{"nexusFileName":"Goon's Library","nexusFileVersion":"4.17.1.0","nexusFileUploadedAt":1785667600,"pakFileName":"Goon's Library.pak","nexusFileId":127109,"metaUuid":"07fbc2f1-f359-4b9d-b243-fe28bd783e4c"}
 ]},
 "12835":{"nexusModName":"Fiendish Races (Succubus and Cambions)","nexusUploadedBy":"haytur","nexusModId":12835,"paks":[
 {"nexusFileName":"Fiendish Races","nexusFileVersion":"1.5","nexusFileUploadedAt":1754198767,"pakFileName":"CambionRace.pak","nexusFileId":99769,"metaUuid":"d3a48c4c-f446-a697-1982-5628a8ebb728"}
@@ -59782,10 +59782,10 @@
 {"nexusFileName":"Move Through Others for Japanese","nexusFileVersion":"1.2.1.2","nexusFileUploadedAt":1770001655,"pakFileName":"DrKekyll_MoveThroughOthers_jp.pak","nexusFileId":113924,"metaUuid":null}
 ]},
 "21227":{"nexusModName":"Guilt-Free Slayer Form - BETA for Korean","nexusUploadedBy":"Eolaloe","nexusModId":21227,"paks":[
-{"nexusFileName":"Guilt-Free Slayer Form for Korean","nexusFileVersion":"1.1.0.1","nexusFileUploadedAt":1775283201,"pakFileName":"Guilt_Free_Slayer_kr.pak","nexusFileId":118075,"metaUuid":"9c8e2b3d-920e-469e-806f-1a1948823e3a"}
+{"nexusFileName":"Guilt-Free Slayer Form for Korean","nexusFileVersion":"1.1.0.4","nexusFileUploadedAt":1785664243,"pakFileName":"Guilt_Free_Slayer_kr.pak","nexusFileId":127098,"metaUuid":"9c8e2b3d-920e-469e-806f-1a1948823e3a"}
 ]},
 "21228":{"nexusModName":"Guilt-Free Slayer Form - BETA for Japanese","nexusUploadedBy":"Eolaloe","nexusModId":21228,"paks":[
-{"nexusFileName":"Guilt-Free Slayer Form for Japanese","nexusFileVersion":"1.1.0.1","nexusFileUploadedAt":1775283165,"pakFileName":"Guilt_Free_Slayer_jp.pak","nexusFileId":118074,"metaUuid":null}
+{"nexusFileName":"Guilt-Free Slayer Form for Japanese","nexusFileVersion":"1.1.0.4","nexusFileUploadedAt":1785664283,"pakFileName":"Guilt_Free_Slayer_jp.pak","nexusFileId":127099,"metaUuid":null}
 ]},
 "21229":{"nexusModName":"Ferrety's Feats - Lone Wolf (Inc. Bloodied Boosts)","nexusUploadedBy":"ferrety5011","nexusModId":21229,"paks":[
 {"nexusFileName":"Ferrety's Feats - Lone Wolf","nexusFileVersion":"2.2.4.2","nexusFileUploadedAt":1770831312,"pakFileName":"Ferrety's Feats - Lone Wolf.pak","nexusFileId":114601,"metaUuid":"d936cf16-56ed-425c-9b3b-aa8bcdba93ed"}
@@ -61487,7 +61487,8 @@
 {"nexusFileName":"E. The Gunslinger Warlock Invocations Addon","nexusFileVersion":"1.0.0.1","nexusFileUploadedAt":1780540932,"pakFileName":"TheGunslingerWarlockInvocations_Addon.pak","nexusFileId":122725,"metaUuid":"6fa28431-31c2-4bc0-b8f8-1d18cf65a4f9"},
 {"nexusFileName":"D. Rebalance Feats Compatibility","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1781445565,"pakFileName":"TheGunslinger-RebalanceFeatsCompatibility.pak","nexusFileId":123546,"metaUuid":null},
 {"nexusFileName":"B. The Gunslinger Addon Revolver OffHand","nexusFileVersion":"2.0.0.6","nexusFileUploadedAt":1784352419,"pakFileName":"TheGunslingerOffHandAddon_db9c5c90-6f70-f07a-153e-d873fc5f803d.pak","nexusFileId":125916,"metaUuid":null},
-{"nexusFileName":"The Gunslinger Class (ENG-KOR)","nexusFileVersion":"3.0.0.13","nexusFileUploadedAt":1785643823,"pakFileName":"TheGunslinger_1f2b82d7-19c8-734b-5f43-05d57d3e7601.pak","nexusFileId":127085,"metaUuid":"1f2b82d7-19c8-734b-5f43-05d57d3e7601"}
+{"nexusFileName":"The Gunslinger Class (ENG-KOR)","nexusFileVersion":"3.0.0.13","nexusFileUploadedAt":1785643823,"pakFileName":"TheGunslinger_1f2b82d7-19c8-734b-5f43-05d57d3e7601.pak","nexusFileId":127085,"metaUuid":"1f2b82d7-19c8-734b-5f43-05d57d3e7601"},
+{"nexusFileName":"F. Spellslinger Wizard Subclass Add-On","nexusFileVersion":"1.0.0.1","nexusFileUploadedAt":1785666656,"pakFileName":"TheGunslinger_WizardAddOn_3eaab4ba-f1fc-9a6b-533a-5ae325b4a838.pak","nexusFileId":127106,"metaUuid":null}
 ]},
 "21796":{"nexusModName":"Em's Misc Head Collection","nexusUploadedBy":"emsthings","nexusModId":21796,"paks":[
 {"nexusFileName":"Em's Head Collection","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1772951131,"pakFileName":"Ems_Heads_41f62b28-72fa-cd43-2b54-e521a962a342.pak","nexusFileId":116314,"metaUuid":"41f62b28-72fa-cd43-2b54-e521a962a342"}
@@ -62564,7 +62565,7 @@
 {"nexusFileName":"Owlbear Cub Evolved for Korean","nexusFileVersion":"2.1.2.0","nexusFileUploadedAt":1779757683,"pakFileName":"OwlbearCubEvolved_kr.pak","nexusFileId":122140,"metaUuid":"9b6699a4-26b5-4d24-8a21-4a14fec43a13"}
 ]},
 "22181":{"nexusModName":"Exaen's Scratch Evolved for Korean","nexusUploadedBy":"Eolaloe","nexusModId":22181,"paks":[
-{"nexusFileName":"Scratch Evolved for Korean","nexusFileVersion":"1.2.4.0","nexusFileUploadedAt":1781587147,"pakFileName":"ScratchEvolved_kr.pak","nexusFileId":123688,"metaUuid":"9e00742b-a556-42af-86b0-a0360f060386"}
+{"nexusFileName":"Scratch Evolved for Korean","nexusFileVersion":"2.0.1.0","nexusFileUploadedAt":1785667806,"pakFileName":"ScratchEvolved_kr.pak","nexusFileId":127112,"metaUuid":"9e00742b-a556-42af-86b0-a0360f060386"}
 ]},
 "22182":{"nexusModName":"Exaen's Squire Evolved for Korean","nexusUploadedBy":"Eolaloe","nexusModId":22182,"paks":[
 {"nexusFileName":"Squire Evolved for Korean","nexusFileVersion":"1.0.5.0","nexusFileUploadedAt":1774802397,"pakFileName":"SquireEvolved_kr.pak","nexusFileId":117719,"metaUuid":"d90a3b7d-cd1e-461a-9462-14cade453355"}
@@ -62901,7 +62902,7 @@
 {"nexusFileName":"Expanded ArmouryCHS","nexusFileVersion":"1.5","nexusFileUploadedAt":1775376158,"pakFileName":"Expanded_ArmouryCHS.pak","nexusFileId":118181,"metaUuid":null}
 ]},
 "22307":{"nexusModName":"Companion Permadeath","nexusUploadedBy":"NecroticFlame","nexusModId":22307,"paks":[
-{"nexusFileName":"Companion Permadeath","nexusFileVersion":"1.0.1","nexusFileUploadedAt":1775467318,"pakFileName":"Permadeath_a5dddc84-e8a6-3401-3491-ff5fb6217501.pak","nexusFileId":118240,"metaUuid":"a5dddc84-e8a6-3401-3491-ff5fb6217501"}
+{"nexusFileName":"Companion Permadeath","nexusFileVersion":"1.1.0","nexusFileUploadedAt":1785665012,"pakFileName":"Permadeath_a5dddc84-e8a6-3401-3491-ff5fb6217501.pak","nexusFileId":127102,"metaUuid":"a5dddc84-e8a6-3401-3491-ff5fb6217501"}
 ]},
 "22309":{"nexusModName":"Starting Equipment Restored","nexusUploadedBy":"NecroticFlame","nexusModId":22309,"paks":[
 {"nexusFileName":"Starting Equipment Restored","nexusFileVersion":"1.4.0","nexusFileUploadedAt":1783756253,"pakFileName":"LoadoutRestored_ba8db12c-8ea9-4e81-3a01-decbf3bdb5ec.pak","nexusFileId":125403,"metaUuid":"ba8db12c-8ea9-4e81-3a01-decbf3bdb5ec"}
@@ -63114,10 +63115,10 @@
 {"nexusFileName":"EthelsHairRework","nexusFileVersion":"4","nexusFileUploadedAt":1775925889,"pakFileName":"EthelsHairRework.pak","nexusFileId":118707,"metaUuid":"9f1c9e1b-6c1a-4d1e-9b6e-2a7c5c9a7e21"}
 ]},
 "22392":{"nexusModName":"Volitio's Smart Equipment Manager for Korean","nexusUploadedBy":"Eolaloe","nexusModId":22392,"paks":[
-{"nexusFileName":"Smart Equipment Manager for Korean","nexusFileVersion":"1.1.1","nexusFileUploadedAt":1777439692,"pakFileName":"Smart Equipment Manager_kr.pak","nexusFileId":120144,"metaUuid":null}
+{"nexusFileName":"Smart Equipment Manager for Korean","nexusFileVersion":"1.2.3","nexusFileUploadedAt":1785665256,"pakFileName":"Smart Equipment Manager_kr.pak","nexusFileId":127103,"metaUuid":null}
 ]},
 "22393":{"nexusModName":"Volitio's Smart Equipment Manager for Japanese","nexusUploadedBy":"Eolaloe","nexusModId":22393,"paks":[
-{"nexusFileName":"Smart Equipment Manager for Japanese","nexusFileVersion":"1.1.1","nexusFileUploadedAt":1777439725,"pakFileName":"Smart Equipment Manager_jp.pak","nexusFileId":120145,"metaUuid":null}
+{"nexusFileName":"Smart Equipment Manager for Japanese","nexusFileVersion":"1.2.3","nexusFileUploadedAt":1785665298,"pakFileName":"Smart Equipment Manager_jp.pak","nexusFileId":127104,"metaUuid":null}
 ]},
 "22396":{"nexusModName":"MIRRIS CATS EXPANDED","nexusUploadedBy":"mirrismods","nexusModId":22396,"paks":[
 {"nexusFileName":"MIRRIS_CATS_EXPANDED","nexusFileVersion":"1.0","nexusFileUploadedAt":1775939563,"pakFileName":"MIRRIS_CATS_EXPANDED_15c4e30a-8d21-376c-47d5-07f4e09932b9.pak","nexusFileId":118719,"metaUuid":null}
@@ -66433,7 +66434,7 @@
 {"nexusFileName":"20 Shades Of Blue - Main File","nexusFileVersion":"1.0.0.10","nexusFileUploadedAt":1783189189,"pakFileName":"20ShadesOfBlue_01307422-4702-f3da-72d7-a2f643c6d20b.pak","nexusFileId":124883,"metaUuid":"01307422-4702-f3da-72d7-a2f643c6d20b"}
 ]},
 "23707":{"nexusModName":"Minthara Boss Gear","nexusUploadedBy":"blackninjato2","nexusModId":23707,"paks":[
-{"nexusFileName":"MintharaBossGear","nexusFileVersion":"1.4","nexusFileUploadedAt":1783617442,"pakFileName":"MintharaBossGear.pak","nexusFileId":125290,"metaUuid":"4d8c3f04-1bc4-4712-8ffa-dd18d9d0b2e8"}
+{"nexusFileName":"MintharaBossGear","nexusFileVersion":"1.5","nexusFileUploadedAt":1785665682,"pakFileName":"MintharaBossGear.pak","nexusFileId":127105,"metaUuid":"4d8c3f04-1bc4-4712-8ffa-dd18d9d0b2e8"}
 ]},
 "23708":{"nexusModName":"Custom Weapons","nexusUploadedBy":"AtlasAlpin","nexusModId":23708,"paks":[
 {"nexusFileName":"Custom Weapons","nexusFileVersion":"1.4.4","nexusFileUploadedAt":1783582841,"pakFileName":"Weapons_20039141-28ec-89fe-096c-b33e50e03cf3.pak","nexusFileId":125260,"metaUuid":"20039141-28ec-89fe-096c-b33e50e03cf3"}
