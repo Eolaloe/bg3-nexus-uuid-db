@@ -3785,7 +3785,7 @@
 {"nexusFileName":"Hide looted empty containers and Alt toggle","nexusFileVersion":"v1.0.0","nexusFileUploadedAt":1693352823,"pakFileName":"Hide looted empty containers_EN.pak","nexusFileId":11646,"metaUuid":null},
 {"nexusFileName":"Hide looted empty containers without toggle","nexusFileVersion":"v1.0.0","nexusFileUploadedAt":1693352849,"pakFileName":"Hide looted empty container without toggle_FR.pak","nexusFileId":11647,"metaUuid":null},
 {"nexusFileName":"Hide looted empty containers without toggle","nexusFileVersion":"v1.0.0","nexusFileUploadedAt":1693352849,"pakFileName":"Hide looted empty container without toggle_EN.pak","nexusFileId":11647,"metaUuid":null},
-{"nexusFileName":"All in one Edition","nexusFileVersion":"v1.3.0","nexusFileUploadedAt":1693741117,"pakFileName":"All in one Edition.pak","nexusFileId":12961,"metaUuid":null},
+{"nexusFileName":"All in one Edition","nexusFileVersion":"v1.3.0","nexusFileUploadedAt":1693741117,"pakFileName":"All in one Edition.pak","nexusFileId":12961,"metaUuid":"88fcf61f-87f6-42c5-a645-622e98bf9ab4"},
 {"nexusFileName":"Modular Highlight","nexusFileVersion":"v1.3.0","nexusFileUploadedAt":1693741205,"pakFileName":"Miscellaneous Edition.pak","nexusFileId":12962,"metaUuid":"6d4c3110-b826-41e6-8beb-d34c197cb1f3"},
 {"nexusFileName":"Modular Highlight","nexusFileVersion":"v1.3.0","nexusFileUploadedAt":1693741205,"pakFileName":"Secret Edition.pak","nexusFileId":12962,"metaUuid":"6d4c3110-b826-41e6-8beb-d34c197cb1f3"},
 {"nexusFileName":"Modular Highlight","nexusFileVersion":"v1.3.0","nexusFileUploadedAt":1693741205,"pakFileName":"Alcohol Edition.pak","nexusFileId":12962,"metaUuid":"6d4c3110-b826-41e6-8beb-d34c197cb1f3"},
@@ -17839,7 +17839,7 @@
 ]},
 "5640":{"nexusModName":"RPG 7 - Rocket Launcher","nexusUploadedBy":"Palmaman33","nexusModId":5640,"paks":[
 {"nexusFileName":"RPG 7 - Fire damage","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1704443725,"pakFileName":"RPG.pak","nexusFileId":38143,"metaUuid":null},
-{"nexusFileName":"RPG 7 - Force damage","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1704447074,"pakFileName":"RPG.pak","nexusFileId":38147,"metaUuid":null}
+{"nexusFileName":"RPG 7 - Force damage","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1704447074,"pakFileName":"RPG.pak","nexusFileId":38147,"metaUuid":"8c58287f-e6b7-425a-8fda-2500d860de88"}
 ]},
 "5641":{"nexusModName":"Wifi potions - Korean Translation","nexusUploadedBy":"bk0n9","nexusModId":5641,"paks":[
 {"nexusFileName":"Wifi_potions - Korean Translation","nexusFileVersion":"1.3.0.1-KR-1.0","nexusFileUploadedAt":1704363447,"pakFileName":"Fallen_Wifi_Potion-KR.pak","nexusFileId":38004,"metaUuid":"73488b1d-aeae-4cf7-861c-8c3d35039058"}
@@ -22058,7 +22058,7 @@
 ]},
 "7261":{"nexusModName":"Send Bodies To Camp (Body Bag)","nexusUploadedBy":"MycroftJr","nexusModId":7261,"paks":[
 {"nexusFileName":"Send Bodies to Camp","nexusFileVersion":"1.0.1.0","nexusFileUploadedAt":1709449604,"pakFileName":"Send Bodies To Camp.pak","nexusFileId":47866,"metaUuid":null},
-{"nexusFileName":"Send Bodies to Camp","nexusFileVersion":"1.1.0.0","nexusFileUploadedAt":1718672281,"pakFileName":"Send Bodies To Camp.pak","nexusFileId":61314,"metaUuid":null}
+{"nexusFileName":"Send Bodies to Camp","nexusFileVersion":"1.1.0.0","nexusFileUploadedAt":1718672281,"pakFileName":"Send Bodies To Camp.pak","nexusFileId":61314,"metaUuid":"e3720c1a-6f8f-4bc2-8b47-7150b6fb3fec"}
 ]},
 "7262":{"nexusModName":"Dark Urge - Cannibalism-CHS","nexusUploadedBy":"1435943241","nexusModId":7262,"paks":[
 {"nexusFileName":"Dark Urge - Cannibalism-CHS","nexusFileVersion":"1.00","nexusFileUploadedAt":1709099052,"pakFileName":"Cannibalism-CHS.pak","nexusFileId":47002,"metaUuid":null}
@@ -49925,8 +49925,8 @@
 {"nexusFileName":"No Tutorial Popup","nexusFileVersion":"v1.1","nexusFileUploadedAt":1754106693,"pakFileName":"NoTutorialPopup_f571f706-2d9b-9b2d-7775-1e8399360d85.pak","nexusFileId":99679,"metaUuid":"f571f706-2d9b-9b2d-7775-1e8399360d85"}
 ]},
 "17934":{"nexusModName":"Snapshots","nexusUploadedBy":"rdekarios","nexusModId":17934,"paks":[
-{"nexusFileName":"Snapshots","nexusFileVersion":"1.3.0.42","nexusFileUploadedAt":1785612040,"pakFileName":"Snapshots_ccf0be9f-61e4-e7f4-8755-24fecb2f1f9b (1).pak","nexusFileId":127059,"metaUuid":null},
-{"nexusFileName":"Snapshots","nexusFileVersion":"1.3.0.42","nexusFileUploadedAt":1785612040,"pakFileName":"._Snapshots_ccf0be9f-61e4-e7f4-8755-24fecb2f1f9b (1).pak","nexusFileId":127059,"metaUuid":null}
+{"nexusFileName":"Snapshots","nexusFileVersion":"1.3.0.42","nexusFileUploadedAt":1785612040,"pakFileName":"Snapshots_ccf0be9f-61e4-e7f4-8755-24fecb2f1f9b (1).pak","nexusFileId":127059,"metaUuid":"ccf0be9f-61e4-e7f4-8755-24fecb2f1f9b"},
+{"nexusFileName":"Snapshots","nexusFileVersion":"1.3.0.42","nexusFileUploadedAt":1785612040,"pakFileName":"._Snapshots_ccf0be9f-61e4-e7f4-8755-24fecb2f1f9b (1).pak","nexusFileId":127059,"metaUuid":"ccf0be9f-61e4-e7f4-8755-24fecb2f1f9b"}
 ]},
 "17935":{"nexusModName":"Altair s robe (Assassin s Creed)","nexusUploadedBy":"olddude1993","nexusModId":17935,"paks":[
 {"nexusFileName":"Alair Robes","nexusFileVersion":"1","nexusFileUploadedAt":1754054326,"pakFileName":"Altair_c58f4341-1812-773b-166f-14cdec576255.pak","nexusFileId":99622,"metaUuid":null}
@@ -57546,7 +57546,7 @@
 {"nexusFileName":"CL_Lora Craft - Crypt Ransacker","nexusFileVersion":"1.0.0.3","nexusFileUploadedAt":1767297444,"pakFileName":"CL_LaraCroft.pak","nexusFileId":110879,"metaUuid":null}
 ]},
 "20444":{"nexusModName":"Siaell's Illithid Powers Overhaul 2 for Korean","nexusUploadedBy":"Eolaloe","nexusModId":20444,"paks":[
-{"nexusFileName":"Illithid Powers Overhaul 2 for Korean","nexusFileVersion":"2.20.1","nexusFileUploadedAt":1781361787,"pakFileName":"Illithid Powers Overhaul_kr.pak","nexusFileId":123486,"metaUuid":null}
+{"nexusFileName":"Illithid Powers Overhaul 2 for Korean","nexusFileVersion":"2.20.1","nexusFileUploadedAt":1781361787,"pakFileName":"Illithid Powers Overhaul_kr.pak","nexusFileId":123486,"metaUuid":"682fb626-754f-4bc2-873e-53986adeaea5"}
 ]},
 "20445":{"nexusModName":"Siaell's Illithid Powers Overhaul 2 for Japanese","nexusUploadedBy":"Eolaloe","nexusModId":20445,"paks":[
 {"nexusFileName":"Illithid Powers Overhaul 2 for Japanese","nexusFileVersion":"2.20.1","nexusFileUploadedAt":1781364032,"pakFileName":"Illithid Powers Overhaul_jp.pak","nexusFileId":123487,"metaUuid":null}
