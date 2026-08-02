@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-08-02T15:52:17.768405+00:00","total_mods":17141},
+{"_meta":{"last_run":"2026-08-02T16:52:27.121884+00:00","total_mods":17141},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -26565,8 +26565,7 @@
 {"nexusFileName":"Addon - Fade's Randomized Loot","nexusFileVersion":"2.0.0","nexusFileUploadedAt":1777412075,"pakFileName":"HomeBrew - Comprehensive Reworks (Addon - Fades Randomized Loot).pak","nexusFileId":120105,"metaUuid":"74a00bb6-b29e-497d-8410-2307ceb876fe"},
 {"nexusFileName":"Addon - Randomized Loot","nexusFileVersion":"2.0.0","nexusFileUploadedAt":1777412085,"pakFileName":"HomeBrew - Comprehensive Reworks (Addon - Randomized Loot).pak","nexusFileId":120106,"metaUuid":"74a00bb6-b29e-497d-8410-2307ceb876fe"},
 {"nexusFileName":"Misc - Modded Subclasses","nexusFileVersion":"8.3.1","nexusFileUploadedAt":1777412098,"pakFileName":"HomeBrew - Comprehensive Reworks (Misc - Modded Subclasses).pak","nexusFileId":120107,"metaUuid":null},
-{"nexusFileName":"Easier Difficulty - Mythic Difficulty Reduced","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1783594414,"pakFileName":"Home Brew - Comprehensive Reworks (Easier Difficulty - Mythic Difficulty Reduced).pak","nexusFileId":125264,"metaUuid":"135c0255-9690-4377-957d-2b40187f74a2"},
-{"nexusFileName":"HomeBrew   Comprehensive Reworks","nexusFileVersion":"9.0.8","nexusFileUploadedAt":1785671765,"pakFileName":"HomeBrew - Comprehensive Reworks.pak","nexusFileId":127117,"metaUuid":"486d1526-3505-4b09-9790-0f6a60f5ac0f"}
+{"nexusFileName":"Easier Difficulty - Mythic Difficulty Reduced","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1783594414,"pakFileName":"Home Brew - Comprehensive Reworks (Easier Difficulty - Mythic Difficulty Reduced).pak","nexusFileId":125264,"metaUuid":"135c0255-9690-4377-957d-2b40187f74a2"}
 ]},
 "9053":{"nexusModName":"Planetouched - Homebrew Race","nexusUploadedBy":"0Lyra","nexusModId":9053,"paks":[
 {"nexusFileName":"Planetouched - Main","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1715369676,"pakFileName":"Planetouched_Race.pak","nexusFileId":56628,"metaUuid":"fc59491b-4bc3-4822-8597-7ed1b84064c5"},
@@ -35992,7 +35991,8 @@
 {"nexusFileName":"Doom Armor - Main (2.0) ITA","nexusFileVersion":"2.1.1.0","nexusFileUploadedAt":1778476402,"pakFileName":"Doom Armor - Main - ITA.pak","nexusFileId":120944,"metaUuid":null}
 ]},
 "12727":{"nexusModName":"DnD 5.5e All-in-One BEYOND","nexusUploadedBy":"yoonmoonsik43","nexusModId":12727,"paks":[
-{"nexusFileName":"dnd2024 - V3 Legacy","nexusFileVersion":"3.4.6.4","nexusFileUploadedAt":1771945305,"pakFileName":"DnD2024_897914ef-5c96-053c-44af-0be823f895fe.pak","nexusFileId":115523,"metaUuid":"897914ef-5c96-053c-44af-0be823f895fe"}
+{"nexusFileName":"dnd2024 - V3 Legacy","nexusFileVersion":"3.4.6.4","nexusFileUploadedAt":1771945305,"pakFileName":"DnD2024_897914ef-5c96-053c-44af-0be823f895fe.pak","nexusFileId":115523,"metaUuid":"897914ef-5c96-053c-44af-0be823f895fe"},
+{"nexusFileName":"DnD 5.5e All-in-One BEYOND","nexusFileVersion":"4.11.19.6","nexusFileUploadedAt":1785683381,"pakFileName":"DnD2024_897914ef-5c96-053c-44af-0be823f895fe.pak","nexusFileId":127132,"metaUuid":"897914ef-5c96-053c-44af-0be823f895fe"}
 ]},
 "12728":{"nexusModName":"Origin-Themed Headwear KR","nexusUploadedBy":"Soorawang","nexusModId":12728,"paks":[
 {"nexusFileName":"Origin-Themed Headwear KR","nexusFileVersion":"1.0","nexusFileUploadedAt":1727930331,"pakFileName":"OriginHeadwear_kr.pak","nexusFileId":73692,"metaUuid":null}
@@ -67417,8 +67417,7 @@
 {"nexusFileName":"CrushXPFix","nexusFileVersion":"1","nexusFileUploadedAt":1785008629,"pakFileName":"CrushXPFix.pak","nexusFileId":126485,"metaUuid":"e89851d7-4b87-4a77-9234-6c0e3f2b6b9b"}
 ]},
 "24078":{"nexusModName":"Weapon Mastery Expanded","nexusUploadedBy":"SilverCrossfire","nexusModId":24078,"paks":[
-{"nexusFileName":"WeaponMasteryExpanded","nexusFileVersion":"1.0.0.5","nexusFileUploadedAt":1785606307,"pakFileName":"WeaponMasteryExpanded_97994621-1a7c-700c-0d4c-ff553f0db936.pak","nexusFileId":127051,"metaUuid":"97994621-1a7c-700c-0d4c-ff553f0db936"},
-{"nexusFileName":"WMEPaladinAndOaths2024Patch","nexusFileVersion":"1.0.0.1","nexusFileUploadedAt":1785606585,"pakFileName":"WMEPaladinAndOaths2024Patch_e0307f4e-9f1c-04f7-0d63-251f946e0840.pak","nexusFileId":127052,"metaUuid":null}
+{"nexusFileName":"WeaponMasteryExpanded","nexusFileVersion":"1.0.0.6","nexusFileUploadedAt":1785686983,"pakFileName":"WeaponMasteryExpanded_97994621-1a7c-700c-0d4c-ff553f0db936.pak","nexusFileId":127140,"metaUuid":"97994621-1a7c-700c-0d4c-ff553f0db936"}
 ]},
 "24079":{"nexusModName":"Manalis' Weapon Actions","nexusUploadedBy":"EmyioAzachi","nexusModId":24079,"paks":[
 {"nexusFileName":"AllWeaponsSkills PerCombat (Once Per Fight - EN)","nexusFileVersion":"1","nexusFileUploadedAt":1785012901,"pakFileName":"AllWeaponsSkills_PerCombat_c59021b1-f908-0265-073b-ee91b1e80d44.pak","nexusFileId":126488,"metaUuid":"c59021b1-f908-0265-073b-ee91b1e80d44"},
@@ -67494,7 +67493,7 @@
 {"nexusFileName":"UltimateCheatTool","nexusFileVersion":"1.0","nexusFileUploadedAt":1785529859,"pakFileName":"UltimateCheatTool.pak","nexusFileId":126943,"metaUuid":"83743a2a-a284-4fd1-9b8e-848a8054f220"}
 ]},
 "24108":{"nexusModName":"Archmage (Lore-accurate Class for Origin Gale)","nexusUploadedBy":"FortisEstVeritas","nexusModId":24108,"paks":[
-{"nexusFileName":"Archmage","nexusFileVersion":"1.0","nexusFileUploadedAt":1785158592,"pakFileName":"Archmage Wizard.pak","nexusFileId":126593,"metaUuid":null}
+{"nexusFileName":"Archmage","nexusFileVersion":"1.0","nexusFileUploadedAt":1785688148,"pakFileName":"Archmage.pak","nexusFileId":127142,"metaUuid":null}
 ]},
 "24109":{"nexusModName":"Cursed Loading Screens","nexusUploadedBy":"HyperspaceTowel","nexusModId":24109,"paks":[
 {"nexusFileName":"HT_CursedLoadingScreens","nexusFileVersion":"1.0.1.1","nexusFileUploadedAt":1785552758,"pakFileName":"HT_MemeLoadingScreens_f210b92e-436e-3234-ddee-b30d9bcadeb8.pak","nexusFileId":127001,"metaUuid":null}
@@ -67602,7 +67601,7 @@
 {"nexusFileName":"Rogue Class Expansion","nexusFileVersion":"1","nexusFileUploadedAt":1785427453,"pakFileName":"游荡者调整 RogueFix.pak","nexusFileId":126842,"metaUuid":"4360ef98-2035-471e-982e-421898f6244b"}
 ]},
 "24157":{"nexusModName":"Rogue","nexusUploadedBy":"FortisEstVeritas","nexusModId":24157,"paks":[
-{"nexusFileName":"Rogue","nexusFileVersion":"1.0","nexusFileUploadedAt":1785682073,"pakFileName":"Rogue.pak","nexusFileId":127128,"metaUuid":null}
+{"nexusFileName":"Rogue","nexusFileVersion":"1.0","nexusFileUploadedAt":1785687850,"pakFileName":"Rogue.pak","nexusFileId":127141,"metaUuid":null}
 ]},
 "24161":{"nexusModName":"Silence Character Creator","nexusUploadedBy":"FortisEstVeritas","nexusModId":24161,"paks":[
 {"nexusFileName":"Silence Character Creator Questions","nexusFileVersion":"1.0","nexusFileUploadedAt":1785442694,"pakFileName":"Silence Character Creator Questions.pak","nexusFileId":126860,"metaUuid":null}
@@ -67668,7 +67667,7 @@
 {"nexusFileName":"ADOS RUS","nexusFileVersion":"1.1","nexusFileUploadedAt":1785583597,"pakFileName":"ADOS_RUS.pak","nexusFileId":127033,"metaUuid":null}
 ]},
 "24191":{"nexusModName":"Requiem for the Absolute - Dynamic Encounters","nexusUploadedBy":"luiznunes","nexusModId":24191,"paks":[
-{"nexusFileName":"Requiem For The Absolute","nexusFileVersion":"2.4.0.19","nexusFileUploadedAt":1785540026,"pakFileName":"Requiem_for_the_Absolute_f1f6fbec-f087-c70f-a28f-4437385f3433.pak","nexusFileId":126977,"metaUuid":"f1f6fbec-f087-c70f-a28f-4437385f3433"}
+{"nexusFileName":"Requiem For The Absolute","nexusFileVersion":"2.5.0.20","nexusFileUploadedAt":1785686977,"pakFileName":"Requiem_for_the_Absolute_f1f6fbec-f087-c70f-a28f-4437385f3433.pak","nexusFileId":127139,"metaUuid":"f1f6fbec-f087-c70f-a28f-4437385f3433"}
 ]},
 "24193":{"nexusModName":"the (spookier) murder tribunal","nexusUploadedBy":"teethingwitch","nexusModId":24193,"paks":[
 {"nexusFileName":"spookier murder tribunal","nexusFileVersion":"2","nexusFileUploadedAt":1785627409,"pakFileName":"spookiermurdertribunal.pak","nexusFileId":127071,"metaUuid":null}
