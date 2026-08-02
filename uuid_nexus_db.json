@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-08-02T01:52:24.282552+00:00","total_mods":17136},
+{"_meta":{"last_run":"2026-08-02T02:52:32.592240+00:00","total_mods":17136},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -313,7 +313,8 @@
 ]},
 "279":{"nexusModName":"Expansion Level 13-20 (Configurable)","nexusUploadedBy":"DiZ91891","nexusModId":279,"paks":[
 {"nexusFileName":"Bladesinger","nexusFileVersion":"2.1.0.0","nexusFileUploadedAt":1744924772,"pakFileName":"Bladesinger.pak","nexusFileId":89421,"metaUuid":"4b3027c0-d841-4c04-a015-6270592ec140"},
-{"nexusFileName":"Expansion","nexusFileVersion":"1.7.3.8","nexusFileUploadedAt":1783686782,"pakFileName":"Expansion.pak","nexusFileId":125339,"metaUuid":"a2c4b0fc-e745-41df-81b7-fa53950d86a0"}
+{"nexusFileName":"Expansion","nexusFileVersion":"1.7.3.9","nexusFileUploadedAt":1785635466,"pakFileName":"Expansion.pak","nexusFileId":127075,"metaUuid":"a2c4b0fc-e745-41df-81b7-fa53950d86a0"},
+{"nexusFileName":"Expansion Optional Features","nexusFileVersion":"1.00","nexusFileUploadedAt":1785636404,"pakFileName":"ExpansionOptionalFeatures.pak","nexusFileId":127076,"metaUuid":null}
 ]},
 "280":{"nexusModName":"Origin Unlocker and Warlock Fireball - TEST","nexusUploadedBy":"Gryffindor777","nexusModId":280,"paks":[
 {"nexusFileName":"ORIGIN UNLOCKER and WARLOCK FIREBALL","nexusFileVersion":"1","nexusFileUploadedAt":1636912832,"pakFileName":"Gustav.pak","nexusFileId":2180,"metaUuid":null},
@@ -35992,7 +35993,7 @@
 ]},
 "12727":{"nexusModName":"DnD 5.5e All-in-One BEYOND","nexusUploadedBy":"yoonmoonsik43","nexusModId":12727,"paks":[
 {"nexusFileName":"dnd2024 - V3 Legacy","nexusFileVersion":"3.4.6.4","nexusFileUploadedAt":1771945305,"pakFileName":"DnD2024_897914ef-5c96-053c-44af-0be823f895fe.pak","nexusFileId":115523,"metaUuid":"897914ef-5c96-053c-44af-0be823f895fe"},
-{"nexusFileName":"DnD 5.5e All-in-One BEYOND","nexusFileVersion":"4.11.19.3","nexusFileUploadedAt":1785627988,"pakFileName":"DnD2024_897914ef-5c96-053c-44af-0be823f895fe.pak","nexusFileId":127073,"metaUuid":"897914ef-5c96-053c-44af-0be823f895fe"}
+{"nexusFileName":"DnD 5.5e All-in-One BEYOND","nexusFileVersion":"4.11.19.4","nexusFileUploadedAt":1785637900,"pakFileName":"DnD2024_897914ef-5c96-053c-44af-0be823f895fe.pak","nexusFileId":127078,"metaUuid":"897914ef-5c96-053c-44af-0be823f895fe"}
 ]},
 "12728":{"nexusModName":"Origin-Themed Headwear KR","nexusUploadedBy":"Soorawang","nexusModId":12728,"paks":[
 {"nexusFileName":"Origin-Themed Headwear KR","nexusFileVersion":"1.0","nexusFileUploadedAt":1727930331,"pakFileName":"OriginHeadwear_kr.pak","nexusFileId":73692,"metaUuid":null}
@@ -54747,7 +54748,7 @@
 {"nexusFileName":"HIMBO Gale","nexusFileVersion":"1","nexusFileUploadedAt":1785534098,"pakFileName":"HIMBO_Gale.pak","nexusFileId":126960,"metaUuid":null},
 {"nexusFileName":"HIMBO Wyll","nexusFileVersion":"1","nexusFileUploadedAt":1785534181,"pakFileName":"HIMBO_Wyll.pak","nexusFileId":126961,"metaUuid":"45b0d763-4cba-4301-be5a-5fa72ad21329"},
 {"nexusFileName":"HIMBO VANILLA Armor Refits","nexusFileVersion":"1","nexusFileUploadedAt":1785567022,"pakFileName":"HIMBO_VANILLA_Armor_Refits.pak","nexusFileId":127017,"metaUuid":"0f0904ba-99aa-4737-a999-944e397c2f8d"},
-{"nexusFileName":"HIMBO VANILLA Default Replacement","nexusFileVersion":"1","nexusFileUploadedAt":1785567129,"pakFileName":"HIMBO_VANILLA_Default_Replacement.pak","nexusFileId":127018,"metaUuid":null}
+{"nexusFileName":"HIMBO VANILLA Default Replacement","nexusFileVersion":"1.0.0.1","nexusFileUploadedAt":1785638896,"pakFileName":"HIMBO_VANILLA_Default_Replacement.pak","nexusFileId":127079,"metaUuid":null}
 ]},
 "19666":{"nexusModName":"5R Conjure Animals (dnd 5e 2024 PHB)","nexusUploadedBy":"ShadyDax","nexusModId":19666,"paks":[
 {"nexusFileName":"5R Conjure Animals - all classes addon","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1781407098,"pakFileName":"5R Conjure Animals - all classes addon.pak","nexusFileId":123513,"metaUuid":null},
@@ -67429,14 +67430,13 @@
 {"nexusFileName":"TavEpilogueGearReplacer DeathRose","nexusFileVersion":"1","nexusFileUploadedAt":1785194382,"pakFileName":"TavEpilogueGearReplacer_DeathRose.pak","nexusFileId":126618,"metaUuid":null},
 {"nexusFileName":"TavEpilogueGearReplacer DeathWielder","nexusFileVersion":"1","nexusFileUploadedAt":1785194397,"pakFileName":"TavEpilogueGearReplacer_DeathWielder.pak","nexusFileId":126619,"metaUuid":null},
 {"nexusFileName":"TavEpilogueGearReplacer DeathWielder Shoes","nexusFileVersion":"1","nexusFileUploadedAt":1785194410,"pakFileName":"TavEpilogueGearReplacer_DeathWielder_Shoes.pak","nexusFileId":126620,"metaUuid":null},
-{"nexusFileName":"TavEpilogueGearReplacer Duskraven","nexusFileVersion":"1","nexusFileUploadedAt":1785194423,"pakFileName":"TavEpilogueGearReplacer_Duskraven.pak","nexusFileId":126621,"metaUuid":null},
 {"nexusFileName":"TavEpilogueGearReplacer Seafoam","nexusFileVersion":"1","nexusFileUploadedAt":1785194440,"pakFileName":"TavEpilogueGearReplacer_Seafoam.pak","nexusFileId":126622,"metaUuid":null},
 {"nexusFileName":"TavEpilogueGearReplacer Thespian","nexusFileVersion":"1","nexusFileUploadedAt":1785194471,"pakFileName":"TavEpilogueGearReplacer_Thespian.pak","nexusFileId":126623,"metaUuid":null},
 {"nexusFileName":"TavEpilogueGearReplacer Thespian Shoes","nexusFileVersion":"1","nexusFileUploadedAt":1785194483,"pakFileName":"TavEpilogueGearReplacer_Thespian_Shoes.pak","nexusFileId":126624,"metaUuid":null},
 {"nexusFileName":"TavEpilogueGearReplacer Blythe","nexusFileVersion":"1","nexusFileUploadedAt":1785194496,"pakFileName":"TavEpilogueGearReplacer_Blythe.pak","nexusFileId":126625,"metaUuid":null},
 {"nexusFileName":"TavEpilogueGearReplacer AoDai","nexusFileVersion":"1","nexusFileUploadedAt":1785194506,"pakFileName":"TavEpilogueGearReplacer_AoDai.pak","nexusFileId":126626,"metaUuid":null},
-{"nexusFileName":"TavEpilogueGearReplacer Nightwhite - please test","nexusFileVersion":"1","nexusFileUploadedAt":1785275416,"pakFileName":"TavEpilogueGearReplacer_Nightwhite.pak","nexusFileId":126700,"metaUuid":null},
-{"nexusFileName":"TavEpilogueGearReplacer Nightwhite NON-AIO","nexusFileVersion":"1","nexusFileUploadedAt":1785275523,"pakFileName":"TavEpilogueGearReplacer_Nightwhite_single.pak","nexusFileId":126701,"metaUuid":null}
+{"nexusFileName":"TavEpilogueGearReplacer Nightwhite Silks","nexusFileVersion":"2","nexusFileUploadedAt":1785637526,"pakFileName":"TavEpilogueGearReplacer_Nightwhite.pak","nexusFileId":127077,"metaUuid":null},
+{"nexusFileName":"TavEpilogueGearReplacer Duskraven","nexusFileVersion":"2","nexusFileUploadedAt":1785638963,"pakFileName":"TavEpilogueGearReplacer_Duskraven.pak","nexusFileId":127080,"metaUuid":null}
 ]},
 "24083":{"nexusModName":"Equipment and Outfit Quick Switch","nexusUploadedBy":"Scor66","nexusModId":24083,"paks":[
 {"nexusFileName":"BagChangeOfClothes","nexusFileVersion":"2","nexusFileUploadedAt":1785387997,"pakFileName":"Scor_BagChangeOfClothes.pak","nexusFileId":126810,"metaUuid":"ad8ace47-93ae-4299-8e61-b27cf808065e"}
