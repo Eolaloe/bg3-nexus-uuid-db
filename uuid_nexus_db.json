@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-08-02T07:51:57.508088+00:00","total_mods":17137},
+{"_meta":{"last_run":"2026-08-02T08:52:05.858090+00:00","total_mods":17138},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -65653,7 +65653,7 @@
 "23356":{"nexusModName":"Draco's Fantasy Gunslinger","nexusUploadedBy":"dracotunes","nexusModId":23356,"paks":[
 {"nexusFileName":"Feat Every 2 Levels","nexusFileVersion":"1","nexusFileUploadedAt":1781346587,"pakFileName":"DTGSfeat2level_6fd8fdf3-b0d9-71ae-4519-094aed82ae5c.pak","nexusFileId":123468,"metaUuid":"6fd8fdf3-b0d9-71ae-4519-094aed82ae5c"},
 {"nexusFileName":"Spawn All Weapons into Tutorial Chest","nexusFileVersion":"4","nexusFileUploadedAt":1781690169,"pakFileName":"DTGStutorialchestadd_5483ad95-adbb-3ef0-50ee-1a293bfbe213.pak","nexusFileId":123747,"metaUuid":"5483ad95-adbb-3ef0-50ee-1a293bfbe213"},
-{"nexusFileName":"Draco's Fantasy Gunslinger","nexusFileVersion":"21","nexusFileUploadedAt":1785642475,"pakFileName":"GUNSLINGERR_1d17e144-004d-7375-194e-f8d7854fe7d8.pak","nexusFileId":127082,"metaUuid":"1d17e144-004d-7375-194e-f8d7854fe7d8"}
+{"nexusFileName":"Draco's Fantasy Gunslinger","nexusFileVersion":"21","nexusFileUploadedAt":1785658076,"pakFileName":"GUNSLINGERR_1d17e144-004d-7375-194e-f8d7854fe7d8.pak","nexusFileId":127093,"metaUuid":"1d17e144-004d-7375-194e-f8d7854fe7d8"}
 ]},
 "23358":{"nexusModName":"Heo Nam-Jun Head Preset","nexusUploadedBy":"VespertilioArt","nexusModId":23358,"paks":[
 {"nexusFileName":"HeoNamJun","nexusFileVersion":"1.0.0.1","nexusFileUploadedAt":1781630510,"pakFileName":"HeoNamJun.pak","nexusFileId":123717,"metaUuid":"fd039493-8755-4249-bcb7-ed2ba461db08"},
@@ -67721,7 +67721,7 @@
 {"nexusFileName":"Cavaleiro Feiticeiro Pt Br","nexusFileVersion":"2.0.0.7","nexusFileUploadedAt":1785586813,"pakFileName":"Weave_Bound_b3e71ef9-2d27-fdb4-dfb3-df552c151ac7.pak","nexusFileId":127035,"metaUuid":null}
 ]},
 "24218":{"nexusModName":"Dynamic Difficulty Scaling for Russian","nexusUploadedBy":"MintRains","nexusModId":24218,"paks":[
-{"nexusFileName":"DynamicDifficultyScaling RU","nexusFileVersion":"1.001","nexusFileUploadedAt":1785611273,"pakFileName":"DynamicDifficultyScaling RU.pak","nexusFileId":127057,"metaUuid":null}
+{"nexusFileName":"DynamicDifficultyScaling RU","nexusFileVersion":"1.002","nexusFileUploadedAt":1785659577,"pakFileName":"DynamicDifficultyScaling RU.pak","nexusFileId":127094,"metaUuid":null}
 ]},
 "24221":{"nexusModName":"Berry's Head - Jekyll","nexusUploadedBy":"BerrySemifreddo","nexusModId":24221,"paks":[
 {"nexusFileName":"Berry's Head - Jekyll - Main File","nexusFileVersion":"1.0.0.9","nexusFileUploadedAt":1785608549,"pakFileName":"JekyllHead_ab7c04fb-cc8b-bf64-ad23-496e2144839b.pak","nexusFileId":127054,"metaUuid":null}
@@ -67735,4 +67735,7 @@
 ]},
 "24229":{"nexusModName":"Sister Collection 2 - Elturel Nobles Heads","nexusUploadedBy":"tabatha","nexusModId":24229,"paks":[
 {"nexusFileName":"SisterCollection_ElturelNobles","nexusFileVersion":"1.0.0.3","nexusFileUploadedAt":1785645499,"pakFileName":"SisterCollection_ElturelNobles_382de083-56be-ffb3-8ccc-6f0322ecfea0.pak","nexusFileId":127087,"metaUuid":null}
+]},
+"24230":{"nexusModName":"Requiem for the Absolute - Dynamic Encounters - CHS","nexusUploadedBy":"ngqx264","nexusModId":24230,"paks":[
+{"nexusFileName":"Requiem For The Absolute CHS","nexusFileVersion":"1","nexusFileUploadedAt":1785657798,"pakFileName":"Requiem_for_the_Absolute_CHS.pak","nexusFileId":127092,"metaUuid":null}
 ]}}
