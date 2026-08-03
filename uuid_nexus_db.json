@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-08-03T16:52:33.261568+00:00","total_mods":17148},
+{"_meta":{"last_run":"2026-08-03T17:52:21.318861+00:00","total_mods":17149},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -57999,7 +57999,7 @@
 ]},
 "20588":{"nexusModName":"Ancient Mega Pack for Korean","nexusUploadedBy":"Eolaloe","nexusModId":20588,"paks":[
 {"nexusFileName":"Ancient Mega Pack - REL(random loot) for Korean","nexusFileVersion":"22.74.1.2","nexusFileUploadedAt":1782470745,"pakFileName":"REL_Full_Ancient_kr.pak","nexusFileId":124313,"metaUuid":"b9d668db-f5b7-c5c5-00d4-7e7f8a153a70"},
-{"nexusFileName":"Ancient Mega Pack Plus for Korean","nexusFileVersion":"1.4.0.13","nexusFileUploadedAt":1783716792,"pakFileName":"AMP_Plus_kr.pak","nexusFileId":125366,"metaUuid":null}
+{"nexusFileName":"Ancient Mega Pack Plus for Korean","nexusFileVersion":"1.9.1.31","nexusFileUploadedAt":1785776199,"pakFileName":"AMP_Plus_kr.pak","nexusFileId":127221,"metaUuid":null}
 ]},
 "20589":{"nexusModName":"Many More Monsters for Korean","nexusUploadedBy":"Eolaloe","nexusModId":20589,"paks":[
 {"nexusFileName":"Many More Monsters for Korean","nexusFileVersion":"4.3.2.0","nexusFileUploadedAt":1781358927,"pakFileName":"ManyMoreMonsters_kr.pak","nexusFileId":123477,"metaUuid":null}
@@ -64046,7 +64046,7 @@
 {"nexusFileName":"OathOfResistance-PaladinSubclass","nexusFileVersion":"1.0.0.29","nexusFileUploadedAt":1778003829,"pakFileName":"OathOfResistance_37f043a1-d1a9-98d6-100a-836adf131886.pak","nexusFileId":120607,"metaUuid":"37f043a1-d1a9-98d6-100a-836adf131886"}
 ]},
 "22729":{"nexusModName":"chizfreak's Warlock and Patrons DnD 5R PHB2024 for Korean","nexusUploadedBy":"Eolaloe","nexusModId":22729,"paks":[
-{"nexusFileName":"Warlock and Patrons DnD 5R PHB2024 for Korean","nexusFileVersion":"4.1.0","nexusFileUploadedAt":1783942323,"pakFileName":"WarlockAndPatronsPHB2024_kr.pak","nexusFileId":125542,"metaUuid":null}
+{"nexusFileName":"Warlock and Patrons DnD 5R PHB2024 for Korean","nexusFileVersion":"5.2.6","nexusFileUploadedAt":1785779256,"pakFileName":"WarlockAndPatronsPHB2024_kr.pak","nexusFileId":127224,"metaUuid":null}
 ]},
 "22730":{"nexusModName":"No Persistent Sold Items","nexusUploadedBy":"steinsgatesx","nexusModId":22730,"paks":[
 {"nexusFileName":"No Persistent Sold Items","nexusFileVersion":"1","nexusFileUploadedAt":1778013192,"pakFileName":"No Persistent Sold Items.pak","nexusFileId":120615,"metaUuid":"f953a920-637b-4a57-91bf-7d5a0143cc8d"}
@@ -64163,7 +64163,8 @@
 {"nexusFileName":"Petit Body BT1Edit","nexusFileVersion":"1","nexusFileUploadedAt":1783768502,"pakFileName":"CSSChangeling_BT1Edit.pak","nexusFileId":125418,"metaUuid":null},
 {"nexusFileName":"CSSChangeling","nexusFileVersion":"3","nexusFileUploadedAt":1783768852,"pakFileName":"CSSChangeling.pak","nexusFileId":125420,"metaUuid":"717af779-7b40-4408-87c5-e5e7b389a152"},
 {"nexusFileName":"Psychotter Orin Head Patch","nexusFileVersion":"1","nexusFileUploadedAt":1783785584,"pakFileName":"CSSChangeling_OrinHead_Psy.pak","nexusFileId":125432,"metaUuid":null},
-{"nexusFileName":"BT2 Edit - Lydia softer body","nexusFileVersion":"1","nexusFileUploadedAt":1785684842,"pakFileName":"CSSChangeling_BT2Edit.pak","nexusFileId":127135,"metaUuid":null}
+{"nexusFileName":"BT2 Edit - Lydia softer body","nexusFileVersion":"1","nexusFileUploadedAt":1785684842,"pakFileName":"CSSChangeling_BT2Edit.pak","nexusFileId":127135,"metaUuid":null},
+{"nexusFileName":"UTAV Vivid Changeling Patch","nexusFileVersion":"1","nexusFileUploadedAt":1785777075,"pakFileName":"CSSChangelingUTAVPatch.pak","nexusFileId":127222,"metaUuid":null}
 ]},
 "22774":{"nexusModName":"EasyCheat with in-game UI (MCM)(SE) Simple Chinese translation","nexusUploadedBy":"Imemee","nexusModId":22774,"paks":[
 {"nexusFileName":"EasyCheatChs","nexusFileVersion":"2.3.2","nexusFileUploadedAt":1778394459,"pakFileName":"EasyCheatChs.pak","nexusFileId":120876,"metaUuid":"318a1b34-63b1-4986-8c2f-f93c19b7a147"}
@@ -67774,4 +67775,7 @@
 ]},
 "24247":{"nexusModName":"The Tollmaster's Ledger - New Flesh to Gold","nexusUploadedBy":"FerionLegacy","nexusModId":24247,"paks":[
 {"nexusFileName":"The Tollmasters Ledger V1.0","nexusFileVersion":"1","nexusFileUploadedAt":1785771977,"pakFileName":"The_Tollmasters_Ledger_v1.0_source.pak","nexusFileId":127218,"metaUuid":null}
+]},
+"24251":{"nexusModName":"Speak with Dead Revamped","nexusUploadedBy":"Sai","nexusModId":24251,"paks":[
+{"nexusFileName":"Speak With Dead Revamped","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1785777824,"pakFileName":"Speak with Dead Revamped.pak","nexusFileId":127223,"metaUuid":null}
 ]}}
