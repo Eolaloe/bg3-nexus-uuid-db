@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-08-03T13:52:54.142578+00:00","total_mods":17146},
+{"_meta":{"last_run":"2026-08-03T14:52:37.517129+00:00","total_mods":17147},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -35972,9 +35972,9 @@
 {"nexusFileName":"Addon - No Heels","nexusFileVersion":"2.1.2.0","nexusFileUploadedAt":1779721677,"pakFileName":"Doom Armor - Addon No Heels.pak","nexusFileId":122117,"metaUuid":"57c891be-50d2-4148-b142-4d9228dcbd8b"},
 {"nexusFileName":"Addon - Dulcet Bodies A","nexusFileVersion":"2.1.2.0","nexusFileUploadedAt":1779798707,"pakFileName":"Doom Armor - Addon Dulcet A.pak","nexusFileId":122189,"metaUuid":null},
 {"nexusFileName":"Addon - Dulcet Bodies B","nexusFileVersion":"2.1.2.0","nexusFileUploadedAt":1779798767,"pakFileName":"Doom Armor - Addon Dulcet B.pak","nexusFileId":122191,"metaUuid":null},
-{"nexusFileName":"Main - Doom Armor","nexusFileVersion":"2.1.3.1","nexusFileUploadedAt":1782231153,"pakFileName":"Doom Armor - Main.pak","nexusFileId":124171,"metaUuid":"cc28f2b3-31bf-4658-aa63-48fbc41a47c2"},
 {"nexusFileName":"Addon - Camp Cloth","nexusFileVersion":"2.1.3.1","nexusFileUploadedAt":1782231229,"pakFileName":"Doom Armor - Addon Camp Cloth.pak","nexusFileId":124172,"metaUuid":"78cbad3c-f07b-4bc3-9a17-6ddc4b73faed"},
-{"nexusFileName":"Addon - Beautiful Strong Bodies","nexusFileVersion":"2.1.3.1","nexusFileUploadedAt":1784465324,"pakFileName":"Doom Armor - Addon BSB.pak","nexusFileId":126002,"metaUuid":null}
+{"nexusFileName":"Addon - Beautiful Strong Bodies","nexusFileVersion":"2.1.3.1","nexusFileUploadedAt":1784465324,"pakFileName":"Doom Armor - Addon BSB.pak","nexusFileId":126002,"metaUuid":null},
+{"nexusFileName":"Main - Doom Armor","nexusFileVersion":"2.1.3.2","nexusFileUploadedAt":1785765602,"pakFileName":"Doom Armor - Main.pak","nexusFileId":127215,"metaUuid":"cc28f2b3-31bf-4658-aa63-48fbc41a47c2"}
 ]},
 "12718":{"nexusModName":"Egg's Armor - Corset for BT2","nexusUploadedBy":"eggmanboylad","nexusModId":12718,"paks":[
 {"nexusFileName":"Corset Armor","nexusFileVersion":"1.0.0.1","nexusFileUploadedAt":1727979526,"pakFileName":"Corset_Armor_a8c49cec-1c14-6210-a687-2a3ffbef7dae.pak","nexusFileId":73807,"metaUuid":"a8c49cec-1c14-6210-a687-2a3ffbef7dae"}
@@ -67418,7 +67418,7 @@
 {"nexusFileName":"CrushXPFix","nexusFileVersion":"1","nexusFileUploadedAt":1785008629,"pakFileName":"CrushXPFix.pak","nexusFileId":126485,"metaUuid":"e89851d7-4b87-4a77-9234-6c0e3f2b6b9b"}
 ]},
 "24078":{"nexusModName":"Weapon Mastery Expanded","nexusUploadedBy":"SilverCrossfire","nexusModId":24078,"paks":[
-{"nexusFileName":"WeaponMasteryExpanded","nexusFileVersion":"1.0.0.6","nexusFileUploadedAt":1785686983,"pakFileName":"WeaponMasteryExpanded_97994621-1a7c-700c-0d4c-ff553f0db936.pak","nexusFileId":127140,"metaUuid":"97994621-1a7c-700c-0d4c-ff553f0db936"}
+{"nexusFileName":"WeaponMasteryExpanded","nexusFileVersion":"1.0.0.7","nexusFileUploadedAt":1785768047,"pakFileName":"WeaponMasteryExpanded_97994621-1a7c-700c-0d4c-ff553f0db936.pak","nexusFileId":127217,"metaUuid":"97994621-1a7c-700c-0d4c-ff553f0db936"}
 ]},
 "24079":{"nexusModName":"Manalis' Weapon Actions","nexusUploadedBy":"EmyioAzachi","nexusModId":24079,"paks":[
 {"nexusFileName":"AllWeaponsSkills PerCombat (Once Per Fight - EN)","nexusFileVersion":"1","nexusFileUploadedAt":1785012901,"pakFileName":"AllWeaponsSkills_PerCombat_c59021b1-f908-0265-073b-ee91b1e80d44.pak","nexusFileId":126488,"metaUuid":"c59021b1-f908-0265-073b-ee91b1e80d44"},
@@ -67767,4 +67767,7 @@
 ]},
 "24245":{"nexusModName":"Celestial Emissary","nexusUploadedBy":"Hachimichimimi","nexusModId":24245,"paks":[
 {"nexusFileName":"CelestialEmissary","nexusFileVersion":"1","nexusFileUploadedAt":1785758242,"pakFileName":"CelestialEmissary.pak","nexusFileId":127212,"metaUuid":null}
+]},
+"24246":{"nexusModName":"Fiend Race Mod","nexusUploadedBy":"PupFenrir20","nexusModId":24246,"paks":[
+{"nexusFileName":"Fiend Race","nexusFileVersion":"1","nexusFileUploadedAt":1785765662,"pakFileName":"Fiend Race.pak","nexusFileId":127216,"metaUuid":null}
 ]}}
