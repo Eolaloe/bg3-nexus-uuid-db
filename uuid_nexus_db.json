@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-08-03T15:52:23.229982+00:00","total_mods":17148},
+{"_meta":{"last_run":"2026-08-03T16:52:33.261568+00:00","total_mods":17148},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -313,8 +313,8 @@
 ]},
 "279":{"nexusModName":"Expansion Level 13-20 (Configurable)","nexusUploadedBy":"DiZ91891","nexusModId":279,"paks":[
 {"nexusFileName":"Bladesinger","nexusFileVersion":"2.1.0.0","nexusFileUploadedAt":1744924772,"pakFileName":"Bladesinger.pak","nexusFileId":89421,"metaUuid":"4b3027c0-d841-4c04-a015-6270592ec140"},
-{"nexusFileName":"Expansion","nexusFileVersion":"1.7.3.9","nexusFileUploadedAt":1785635466,"pakFileName":"Expansion.pak","nexusFileId":127075,"metaUuid":"a2c4b0fc-e745-41df-81b7-fa53950d86a0"},
-{"nexusFileName":"Expansion Optional Features","nexusFileVersion":"1.00","nexusFileUploadedAt":1785636404,"pakFileName":"ExpansionOptionalFeatures.pak","nexusFileId":127076,"metaUuid":null}
+{"nexusFileName":"Expansion Optional Features","nexusFileVersion":"1.00","nexusFileUploadedAt":1785636404,"pakFileName":"ExpansionOptionalFeatures.pak","nexusFileId":127076,"metaUuid":null},
+{"nexusFileName":"Expansion","nexusFileVersion":"1.7.3.10","nexusFileUploadedAt":1785772183,"pakFileName":"Expansion.pak","nexusFileId":127219,"metaUuid":"a2c4b0fc-e745-41df-81b7-fa53950d86a0"}
 ]},
 "280":{"nexusModName":"Origin Unlocker and Warlock Fireball - TEST","nexusUploadedBy":"Gryffindor777","nexusModId":280,"paks":[
 {"nexusFileName":"ORIGIN UNLOCKER and WARLOCK FIREBALL","nexusFileVersion":"1","nexusFileUploadedAt":1636912832,"pakFileName":"Gustav.pak","nexusFileId":2180,"metaUuid":null},
@@ -62974,7 +62974,8 @@
 {"nexusFileName":"Necri Soul Wand","nexusFileVersion":"2","nexusFileUploadedAt":1776202788,"pakFileName":"Necri_Soul_Wand_bce292ff-3506-4e26-6675-4efc93289dcc.pak","nexusFileId":118999,"metaUuid":"bce292ff-3506-4e26-6675-4efc93289dcc"},
 {"nexusFileName":"Necri Soul Wand Act3","nexusFileVersion":"2","nexusFileUploadedAt":1776202912,"pakFileName":"Necri_Soul_Wand_bce292ff-3506-4e26-6675-4efc93289dcc.pak","nexusFileId":119000,"metaUuid":"bce292ff-3506-4e26-6675-4efc93289dcc"},
 {"nexusFileName":"Necri - For Undead  Players - WIP (depreciated)","nexusFileVersion":"2","nexusFileUploadedAt":1782665229,"pakFileName":"Necri_Soul_Wand_bce292ff-3506-4e26-6675-4efc93289dcc.pak","nexusFileId":124487,"metaUuid":"bce292ff-3506-4e26-6675-4efc93289dcc"},
-{"nexusFileName":"Necri Soul Wand V2.5","nexusFileVersion":"2.5","nexusFileUploadedAt":1783095847,"pakFileName":"Necri_Soul_Wand_bce292ff-3506-4e26-6675-4efc93289dcc.pak","nexusFileId":124788,"metaUuid":"bce292ff-3506-4e26-6675-4efc93289dcc"}
+{"nexusFileName":"Necri Soul Wand V2.5","nexusFileVersion":"2.5","nexusFileUploadedAt":1783095847,"pakFileName":"Necri_Soul_Wand_bce292ff-3506-4e26-6675-4efc93289dcc.pak","nexusFileId":124788,"metaUuid":"bce292ff-3506-4e26-6675-4efc93289dcc"},
+{"nexusFileName":"Necri Soul Wand 2.7","nexusFileVersion":"2.7","nexusFileUploadedAt":1785773821,"pakFileName":"Necri_Soul_Wand_bce292ff-3506-4e26-6675-4efc93289dcc.pak","nexusFileId":127220,"metaUuid":"bce292ff-3506-4e26-6675-4efc93289dcc"}
 ]},
 "22334":{"nexusModName":"Fade's Dynamic Enemy Encounters for Korean","nexusUploadedBy":"Eolaloe","nexusModId":22334,"paks":[
 {"nexusFileName":"Dynamic Enemy Encounters for Korean","nexusFileVersion":"1.0.0.22","nexusFileUploadedAt":1780896558,"pakFileName":"DynamicExtraEncounters_kr.pak","nexusFileId":123130,"metaUuid":"685f72ea-ff40-47b2-9a4b-8c091b714ff1"}
