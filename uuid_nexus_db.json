@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-08-03T18:52:24.746632+00:00","total_mods":17151},
+{"_meta":{"last_run":"2026-08-03T19:52:46.597233+00:00","total_mods":17154},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -54744,13 +54744,13 @@
 {"nexusFileName":"Dragonborn Walk Fix Female","nexusFileVersion":"1.0","nexusFileUploadedAt":1763140424,"pakFileName":"Dragonborn Walk Fix Female.pak","nexusFileId":107406,"metaUuid":"447bbe27-31ab-4df4-a000-6fbecd4a8d18"}
 ]},
 "19665":{"nexusModName":"HIMBO (Highly Improved Muscular Body Overhaul)","nexusUploadedBy":"faceplug","nexusModId":19665,"paks":[
-{"nexusFileName":"HIMBO LABOTOR WyllKeyArt Refit","nexusFileVersion":"1","nexusFileUploadedAt":1785528642,"pakFileName":"HIMBO_LABOTOR_WyllKeyArt_Refit.pak","nexusFileId":126941,"metaUuid":"a2753ad3-a775-43da-995e-2680aacd86ca"},
 {"nexusFileName":"HIMBO LYNIA Refits","nexusFileVersion":"1","nexusFileUploadedAt":1785528870,"pakFileName":"HIMBO_LYNIA_Refits.pak","nexusFileId":126942,"metaUuid":"a0c92368-b096-4232-b9ce-1ff174aaf1f5"},
 {"nexusFileName":"HIMBO Astarion","nexusFileVersion":"1","nexusFileUploadedAt":1785534054,"pakFileName":"HIMBO_Astarion.pak","nexusFileId":126959,"metaUuid":"c6b55f33-964b-4891-963e-ff2907fa3a00"},
 {"nexusFileName":"HIMBO Gale","nexusFileVersion":"1","nexusFileUploadedAt":1785534098,"pakFileName":"HIMBO_Gale.pak","nexusFileId":126960,"metaUuid":null},
 {"nexusFileName":"HIMBO Wyll","nexusFileVersion":"1","nexusFileUploadedAt":1785534181,"pakFileName":"HIMBO_Wyll.pak","nexusFileId":126961,"metaUuid":"45b0d763-4cba-4301-be5a-5fa72ad21329"},
 {"nexusFileName":"HIMBO VANILLA Armor Refits","nexusFileVersion":"1","nexusFileUploadedAt":1785567022,"pakFileName":"HIMBO_VANILLA_Armor_Refits.pak","nexusFileId":127017,"metaUuid":"0f0904ba-99aa-4737-a999-944e397c2f8d"},
-{"nexusFileName":"HIMBO VANILLA Default Replacement","nexusFileVersion":"1.0.0.1","nexusFileUploadedAt":1785638896,"pakFileName":"HIMBO_VANILLA_Default_Replacement.pak","nexusFileId":127079,"metaUuid":null}
+{"nexusFileName":"HIMBO VANILLA Default Replacement","nexusFileVersion":"1.0.0.1","nexusFileUploadedAt":1785638896,"pakFileName":"HIMBO_VANILLA_Default_Replacement.pak","nexusFileId":127079,"metaUuid":null},
+{"nexusFileName":"HIMBO LABOTOR WyllKeyArt Refit","nexusFileVersion":"1.0.0.1","nexusFileUploadedAt":1785784062,"pakFileName":"HIMBO_LABOTOR_WyllKeyArt_Refit.pak","nexusFileId":127233,"metaUuid":"a2753ad3-a775-43da-995e-2680aacd86ca"}
 ]},
 "19666":{"nexusModName":"5R Conjure Animals (dnd 5e 2024 PHB)","nexusUploadedBy":"ShadyDax","nexusModId":19666,"paks":[
 {"nexusFileName":"5R Conjure Animals - all classes addon","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1781407098,"pakFileName":"5R Conjure Animals - all classes addon.pak","nexusFileId":123513,"metaUuid":null},
@@ -67784,4 +67784,13 @@
 ]},
 "24253":{"nexusModName":"Heavy Armor for All Clerics","nexusUploadedBy":"Reveurr","nexusModId":24253,"paks":[
 {"nexusFileName":"All Clerics wear Heavy Armor at level 1","nexusFileVersion":"1","nexusFileUploadedAt":1785782420,"pakFileName":"ClericsHeavyArmor_24f8a91a-325f-0d03-9f35-3d7c0f200805.pak","nexusFileId":127229,"metaUuid":null}
+]},
+"24255":{"nexusModName":"Early Minsc for Korean","nexusUploadedBy":"Eolaloe","nexusModId":24255,"paks":[
+{"nexusFileName":"Early Minsc for Korean","nexusFileVersion":"1.0.3.0","nexusFileUploadedAt":1785782930,"pakFileName":"Early_Minsc_kr.pak","nexusFileId":127230,"metaUuid":null}
+]},
+"24256":{"nexusModName":"Early Minsc for Japanese","nexusUploadedBy":"Eolaloe","nexusModId":24256,"paks":[
+{"nexusFileName":"Early Minsc for Japanese","nexusFileVersion":"1.0.3.0","nexusFileUploadedAt":1785783097,"pakFileName":"Early_Minsc_jp.pak","nexusFileId":127231,"metaUuid":null}
+]},
+"24257":{"nexusModName":"Sculpt Spells as a Feat","nexusUploadedBy":"FortisEstVeritas","nexusModId":24257,"paks":[
+{"nexusFileName":"Sculpt Spells As A Feat","nexusFileVersion":"1.0","nexusFileUploadedAt":1785785234,"pakFileName":"Sculpt Spells as a Feat.pak","nexusFileId":127249,"metaUuid":null}
 ]}}
