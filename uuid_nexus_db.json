@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-08-04T21:52:29.515878+00:00","total_mods":17163},
+{"_meta":{"last_run":"2026-08-04T22:52:12.746329+00:00","total_mods":17164},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -3612,8 +3612,10 @@
 {"nexusFileName":"Dual Wielding Tweaks Reworked (No Penalty)-SCH","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1692879019,"pakFileName":"DualWieldingTweaksReworked(No Penalty)-SCH.pak","nexusFileId":9931,"metaUuid":null}
 ]},
 "1317":{"nexusModName":"Lighter eyebrows for Shadowheart","nexusUploadedBy":"Netorizz","nexusModId":1317,"paks":[
-{"nexusFileName":"White Eyebrows SH","nexusFileVersion":"1.1","nexusFileUploadedAt":1728163738,"pakFileName":"WhiteEyebrowsSH.pak","nexusFileId":74135,"metaUuid":null},
-{"nexusFileName":"White Eyebrows Eyelashes SH","nexusFileVersion":"1.1","nexusFileUploadedAt":1728163786,"pakFileName":"WhiteEyebrowsOnlySH.pak","nexusFileId":74136,"metaUuid":null},
+{"nexusFileName":"White Eyebrows Eyelashes SH","nexusFileVersion":"1.1","nexusFileUploadedAt":1728163738,"pakFileName":"WhiteEyebrowsSH.pak","nexusFileId":74135,"metaUuid":null},
+{"nexusFileName":"White Eyebrows SH","nexusFileVersion":"1.1","nexusFileUploadedAt":1728163786,"pakFileName":"WhiteEyebrowsOnlySH.pak","nexusFileId":74136,"metaUuid":null},
+{"nexusFileName":"Blonde version with Dark Eyelashes","nexusFileVersion":"1.1","nexusFileUploadedAt":1728163855,"pakFileName":"BlondeShadowheart.pak","nexusFileId":74137,"metaUuid":null},
+{"nexusFileName":"Blonde version","nexusFileVersion":"1.1","nexusFileUploadedAt":1728164136,"pakFileName":"BlondeShadowheart.pak","nexusFileId":74139,"metaUuid":null},
 {"nexusFileName":"White Eyebrows Eyelashes Body hair SH","nexusFileVersion":"1.1","nexusFileUploadedAt":1728164217,"pakFileName":"WhiteEyebrowsSH.pak","nexusFileId":74140,"metaUuid":null},
 {"nexusFileName":"White Eyebrows and Body hair SH","nexusFileVersion":"1.1","nexusFileUploadedAt":1728164281,"pakFileName":"WhiteEyebrowsOnlySH.pak","nexusFileId":74141,"metaUuid":null}
 ]},
@@ -65434,7 +65436,7 @@
 {"nexusFileName":"Awakened Morninglord's Morningstar","nexusFileVersion":"1.0.1","nexusFileUploadedAt":1780865334,"pakFileName":"Awakened Morninglord's Morningstar Compatibility Patch.pak","nexusFileId":123106,"metaUuid":"a4bc95d6-d14f-4ce5-8401-222937128234"}
 ]},
 "23247":{"nexusModName":"Advanced Enemy Randomizer","nexusUploadedBy":"celerev","nexusModId":23247,"paks":[
-{"nexusFileName":"AERando","nexusFileVersion":"0.9.12.0","nexusFileUploadedAt":1785866306,"pakFileName":"AERando.pak","nexusFileId":127317,"metaUuid":"1ec28411-fbaf-43ba-ad7b-092aa678c0dc"}
+{"nexusFileName":"AERando","nexusFileVersion":"0.9.12.1","nexusFileUploadedAt":1785880731,"pakFileName":"AERando.pak","nexusFileId":127331,"metaUuid":"1ec28411-fbaf-43ba-ad7b-092aa678c0dc"}
 ]},
 "23248":{"nexusModName":"Sharran Weaponry by AzazeL (WIP)_JP","nexusUploadedBy":"Akazonae36","nexusModId":23248,"paks":[
 {"nexusFileName":"Aza Sharran Weaponry WIP JP","nexusFileVersion":"1","nexusFileUploadedAt":1780802520,"pakFileName":"Aza_Sharran_Weaponry_WIP_JP.pak","nexusFileId":123036,"metaUuid":null}
@@ -66147,20 +66149,20 @@
 {"nexusFileName":"Dexterity Jump BG3SS","nexusFileVersion":"1","nexusFileUploadedAt":1782585987,"pakFileName":"Dexterity_Jump_BG3SS.pak","nexusFileId":124411,"metaUuid":null}
 ]},
 "23592":{"nexusModName":"Compendium of Poses","nexusUploadedBy":"gobanaoblin","nexusModId":23592,"paks":[
-{"nexusFileName":"Child of Bhaal","nexusFileVersion":"2","nexusFileUploadedAt":1782767527,"pakFileName":"PP_ChildBhaal_6170b196-a292-fd5c-30fc-038f9de3ac70.pak","nexusFileId":124553,"metaUuid":"6170b196-a292-fd5c-30fc-038f9de3ac70"},
-{"nexusFileName":"Quiet Moment","nexusFileVersion":"2","nexusFileUploadedAt":1782767541,"pakFileName":"PP_QuietMoment_636cb6aa-0fb7-1937-47f8-c84b6a058e41.pak","nexusFileId":124554,"metaUuid":"6170b196-a292-fd5c-30fc-038f9de3ac70"},
-{"nexusFileName":"Hush by Goblin (NSFW)","nexusFileVersion":"2","nexusFileUploadedAt":1782767589,"pakFileName":"PP_Hush_f222a5a7-bf00-f3cb-1b85-6281c5b45f33.pak","nexusFileId":124556,"metaUuid":"6170b196-a292-fd5c-30fc-038f9de3ac70"},
-{"nexusFileName":"Long Rest by Goblin (NSFW)","nexusFileVersion":"1","nexusFileUploadedAt":1782767612,"pakFileName":"PP_LongRest_b24a6276-1f60-a362-6e5a-bbf89184bd76.pak","nexusFileId":124557,"metaUuid":"6170b196-a292-fd5c-30fc-038f9de3ac70"},
-{"nexusFileName":"Faces by Goblin","nexusFileVersion":"2","nexusFileUploadedAt":1782808454,"pakFileName":"PP_Faces_27b8c7a5-eba8-d3c8-4a30-d891e32a4792.pak","nexusFileId":124577,"metaUuid":"6170b196-a292-fd5c-30fc-038f9de3ac70"},
-{"nexusFileName":"Still Motion","nexusFileVersion":"3","nexusFileUploadedAt":1783893160,"pakFileName":"PP_StillMotion_258a8b5d-e538-277c-0f7a-f67c29828ab3.pak","nexusFileId":125502,"metaUuid":"6170b196-a292-fd5c-30fc-038f9de3ac70"},
-{"nexusFileName":"Eternal by Goblin","nexusFileVersion":"3","nexusFileUploadedAt":1783966165,"pakFileName":"PP_Eternal_24f742cc-908f-86ad-aef1-e46833c25d11.pak","nexusFileId":125564,"metaUuid":"6170b196-a292-fd5c-30fc-038f9de3ac70"},
+{"nexusFileName":"Child of Bhaal","nexusFileVersion":"2","nexusFileUploadedAt":1782767527,"pakFileName":"PP_ChildBhaal_6170b196-a292-fd5c-30fc-038f9de3ac70.pak","nexusFileId":124553,"metaUuid":"24f742cc-908f-86ad-aef1-e46833c25d11"},
+{"nexusFileName":"Quiet Moment","nexusFileVersion":"2","nexusFileUploadedAt":1782767541,"pakFileName":"PP_QuietMoment_636cb6aa-0fb7-1937-47f8-c84b6a058e41.pak","nexusFileId":124554,"metaUuid":"24f742cc-908f-86ad-aef1-e46833c25d11"},
+{"nexusFileName":"Hush by Goblin (NSFW)","nexusFileVersion":"2","nexusFileUploadedAt":1782767589,"pakFileName":"PP_Hush_f222a5a7-bf00-f3cb-1b85-6281c5b45f33.pak","nexusFileId":124556,"metaUuid":"24f742cc-908f-86ad-aef1-e46833c25d11"},
+{"nexusFileName":"Long Rest by Goblin (NSFW)","nexusFileVersion":"1","nexusFileUploadedAt":1782767612,"pakFileName":"PP_LongRest_b24a6276-1f60-a362-6e5a-bbf89184bd76.pak","nexusFileId":124557,"metaUuid":"24f742cc-908f-86ad-aef1-e46833c25d11"},
+{"nexusFileName":"Faces by Goblin","nexusFileVersion":"2","nexusFileUploadedAt":1782808454,"pakFileName":"PP_Faces_27b8c7a5-eba8-d3c8-4a30-d891e32a4792.pak","nexusFileId":124577,"metaUuid":"24f742cc-908f-86ad-aef1-e46833c25d11"},
+{"nexusFileName":"Still Motion","nexusFileVersion":"3","nexusFileUploadedAt":1783893160,"pakFileName":"PP_StillMotion_258a8b5d-e538-277c-0f7a-f67c29828ab3.pak","nexusFileId":125502,"metaUuid":"24f742cc-908f-86ad-aef1-e46833c25d11"},
+{"nexusFileName":"Eternal by Goblin","nexusFileVersion":"3","nexusFileUploadedAt":1783966165,"pakFileName":"PP_Eternal_24f742cc-908f-86ad-aef1-e46833c25d11.pak","nexusFileId":125564,"metaUuid":"24f742cc-908f-86ad-aef1-e46833c25d11"},
 {"nexusFileName":"All-In-One Download","nexusFileVersion":"5","nexusFileUploadedAt":1785868927,"pakFileName":"PP_ChildBhaal_6170b196-a292-fd5c-30fc-038f9de3ac70.pak","nexusFileId":127320,"metaUuid":"24f742cc-908f-86ad-aef1-e46833c25d11"},
 {"nexusFileName":"All-In-One Download","nexusFileVersion":"5","nexusFileUploadedAt":1785868927,"pakFileName":"PP_Eternal_24f742cc-908f-86ad-aef1-e46833c25d11.pak","nexusFileId":127320,"metaUuid":"24f742cc-908f-86ad-aef1-e46833c25d11"},
 {"nexusFileName":"All-In-One Download","nexusFileVersion":"5","nexusFileUploadedAt":1785868927,"pakFileName":"PP_Faces_27b8c7a5-eba8-d3c8-4a30-d891e32a4792.pak","nexusFileId":127320,"metaUuid":"24f742cc-908f-86ad-aef1-e46833c25d11"},
 {"nexusFileName":"All-In-One Download","nexusFileVersion":"5","nexusFileUploadedAt":1785868927,"pakFileName":"PP_Hush_f222a5a7-bf00-f3cb-1b85-6281c5b45f33.pak","nexusFileId":127320,"metaUuid":"24f742cc-908f-86ad-aef1-e46833c25d11"},
 {"nexusFileName":"All-In-One Download","nexusFileVersion":"5","nexusFileUploadedAt":1785868927,"pakFileName":"PP_LongRest_b24a6276-1f60-a362-6e5a-bbf89184bd76.pak","nexusFileId":127320,"metaUuid":"24f742cc-908f-86ad-aef1-e46833c25d11"},
 {"nexusFileName":"All-In-One Download","nexusFileVersion":"5","nexusFileUploadedAt":1785868927,"pakFileName":"PP_QuietMoment_636cb6aa-0fb7-1937-47f8-c84b6a058e41.pak","nexusFileId":127320,"metaUuid":"24f742cc-908f-86ad-aef1-e46833c25d11"},
-{"nexusFileName":"All-In-One Download","nexusFileVersion":"5","nexusFileUploadedAt":1785868927,"pakFileName":"PP_Silhouettes_63d63dd5-f55f-13d7-d754-f2af16472a95.pak","nexusFileId":127320,"metaUuid":"24f742cc-908f-86ad-aef1-e46833c25d11"},
+{"nexusFileName":"All-In-One Download","nexusFileVersion":"5","nexusFileUploadedAt":1785868927,"pakFileName":"PP_Silhouettes_63d63dd5-f55f-13d7-d754-f2af16472a95.pak","nexusFileId":127320,"metaUuid":"6170b196-a292-fd5c-30fc-038f9de3ac70"},
 {"nexusFileName":"All-In-One Download","nexusFileVersion":"5","nexusFileUploadedAt":1785868927,"pakFileName":"PP_StillMotion_258a8b5d-e538-277c-0f7a-f67c29828ab3.pak","nexusFileId":127320,"metaUuid":"24f742cc-908f-86ad-aef1-e46833c25d11"},
 {"nexusFileName":"Silhouettes by Goblin","nexusFileVersion":"3","nexusFileUploadedAt":1785869345,"pakFileName":"PP_Silhouettes_63d63dd5-f55f-13d7-d754-f2af16472a95.pak","nexusFileId":127323,"metaUuid":"6170b196-a292-fd5c-30fc-038f9de3ac70"}
 ]},
@@ -67768,6 +67770,9 @@
 ]},
 "24233":{"nexusModName":"Savage Attacker - All Attacks","nexusUploadedBy":"FortisEstVeritas","nexusModId":24233,"paks":[
 {"nexusFileName":"Savage Attacker - All Attacks","nexusFileVersion":"1.0","nexusFileUploadedAt":1785697893,"pakFileName":"Savage Attacker - All Attacks.pak","nexusFileId":127155,"metaUuid":"a4a57bd4-1850-4397-a6df-54b679ec89ab"}
+]},
+"24235":{"nexusModName":"Moon's Medieval Maidens","nexusUploadedBy":"AdrasteaMoon","nexusModId":24235,"paks":[
+{"nexusFileName":"Medieval Maidens","nexusFileVersion":"1","nexusFileUploadedAt":1785880753,"pakFileName":"Moon's Medieval Maidens.pak","nexusFileId":127332,"metaUuid":null}
 ]},
 "24236":{"nexusModName":"DnD 5.5e All-in-One BEYOND Turkish Translation","nexusUploadedBy":"NLZ1","nexusModId":24236,"paks":[
 {"nexusFileName":"DnD 5.5e All In One BEYOND Turkce","nexusFileVersion":"1","nexusFileUploadedAt":1785699520,"pakFileName":"DnD-5.5e-All-in-One-BEYOND-Turkce-v1.0.0.pak","nexusFileId":127156,"metaUuid":null}
