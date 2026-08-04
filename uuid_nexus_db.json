@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-08-04T10:53:16.600291+00:00","total_mods":17160},
+{"_meta":{"last_run":"2026-08-04T11:52:20.937765+00:00","total_mods":17161},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -239,7 +239,7 @@
 ]},
 "206":{"nexusModName":"Choose Your Stats (CYS)","nexusUploadedBy":"lostsoulman","nexusModId":206,"paks":[
 {"nexusFileName":"chooseyourstats_v127","nexusFileVersion":"TestingV127","nexusFileUploadedAt":1702725087,"pakFileName":"chooseyourstats.pak","nexusFileId":34765,"metaUuid":"a88d400b-febb-4662-abdd-5d0b5d6e57cc"},
-{"nexusFileName":"chooseyourstats","nexusFileVersion":"2.53","nexusFileUploadedAt":1782556652,"pakFileName":"chooseyourstats.pak","nexusFileId":124370,"metaUuid":"a88d400b-febb-4662-abdd-5d0b5d6e57cc"}
+{"nexusFileName":"chooseyourstats","nexusFileVersion":"2.54","nexusFileUploadedAt":1785843756,"pakFileName":"chooseyourstats.pak","nexusFileId":127298,"metaUuid":"a88d400b-febb-4662-abdd-5d0b5d6e57cc"}
 ]},
 "213":{"nexusModName":"Tav's Hair Salon","nexusUploadedBy":"Toarie","nexusModId":213,"paks":[
 {"nexusFileName":"Autosnap Hairpack","nexusFileVersion":"V.1","nexusFileUploadedAt":1691446385,"pakFileName":"AutoSnap Hairpack.pak","nexusFileId":5731,"metaUuid":"dfdb69c0-23ed-46a7-83bb-39fbbb84308c"},
@@ -55222,8 +55222,8 @@
 {"nexusFileName":"Book of Sorcerers ITA","nexusFileVersion":"1.0.1.13","nexusFileUploadedAt":1779086904,"pakFileName":"BookOfSorcerers_NexusVersion_ITA_5569e989-4d67-cc41-cfeb-c357651c7abf.pak","nexusFileId":121548,"metaUuid":null}
 ]},
 "19832":{"nexusModName":"Wyll - Theo Solomon Banter","nexusUploadedBy":"nyilas7","nexusModId":19832,"paks":[
-{"nexusFileName":"Wyll - Theo Solomon Banter (.pak file)","nexusFileVersion":"1.4","nexusFileUploadedAt":1785751073,"pakFileName":"Wyll - Theo Solomon Banter.pak","nexusFileId":127191,"metaUuid":"3f94216f-8cce-46f2-b358-46573518acfc"},
-{"nexusFileName":"Wyll - Theo Solomon Banter - Larian Edition","nexusFileVersion":"1.4","nexusFileUploadedAt":1785751132,"pakFileName":"Wyll - Theo Solomon Banter - Larian Edition.pak","nexusFileId":127194,"metaUuid":null}
+{"nexusFileName":"Wyll - Theo Solomon Banter - Larian Edition","nexusFileVersion":"1.4.1","nexusFileUploadedAt":1785842518,"pakFileName":"Wyll - Theo Solomon Banter - Larian Edition.pak","nexusFileId":127293,"metaUuid":null},
+{"nexusFileName":"Wyll - Theo Solomon Banter (.pak file)","nexusFileVersion":"1.4.1","nexusFileUploadedAt":1785842571,"pakFileName":"Wyll - Theo Solomon Banter.pak","nexusFileId":127296,"metaUuid":"3f94216f-8cce-46f2-b358-46573518acfc"}
 ]},
 "19833":{"nexusModName":"Starting Spells and Stats Enhanced","nexusUploadedBy":"Lumaterian","nexusModId":19833,"paks":[
 {"nexusFileName":"SSSE Patch - Impactful Backgrounds 1.0.0","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1766658768,"pakFileName":"SSSE Patch - Impactful Backgrounds.pak","nexusFileId":110313,"metaUuid":null},
@@ -56070,7 +56070,7 @@
 {"nexusFileName":"cadystieflingposes","nexusFileVersion":"1.0.0.7","nexusFileUploadedAt":1764669160,"pakFileName":"tiefposes_2fcf2d22-c06a-25fd-be53-f73a46e9099e.pak","nexusFileId":108655,"metaUuid":"2fcf2d22-c06a-25fd-be53-f73a46e9099e"}
 ]},
 "19908":{"nexusModName":"DnD 5.5e All-in-One BEYOND for Chinese","nexusUploadedBy":"pom0328tw","nexusModId":19908,"paks":[
-{"nexusFileName":"Dnd2024CHSCHT","nexusFileVersion":"2.9.2.1","nexusFileUploadedAt":1785497245,"pakFileName":"dnd2024CHSCHT.pak","nexusFileId":126907,"metaUuid":"577d1a0d-1421-441b-b563-060e7b564a00"}
+{"nexusFileName":"Dnd2024CHSCHT","nexusFileVersion":"2.9.3","nexusFileUploadedAt":1785843325,"pakFileName":"dnd2024CHSCHT.pak","nexusFileId":127297,"metaUuid":"577d1a0d-1421-441b-b563-060e7b564a00"}
 ]},
 "19909":{"nexusModName":"Zorn - a pretty boy head preset for HRC","nexusUploadedBy":"Midsommarnacht","nexusModId":19909,"paks":[
 {"nexusFileName":"Zorn - EOTB","nexusFileVersion":"1.2.1","nexusFileUploadedAt":1764847572,"pakFileName":"♡a pretty orc head mod♡ -EOTB.pak","nexusFileId":108841,"metaUuid":null},
@@ -67826,4 +67826,7 @@
 ]},
 "24264":{"nexusModName":"No Blood Spatter","nexusUploadedBy":"scatbin","nexusModId":24264,"paks":[
 {"nexusFileName":"NoBlood","nexusFileVersion":"1.0","nexusFileUploadedAt":1785838630,"pakFileName":"NoBlood.pak","nexusFileId":127290,"metaUuid":null}
+]},
+"24265":{"nexusModName":"Flat Barbell Plug Stud Piercing","nexusUploadedBy":"FluffySpider","nexusModId":24265,"paks":[
+{"nexusFileName":"Piercing Barbell Plug Stud","nexusFileVersion":"1","nexusFileUploadedAt":1785842082,"pakFileName":"Piercing_Barbell_Plug_Stud.pak","nexusFileId":127292,"metaUuid":null}
 ]}}
