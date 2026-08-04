@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-08-04T13:52:20.638340+00:00","total_mods":17161},
+{"_meta":{"last_run":"2026-08-04T14:52:17.760334+00:00","total_mods":17161},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -8111,10 +8111,10 @@
 ]},
 "2458":{"nexusModName":"Trade with Withers - Fully modular and customizable trader","nexusUploadedBy":"yakuzadeso","nexusModId":2458,"paks":[
 {"nexusFileName":"nuke withers gold","nexusFileVersion":"1.0.0.5","nexusFileUploadedAt":1699182299,"pakFileName":"NukeWithersGold.pak","nexusFileId":26937,"metaUuid":null},
-{"nexusFileName":"TradeWithWithersAddonAIO","nexusFileVersion":"1.0.0.7","nexusFileUploadedAt":1716391878,"pakFileName":"TradeWithWithersAddonAIO.pak","nexusFileId":58195,"metaUuid":"198749c1-18c4-4c4f-bc68-199679719edf"},
+{"nexusFileName":"TradeWithWithersAddonAIO (Can cause bug)","nexusFileVersion":"1.0.0.7","nexusFileUploadedAt":1716391878,"pakFileName":"TradeWithWithersAddonAIO.pak","nexusFileId":58195,"metaUuid":"198749c1-18c4-4c4f-bc68-199679719edf"},
 {"nexusFileName":"trade with withers","nexusFileVersion":"1.0.0.8","nexusFileUploadedAt":1754320408,"pakFileName":"TradeWithWithers.pak","nexusFileId":99907,"metaUuid":"c7c3ba79-97bd-411e-82f4-1c615e9945a7"},
 {"nexusFileName":"trade with withers reset inventory","nexusFileVersion":"1.0.0.8","nexusFileUploadedAt":1754320484,"pakFileName":"TradeWithWithersResetInventory.pak","nexusFileId":99908,"metaUuid":"fab6a124-7087-4693-89ba-4ebd4dc8fe0b"},
-{"nexusFileName":"TradeWithWithersAddonAIORandom","nexusFileVersion":"1.0.0.8","nexusFileUploadedAt":1754320559,"pakFileName":"TradeWithWithersAddonAIORandom.pak","nexusFileId":99909,"metaUuid":"e51ebdd2-15b1-4487-8c35-4e41c2c2e6c1"},
+{"nexusFileName":"TradeWithWithersAddonAIORandom (Can cause bug)","nexusFileVersion":"1.0.0.8","nexusFileUploadedAt":1754320559,"pakFileName":"TradeWithWithersAddonAIORandom.pak","nexusFileId":99909,"metaUuid":"e51ebdd2-15b1-4487-8c35-4e41c2c2e6c1"},
 {"nexusFileName":"TradeWithWithersAddonArmor","nexusFileVersion":"1.0.0.8","nexusFileUploadedAt":1754320599,"pakFileName":"TradeWithWithersAddonArmor.pak","nexusFileId":99910,"metaUuid":null},
 {"nexusFileName":"TradeWithWithersAddonArmorRandom","nexusFileVersion":"1.0.0.8","nexusFileUploadedAt":1754320624,"pakFileName":"TradeWithWithersAddonArmorRandom.pak","nexusFileId":99911,"metaUuid":"7ceee9b7-4b91-4bab-957e-dbd0ead434e5"},
 {"nexusFileName":"TradeWithWithersAddonArrows","nexusFileVersion":"1.0.0.8","nexusFileUploadedAt":1754320655,"pakFileName":"TradeWithWithersAddonArrows.pak","nexusFileId":99912,"metaUuid":"75225ccf-dfcb-42d7-bc00-7c625ee63f2a"},
@@ -8130,7 +8130,8 @@
 {"nexusFileName":"TradeWithWithersAddonWeapons","nexusFileVersion":"1.0.0.8","nexusFileUploadedAt":1754320959,"pakFileName":"TradeWithWithersAddonWeapons.pak","nexusFileId":99922,"metaUuid":"578edadb-a67d-4118-a692-5b449ff0327a"},
 {"nexusFileName":"TradeWithWithersAddonWeaponsRandom","nexusFileVersion":"1.0.0.8","nexusFileUploadedAt":1754320986,"pakFileName":"TradeWithWithersAddonWeaponsRandom.pak","nexusFileId":99923,"metaUuid":"035b30c6-44f3-4282-b592-6c79f0ec345a"},
 {"nexusFileName":"TradeWithWithersAddonGrenadesNoOtiluke","nexusFileVersion":"1.0.0.8","nexusFileUploadedAt":1775990720,"pakFileName":"TradeWithWithersAddonGrenadesNoOtiluke.pak","nexusFileId":118750,"metaUuid":"378ba981-bd07-4d34-ad36-6eed7c34e7a2"},
-{"nexusFileName":"TradeWithWithersAddonGrenadesNoOtilukeRandom","nexusFileVersion":"1.0.0.8","nexusFileUploadedAt":1785846104,"pakFileName":"TradeWithWithersAddonGrenadesNoOtilukeRandom.pak","nexusFileId":127299,"metaUuid":null}
+{"nexusFileName":"TradeWithWithersAddonGrenadesNoOtilukeRandom","nexusFileVersion":"1.0.0.8","nexusFileUploadedAt":1785846104,"pakFileName":"TradeWithWithersAddonGrenadesNoOtilukeRandom.pak","nexusFileId":127299,"metaUuid":null},
+{"nexusFileName":"TradeWithWithersAddonAIONoOtilukeRandom","nexusFileVersion":"1.0.0.8","nexusFileUploadedAt":1785853798,"pakFileName":"TradeWithWithersAddonAIONoOtilukeRandom.pak","nexusFileId":127303,"metaUuid":null}
 ]},
 "2460":{"nexusModName":"PF2e Spells","nexusUploadedBy":"Gycicada","nexusModId":2460,"paks":[
 {"nexusFileName":"2e Spells","nexusFileVersion":"8.10.0","nexusFileUploadedAt":1703901931,"pakFileName":"2eSpells.pak","nexusFileId":37025,"metaUuid":"cb92db0c-634d-438c-8580-f45555555555"}
