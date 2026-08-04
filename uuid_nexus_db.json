@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-08-04T22:52:12.746329+00:00","total_mods":17164},
+{"_meta":{"last_run":"2026-08-04T23:52:15.606366+00:00","total_mods":17163},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -67016,8 +67016,8 @@
 {"nexusFileName":"Eladrin High Elf Preset - pak version","nexusFileVersion":"1.0","nexusFileUploadedAt":1784281326,"pakFileName":"CPF_EladrinHighElf_6a4c1787-3a14-4ea6-889b-a1f4f80.pak","nexusFileId":125822,"metaUuid":"6a4c1787-3a14-4ea6-889b-a1f4f80a3b13"}
 ]},
 "23919":{"nexusModName":"Flanking Rules","nexusUploadedBy":"chizfreak","nexusModId":23919,"paks":[
-{"nexusFileName":"Flanking Rules - Pathfinder version","nexusFileVersion":"4.2.0","nexusFileUploadedAt":1785799882,"pakFileName":"Flanking Rules - Pathfinder ver.pak","nexusFileId":127260,"metaUuid":"84ee967c-1b6d-2185-7051-dddc4b1081b7"},
-{"nexusFileName":"Flanking Rules - DnD version","nexusFileVersion":"4.2.0","nexusFileUploadedAt":1785799894,"pakFileName":"Flanking Rules - DnD ver.pak","nexusFileId":127261,"metaUuid":"84ee967c-1b6d-2185-7051-dddc4b1081b7"}
+{"nexusFileName":"Flanking Rules - Pathfinder version","nexusFileVersion":"4.3.0","nexusFileUploadedAt":1785885169,"pakFileName":"Flanking Rules - Pathfinder ver.pak","nexusFileId":127334,"metaUuid":"84ee967c-1b6d-2185-7051-dddc4b1081b7"},
+{"nexusFileName":"Flanking Rules - DnD version","nexusFileVersion":"4.3.0","nexusFileUploadedAt":1785885181,"pakFileName":"Flanking Rules - DnD ver.pak","nexusFileId":127335,"metaUuid":"84ee967c-1b6d-2185-7051-dddc4b1081b7"}
 ]},
 "23920":{"nexusModName":"Better Tooltips (Russian Localization)","nexusUploadedBy":"ganeuken","nexusModId":23920,"paks":[
 {"nexusFileName":"Better Tooltips Russian Localization","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1784289618,"pakFileName":"BetterTooltips_RU.pak","nexusFileId":125831,"metaUuid":null},
@@ -67837,4 +67837,10 @@
 ]},
 "24271":{"nexusModName":"5e Monk Subclasses Combined - PTBR (2026)","nexusUploadedBy":"BarovZx","nexusModId":24271,"paks":[
 {"nexusFileName":"Monk Subclasses 5e Combined PTBR","nexusFileVersion":"08.02.2026","nexusFileUploadedAt":1785864475,"pakFileName":"Monk Subclasses 5e Combined PTBR.pak","nexusFileId":127316,"metaUuid":null}
+]},
+"24276":{"nexusModName":"TRM1 Modded Races Patches","nexusUploadedBy":"tealrabbit19","nexusModId":24276,"paks":[
+{"nexusFileName":"ASTRL Elven Anthology TRM1","nexusFileVersion":"1","nexusFileUploadedAt":1785885747,"pakFileName":"ASTRLelvenanthologyTRM1.pak","nexusFileId":127336,"metaUuid":null},
+{"nexusFileName":"ASTRL Tiefling Compendium TRM1","nexusFileVersion":"1","nexusFileUploadedAt":1785885794,"pakFileName":"ASTRLtieflingsTRM1.pak","nexusFileId":127337,"metaUuid":null},
+{"nexusFileName":"ASTRL Elves UniqueTav TRM1","nexusFileVersion":"1","nexusFileUploadedAt":1785885863,"pakFileName":"ASTRLelves_UniqueTav_TRM1.pak","nexusFileId":127338,"metaUuid":null},
+{"nexusFileName":"ASTRL Tieflings UniqueTav TRM1","nexusFileVersion":"1","nexusFileUploadedAt":1785885903,"pakFileName":"ASTRLtieflings_UniqueTav_TRM1Patch.pak","nexusFileId":127339,"metaUuid":null}
 ]}}
