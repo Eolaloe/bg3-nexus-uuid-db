@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-08-04T02:52:53.993891+00:00","total_mods":17156},
+{"_meta":{"last_run":"2026-08-04T03:53:08.263264+00:00","total_mods":17157},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -66981,7 +66981,7 @@
 {"nexusFileName":"No More Blatant Lies - Astarion is 5'1","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1784266442,"pakFileName":"MGNTN_NoMoreBlatantLies.pak","nexusFileId":125807,"metaUuid":"bbb39083-df60-4619-84b6-21be636cf61e"}
 ]},
 "23904":{"nexusModName":"Darkside's Elixir Overhaul","nexusUploadedBy":"Darkside057","nexusModId":23904,"paks":[
-{"nexusFileName":"Elixir Overhaul","nexusFileVersion":"3","nexusFileUploadedAt":1784617438,"pakFileName":"RebalancedElixirsBalorEdition_521b0d69-b176-4694-f22d-084cf5b2ae56.pak","nexusFileId":126122,"metaUuid":"521b0d69-b176-4694-f22d-084cf5b2ae56"}
+{"nexusFileName":"Elixir Overhaul","nexusFileVersion":"1.1.1.31","nexusFileUploadedAt":1785815132,"pakFileName":"RebalancedElixirsBalorEdition_521b0d69-b176-4694-f22d-084cf5b2ae56.pak","nexusFileId":127267,"metaUuid":"521b0d69-b176-4694-f22d-084cf5b2ae56"}
 ]},
 "23905":{"nexusModName":"Hordak - Head Preset and Custom Face and Body Vitiligo","nexusUploadedBy":"mouch30","nexusModId":23905,"paks":[
 {"nexusFileName":"Hordak Head - CCO Version","nexusFileVersion":"1.0","nexusFileUploadedAt":1785322817,"pakFileName":"Hordak.pak","nexusFileId":126737,"metaUuid":null},
@@ -67813,4 +67813,7 @@
 ]},
 "24259":{"nexusModName":"LMDR Quad Head Pack","nexusUploadedBy":"lumadaire","nexusModId":24259,"paks":[
 {"nexusFileName":"LMDR Quad Head Pack","nexusFileVersion":"1.0","nexusFileUploadedAt":1785792713,"pakFileName":"LMDR_Quad_Head_Pack_dcbddf07-df14-22fb-3dd4-b1d5ab0d8615.pak","nexusFileId":127257,"metaUuid":null}
+]},
+"24261":{"nexusModName":"Darkside's Level 30 Cap Progression","nexusUploadedBy":"Darkside057","nexusModId":24261,"paks":[
+{"nexusFileName":"DarksidesLvl30Cap","nexusFileVersion":"1.1.0.15","nexusFileUploadedAt":1785814910,"pakFileName":"Level30cap_3e00e1c2-b47e-32e2-fb49-aa77fc41f26f.pak","nexusFileId":127266,"metaUuid":null}
 ]}}
