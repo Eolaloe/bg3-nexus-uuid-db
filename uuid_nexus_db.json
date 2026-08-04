@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-08-04T04:52:36.125222+00:00","total_mods":17157},
+{"_meta":{"last_run":"2026-08-04T05:52:27.797626+00:00","total_mods":17158},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -67507,7 +67507,7 @@
 {"nexusFileName":"Allwizard Cf177c22 463a 7a2a E Etgn","nexusFileVersion":"1","nexusFileUploadedAt":1785131614,"pakFileName":"AllWizard_cf177c22-463a-7a2a-e12a-99ad3014387a.pak","nexusFileId":126583,"metaUuid":"cf177c22-463a-7a2a-e12a-99ad3014387a"}
 ]},
 "24107":{"nexusModName":"Ultimate Cheat Tool","nexusUploadedBy":"Tiberie","nexusModId":24107,"paks":[
-{"nexusFileName":"UltimateCheatTool","nexusFileVersion":"1.0.1","nexusFileUploadedAt":1785712808,"pakFileName":"UltimateCheatTool.pak","nexusFileId":127165,"metaUuid":"83743a2a-a284-4fd1-9b8e-848a8054f220"}
+{"nexusFileName":"UltimateCheatTool","nexusFileVersion":"1.0.2","nexusFileUploadedAt":1785822173,"pakFileName":"UltimateCheatTool.pak","nexusFileId":127273,"metaUuid":"83743a2a-a284-4fd1-9b8e-848a8054f220"}
 ]},
 "24108":{"nexusModName":"Archmage (Lore-accurate Class for Origin Gale)","nexusUploadedBy":"FortisEstVeritas","nexusModId":24108,"paks":[
 {"nexusFileName":"Archmage","nexusFileVersion":"1.0","nexusFileUploadedAt":1785688148,"pakFileName":"Archmage.pak","nexusFileId":127142,"metaUuid":null}
@@ -67782,7 +67782,8 @@
 {"nexusFileName":"Beach Bodies Restored","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1785731316,"pakFileName":"BeachBodies_3a102489-3233-5dcb-66ba-9829e7ac2897.pak","nexusFileId":127177,"metaUuid":null}
 ]},
 "24245":{"nexusModName":"Celestial Emissary","nexusUploadedBy":"Hachimichimimi","nexusModId":24245,"paks":[
-{"nexusFileName":"CelestialEmissary","nexusFileVersion":"1","nexusFileUploadedAt":1785758242,"pakFileName":"CelestialEmissary.pak","nexusFileId":127212,"metaUuid":null}
+{"nexusFileName":"CelestialEmissary","nexusFileVersion":"1","nexusFileUploadedAt":1785758242,"pakFileName":"CelestialEmissary.pak","nexusFileId":127212,"metaUuid":null},
+{"nexusFileName":"CelestialEmissaryEnglish","nexusFileVersion":"1","nexusFileUploadedAt":1785820334,"pakFileName":"CelestialEmissaryEnglish.pak","nexusFileId":127272,"metaUuid":null}
 ]},
 "24246":{"nexusModName":"Fiend Race Mod","nexusUploadedBy":"PupFenrir20","nexusModId":24246,"paks":[
 {"nexusFileName":"Fiend Race","nexusFileVersion":"1","nexusFileUploadedAt":1785765662,"pakFileName":"Fiend Race.pak","nexusFileId":127216,"metaUuid":null}
@@ -67816,4 +67817,7 @@
 ]},
 "24262":{"nexusModName":"Weapon Ability Short Cooldown","nexusUploadedBy":"Gisla","nexusModId":24262,"paks":[
 {"nexusFileName":"Weapon Ability Short Cooldown","nexusFileVersion":"1","nexusFileUploadedAt":1785816847,"pakFileName":"WASC_2b22c4bd-d259-0453-23d7-dae2783a710e.pak","nexusFileId":127269,"metaUuid":null}
+]},
+"24263":{"nexusModName":"Cantrips and Dialogue Unfocused","nexusUploadedBy":"Gisla","nexusModId":24263,"paks":[
+{"nexusFileName":"Cantrips And Dialogue Unfocused","nexusFileVersion":"1","nexusFileUploadedAt":1785820284,"pakFileName":"GuidanceUnfocused_63611479-697e-d5da-dd48-0fb809400ca0.pak","nexusFileId":127271,"metaUuid":null}
 ]}}
