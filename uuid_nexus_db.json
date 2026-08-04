@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-08-04T16:52:04.395031+00:00","total_mods":17161},
+{"_meta":{"last_run":"2026-08-04T17:52:26.090535+00:00","total_mods":17163},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -65847,7 +65847,7 @@
 {"nexusFileName":"Infinite Combat Encounters and Zombies","nexusFileVersion":"1","nexusFileUploadedAt":1781799882,"pakFileName":"ZombiesBG3Mode_f77df079-70a6-57c1-15ec-6cfddf8b7e51.pak","nexusFileId":123838,"metaUuid":null}
 ]},
 "23446":{"nexusModName":"Wish Spell","nexusUploadedBy":"actualsailorcat","nexusModId":23446,"paks":[
-{"nexusFileName":"Wish","nexusFileVersion":"1.01.00","nexusFileUploadedAt":1784653484,"pakFileName":"Wish.pak","nexusFileId":126151,"metaUuid":"c5786672-3c9d-4bfb-a777-e92fb962fab5"}
+{"nexusFileName":"Wish","nexusFileVersion":"1.01.02","nexusFileUploadedAt":1785863915,"pakFileName":"Wish.pak","nexusFileId":127310,"metaUuid":"c5786672-3c9d-4bfb-a777-e92fb962fab5"}
 ]},
 "23448":{"nexusModName":"Valkrana's Wish Spell for Korean","nexusUploadedBy":"Eolaloe","nexusModId":23448,"paks":[
 {"nexusFileName":"Wish Spell for Korean","nexusFileVersion":"1.01.00","nexusFileUploadedAt":1785747095,"pakFileName":"Wish_kr.pak","nexusFileId":127184,"metaUuid":null}
@@ -67832,4 +67832,11 @@
 ]},
 "24268":{"nexusModName":"rel_full_ancient mega modTR","nexusUploadedBy":"karlog123","nexusModId":24268,"paks":[
 {"nexusFileName":"Rel Full Ancient C6c0d2bd 6198 3gan","nexusFileVersion":"1","nexusFileUploadedAt":1785854853,"pakFileName":"rel_full_ancient_c6c0d2bd-6198-3gan.pak","nexusFileId":127304,"metaUuid":null}
+]},
+"24271":{"nexusModName":"5e Monk Subclasses Combined - PTBR (2026)","nexusUploadedBy":"BarovZx","nexusModId":24271,"paks":[
+{"nexusFileName":"Monk Subclasses 5e Combined PTBR","nexusFileVersion":"08.02.2026","nexusFileUploadedAt":1785864475,"pakFileName":"Monk Subclasses 5e Combined PTBR.pak","nexusFileId":127316,"metaUuid":null}
+]},
+"24274":{"nexusModName":"Spoils Of War","nexusUploadedBy":"slowsped","nexusModId":24274,"paks":[
+{"nexusFileName":"Mod","nexusFileVersion":"1","nexusFileUploadedAt":1785864212,"pakFileName":"SpoilsOfWar.pak","nexusFileId":127311,"metaUuid":null},
+{"nexusFileName":"St8cyWhitelist1.0.0","nexusFileVersion":"1","nexusFileUploadedAt":1785864271,"pakFileName":"St8cyWhitelist.pak","nexusFileId":127313,"metaUuid":null}
 ]}}
