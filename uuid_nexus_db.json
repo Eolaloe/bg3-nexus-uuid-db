@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-08-05T17:52:07.887573+00:00","total_mods":17169},
+{"_meta":{"last_run":"2026-08-05T18:52:15.201902+00:00","total_mods":17169},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -8113,7 +8113,6 @@
 ]},
 "2458":{"nexusModName":"Trade with Withers - Withers Trader - Customizable trader","nexusUploadedBy":"yakuzadeso","nexusModId":2458,"paks":[
 {"nexusFileName":"nuke withers gold","nexusFileVersion":"1.0.0.5","nexusFileUploadedAt":1699182299,"pakFileName":"NukeWithersGold.pak","nexusFileId":26937,"metaUuid":null},
-{"nexusFileName":"TradeWithWithersAddonAIO (Can cause bug)","nexusFileVersion":"1.0.0.7","nexusFileUploadedAt":1716391878,"pakFileName":"TradeWithWithersAddonAIO.pak","nexusFileId":58195,"metaUuid":"198749c1-18c4-4c4f-bc68-199679719edf"},
 {"nexusFileName":"trade with withers","nexusFileVersion":"1.0.0.8","nexusFileUploadedAt":1754320408,"pakFileName":"TradeWithWithers.pak","nexusFileId":99907,"metaUuid":"c7c3ba79-97bd-411e-82f4-1c615e9945a7"},
 {"nexusFileName":"trade with withers reset inventory","nexusFileVersion":"1.0.0.8","nexusFileUploadedAt":1754320484,"pakFileName":"TradeWithWithersResetInventory.pak","nexusFileId":99908,"metaUuid":"fab6a124-7087-4693-89ba-4ebd4dc8fe0b"},
 {"nexusFileName":"TradeWithWithersAddonAIORandom (Can cause bug)","nexusFileVersion":"1.0.0.8","nexusFileUploadedAt":1754320559,"pakFileName":"TradeWithWithersAddonAIORandom.pak","nexusFileId":99909,"metaUuid":"e51ebdd2-15b1-4487-8c35-4e41c2c2e6c1"},
@@ -8133,7 +8132,9 @@
 {"nexusFileName":"TradeWithWithersAddonWeaponsRandom","nexusFileVersion":"1.0.0.8","nexusFileUploadedAt":1754320986,"pakFileName":"TradeWithWithersAddonWeaponsRandom.pak","nexusFileId":99923,"metaUuid":"035b30c6-44f3-4282-b592-6c79f0ec345a"},
 {"nexusFileName":"TradeWithWithersAddonGrenadesNoOtiluke","nexusFileVersion":"1.0.0.8","nexusFileUploadedAt":1775990720,"pakFileName":"TradeWithWithersAddonGrenadesNoOtiluke.pak","nexusFileId":118750,"metaUuid":"378ba981-bd07-4d34-ad36-6eed7c34e7a2"},
 {"nexusFileName":"TradeWithWithersAddonGrenadesNoOtilukeRandom","nexusFileVersion":"1.0.0.8","nexusFileUploadedAt":1785846104,"pakFileName":"TradeWithWithersAddonGrenadesNoOtilukeRandom.pak","nexusFileId":127299,"metaUuid":null},
-{"nexusFileName":"TradeWithWithersAddonAIONoOtilukeRandom","nexusFileVersion":"1.0.0.8","nexusFileUploadedAt":1785853798,"pakFileName":"TradeWithWithersAddonAIONoOtilukeRandom.pak","nexusFileId":127303,"metaUuid":null}
+{"nexusFileName":"TradeWithWithersAddonAIONoOtilukeRandom","nexusFileVersion":"1.0.0.8","nexusFileUploadedAt":1785853798,"pakFileName":"TradeWithWithersAddonAIONoOtilukeRandom.pak","nexusFileId":127303,"metaUuid":null},
+{"nexusFileName":"TradeWithWithersAddonAIO (Can cause bug)","nexusFileVersion":"1.0.0.8","nexusFileUploadedAt":1785955028,"pakFileName":"TradeWithWithersAddonAIO.pak","nexusFileId":127385,"metaUuid":"198749c1-18c4-4c4f-bc68-199679719edf"},
+{"nexusFileName":"TradeWithWithersAddonAIONoOtiluke","nexusFileVersion":"1.0.0.8","nexusFileUploadedAt":1785955344,"pakFileName":"TradeWithWithersAddonAIONoOtiluke.pak","nexusFileId":127387,"metaUuid":null}
 ]},
 "2460":{"nexusModName":"PF2e Spells","nexusUploadedBy":"Gycicada","nexusModId":2460,"paks":[
 {"nexusFileName":"2e Spells","nexusFileVersion":"8.10.0","nexusFileUploadedAt":1703901931,"pakFileName":"2eSpells.pak","nexusFileId":37025,"metaUuid":"cb92db0c-634d-438c-8580-f45555555555"}
@@ -57144,7 +57145,7 @@
 {"nexusFileName":"Battle Maneuvers PHB2024 Update","nexusFileVersion":"1.3","nexusFileUploadedAt":1767786587,"pakFileName":"BattleManeuversPHB2024_861e9235-2afe-8178-3626-761eac089367.pak","nexusFileId":111427,"metaUuid":"861e9235-2afe-8178-3626-761eac089367"}
 ]},
 "20279":{"nexusModName":"Whispering Blood Remastered","nexusUploadedBy":"Alradium","nexusModId":20279,"paks":[
-{"nexusFileName":"Whispering Blood Remastered","nexusFileVersion":"1.1.2","nexusFileUploadedAt":1783549544,"pakFileName":"WhisperingBloodRemaster_121130de-b769-17e6-07be-a34a7071f372.pak","nexusFileId":125251,"metaUuid":"121130de-b769-17e6-07be-a34a7071f372"}
+{"nexusFileName":"Whispering Blood Remastered","nexusFileVersion":"1.2.1","nexusFileUploadedAt":1785953674,"pakFileName":"WhisperingBloodRemaster_121130de-b769-17e6-07be-a34a7071f372.pak","nexusFileId":127382,"metaUuid":"121130de-b769-17e6-07be-a34a7071f372"}
 ]},
 "20280":{"nexusModName":"chizfreak's Battle Maneuvers PHB2024 Update for Korean","nexusUploadedBy":"Eolaloe","nexusModId":20280,"paks":[
 {"nexusFileName":"Battle Maneuvers PHB2024 Update for Korean","nexusFileVersion":"1.3","nexusFileUploadedAt":1773322648,"pakFileName":"BattleManeuversPHB2024_kr.pak","nexusFileId":116605,"metaUuid":"0bbd39cb-db80-45d2-8ff6-b49d131890df"}
@@ -59280,10 +59281,10 @@
 {"nexusFileName":"Bonk Enhanced - Knocked Out Failsafe for Japanese","nexusFileVersion":"2.6.1.1","nexusFileUploadedAt":1769512891,"pakFileName":"Bonk Enhanced_jp.pak","nexusFileId":113358,"metaUuid":null}
 ]},
 "21043":{"nexusModName":"Features from DnD 5E Spelljammer for Korean","nexusUploadedBy":"Eolaloe","nexusModId":21043,"paks":[
-{"nexusFileName":"Features from DnD 5E Spelljammer for Korean","nexusFileVersion":"1.0.12.77","nexusFileUploadedAt":1769515771,"pakFileName":"spjammer_dnd5e_voiced_kr.pak","nexusFileId":113362,"metaUuid":"42da3759-172b-4671-9605-992efa2c5bb2"}
+{"nexusFileName":"Features from DnD 5E Spelljammer for Korean","nexusFileVersion":"1.1.1","nexusFileUploadedAt":1785952405,"pakFileName":"spjammer_dnd5e_voiced_kr.pak","nexusFileId":127380,"metaUuid":"42da3759-172b-4671-9605-992efa2c5bb2"}
 ]},
 "21044":{"nexusModName":"Features from DnD 5E Spelljammer for Japanese","nexusUploadedBy":"Eolaloe","nexusModId":21044,"paks":[
-{"nexusFileName":"Features from DnD 5E Spelljammer for Japanese","nexusFileVersion":"1.0.12.77","nexusFileUploadedAt":1769515779,"pakFileName":"spjammer_dnd5e_voiced_jp.pak","nexusFileId":113363,"metaUuid":null}
+{"nexusFileName":"Features from DnD 5E Spelljammer for Japanese","nexusFileVersion":"1.1.1","nexusFileUploadedAt":1785952441,"pakFileName":"spjammer_dnd5e_voiced_jp.pak","nexusFileId":127381,"metaUuid":null}
 ]},
 "21045":{"nexusModName":"Rise of the Goldmembers (New Content - All in One) for Korean","nexusUploadedBy":"Eolaloe","nexusModId":21045,"paks":[
 {"nexusFileName":"Rise of the Goldmembers for Korean","nexusFileVersion":"1.2.0.44","nexusFileUploadedAt":1776934783,"pakFileName":"BestMod_kr.pak","nexusFileId":119706,"metaUuid":null}
@@ -67686,7 +67687,7 @@
 {"nexusFileName":"ADOS RUS","nexusFileVersion":"1.1","nexusFileUploadedAt":1785583597,"pakFileName":"ADOS_RUS.pak","nexusFileId":127033,"metaUuid":null}
 ]},
 "24191":{"nexusModName":"Requiem for the Absolute - Dynamic Encounters","nexusUploadedBy":"luiznunes","nexusModId":24191,"paks":[
-{"nexusFileName":"Requiem For The Absolute","nexusFileVersion":"2.6.0.21","nexusFileUploadedAt":1785935048,"pakFileName":"Requiem_for_the_Absolute_f1f6fbec-f087-c70f-a28f-4437385f3433.pak","nexusFileId":127364,"metaUuid":"f1f6fbec-f087-c70f-a28f-4437385f3433"}
+{"nexusFileName":"Requiem For The Absolute","nexusFileVersion":"2.5.0.20","nexusFileUploadedAt":1785955130,"pakFileName":"Requiem_for_the_Absolute_f1f6fbec-f087-c70f-a28f-4437385f3433.pak","nexusFileId":127386,"metaUuid":"f1f6fbec-f087-c70f-a28f-4437385f3433"}
 ]},
 "24195":{"nexusModName":"The Dark Fey Labyrinth - A Playable Map (WIP)","nexusUploadedBy":"SultryShea","nexusModId":24195,"paks":[
 {"nexusFileName":"The Dark Fey Labyrinth","nexusFileVersion":"2","nexusFileUploadedAt":1785543599,"pakFileName":"FeyLabyrinth_3d3bfda8-acf0-20ec-83e9-52b6f90146d4.pak","nexusFileId":126990,"metaUuid":null}
@@ -67861,4 +67862,7 @@
 ]},
 "24285":{"nexusModName":"Let's Be Lucky People You and Me Pose Pack","nexusUploadedBy":"Marymeeee","nexusModId":24285,"paks":[
 {"nexusFileName":"LetsBeLuckyPeopleYouandMe","nexusFileVersion":"1","nexusFileUploadedAt":1785944073,"pakFileName":"LetsBeLuckyPeopleYouandMe_7fb37196-6a62-aa33-a74f-e1c76137e8e2.pak","nexusFileId":127370,"metaUuid":null}
+]},
+"24289":{"nexusModName":"Warding Bond For Everyone","nexusUploadedBy":"D3adpanSnark3r","nexusModId":24289,"paks":[
+{"nexusFileName":"Warding Bond For Everyone","nexusFileVersion":"1","nexusFileUploadedAt":1785954777,"pakFileName":"Warding Bond For Everyone.pak","nexusFileId":127384,"metaUuid":null}
 ]}}
