@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-08-05T01:51:55.900399+00:00","total_mods":17165},
+{"_meta":{"last_run":"2026-08-05T02:52:33.142480+00:00","total_mods":17166},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -35999,7 +35999,7 @@
 ]},
 "12727":{"nexusModName":"DnD 5.5e All-in-One BEYOND","nexusUploadedBy":"yoonmoonsik43","nexusModId":12727,"paks":[
 {"nexusFileName":"dnd2024 - V3 Legacy","nexusFileVersion":"3.4.6.4","nexusFileUploadedAt":1771945305,"pakFileName":"DnD2024_897914ef-5c96-053c-44af-0be823f895fe.pak","nexusFileId":115523,"metaUuid":"897914ef-5c96-053c-44af-0be823f895fe"},
-{"nexusFileName":"DnD 5.5e All-in-One BEYOND","nexusFileVersion":"4.11.19.10","nexusFileUploadedAt":1785825007,"pakFileName":"DnD2024_897914ef-5c96-053c-44af-0be823f895fe.pak","nexusFileId":127276,"metaUuid":"897914ef-5c96-053c-44af-0be823f895fe"}
+{"nexusFileName":"DnD 5.5e All-in-One BEYOND","nexusFileVersion":"4.11.20.0","nexusFileUploadedAt":1785894847,"pakFileName":"DnD2024_897914ef-5c96-053c-44af-0be823f895fe.pak","nexusFileId":127347,"metaUuid":"897914ef-5c96-053c-44af-0be823f895fe"}
 ]},
 "12728":{"nexusModName":"Origin-Themed Headwear KR","nexusUploadedBy":"Soorawang","nexusModId":12728,"paks":[
 {"nexusFileName":"Origin-Themed Headwear KR","nexusFileVersion":"1.0","nexusFileUploadedAt":1727930331,"pakFileName":"OriginHeadwear_kr.pak","nexusFileId":73692,"metaUuid":null}
@@ -61847,7 +61847,7 @@
 "21921":{"nexusModName":"Wyll's Camp Shirt Repaired","nexusUploadedBy":"tepkunset","nexusModId":21921,"paks":[
 {"nexusFileName":"Wyll Shirt Repaired","nexusFileVersion":"1","nexusFileUploadedAt":1773766453,"pakFileName":"WyllShirtRepaired.pak","nexusFileId":116910,"metaUuid":"43a6384b-ba06-3969-9424-a2244703f4dd"}
 ]},
-"21922":{"nexusModName":"EZ-Manipulator - Object Move-Rotate-Transform Gizmo","nexusUploadedBy":"Mazzle23","nexusModId":21922,"paks":[
+"21922":{"nexusModName":"Move Rotate and Scale Anything Gizmo","nexusUploadedBy":"Mazzle23","nexusModId":21922,"paks":[
 {"nexusFileName":"EZ-Manipulator GizmoLib","nexusFileVersion":"1.2.1","nexusFileUploadedAt":1783352000,"pakFileName":"GizmoLib.pak","nexusFileId":125089,"metaUuid":"5b127407-1697-4c6b-986f-15fed6415375"}
 ]},
 "21923":{"nexusModName":"Potent Sluts and their Endeavors --WIP--","nexusUploadedBy":"Beeeast","nexusModId":21923,"paks":[
@@ -63350,7 +63350,7 @@
 {"nexusFileName":"Fatebond","nexusFileVersion":"1.4","nexusFileUploadedAt":1784576306,"pakFileName":"Fatebond.pak","nexusFileId":126087,"metaUuid":"6cfead1f-d54c-4dfb-bc94-05e9fc1e2970"}
 ]},
 "22459":{"nexusModName":"DnD 5.5e All-in-One BEYOND Russian Localization","nexusUploadedBy":"XapcT","nexusModId":22459,"paks":[
-{"nexusFileName":"DnD 5.5e AIO Russian v0.4.13.zip","nexusFileVersion":"0.4.13","nexusFileUploadedAt":1785835459,"pakFileName":"DnD 5.5e AIO Russian.pak","nexusFileId":127289,"metaUuid":null}
+{"nexusFileName":"DnD 5.5e AIO Russian v0.4.14.zip","nexusFileVersion":"0.4.14","nexusFileUploadedAt":1785895351,"pakFileName":"DnD 5.5e AIO Russian.pak","nexusFileId":127348,"metaUuid":null}
 ]},
 "22460":{"nexusModName":"Elementally Based Gear","nexusUploadedBy":"Useyourrifle","nexusModId":22460,"paks":[
 {"nexusFileName":"Elemental_Gear.7z","nexusFileVersion":"1","nexusFileUploadedAt":1776346340,"pakFileName":"OP_Bow_56032304-f037-e077-f5e7-045d2e03ef1c.pak","nexusFileId":119147,"metaUuid":"56032304-f037-e077-f5e7-045d2e03ef1c"}
@@ -67846,6 +67846,9 @@
 {"nexusFileName":"ASTRL Tiefling Compendium TRM1","nexusFileVersion":"1","nexusFileUploadedAt":1785885794,"pakFileName":"ASTRLtieflingsTRM1.pak","nexusFileId":127337,"metaUuid":null},
 {"nexusFileName":"ASTRL Elves UniqueTav TRM1","nexusFileVersion":"1","nexusFileUploadedAt":1785885863,"pakFileName":"ASTRLelves_UniqueTav_TRM1.pak","nexusFileId":127338,"metaUuid":null},
 {"nexusFileName":"ASTRL Tieflings UniqueTav TRM1","nexusFileVersion":"1","nexusFileUploadedAt":1785885903,"pakFileName":"ASTRLtieflings_UniqueTav_TRM1Patch.pak","nexusFileId":127339,"metaUuid":null}
+]},
+"24277":{"nexusModName":"Caster's Fury - Cryptid Labs Rage Spellcasting","nexusUploadedBy":"Eclipse26","nexusModId":24277,"paks":[
+{"nexusFileName":"Cryptid Labs - Rage Spellcasting","nexusFileVersion":"1","nexusFileUploadedAt":1785895957,"pakFileName":"CryptidLabsRageSpellcasting_b04e4150-0368-83cc-c072-4e3e624a66c8.pak","nexusFileId":127349,"metaUuid":null}
 ]},
 "24279":{"nexusModName":"True Tides of Chaos (Patch 8)","nexusUploadedBy":"ScaredChaos","nexusModId":24279,"paks":[
 {"nexusFileName":"TrueTidesOfChaos 1.0.0","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1785891100,"pakFileName":"TrueTidesOfChaos.pak","nexusFileId":127344,"metaUuid":null}
