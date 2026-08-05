@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-08-05T15:51:56.396792+00:00","total_mods":17168},
+{"_meta":{"last_run":"2026-08-05T16:52:08.675220+00:00","total_mods":17169},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -34002,10 +34002,11 @@
 {"nexusFileName":"Head Experiment Scar Version","nexusFileVersion":"1.1","nexusFileUploadedAt":1726362366,"pakFileName":"Poesielibres_Head_Experiment_Scar.pak","nexusFileId":71182,"metaUuid":"d921c2a5-bfe1-4eb0-ab03-aa60e3940517"}
 ]},
 "11965":{"nexusModName":"Fantastical Multiverse - Legacy Edition","nexusUploadedBy":"DungeonsAndSouls","nexusModId":11965,"paks":[
-{"nexusFileName":"Fantastical Framework","nexusFileVersion":"1.9","nexusFileUploadedAt":1768554645,"pakFileName":"Fantastical-Framework_9ac9022f-749d-dc78-2677-427f897be2b1.pak","nexusFileId":112300,"metaUuid":"9ac9022f-749d-dc78-2677-427f897be2b1"},
-{"nexusFileName":"Fantastical Compendium","nexusFileVersion":"1.9","nexusFileUploadedAt":1768555011,"pakFileName":"Fantastical_Compendium.pak","nexusFileId":112301,"metaUuid":"128025b9-5168-f4a0-fa19-676f0c244d24"},
-{"nexusFileName":"Fantastical Yuan-ti Pureblood","nexusFileVersion":"1.9","nexusFileUploadedAt":1768555636,"pakFileName":"Fantastical_YuantiPureblood.pak","nexusFileId":112302,"metaUuid":"94710eae-8809-42fe-ab17-5681ceae8714"},
-{"nexusFileName":"Fantastical Orc","nexusFileVersion":"1.9","nexusFileUploadedAt":1768555696,"pakFileName":"Fantastical_Orc.pak","nexusFileId":112303,"metaUuid":"9cbbf22a-2af4-48c7-970a-fb61a6c20b15"}
+{"nexusFileName":"Fantastical Drow","nexusFileVersion":"1.5","nexusFileUploadedAt":1734324663,"pakFileName":"Fantastical Drow.pak","nexusFileId":81965,"metaUuid":null},
+{"nexusFileName":"Patch - Powerful Build Gains Brute Trait","nexusFileVersion":"1.6","nexusFileUploadedAt":1734379290,"pakFileName":"Fantastical Powerful Brutes.pak","nexusFileId":82002,"metaUuid":null},
+{"nexusFileName":"PATCH - Invisible Bugbear Male Body","nexusFileVersion":"1.7","nexusFileUploadedAt":1734379488,"pakFileName":"Bugbear - Invisible Body.pak","nexusFileId":82003,"metaUuid":null},
+{"nexusFileName":"Fantastical Dhampir MS Head -Patch-","nexusFileVersion":"1.7","nexusFileUploadedAt":1739704023,"pakFileName":"FantasticalDhampir_MS_Head.pak","nexusFileId":85939,"metaUuid":null},
+{"nexusFileName":"Fantastical Multiverse - All-In-One","nexusFileVersion":"1.9.5.0","nexusFileUploadedAt":1785947634,"pakFileName":"Fantastical-Multiverse.pak","nexusFileId":127377,"metaUuid":null}
 ]},
 "11966":{"nexusModName":"Eldritch Knight Spellcasting Modifier UI BUGFIX","nexusUploadedBy":"chizfreak","nexusModId":11966,"paks":[
 {"nexusFileName":"EK Spellcasting Mod UI BUGFIX","nexusFileVersion":"1.0","nexusFileUploadedAt":1725483217,"pakFileName":"Eldritch Knight Spellcasting Modifier UI Fix.pak","nexusFileId":68733,"metaUuid":"8e33d884-6428-47cb-af36-43acbe39ca03"}
@@ -60190,8 +60191,8 @@
 "21374":{"nexusModName":"Ferrety's Spells - Arcane Puppetry for Korean","nexusUploadedBy":"Eolaloe","nexusModId":21374,"paks":[
 {"nexusFileName":"Ferrety's Spells - Arcane Puppetry for Korean","nexusFileVersion":"1.0.8.4","nexusFileUploadedAt":1772329664,"pakFileName":"Ferrety's Spells - Arcane Puppetry_kr.pak","nexusFileId":115817,"metaUuid":null}
 ]},
-"21375":{"nexusModName":"Prismortalis for Korean","nexusUploadedBy":"Eolaloe","nexusModId":21375,"paks":[
-{"nexusFileName":"Prismortalis for Korean","nexusFileVersion":"5.5.4","nexusFileUploadedAt":1785680985,"pakFileName":"Prismortalis_kr.pak","nexusFileId":127126,"metaUuid":"7fedb0f8-e2ba-412f-b3e6-ba5c7c9ea3a2"}
+"21375":{"nexusModName":"Prismortalis - A Dark-Fantasy Spellblade for Korean","nexusUploadedBy":"Eolaloe","nexusModId":21375,"paks":[
+{"nexusFileName":"Prismortalis for Korean","nexusFileVersion":"5.5.4.1","nexusFileUploadedAt":1785945411,"pakFileName":"Prismortalis_kr.pak","nexusFileId":127374,"metaUuid":"7fedb0f8-e2ba-412f-b3e6-ba5c7c9ea3a2"}
 ]},
 "21376":{"nexusModName":"TLH_MOD's Warrior Class Mod Inspired by Guild Wars for Korean","nexusUploadedBy":"Eolaloe","nexusModId":21376,"paks":[
 {"nexusFileName":"Warrior Class Mod Inspired by Guild Wars for Korea","nexusFileVersion":"2.1.10.119","nexusFileUploadedAt":1778279444,"pakFileName":"TLH_WAR_Warrior_Main_kr.pak","nexusFileId":120778,"metaUuid":null}
@@ -64785,7 +64786,7 @@
 ]},
 "23058":{"nexusModName":"Akm Tiefling Body","nexusUploadedBy":"Akumu22","nexusModId":23058,"paks":[
 {"nexusFileName":"Akm Tiefling Body","nexusFileVersion":"2.0.1.0","nexusFileUploadedAt":1785246210,"pakFileName":"Akm Tiefling Body.pak","nexusFileId":126663,"metaUuid":"77b21fea-e837-470c-8e79-a79e84e6221a"},
-{"nexusFileName":"Akm Tiefling Body - BT3 Beta","nexusFileVersion":"2.0.2.9","nexusFileUploadedAt":1785834943,"pakFileName":"Akm Tiefling Body - BT3 - Beta.pak","nexusFileId":127288,"metaUuid":"4420c433-718f-4749-8e5d-1da521a84b19"}
+{"nexusFileName":"Akm Tiefling Body - BT3 Beta","nexusFileVersion":"2.0.3.0","nexusFileUploadedAt":1785946539,"pakFileName":"Akm Tiefling Body - BT3 - Beta.pak","nexusFileId":127376,"metaUuid":"4420c433-718f-4749-8e5d-1da521a84b19"}
 ]},
 "23059":{"nexusModName":"Flora Dress and Long Nature Hair","nexusUploadedBy":"Lyniara","nexusModId":23059,"paks":[
 {"nexusFileName":"Flora Dress","nexusFileVersion":"1","nexusFileUploadedAt":1779744844,"pakFileName":"LynFloraDress.pak","nexusFileId":122131,"metaUuid":"a7c4ef09-4ca7-428a-950d-85c4c74573b9"},
@@ -67855,6 +67856,9 @@
 ]},
 "24282":{"nexusModName":"Inventory Expanded-CHS","nexusUploadedBy":"AgleafSdan","nexusModId":24282,"paks":[
 {"nexusFileName":"Inventory Expanded-CHS","nexusFileVersion":"1","nexusFileUploadedAt":1785936867,"pakFileName":"InventoryExpanded-CHS.pak","nexusFileId":127367,"metaUuid":null}
+]},
+"24283":{"nexusModName":"Power Word Bald","nexusUploadedBy":"wtfbengt","nexusModId":24283,"paks":[
+{"nexusFileName":"PowerWord Bald","nexusFileVersion":"1","nexusFileUploadedAt":1785945388,"pakFileName":"PowerWordBald.pak","nexusFileId":127373,"metaUuid":null}
 ]},
 "24284":{"nexusModName":"Altair robe ES","nexusUploadedBy":"altair720230","nexusModId":24284,"paks":[
 {"nexusFileName":"Altair ES","nexusFileVersion":"1","nexusFileUploadedAt":1785942518,"pakFileName":"Altair ES.pak","nexusFileId":127369,"metaUuid":null}
