@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-08-05T21:52:03.445586+00:00","total_mods":17167},
+{"_meta":{"last_run":"2026-08-05T22:51:59.340447+00:00","total_mods":17168},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -15060,8 +15060,8 @@
 "4789":{"nexusModName":"Larger and Smaller Penis With Flopping Physics","nexusUploadedBy":"VinTheMan","nexusModId":4789,"paks":[
 {"nexusFileName":"OverrideCompanionsPatch_UniqueTav","nexusFileVersion":"1.0.0.1","nexusFileUploadedAt":1763382862,"pakFileName":"OverrideCompanionsPatch_UniqueTav.pak","nexusFileId":107617,"metaUuid":null},
 {"nexusFileName":"OverrideCompanionsPatch","nexusFileVersion":"1.0.0.1","nexusFileUploadedAt":1763383774,"pakFileName":"OverrideCompanionsPatch_cbf3ce89-61c9-699c-ef3b-826940c1b479.pak","nexusFileId":107620,"metaUuid":null},
-{"nexusFileName":"Larger Penis With Flopping Physics","nexusFileVersion":"2.2.0.23","nexusFileUploadedAt":1785749625,"pakFileName":"LargerPenisWithFloppingPhysics_5bea2ea2-d789-43f8-bdc7-226f61206574.pak","nexusFileId":127190,"metaUuid":"5bea2ea2-d789-43f8-bdc7-226f61206574"},
-{"nexusFileName":"LPFP - Unique Tav Compatible","nexusFileVersion":"2.2.0.23","nexusFileUploadedAt":1785751754,"pakFileName":"LargerPenisWithFloppingPhysics_UniqueTav.pak","nexusFileId":127199,"metaUuid":"5bea2ea2-d789-43f8-bdc7-226f61206574"}
+{"nexusFileName":"LPFP - Unique Tav Compatible","nexusFileVersion":"2.2.0.24","nexusFileUploadedAt":1785968668,"pakFileName":"LargerPenisWithFloppingPhysics_UniqueTav.pak","nexusFileId":127398,"metaUuid":"5bea2ea2-d789-43f8-bdc7-226f61206574"},
+{"nexusFileName":"Larger Penis With Flopping Physics","nexusFileVersion":"2.2.0.24","nexusFileUploadedAt":1785968767,"pakFileName":"LargerPenisWithFloppingPhysics_5bea2ea2-d789-43f8-bdc7-226f61206574.pak","nexusFileId":127400,"metaUuid":"5bea2ea2-d789-43f8-bdc7-226f61206574"}
 ]},
 "4790":{"nexusModName":"Spells Enhanced - Flame Blade","nexusUploadedBy":"MaskedRPGFan","nexusModId":4790,"paks":[
 {"nexusFileName":"Spells Enhanced - Flame Blade - A1","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1701571699,"pakFileName":"Spells Enhanced - Flame Blade.pak","nexusFileId":32149,"metaUuid":null},
@@ -26578,7 +26578,7 @@
 {"nexusFileName":"Addon - Randomized Loot","nexusFileVersion":"2.0.0","nexusFileUploadedAt":1777412085,"pakFileName":"HomeBrew - Comprehensive Reworks (Addon - Randomized Loot).pak","nexusFileId":120106,"metaUuid":"74a00bb6-b29e-497d-8410-2307ceb876fe"},
 {"nexusFileName":"Misc - Modded Subclasses","nexusFileVersion":"8.3.1","nexusFileUploadedAt":1777412098,"pakFileName":"HomeBrew - Comprehensive Reworks (Misc - Modded Subclasses).pak","nexusFileId":120107,"metaUuid":null},
 {"nexusFileName":"Easier Difficulty - Mythic Difficulty Reduced","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1783594414,"pakFileName":"Home Brew - Comprehensive Reworks (Easier Difficulty - Mythic Difficulty Reduced).pak","nexusFileId":125264,"metaUuid":"135c0255-9690-4377-957d-2b40187f74a2"},
-{"nexusFileName":"HomeBrew   Comprehensive Reworks","nexusFileVersion":"9.1.0","nexusFileUploadedAt":1785928020,"pakFileName":"HomeBrew - Comprehensive Reworks.pak","nexusFileId":127361,"metaUuid":"486d1526-3505-4b09-9790-0f6a60f5ac0f"}
+{"nexusFileName":"HomeBrew   Comprehensive Reworks","nexusFileVersion":"9.1.1","nexusFileUploadedAt":1785969843,"pakFileName":"HomeBrew - Comprehensive Reworks.pak","nexusFileId":127401,"metaUuid":"486d1526-3505-4b09-9790-0f6a60f5ac0f"}
 ]},
 "9053":{"nexusModName":"Planetouched - Homebrew Race","nexusUploadedBy":"0Lyra","nexusModId":9053,"paks":[
 {"nexusFileName":"Planetouched - Main","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1715369676,"pakFileName":"Planetouched_Race.pak","nexusFileId":56628,"metaUuid":"fc59491b-4bc3-4822-8597-7ed1b84064c5"},
@@ -67854,6 +67854,9 @@
 ]},
 "24285":{"nexusModName":"Let's Be Lucky People You and Me Pose Pack","nexusUploadedBy":"Marymeeee","nexusModId":24285,"paks":[
 {"nexusFileName":"LetsBeLuckyPeopleYouandMe","nexusFileVersion":"1","nexusFileUploadedAt":1785944073,"pakFileName":"LetsBeLuckyPeopleYouandMe_7fb37196-6a62-aa33-a74f-e1c76137e8e2.pak","nexusFileId":127370,"metaUuid":null}
+]},
+"24287":{"nexusModName":"Arcana Class","nexusUploadedBy":"TioLumox","nexusModId":24287,"paks":[
+{"nexusFileName":"Arcana Class Mod","nexusFileVersion":"2","nexusFileUploadedAt":1785954398,"pakFileName":"AspectClass_9d734fbd-cb67-95c0-e2c9-46f05fe2f8a7.pak","nexusFileId":127383,"metaUuid":null}
 ]},
 "24289":{"nexusModName":"Warding Bond For Everyone","nexusUploadedBy":"D3adpanSnark3r","nexusModId":24289,"paks":[
 {"nexusFileName":"Warding Bond For Everyone","nexusFileVersion":"1","nexusFileUploadedAt":1785954777,"pakFileName":"Warding Bond For Everyone.pak","nexusFileId":127384,"metaUuid":null}
