@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-08-06T03:51:50.075409+00:00","total_mods":17171},
+{"_meta":{"last_run":"2026-08-06T04:52:01.342137+00:00","total_mods":17172},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -26931,7 +26931,7 @@
 ]},
 "9188":{"nexusModName":"Expansion Level 13-20 (Configurable) CHS and CHT","nexusUploadedBy":"Fuyou1066","nexusModId":9188,"paks":[
 {"nexusFileName":"Bladesinger CHS","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1734101478,"pakFileName":"Bladesinger_CHS_6f82ef08-38da-7fed-c7db-46a68a2c61ca.pak","nexusFileId":81679,"metaUuid":null},
-{"nexusFileName":"Expansion CHS and CHT","nexusFileVersion":"1.7.3.13","nexusFileUploadedAt":1784021568,"pakFileName":"Expansion_CHS_eae30022-5231-9aeb-473d-d6bde981ac0b.pak","nexusFileId":125613,"metaUuid":"eae30022-5231-9aeb-473d-d6bde981ac0b"}
+{"nexusFileName":"Expansion CHS and CHT","nexusFileVersion":"1.7.3.14","nexusFileUploadedAt":1785989850,"pakFileName":"Expansion_CHS_eae30022-5231-9aeb-473d-d6bde981ac0b.pak","nexusFileId":127410,"metaUuid":"eae30022-5231-9aeb-473d-d6bde981ac0b"}
 ]},
 "9190":{"nexusModName":"A Bag of Ones Own ITA","nexusUploadedBy":"Rahl81","nexusModId":9190,"paks":[
 {"nexusFileName":"A Bag of One's Own - patch 7 ITA","nexusFileVersion":"2.2","nexusFileUploadedAt":1726825966,"pakFileName":"gibiABagOfOnesOwn - ITA.pak","nexusFileId":71892,"metaUuid":null}
@@ -49030,7 +49030,7 @@
 "17598":{"nexusModName":"Use 5e Spells with Mystra's Spells","nexusUploadedBy":"Fuyou1066","nexusModId":17598,"paks":[
 {"nexusFileName":"Use ATT Spells With BG2 Spells","nexusFileVersion":"1.0.0.2","nexusFileUploadedAt":1754891838,"pakFileName":"UseATTSpellsWithBG2Spells_40ac8467-6cf5-459d-10b3-c122c623dac2.pak","nexusFileId":100346,"metaUuid":null},
 {"nexusFileName":"Compatibility Patch for Exandria and Mystra","nexusFileVersion":"1.0.0.2","nexusFileUploadedAt":1763901227,"pakFileName":"CompatibilityPatchForExandriaAndMystra_48b534d2-a965-995b-fc68-cab87d4c55c2.pak","nexusFileId":107974,"metaUuid":"48b534d2-a965-995b-fc68-cab87d4c55c2"},
-{"nexusFileName":"Use 5e Spells with Mystra's Spells","nexusFileVersion":"1.1.2.5","nexusFileUploadedAt":1782063619,"pakFileName":"Use5eSpellsWithMystrasSpells_5d1585fa-973a-5721-8bce-4bfbbc84072a.pak","nexusFileId":124012,"metaUuid":"5d1585fa-973a-5721-8bce-4bfbbc84072a"}
+{"nexusFileName":"Use 5e Spells with Mystra's Spells","nexusFileVersion":"1.1.2.7","nexusFileUploadedAt":1785989602,"pakFileName":"Use5eSpellsWithMystrasSpells_5d1585fa-973a-5721-8bce-4bfbbc84072a.pak","nexusFileId":127409,"metaUuid":"5d1585fa-973a-5721-8bce-4bfbbc84072a"}
 ]},
 "17599":{"nexusModName":"Treehome - Persistent Player Housing","nexusUploadedBy":"ForKiramay","nexusModId":17599,"paks":[
 {"nexusFileName":"Treehome","nexusFileVersion":"1.0.0.10","nexusFileUploadedAt":1753227559,"pakFileName":"Treehome_32f69441-ea04-b3af-ace3-64fbf0bfc5c2.pak","nexusFileId":98782,"metaUuid":"32f69441-ea04-b3af-ace3-64fbf0bfc5c2"},
@@ -67869,4 +67869,7 @@
 ]},
 "24296":{"nexusModName":"Construct Race","nexusUploadedBy":"PupFenrir20","nexusModId":24296,"paks":[
 {"nexusFileName":"Construct Race","nexusFileVersion":"1","nexusFileUploadedAt":1785988090,"pakFileName":"Construct Race.pak","nexusFileId":127408,"metaUuid":null}
+]},
+"24297":{"nexusModName":"Rebalance Gear Spanish","nexusUploadedBy":"Jorden27","nexusModId":24297,"paks":[
+{"nexusFileName":"Rebalance Gear Spanish","nexusFileVersion":"1","nexusFileUploadedAt":1785991431,"pakFileName":"Rebalance Gear Spanish.pak","nexusFileId":127411,"metaUuid":null}
 ]}}
