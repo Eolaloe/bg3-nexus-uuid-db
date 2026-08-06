@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-08-06T21:54:44.969626+00:00","total_mods":17183},
+{"_meta":{"last_run":"2026-08-06T22:52:00.730600+00:00","total_mods":17183},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -60003,7 +60003,8 @@
 {"nexusFileName":"scionrogue","nexusFileVersion":"1.0.0.10","nexusFileUploadedAt":1770269758,"pakFileName":"ScionRogue_05326553-fc29-78d0-2e26-96d33b58ee5f.pak","nexusFileId":114159,"metaUuid":"05326553-fc29-78d0-2e26-96d33b58ee5f"}
 ]},
 "21304":{"nexusModName":"Bloodtrail - Path of Undeath Chapter 2 - Vampire","nexusUploadedBy":"Siaell","nexusModId":21304,"paks":[
-{"nexusFileName":"Path Of Undeath - Bloodtrail","nexusFileVersion":"2.0","nexusFileUploadedAt":1786043671,"pakFileName":"Path of Undeath - Bloodtrail.pak","nexusFileId":127453,"metaUuid":"57b41349-6574-4015-87dc-aea3fd1e4618"}
+{"nexusFileName":"Path Of Undeath - Bloodtrail","nexusFileVersion":"2.0","nexusFileUploadedAt":1786043671,"pakFileName":"Path of Undeath - Bloodtrail.pak","nexusFileId":127453,"metaUuid":"57b41349-6574-4015-87dc-aea3fd1e4618"},
+{"nexusFileName":"Genderless Titles","nexusFileVersion":"1","nexusFileUploadedAt":1786056629,"pakFileName":"Path of Undeath - Bloodtrail - Genderless Titles.pak","nexusFileId":127469,"metaUuid":null}
 ]},
 "21308":{"nexusModName":"Goon's Companion Protection for Korean","nexusUploadedBy":"Eolaloe","nexusModId":21308,"paks":[
 {"nexusFileName":"Goon's Companion Protection for Korean","nexusFileVersion":"2.1.0.0","nexusFileUploadedAt":1781021231,"pakFileName":"Goons Companion Protection_kr.pak","nexusFileId":123241,"metaUuid":"2e4505a2-c2ab-427b-8cbc-4ceb01cd5720"}
@@ -65321,7 +65322,11 @@
 {"nexusFileName":"Hells Hath No Fury","nexusFileVersion":"2","nexusFileUploadedAt":1781339818,"pakFileName":"HellsHathNoFury_1ac9c5ed-c459-15dd-fa5a-fe83443d0882.pak","nexusFileId":123462,"metaUuid":"1ac9c5ed-c459-15dd-fa5a-fe83443d0882"}
 ]},
 "23206":{"nexusModName":"Faithfully Fixed Slayer Form","nexusUploadedBy":"Sw1shyFishy","nexusModId":23206,"paks":[
-{"nexusFileName":"SwishyFishy Slayer V2","nexusFileVersion":"1.0.2.0","nexusFileUploadedAt":1783779345,"pakFileName":"SwishyFishy_Slayer_v2.pak","nexusFileId":125426,"metaUuid":"dc622919-7e0b-42c6-ad2d-907ec410947d"}
+{"nexusFileName":"SwishyFishy Slayer V2","nexusFileVersion":"1.0.2.0","nexusFileUploadedAt":1783779345,"pakFileName":"SwishyFishy_Slayer_v2.pak","nexusFileId":125426,"metaUuid":"dc622919-7e0b-42c6-ad2d-907ec410947d"},
+{"nexusFileName":"TavernBrawler - Fully Enabled","nexusFileVersion":"1","nexusFileUploadedAt":1786055649,"pakFileName":"TavernBrawlerEnabled.pak","nexusFileId":127465,"metaUuid":null},
+{"nexusFileName":"TavernBrawler - Fully Disabled","nexusFileVersion":"1","nexusFileUploadedAt":1786055669,"pakFileName":"TavernBrawlerDisabled.pak","nexusFileId":127466,"metaUuid":null},
+{"nexusFileName":"Cooldown - Once Per Combat","nexusFileVersion":"1","nexusFileUploadedAt":1786055694,"pakFileName":"Combat Cooldown.pak","nexusFileId":127467,"metaUuid":null},
+{"nexusFileName":"Cooldown - Once Per Short Rest","nexusFileVersion":"1","nexusFileUploadedAt":1786055715,"pakFileName":"ShortRestCooldown.pak","nexusFileId":127468,"metaUuid":null}
 ]},
 "23207":{"nexusModName":"CombatBodysuit_TheFirstDescendant_Ines","nexusUploadedBy":"EvilRecluse","nexusModId":23207,"paks":[
 {"nexusFileName":"CombatBodysuit TheFirstDescendant Ines","nexusFileVersion":"1","nexusFileUploadedAt":1780587999,"pakFileName":"CombatBodysuit_TheFirstDescendant_Ines.pak","nexusFileId":122793,"metaUuid":"99c9a42f-0730-4a31-924f-32ea6f488510"}
