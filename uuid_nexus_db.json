@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-08-06T23:51:59.003808+00:00","total_mods":17183},
+{"_meta":{"last_run":"2026-08-07T00:51:58.764690+00:00","total_mods":17183},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -44683,7 +44683,7 @@
 {"nexusFileName":"Way of the Sohei Monk Subclass - PTBR","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1745529817,"pakFileName":"Sohei_PTBR.pak","nexusFileId":90506,"metaUuid":null}
 ]},
 "16058":{"nexusModName":"AnimationUnlocker","nexusUploadedBy":"xiphiasrex","nexusModId":16058,"paks":[
-{"nexusFileName":"AnimationUnlocker","nexusFileVersion":"1.0.5.4","nexusFileUploadedAt":1766269939,"pakFileName":"AnimationUnlocker_7131033f-821a-3993-dad4-5bc235cbeb3b.pak","nexusFileId":109981,"metaUuid":"7131033f-821a-3993-dad4-5bc235cbeb3b"}
+{"nexusFileName":"AnimationUnlocker","nexusFileVersion":"1.0.5.5","nexusFileUploadedAt":1786061373,"pakFileName":"AnimationUnlocker_7131033f-821a-3993-dad4-5bc235cbeb3b.pak","nexusFileId":127472,"metaUuid":"7131033f-821a-3993-dad4-5bc235cbeb3b"}
 ]},
 "16059":{"nexusModName":"Bag Of Holding Revamped","nexusUploadedBy":"vj88","nexusModId":16059,"paks":[
 {"nexusFileName":"Bag Of Holding Revamped","nexusFileVersion":"1.0","nexusFileUploadedAt":1745532872,"pakFileName":"bagofholding_ITA.pak","nexusFileId":90510,"metaUuid":null}
@@ -60004,7 +60004,7 @@
 ]},
 "21304":{"nexusModName":"Bloodtrail - Path of Undeath Chapter 2 - Vampire","nexusUploadedBy":"Siaell","nexusModId":21304,"paks":[
 {"nexusFileName":"Path Of Undeath - Bloodtrail","nexusFileVersion":"2.0","nexusFileUploadedAt":1786043671,"pakFileName":"Path of Undeath - Bloodtrail.pak","nexusFileId":127453,"metaUuid":"57b41349-6574-4015-87dc-aea3fd1e4618"},
-{"nexusFileName":"Genderless Titles","nexusFileVersion":"1","nexusFileUploadedAt":1786056629,"pakFileName":"Path of Undeath - Bloodtrail - Genderless Titles.pak","nexusFileId":127469,"metaUuid":null}
+{"nexusFileName":"Genderless Titles","nexusFileVersion":"2.1","nexusFileUploadedAt":1786062557,"pakFileName":"Path of Undeath - Bloodtrail.pak","nexusFileId":127474,"metaUuid":"57b41349-6574-4015-87dc-aea3fd1e4618"}
 ]},
 "21308":{"nexusModName":"Goon's Companion Protection for Korean","nexusUploadedBy":"Eolaloe","nexusModId":21308,"paks":[
 {"nexusFileName":"Goon's Companion Protection for Korean","nexusFileVersion":"2.1.0.0","nexusFileUploadedAt":1781021231,"pakFileName":"Goons Companion Protection_kr.pak","nexusFileId":123241,"metaUuid":"2e4505a2-c2ab-427b-8cbc-4ceb01cd5720"}
@@ -67845,7 +67845,8 @@
 {"nexusFileName":"ASTRL Elven Anthology TRM1","nexusFileVersion":"1","nexusFileUploadedAt":1785885747,"pakFileName":"ASTRLelvenanthologyTRM1.pak","nexusFileId":127336,"metaUuid":null},
 {"nexusFileName":"ASTRL Tiefling Compendium TRM1","nexusFileVersion":"1","nexusFileUploadedAt":1785885794,"pakFileName":"ASTRLtieflingsTRM1.pak","nexusFileId":127337,"metaUuid":null},
 {"nexusFileName":"ASTRL Elves UniqueTav TRM1","nexusFileVersion":"1","nexusFileUploadedAt":1785885863,"pakFileName":"ASTRLelves_UniqueTav_TRM1.pak","nexusFileId":127338,"metaUuid":null},
-{"nexusFileName":"ASTRL Tieflings UniqueTav TRM1","nexusFileVersion":"1","nexusFileUploadedAt":1785885903,"pakFileName":"ASTRLtieflings_UniqueTav_TRM1Patch.pak","nexusFileId":127339,"metaUuid":null}
+{"nexusFileName":"ASTRL Tieflings UniqueTav TRM1","nexusFileVersion":"1","nexusFileUploadedAt":1785885903,"pakFileName":"ASTRLtieflings_UniqueTav_TRM1Patch.pak","nexusFileId":127339,"metaUuid":null},
+{"nexusFileName":"Changelings TRM1","nexusFileVersion":"1","nexusFileUploadedAt":1786062280,"pakFileName":"CSSChangelingTRM1.pak","nexusFileId":127473,"metaUuid":null}
 ]},
 "24277":{"nexusModName":"Caster's Fury - Cryptid Labs Rage Spellcasting","nexusUploadedBy":"Eclipse26","nexusModId":24277,"paks":[
 {"nexusFileName":"Cryptid Labs - Rage Spellcasting","nexusFileVersion":"1","nexusFileUploadedAt":1785895957,"pakFileName":"CryptidLabsRageSpellcasting_b04e4150-0368-83cc-c072-4e3e624a66c8.pak","nexusFileId":127349,"metaUuid":"b04e4150-0368-83cc-c072-4e3e624a66c8"}
