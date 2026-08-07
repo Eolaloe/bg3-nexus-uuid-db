@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-08-07T12:52:05.692965+00:00","total_mods":17187},
+{"_meta":{"last_run":"2026-08-07T13:52:08.116806+00:00","total_mods":17187},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -65997,7 +65997,7 @@
 {"nexusFileName":"Additional Backgrounds Russian Localization","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1782082263,"pakFileName":"AdditionalBackgroundsRU.pak","nexusFileId":124032,"metaUuid":null}
 ]},
 "23501":{"nexusModName":"Bloodtrail - Path of Undeath CHS","nexusUploadedBy":"BaiYanYueQWQ","nexusModId":23501,"paks":[
-{"nexusFileName":"Path Of Undeath   Bloodtrail CHS","nexusFileVersion":"1.6.2.0","nexusFileUploadedAt":1783234469,"pakFileName":"Path of Undeath - Bloodtrail CHS.pak","nexusFileId":124923,"metaUuid":"b55e2d23-f52a-4b9e-9060-f5e1ad9cf8e7"}
+{"nexusFileName":"Path Of Undeath   Bloodtrail CHS","nexusFileVersion":"2.0","nexusFileUploadedAt":1786107800,"pakFileName":"Path of Undeath - Bloodtrail CHS.pak","nexusFileId":127497,"metaUuid":"b55e2d23-f52a-4b9e-9060-f5e1ad9cf8e7"}
 ]},
 "23505":{"nexusModName":"Decoy Saboteur - A Tactical Decoy Trap Rogue Subclass","nexusUploadedBy":"dddzmpzmp","nexusModId":23505,"paks":[
 {"nexusFileName":"DecoySaboteur","nexusFileVersion":"1.0.4.0","nexusFileUploadedAt":1782922349,"pakFileName":"DecoySaboteurRogue_4c18113d-dffa-4671-b705-8a51499e155b.pak","nexusFileId":124656,"metaUuid":"4c18113d-dffa-4671-b705-8a51499e155b"}
@@ -66937,11 +66937,14 @@
 ]},
 "23892":{"nexusModName":"Hot Thing - Karlach edit","nexusUploadedBy":"SweetGenerousThing","nexusModId":23892,"paks":[
 {"nexusFileName":"SGT_Hot Thing - Portrait","nexusFileVersion":"1","nexusFileUploadedAt":1784725330,"pakFileName":"Hot Thing - Karlach Portrait.pak","nexusFileId":126210,"metaUuid":"5f17f40d-02ad-43e7-a0b2-e10472984866"},
-{"nexusFileName":"SGT_Hot Thing_Karlach edit","nexusFileVersion":"1.1","nexusFileUploadedAt":1785262879,"pakFileName":"SGT_KarlachEdit_ad691c90-093a-33fe-81d4-3d33cb3b06e2.pak","nexusFileId":126688,"metaUuid":"ad691c90-093a-33fe-81d4-3d33cb3b06e2"},
+{"nexusFileName":"SGT_Hot Thing_Karlach edit - MAIN","nexusFileVersion":"1.1","nexusFileUploadedAt":1785262879,"pakFileName":"SGT_KarlachEdit_ad691c90-093a-33fe-81d4-3d33cb3b06e2.pak","nexusFileId":126688,"metaUuid":"ad691c90-093a-33fe-81d4-3d33cb3b06e2"},
 {"nexusFileName":"SGT_KarlachEdit_HEAD ONLY_PAK","nexusFileVersion":"1.1","nexusFileUploadedAt":1785263000,"pakFileName":"SGT_KarlachEdit_ad691c90-093a-33fe-81d4-3d33cb3b06e2.pak","nexusFileId":126690,"metaUuid":"ad691c90-093a-33fe-81d4-3d33cb3b06e2"},
 {"nexusFileName":"SGT_KarlachEdit_HAIR ONLY_PAK","nexusFileVersion":"1.1","nexusFileUploadedAt":1785263313,"pakFileName":"SGT_KarlachEdit_ad691c90-093a-33fe-81d4-3d33cb3b06e2.pak","nexusFileId":126692,"metaUuid":"ad691c90-093a-33fe-81d4-3d33cb3b06e2"},
 {"nexusFileName":"SGT_HotThing_Hair_CC","nexusFileVersion":"1","nexusFileUploadedAt":1785273961,"pakFileName":"SGT_HotThing_Hair_3b09c297-07b1-997a-bbc5-92eaa6628bb7.pak","nexusFileId":126699,"metaUuid":"3b09c297-07b1-997a-bbc5-92eaa6628bb7"},
-{"nexusFileName":"SGT_HotThing_Head_CC","nexusFileVersion":"1","nexusFileUploadedAt":1785521522,"pakFileName":"SGT_HotThing_Head_0c809a03-cec9-3de0-bbd3-dcc5ec1af5a2.pak","nexusFileId":126936,"metaUuid":"0c809a03-cec9-3de0-bbd3-dcc5ec1af5a2"}
+{"nexusFileName":"SGT_HotThing_Head_CC","nexusFileVersion":"1","nexusFileUploadedAt":1785521522,"pakFileName":"SGT_HotThing_Head_0c809a03-cec9-3de0-bbd3-dcc5ec1af5a2.pak","nexusFileId":126936,"metaUuid":"0c809a03-cec9-3de0-bbd3-dcc5ec1af5a2"},
+{"nexusFileName":"SGT_KarlachEdit_No Scars (face and body)","nexusFileVersion":"1","nexusFileUploadedAt":1786109959,"pakFileName":"SGT_KarlachEdit_ad691c90-093a-33fe-81d4-3d33cb3b06e2.pak","nexusFileId":127498,"metaUuid":"ad691c90-093a-33fe-81d4-3d33cb3b06e2"},
+{"nexusFileName":"SGT_KarlachEdit_No Scars - Black Hair","nexusFileVersion":"1","nexusFileUploadedAt":1786109986,"pakFileName":"SGT_KarlachEdit_ad691c90-093a-33fe-81d4-3d33cb3b06e2.pak","nexusFileId":127499,"metaUuid":"ad691c90-093a-33fe-81d4-3d33cb3b06e2"},
+{"nexusFileName":"SGT_KarlachEdit_No Scars - Vanilla Hair","nexusFileVersion":"1","nexusFileUploadedAt":1786110021,"pakFileName":"SGT_KarlachEdit_ad691c90-093a-33fe-81d4-3d33cb3b06e2.pak","nexusFileId":127500,"metaUuid":"ad691c90-093a-33fe-81d4-3d33cb3b06e2"}
 ]},
 "23893":{"nexusModName":"Noir Poses - Solo Edition","nexusUploadedBy":"MunchyInTechnicolor","nexusModId":23893,"paks":[
 {"nexusFileName":"NoirPoses Solo V1","nexusFileVersion":"1","nexusFileUploadedAt":1784160634,"pakFileName":"NoirPoses_Solo_V1.pak","nexusFileId":125751,"metaUuid":null}
