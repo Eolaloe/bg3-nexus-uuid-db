@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-08-07T01:52:17.267532+00:00","total_mods":17183},
+{"_meta":{"last_run":"2026-08-07T02:51:48.767241+00:00","total_mods":17184},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -67025,8 +67025,8 @@
 {"nexusFileName":"Eladrin High Elf Preset - pak version","nexusFileVersion":"1.0","nexusFileUploadedAt":1784281326,"pakFileName":"CPF_EladrinHighElf_6a4c1787-3a14-4ea6-889b-a1f4f80.pak","nexusFileId":125822,"metaUuid":"6a4c1787-3a14-4ea6-889b-a1f4f80a3b13"}
 ]},
 "23919":{"nexusModName":"Flanking Rules","nexusUploadedBy":"chizfreak","nexusModId":23919,"paks":[
-{"nexusFileName":"Flanking Rules - Pathfinder version","nexusFileVersion":"4.3.0","nexusFileUploadedAt":1785885169,"pakFileName":"Flanking Rules - Pathfinder ver.pak","nexusFileId":127334,"metaUuid":"84ee967c-1b6d-2185-7051-dddc4b1081b7"},
-{"nexusFileName":"Flanking Rules - DnD version","nexusFileVersion":"4.3.0","nexusFileUploadedAt":1785885181,"pakFileName":"Flanking Rules - DnD ver.pak","nexusFileId":127335,"metaUuid":"84ee967c-1b6d-2185-7051-dddc4b1081b7"}
+{"nexusFileName":"Flanking Rules - Pathfinder version","nexusFileVersion":"4.4.0","nexusFileUploadedAt":1786070582,"pakFileName":"Flanking Rules - Pathfinder ver.pak","nexusFileId":127476,"metaUuid":"84ee967c-1b6d-2185-7051-dddc4b1081b7"},
+{"nexusFileName":"Flanking Rules - DnD version","nexusFileVersion":"4.4.0","nexusFileUploadedAt":1786070595,"pakFileName":"Flanking Rules - DnD ver.pak","nexusFileId":127477,"metaUuid":"84ee967c-1b6d-2185-7051-dddc4b1081b7"}
 ]},
 "23920":{"nexusModName":"Better Tooltips (Russian Localization)","nexusUploadedBy":"ganeuken","nexusModId":23920,"paks":[
 {"nexusFileName":"Better Tooltips Russian Localization","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1784289618,"pakFileName":"BetterTooltips_RU.pak","nexusFileId":125831,"metaUuid":null},
@@ -67913,4 +67913,7 @@
 ]},
 "24310":{"nexusModName":"Sweet Little Hair Pack Vol.2","nexusUploadedBy":"SweetGenerousThing","nexusModId":24310,"paks":[
 {"nexusFileName":"SweetLittleHairPack_Vol2","nexusFileVersion":"1","nexusFileUploadedAt":1786048779,"pakFileName":"SweetLittleHairPackVol2.pak","nexusFileId":127462,"metaUuid":"b5c4424c-803d-422c-b2b3-3883fa81559d"}
+]},
+"24312":{"nexusModName":"Not Diving Strike","nexusUploadedBy":"yoonmoonsik43","nexusModId":24312,"paks":[
+{"nexusFileName":"Notdivingstrike 933ac624 1e29 9dya","nexusFileVersion":"1","nexusFileUploadedAt":1786068783,"pakFileName":"NotDivingStrike_933ac624-1e29-fb19-8534-d11e002b6d2b.pak","nexusFileId":127475,"metaUuid":null}
 ]}}
