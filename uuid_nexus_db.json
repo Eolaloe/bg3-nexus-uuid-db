@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-08-07T13:52:08.116806+00:00","total_mods":17187},
+{"_meta":{"last_run":"2026-08-07T14:52:18.329825+00:00","total_mods":17188},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -54764,7 +54764,8 @@
 {"nexusFileName":"HIMBO Wyll","nexusFileVersion":"1","nexusFileUploadedAt":1785534181,"pakFileName":"HIMBO_Wyll.pak","nexusFileId":126961,"metaUuid":"45b0d763-4cba-4301-be5a-5fa72ad21329"},
 {"nexusFileName":"HIMBO VANILLA Armor Refits","nexusFileVersion":"1","nexusFileUploadedAt":1785567022,"pakFileName":"HIMBO_VANILLA_Armor_Refits.pak","nexusFileId":127017,"metaUuid":"0f0904ba-99aa-4737-a999-944e397c2f8d"},
 {"nexusFileName":"HIMBO VANILLA Default Replacement","nexusFileVersion":"1.0.0.1","nexusFileUploadedAt":1785638896,"pakFileName":"HIMBO_VANILLA_Default_Replacement.pak","nexusFileId":127079,"metaUuid":null},
-{"nexusFileName":"HIMBO LABOTOR WyllKeyArt Refit","nexusFileVersion":"1.0.0.2","nexusFileUploadedAt":1785789588,"pakFileName":"HIMBO_LABOTOR_WyllKeyArt_Refit.pak","nexusFileId":127253,"metaUuid":"a2753ad3-a775-43da-995e-2680aacd86ca"}
+{"nexusFileName":"HIMBO LABOTOR WyllKeyArt Refit","nexusFileVersion":"1.0.0.2","nexusFileUploadedAt":1785789588,"pakFileName":"HIMBO_LABOTOR_WyllKeyArt_Refit.pak","nexusFileId":127253,"metaUuid":"a2753ad3-a775-43da-995e-2680aacd86ca"},
+{"nexusFileName":"HIMBO Gale","nexusFileVersion":"1.0.0.1","nexusFileUploadedAt":1786112863,"pakFileName":"HIMBO_Gale.pak","nexusFileId":127503,"metaUuid":null}
 ]},
 "19666":{"nexusModName":"5R Conjure Animals (dnd 5e 2024 PHB)","nexusUploadedBy":"ShadyDax","nexusModId":19666,"paks":[
 {"nexusFileName":"5R Conjure Animals - all classes addon","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1781407098,"pakFileName":"5R Conjure Animals - all classes addon.pak","nexusFileId":123513,"metaUuid":null},
@@ -58001,8 +58002,8 @@
 {"nexusFileName":"Wand of Wonder","nexusFileVersion":"1.0.0.8","nexusFileUploadedAt":1767921988,"pakFileName":"WandOfWonder_292d0866-9f37-87eb-5e1d-4bad988db8bc.pak","nexusFileId":111604,"metaUuid":"292d0866-9f37-87eb-5e1d-4bad988db8bc"}
 ]},
 "20585":{"nexusModName":"Shadow Sorcerer - Shadow Curse Immunity Passive","nexusUploadedBy":"vialliance","nexusModId":20585,"paks":[
-{"nexusFileName":"Shadow Sorcerer - Shadow Curse Immunity Passive","nexusFileVersion":"1.1","nexusFileUploadedAt":1772675714,"pakFileName":"VIAL_ShadSorc_SCL_Immunity.pak","nexusFileId":116071,"metaUuid":"7bf02bbf-320b-5d0e-4e7e-d21f4870a98b"},
-{"nexusFileName":"Shadow Curse Immunity Passive - Thundrstorm","nexusFileVersion":"1.1","nexusFileUploadedAt":1772676233,"pakFileName":"ALT_ShadSorc_SCL_Immunity.pak","nexusFileId":116073,"metaUuid":null}
+{"nexusFileName":"Shadow Curse Immunity Passive - Thundrstorm","nexusFileVersion":"1.1","nexusFileUploadedAt":1772676233,"pakFileName":"ALT_ShadSorc_SCL_Immunity.pak","nexusFileId":116073,"metaUuid":null},
+{"nexusFileName":"Shadow Sorcerer - Shadow Curse Immunity Passive","nexusFileVersion":"1.2","nexusFileUploadedAt":1786111601,"pakFileName":"VIAL_ShadSorc_SCL_Immunity.pak","nexusFileId":127501,"metaUuid":"7bf02bbf-320b-5d0e-4e7e-d21f4870a98b"}
 ]},
 "20586":{"nexusModName":"Origin Gods SE - MCM_KOR","nexusUploadedBy":"Ahdarugo","nexusModId":20586,"paks":[
 {"nexusFileName":"Origin Gods SE - MCM_KOR","nexusFileVersion":"1.1.0.0","nexusFileUploadedAt":1779113577,"pakFileName":"Origin Gods SE_KOR.pak","nexusFileId":121577,"metaUuid":null}
@@ -67562,7 +67563,7 @@
 ]},
 "24128":{"nexusModName":"Spineful - Forgotten Armoury IV - Greatsword and Dagger","nexusUploadedBy":"Lyniara","nexusModId":24128,"paks":[
 {"nexusFileName":"Tutorial Chest Addon","nexusFileVersion":"1","nexusFileUploadedAt":1785292266,"pakFileName":"Spineful - Tut Chest Addon.pak","nexusFileId":126715,"metaUuid":null},
-{"nexusFileName":"Spineful","nexusFileVersion":"1.0.0.4","nexusFileUploadedAt":1785325375,"pakFileName":"LYRA_LYN_Spineful_1.0.0.4.pak","nexusFileId":126741,"metaUuid":null}
+{"nexusFileName":"Spineful","nexusFileVersion":"1.0.0.5","nexusFileUploadedAt":1786112171,"pakFileName":"LYRA_LYN_Spineful_1.0.0.5.pak","nexusFileId":127502,"metaUuid":null}
 ]},
 "24129":{"nexusModName":"Cum Covered","nexusUploadedBy":"Sindae","nexusModId":24129,"paks":[
 {"nexusFileName":"1.1a CumCovered","nexusFileVersion":"1.1a","nexusFileUploadedAt":1785564988,"pakFileName":"CumFace.pak","nexusFileId":127014,"metaUuid":"00f02807-deeb-42c0-991b-39b60efcfb1a"},
@@ -67917,6 +67918,9 @@
 ]},
 "24303":{"nexusModName":"Power Word Bald-CHS","nexusUploadedBy":"AgleafSdan","nexusModId":24303,"paks":[
 {"nexusFileName":"Power Word Bald-CHS","nexusFileVersion":"1","nexusFileUploadedAt":1786022255,"pakFileName":"Power Word Bald-CHS.pak","nexusFileId":127440,"metaUuid":null}
+]},
+"24304":{"nexusModName":"Courtship Collection","nexusUploadedBy":"OneEyeAskew","nexusModId":24304,"paks":[
+{"nexusFileName":"Regency","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1786031442,"pakFileName":"Regency.pak","nexusFileId":127447,"metaUuid":null}
 ]},
 "24307":{"nexusModName":"Disguise Self - No Body Change","nexusUploadedBy":"FortisEstVeritas","nexusModId":24307,"paks":[
 {"nexusFileName":"Disguise Self - No Body Change","nexusFileVersion":"1.0","nexusFileUploadedAt":1786036719,"pakFileName":"Disguise Self - No Body Change.pak","nexusFileId":127449,"metaUuid":"1f130f62-8490-4488-9914-201fb2f9edde"}
