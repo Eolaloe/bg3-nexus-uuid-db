@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-08-07T17:51:49.650388+00:00","total_mods":17188},
+{"_meta":{"last_run":"2026-08-07T18:52:08.691212+00:00","total_mods":17189},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -65326,11 +65326,12 @@
 {"nexusFileName":"Hells Hath No Fury","nexusFileVersion":"2","nexusFileUploadedAt":1781339818,"pakFileName":"HellsHathNoFury_1ac9c5ed-c459-15dd-fa5a-fe83443d0882.pak","nexusFileId":123462,"metaUuid":"1ac9c5ed-c459-15dd-fa5a-fe83443d0882"}
 ]},
 "23206":{"nexusModName":"Faithfully Fixed Slayer Form","nexusUploadedBy":"Sw1shyFishy","nexusModId":23206,"paks":[
-{"nexusFileName":"SwishyFishy Slayer V2","nexusFileVersion":"1.0.2.0","nexusFileUploadedAt":1783779345,"pakFileName":"SwishyFishy_Slayer_v2.pak","nexusFileId":125426,"metaUuid":"dc622919-7e0b-42c6-ad2d-907ec410947d"},
 {"nexusFileName":"TavernBrawler - Fully Enabled","nexusFileVersion":"1","nexusFileUploadedAt":1786055649,"pakFileName":"TavernBrawlerEnabled.pak","nexusFileId":127465,"metaUuid":null},
 {"nexusFileName":"TavernBrawler - Fully Disabled","nexusFileVersion":"1","nexusFileUploadedAt":1786055669,"pakFileName":"TavernBrawlerDisabled.pak","nexusFileId":127466,"metaUuid":null},
 {"nexusFileName":"Cooldown - Once Per Combat","nexusFileVersion":"1","nexusFileUploadedAt":1786055694,"pakFileName":"Combat Cooldown.pak","nexusFileId":127467,"metaUuid":null},
-{"nexusFileName":"Cooldown - Once Per Short Rest","nexusFileVersion":"1","nexusFileUploadedAt":1786055715,"pakFileName":"ShortRestCooldown.pak","nexusFileId":127468,"metaUuid":null}
+{"nexusFileName":"Cooldown - Once Per Short Rest","nexusFileVersion":"1","nexusFileUploadedAt":1786055715,"pakFileName":"ShortRestCooldown.pak","nexusFileId":127468,"metaUuid":null},
+{"nexusFileName":"SwishyFishy Slayer V2","nexusFileVersion":"1.0.3.0","nexusFileUploadedAt":1786125819,"pakFileName":"SwishyFishy_Slayer_v2.pak","nexusFileId":127515,"metaUuid":"dc622919-7e0b-42c6-ad2d-907ec410947d"},
+{"nexusFileName":"Wild Shape and Tavern Brawler - Fully Enabled","nexusFileVersion":"1.0.0.1","nexusFileUploadedAt":1786126411,"pakFileName":"WildshapeSlayer.pak","nexusFileId":127518,"metaUuid":null}
 ]},
 "23207":{"nexusModName":"CombatBodysuit_TheFirstDescendant_Ines","nexusUploadedBy":"EvilRecluse","nexusModId":23207,"paks":[
 {"nexusFileName":"CombatBodysuit TheFirstDescendant Ines","nexusFileVersion":"1","nexusFileUploadedAt":1780587999,"pakFileName":"CombatBodysuit_TheFirstDescendant_Ines.pak","nexusFileId":122793,"metaUuid":"99c9a42f-0730-4a31-924f-32ea6f488510"}
@@ -65747,7 +65748,7 @@
 {"nexusFileName":"In This Moment Poses By LifeofaSin","nexusFileVersion":"1","nexusFileUploadedAt":1781470168,"pakFileName":"In This Moment Poses By LifeofaSin.pak","nexusFileId":123578,"metaUuid":"7e5827cb-54f1-6222-3462-ba056be89b92"}
 ]},
 "23385":{"nexusModName":"Summon Enhanced - MCM","nexusUploadedBy":"BaiYanYueQWQ","nexusModId":23385,"paks":[
-{"nexusFileName":"SummonEnhanced","nexusFileVersion":"2.9.3.0","nexusFileUploadedAt":1784403021,"pakFileName":"SummonEnhanced.pak","nexusFileId":125947,"metaUuid":"6a465714-dc81-41c0-9a95-e81165789ad2"}
+{"nexusFileName":"SummonEnhanced","nexusFileVersion":"2.9.4.0","nexusFileUploadedAt":1786128101,"pakFileName":"SummonEnhanced.pak","nexusFileId":127520,"metaUuid":"6a465714-dc81-41c0-9a95-e81165789ad2"}
 ]},
 "23386":{"nexusModName":"Sun Blade - Crashfix CN EN","nexusUploadedBy":"91wangsir","nexusModId":23386,"paks":[
 {"nexusFileName":"Sun Blade   Crashfix CN EN","nexusFileVersion":"1","nexusFileUploadedAt":1781480470,"pakFileName":"Sun Blade - Crashfix CN EN.pak","nexusFileId":123592,"metaUuid":"2f1b75f5-838c-40ab-aa76-3e5f89c5ace6"}
@@ -67779,7 +67780,8 @@
 {"nexusFileName":"DnD 5.5e All In One BEYOND Turkce","nexusFileVersion":"1","nexusFileUploadedAt":1785699520,"pakFileName":"DnD-5.5e-All-in-One-BEYOND-Turkce-v1.0.0.pak","nexusFileId":127156,"metaUuid":null}
 ]},
 "24237":{"nexusModName":"Metamagic Plus","nexusUploadedBy":"Crystic","nexusModId":24237,"paks":[
-{"nexusFileName":"Metamagic Plus","nexusFileVersion":"1","nexusFileUploadedAt":1785703061,"pakFileName":"Metamagic_DND_2024_f704bd8b-9ba7-4be0-f6f0-d22da1716a26.pak","nexusFileId":127158,"metaUuid":"f704bd8b-9ba7-4be0-f6f0-d22da1716a26"}
+{"nexusFileName":"Metamagic Plus","nexusFileVersion":"1","nexusFileUploadedAt":1785703061,"pakFileName":"Metamagic_DND_2024_f704bd8b-9ba7-4be0-f6f0-d22da1716a26.pak","nexusFileId":127158,"metaUuid":"f704bd8b-9ba7-4be0-f6f0-d22da1716a26"},
+{"nexusFileName":"Font of Magic 2024","nexusFileVersion":"1","nexusFileUploadedAt":1786126281,"pakFileName":"FontOfMagic2024_905cf5e7-24d9-ad12-c9a8-56da605a7cc8.pak","nexusFileId":127517,"metaUuid":null}
 ]},
 "24238":{"nexusModName":"Matador de Deuses Pt-Br","nexusUploadedBy":"Linkzynn","nexusModId":24238,"paks":[
 {"nexusFileName":"Matador De Deuses PT BR","nexusFileVersion":"1","nexusFileUploadedAt":1785709952,"pakFileName":"GodSlayer PT-BR.pak","nexusFileId":127163,"metaUuid":null}
@@ -67936,4 +67938,7 @@
 ]},
 "24312":{"nexusModName":"Not Diving Strike","nexusUploadedBy":"yoonmoonsik43","nexusModId":24312,"paks":[
 {"nexusFileName":"Notdivingstrike 933ac624 1e29 9dya","nexusFileVersion":"1","nexusFileUploadedAt":1786068783,"pakFileName":"NotDivingStrike_933ac624-1e29-fb19-8534-d11e002b6d2b.pak","nexusFileId":127475,"metaUuid":"933ac624-1e29-fb19-8534-d11e002b6d2b"}
+]},
+"24315":{"nexusModName":"Avatar The Last Airbender Origin and Companions","nexusUploadedBy":"MaestroMetty","nexusModId":24315,"paks":[
+{"nexusFileName":"AvatarCharacters","nexusFileVersion":"1.0.6","nexusFileUploadedAt":1786126415,"pakFileName":"AvatarCharacters_01f9dd03-c769-2e22-f552-7c62cc23d9a4.pak","nexusFileId":127519,"metaUuid":null}
 ]}}
