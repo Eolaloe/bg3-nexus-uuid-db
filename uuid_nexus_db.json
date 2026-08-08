@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-08-08T02:52:19.761901+00:00","total_mods":17194},
+{"_meta":{"last_run":"2026-08-08T03:52:28.184974+00:00","total_mods":17196},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -62912,7 +62912,7 @@
 {"nexusFileName":"Expanded ArmouryCHS","nexusFileVersion":"1.5","nexusFileUploadedAt":1775376158,"pakFileName":"Expanded_ArmouryCHS.pak","nexusFileId":118181,"metaUuid":null}
 ]},
 "22307":{"nexusModName":"Companion Permadeath","nexusUploadedBy":"NecroticFlame","nexusModId":22307,"paks":[
-{"nexusFileName":"Companion Permadeath","nexusFileVersion":"1.1.0","nexusFileUploadedAt":1785665012,"pakFileName":"Permadeath_a5dddc84-e8a6-3401-3491-ff5fb6217501.pak","nexusFileId":127102,"metaUuid":"a5dddc84-e8a6-3401-3491-ff5fb6217501"}
+{"nexusFileName":"Companion Permadeath","nexusFileVersion":"1.1.1","nexusFileUploadedAt":1786158255,"pakFileName":"Permadeath_a5dddc84-e8a6-3401-3491-ff5fb6217501.pak","nexusFileId":127544,"metaUuid":"a5dddc84-e8a6-3401-3491-ff5fb6217501"}
 ]},
 "22309":{"nexusModName":"Starting Equipment Restored","nexusUploadedBy":"NecroticFlame","nexusModId":22309,"paks":[
 {"nexusFileName":"Starting Equipment Restored","nexusFileVersion":"1.4.0","nexusFileUploadedAt":1783756253,"pakFileName":"LoadoutRestored_ba8db12c-8ea9-4e81-3a01-decbf3bdb5ec.pak","nexusFileId":125403,"metaUuid":"ba8db12c-8ea9-4e81-3a01-decbf3bdb5ec"}
@@ -66342,8 +66342,8 @@
 "23659":{"nexusModName":"The Space Between - Pose pack","nexusUploadedBy":"MadMicky10","nexusModId":23659,"paks":[
 {"nexusFileName":"MadMicky The Space Between Poses","nexusFileVersion":"1","nexusFileUploadedAt":1783216116,"pakFileName":"The_Space_Between_Poses_ad1b627f-0ee3-08a8-dd93-c72560cc3340.pak","nexusFileId":124914,"metaUuid":null}
 ]},
-"23660":{"nexusModName":"Bloodtrail - Path of Undeath (PT-BR)","nexusUploadedBy":"Firetoga","nexusModId":23660,"paks":[
-{"nexusFileName":"Bloodtrail - Path of Undeath (PT-BR)","nexusFileVersion":"1.6.3","nexusFileUploadedAt":1785552930,"pakFileName":"Bloodtrail (1.6.3 - PT-BR).pak","nexusFileId":127002,"metaUuid":null}
+"23660":{"nexusModName":"Bloodtrail - Path of Undeath (PT-BR - 2.1)","nexusUploadedBy":"Firetoga","nexusModId":23660,"paks":[
+{"nexusFileName":"Bloodtrail - Path of Undeath (PT-BR)","nexusFileVersion":"2.1","nexusFileUploadedAt":1786160208,"pakFileName":"Bloodtrail (2.1 - PT-BR).pak","nexusFileId":127556,"metaUuid":null}
 ]},
 "23661":{"nexusModName":"Spear of Radiant Decay","nexusUploadedBy":"DorianNotGrey","nexusModId":23661,"paks":[
 {"nexusFileName":"Spear Of Radiant Decay","nexusFileVersion":"1","nexusFileUploadedAt":1782959148,"pakFileName":"Spear_of_Radiant_Decay.pak","nexusFileId":124700,"metaUuid":"64225302-4b42-49c4-8b14-abc83ead135d"}
@@ -67950,12 +67950,20 @@
 "24318":{"nexusModName":"Fourteenth of the Hill - Triss Merigold's outfit","nexusUploadedBy":"yonhi","nexusModId":24318,"paks":[
 {"nexusFileName":"Fourteenth of the Hill","nexusFileVersion":"1","nexusFileUploadedAt":1786141975,"pakFileName":"TrissMerigold_a9dfb592-e26e-509d-7ed8-3b7502b7c803.pak","nexusFileId":127531,"metaUuid":null}
 ]},
+"24319":{"nexusModName":"Astarion reacts to his portrait and statue (Beta)","nexusUploadedBy":"lizapb","nexusModId":24319,"paks":[
+{"nexusFileName":"AstarionPortraitReaction Beta V","nexusFileVersion":"1","nexusFileUploadedAt":1786158848,"pakFileName":"AstarionPortraitReaction_beta_v.pak","nexusFileId":127547,"metaUuid":null},
+{"nexusFileName":"AstarionPortraitReaction Beta","nexusFileVersion":"1","nexusFileUploadedAt":1786159010,"pakFileName":"AstarionPortraitReaction_beta.pak","nexusFileId":127550,"metaUuid":null}
+]},
 "24320":{"nexusModName":"All Spellcasters Can Learn From Scrolls","nexusUploadedBy":"FerionLegacy","nexusModId":24320,"paks":[
 {"nexusFileName":"AllSpellcastersCanLearnFromScrolls","nexusFileVersion":"1","nexusFileUploadedAt":1786145085,"pakFileName":"AllSpellcastersCanLearnFromScrolls.pak","nexusFileId":127532,"metaUuid":null}
 ]},
 "24321":{"nexusModName":"ELDERTIDE ARMAMENTS REMASTERED","nexusUploadedBy":"XRaydown","nexusModId":24321,"paks":[
-{"nexusFileName":"Eldertide Armaments","nexusFileVersion":"1","nexusFileUploadedAt":1786150100,"pakFileName":"Eldertide (Overhaul).pak","nexusFileId":127535,"metaUuid":null}
+{"nexusFileName":"Eldertide Armaments","nexusFileVersion":"1","nexusFileUploadedAt":1786150100,"pakFileName":"Eldertide (Overhaul).pak","nexusFileId":127535,"metaUuid":null},
+{"nexusFileName":"Eldertide (Immersive)","nexusFileVersion":"1","nexusFileUploadedAt":1786159708,"pakFileName":"Eldertide (Immersive).pak","nexusFileId":127555,"metaUuid":null}
 ]},
 "24322":{"nexusModName":"Lusty Dragonborn Maid","nexusUploadedBy":"FerionLegacy","nexusModId":24322,"paks":[
 {"nexusFileName":"LustyDragonbornMaid","nexusFileVersion":"1","nexusFileUploadedAt":1786150285,"pakFileName":"LustyDragonbornMaid.pak","nexusFileId":127536,"metaUuid":null}
+]},
+"24324":{"nexusModName":"Bard's Magical Secret - Shadow Blade and Booming Blade","nexusUploadedBy":"yoonmoonsik43","nexusModId":24324,"paks":[
+{"nexusFileName":"Bardmagicalsecretshadowblade B C4lc","nexusFileVersion":"1","nexusFileUploadedAt":1786160731,"pakFileName":"BardMagicalSecretShadowBlade_b598dfe9-5759-e2f9-e9da-4ab1acae6e2f.pak","nexusFileId":127557,"metaUuid":null}
 ]}}
