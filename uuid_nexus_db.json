@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-08-08T03:52:28.184974+00:00","total_mods":17196},
+{"_meta":{"last_run":"2026-08-08T04:52:40.128660+00:00","total_mods":17197},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -36010,7 +36010,7 @@
 ]},
 "12727":{"nexusModName":"DnD 5.5e All-in-One BEYOND","nexusUploadedBy":"yoonmoonsik43","nexusModId":12727,"paks":[
 {"nexusFileName":"dnd2024 - V3 Legacy","nexusFileVersion":"3.4.6.4","nexusFileUploadedAt":1771945305,"pakFileName":"DnD2024_897914ef-5c96-053c-44af-0be823f895fe.pak","nexusFileId":115523,"metaUuid":"897914ef-5c96-053c-44af-0be823f895fe"},
-{"nexusFileName":"DnD 5.5e All-in-One BEYOND","nexusFileVersion":"4.11.21.8","nexusFileUploadedAt":1786106901,"pakFileName":"DnD2024_897914ef-5c96-053c-44af-0be823f895fe.pak","nexusFileId":127496,"metaUuid":"897914ef-5c96-053c-44af-0be823f895fe"}
+{"nexusFileName":"DnD 5.5e All-in-One BEYOND","nexusFileVersion":"4.11.21.9","nexusFileUploadedAt":1786163583,"pakFileName":"DnD2024_897914ef-5c96-053c-44af-0be823f895fe.pak","nexusFileId":127568,"metaUuid":"897914ef-5c96-053c-44af-0be823f895fe"}
 ]},
 "12728":{"nexusModName":"Origin-Themed Headwear KR","nexusUploadedBy":"Soorawang","nexusModId":12728,"paks":[
 {"nexusFileName":"Origin-Themed Headwear KR","nexusFileVersion":"1.0","nexusFileUploadedAt":1727930331,"pakFileName":"OriginHeadwear_kr.pak","nexusFileId":73692,"metaUuid":null}
@@ -60117,7 +60117,7 @@
 ]},
 "21344":{"nexusModName":"Prismortalis - A Dark-Fantasy Spellblade","nexusUploadedBy":"nvlliel","nexusModId":21344,"paks":[
 {"nexusFileName":"Prismortalis - Feats Every Two Levels","nexusFileVersion":"1.0.0.1","nexusFileUploadedAt":1784578982,"pakFileName":"PrismortalisFeatsEvery2Levels_a230221a-2a95-a352-bedb-d13b30a5e412.pak","nexusFileId":126094,"metaUuid":null},
-{"nexusFileName":"Prismortalis - A Dark-Fantasy Spellblade","nexusFileVersion":"5.5.4.1","nexusFileUploadedAt":1785909108,"pakFileName":"Prismortalis_5a28cde7-cff0-e977-dc6d-17244faeaa8c.pak","nexusFileId":127354,"metaUuid":"5a28cde7-cff0-e977-dc6d-17244faeaa8c"}
+{"nexusFileName":"Prismortalis 5a28cde7 Cff0 E97 8sis","nexusFileVersion":"5.5.4.4","nexusFileUploadedAt":1786161375,"pakFileName":"Prismortalis_5a28cde7-cff0-e977-dc6d-17244faeaa8c.pak","nexusFileId":127561,"metaUuid":"5a28cde7-cff0-e977-dc6d-17244faeaa8c"}
 ]},
 "21345":{"nexusModName":"Marksman - A Gunslinger class for Korean","nexusUploadedBy":"Eolaloe","nexusModId":21345,"paks":[
 {"nexusFileName":"Marksman - A Gunslinger class for Korean","nexusFileVersion":"1.2.1.0","nexusFileUploadedAt":1782326055,"pakFileName":"Marksman_Class_kr.pak","nexusFileId":124220,"metaUuid":null}
@@ -63357,7 +63357,7 @@
 {"nexusFileName":"Fatebond","nexusFileVersion":"1.4","nexusFileUploadedAt":1784576306,"pakFileName":"Fatebond.pak","nexusFileId":126087,"metaUuid":"6cfead1f-d54c-4dfb-bc94-05e9fc1e2970"}
 ]},
 "22459":{"nexusModName":"DnD 5.5e All-in-One BEYOND Russian Localization","nexusUploadedBy":"XapcT","nexusModId":22459,"paks":[
-{"nexusFileName":"DnD 5.5e AIO Russian v0.4.18.zip","nexusFileVersion":"0.4.18","nexusFileUploadedAt":1786096973,"pakFileName":"DnD 5.5e AIO Russian.pak","nexusFileId":127494,"metaUuid":null}
+{"nexusFileName":"DnD 5.5e AIO Russian v0.4.19.zip","nexusFileVersion":"0.4.19","nexusFileUploadedAt":1786164462,"pakFileName":"DnD 5.5e AIO Russian.pak","nexusFileId":127571,"metaUuid":null}
 ]},
 "22460":{"nexusModName":"Elementally Based Gear","nexusUploadedBy":"Useyourrifle","nexusModId":22460,"paks":[
 {"nexusFileName":"Elemental_Gear.7z","nexusFileVersion":"1","nexusFileUploadedAt":1776346340,"pakFileName":"OP_Bow_56032304-f037-e077-f5e7-045d2e03ef1c.pak","nexusFileId":119147,"metaUuid":"56032304-f037-e077-f5e7-045d2e03ef1c"}
@@ -67963,6 +67963,9 @@
 ]},
 "24322":{"nexusModName":"Lusty Dragonborn Maid","nexusUploadedBy":"FerionLegacy","nexusModId":24322,"paks":[
 {"nexusFileName":"LustyDragonbornMaid","nexusFileVersion":"1","nexusFileUploadedAt":1786150285,"pakFileName":"LustyDragonbornMaid.pak","nexusFileId":127536,"metaUuid":null}
+]},
+"24323":{"nexusModName":"Censer of Eternal Embers","nexusUploadedBy":"SaberDelta","nexusModId":24323,"paks":[
+{"nexusFileName":"Censer Of Eternal Embers","nexusFileVersion":"1","nexusFileUploadedAt":1786162383,"pakFileName":"Censer_of_Eternal_Embers.pak","nexusFileId":127564,"metaUuid":null}
 ]},
 "24324":{"nexusModName":"Bard's Magical Secret - Shadow Blade and Booming Blade","nexusUploadedBy":"yoonmoonsik43","nexusModId":24324,"paks":[
 {"nexusFileName":"Bardmagicalsecretshadowblade B C4lc","nexusFileVersion":"1","nexusFileUploadedAt":1786160731,"pakFileName":"BardMagicalSecretShadowBlade_b598dfe9-5759-e2f9-e9da-4ab1acae6e2f.pak","nexusFileId":127557,"metaUuid":null}
