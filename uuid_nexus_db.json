@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-08-08T18:52:47.998110+00:00","total_mods":17203},
+{"_meta":{"last_run":"2026-08-08T19:52:54.644504+00:00","total_mods":17204},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -65450,7 +65450,7 @@
 {"nexusFileName":"Awakened Morninglord's Morningstar","nexusFileVersion":"1.0.1","nexusFileUploadedAt":1780865334,"pakFileName":"Awakened Morninglord's Morningstar Compatibility Patch.pak","nexusFileId":123106,"metaUuid":"a4bc95d6-d14f-4ce5-8401-222937128234"}
 ]},
 "23247":{"nexusModName":"Advanced Enemy Randomizer","nexusUploadedBy":"celerev","nexusModId":23247,"paks":[
-{"nexusFileName":"AERando","nexusFileVersion":"0.9.13.2","nexusFileUploadedAt":1786078486,"pakFileName":"AERando.pak","nexusFileId":127486,"metaUuid":"1ec28411-fbaf-43ba-ad7b-092aa678c0dc"}
+{"nexusFileName":"AERando","nexusFileVersion":"0.9.13.3","nexusFileUploadedAt":1786215440,"pakFileName":"AERando.pak","nexusFileId":127626,"metaUuid":"1ec28411-fbaf-43ba-ad7b-092aa678c0dc"}
 ]},
 "23248":{"nexusModName":"Sharran Weaponry by AzazeL (WIP)_JP","nexusUploadedBy":"Akazonae36","nexusModId":23248,"paks":[
 {"nexusFileName":"Aza Sharran Weaponry WIP JP","nexusFileVersion":"1","nexusFileUploadedAt":1780802520,"pakFileName":"Aza_Sharran_Weaponry_WIP_JP.pak","nexusFileId":123036,"metaUuid":null}
@@ -66240,7 +66240,7 @@
 "23613":{"nexusModName":"STAV - Snailzx Tattoos And VTs","nexusUploadedBy":"EvilSnail0fDestruktion","nexusModId":23613,"paks":[
 {"nexusFileName":"STAV - VT","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1783989645,"pakFileName":"STAV [VT].pak","nexusFileId":125589,"metaUuid":"fc77b87d-2714-4545-99f4-db8042760e8d"},
 {"nexusFileName":"STAV - Race Patches","nexusFileVersion":"1.1.2","nexusFileUploadedAt":1784771880,"pakFileName":"STAV [Race Patches].pak","nexusFileId":126265,"metaUuid":"e36fb585-65cd-43a2-a44e-a5040134ee01"},
-{"nexusFileName":"STAV","nexusFileVersion":"1.2.1","nexusFileUploadedAt":1786043021,"pakFileName":"STAV.pak","nexusFileId":127452,"metaUuid":"2b9e05c8-d15a-3ac2-7237-6aa263f1dceb"}
+{"nexusFileName":"STAV","nexusFileVersion":"1.2.2","nexusFileUploadedAt":1786215668,"pakFileName":"STAV.pak","nexusFileId":127627,"metaUuid":"2b9e05c8-d15a-3ac2-7237-6aa263f1dceb"}
 ]},
 "23614":{"nexusModName":"WotD Aasimar Traduzione ITA","nexusUploadedBy":"EveeLaverne","nexusModId":23614,"paks":[
 {"nexusFileName":"WotD Aasimar ITA","nexusFileVersion":"1.0.1.0","nexusFileUploadedAt":1783784411,"pakFileName":"WotD-Aasimar ITA.pak","nexusFileId":125431,"metaUuid":null}
@@ -67383,7 +67383,7 @@
 {"nexusFileName":"TRM1 Races Transmasc Genitalia Patch","nexusFileVersion":"1","nexusFileUploadedAt":1784907487,"pakFileName":"tdicks for TRM1.pak","nexusFileId":126368,"metaUuid":null},
 {"nexusFileName":"TRM1 Races SGT's Pretty Boys Patch","nexusFileVersion":"1","nexusFileUploadedAt":1785009505,"pakFileName":"TRM1Races_SGTPrettyBoys_Patch.pak","nexusFileId":126486,"metaUuid":null},
 {"nexusFileName":"TRM1Races UTav Patch","nexusFileVersion":"1","nexusFileUploadedAt":1785191871,"pakFileName":"TRM1Races_UTAV_Patch.pak","nexusFileId":126615,"metaUuid":null},
-{"nexusFileName":"TRM1 Races","nexusFileVersion":"1.1.1","nexusFileUploadedAt":1785340517,"pakFileName":"TRM1_Races_97bca857-f004-3675-3e83-b57dbcf98572.pak","nexusFileId":126764,"metaUuid":"97bca857-f004-3675-3e83-b57dbcf98572"}
+{"nexusFileName":"TRM1 Races","nexusFileVersion":"1.2","nexusFileUploadedAt":1786216917,"pakFileName":"TRM1_Races_97bca857-f004-3675-3e83-b57dbcf98572.pak","nexusFileId":127628,"metaUuid":"97bca857-f004-3675-3e83-b57dbcf98572"}
 ]},
 "24050":{"nexusModName":"Team-Oriented Skill-Checked Feats and So On (BAMJO Feats)","nexusUploadedBy":"R6R6R","nexusModId":24050,"paks":[
 {"nexusFileName":"BAMJOFeats","nexusFileVersion":"1.1.2","nexusFileUploadedAt":1785003068,"pakFileName":"BAMJOFeats.pak","nexusFileId":126481,"metaUuid":"ce358962-8bae-4891-a171-f306b2fab092"}
@@ -67680,6 +67680,9 @@
 "24176":{"nexusModName":"P4 Hair Salon","nexusUploadedBy":"Padme4000","nexusModId":24176,"paks":[
 {"nexusFileName":"P4 Custom Hairs","nexusFileVersion":"1.0.0.2","nexusFileUploadedAt":1785537306,"pakFileName":"P4_Custom_Hairs_b5beef0b-1598-13d6-35f5-adfc2c88a10a.pak","nexusFileId":126974,"metaUuid":"b5beef0b-1598-13d6-35f5-adfc2c88a10a"}
 ]},
+"24182":{"nexusModName":"Ring of Bloodstriding - Blood Puddle Teleportation and Buff","nexusUploadedBy":"jellysnakes","nexusModId":24182,"paks":[
+{"nexusFileName":"RingOfBloodstriding","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1786211983,"pakFileName":"RingOfBloodstriding.pak","nexusFileId":127617,"metaUuid":null}
+]},
 "24184":{"nexusModName":"Formal Drider Outfit","nexusUploadedBy":"Lyniara","nexusModId":24184,"paks":[
 {"nexusFileName":"Formal Drider Outfit","nexusFileVersion":"1.0","nexusFileUploadedAt":1785518755,"pakFileName":"LynFormalDrider.pak","nexusFileId":126934,"metaUuid":null}
 ]},
@@ -67859,11 +67862,11 @@
 {"nexusFileName":"ONYX - Apostasy","nexusFileVersion":"1","nexusFileUploadedAt":1786008907,"pakFileName":"ONYX_Apostasy_8d85816b-da6c-f582-adb4-2e8e3f873beb.pak","nexusFileId":127427,"metaUuid":"8d85816b-da6c-f582-adb4-2e8e3f873beb"}
 ]},
 "24276":{"nexusModName":"TRM1 Modded Races Patches","nexusUploadedBy":"tealrabbit19","nexusModId":24276,"paks":[
-{"nexusFileName":"Genasi TRM1","nexusFileVersion":"1","nexusFileUploadedAt":1786139503,"pakFileName":"GenasiTRM1.pak","nexusFileId":127529,"metaUuid":null},
-{"nexusFileName":"Eladrin TRM1","nexusFileVersion":"1","nexusFileUploadedAt":1786194324,"pakFileName":"EladrinTRM1.pak","nexusFileId":127597,"metaUuid":null},
-{"nexusFileName":"ASTRL Tiefling Compendium TRM1","nexusFileVersion":"1.1","nexusFileUploadedAt":1786194693,"pakFileName":"ASTRLtieflingsTRM1.pak","nexusFileId":127598,"metaUuid":null},
-{"nexusFileName":"ASTRL Elven Anthology TRM1","nexusFileVersion":"1.1","nexusFileUploadedAt":1786194719,"pakFileName":"ASTRLelvenanthologyTRM1.pak","nexusFileId":127599,"metaUuid":null},
-{"nexusFileName":"Changelings TRM1","nexusFileVersion":"1.1","nexusFileUploadedAt":1786195221,"pakFileName":"CSSChangelingTRM1.pak","nexusFileId":127600,"metaUuid":null}
+{"nexusFileName":"Changelings TRM1","nexusFileVersion":"1.1","nexusFileUploadedAt":1786195221,"pakFileName":"CSSChangelingTRM1.pak","nexusFileId":127600,"metaUuid":null},
+{"nexusFileName":"ASTRL Elven Anthology TRM1","nexusFileVersion":"2","nexusFileUploadedAt":1786217044,"pakFileName":"ASTRLelvenanthologyTRM1.pak","nexusFileId":127629,"metaUuid":null},
+{"nexusFileName":"ASTRL Tiefling Compendium TRM1","nexusFileVersion":"2","nexusFileUploadedAt":1786217062,"pakFileName":"ASTRLtieflingsTRM1.pak","nexusFileId":127630,"metaUuid":null},
+{"nexusFileName":"Eladrin TRM1","nexusFileVersion":"2","nexusFileUploadedAt":1786217075,"pakFileName":"EladrinTRM1.pak","nexusFileId":127631,"metaUuid":null},
+{"nexusFileName":"Genasi TRM1","nexusFileVersion":"2","nexusFileUploadedAt":1786217091,"pakFileName":"GenasiTRM1.pak","nexusFileId":127632,"metaUuid":null}
 ]},
 "24277":{"nexusModName":"Caster's Fury - Cryptid Labs Rage Spellcasting","nexusUploadedBy":"Eclipse26","nexusModId":24277,"paks":[
 {"nexusFileName":"Cryptid Labs - Rage Spellcasting","nexusFileVersion":"1","nexusFileUploadedAt":1785895957,"pakFileName":"CryptidLabsRageSpellcasting_b04e4150-0368-83cc-c072-4e3e624a66c8.pak","nexusFileId":127349,"metaUuid":"b04e4150-0368-83cc-c072-4e3e624a66c8"}
