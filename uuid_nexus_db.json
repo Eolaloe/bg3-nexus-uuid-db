@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-08-08T04:52:40.128660+00:00","total_mods":17197},
+{"_meta":{"last_run":"2026-08-08T05:52:56.236197+00:00","total_mods":17198},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -60810,7 +60810,7 @@
 {"nexusFileName":"Main File","nexusFileVersion":"1.0","nexusFileUploadedAt":1771586245,"pakFileName":"EZN_Draconic_NeckScales_16d812ca-e110-4e7d-50c3-649f139a6f26.pak","nexusFileId":115215,"metaUuid":"16d812ca-e110-4e7d-50c3-649f139a6f26"}
 ]},
 "21566":{"nexusModName":"Item Prefix for Sorting (add Tag)","nexusUploadedBy":"Eolaloe","nexusModId":21566,"paks":[
-{"nexusFileName":"Item Prefix for Sorting (add Tag)","nexusFileVersion":"1.1.2.6","nexusFileUploadedAt":1784797772,"pakFileName":"ItemTags.pak","nexusFileId":126284,"metaUuid":"148b8674-4193-413f-8df5-4b6f66cbcf10"}
+{"nexusFileName":"Item Prefix for Sorting (add Tag)","nexusFileVersion":"1.1.2.7","nexusFileUploadedAt":1786166988,"pakFileName":"ItemTags.pak","nexusFileId":127584,"metaUuid":"148b8674-4193-413f-8df5-4b6f66cbcf10"}
 ]},
 "21567":{"nexusModName":"Nymphea Silvestra - Feathery Ensemble","nexusUploadedBy":"BerrySemifreddo","nexusModId":21567,"paks":[
 {"nexusFileName":"Nymphea Silvestra - Main File","nexusFileVersion":"1.0.0.29","nexusFileUploadedAt":1771866951,"pakFileName":"Nymphea_Silvestra_Feathery_Ensemble.pak","nexusFileId":115470,"metaUuid":"0764fabe-804f-dc16-91fb-d646e178814b"}
@@ -66371,8 +66371,7 @@
 {"nexusFileName":"FairyRaceITA","nexusFileVersion":"1.0.1.1","nexusFileUploadedAt":1783780502,"pakFileName":"FairyRaceITA.pak","nexusFileId":125428,"metaUuid":null}
 ]},
 "23672":{"nexusModName":"Nearby Loot Scan","nexusUploadedBy":"Eolaloe","nexusModId":23672,"paks":[
-{"nexusFileName":"Nearby Loot Scan","nexusFileVersion":"1.0.3.0","nexusFileUploadedAt":1784817422,"pakFileName":"NearbyLootScan.pak","nexusFileId":126297,"metaUuid":"6f32203b-d69d-13fc-2c7b-b8b12bca7f00"},
-{"nexusFileName":"(Beta) Nearby Loot Scan (multiplayer bug fix)","nexusFileVersion":"1.0.4.0","nexusFileUploadedAt":1784823062,"pakFileName":"NearbyLootScan.pak","nexusFileId":126305,"metaUuid":"6f32203b-d69d-13fc-2c7b-b8b12bca7f00"}
+{"nexusFileName":"Nearby Loot Scan","nexusFileVersion":"1.0.4.1","nexusFileUploadedAt":1786165525,"pakFileName":"NearbyLootScan.pak","nexusFileId":127575,"metaUuid":"6f32203b-d69d-13fc-2c7b-b8b12bca7f00"}
 ]},
 "23673":{"nexusModName":"Mellow Harmony for College of Swords Bard","nexusUploadedBy":"koboldJuno","nexusModId":23673,"paks":[
 {"nexusFileName":"Mellow Harmony for sword bard.","nexusFileVersion":"1.0","nexusFileUploadedAt":1783018345,"pakFileName":"SwordBardMellowHarmony_8d38d234-9f3d-b237-2f38-986f30f2f6dd.pak","nexusFileId":124731,"metaUuid":"8d38d234-9f3d-b237-2f38-986f30f2f6dd"}
@@ -67969,4 +67968,7 @@
 ]},
 "24324":{"nexusModName":"Bard's Magical Secret - Shadow Blade and Booming Blade","nexusUploadedBy":"yoonmoonsik43","nexusModId":24324,"paks":[
 {"nexusFileName":"Bardmagicalsecretshadowblade B C4lc","nexusFileVersion":"1","nexusFileUploadedAt":1786160731,"pakFileName":"BardMagicalSecretShadowBlade_b598dfe9-5759-e2f9-e9da-4ab1acae6e2f.pak","nexusFileId":127557,"metaUuid":null}
+]},
+"24327":{"nexusModName":"Absolute Wrath CHS","nexusUploadedBy":"ngqx264","nexusModId":24327,"paks":[
+{"nexusFileName":"AbsoluteWrath CHS","nexusFileVersion":"3.0","nexusFileUploadedAt":1786166748,"pakFileName":"AbsoluteWrath_CHS.pak","nexusFileId":127582,"metaUuid":null}
 ]}}
