@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-08-08T12:53:02.839103+00:00","total_mods":17200},
+{"_meta":{"last_run":"2026-08-08T13:52:42.147039+00:00","total_mods":17200},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -67379,7 +67379,7 @@
 "24047":{"nexusModName":"Kitsune Reborn CHS","nexusUploadedBy":"ngqx264","nexusModId":24047,"paks":[
 {"nexusFileName":"Kitsune Reborn CHS","nexusFileVersion":"2","nexusFileUploadedAt":1784912441,"pakFileName":"Kitsune_Reborn_CHS.pak","nexusFileId":126381,"metaUuid":null}
 ]},
-"24048":{"nexusModName":"TealRabbit's Masculine Body 1 Races","nexusUploadedBy":"tealrabbit19","nexusModId":24048,"paks":[
+"24048":{"nexusModName":"TealRabbit's Masculine Body 1 Races (TRM1R)","nexusUploadedBy":"tealrabbit19","nexusModId":24048,"paks":[
 {"nexusFileName":"TRM1 Races Transmasc Genitalia Patch","nexusFileVersion":"1","nexusFileUploadedAt":1784907487,"pakFileName":"tdicks for TRM1.pak","nexusFileId":126368,"metaUuid":null},
 {"nexusFileName":"TRM1 Races SGT's Pretty Boys Patch","nexusFileVersion":"1","nexusFileUploadedAt":1785009505,"pakFileName":"TRM1Races_SGTPrettyBoys_Patch.pak","nexusFileId":126486,"metaUuid":null},
 {"nexusFileName":"TRM1Races UTav Patch","nexusFileVersion":"1","nexusFileUploadedAt":1785191871,"pakFileName":"TRM1Races_UTAV_Patch.pak","nexusFileId":126615,"metaUuid":null},
@@ -67855,12 +67855,11 @@
 {"nexusFileName":"ONYX - Apostasy","nexusFileVersion":"1","nexusFileUploadedAt":1786008907,"pakFileName":"ONYX_Apostasy_8d85816b-da6c-f582-adb4-2e8e3f873beb.pak","nexusFileId":127427,"metaUuid":"8d85816b-da6c-f582-adb4-2e8e3f873beb"}
 ]},
 "24276":{"nexusModName":"TRM1 Modded Races Patches","nexusUploadedBy":"tealrabbit19","nexusModId":24276,"paks":[
-{"nexusFileName":"ASTRL Elven Anthology TRM1","nexusFileVersion":"1","nexusFileUploadedAt":1785885747,"pakFileName":"ASTRLelvenanthologyTRM1.pak","nexusFileId":127336,"metaUuid":null},
-{"nexusFileName":"ASTRL Tiefling Compendium TRM1","nexusFileVersion":"1","nexusFileUploadedAt":1785885794,"pakFileName":"ASTRLtieflingsTRM1.pak","nexusFileId":127337,"metaUuid":null},
-{"nexusFileName":"ASTRL Elves UniqueTav TRM1","nexusFileVersion":"1","nexusFileUploadedAt":1785885863,"pakFileName":"ASTRLelves_UniqueTav_TRM1.pak","nexusFileId":127338,"metaUuid":null},
-{"nexusFileName":"ASTRL Tieflings UniqueTav TRM1","nexusFileVersion":"1","nexusFileUploadedAt":1785885903,"pakFileName":"ASTRLtieflings_UniqueTav_TRM1Patch.pak","nexusFileId":127339,"metaUuid":null},
-{"nexusFileName":"Changelings TRM1","nexusFileVersion":"1","nexusFileUploadedAt":1786062280,"pakFileName":"CSSChangelingTRM1.pak","nexusFileId":127473,"metaUuid":null},
-{"nexusFileName":"Genasi TRM1","nexusFileVersion":"1","nexusFileUploadedAt":1786139503,"pakFileName":"GenasiTRM1.pak","nexusFileId":127529,"metaUuid":null}
+{"nexusFileName":"Genasi TRM1","nexusFileVersion":"1","nexusFileUploadedAt":1786139503,"pakFileName":"GenasiTRM1.pak","nexusFileId":127529,"metaUuid":null},
+{"nexusFileName":"Eladrin TRM1","nexusFileVersion":"1","nexusFileUploadedAt":1786194324,"pakFileName":"EladrinTRM1.pak","nexusFileId":127597,"metaUuid":null},
+{"nexusFileName":"ASTRL Tiefling Compendium TRM1","nexusFileVersion":"1.1","nexusFileUploadedAt":1786194693,"pakFileName":"ASTRLtieflingsTRM1.pak","nexusFileId":127598,"metaUuid":null},
+{"nexusFileName":"ASTRL Elven Anthology TRM1","nexusFileVersion":"1.1","nexusFileUploadedAt":1786194719,"pakFileName":"ASTRLelvenanthologyTRM1.pak","nexusFileId":127599,"metaUuid":null},
+{"nexusFileName":"Changelings TRM1","nexusFileVersion":"1.1","nexusFileUploadedAt":1786195221,"pakFileName":"CSSChangelingTRM1.pak","nexusFileId":127600,"metaUuid":null}
 ]},
 "24277":{"nexusModName":"Caster's Fury - Cryptid Labs Rage Spellcasting","nexusUploadedBy":"Eclipse26","nexusModId":24277,"paks":[
 {"nexusFileName":"Cryptid Labs - Rage Spellcasting","nexusFileVersion":"1","nexusFileUploadedAt":1785895957,"pakFileName":"CryptidLabsRageSpellcasting_b04e4150-0368-83cc-c072-4e3e624a66c8.pak","nexusFileId":127349,"metaUuid":"b04e4150-0368-83cc-c072-4e3e624a66c8"}
