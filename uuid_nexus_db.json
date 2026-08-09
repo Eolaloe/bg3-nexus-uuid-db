@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-08-09T20:52:19.937484+00:00","total_mods":17217},
+{"_meta":{"last_run":"2026-08-09T21:51:50.495594+00:00","total_mods":17218},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -32898,7 +32898,7 @@
 {"nexusFileName":"KaitieHeadPresetV2","nexusFileVersion":"2","nexusFileUploadedAt":1723458391,"pakFileName":"KC_HEAD_PRESET.pak","nexusFileId":66882,"metaUuid":null}
 ]},
 "11512":{"nexusModName":"Camp Caster Helper","nexusUploadedBy":"adriant1978","nexusModId":11512,"paks":[
-{"nexusFileName":"CampCasterHelper","nexusFileVersion":"1.0.2.0","nexusFileUploadedAt":1777980666,"pakFileName":"CampCasterHelper.pak","nexusFileId":120581,"metaUuid":"c6bcb7d5-af62-4a1d-9024-bcef087bc36e"}
+{"nexusFileName":"CampCasterHelper","nexusFileVersion":"1.0.2.1","nexusFileUploadedAt":1786310187,"pakFileName":"CampCasterHelper.pak","nexusFileId":127722,"metaUuid":"c6bcb7d5-af62-4a1d-9024-bcef087bc36e"}
 ]},
 "11514":{"nexusModName":"Some Alt textures for Paladin and Cleric Gear","nexusUploadedBy":"commanderstrawberry","nexusModId":11514,"paks":[
 {"nexusFileName":"PTW_Decals Helm 1","nexusFileVersion":"1","nexusFileUploadedAt":1723320197,"pakFileName":"PTW_Paladin_Decals_CSEdit.pak","nexusFileId":66742,"metaUuid":null},
@@ -54063,7 +54063,8 @@
 ]},
 "19427":{"nexusModName":"Way of Steel - An Armoured Monk","nexusUploadedBy":"TheWailingBard","nexusModId":19427,"paks":[
 {"nexusFileName":"Way of Steel - OneDnD Add-On","nexusFileVersion":"1.0.0.4","nexusFileUploadedAt":1761964541,"pakFileName":"SomanyrobotsWayOfSteelOneDND_ae40c380-df03-44ae-ea41-6c623ca597c8.pak","nexusFileId":106481,"metaUuid":null},
-{"nexusFileName":"Way of Steel","nexusFileVersion":"1.0.0.5","nexusFileUploadedAt":1781712018,"pakFileName":"SomanyrobotsWayOfSteel_510a15f3-0362-cd7f-c9a9-b579760cbaaf.pak","nexusFileId":123759,"metaUuid":"510a15f3-0362-cd7f-c9a9-b579760cbaaf"}
+{"nexusFileName":"Way of Steel","nexusFileVersion":"1.0.0.5","nexusFileUploadedAt":1781712018,"pakFileName":"SomanyrobotsWayOfSteel_510a15f3-0362-cd7f-c9a9-b579760cbaaf.pak","nexusFileId":123759,"metaUuid":"510a15f3-0362-cd7f-c9a9-b579760cbaaf"},
+{"nexusFileName":"Way of Steel - All-in-One Compatibility Patch","nexusFileVersion":"1.0.0.3","nexusFileUploadedAt":1786308754,"pakFileName":"SomanyrobotsWayOfSteelAIOAddon_6911a9af-3196-0c56-2cc5-3379645f14f9.pak","nexusFileId":127721,"metaUuid":null}
 ]},
 "19429":{"nexusModName":"Deepsea Covenant","nexusUploadedBy":"OneEyeAskew","nexusModId":19429,"paks":[
 {"nexusFileName":"Deepspace Covenant - Dyeable version","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1761780002,"pakFileName":"DeepseaCovenant.pak","nexusFileId":106291,"metaUuid":"a6dab079-846f-421d-a554-c98582159697"},
@@ -65279,8 +65280,8 @@
 "23181":{"nexusModName":"Great Tits - yes they jiggle","nexusUploadedBy":"ARAFEL194","nexusModId":23181,"paks":[
 {"nexusFileName":"GreatTits 26ed7bfa 1723 2cea 6fb4 01893ed36d26","nexusFileVersion":"2","nexusFileUploadedAt":1780555219,"pakFileName":"GreatTits_26ed7bfa-1723-2cea-6fb4-01893ed36d26.pak","nexusFileId":122753,"metaUuid":"26ed7bfa-1723-2cea-6fb4-01893ed36d26"}
 ]},
-"23182":{"nexusModName":"Path of Undeath (PT-BR - 2.0.6)","nexusUploadedBy":"Firetoga","nexusModId":23182,"paks":[
-{"nexusFileName":"Path Of Undeath (PT-BR)","nexusFileVersion":"2.0.6","nexusFileUploadedAt":1785533491,"pakFileName":"Path of Undeath (Tradução PT-BR - 2.0.6).pak","nexusFileId":126954,"metaUuid":null}
+"23182":{"nexusModName":"Path of Undeath (PT-BR - 2.1)","nexusUploadedBy":"Firetoga","nexusModId":23182,"paks":[
+{"nexusFileName":"Path Of Undeath (PT-BR)","nexusFileVersion":"2.1","nexusFileUploadedAt":1786311154,"pakFileName":"Path of Undeath (PT-BR - 2.1).pak","nexusFileId":127724,"metaUuid":null}
 ]},
 "23183":{"nexusModName":"Spawn Astarion - Epilogue Party Affection Dialog","nexusUploadedBy":"moxifer3","nexusModId":23183,"paks":[
 {"nexusFileName":"MOXI Epilogue Astarion Affection","nexusFileVersion":"1","nexusFileUploadedAt":1780466202,"pakFileName":"MOXI_Epilogue_Astarion_Affection.pak","nexusFileId":122661,"metaUuid":"eb17ed54-2177-4159-a074-beaad3d0f07a"}
@@ -68034,4 +68035,7 @@
 ]},
 "24351":{"nexusModName":"5e Cleric Subclasses Combined - PTBR (2026)","nexusUploadedBy":"BarovZx","nexusModId":24351,"paks":[
 {"nexusFileName":"Cleric Subclasses 5e Combined PTBR","nexusFileVersion":"13.02.2026","nexusFileUploadedAt":1786303853,"pakFileName":"Cleric Subclasses 5e Combined PTBR.pak","nexusFileId":127716,"metaUuid":null}
+]},
+"24352":{"nexusModName":"Titan's Grip","nexusUploadedBy":"Dreamerydia","nexusModId":24352,"paks":[
+{"nexusFileName":"TitansGrip V1.0.0","nexusFileVersion":"1","nexusFileUploadedAt":1786310374,"pakFileName":"TitansGrip.pak","nexusFileId":127723,"metaUuid":null}
 ]}}
