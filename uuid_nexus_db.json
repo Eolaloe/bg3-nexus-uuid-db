@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-08-10T20:02:55.198044+00:00","total_mods":17229},
+{"_meta":{"last_run":"2026-08-10T20:52:34.498537+00:00","total_mods":17231},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -36009,6 +36009,7 @@
 {"nexusFileName":"Doom Armor - Main (2.0) ITA","nexusFileVersion":"2.1.1.0","nexusFileUploadedAt":1778476402,"pakFileName":"Doom Armor - Main - ITA.pak","nexusFileId":120944,"metaUuid":null}
 ]},
 "12727":{"nexusModName":"DnD 5.5e All-in-One BEYOND","nexusUploadedBy":"yoonmoonsik43","nexusModId":12727,"paks":[
+{"nexusFileName":"dnd2024 - V3 Legacy","nexusFileVersion":"3.4.6.4","nexusFileUploadedAt":1771945305,"pakFileName":"DnD2024_897914ef-5c96-053c-44af-0be823f895fe.pak","nexusFileId":115523,"metaUuid":"897914ef-5c96-053c-44af-0be823f895fe"},
 {"nexusFileName":"DnD 5.5e All-in-One BEYOND","nexusFileVersion":"4.11.22.8","nexusFileUploadedAt":1786376879,"pakFileName":"DnD2024_897914ef-5c96-053c-44af-0be823f895fe.pak","nexusFileId":127773,"metaUuid":"897914ef-5c96-053c-44af-0be823f895fe"}
 ]},
 "12728":{"nexusModName":"Origin-Themed Headwear KR","nexusUploadedBy":"Soorawang","nexusModId":12728,"paks":[
@@ -40447,6 +40448,7 @@
 {"nexusFileName":"Cleric Swap Text Changes","nexusFileVersion":"1.0","nexusFileUploadedAt":1734729259,"pakFileName":"Cleric Swap Text Changes.pak","nexusFileId":82405,"metaUuid":null}
 ]},
 "14364":{"nexusModName":"Lighty Lights and Photo Mode stuff","nexusUploadedBy":"rakor","nexusModId":14364,"paks":[
+{"nexusFileName":"PushingPpose","nexusFileVersion":"daniela","nexusFileUploadedAt":1776178849,"pakFileName":"pushingPpose.pak","nexusFileId":118961,"metaUuid":null},
 {"nexusFileName":"Lighty Lights","nexusFileVersion":"1.9.6","nexusFileUploadedAt":1786384547,"pakFileName":"LighterLightyLights_6aa50183-bce4-576e-749f-3a2c60233b09.pak","nexusFileId":127781,"metaUuid":"6aa50183-bce4-576e-749f-3a2c60233b09"},
 {"nexusFileName":"Gobos and garbage","nexusFileVersion":"4.1.14.9","nexusFileUploadedAt":1786384720,"pakFileName":"LightyLights_Gobos.pak","nexusFileId":127783,"metaUuid":null}
 ]},
@@ -41964,6 +41966,7 @@
 {"nexusFileName":"War Dancer Class v1.0.0.16","nexusFileVersion":"1.0.0.16","nexusFileUploadedAt":1750863213,"pakFileName":"WarDancerClass_92cafe38-f6d1-c3c8-1171-82ce8d30c707.pak","nexusFileId":96589,"metaUuid":"92cafe38-f6d1-c3c8-1171-82ce8d30c707"}
 ]},
 "14954":{"nexusModName":"Valkrana's Undead Champion","nexusUploadedBy":"actualsailorcat","nexusModId":14954,"paks":[
+{"nexusFileName":"School of Necromancy Subclass Feature","nexusFileVersion":"1.00.01","nexusFileUploadedAt":1741142126,"pakFileName":"School of Necromancy - Greater Undead Thralls.pak","nexusFileId":86730,"metaUuid":null},
 {"nexusFileName":"Valkrana's Undead Champion","nexusFileVersion":"1.03.01","nexusFileUploadedAt":1785958592,"pakFileName":"Valkrana's Undead Champion.pak","nexusFileId":127395,"metaUuid":"30552a1f-1b5a-4c21-80df-b025c3e67991"}
 ]},
 "14955":{"nexusModName":"Spellfire Sorcery Sorcerer Subclass","nexusUploadedBy":"YouMeAndBG3","nexusModId":14955,"paks":[
@@ -45503,6 +45506,8 @@
 {"nexusFileName":"Instrumental Shield 1.0","nexusFileVersion":"4.1.1.3767641","nexusFileUploadedAt":1746507558,"pakFileName":"Instrumental Shield.pak","nexusFileId":91924,"metaUuid":null}
 ]},
 "16384":{"nexusModName":"Clawstep - Dragonborn body - Digitigrade legs","nexusUploadedBy":"AkELkA","nexusModId":16384,"paks":[
+{"nexusFileName":"Clawstep - UTAV patch - PAK","nexusFileVersion":"1.0.0.1","nexusFileUploadedAt":1756983782,"pakFileName":"Clawstep - UTAV patch - PAK.pak","nexusFileId":102046,"metaUuid":null},
+{"nexusFileName":"Clawstep - Dragonborn body - Digitigrade legs","nexusFileVersion":"1.0.0.41","nexusFileUploadedAt":1761535981,"pakFileName":"DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a.pak","nexusFileId":106089,"metaUuid":null},
 {"nexusFileName":"Clawstep Lazy Armor Patch","nexusFileVersion":"1.0.0.10","nexusFileUploadedAt":1785364564,"pakFileName":"ZZZ_Lazy_Armor_Patcher_c072eaf2-13e1-abb3-10e2-3b58483eb770.pak","nexusFileId":126789,"metaUuid":"c072eaf2-13e1-abb3-10e2-3b58483eb770"},
 {"nexusFileName":"Clawstep Lazy Armor Patch - Akm","nexusFileVersion":"1.0.0.3","nexusFileUploadedAt":1785367521,"pakFileName":"ZZZ_Lazy_Armor_Patcher_Akm_6fe607d6-0989-995e-d952-98927df6b931.pak","nexusFileId":126793,"metaUuid":"6fe607d6-0989-995e-d952-98927df6b931"},
 {"nexusFileName":"Clawstep Lazy Armor Patch - Akm - Breast","nexusFileVersion":"1.0.0.3","nexusFileUploadedAt":1785369181,"pakFileName":"ZZZ_Lazy_Armor_Patcher_Akm_BRST_976f7aa0-562d-54cb-4d33-8117f5593ad9.pak","nexusFileId":126796,"metaUuid":"976f7aa0-562d-54cb-4d33-8117f5593ad9"},
@@ -46089,6 +46094,7 @@
 {"nexusFileName":"CME2024CHS","nexusFileVersion":"1.0","nexusFileUploadedAt":1747393895,"pakFileName":"CME2024CHS.pak","nexusFileId":93084,"metaUuid":null}
 ]},
 "16606":{"nexusModName":"Invisible Party","nexusUploadedBy":"swissfred","nexusModId":16606,"paks":[
+{"nexusFileName":"Invisible Party","nexusFileVersion":"2.1.8.8","nexusFileUploadedAt":1767953711,"pakFileName":"InvisibleParty_1c57abc8-4816-cb7d-0356-63e495fa9141.pak","nexusFileId":111633,"metaUuid":"1c57abc8-4816-cb7d-0356-63e495fa9141"},
 {"nexusFileName":"Invisible Party","nexusFileVersion":"2.2.8.8","nexusFileUploadedAt":1786336873,"pakFileName":"InvisibleParty_1c57abc8-4816-cb7d-0356-63e495fa9141.pak","nexusFileId":127745,"metaUuid":"1c57abc8-4816-cb7d-0356-63e495fa9141"}
 ]},
 "16607":{"nexusModName":"Deity Domains and Alignment","nexusUploadedBy":"MaxStrengthWizard","nexusModId":16607,"paks":[
@@ -54057,6 +54063,7 @@
 {"nexusFileName":"Mod Configuration Menu (MCM) CHS XD","nexusFileVersion":"1.38.2","nexusFileUploadedAt":1764779034,"pakFileName":"Mod Configuration MenuCHSXD.pak","nexusFileId":108782,"metaUuid":"a51e9ccf-e260-487c-9316-91e38db60ec5"}
 ]},
 "19427":{"nexusModName":"Way of Steel - An Armoured Monk","nexusUploadedBy":"TheWailingBard","nexusModId":19427,"paks":[
+{"nexusFileName":"Way of Steel - OneDnD Add-On","nexusFileVersion":"1.0.0.4","nexusFileUploadedAt":1761964541,"pakFileName":"SomanyrobotsWayOfSteelOneDND_ae40c380-df03-44ae-ea41-6c623ca597c8.pak","nexusFileId":106481,"metaUuid":null},
 {"nexusFileName":"Way of Steel","nexusFileVersion":"1.0.0.5","nexusFileUploadedAt":1781712018,"pakFileName":"SomanyrobotsWayOfSteel_510a15f3-0362-cd7f-c9a9-b579760cbaaf.pak","nexusFileId":123759,"metaUuid":"510a15f3-0362-cd7f-c9a9-b579760cbaaf"},
 {"nexusFileName":"Way of Steel - All-in-One Compatibility Patch","nexusFileVersion":"1.0.0.3","nexusFileUploadedAt":1786308754,"pakFileName":"SomanyrobotsWayOfSteelAIOAddon_6911a9af-3196-0c56-2cc5-3379645f14f9.pak","nexusFileId":127721,"metaUuid":null}
 ]},
@@ -55049,6 +55056,10 @@
 {"nexusFileName":"Ring of Graz'zt for Korean","nexusFileVersion":"1.9.2","nexusFileUploadedAt":1764956600,"pakFileName":"GrazztRing_kr.pak","nexusFileId":108935,"metaUuid":"2c2a1d74-cd75-4bd3-94e0-2bb296ea22b8"}
 ]},
 "19772":{"nexusModName":"Real Men Nipples","nexusUploadedBy":"VinTheMan","nexusModId":19772,"paks":[
+{"nexusFileName":"RealMenNipples_HalfOrcEdits","nexusFileVersion":"1.0.0.15","nexusFileUploadedAt":1773520297,"pakFileName":"RealMenNipples_HalfOrcEdits.pak","nexusFileId":116747,"metaUuid":null},
+{"nexusFileName":"RealMenNipples Twunk_on_Tav_Only","nexusFileVersion":"1.0.0.15","nexusFileUploadedAt":1774064822,"pakFileName":"RealMenNipples_TwunkTavPRCSet.pak","nexusFileId":117168,"metaUuid":null},
+{"nexusFileName":"RealMenNipples - Twunk Tav Patch","nexusFileVersion":"1.0.0.15","nexusFileUploadedAt":1774065739,"pakFileName":"RealMenNipples_TwunkTavPatch.pak","nexusFileId":117169,"metaUuid":null},
+{"nexusFileName":"RealMenNipples - Twunk Tav with KAVT Patch","nexusFileVersion":"1.0.0.15","nexusFileUploadedAt":1774065793,"pakFileName":"RealMenNipples_TwunkTavKAVTPatch.pak","nexusFileId":117170,"metaUuid":null},
 {"nexusFileName":"RealMenNipples_KAVTPatch","nexusFileVersion":"1.0.0.16","nexusFileUploadedAt":1785887981,"pakFileName":"RealMenNipples_KAVTPatch.pak","nexusFileId":127341,"metaUuid":"59c45e89-8d6f-4ce4-a604-1b912faa3162"},
 {"nexusFileName":"RealMenNipples","nexusFileVersion":"1.0.0.18","nexusFileUploadedAt":1786156697,"pakFileName":"RealMenNipples_468109b2-3953-6992-4a3f-a5cabd587705.pak","nexusFileId":127541,"metaUuid":"468109b2-3953-6992-4a3f-a5cabd587705"},
 {"nexusFileName":"RealMenNipples HimboPRCSet","nexusFileVersion":"1.0.0.13","nexusFileUploadedAt":1786291421,"pakFileName":"RealMenNipples_HimboPRCSet.pak","nexusFileId":127704,"metaUuid":null},
@@ -61521,6 +61532,7 @@
 {"nexusFileName":"Lucky Clover Domain Cleric_KOR","nexusFileVersion":"1.0","nexusFileUploadedAt":1772977842,"pakFileName":"LuckyCloverDomainCleric_KOR_a87e08e3-6eb4-02d7-9874-84e41bacc42f.pak","nexusFileId":116324,"metaUuid":null}
 ]},
 "21803":{"nexusModName":"Mr. Icarus - Deus Ex Jensen's Outfits and Prosthetics Body Replacer","nexusUploadedBy":"Lynstence","nexusModId":21803,"paks":[
+{"nexusFileName":"DXMDJensenOutfits_DyeBase","nexusFileVersion":"1.0.1","nexusFileUploadedAt":1773426429,"pakFileName":"DXMDJensenOutfits_DyeBase.pak","nexusFileId":116682,"metaUuid":null},
 {"nexusFileName":"DXMDJensenProsthetics","nexusFileVersion":"1.0.2","nexusFileUploadedAt":1773803573,"pakFileName":"DXMDJensenProsthetics.pak","nexusFileId":116931,"metaUuid":"062aebbb-831c-4efb-a743-b409cc903ab5"},
 {"nexusFileName":"DXMDJensenOutfits","nexusFileVersion":"1.1.0","nexusFileUploadedAt":1783094503,"pakFileName":"DXMDJensenOutfits.pak","nexusFileId":124780,"metaUuid":"f52fb5d9-8a30-4be9-854b-e9ab9539c15c"}
 ]},
@@ -66234,7 +66246,7 @@
 "23613":{"nexusModName":"STAV - Snailzx Tattoos And VTs","nexusUploadedBy":"EvilSnail0fDestruktion","nexusModId":23613,"paks":[
 {"nexusFileName":"STAV - VT","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1783989645,"pakFileName":"STAV [VT].pak","nexusFileId":125589,"metaUuid":"fc77b87d-2714-4545-99f4-db8042760e8d"},
 {"nexusFileName":"STAV - Race Patches","nexusFileVersion":"1.1.2","nexusFileUploadedAt":1784771880,"pakFileName":"STAV [Race Patches].pak","nexusFileId":126265,"metaUuid":"e36fb585-65cd-43a2-a44e-a5040134ee01"},
-{"nexusFileName":"STAV","nexusFileVersion":"1.2.2","nexusFileUploadedAt":1786215668,"pakFileName":"STAV.pak","nexusFileId":127627,"metaUuid":"2b9e05c8-d15a-3ac2-7237-6aa263f1dceb"}
+{"nexusFileName":"STAV","nexusFileVersion":"1.2.3","nexusFileUploadedAt":1786392096,"pakFileName":"STAV.pak","nexusFileId":127790,"metaUuid":"2b9e05c8-d15a-3ac2-7237-6aa263f1dceb"}
 ]},
 "23614":{"nexusModName":"WotD Aasimar Traduzione ITA","nexusUploadedBy":"EveeLaverne","nexusModId":23614,"paks":[
 {"nexusFileName":"WotD Aasimar ITA","nexusFileVersion":"1.0.1.0","nexusFileUploadedAt":1786287296,"pakFileName":"WotD-Aasimar ITA.pak","nexusFileId":127698,"metaUuid":null}
@@ -68066,4 +68078,10 @@
 "24363":{"nexusModName":"Automatic Great Weapon Master and Sharpshooter","nexusUploadedBy":"migeandend","nexusModId":24363,"paks":[
 {"nexusFileName":"AutoGWM Original","nexusFileVersion":"1","nexusFileUploadedAt":1786380506,"pakFileName":"AutoGWM_223d31a4-11b6-19c3-0bee-a8a84f80c126.pak","nexusFileId":127778,"metaUuid":null},
 {"nexusFileName":"AutoGWM SharpshooterRequiresEmptyOffhand","nexusFileVersion":"1","nexusFileUploadedAt":1786380531,"pakFileName":"AutoGWM_223d31a4-11b6-19c3-0bee-a8a84f80c126.pak","nexusFileId":127779,"metaUuid":null}
+]},
+"24365":{"nexusModName":"Name Your Summons","nexusUploadedBy":"whmedev","nexusModId":24365,"paks":[
+{"nexusFileName":"NameYourSummons 1.0.0","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1786393334,"pakFileName":"NameYourSummons-1.0.0.pak","nexusFileId":127791,"metaUuid":null}
+]},
+"24366":{"nexusModName":"Dread Knight Flail","nexusUploadedBy":"SaberDelta","nexusModId":24366,"paks":[
+{"nexusFileName":"Dread Knight Flail","nexusFileVersion":"1","nexusFileUploadedAt":1786390394,"pakFileName":"Dread_Knight_Flail.pak","nexusFileId":127789,"metaUuid":null}
 ]}}
