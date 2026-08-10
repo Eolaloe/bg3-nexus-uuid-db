@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-08-10T08:52:49.047071+00:00","total_mods":17223},
+{"_meta":{"last_run":"2026-08-10T09:52:21.072761+00:00","total_mods":17225},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -63361,7 +63361,7 @@
 {"nexusFileName":"Fatebond","nexusFileVersion":"1.4","nexusFileUploadedAt":1784576306,"pakFileName":"Fatebond.pak","nexusFileId":126087,"metaUuid":"6cfead1f-d54c-4dfb-bc94-05e9fc1e2970"}
 ]},
 "22459":{"nexusModName":"DnD 5.5e All-in-One BEYOND Russian Localization","nexusUploadedBy":"XapcT","nexusModId":22459,"paks":[
-{"nexusFileName":"DnD 5.5e AIO Russian v0.4.24.zip","nexusFileVersion":"0.4.24","nexusFileUploadedAt":1786326437,"pakFileName":"DnD 5.5e AIO Russian.pak","nexusFileId":127736,"metaUuid":null}
+{"nexusFileName":"DnD 5.5e AIO Russian v0.4.25.zip","nexusFileVersion":"0.4.25","nexusFileUploadedAt":1786352541,"pakFileName":"DnD 5.5e AIO Russian.pak","nexusFileId":127754,"metaUuid":null}
 ]},
 "22460":{"nexusModName":"Elementally Based Gear","nexusUploadedBy":"Useyourrifle","nexusModId":22460,"paks":[
 {"nexusFileName":"Elemental_Gear.7z","nexusFileVersion":"1","nexusFileUploadedAt":1776346340,"pakFileName":"OP_Bow_56032304-f037-e077-f5e7-045d2e03ef1c.pak","nexusFileId":119147,"metaUuid":"56032304-f037-e077-f5e7-045d2e03ef1c"}
@@ -68046,6 +68046,9 @@
 "24353":{"nexusModName":"Elfsong Ladies Head Pack","nexusUploadedBy":"manuliparoni","nexusModId":24353,"paks":[
 {"nexusFileName":"Elfsong Ladies Head Pack","nexusFileVersion":"1","nexusFileUploadedAt":1786318073,"pakFileName":"Elfsong_Ladies_Head_Pack.pak","nexusFileId":127729,"metaUuid":null}
 ]},
+"24354":{"nexusModName":"Mythic Dice for Homebrew - Comprehensive Reworks","nexusUploadedBy":"EstherPiscore","nexusModId":24354,"paks":[
+{"nexusFileName":"MythicDiceV1","nexusFileVersion":"1.0","nexusFileUploadedAt":1786354791,"pakFileName":"MythicDiceV1.pak","nexusFileId":127756,"metaUuid":null}
+]},
 "24356":{"nexusModName":"Hag's Spelltome","nexusUploadedBy":"Malgera","nexusModId":24356,"paks":[
 {"nexusFileName":"SpellTome","nexusFileVersion":"1","nexusFileUploadedAt":1786339844,"pakFileName":"SpellTome.pak","nexusFileId":127747,"metaUuid":"d3b7799a-744b-68bf-5250-639dc43dc739"}
 ]},
@@ -68054,4 +68057,7 @@
 ]},
 "24361":{"nexusModName":"Niveaux 13-20 de Charis traduit FR par Crestfall","nexusUploadedBy":"CrestfaII","nexusModId":24361,"paks":[
 {"nexusFileName":"UnlockLevelCurveFR","nexusFileVersion":"2.0.0.27","nexusFileUploadedAt":1786350336,"pakFileName":"UnlockLevelCurve_FR_400038c7-7e8c-4cde-81db-a82af76ceca7.pak","nexusFileId":127752,"metaUuid":null}
+]},
+"24362":{"nexusModName":"Skeletor's Havoc Staff","nexusUploadedBy":"SHanson70","nexusModId":24362,"paks":[
+{"nexusFileName":"Skeletor's Havoc Staff","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1786352871,"pakFileName":"HavocStaff.pak","nexusFileId":127755,"metaUuid":null}
 ]}}
