@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-08-10T17:52:32.583903+00:00","total_mods":17229},
+{"_meta":{"last_run":"2026-08-10T18:52:36.802959+00:00","total_mods":17229},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -40449,7 +40449,8 @@
 ]},
 "14364":{"nexusModName":"Lighty Lights and Photo Mode stuff","nexusUploadedBy":"rakor","nexusModId":14364,"paks":[
 {"nexusFileName":"PushingPpose","nexusFileVersion":"daniela","nexusFileUploadedAt":1776178849,"pakFileName":"pushingPpose.pak","nexusFileId":118961,"metaUuid":null},
-{"nexusFileName":"Lighty Lights","nexusFileVersion":"1.9.1","nexusFileUploadedAt":1779037233,"pakFileName":"LighterLightyLights_6aa50183-bce4-576e-749f-3a2c60233b09.pak","nexusFileId":121467,"metaUuid":"6aa50183-bce4-576e-749f-3a2c60233b09"}
+{"nexusFileName":"Lighty Lights","nexusFileVersion":"1.9.6","nexusFileUploadedAt":1786384547,"pakFileName":"LighterLightyLights_6aa50183-bce4-576e-749f-3a2c60233b09.pak","nexusFileId":127781,"metaUuid":"6aa50183-bce4-576e-749f-3a2c60233b09"},
+{"nexusFileName":"Gobos and garbage","nexusFileVersion":"4.1.14.9","nexusFileUploadedAt":1786384720,"pakFileName":"LightyLights_Gobos.pak","nexusFileId":127783,"metaUuid":null}
 ]},
 "14365":{"nexusModName":"Deepspace Collection - vol. 1","nexusUploadedBy":"OneEyeAskew","nexusModId":14365,"paks":[
 {"nexusFileName":"Deepspace Collection - vol. 1","nexusFileVersion":"1.0.1","nexusFileUploadedAt":1735068058,"pakFileName":"LaDsv1.pak","nexusFileId":82678,"metaUuid":"215234f9-bc28-44a1-b2dc-fce03181a9ec"}
@@ -49373,7 +49374,7 @@
 {"nexusFileName":"Menswear of Menzoberranzan","nexusFileVersion":"1.0.0.23","nexusFileUploadedAt":1755385674,"pakFileName":"MenzoMenswear_502d7d99-65d0-b384-5aac-b5beb421065b.pak","nexusFileId":100798,"metaUuid":"502d7d99-65d0-b384-5aac-b5beb421065b"}
 ]},
 "17737":{"nexusModName":"Quick Small Animation Thingy (QSAT)","nexusUploadedBy":"rakor","nexusModId":17737,"paks":[
-{"nexusFileName":"QSAT","nexusFileVersion":"1.3.1.1","nexusFileUploadedAt":1768803499,"pakFileName":"QuickSmallAnimationThingy_0af8a272-88aa-c345-e4f6-8b60194c76e5.pak","nexusFileId":112566,"metaUuid":"0af8a272-88aa-c345-e4f6-8b60194c76e5"}
+{"nexusFileName":"QSAT","nexusFileVersion":"2.1.0","nexusFileUploadedAt":1786384962,"pakFileName":"QuickSmallAnimationThingy_0af8a272-88aa-c345-e4f6-8b60194c76e5.pak","nexusFileId":127784,"metaUuid":"0af8a272-88aa-c345-e4f6-8b60194c76e5"}
 ]},
 "17738":{"nexusModName":"Magnetic Prosthetics - Custom Bodytypes","nexusUploadedBy":"magnetuning","nexusModId":17738,"paks":[
 {"nexusFileName":"Magnetic Prosthetics - KAVT UTAV Patch","nexusFileVersion":"1.1.0.0","nexusFileUploadedAt":1753336466,"pakFileName":"MGNTN_Prosthetics_KAVT_UTAV_Patch.pak","nexusFileId":98861,"metaUuid":null},
@@ -55062,7 +55063,8 @@
 {"nexusFileName":"RealMenNipples_KAVTPatch","nexusFileVersion":"1.0.0.16","nexusFileUploadedAt":1785887981,"pakFileName":"RealMenNipples_KAVTPatch.pak","nexusFileId":127341,"metaUuid":"59c45e89-8d6f-4ce4-a604-1b912faa3162"},
 {"nexusFileName":"RealMenNipples","nexusFileVersion":"1.0.0.18","nexusFileUploadedAt":1786156697,"pakFileName":"RealMenNipples_468109b2-3953-6992-4a3f-a5cabd587705.pak","nexusFileId":127541,"metaUuid":"468109b2-3953-6992-4a3f-a5cabd587705"},
 {"nexusFileName":"RealMenNipples HimboPRCSet","nexusFileVersion":"1.0.0.13","nexusFileUploadedAt":1786291421,"pakFileName":"RealMenNipples_HimboPRCSet.pak","nexusFileId":127704,"metaUuid":null},
-{"nexusFileName":"RealMenNipples HimboAstarionPRCSet","nexusFileVersion":"1.0.0.13","nexusFileUploadedAt":1786307749,"pakFileName":"RealMenNipples_HimboAstarionPRCSet.pak","nexusFileId":127720,"metaUuid":null}
+{"nexusFileName":"RealMenNipples HimboAstarionPRCSet","nexusFileVersion":"1.0.0.13","nexusFileUploadedAt":1786307749,"pakFileName":"RealMenNipples_HimboAstarionPRCSet.pak","nexusFileId":127720,"metaUuid":null},
+{"nexusFileName":"RealMenNipples HimboGalePRCSet","nexusFileVersion":"1.0.0.13","nexusFileUploadedAt":1786387669,"pakFileName":"RealMenNipples_HimboGalePRCSet.pak","nexusFileId":127788,"metaUuid":null}
 ]},
 "19774":{"nexusModName":"Viconia DeVir Redone - The Harbinger of Darkness","nexusUploadedBy":"PoisonValentineXIII","nexusModId":19774,"paks":[
 {"nexusFileName":"Viconia DeVir Redone - The Harbinger of Darkness","nexusFileVersion":"1.0.0.2","nexusFileUploadedAt":1763861019,"pakFileName":"ViconiaDeVirRedone_3f8f4aa8-4793-2ab4-10d5-747c9070f315.pak","nexusFileId":107947,"metaUuid":"3f8f4aa8-4793-2ab4-10d5-747c9070f315"},
@@ -67720,7 +67722,7 @@
 {"nexusFileName":"ADOS RUS","nexusFileVersion":"1.1","nexusFileUploadedAt":1785583597,"pakFileName":"ADOS_RUS.pak","nexusFileId":127033,"metaUuid":null}
 ]},
 "24191":{"nexusModName":"Requiem for the Absolute - Dynamic Encounters","nexusUploadedBy":"luiznunes","nexusModId":24191,"paks":[
-{"nexusFileName":"Requiem For The Absolute","nexusFileVersion":"3.1.0.32","nexusFileUploadedAt":1786257213,"pakFileName":"Requiem_for_the_Absolute_f1f6fbec-f087-c70f-a28f-4437385f3433.pak","nexusFileId":127666,"metaUuid":"f1f6fbec-f087-c70f-a28f-4437385f3433"}
+{"nexusFileName":"Requiem For The Absolute","nexusFileVersion":"3.1.1.38","nexusFileUploadedAt":1786385173,"pakFileName":"Requiem_for_the_Absolute_f1f6fbec-f087-c70f-a28f-4437385f3433.pak","nexusFileId":127785,"metaUuid":"f1f6fbec-f087-c70f-a28f-4437385f3433"}
 ]},
 "24195":{"nexusModName":"The Dark Fey Labyrinth - A Playable Map (WIP)","nexusUploadedBy":"SultryShea","nexusModId":24195,"paks":[
 {"nexusFileName":"The Dark Fey Labyrinth","nexusFileVersion":"2","nexusFileUploadedAt":1785543599,"pakFileName":"FeyLabyrinth_3d3bfda8-acf0-20ec-83e9-52b6f90146d4.pak","nexusFileId":126990,"metaUuid":null}
@@ -67871,7 +67873,7 @@
 {"nexusFileName":"Rel Full Ancient C6c0d2bd 6198 3gan","nexusFileVersion":"1","nexusFileUploadedAt":1785854853,"pakFileName":"rel_full_ancient_c6c0d2bd-6198-3gan.pak","nexusFileId":127304,"metaUuid":"c6c0d2bd-6198-de9e-30ad-e8cda1793025"}
 ]},
 "24269":{"nexusModName":"Edited AnimationBlueprint for Dani Mode","nexusUploadedBy":"rakor","nexusModId":24269,"paks":[
-{"nexusFileName":"Edited Animation Blueprint For Dani Mode","nexusFileVersion":"Daniela.2","nexusFileUploadedAt":1786384084,"pakFileName":"EditedAnimationBlueprintForDaniMode_db9e1f89-64f0-3288-0437-89932ee25e93.pak","nexusFileId":127780,"metaUuid":null}
+{"nexusFileName":"Edited Animation Blueprint For Dani Mode","nexusFileVersion":"6.6.6.Daniela.2","nexusFileUploadedAt":1786384084,"pakFileName":"EditedAnimationBlueprintForDaniMode_db9e1f89-64f0-3288-0437-89932ee25e93.pak","nexusFileId":127780,"metaUuid":null}
 ]},
 "24271":{"nexusModName":"5e Monk Subclasses Combined - PTBR (2026)","nexusUploadedBy":"BarovZx","nexusModId":24271,"paks":[
 {"nexusFileName":"Monk Subclasses 5e Combined PTBR","nexusFileVersion":"08.02.2026","nexusFileUploadedAt":1785864475,"pakFileName":"Monk Subclasses 5e Combined PTBR.pak","nexusFileId":127316,"metaUuid":null}
@@ -68030,10 +68032,11 @@
 {"nexusFileName":"BlackHole","nexusFileVersion":"3","nexusFileUploadedAt":1786225945,"pakFileName":"BlackHole_97416633-bffd-557e-0b36-38476a50b2ff.pak","nexusFileId":127645,"metaUuid":"97416633-bffd-557e-0b36-38476a50b2ff"}
 ]},
 "24339":{"nexusModName":"Me and My Pals - Selective Combat And Story Party","nexusUploadedBy":"FerionLegacy","nexusModId":24339,"paks":[
-{"nexusFileName":"MeAndMyPals V1.0.0","nexusFileVersion":"1","nexusFileUploadedAt":1786237909,"pakFileName":"MeAndMyPals_v1.0.0.pak","nexusFileId":127656,"metaUuid":null}
+{"nexusFileName":"MeAndMyPals V1.0.0","nexusFileVersion":"1","nexusFileUploadedAt":1786237909,"pakFileName":"MeAndMyPals_v1.0.0.pak","nexusFileId":127656,"metaUuid":null},
+{"nexusFileName":"MeAndMyPals V1.1.1","nexusFileVersion":"1","nexusFileUploadedAt":1786386454,"pakFileName":"MeAndMyPals V1.1.1.pak","nexusFileId":127787,"metaUuid":null}
 ]},
 "24342":{"nexusModName":"Native Mod Configuration Menu","nexusUploadedBy":"luiznunes","nexusModId":24342,"paks":[
-{"nexusFileName":"Native Mod Configuration Menu - NMCM","nexusFileVersion":"1.1.2.14","nexusFileUploadedAt":1786256348,"pakFileName":"NMCM_ca8bfe06-88ec-a4e7-b49e-44eb5658f434.pak","nexusFileId":127665,"metaUuid":"ca8bfe06-88ec-a4e7-b49e-44eb5658f434"}
+{"nexusFileName":"Native Mod Configuration Menu - NMCM","nexusFileVersion":"1.1.2.18","nexusFileUploadedAt":1786385325,"pakFileName":"NMCM_ca8bfe06-88ec-a4e7-b49e-44eb5658f434.pak","nexusFileId":127786,"metaUuid":"ca8bfe06-88ec-a4e7-b49e-44eb5658f434"}
 ]},
 "24344":{"nexusModName":"ON THE TABLE POSE PACK (BT1xBT2) by badgrlsblog","nexusUploadedBy":"badgrlsblog","nexusModId":24344,"paks":[
 {"nexusFileName":"bgb On The Table Pose Pack ","nexusFileVersion":"1","nexusFileUploadedAt":1786276373,"pakFileName":"on_the_table_pose_pack_6be6e620-c7d1-ecac-f922-841969f33feb.pak","nexusFileId":127676,"metaUuid":null}
