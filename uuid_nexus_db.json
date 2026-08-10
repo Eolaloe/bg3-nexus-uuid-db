@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-08-10T01:52:14.703162+00:00","total_mods":17219},
+{"_meta":{"last_run":"2026-08-10T02:51:40.644410+00:00","total_mods":17220},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -66849,7 +66849,7 @@
 {"nexusFileName":"Main file","nexusFileVersion":"1","nexusFileUploadedAt":1784069598,"pakFileName":"gortflash_80d47f66-036b-e1a5-b3d8-44b178f6a0f7.pak","nexusFileId":125658,"metaUuid":"80d47f66-036b-e1a5-b3d8-44b178f6a0f7"}
 ]},
 "23848":{"nexusModName":"Transmuted Spell - a Metamagic for Every Element","nexusUploadedBy":"JThug","nexusModId":23848,"paks":[
-{"nexusFileName":"TransmutedMagic Nexus Extended V1.3.7","nexusFileVersion":"1.3.7","nexusFileUploadedAt":1786304505,"pakFileName":"StarkMeiProbe.pak","nexusFileId":127717,"metaUuid":"237c3b40-47b7-5b29-bf12-a098e35c6aac"},
+{"nexusFileName":"TransmutedMagic Nexus Extended V1.3.7","nexusFileVersion":"1.3.7","nexusFileUploadedAt":1786304505,"pakFileName":"StarkMeiProbe.pak","nexusFileId":127717,"metaUuid":"3aef6cce-fc3a-583c-beb1-19f52c1435e1"},
 {"nexusFileName":"TransmutedMagic Nexus Extended V1.3.7","nexusFileVersion":"1.3.7","nexusFileUploadedAt":1786304505,"pakFileName":"TransmutedMagic.pak","nexusFileId":127717,"metaUuid":"237c3b40-47b7-5b29-bf12-a098e35c6aac"},
 {"nexusFileName":"TransmutedSpell Nexus V1.3.7","nexusFileVersion":"1.3.7","nexusFileUploadedAt":1786304773,"pakFileName":"StarkMeiProbe.pak","nexusFileId":127718,"metaUuid":"3aef6cce-fc3a-583c-beb1-19f52c1435e1"},
 {"nexusFileName":"TransmutedSpell Nexus V1.3.7","nexusFileVersion":"1.3.7","nexusFileUploadedAt":1786304773,"pakFileName":"TransmutedSpell.pak","nexusFileId":127718,"metaUuid":"3aef6cce-fc3a-583c-beb1-19f52c1435e1"}
@@ -67654,6 +67654,10 @@
 "24157":{"nexusModName":"Rogue (Classic Undivided Rogue Restoration)","nexusUploadedBy":"FortisEstVeritas","nexusModId":24157,"paks":[
 {"nexusFileName":"Rogue","nexusFileVersion":"1.0","nexusFileUploadedAt":1785687850,"pakFileName":"Rogue.pak","nexusFileId":127141,"metaUuid":null}
 ]},
+"24159":{"nexusModName":"STAV-UTAV Body Patcher","nexusUploadedBy":"EvilSnail0fDestruktion","nexusModId":24159,"paks":[
+{"nexusFileName":"STAV UTAV EOTB Patch","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1786327952,"pakFileName":"STAV-UTAVEOTBPatch.pak","nexusFileId":127739,"metaUuid":null},
+{"nexusFileName":"STAV UTAV Patch","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1786327963,"pakFileName":"STAV-UTAVPatch.pak","nexusFileId":127740,"metaUuid":null}
+]},
 "24162":{"nexusModName":"Vaelor and Aria","nexusUploadedBy":"Lunomi","nexusModId":24162,"paks":[
 {"nexusFileName":"Vaelor And Aria","nexusFileVersion":"1","nexusFileUploadedAt":1785511676,"pakFileName":"Vaelor & Aria.pak","nexusFileId":126921,"metaUuid":"1adc08f3-8d92-fd50-3a69-b8aaf5f57157"},
 {"nexusFileName":"Vaelor And Aria   UTAV","nexusFileVersion":"1","nexusFileUploadedAt":1785511886,"pakFileName":"Vaelor & Aria - UTAV.pak","nexusFileId":126923,"metaUuid":"1adc08f3-8d92-fd50-3a69-b8aaf5f57157"},
@@ -67733,7 +67737,7 @@
 {"nexusFileName":"Ultimate Shields (PT-BR)","nexusFileVersion":"1.0","nexusFileUploadedAt":1785556513,"pakFileName":"Ultimate Shields (PT-BR).pak","nexusFileId":127004,"metaUuid":null}
 ]},
 "24205":{"nexusModName":"Better Shields (PT-BR)","nexusUploadedBy":"Firetoga","nexusModId":24205,"paks":[
-{"nexusFileName":"BetterShields (PT-BR)","nexusFileVersion":"1.1","nexusFileUploadedAt":1785558723,"pakFileName":"BetterShields (Tradução PT-BR).pak","nexusFileId":127005,"metaUuid":null}
+{"nexusFileName":"BetterShields (PT-BR)","nexusFileVersion":"1.1.1","nexusFileUploadedAt":1786327266,"pakFileName":"BetterShields (Tradução PT-BR).pak","nexusFileId":127738,"metaUuid":null}
 ]},
 "24206":{"nexusModName":"Captain America's Shield (PT-BR)","nexusUploadedBy":"Firetoga","nexusModId":24206,"paks":[
 {"nexusFileName":"Captain America's Shield (PT-BR)","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1785560141,"pakFileName":"BeetusCaptainAmerica_BR.pak","nexusFileId":127007,"metaUuid":null}
