@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-08-10T07:52:22.263094+00:00","total_mods":17222},
+{"_meta":{"last_run":"2026-08-10T08:52:49.047071+00:00","total_mods":17223},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -36010,7 +36010,7 @@
 ]},
 "12727":{"nexusModName":"DnD 5.5e All-in-One BEYOND","nexusUploadedBy":"yoonmoonsik43","nexusModId":12727,"paks":[
 {"nexusFileName":"dnd2024 - V3 Legacy","nexusFileVersion":"3.4.6.4","nexusFileUploadedAt":1771945305,"pakFileName":"DnD2024_897914ef-5c96-053c-44af-0be823f895fe.pak","nexusFileId":115523,"metaUuid":"897914ef-5c96-053c-44af-0be823f895fe"},
-{"nexusFileName":"DnD 5.5e All-in-One BEYOND","nexusFileVersion":"4.11.22.6","nexusFileUploadedAt":1786336010,"pakFileName":"DnD2024_897914ef-5c96-053c-44af-0be823f895fe.pak","nexusFileId":127744,"metaUuid":"897914ef-5c96-053c-44af-0be823f895fe"}
+{"nexusFileName":"DnD 5.5e All-in-One BEYOND","nexusFileVersion":"4.11.22.7","nexusFileUploadedAt":1786351491,"pakFileName":"DnD2024_897914ef-5c96-053c-44af-0be823f895fe.pak","nexusFileId":127753,"metaUuid":"897914ef-5c96-053c-44af-0be823f895fe"}
 ]},
 "12728":{"nexusModName":"Origin-Themed Headwear KR","nexusUploadedBy":"Soorawang","nexusModId":12728,"paks":[
 {"nexusFileName":"Origin-Themed Headwear KR","nexusFileVersion":"1.0","nexusFileUploadedAt":1727930331,"pakFileName":"OriginHeadwear_kr.pak","nexusFileId":73692,"metaUuid":null}
@@ -62505,7 +62505,7 @@
 {"nexusFileName":"Silent Sword grinding","nexusFileVersion":"1.0","nexusFileUploadedAt":1774674002,"pakFileName":"LaezelSilentSwordGrinding.pak","nexusFileId":117609,"metaUuid":"55200deb-0b1a-48a1-9956-aafb5db5738f"}
 ]},
 "22155":{"nexusModName":"Pouch of Dyes","nexusUploadedBy":"NecroticFlame","nexusModId":22155,"paks":[
-{"nexusFileName":"Pouch of Dyes","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1774682960,"pakFileName":"StartWithAllDyes_a43bad49-76f0-7c4c-5688-e517a1e2f49a.pak","nexusFileId":117614,"metaUuid":"a43bad49-76f0-7c4c-5688-e517a1e2f49a"}
+{"nexusFileName":"Pouch of Dyes","nexusFileVersion":"1.1.0","nexusFileUploadedAt":1786350197,"pakFileName":"StartWithAllDyes_a43bad49-76f0-7c4c-5688-e517a1e2f49a.pak","nexusFileId":127751,"metaUuid":"a43bad49-76f0-7c4c-5688-e517a1e2f49a"}
 ]},
 "22156":{"nexusModName":"Nightwarden Minthara","nexusUploadedBy":"Nzx","nexusModId":22156,"paks":[
 {"nexusFileName":"NightwardenMinthara - VSO","nexusFileVersion":"1.2.1","nexusFileUploadedAt":1781637085,"pakFileName":"NightwardenMinthara[VSO].pak","nexusFileId":123722,"metaUuid":null},
@@ -62876,7 +62876,7 @@
 {"nexusFileName":"SazzaEvolved","nexusFileVersion":"1.1.1.0","nexusFileUploadedAt":1786249969,"pakFileName":"SazzaEvolved_67933c1b-4a1c-8c30-74c7-03638ceb5d65.pak","nexusFileId":127660,"metaUuid":"67933c1b-4a1c-8c30-74c7-03638ceb5d65"}
 ]},
 "22288":{"nexusModName":"Sazza Evolved_KOR","nexusUploadedBy":"Ahdarugo","nexusModId":22288,"paks":[
-{"nexusFileName":"Sazza Evolved_KOR","nexusFileVersion":"1.0.0.4","nexusFileUploadedAt":1779768361,"pakFileName":"SazzaEvolved_KOR_ae4bbd65-4e5e-fde5-e21b-1a38b60c1df2.pak","nexusFileId":122168,"metaUuid":null}
+{"nexusFileName":"Sazza Evolved_KOR","nexusFileVersion":"1.0.0.5","nexusFileUploadedAt":1786349969,"pakFileName":"SazzaEvolved_KOR_ae4bbd65-4e5e-fde5-e21b-1a38b60c1df2.pak","nexusFileId":127750,"metaUuid":null}
 ]},
 "22289":{"nexusModName":"Safe Travel - Add New Levels to Vanilla","nexusUploadedBy":"ForKiramay","nexusModId":22289,"paks":[
 {"nexusFileName":"SafeTravel","nexusFileVersion":"1.0.0.1","nexusFileUploadedAt":1775319128,"pakFileName":"SafeTravel_599b7ee9-2785-8e63-5aa0-9574aa8cb82a.pak","nexusFileId":118119,"metaUuid":"599b7ee9-2785-8e63-5aa0-9574aa8cb82a"}
@@ -68051,4 +68051,7 @@
 ]},
 "24360":{"nexusModName":"Divinity - Paths to Ascension (PT-BR)","nexusUploadedBy":"Firetoga","nexusModId":24360,"paks":[
 {"nexusFileName":"Divinity (PT-BR)","nexusFileVersion":"1.0.0.350","nexusFileUploadedAt":1786341865,"pakFileName":"Divinity (Tradução PT-BR).pak","nexusFileId":127748,"metaUuid":null}
+]},
+"24361":{"nexusModName":"Niveaux 13-20 de Charis traduit FR par Crestfall","nexusUploadedBy":"CrestfaII","nexusModId":24361,"paks":[
+{"nexusFileName":"UnlockLevelCurveFR","nexusFileVersion":"2.0.0.27","nexusFileUploadedAt":1786350336,"pakFileName":"UnlockLevelCurve_FR_400038c7-7e8c-4cde-81db-a82af76ceca7.pak","nexusFileId":127752,"metaUuid":null}
 ]}}
