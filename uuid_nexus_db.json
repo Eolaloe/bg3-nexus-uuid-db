@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-08-10T15:52:13.961112+00:00","total_mods":17226},
+{"_meta":{"last_run":"2026-08-10T16:52:19.646928+00:00","total_mods":17228},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -67224,12 +67224,13 @@
 {"nexusFileName":"EPI Replacer MoonPearl non-AIO","nexusFileVersion":"1","nexusFileUploadedAt":1785092722,"pakFileName":"TavEpilogueGearReplacer_MoonPearl_single.pak","nexusFileId":126552,"metaUuid":null},
 {"nexusFileName":"EPI Replacer MoonPearl Shoes non-AIO","nexusFileVersion":"1","nexusFileUploadedAt":1785092743,"pakFileName":"TavEpilogueGearReplacer_MoonPearl_shoes_single.pak","nexusFileId":126553,"metaUuid":null}
 ]},
-"23992":{"nexusModName":"Body and Clothing Morphs for SBBF and BCB (by SerpentineShel) v. 1.2","nexusUploadedBy":"SerpentineShel","nexusModId":23992,"paks":[
-{"nexusFileName":"BodyAndClothingMorph V1.2 BCB Addon","nexusFileVersion":"1.2","nexusFileUploadedAt":1785293502,"pakFileName":"ClothMorphBCB.pak","nexusFileId":126718,"metaUuid":"78f1571f-ffb5-5646-8a5b-63aac7ce2ecd"},
-{"nexusFileName":"BodyAndClothingMorph V1.2 SCO Addon","nexusFileVersion":"1.2","nexusFileUploadedAt":1785293633,"pakFileName":"ClothMorphSCO.pak","nexusFileId":126720,"metaUuid":"0d73fe2f-49ae-528e-9a9b-160e7f124afc"},
-{"nexusFileName":"BodyAndClothingMorph V1.2.2 UPDATED INCL GITHYANKI","nexusFileVersion":"1.2.2","nexusFileUploadedAt":1785424714,"pakFileName":"ClothMorphGithyanki.pak","nexusFileId":126839,"metaUuid":"f268e48d-1718-5489-a6f7-a55c5e2bf264"},
-{"nexusFileName":"BodyAndClothingMorph V1.2.2 UPDATED INCL GITHYANKI","nexusFileVersion":"1.2.2","nexusFileUploadedAt":1785424714,"pakFileName":"ClothMorphRuntime.pak","nexusFileId":126839,"metaUuid":"f268e48d-1718-5489-a6f7-a55c5e2bf264"},
-{"nexusFileName":"ClothMorphContent V. 1.2.2","nexusFileVersion":"1.2.2","nexusFileUploadedAt":1785425321,"pakFileName":"ClothMorphContent.pak","nexusFileId":126840,"metaUuid":"af8a21a0-2612-540f-9819-39a83a2af0f0"}
+"23992":{"nexusModName":"Body and Clothing Morphs for SBBF and BCB (by SerpentineShel) v. 1.3","nexusUploadedBy":"SerpentineShel","nexusModId":23992,"paks":[
+{"nexusFileName":"BodyAndClothingMorph V1.3 AIO","nexusFileVersion":"1.3","nexusFileUploadedAt":1786379325,"pakFileName":"ClothMorphBCB.pak","nexusFileId":127774,"metaUuid":"78f1571f-ffb5-5646-8a5b-63aac7ce2ecd"},
+{"nexusFileName":"BodyAndClothingMorph V1.3 AIO","nexusFileVersion":"1.3","nexusFileUploadedAt":1786379325,"pakFileName":"ClothMorphRuntime.pak","nexusFileId":127774,"metaUuid":"f268e48d-1718-5489-a6f7-a55c5e2bf264"},
+{"nexusFileName":"BodyAndClothingMorph V1.3 AIO","nexusFileVersion":"1.3","nexusFileUploadedAt":1786379325,"pakFileName":"ClothMorphSCO.pak","nexusFileId":127774,"metaUuid":"0d73fe2f-49ae-528e-9a9b-160e7f124afc"},
+{"nexusFileName":"BodyAndClothingMorph V1.3 Main","nexusFileVersion":"1.3","nexusFileUploadedAt":1786379415,"pakFileName":"ClothMorphRuntime.pak","nexusFileId":127775,"metaUuid":"f268e48d-1718-5489-a6f7-a55c5e2bf264"},
+{"nexusFileName":"BodyAndClothingMorph V1.3 SCO Addon","nexusFileVersion":"1.3","nexusFileUploadedAt":1786379490,"pakFileName":"ClothMorphSCO.pak","nexusFileId":127776,"metaUuid":"0d73fe2f-49ae-528e-9a9b-160e7f124afc"},
+{"nexusFileName":"BodyAndClothingMorph V1.3 BCB Addon","nexusFileVersion":"1.3","nexusFileUploadedAt":1786379543,"pakFileName":"ClothMorphBCB.pak","nexusFileId":127777,"metaUuid":"78f1571f-ffb5-5646-8a5b-63aac7ce2ecd"}
 ]},
 "23993":{"nexusModName":"Planescapes","nexusUploadedBy":"Terrorbyte33","nexusModId":23993,"paks":[
 {"nexusFileName":"Planescapes","nexusFileVersion":"1","nexusFileUploadedAt":1784673215,"pakFileName":"Planescapes.pak","nexusFileId":126179,"metaUuid":"a059bd02-ebc7-b895-238d-9cc93d8e5c47"}
@@ -67779,6 +67780,9 @@
 {"nexusFileName":"Empowered Metamagic","nexusFileVersion":"1","nexusFileUploadedAt":1785621323,"pakFileName":"Metamagic_Empowered_18f1ce79-094b-47c1-d039-febdf5bcde17.pak","nexusFileId":127069,"metaUuid":"18f1ce79-094b-47c1-d039-febdf5bcde17"},
 {"nexusFileName":"Chromatic Orb 5.5e 2024","nexusFileVersion":"1.3.1","nexusFileUploadedAt":1785956096,"pakFileName":"ChromaticOrb_2024_246f20e0-1d92-7236-3cda-1396f8ad89fa.pak","nexusFileId":127388,"metaUuid":"246f20e0-1d92-7236-3cda-1396f8ad89fa"}
 ]},
+"24227":{"nexusModName":"Clown Poses (Circus Poses Part 1) (Collab with MadMicky)","nexusUploadedBy":"HastursQueen","nexusModId":24227,"paks":[
+{"nexusFileName":"ClownPoses","nexusFileVersion":"1","nexusFileUploadedAt":1785878823,"pakFileName":"ClownPoses.pak","nexusFileId":127328,"metaUuid":null}
+]},
 "24229":{"nexusModName":"Sister Collection 2 - Elturel Nobles Heads","nexusUploadedBy":"tabatha","nexusModId":24229,"paks":[
 {"nexusFileName":"SisterCollection_ElturelNobles","nexusFileVersion":"1.0.0.3","nexusFileUploadedAt":1785645499,"pakFileName":"SisterCollection_ElturelNobles_382de083-56be-ffb3-8ccc-6f0322ecfea0.pak","nexusFileId":127087,"metaUuid":"382de083-56be-ffb3-8ccc-6f0322ecfea0"}
 ]},
@@ -68064,4 +68068,8 @@
 ]},
 "24362":{"nexusModName":"Skeletor's Havoc Staff","nexusUploadedBy":"SHanson70","nexusModId":24362,"paks":[
 {"nexusFileName":"Skeletor's Havoc Staff","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1786352871,"pakFileName":"HavocStaff.pak","nexusFileId":127755,"metaUuid":null}
+]},
+"24363":{"nexusModName":"Automatic Great Weapon Master and Sharpshooter","nexusUploadedBy":"migeandend","nexusModId":24363,"paks":[
+{"nexusFileName":"AutoGWM Original","nexusFileVersion":"1","nexusFileUploadedAt":1786380506,"pakFileName":"AutoGWM_223d31a4-11b6-19c3-0bee-a8a84f80c126.pak","nexusFileId":127778,"metaUuid":null},
+{"nexusFileName":"AutoGWM SharpshooterRequiresEmptyOffhand","nexusFileVersion":"1","nexusFileUploadedAt":1786380531,"pakFileName":"AutoGWM_223d31a4-11b6-19c3-0bee-a8a84f80c126.pak","nexusFileId":127779,"metaUuid":null}
 ]}}
