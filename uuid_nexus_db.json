@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-08-11T00:53:55.708994+00:00","total_mods":17232},
+{"_meta":{"last_run":"2026-08-11T01:52:49.367632+00:00","total_mods":17234},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -67932,7 +67932,7 @@
 {"nexusFileName":"LegionumPigmenta","nexusFileVersion":"1.0.0.10","nexusFileUploadedAt":1785983585,"pakFileName":"LegionumPigmenta.pak","nexusFileId":127404,"metaUuid":"9b9393a4-e7fb-be72-e70f-b3a3ca4e7645"}
 ]},
 "24294":{"nexusModName":"Eyes of the Hoarder for Chinese","nexusUploadedBy":"hanli","nexusModId":24294,"paks":[
-{"nexusFileName":"EyesOfTheHoarder CHS","nexusFileVersion":"1.10.1.0","nexusFileUploadedAt":1786265506,"pakFileName":"EyesOfTheHoarder-CHS.pak","nexusFileId":127670,"metaUuid":null}
+{"nexusFileName":"EyesOfTheHoarder CHS","nexusFileVersion":"1.11.1.0","nexusFileUploadedAt":1786411303,"pakFileName":"EyesOfTheHoarder-CHS.pak","nexusFileId":127810,"metaUuid":null}
 ]},
 "24295":{"nexusModName":"Missing Starting Equipment Fixed","nexusUploadedBy":"NecroticFlame","nexusModId":24295,"paks":[
 {"nexusFileName":"Missing Starting Equipment Fixed","nexusFileVersion":"1.0.1","nexusFileUploadedAt":1786348037,"pakFileName":"MissingStartingEquipment_00be86ea-b0f0-92c1-ca56-f047941fa7b6.pak","nexusFileId":127749,"metaUuid":"00be86ea-b0f0-92c1-ca56-f047941fa7b6"}
@@ -68092,4 +68092,10 @@
 "24367":{"nexusModName":"Find More Familiars","nexusUploadedBy":"edhelsereg","nexusModId":24367,"paks":[
 {"nexusFileName":"Find More Familiars","nexusFileVersion":"2.5","nexusFileUploadedAt":1786398361,"pakFileName":"Edh_Familiars_9e296d8e-02fa-843d-6ce9-06bc6cfb8e98.pak","nexusFileId":127793,"metaUuid":null},
 {"nexusFileName":"Find More Familiars","nexusFileVersion":"2.5","nexusFileUploadedAt":1786398361,"pakFileName":"._Edh_Familiars_9e296d8e-02fa-843d-6ce9-06bc6cfb8e98.pak","nexusFileId":127793,"metaUuid":null}
+]},
+"24370":{"nexusModName":"Ferrety's Features - Lycanthropy (PT-BR)","nexusUploadedBy":"Firetoga","nexusModId":24370,"paks":[
+{"nexusFileName":"Ferrety's Features - Lycanthropy (PT-BR)","nexusFileVersion":"1.0.5.0","nexusFileUploadedAt":1786409744,"pakFileName":"Ferrety's Features - Lycanthropy (Tradução PT-BR).pak","nexusFileId":127809,"metaUuid":null}
+]},
+"24371":{"nexusModName":"Noah Better Ai Companions for Chinese","nexusUploadedBy":"hanli","nexusModId":24371,"paks":[
+{"nexusFileName":"Noah Better Ai CHS","nexusFileVersion":"1","nexusFileUploadedAt":1786411924,"pakFileName":"Noah_Better_Ai_CHS.pak","nexusFileId":127811,"metaUuid":null}
 ]}}
