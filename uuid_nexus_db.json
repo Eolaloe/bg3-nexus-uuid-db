@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-08-11T15:52:27.474909+00:00","total_mods":17238},
+{"_meta":{"last_run":"2026-08-11T16:52:12.454369+00:00","total_mods":17237},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -57162,7 +57162,8 @@
 {"nexusFileName":"Battle Maneuvers PHB2024 Update","nexusFileVersion":"1.3","nexusFileUploadedAt":1767786587,"pakFileName":"BattleManeuversPHB2024_861e9235-2afe-8178-3626-761eac089367.pak","nexusFileId":111427,"metaUuid":"861e9235-2afe-8178-3626-761eac089367"}
 ]},
 "20279":{"nexusModName":"Whispering Blood Remastered","nexusUploadedBy":"Alradium","nexusModId":20279,"paks":[
-{"nexusFileName":"Whispering Blood Remastered","nexusFileVersion":"1.2.1","nexusFileUploadedAt":1785953674,"pakFileName":"WhisperingBloodRemaster_121130de-b769-17e6-07be-a34a7071f372.pak","nexusFileId":127382,"metaUuid":"121130de-b769-17e6-07be-a34a7071f372"}
+{"nexusFileName":"Whispering Blood Remastered","nexusFileVersion":"1.2.1","nexusFileUploadedAt":1785953674,"pakFileName":"WhisperingBloodRemaster_121130de-b769-17e6-07be-a34a7071f372.pak","nexusFileId":127382,"metaUuid":"121130de-b769-17e6-07be-a34a7071f372"},
+{"nexusFileName":"WhisperingBloodRemaster Lvl12 Condensed Ver","nexusFileVersion":"1.2.1","nexusFileUploadedAt":1786465004,"pakFileName":"WhisperingBloodRemaster_121130de-b769-17e6-07be-a34a7071f372.pak","nexusFileId":127860,"metaUuid":"121130de-b769-17e6-07be-a34a7071f372"}
 ]},
 "20280":{"nexusModName":"chizfreak's Battle Maneuvers PHB2024 Update for Korean","nexusUploadedBy":"Eolaloe","nexusModId":20280,"paks":[
 {"nexusFileName":"Battle Maneuvers PHB2024 Update for Korean","nexusFileVersion":"1.3","nexusFileUploadedAt":1773322648,"pakFileName":"BattleManeuversPHB2024_kr.pak","nexusFileId":116605,"metaUuid":"0bbd39cb-db80-45d2-8ff6-b49d131890df"}
@@ -63044,8 +63045,8 @@
 {"nexusFileName":"Shadowheart's Mirror Buff","nexusFileVersion":"1.0.0.1","nexusFileUploadedAt":1775709959,"pakFileName":"ShadMirrorBuff_dcf86ff3-0d21-d025-f451-e2fa7e86cefd.pak","nexusFileId":118509,"metaUuid":"dcf86ff3-0d21-d025-f451-e2fa7e86cefd"}
 ]},
 "22358":{"nexusModName":"INCENDIUM - Armor and Camp Clothing","nexusUploadedBy":"Naerys","nexusModId":22358,"paks":[
-{"nexusFileName":"NAERYS - Incendium","nexusFileVersion":"1.2","nexusFileUploadedAt":1775913470,"pakFileName":"NAERYS_Incendium_b00491f0-fa22-2674-289e-7f903ae1f846.pak","nexusFileId":118691,"metaUuid":null},
-{"nexusFileName":"Incendium - less latex shiny","nexusFileVersion":"1","nexusFileUploadedAt":1776081009,"pakFileName":"NAERYS_Incendium_b00491f0-fa22-2674-289e-7f903ae1f846.pak","nexusFileId":118853,"metaUuid":"b00491f0-fa22-2674-289e-7f903ae1f846"}
+{"nexusFileName":"NAERYS - Incendium","nexusFileVersion":"1.2","nexusFileUploadedAt":1775913470,"pakFileName":"NAERYS_Incendium_b00491f0-fa22-2674-289e-7f903ae1f846.pak","nexusFileId":118691,"metaUuid":"b00491f0-fa22-2674-289e-7f903ae1f846"},
+{"nexusFileName":"Incendium - less latex shiny","nexusFileVersion":"2","nexusFileUploadedAt":1786464234,"pakFileName":"NAERYS_Incendium_b00491f0-fa22-2674-289e-7f903ae1f846.pak","nexusFileId":127858,"metaUuid":"b00491f0-fa22-2674-289e-7f903ae1f846"}
 ]},
 "22359":{"nexusModName":"Higher Contrast Vision Cone","nexusUploadedBy":"InzzGreyer","nexusModId":22359,"paks":[
 {"nexusFileName":"HCVC 7bf73a91 Edab 3c03 E6de F5c77d52a82a","nexusFileVersion":"1","nexusFileUploadedAt":1775762491,"pakFileName":"HCVC_7bf73a91-edab-3c03-e6de-f5c77d52a82a.pak","nexusFileId":118552,"metaUuid":null}
@@ -64806,7 +64807,7 @@
 "23058":{"nexusModName":"Akm Tiefling Body","nexusUploadedBy":"Akumu22","nexusModId":23058,"paks":[
 {"nexusFileName":"Akm Tiefling Body","nexusFileVersion":"2.0.1.0","nexusFileUploadedAt":1785246210,"pakFileName":"Akm Tiefling Body.pak","nexusFileId":126663,"metaUuid":"77b21fea-e837-470c-8e79-a79e84e6221a"},
 {"nexusFileName":"FIX - STAV Tail Tats","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1786023194,"pakFileName":"Akm Tiefling Body - STAV Tail FIX.pak","nexusFileId":127442,"metaUuid":null},
-{"nexusFileName":"Akm Tiefling Body - BT3 Beta","nexusFileVersion":"2.0.4.0","nexusFileUploadedAt":1786128953,"pakFileName":"Akm Tiefling Body - BT3 - Beta.pak","nexusFileId":127521,"metaUuid":"4420c433-718f-4749-8e5d-1da521a84b19"}
+{"nexusFileName":"Akm Tiefling Body - BT3 Beta","nexusFileVersion":"2.0.5.0","nexusFileUploadedAt":1786463756,"pakFileName":"Akm Tiefling Body - BT3 - Beta.pak","nexusFileId":127857,"metaUuid":"4420c433-718f-4749-8e5d-1da521a84b19"}
 ]},
 "23059":{"nexusModName":"Flora Dress and Long Nature Hair","nexusUploadedBy":"Lyniara","nexusModId":23059,"paks":[
 {"nexusFileName":"Flora Dress","nexusFileVersion":"1","nexusFileUploadedAt":1779744844,"pakFileName":"LynFloraDress.pak","nexusFileId":122131,"metaUuid":"a7c4ef09-4ca7-428a-950d-85c4c74573b9"},
@@ -66296,7 +66297,7 @@
 {"nexusFileName":"Arcadia's Attire","nexusFileVersion":"1.0.0.46","nexusFileUploadedAt":1784978572,"pakFileName":"Arcadias_Attire_ef515417-930f-314d-3b75-dc919400999e.pak","nexusFileId":126444,"metaUuid":"ef515417-930f-314d-3b75-dc919400999e"}
 ]},
 "23635":{"nexusModName":"VANITAS - Armor and Clothing","nexusUploadedBy":"Naerys","nexusModId":23635,"paks":[
-{"nexusFileName":"NAERYS Vanitas","nexusFileVersion":"1","nexusFileUploadedAt":1782841765,"pakFileName":"NAERYS_Vanitas_07b9d1ad-5ec0-a71a-6cea-508712827937.pak","nexusFileId":124603,"metaUuid":"07b9d1ad-5ec0-a71a-6cea-508712827937"}
+{"nexusFileName":"NAERYS Vanitas","nexusFileVersion":"2","nexusFileUploadedAt":1786464457,"pakFileName":"NAERYS_Vanitas_07b9d1ad-5ec0-a71a-6cea-508712827937.pak","nexusFileId":127859,"metaUuid":"07b9d1ad-5ec0-a71a-6cea-508712827937"}
 ]},
 "23638":{"nexusModName":"Vampire Spawn Transformation - Fangs for Tav and Companions","nexusUploadedBy":"RevolutionScribe","nexusModId":23638,"paks":[
 {"nexusFileName":"Vampire Bite Scars","nexusFileVersion":"1.0.0.3","nexusFileUploadedAt":1782861730,"pakFileName":"VampireBiteScars_1.0.0.3.pak","nexusFileId":124616,"metaUuid":"145c3e10-30ea-8e6f-4617-84d623fa4a59"},
