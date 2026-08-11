@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-08-11T18:52:36.918863+00:00","total_mods":17238},
+{"_meta":{"last_run":"2026-08-11T19:52:26.088617+00:00","total_mods":17239},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -55242,7 +55242,7 @@
 "19830":{"nexusModName":"Beautiful Strong Bodies","nexusUploadedBy":"Sindae","nexusModId":19830,"paks":[
 {"nexusFileName":"Red Sonja Outfit","nexusFileVersion":"1.0","nexusFileUploadedAt":1764181692,"pakFileName":"RedSonjaPak.pak","nexusFileId":108206,"metaUuid":"4b8ce4c7-e2d5-4d70-b1b7-2694ec472249"},
 {"nexusFileName":"Karlach's Tiefling Texture","nexusFileVersion":"1.0","nexusFileUploadedAt":1764199429,"pakFileName":"BCBStrongPakKarlachTexture.pak","nexusFileId":108223,"metaUuid":"8b601a3e-7469-4aef-8f10-cbbd0712a9c5"},
-{"nexusFileName":"Beautiful Strong Body","nexusFileVersion":"1.3a","nexusFileUploadedAt":1770610051,"pakFileName":"BCBStrongPak.pak","nexusFileId":114446,"metaUuid":"d3b2308f-c468-4685-a645-36909a9de866"}
+{"nexusFileName":"Beautiful Strong Body","nexusFileVersion":"1.3b","nexusFileUploadedAt":1786477695,"pakFileName":"BCBStrongPak.pak","nexusFileId":127865,"metaUuid":"d3b2308f-c468-4685-a645-36909a9de866"}
 ]},
 "19831":{"nexusModName":"MOD ITA IncogneatoBurrito","nexusUploadedBy":"Rahl81","nexusModId":19831,"paks":[
 {"nexusFileName":"Book of Wizards - Nexus and Expansion Version ITA","nexusFileVersion":"1.0.0.5","nexusFileUploadedAt":1764181551,"pakFileName":"BookOfWizards_NexusVersion_ITA_4911ebf0-bce2-a4f2-0c90-52d7454bf6e9.pak","nexusFileId":108204,"metaUuid":null},
@@ -68102,6 +68102,9 @@
 ]},
 "24376":{"nexusModName":"Sourcemage","nexusUploadedBy":"CriticalFailature","nexusModId":24376,"paks":[
 {"nexusFileName":"Soursmage","nexusFileVersion":"1","nexusFileUploadedAt":1786442691,"pakFileName":"DanceWithSourse_19076aef-63b4-e1d4-c370-7fca3c55b39d.pak","nexusFileId":127849,"metaUuid":null}
+]},
+"24377":{"nexusModName":"Gothic Dress - BT1 BT3","nexusUploadedBy":"euryalex","nexusModId":24377,"paks":[
+{"nexusFileName":"Gothic Dress","nexusFileVersion":"1","nexusFileUploadedAt":1786437546,"pakFileName":"Gothic Dress.pak","nexusFileId":127843,"metaUuid":null}
 ]},
 "24378":{"nexusModName":"Alternate Tiefling Legs (CC and Equippable)","nexusUploadedBy":"FluffySpider","nexusModId":24378,"paks":[
 {"nexusFileName":"Alt Tief Legs","nexusFileVersion":"1","nexusFileUploadedAt":1786441205,"pakFileName":"Alt_Tief_Legs.pak","nexusFileId":127846,"metaUuid":null},
