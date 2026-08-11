@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-08-11T08:52:33.582400+00:00","total_mods":17234},
+{"_meta":{"last_run":"2026-08-11T09:52:28.198628+00:00","total_mods":17236},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -62921,7 +62921,7 @@
 {"nexusFileName":"Expanded ArmouryCHS","nexusFileVersion":"1.5","nexusFileUploadedAt":1775376158,"pakFileName":"Expanded_ArmouryCHS.pak","nexusFileId":118181,"metaUuid":null}
 ]},
 "22307":{"nexusModName":"Companion Permadeath","nexusUploadedBy":"NecroticFlame","nexusModId":22307,"paks":[
-{"nexusFileName":"Companion Permadeath","nexusFileVersion":"1.1.1","nexusFileUploadedAt":1786158255,"pakFileName":"Permadeath_a5dddc84-e8a6-3401-3491-ff5fb6217501.pak","nexusFileId":127544,"metaUuid":"a5dddc84-e8a6-3401-3491-ff5fb6217501"}
+{"nexusFileName":"Companion Permadeath","nexusFileVersion":"1.1.2","nexusFileUploadedAt":1786438273,"pakFileName":"Permadeath_a5dddc84-e8a6-3401-3491-ff5fb6217501.pak","nexusFileId":127844,"metaUuid":"a5dddc84-e8a6-3401-3491-ff5fb6217501"}
 ]},
 "22309":{"nexusModName":"Starting Equipment Restored","nexusUploadedBy":"NecroticFlame","nexusModId":22309,"paks":[
 {"nexusFileName":"Starting Equipment Restored","nexusFileVersion":"1.4.0","nexusFileUploadedAt":1783756253,"pakFileName":"LoadoutRestored_ba8db12c-8ea9-4e81-3a01-decbf3bdb5ec.pak","nexusFileId":125403,"metaUuid":"ba8db12c-8ea9-4e81-3a01-decbf3bdb5ec"}
@@ -68097,4 +68097,12 @@
 ]},
 "24374":{"nexusModName":"The Fashionable Monk","nexusUploadedBy":"limebloodexe","nexusModId":24374,"paks":[
 {"nexusFileName":"FashionableMonk","nexusFileVersion":"1","nexusFileUploadedAt":1786428279,"pakFileName":"FashionableMonk_9c6f14d6-cb91-1b40-a980-4de2c92a7661.pak","nexusFileId":127839,"metaUuid":null}
+]},
+"24375":{"nexusModName":"Lithomancer","nexusUploadedBy":"carlessp","nexusModId":24375,"paks":[
+{"nexusFileName":"Litomancer I Equipament F","nexusFileVersion":"1","nexusFileUploadedAt":1786438948,"pakFileName":"Litomancer_i_equipament_f.pak","nexusFileId":127845,"metaUuid":null}
+]},
+"24378":{"nexusModName":"Alternate Tiefling Legs (CC and Equippable)","nexusUploadedBy":"FluffySpider","nexusModId":24378,"paks":[
+{"nexusFileName":"Alt Tief Legs","nexusFileVersion":"1","nexusFileUploadedAt":1786441205,"pakFileName":"Alt_Tief_Legs.pak","nexusFileId":127846,"metaUuid":null},
+{"nexusFileName":"Alt Tief Legs Tattoos Patch","nexusFileVersion":"1","nexusFileUploadedAt":1786441310,"pakFileName":"Alt_Tief_Legs_Tattoos_Patch.pak","nexusFileId":127847,"metaUuid":null},
+{"nexusFileName":"Alt Tief Legs Utav Tattoos Patch","nexusFileVersion":"1","nexusFileUploadedAt":1786441362,"pakFileName":"Alt_Tief_Legs_Utav_Tattoos_Patch.pak","nexusFileId":127848,"metaUuid":null}
 ]}}
