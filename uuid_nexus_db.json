@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-08-10T23:52:43.277323+00:00","total_mods":17232},
+{"_meta":{"last_run":"2026-08-11T00:53:55.708994+00:00","total_mods":17232},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -32920,7 +32920,8 @@
 {"nexusFileName":"CampCasterHelper-CHS","nexusFileVersion":"1.0.1.4","nexusFileUploadedAt":1774789679,"pakFileName":"CampCasterHelper-CHS.pak","nexusFileId":117697,"metaUuid":null}
 ]},
 "11525":{"nexusModName":"Equipment For Summons","nexusUploadedBy":"Veenab","nexusModId":11525,"paks":[
-{"nexusFileName":"SummonEquip(1.4.0)","nexusFileVersion":"1.4.0","nexusFileUploadedAt":1731237001,"pakFileName":"SummonEquip.pak","nexusFileId":78423,"metaUuid":"a4ff06e7-5fd5-4848-a50d-6665861cea6c"}
+{"nexusFileName":"SummonEquip(1.4.0)","nexusFileVersion":"1.4.0","nexusFileUploadedAt":1731237001,"pakFileName":"SummonEquip.pak","nexusFileId":78423,"metaUuid":"a4ff06e7-5fd5-4848-a50d-6665861cea6c"},
+{"nexusFileName":"SummonEquip(1.5.0)","nexusFileVersion":"1.5.0","nexusFileUploadedAt":1786406868,"pakFileName":"SummonEquip.pak","nexusFileId":127806,"metaUuid":"a4ff06e7-5fd5-4848-a50d-6665861cea6c"}
 ]},
 "11526":{"nexusModName":"She Who Guides - Armor for Clerics of Selune","nexusUploadedBy":"spek7re","nexusModId":11526,"paks":[
 {"nexusFileName":"SheWhoGuides","nexusFileVersion":"1.11.0.13","nexusFileUploadedAt":1749715896,"pakFileName":"SeluneClericMKII.pak","nexusFileId":95685,"metaUuid":"d3f56909-866b-4769-ad4d-3627b8a31cec"}
@@ -40759,7 +40760,7 @@
 {"nexusFileName":"Pretty Particles Overhaul and Pretty Lights","nexusFileVersion":"1.0.0.195","nexusFileUploadedAt":1780078862,"pakFileName":"PrettyParticles_c80f03e7-ee30-2233-2f6f-c5e142c82cea.pak","nexusFileId":122424,"metaUuid":"c80f03e7-ee30-2233-2f6f-c5e142c82cea"}
 ]},
 "14476":{"nexusModName":"Psychic Armory","nexusUploadedBy":"JL935JL","nexusModId":14476,"paks":[
-{"nexusFileName":"Psychic Armory","nexusFileVersion":"2.1.0","nexusFileUploadedAt":1763270791,"pakFileName":"PsychicArmory.pak","nexusFileId":107555,"metaUuid":"377f7398-ea17-4213-8382-b28b75e9baed"}
+{"nexusFileName":"Psychic Armory","nexusFileVersion":"2.1.1","nexusFileUploadedAt":1786408888,"pakFileName":"PsychicArmory.pak","nexusFileId":127808,"metaUuid":"377f7398-ea17-4213-8382-b28b75e9baed"}
 ]},
 "14477":{"nexusModName":"NPC Redesign - Enver Gortash by AzazeL (Patch 7-8)","nexusUploadedBy":"AzazeLwasTaken","nexusModId":14477,"paks":[
 {"nexusFileName":"1. NPC Redesign - Gortash","nexusFileVersion":"1.1","nexusFileUploadedAt":1760888109,"pakFileName":"Aza_NPCre_Gortash_4bf296c4-9e10-8d9d-cf8e-8b18d2a8f8f6.pak","nexusFileId":105551,"metaUuid":"4bf296c4-9e10-8d9d-cf8e-8b18d2a8f8f6"},
@@ -49183,7 +49184,7 @@
 {"nexusFileName":"Main file","nexusFileVersion":"1.0","nexusFileUploadedAt":1752869168,"pakFileName":"mystr_0bdef285-1340-af87-5078-ec1a6d373c78.pak","nexusFileId":98442,"metaUuid":null}
 ]},
 "17664":{"nexusModName":"B52's Finesse Weaponry","nexusUploadedBy":"B52NAKAMURA","nexusModId":17664,"paks":[
-{"nexusFileName":"B52's Finesse Weaponry","nexusFileVersion":"3.0.1.9","nexusFileUploadedAt":1772837196,"pakFileName":"FinesseBlugeonWeapons_75888327-a943-6566-6499-de2145c7ad32.pak","nexusFileId":116235,"metaUuid":"75888327-a943-6566-6499-de2145c7ad32"}
+{"nexusFileName":"B52's Finesse Weaponry","nexusFileVersion":"3.0.1.11","nexusFileUploadedAt":1786405874,"pakFileName":"FinesseBlugeonWeapons_75888327-a943-6566-6499-de2145c7ad32.pak","nexusFileId":127805,"metaUuid":"75888327-a943-6566-6499-de2145c7ad32"}
 ]},
 "17665":{"nexusModName":"Barcus Wroot Edit - The Unfortunate Gnome's New Threads","nexusUploadedBy":"PoisonValentineXIII","nexusModId":17665,"paks":[
 {"nexusFileName":"Barcus Wroot - TUG New Threads - Black","nexusFileVersion":"1.0.0.2","nexusFileUploadedAt":1752956784,"pakFileName":"BarcusWrootNewThreads_8ebb3957-569e-2991-c97e-586b47465ce4.pak","nexusFileId":98534,"metaUuid":"8ebb3957-569e-2991-c97e-586b47465ce4"},
@@ -65340,7 +65341,7 @@
 {"nexusFileName":"Cooldown - Once Per Combat","nexusFileVersion":"1","nexusFileUploadedAt":1786055694,"pakFileName":"Combat Cooldown.pak","nexusFileId":127467,"metaUuid":null},
 {"nexusFileName":"Cooldown - Once Per Short Rest","nexusFileVersion":"1","nexusFileUploadedAt":1786055715,"pakFileName":"ShortRestCooldown.pak","nexusFileId":127468,"metaUuid":null},
 {"nexusFileName":"SwishyFishy Slayer V2","nexusFileVersion":"1.0.3.0","nexusFileUploadedAt":1786125819,"pakFileName":"SwishyFishy_Slayer_v2.pak","nexusFileId":127515,"metaUuid":"dc622919-7e0b-42c6-ad2d-907ec410947d"},
-{"nexusFileName":"Wild Shape and Tavern Brawler - Fully Enabled","nexusFileVersion":"1.0.0.1","nexusFileUploadedAt":1786126411,"pakFileName":"WildshapeSlayer.pak","nexusFileId":127518,"metaUuid":null}
+{"nexusFileName":"Wild Shape and Tavern Brawler - Fully Enabled","nexusFileVersion":"1.0.0.2","nexusFileUploadedAt":1786408401,"pakFileName":"WildshapeSlayer.pak","nexusFileId":127807,"metaUuid":null}
 ]},
 "23207":{"nexusModName":"CombatBodysuit_TheFirstDescendant_Ines","nexusUploadedBy":"EvilRecluse","nexusModId":23207,"paks":[
 {"nexusFileName":"CombatBodysuit TheFirstDescendant Ines","nexusFileVersion":"1","nexusFileUploadedAt":1780587999,"pakFileName":"CombatBodysuit_TheFirstDescendant_Ines.pak","nexusFileId":122793,"metaUuid":"99c9a42f-0730-4a31-924f-32ea6f488510"}
