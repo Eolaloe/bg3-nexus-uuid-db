@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-08-12T16:51:40.352328+00:00","total_mods":17247},
+{"_meta":{"last_run":"2026-08-12T17:52:05.288786+00:00","total_mods":17246},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -55068,7 +55068,8 @@
 {"nexusFileName":"RealMenNipples HimboAstarionPRCSet","nexusFileVersion":"1.0.0.13","nexusFileUploadedAt":1786307749,"pakFileName":"RealMenNipples_HimboAstarionPRCSet.pak","nexusFileId":127720,"metaUuid":null},
 {"nexusFileName":"RealMenNipples HimboGalePRCSet","nexusFileVersion":"1.0.0.13","nexusFileUploadedAt":1786387669,"pakFileName":"RealMenNipples_HimboGalePRCSet.pak","nexusFileId":127788,"metaUuid":null},
 {"nexusFileName":"RealMenNipples HimboWyllPRCSet","nexusFileVersion":"1.0.0.13","nexusFileUploadedAt":1786403045,"pakFileName":"RealMenNipples_HimboWyllPRCSet.pak","nexusFileId":127802,"metaUuid":null},
-{"nexusFileName":"RealMenNipples KAVTHimboPRCSet","nexusFileVersion":"1.0.0.13","nexusFileUploadedAt":1786545288,"pakFileName":"RealMenNipples_KAVTHimboPRCSet.pak","nexusFileId":127918,"metaUuid":null}
+{"nexusFileName":"RealMenNipples KAVTHimboPRCSet","nexusFileVersion":"1.0.0.13","nexusFileUploadedAt":1786545288,"pakFileName":"RealMenNipples_KAVTHimboPRCSet.pak","nexusFileId":127918,"metaUuid":null},
+{"nexusFileName":"RealMenNipples STAVPatch","nexusFileVersion":"1.0.0.13","nexusFileUploadedAt":1786555127,"pakFileName":"RealMenNipples_STAVPatch.pak","nexusFileId":127925,"metaUuid":null}
 ]},
 "19774":{"nexusModName":"Viconia DeVir Redone - The Harbinger of Darkness","nexusUploadedBy":"PoisonValentineXIII","nexusModId":19774,"paks":[
 {"nexusFileName":"Viconia DeVir Redone - The Harbinger of Darkness","nexusFileVersion":"1.0.0.2","nexusFileUploadedAt":1763861019,"pakFileName":"ViconiaDeVirRedone_3f8f4aa8-4793-2ab4-10d5-747c9070f315.pak","nexusFileId":107947,"metaUuid":"3f8f4aa8-4793-2ab4-10d5-747c9070f315"},
@@ -59333,7 +59334,7 @@
 {"nexusFileName":"Little Mirror of Expressions Full Collection","nexusFileVersion":"1.0","nexusFileUploadedAt":1769564269,"pakFileName":"LittleMirrorofExpressions_Vol3_70e3afee-2d2a-eec5-931f-06f6ac0ca9f5.pak","nexusFileId":113414,"metaUuid":"70e3afee-2d2a-eec5-931f-06f6ac0ca9f5"}
 ]},
 "21060":{"nexusModName":"Shadowheart's Nightly Hairdo","nexusUploadedBy":"Nzx","nexusModId":21060,"paks":[
-{"nexusFileName":"Shadowheart's Nightly Hairdo","nexusFileVersion":"1.3.7","nexusFileUploadedAt":1785692596,"pakFileName":"Shadowheart's Nightly Hairdo.pak","nexusFileId":127146,"metaUuid":"60b23938-fd04-44c9-ac0c-9d68bf030901"}
+{"nexusFileName":"Shadowheart's Nightly Hairdo","nexusFileVersion":"1.3.8","nexusFileUploadedAt":1786555918,"pakFileName":"Shadowheart's Nightly Hairdo.pak","nexusFileId":127927,"metaUuid":"60b23938-fd04-44c9-ac0c-9d68bf030901"}
 ]},
 "21061":{"nexusModName":"Combat Randomizer by simosas1","nexusUploadedBy":"amesnoelle","nexusModId":21061,"paks":[
 {"nexusFileName":"Combat_Randomizer.zip","nexusFileVersion":"1","nexusFileUploadedAt":1769577298,"pakFileName":"Combat_Randomizer.pak","nexusFileId":113431,"metaUuid":null}
@@ -64183,10 +64184,10 @@
 {"nexusFileName":"CSSChangeling AltMats","nexusFileVersion":"2","nexusFileUploadedAt":1780006236,"pakFileName":"CSSChangeling_AltMats.pak","nexusFileId":122377,"metaUuid":null},
 {"nexusFileName":"Faces of Faerun Patch","nexusFileVersion":"1","nexusFileUploadedAt":1781112519,"pakFileName":"CSSChangeling_FOFPatch.pak","nexusFileId":123290,"metaUuid":"83a153bd-54e8-4852-92d6-3008da750cda"},
 {"nexusFileName":"Petit Body BT1Edit","nexusFileVersion":"1","nexusFileUploadedAt":1783768502,"pakFileName":"CSSChangeling_BT1Edit.pak","nexusFileId":125418,"metaUuid":null},
-{"nexusFileName":"CSSChangeling","nexusFileVersion":"3","nexusFileUploadedAt":1783768852,"pakFileName":"CSSChangeling.pak","nexusFileId":125420,"metaUuid":"717af779-7b40-4408-87c5-e5e7b389a152"},
 {"nexusFileName":"Psychotter Orin Head Patch","nexusFileVersion":"1","nexusFileUploadedAt":1783785584,"pakFileName":"CSSChangeling_OrinHead_Psy.pak","nexusFileId":125432,"metaUuid":null},
 {"nexusFileName":"BT2 Edit - Lydia softer body","nexusFileVersion":"1","nexusFileUploadedAt":1785684842,"pakFileName":"CSSChangeling_BT2Edit.pak","nexusFileId":127135,"metaUuid":null},
-{"nexusFileName":"UTAV Vivid Changeling Patch","nexusFileVersion":"1","nexusFileUploadedAt":1785777075,"pakFileName":"CSSChangelingUTAVPatch.pak","nexusFileId":127222,"metaUuid":null}
+{"nexusFileName":"UTAV Vivid Changeling Patch","nexusFileVersion":"1","nexusFileUploadedAt":1785777075,"pakFileName":"CSSChangelingUTAVPatch.pak","nexusFileId":127222,"metaUuid":null},
+{"nexusFileName":"CSSChangeling","nexusFileVersion":"4","nexusFileUploadedAt":1786553592,"pakFileName":"CSSChangeling.pak","nexusFileId":127923,"metaUuid":"717af779-7b40-4408-87c5-e5e7b389a152"}
 ]},
 "22774":{"nexusModName":"EasyCheat with in-game UI (MCM)(SE) Simple Chinese translation","nexusUploadedBy":"Imemee","nexusModId":22774,"paks":[
 {"nexusFileName":"EasyCheatChs","nexusFileVersion":"2.3.2","nexusFileUploadedAt":1785839872,"pakFileName":"EasyCheatChs.pak","nexusFileId":127291,"metaUuid":"318a1b34-63b1-4986-8c2f-f93c19b7a147"}
@@ -64665,7 +64666,7 @@
 {"nexusFileName":"Early Access Nautiloid - Default Tutorial Chest","nexusFileVersion":"1.0.0.9a","nexusFileUploadedAt":1780244093,"pakFileName":"EarlyAccessAvernusTutorial_058bbf34-d867-539c-fa4d-8540dc810da0.pak","nexusFileId":122524,"metaUuid":"058bbf34-d867-539c-fa4d-8540dc810da0"}
 ]},
 "23009":{"nexusModName":"Rescued Robes","nexusUploadedBy":"commanderstrawberry","nexusModId":23009,"paks":[
-{"nexusFileName":"CSSRescuedRobes","nexusFileVersion":"1","nexusFileUploadedAt":1781171411,"pakFileName":"CSSRescuedRobes.pak","nexusFileId":123321,"metaUuid":"94572d5f-ef1b-4c29-a861-38fe3291550d"}
+{"nexusFileName":"CSSRescuedRobes","nexusFileVersion":"2","nexusFileUploadedAt":1786553515,"pakFileName":"CSSRescuedRobes.pak","nexusFileId":127922,"metaUuid":"94572d5f-ef1b-4c29-a861-38fe3291550d"}
 ]},
 "23010":{"nexusModName":"Chanteuse And Lovers-CHS","nexusUploadedBy":"AgleafSdan","nexusModId":23010,"paks":[
 {"nexusFileName":"ChanteuseAndLovers CHS","nexusFileVersion":"1","nexusFileUploadedAt":1779470258,"pakFileName":"ChanteuseAndLovers-CHS.pak","nexusFileId":121941,"metaUuid":null}
@@ -67065,7 +67066,8 @@
 {"nexusFileName":"Mystra Dice","nexusFileVersion":"1","nexusFileUploadedAt":1784330838,"pakFileName":"MystraDice_5263ed3b-478e-01f3-b26e-ff21a57c4926.pak","nexusFileId":125881,"metaUuid":null},
 {"nexusFileName":"Selune Dice","nexusFileVersion":"1","nexusFileUploadedAt":1784330899,"pakFileName":"SeluneDice_a6300f86-6fc2-4d5a-d6e4-8adfe6905a0c.pak","nexusFileId":125882,"metaUuid":null},
 {"nexusFileName":"Shar Dice","nexusFileVersion":"1","nexusFileUploadedAt":1784330926,"pakFileName":"SharDice_46150b39-e29c-1cdd-a2f8-e26b5d700346.pak","nexusFileId":125883,"metaUuid":null},
-{"nexusFileName":"Vlaakith Dice","nexusFileVersion":"1","nexusFileUploadedAt":1784330957,"pakFileName":"VlaakithDice_0d7499a7-38ba-0c64-add8-88d2a32bd8e4.pak","nexusFileId":125884,"metaUuid":null}
+{"nexusFileName":"Vlaakith Dice","nexusFileVersion":"1","nexusFileUploadedAt":1784330957,"pakFileName":"VlaakithDice_0d7499a7-38ba-0c64-add8-88d2a32bd8e4.pak","nexusFileId":125884,"metaUuid":null},
+{"nexusFileName":"Tymora Dice","nexusFileVersion":"1","nexusFileUploadedAt":1786554608,"pakFileName":"TymoraDice_4a17cb3f-43e3-eecc-36c2-0b28bddbfd6d.pak","nexusFileId":127924,"metaUuid":null}
 ]},
 "23926":{"nexusModName":"Conjure Celestial Deva","nexusUploadedBy":"winterwinds19","nexusModId":23926,"paks":[
 {"nexusFileName":"Conjure Celestial Scaling Deva V1 0 1","nexusFileVersion":"1.1","nexusFileUploadedAt":1784321497,"pakFileName":"Conjure Celestial - Scaling Deva.pak","nexusFileId":125863,"metaUuid":"5a187c17-bf6b-4b2b-929c-e844ae746dd1"}
