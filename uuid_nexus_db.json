@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-08-12T03:52:02.386158+00:00","total_mods":17244},
+{"_meta":{"last_run":"2026-08-12T04:51:33.983516+00:00","total_mods":17247},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -36010,7 +36010,7 @@
 ]},
 "12727":{"nexusModName":"DnD 5.5e All-in-One BEYOND","nexusUploadedBy":"yoonmoonsik43","nexusModId":12727,"paks":[
 {"nexusFileName":"dnd2024 - V3 Legacy","nexusFileVersion":"3.4.6.4","nexusFileUploadedAt":1771945305,"pakFileName":"DnD2024_897914ef-5c96-053c-44af-0be823f895fe.pak","nexusFileId":115523,"metaUuid":"897914ef-5c96-053c-44af-0be823f895fe"},
-{"nexusFileName":"DnD 5.5e All-in-One BEYOND","nexusFileVersion":"4.11.22.10","nexusFileUploadedAt":1786471674,"pakFileName":"DnD2024_897914ef-5c96-053c-44af-0be823f895fe.pak","nexusFileId":127862,"metaUuid":"897914ef-5c96-053c-44af-0be823f895fe"}
+{"nexusFileName":"DnD 5.5e All-in-One BEYOND","nexusFileVersion":"4.11.22.11","nexusFileUploadedAt":1786508441,"pakFileName":"DnD2024_897914ef-5c96-053c-44af-0be823f895fe.pak","nexusFileId":127895,"metaUuid":"897914ef-5c96-053c-44af-0be823f895fe"}
 ]},
 "12728":{"nexusModName":"Origin-Themed Headwear KR","nexusUploadedBy":"Soorawang","nexusModId":12728,"paks":[
 {"nexusFileName":"Origin-Themed Headwear KR","nexusFileVersion":"1.0","nexusFileUploadedAt":1727930331,"pakFileName":"OriginHeadwear_kr.pak","nexusFileId":73692,"metaUuid":null}
@@ -60127,7 +60127,7 @@
 ]},
 "21344":{"nexusModName":"Prismortalis - A Dark-Fantasy Spellblade","nexusUploadedBy":"nvlliel","nexusModId":21344,"paks":[
 {"nexusFileName":"Prismortalis - Feats Every Two Levels","nexusFileVersion":"1.0.0.1","nexusFileUploadedAt":1784578982,"pakFileName":"PrismortalisFeatsEvery2Levels_a230221a-2a95-a352-bedb-d13b30a5e412.pak","nexusFileId":126094,"metaUuid":null},
-{"nexusFileName":"Prismortalis 5a28cde7 Cff0 E97 8sis","nexusFileVersion":"5.5.4.4","nexusFileUploadedAt":1786161375,"pakFileName":"Prismortalis_5a28cde7-cff0-e977-dc6d-17244faeaa8c.pak","nexusFileId":127561,"metaUuid":"5a28cde7-cff0-e977-dc6d-17244faeaa8c"}
+{"nexusFileName":"Prismortalis - A Dark-Fantasy Spellblade","nexusFileVersion":"5.5.4.4","nexusFileUploadedAt":1786161375,"pakFileName":"Prismortalis_5a28cde7-cff0-e977-dc6d-17244faeaa8c.pak","nexusFileId":127561,"metaUuid":"5a28cde7-cff0-e977-dc6d-17244faeaa8c"}
 ]},
 "21345":{"nexusModName":"Marksman - A Gunslinger class for Korean","nexusUploadedBy":"Eolaloe","nexusModId":21345,"paks":[
 {"nexusFileName":"Marksman - A Gunslinger class for Korean","nexusFileVersion":"1.2.1.0","nexusFileUploadedAt":1782326055,"pakFileName":"Marksman_Class_kr.pak","nexusFileId":124220,"metaUuid":null}
@@ -67682,6 +67682,9 @@
 "24169":{"nexusModName":"Vampire Lord's Attire","nexusUploadedBy":"HyperspaceTowel","nexusModId":24169,"paks":[
 {"nexusFileName":"HT_VampireLordsAttire","nexusFileVersion":"1.0.0.18","nexusFileUploadedAt":1785549449,"pakFileName":"HT_LootCazadorsArmor_4424a54e-698f-9f01-d13e-4872cce2ca66.pak","nexusFileId":126997,"metaUuid":null}
 ]},
+"24170":{"nexusModName":"Improved Piercing Arrow","nexusUploadedBy":"JThug","nexusModId":24170,"paks":[
+{"nexusFileName":"ImprovedPiercingArrow V1.0","nexusFileVersion":"2","nexusFileUploadedAt":1786509588,"pakFileName":"ImprovedPiercingArrow.pak","nexusFileId":127898,"metaUuid":null}
+]},
 "24171":{"nexusModName":"Lune's Expedition 33 Outfit","nexusUploadedBy":"aureusco","nexusModId":24171,"paks":[
 {"nexusFileName":"Exp33 Lune Outfit VT","nexusFileVersion":"1.0.0.25","nexusFileUploadedAt":1785679600,"pakFileName":"EXP33_Lune_Gear_20dccfc3-4ada-e8b6-a2bc-c09b755138d0.pak","nexusFileId":127125,"metaUuid":"20dccfc3-4ada-e8b6-a2bc-c09b755138d0"}
 ]},
@@ -68135,4 +68138,10 @@
 "24387":{"nexusModName":"Stuffy McGoldpaws - Portable Loot Compressor","nexusUploadedBy":"FerionLegacy","nexusModId":24387,"paks":[
 {"nexusFileName":"StuffyMcGoldpaws V1.0.0 Balanced","nexusFileVersion":"1","nexusFileUploadedAt":1786489683,"pakFileName":"StuffyMcGoldpaws_v1.0.0_Balanced.pak","nexusFileId":127880,"metaUuid":null},
 {"nexusFileName":"StuffyMcGoldpaws V1.0.0 OP","nexusFileVersion":"1","nexusFileUploadedAt":1786489695,"pakFileName":"StuffyMcGoldpaws_v1.0.0_OP.pak","nexusFileId":127881,"metaUuid":null}
+]},
+"24389":{"nexusModName":"Requiem for the Absolute - RUS","nexusUploadedBy":"Dublicatee","nexusModId":24389,"paks":[
+{"nexusFileName":"Requiem For The Absolute RUS","nexusFileVersion":"1","nexusFileUploadedAt":1786506995,"pakFileName":"Requiem_for_the_Absolute_RUS.pak","nexusFileId":127894,"metaUuid":null}
+]},
+"24390":{"nexusModName":"Dice of Death (and Neo)","nexusUploadedBy":"ChaoticAsymmetry","nexusModId":24390,"paks":[
+{"nexusFileName":"Dice Of Death (And Neo)","nexusFileVersion":"1","nexusFileUploadedAt":1786509121,"pakFileName":"Dice of Death (And Neo).pak","nexusFileId":127897,"metaUuid":null}
 ]}}
