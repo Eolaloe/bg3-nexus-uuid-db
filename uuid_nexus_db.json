@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-08-12T19:52:13.759175+00:00","total_mods":17249},
+{"_meta":{"last_run":"2026-08-12T20:51:53.795788+00:00","total_mods":17251},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -62517,10 +62517,10 @@
 ]},
 "22156":{"nexusModName":"Nightwarden Minthara","nexusUploadedBy":"Nzx","nexusModId":22156,"paks":[
 {"nexusFileName":"NightwardenMinthara - VSO","nexusFileVersion":"1.2.1","nexusFileUploadedAt":1781637085,"pakFileName":"NightwardenMinthara[VSO].pak","nexusFileId":123722,"metaUuid":null},
-{"nexusFileName":"Nightwarden Minthara - Nightly Hairdo","nexusFileVersion":"1.2.1","nexusFileUploadedAt":1781637107,"pakFileName":"NightwardenMinthara[NightlyHairdo].pak","nexusFileId":123723,"metaUuid":"dbad2898-9247-4734-bf93-91e6bf2ff8eb"},
-{"nexusFileName":"Nightwarden Minthara - Adytum","nexusFileVersion":"1.2.1","nexusFileUploadedAt":1781637145,"pakFileName":"NightwardenMinthara[Adytum].pak","nexusFileId":123724,"metaUuid":"f88dd498-f085-433d-b8ee-10b7f5aa0ef7"},
-{"nexusFileName":"Nightwarden Minthara - ABS","nexusFileVersion":"1.2.1","nexusFileUploadedAt":1781637206,"pakFileName":"NightwardenMinthara[Abs].pak","nexusFileId":123725,"metaUuid":"f88dd498-f085-433d-b8ee-10b7f5aa0ef7"},
-{"nexusFileName":"Nightwarden Minthara","nexusFileVersion":"1.2.1","nexusFileUploadedAt":1781637217,"pakFileName":"NightwardenMinthara.pak","nexusFileId":123726,"metaUuid":"f88dd498-f085-433d-b8ee-10b7f5aa0ef7"}
+{"nexusFileName":"Nightwarden Minthara - Nightly Hairdo","nexusFileVersion":"1.2.2","nexusFileUploadedAt":1786565490,"pakFileName":"NightwardenMinthara[NightlyHairdo].pak","nexusFileId":127935,"metaUuid":"dbad2898-9247-4734-bf93-91e6bf2ff8eb"},
+{"nexusFileName":"Nightwarden Minthara - Adytum","nexusFileVersion":"1.2.2","nexusFileUploadedAt":1786565507,"pakFileName":"NightwardenMinthara[Adytum].pak","nexusFileId":127936,"metaUuid":"f88dd498-f085-433d-b8ee-10b7f5aa0ef7"},
+{"nexusFileName":"Nightwarden Minthara - ABS","nexusFileVersion":"1.2.2","nexusFileUploadedAt":1786565535,"pakFileName":"NightwardenMinthara[Abs].pak","nexusFileId":127937,"metaUuid":"f88dd498-f085-433d-b8ee-10b7f5aa0ef7"},
+{"nexusFileName":"Nightwarden Minthara","nexusFileVersion":"1.2.2","nexusFileUploadedAt":1786565549,"pakFileName":"NightwardenMinthara.pak","nexusFileId":127938,"metaUuid":"f88dd498-f085-433d-b8ee-10b7f5aa0ef7"}
 ]},
 "22157":{"nexusModName":"Gale's Underwear Incident","nexusUploadedBy":"swissfred","nexusModId":22157,"paks":[
 {"nexusFileName":"Gale's Underwear Incident","nexusFileVersion":"1.0.8.0","nexusFileUploadedAt":1774725842,"pakFileName":"GalesUnderwearIncident_502e6ab8-518a-d3d3-54ca-90dc480bf487.pak","nexusFileId":117657,"metaUuid":"502e6ab8-518a-d3d3-54ca-90dc480bf487"}
@@ -68153,4 +68153,10 @@
 ]},
 "24395":{"nexusModName":"Heads by Goblin","nexusUploadedBy":"gobanaoblin","nexusModId":24395,"paks":[
 {"nexusFileName":"Thea","nexusFileVersion":"1","nexusFileUploadedAt":1786555232,"pakFileName":"Thea By Goblin.pak","nexusFileId":127926,"metaUuid":null}
+]},
+"24398":{"nexusModName":"Fade's Augmentation Runes","nexusUploadedBy":"GraphicFade","nexusModId":24398,"paks":[
+{"nexusFileName":"Fade's Augmentation Runes","nexusFileVersion":"1.0.0.1","nexusFileUploadedAt":1786564577,"pakFileName":"FAR_5e1efd5c-5e82-2c2a-6e9e-e070d141262d.pak","nexusFileId":127934,"metaUuid":null}
+]},
+"24399":{"nexusModName":"Stuffy Mcbears - Junk to Precious Minerals and Art Converter","nexusUploadedBy":"FerionLegacy","nexusModId":24399,"paks":[
+{"nexusFileName":"StuffyMcBears V1.0.0","nexusFileVersion":"1","nexusFileUploadedAt":1786566095,"pakFileName":"StuffyMcBears_v1.0.0.pak","nexusFileId":127939,"metaUuid":null}
 ]}}
