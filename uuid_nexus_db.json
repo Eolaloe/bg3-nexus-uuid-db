@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-08-12T02:51:38.679543+00:00","total_mods":17244},
+{"_meta":{"last_run":"2026-08-12T03:52:02.386158+00:00","total_mods":17244},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -46077,7 +46077,7 @@
 "16597":{"nexusModName":"Path of the Righteous","nexusUploadedBy":"Siaell","nexusModId":16597,"paks":[
 {"nexusFileName":"Medium armor","nexusFileVersion":"1.2","nexusFileUploadedAt":1773104330,"pakFileName":"Path of the Righteous - Medium.pak","nexusFileId":116430,"metaUuid":"25e27e09-c5cc-4846-a2f2-8ae1257ea283"},
 {"nexusFileName":"Additional icon","nexusFileVersion":"1.1","nexusFileUploadedAt":1778630497,"pakFileName":"Path of the Righteous - Icons.pak","nexusFileId":121097,"metaUuid":"776fd860-d6a1-4c7c-9bf6-ae21827fd23b"},
-{"nexusFileName":"Path of the Righteous","nexusFileVersion":"1.10.6","nexusFileUploadedAt":1784576412,"pakFileName":"Path of the Righteous.pak","nexusFileId":126089,"metaUuid":"60b7b37b-c006-4775-bda2-6ebb726acc12"}
+{"nexusFileName":"Path of the Righteous","nexusFileVersion":"1.10.7","nexusFileUploadedAt":1786504710,"pakFileName":"Path of the Righteous.pak","nexusFileId":127892,"metaUuid":"60b7b37b-c006-4775-bda2-6ebb726acc12"}
 ]},
 "16598":{"nexusModName":"Dual Wield Berserker Frenzied Strike","nexusUploadedBy":"Metallumere","nexusModId":16598,"paks":[
 {"nexusFileName":"DualWieldFrenziedStrike","nexusFileVersion":"Yesser","nexusFileUploadedAt":1747411653,"pakFileName":"DualWieldFrenziedStrike_d71b71e8-999b-8523-261f-9a755faf58b3.pak","nexusFileId":93117,"metaUuid":"d71b71e8-999b-8523-261f-9a755faf58b3"}
@@ -52199,7 +52199,7 @@
 {"nexusFileName":"Elminster Aumar Edits - The White Flame","nexusFileVersion":"1.0.0.3","nexusFileUploadedAt":1758612222,"pakFileName":"ElminsterTheWhiteWizard_5043f3ed-f5c9-f8cd-28b3-8749b8fbdff1.pak","nexusFileId":103481,"metaUuid":"5043f3ed-f5c9-f8cd-28b3-8749b8fbdff1"}
 ]},
 "18739":{"nexusModName":"The Sword of Kas","nexusUploadedBy":"Siaell","nexusModId":18739,"paks":[
-{"nexusFileName":"Sword of Kas","nexusFileVersion":"1.2","nexusFileUploadedAt":1759997425,"pakFileName":"Sword of Kas.pak","nexusFileId":104678,"metaUuid":"c270b1a7-cf4f-4079-b9e0-295b20ae00bb"}
+{"nexusFileName":"Sword of Kas","nexusFileVersion":"1.3","nexusFileUploadedAt":1786504646,"pakFileName":"Sword of Kas.pak","nexusFileId":127891,"metaUuid":"c270b1a7-cf4f-4079-b9e0-295b20ae00bb"}
 ]},
 "18740":{"nexusModName":"Dark Urge Bhaalspawn Lineage","nexusUploadedBy":"chizfreak","nexusModId":18740,"paks":[
 {"nexusFileName":"Dark Urge Bhaalspawn Lineage","nexusFileVersion":"2.0","nexusFileUploadedAt":1783368082,"pakFileName":"DurgeBhaalspawnAbilities_c286938b-37ed-0076-ff41-24d70759fc6b.pak","nexusFileId":125124,"metaUuid":"c286938b-37ed-0076-ff41-24d70759fc6b"}
@@ -60017,8 +60017,8 @@
 {"nexusFileName":"scionrogue","nexusFileVersion":"1.0.0.10","nexusFileUploadedAt":1770269758,"pakFileName":"ScionRogue_05326553-fc29-78d0-2e26-96d33b58ee5f.pak","nexusFileId":114159,"metaUuid":"05326553-fc29-78d0-2e26-96d33b58ee5f"}
 ]},
 "21304":{"nexusModName":"Bloodtrail - Path of Undeath Chapter 2 - Vampire","nexusUploadedBy":"Siaell","nexusModId":21304,"paks":[
-{"nexusFileName":"Path Of Undeath - Bloodtrail","nexusFileVersion":"2.1","nexusFileUploadedAt":1786117780,"pakFileName":"Path of Undeath - Bloodtrail.pak","nexusFileId":127512,"metaUuid":"57b41349-6574-4015-87dc-aea3fd1e4618"},
-{"nexusFileName":"Genderless Titles","nexusFileVersion":"1","nexusFileUploadedAt":1786117808,"pakFileName":"Path of Undeath - Bloodtrail - Genderless Titles.pak","nexusFileId":127513,"metaUuid":null}
+{"nexusFileName":"Genderless Titles","nexusFileVersion":"1","nexusFileUploadedAt":1786117808,"pakFileName":"Path of Undeath - Bloodtrail - Genderless Titles.pak","nexusFileId":127513,"metaUuid":null},
+{"nexusFileName":"Path Of Undeath - Bloodtrail","nexusFileVersion":"2.2","nexusFileUploadedAt":1786504585,"pakFileName":"Path of Undeath - Bloodtrail.pak","nexusFileId":127890,"metaUuid":"57b41349-6574-4015-87dc-aea3fd1e4618"}
 ]},
 "21308":{"nexusModName":"Goon's Companion Protection for Korean","nexusUploadedBy":"Eolaloe","nexusModId":21308,"paks":[
 {"nexusFileName":"Goon's Companion Protection for Korean","nexusFileVersion":"2.1.0.0","nexusFileUploadedAt":1781021231,"pakFileName":"Goons Companion Protection_kr.pak","nexusFileId":123241,"metaUuid":"2e4505a2-c2ab-427b-8cbc-4ceb01cd5720"}
@@ -68080,7 +68080,7 @@
 {"nexusFileName":"UnlockLevelCurveFR","nexusFileVersion":"2.0.0.27","nexusFileUploadedAt":1786350336,"pakFileName":"UnlockLevelCurve_FR_400038c7-7e8c-4cde-81db-a82af76ceca7.pak","nexusFileId":127752,"metaUuid":null}
 ]},
 "24362":{"nexusModName":"Skeletor's Havoc Staff","nexusUploadedBy":"SHanson70","nexusModId":24362,"paks":[
-{"nexusFileName":"Skeletor's Havoc Staff","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1786352871,"pakFileName":"HavocStaff.pak","nexusFileId":127755,"metaUuid":null}
+{"nexusFileName":"Skeletor's Havoc Staff","nexusFileVersion":"1.0.1","nexusFileUploadedAt":1786506592,"pakFileName":"HavocStaff.pak","nexusFileId":127893,"metaUuid":null}
 ]},
 "24363":{"nexusModName":"Automatic Great Weapon Master and Sharpshooter","nexusUploadedBy":"migeandend","nexusModId":24363,"paks":[
 {"nexusFileName":"AutoGWM Original","nexusFileVersion":"1","nexusFileUploadedAt":1786380506,"pakFileName":"AutoGWM_223d31a4-11b6-19c3-0bee-a8a84f80c126.pak","nexusFileId":127778,"metaUuid":"223d31a4-11b6-19c3-0bee-a8a84f80c126"},
