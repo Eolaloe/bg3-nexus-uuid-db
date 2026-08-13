@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-08-13T01:52:06.898150+00:00","total_mods":17253},
+{"_meta":{"last_run":"2026-08-13T02:52:09.599502+00:00","total_mods":17253},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -34007,10 +34007,23 @@
 ]},
 "11965":{"nexusModName":"Fantastical Multiverse - Legacy Edition","nexusUploadedBy":"DungeonsAndSouls","nexusModId":11965,"paks":[
 {"nexusFileName":"Fantastical Drow","nexusFileVersion":"1.5","nexusFileUploadedAt":1734324663,"pakFileName":"Fantastical Drow.pak","nexusFileId":81965,"metaUuid":null},
-{"nexusFileName":"Patch - Powerful Build Gains Brute Trait","nexusFileVersion":"1.6","nexusFileUploadedAt":1734379290,"pakFileName":"Fantastical Powerful Brutes.pak","nexusFileId":82002,"metaUuid":null},
-{"nexusFileName":"PATCH - Invisible Bugbear Male Body","nexusFileVersion":"1.7","nexusFileUploadedAt":1734379488,"pakFileName":"Bugbear - Invisible Body.pak","nexusFileId":82003,"metaUuid":null},
 {"nexusFileName":"Fantastical Dhampir MS Head -Patch-","nexusFileVersion":"1.7","nexusFileUploadedAt":1739704023,"pakFileName":"FantasticalDhampir_MS_Head.pak","nexusFileId":85939,"metaUuid":null},
-{"nexusFileName":"Fantastical Multiverse - All-In-One","nexusFileVersion":"1.9.5.0","nexusFileUploadedAt":1785947634,"pakFileName":"Fantastical-Multiverse.pak","nexusFileId":127377,"metaUuid":"1a518a6a-c645-4a31-9619-dbe86de1938f"}
+{"nexusFileName":"Fantastical Multiverse - All-In-One","nexusFileVersion":"1.9.5.5","nexusFileUploadedAt":1786586040,"pakFileName":"Fantastical-Multiverse.pak","nexusFileId":127947,"metaUuid":"1a518a6a-c645-4a31-9619-dbe86de1938f"},
+{"nexusFileName":"Fantastical Framework","nexusFileVersion":"1.9.5.5","nexusFileUploadedAt":1786586346,"pakFileName":"Fantastical-Framework.pak","nexusFileId":127948,"metaUuid":null},
+{"nexusFileName":"Fantastical Air Genasi","nexusFileVersion":"1.9.5.5","nexusFileUploadedAt":1786586459,"pakFileName":"Fantastical-AirGenasi.pak","nexusFileId":127949,"metaUuid":null},
+{"nexusFileName":"Fantastical Astral Elf","nexusFileVersion":"1.9.5.5","nexusFileUploadedAt":1786586577,"pakFileName":"Fantastical-AstralElf.pak","nexusFileId":127950,"metaUuid":null},
+{"nexusFileName":"Fantastical Bugbear","nexusFileVersion":"1.9.5.5","nexusFileUploadedAt":1786586841,"pakFileName":"Fantastical-Bugbear.pak","nexusFileId":127951,"metaUuid":null},
+{"nexusFileName":"Fantastical Dhampir","nexusFileVersion":"1.9.5.5","nexusFileUploadedAt":1786586906,"pakFileName":"Fantastical-Dhampir.pak","nexusFileId":127952,"metaUuid":null},
+{"nexusFileName":"Fantastical Downcast","nexusFileVersion":"1.9.5.5","nexusFileUploadedAt":1786587255,"pakFileName":"Fantastical-Downcast.pak","nexusFileId":127953,"metaUuid":null},
+{"nexusFileName":"Fantastical Earth Genasi","nexusFileVersion":"1.9.5.5","nexusFileUploadedAt":1786587307,"pakFileName":"Fantastical-EarthGenasi.pak","nexusFileId":127954,"metaUuid":null},
+{"nexusFileName":"Fantastical Elezen","nexusFileVersion":"1.9.5.5","nexusFileUploadedAt":1786587386,"pakFileName":"Fantastical-Elezen.pak","nexusFileId":127955,"metaUuid":null},
+{"nexusFileName":"Fantastical Firbolg","nexusFileVersion":"1.9.5.5","nexusFileUploadedAt":1786587427,"pakFileName":"Fantastical-Firbolg.pak","nexusFileId":127956,"metaUuid":null},
+{"nexusFileName":"Fantastical Fire Genasi","nexusFileVersion":"1.9.5.5","nexusFileUploadedAt":1786587475,"pakFileName":"Fantastical-FireGenasi.pak","nexusFileId":127957,"metaUuid":null},
+{"nexusFileName":"Fantastical Githzerai","nexusFileVersion":"1.9.5.5","nexusFileUploadedAt":1786587552,"pakFileName":"Fantastical-Githzerai.pak","nexusFileId":127958,"metaUuid":null},
+{"nexusFileName":"Fantastical Goliath","nexusFileVersion":"1.9.5.5","nexusFileUploadedAt":1786587625,"pakFileName":"Fantastical-Goliath.pak","nexusFileId":127959,"metaUuid":null},
+{"nexusFileName":"Fantastical Kalashtar","nexusFileVersion":"1.9.5.5","nexusFileUploadedAt":1786589151,"pakFileName":"Fantastical-Kalashtar.pak","nexusFileId":127960,"metaUuid":null},
+{"nexusFileName":"Fantastical Kender","nexusFileVersion":"1.9.5.5","nexusFileUploadedAt":1786589351,"pakFileName":"Fantastical-Kender.pak","nexusFileId":127961,"metaUuid":null},
+{"nexusFileName":"Fantastical Kobolds","nexusFileVersion":"1.9.5.5","nexusFileUploadedAt":1786589410,"pakFileName":"Fantastical-Kobold.pak","nexusFileId":127962,"metaUuid":null}
 ]},
 "11966":{"nexusModName":"Eldritch Knight Spellcasting Modifier UI BUGFIX","nexusUploadedBy":"chizfreak","nexusModId":11966,"paks":[
 {"nexusFileName":"EK Spellcasting Mod UI BUGFIX","nexusFileVersion":"1.0","nexusFileUploadedAt":1725483217,"pakFileName":"Eldritch Knight Spellcasting Modifier UI Fix.pak","nexusFileId":68733,"metaUuid":"8e33d884-6428-47cb-af36-43acbe39ca03"}
