@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-08-13T05:52:23.794075+00:00","total_mods":17254},
+{"_meta":{"last_run":"2026-08-13T06:52:06.177717+00:00","total_mods":17254},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -587,7 +587,8 @@
 ]},
 "434":{"nexusModName":"Unearthed Manual","nexusUploadedBy":"DungeonsAndSouls","nexusModId":434,"paks":[
 {"nexusFileName":"Unearthed Manual - Hit Dice","nexusFileVersion":"1","nexusFileUploadedAt":1777217814,"pakFileName":"UnearthedManual-HitDice_cfd20257-e782-e56f-c942-15c10e36f01f.pak","nexusFileId":119934,"metaUuid":"cfd20257-e782-e56f-c942-15c10e36f01f"},
-{"nexusFileName":"Unearthed Manual - Initiate Feat","nexusFileVersion":"2.0.0.6","nexusFileUploadedAt":1777217943,"pakFileName":"UnearthedManual-InitiateFeat_4f4cd563-2233-dcee-1df5-9df15422f8bc.pak","nexusFileId":119936,"metaUuid":"4f4cd563-2233-dcee-1df5-9df15422f8bc"}
+{"nexusFileName":"Unearthed Manual - Initiate Feat","nexusFileVersion":"2.0.0.6","nexusFileUploadedAt":1777217943,"pakFileName":"UnearthedManual-InitiateFeat_4f4cd563-2233-dcee-1df5-9df15422f8bc.pak","nexusFileId":119936,"metaUuid":"4f4cd563-2233-dcee-1df5-9df15422f8bc"},
+{"nexusFileName":"Unearthed Manual (All-In-One)","nexusFileVersion":"1.0.0.11","nexusFileUploadedAt":1786601789,"pakFileName":"UnearthedManual-AIO_00b06eba-26cd-ce77-955e-30ba165d039d.pak","nexusFileId":127984,"metaUuid":null}
 ]},
 "440":{"nexusModName":"Fabled Backgrounds","nexusUploadedBy":"DungeonsAndSouls","nexusModId":440,"paks":[
 {"nexusFileName":"Fabled Backgrounds","nexusFileVersion":"9.0","nexusFileUploadedAt":1677162493,"pakFileName":"Fabled Backgrounds.pak","nexusFileId":4214,"metaUuid":null},
@@ -68192,4 +68193,7 @@
 ]},
 "24403":{"nexusModName":"Progressive Ceremorphosis","nexusUploadedBy":"ShadyEl","nexusModId":24403,"paks":[
 {"nexusFileName":"Progressive Ceremorphosis","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1786591530,"pakFileName":"SHProgressiveCeremorphosis.pak","nexusFileId":127978,"metaUuid":null}
+]},
+"24404":{"nexusModName":"Ranged Pact Weapon","nexusUploadedBy":"JThug","nexusModId":24404,"paks":[
+{"nexusFileName":"Ranged Pact Weapon 1.0.0","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1786597358,"pakFileName":"StarkPactWeapon.pak","nexusFileId":127983,"metaUuid":null}
 ]}}
