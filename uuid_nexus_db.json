@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-08-13T20:51:44.204702+00:00","total_mods":17260},
+{"_meta":{"last_run":"2026-08-13T21:51:34.723077+00:00","total_mods":17261},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -42251,7 +42251,7 @@
 {"nexusFileName":"FeatsOverhaul HitDicePatch","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1779231272,"pakFileName":"FeatsOverhaul_HitDicePatch.pak","nexusFileId":121718,"metaUuid":"19edd084-c1bd-4042-a9f1-61a7817448d1"},
 {"nexusFileName":"FeatsOverhaul DualWielderPatch","nexusFileVersion":"1.0.2","nexusFileUploadedAt":1780003994,"pakFileName":"FeatsOverhaul_DualWielderPatch.pak","nexusFileId":122374,"metaUuid":"f1f0cb96-009b-40fa-b309-fcd26124bcb9"},
 {"nexusFileName":"FeatsOverhaul RangedWeaponsRebalancePatch","nexusFileVersion":"1.0.1","nexusFileUploadedAt":1784642162,"pakFileName":"FeatsOverhaul_RangedWeaponsRebalancePatch.pak","nexusFileId":126140,"metaUuid":"0a8a9f67-ac60-4cb1-8acb-1976c66b085d"},
-{"nexusFileName":"FeatsOverhaul","nexusFileVersion":"1.5.14","nexusFileUploadedAt":1785260367,"pakFileName":"FeatsOverhaul.pak","nexusFileId":126682,"metaUuid":"c2f1a230-8c0c-481b-9ab2-987e27d7db05"}
+{"nexusFileName":"FeatsOverhaul","nexusFileVersion":"1.5.15","nexusFileUploadedAt":1786657609,"pakFileName":"FeatsOverhaul.pak","nexusFileId":128041,"metaUuid":"c2f1a230-8c0c-481b-9ab2-987e27d7db05"}
 ]},
 "15045":{"nexusModName":"5e Ranger Subclasses Combined_KOR","nexusUploadedBy":"Ahdarugo","nexusModId":15045,"paks":[
 {"nexusFileName":"5e Ranger Subclasses Combined_KOR","nexusFileVersion":"2.0.0.3","nexusFileUploadedAt":1770134218,"pakFileName":"ranger__6473a445-3c30-7721-47ce-966e72fab1fd.pak","nexusFileId":114048,"metaUuid":"6473a445-3c30-7721-47ce-966e72fab1fd"}
@@ -49952,7 +49952,7 @@
 ]},
 "17926":{"nexusModName":"Goon's Fighter Overhaul","nexusUploadedBy":"BaldursGoonsack","nexusModId":17926,"paks":[
 {"nexusFileName":"Goon's Fighter Overhaul - Returning Weapon QOL","nexusFileVersion":"1.0.2.0","nexusFileUploadedAt":1770513001,"pakFileName":"Goon's Fighter Overhaul - Returning Weapon QOL Patch.pak","nexusFileId":114346,"metaUuid":"67a95228-1a41-4b36-a5a3-58ca08d25e4f"},
-{"nexusFileName":"Goon's Fighter Overhaul","nexusFileVersion":"1.1.0.0","nexusFileUploadedAt":1785351035,"pakFileName":"Goon's Fighter Overhaul.pak","nexusFileId":126782,"metaUuid":"740d328b-90e1-4cac-8899-1cca15b7dc55"}
+{"nexusFileName":"Goon's Fighter Overhaul","nexusFileVersion":"1.1.1.0","nexusFileUploadedAt":1786655894,"pakFileName":"Goon's Fighter Overhaul.pak","nexusFileId":128038,"metaUuid":"740d328b-90e1-4cac-8899-1cca15b7dc55"}
 ]},
 "17927":{"nexusModName":"Mirror Image Hybrid - CHS","nexusUploadedBy":"hanli","nexusModId":17927,"paks":[
 {"nexusFileName":"Mirror Image Hybrid - CHS","nexusFileVersion":"4.1","nexusFileUploadedAt":1782124168,"pakFileName":"Mirror Image Hybrid - CHS.pak","nexusFileId":124078,"metaUuid":null}
@@ -66906,7 +66906,7 @@
 {"nexusFileName":"FiendHunterSet","nexusFileVersion":"1","nexusFileUploadedAt":1783997566,"pakFileName":"FiendHunterBattlehammer_66ca89a2-3c01-fe78-6d7c-074b564c34b8.pak","nexusFileId":125598,"metaUuid":"66ca89a2-3c01-fe78-6d7c-074b564c34b8"}
 ]},
 "23861":{"nexusModName":"Goon's Attack of Opportunity Overhaul with Optional Critical Miss AoO","nexusUploadedBy":"BaldursGoonsack","nexusModId":23861,"paks":[
-{"nexusFileName":"Goon's Attack Of Opportunity Overhaul","nexusFileVersion":"1.4.0.0","nexusFileUploadedAt":1786534733,"pakFileName":"Goon's Attack of Opportunity Overhaul.pak","nexusFileId":127909,"metaUuid":"682e9bdc-9887-4de7-a6f8-a21ef2b8290c"}
+{"nexusFileName":"Goon's Attack Of Opportunity Overhaul","nexusFileVersion":"1.4.1.0","nexusFileUploadedAt":1786654350,"pakFileName":"Goon's Attack of Opportunity Overhaul.pak","nexusFileId":128037,"metaUuid":"682e9bdc-9887-4de7-a6f8-a21ef2b8290c"}
 ]},
 "23862":{"nexusModName":"Guildmasters Present - Vedalken","nexusUploadedBy":"queenplouton","nexusModId":23862,"paks":[
 {"nexusFileName":"Vedalken 337774d1 5069 2339 0fbc 146cc656d1bc","nexusFileVersion":"1","nexusFileUploadedAt":1785675504,"pakFileName":"Vedalken_337774d1-5069-2339-0fbc-146cc656d1bc.pak","nexusFileId":127119,"metaUuid":"337774d1-5069-2339-0fbc-146cc656d1bc"}
@@ -68119,8 +68119,8 @@
 {"nexusFileName":"NameYourSummons 1.0.0","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1786393334,"pakFileName":"NameYourSummons-1.0.0.pak","nexusFileId":127791,"metaUuid":"04825fb4-1f56-40ab-8bde-ff1ebfa4c003"}
 ]},
 "24367":{"nexusModName":"Find More Familiars","nexusUploadedBy":"edhelsereg","nexusModId":24367,"paks":[
-{"nexusFileName":"Find More Familiars","nexusFileVersion":"2.6","nexusFileUploadedAt":1786597071,"pakFileName":"Edh_Familiars_9e296d8e-02fa-843d-6ce9-06bc6cfb8e98.pak","nexusFileId":127982,"metaUuid":"9e296d8e-02fa-843d-6ce9-06bc6cfb8e98"},
-{"nexusFileName":"Find More Familiars","nexusFileVersion":"2.6","nexusFileUploadedAt":1786597071,"pakFileName":"._Edh_Familiars_9e296d8e-02fa-843d-6ce9-06bc6cfb8e98.pak","nexusFileId":127982,"metaUuid":"9e296d8e-02fa-843d-6ce9-06bc6cfb8e98"}
+{"nexusFileName":"Find More Familiars","nexusFileVersion":"2.6.1","nexusFileUploadedAt":1786657170,"pakFileName":"Edh_Familiars_9e296d8e-02fa-843d-6ce9-06bc6cfb8e98-2.pak","nexusFileId":128040,"metaUuid":null},
+{"nexusFileName":"Find More Familiars","nexusFileVersion":"2.6.1","nexusFileUploadedAt":1786657170,"pakFileName":"._Edh_Familiars_9e296d8e-02fa-843d-6ce9-06bc6cfb8e98-2.pak","nexusFileId":128040,"metaUuid":null}
 ]},
 "24369":{"nexusModName":"Auto-Sorting Hotbar","nexusUploadedBy":"Eolaloe","nexusModId":24369,"paks":[
 {"nexusFileName":"Auto-Sorting Hotbar","nexusFileVersion":"1.0.0.2","nexusFileUploadedAt":1786477748,"pakFileName":"hotbarsort.pak","nexusFileId":127866,"metaUuid":"27ed5bd3-edc0-4f87-9559-6624934945f8"}
@@ -68216,4 +68216,7 @@
 ]},
 "24411":{"nexusModName":"Merigold the Fearless - Triss Merigold's alternative outfit","nexusUploadedBy":"yonhi","nexusModId":24411,"paks":[
 {"nexusFileName":"Merigold the Fearless","nexusFileVersion":"1","nexusFileUploadedAt":1786651787,"pakFileName":"TrissAlternative_cc6e60f6-3eeb-68e5-42fe-203296f97111.pak","nexusFileId":128035,"metaUuid":null}
+]},
+"24413":{"nexusModName":"End-turn Exploit Fix","nexusUploadedBy":"joow92","nexusModId":24413,"paks":[
+{"nexusFileName":"EndTurnExploitFix","nexusFileVersion":"1","nexusFileUploadedAt":1786657083,"pakFileName":"EndTurnExploitFix.pak","nexusFileId":128039,"metaUuid":null}
 ]}}
