@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-08-14T14:51:22.775110+00:00","total_mods":17263},
+{"_meta":{"last_run":"2026-08-14T15:51:36.340097+00:00","total_mods":17264},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -54327,7 +54327,7 @@
 {"nexusFileName":"Frost equipment","nexusFileVersion":"1.1.1.0","nexusFileUploadedAt":1775289728,"pakFileName":"Frostequipment.pak","nexusFileId":118077,"metaUuid":"c4996547-c985-4826-84ec-8463c3abb05b"}
 ]},
 "19504":{"nexusModName":"Better Dimension Door","nexusUploadedBy":"tmccormack03","nexusModId":19504,"paks":[
-{"nexusFileName":"Better Dimension Door","nexusFileVersion":"1","nexusFileUploadedAt":1762100709,"pakFileName":"BetterDimensionDoor_147622be-f16f-8523-d1ef-05e9e6231bc8.pak","nexusFileId":106595,"metaUuid":"147622be-f16f-8523-d1ef-05e9e6231bc8"}
+{"nexusFileName":"Better Dimension Door","nexusFileVersion":"2","nexusFileUploadedAt":1786722260,"pakFileName":"BetterDimensionDoor_147622be-f16f-8523-d1ef-05e9e6231bc8.pak","nexusFileId":128072,"metaUuid":"147622be-f16f-8523-d1ef-05e9e6231bc8"}
 ]},
 "19505":{"nexusModName":"Better Fire Shield","nexusUploadedBy":"tmccormack03","nexusModId":19505,"paks":[
 {"nexusFileName":"BetterFireShield","nexusFileVersion":"1","nexusFileUploadedAt":1762103090,"pakFileName":"BetterFireShield_eee17b45-6e66-aaea-3c59-cdc00e496423.pak","nexusFileId":106597,"metaUuid":"eee17b45-6e66-aaea-3c59-cdc00e496423"}
@@ -54375,7 +54375,8 @@
 {"nexusFileName":"Simple Damage Feats for Casters","nexusFileVersion":"1.0","nexusFileUploadedAt":1762194053,"pakFileName":"CasterFeatMod_544735e8-f9bf-4cc3-5862-37ca927773eb.pak","nexusFileId":106678,"metaUuid":"544735e8-f9bf-4cc3-5862-37ca927773eb"}
 ]},
 "19520":{"nexusModName":"Better Second Wind","nexusUploadedBy":"tmccormack03","nexusModId":19520,"paks":[
-{"nexusFileName":"BetterSecondWind","nexusFileVersion":"1.2","nexusFileUploadedAt":1762287210,"pakFileName":"BetterSecondWind_19537c69-a9e4-2d56-5786-0f442d7db6be.pak","nexusFileId":106778,"metaUuid":"19537c69-a9e4-2d56-5786-0f442d7db6be"}
+{"nexusFileName":"Better Second Wind 2d8 Version","nexusFileVersion":"1","nexusFileUploadedAt":1762287210,"pakFileName":"BetterSecondWind_19537c69-a9e4-2d56-5786-0f442d7db6be.pak","nexusFileId":106778,"metaUuid":"19537c69-a9e4-2d56-5786-0f442d7db6be"},
+{"nexusFileName":"Better Second Wind 1d10 Version","nexusFileVersion":"1","nexusFileUploadedAt":1786721534,"pakFileName":"BetterSecondWind_19537c69-a9e4-2d56-5786-0f442d7db6be.pak","nexusFileId":128071,"metaUuid":"19537c69-a9e4-2d56-5786-0f442d7db6be"}
 ]},
 "19521":{"nexusModName":"House of Grief's New Look","nexusUploadedBy":"Khloii1","nexusModId":19521,"paks":[
 {"nexusFileName":"House of Grief's New Look","nexusFileVersion":"1.2","nexusFileUploadedAt":1768410957,"pakFileName":"House_of_Grief_New_Look_20d539e6-3e8b-c172-38db-c8c789bebade.pak","nexusFileId":112177,"metaUuid":"20d539e6-3e8b-c172-38db-c8c789bebade"}
@@ -68226,4 +68227,7 @@
 ]},
 "24416":{"nexusModName":"Consort (A Love Tale)","nexusUploadedBy":"radiostacey","nexusModId":24416,"paks":[
 {"nexusFileName":"ConsortALoveTale","nexusFileVersion":"1","nexusFileUploadedAt":1786685439,"pakFileName":"ConsortALoveTale.pak","nexusFileId":128052,"metaUuid":null}
+]},
+"24417":{"nexusModName":"Sorceress' Dress - BT1 BT3","nexusUploadedBy":"euryalex","nexusModId":24417,"paks":[
+{"nexusFileName":"Sorceress' Armor","nexusFileVersion":"1","nexusFileUploadedAt":1786720915,"pakFileName":"Sorceress_Armor.pak","nexusFileId":128070,"metaUuid":null}
 ]}}
