@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-08-14T16:51:54.433731+00:00","total_mods":17264},
+{"_meta":{"last_run":"2026-08-14T17:51:34.869073+00:00","total_mods":17266},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -19566,10 +19566,10 @@
 {"nexusFileName":"Dream Warrior's Armoury","nexusFileVersion":"1.0","nexusFileUploadedAt":1706188665,"pakFileName":"Dreamarmour.pak","nexusFileId":41634,"metaUuid":"feef2f13-89c4-4e1c-a049-13777db4411e"}
 ]},
 "6201":{"nexusModName":"Keyblade Master Class - Kingdom Hearts","nexusUploadedBy":"Flemsus","nexusModId":6201,"paks":[
-{"nexusFileName":"Keyblade Master","nexusFileVersion":"5.9","nexusFileUploadedAt":1746865843,"pakFileName":"KHM.pak","nexusFileId":92384,"metaUuid":"0beb69aa-e6b3-46dd-bdd4-e64bfdb1b4db"},
 {"nexusFileName":"Keyblade Master - Charisma","nexusFileVersion":"5.9","nexusFileUploadedAt":1747066046,"pakFileName":"KHM_CHA.pak","nexusFileId":92676,"metaUuid":null},
 {"nexusFileName":"Keyblade Master - Intelligence","nexusFileVersion":"5.9","nexusFileUploadedAt":1747066079,"pakFileName":"KHM_INT.pak","nexusFileId":92677,"metaUuid":null},
-{"nexusFileName":"Keyblade Master - Classes Combined","nexusFileVersion":"5.9","nexusFileUploadedAt":1747066110,"pakFileName":"KHM_Combined.pak","nexusFileId":92678,"metaUuid":null}
+{"nexusFileName":"Keyblade Master - Classes Combined","nexusFileVersion":"5.9","nexusFileUploadedAt":1747066110,"pakFileName":"KHM_Combined.pak","nexusFileId":92678,"metaUuid":null},
+{"nexusFileName":"Keyblade Master","nexusFileVersion":"5.10","nexusFileUploadedAt":1786728409,"pakFileName":"KHM.pak","nexusFileId":128074,"metaUuid":"0beb69aa-e6b3-46dd-bdd4-e64bfdb1b4db"}
 ]},
 "6202":{"nexusModName":"Lolth-Sworn Drow Any Deity","nexusUploadedBy":"AshlynnMods","nexusModId":6202,"paks":[
 {"nexusFileName":"Lolth-Sworn Drow Any Deity","nexusFileVersion":"2.0.2.0","nexusFileUploadedAt":1706399951,"pakFileName":"CF_LolthDrowAnyDeity.pak","nexusFileId":42086,"metaUuid":"63566019-4645-4562-aa30-654cea17462b"}
@@ -67724,7 +67724,7 @@
 "24156":{"nexusModName":"Rogue Class Expansion","nexusUploadedBy":"dama10032","nexusModId":24156,"paks":[
 {"nexusFileName":"Rogue Class Expansion","nexusFileVersion":"1","nexusFileUploadedAt":1785427453,"pakFileName":"游荡者调整 RogueFix.pak","nexusFileId":126842,"metaUuid":"4360ef98-2035-471e-982e-421898f6244b"}
 ]},
-"24157":{"nexusModName":"Rogue (Classic Undivided Rogue Restoration)","nexusUploadedBy":"FortisEstVeritas","nexusModId":24157,"paks":[
+"24157":{"nexusModName":"Rogue (True Rogue Restoration)","nexusUploadedBy":"FortisEstVeritas","nexusModId":24157,"paks":[
 {"nexusFileName":"Rogue","nexusFileVersion":"1.0","nexusFileUploadedAt":1785687850,"pakFileName":"Rogue.pak","nexusFileId":127141,"metaUuid":null}
 ]},
 "24159":{"nexusModName":"STAV-UTAV Body Patcher","nexusUploadedBy":"EvilSnail0fDestruktion","nexusModId":24159,"paks":[
@@ -68269,4 +68269,10 @@
 ]},
 "24417":{"nexusModName":"Sorceress' Dress - BT1 BT3","nexusUploadedBy":"euryalex","nexusModId":24417,"paks":[
 {"nexusFileName":"Sorceress' Armor","nexusFileVersion":"1","nexusFileUploadedAt":1786720915,"pakFileName":"Sorceress_Armor.pak","nexusFileId":128070,"metaUuid":null}
+]},
+"24419":{"nexusModName":"Outfits Dummy Auto-Patcher (UAP)","nexusUploadedBy":"Nzx","nexusModId":24419,"paks":[
+{"nexusFileName":"Outfits Dummy Auto-Patcher (UAP)","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1786727191,"pakFileName":"Outfits Dummy Auto-Patcher [UAP].pak","nexusFileId":128073,"metaUuid":null}
+]},
+"24421":{"nexusModName":"Dark Urge Meat Cleaver","nexusUploadedBy":"dama10032","nexusModId":24421,"paks":[
+{"nexusFileName":"Dark Urge Meat Cleaver","nexusFileVersion":"1","nexusFileUploadedAt":1786728502,"pakFileName":"DarkUrgeMeatCleaver.pak","nexusFileId":128075,"metaUuid":null}
 ]}}
