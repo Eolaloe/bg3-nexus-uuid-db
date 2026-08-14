@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-08-14T21:51:48.480405+00:00","total_mods":17267},
+{"_meta":{"last_run":"2026-08-14T22:51:49.119087+00:00","total_mods":17267},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -3679,15 +3679,16 @@
 {"nexusFileName":"HaarlepasTrueRaphael Patch 7","nexusFileVersion":"1.1","nexusFileUploadedAt":1726604307,"pakFileName":"HaarlepAsTrueRaphael.pak","nexusFileId":71612,"metaUuid":"bdc81ff3-a3df-4dce-b278-bd19d07d0293"}
 ]},
 "1344":{"nexusModName":"Amakuni Katana","nexusUploadedBy":"sankojin","nexusModId":1344,"paks":[
-{"nexusFileName":"All weapons are light Basic fighter gear","nexusFileVersion":"1.0.3","nexusFileUploadedAt":1693797166,"pakFileName":"Amakuni.pak","nexusFileId":13127,"metaUuid":null},
-{"nexusFileName":"Does not start with katanas and only d6 light","nexusFileVersion":"1.0.3","nexusFileUploadedAt":1693797547,"pakFileName":"Amakuni.pak","nexusFileId":13130,"metaUuid":null},
-{"nexusFileName":"Fighters start with katanas only d6 light","nexusFileVersion":"1.0.3","nexusFileUploadedAt":1693797627,"pakFileName":"Amakuni.pak","nexusFileId":13131,"metaUuid":null},
-{"nexusFileName":"Chose if playing as a rogue or assassin","nexusFileVersion":"1.0.4","nexusFileUploadedAt":1694992545,"pakFileName":"Amakuni.pak","nexusFileId":16708,"metaUuid":null},
-{"nexusFileName":"Amakuni Odachi aka Greatsword version","nexusFileVersion":"1.0.4","nexusFileUploadedAt":1695583376,"pakFileName":"Amakuni.pak","nexusFileId":18371,"metaUuid":null},
+{"nexusFileName":"All weapons are light Basic fighter gear","nexusFileVersion":"1.0.3","nexusFileUploadedAt":1693797166,"pakFileName":"Amakuni.pak","nexusFileId":13127,"metaUuid":"afec2692-0a4d-4698-aac2-87fe2ce22b4b"},
+{"nexusFileName":"Does not start with katanas and only d6 light","nexusFileVersion":"1.0.3","nexusFileUploadedAt":1693797547,"pakFileName":"Amakuni.pak","nexusFileId":13130,"metaUuid":"afec2692-0a4d-4698-aac2-87fe2ce22b4b"},
+{"nexusFileName":"Fighters start with katanas only d6 light","nexusFileVersion":"1.0.3","nexusFileUploadedAt":1693797627,"pakFileName":"Amakuni.pak","nexusFileId":13131,"metaUuid":"afec2692-0a4d-4698-aac2-87fe2ce22b4b"},
+{"nexusFileName":"Chose if playing as a rogue or assassin","nexusFileVersion":"1.0.4","nexusFileUploadedAt":1694992545,"pakFileName":"Amakuni.pak","nexusFileId":16708,"metaUuid":"afec2692-0a4d-4698-aac2-87fe2ce22b4b"},
+{"nexusFileName":"Amakuni Odachi aka Greatsword version","nexusFileVersion":"1.0.4","nexusFileUploadedAt":1695583376,"pakFileName":"Amakuni.pak","nexusFileId":18371,"metaUuid":"afec2692-0a4d-4698-aac2-87fe2ce22b4b"},
 {"nexusFileName":"Amakuni and Red Dragon Katana","nexusFileVersion":"1.0.3","nexusFileUploadedAt":1696791757,"pakFileName":"Amakuni.pak","nexusFileId":21461,"metaUuid":"afec2692-0a4d-4698-aac2-87fe2ce22b4b"},
-{"nexusFileName":"Amakuni and Dragon for rogues plus assassins'","nexusFileVersion":"1.0.1","nexusFileUploadedAt":1696991070,"pakFileName":"Amakuni.pak","nexusFileId":22010,"metaUuid":null},
-{"nexusFileName":"light Amakuni and Dragon for rogues n assassins","nexusFileVersion":"1.0.1","nexusFileUploadedAt":1696991724,"pakFileName":"Amakuni.pak","nexusFileId":22011,"metaUuid":null},
-{"nexusFileName":"Amakuni and Red Dragon non-versatile","nexusFileVersion":"1.0.1","nexusFileUploadedAt":1697429513,"pakFileName":"Amakuni.pak","nexusFileId":23336,"metaUuid":"afec2692-0a4d-4698-aac2-87fe2ce22b4b"}
+{"nexusFileName":"Amakuni and Dragon for rogues plus assassins'","nexusFileVersion":"1.0.1","nexusFileUploadedAt":1696991070,"pakFileName":"Amakuni.pak","nexusFileId":22010,"metaUuid":"afec2692-0a4d-4698-aac2-87fe2ce22b4b"},
+{"nexusFileName":"light Amakuni and Dragon for rogues n assassins","nexusFileVersion":"1.0.1","nexusFileUploadedAt":1696991724,"pakFileName":"Amakuni.pak","nexusFileId":22011,"metaUuid":"afec2692-0a4d-4698-aac2-87fe2ce22b4b"},
+{"nexusFileName":"Amakuni and Red Dragon non-versatile","nexusFileVersion":"1.0.1","nexusFileUploadedAt":1697429513,"pakFileName":"Amakuni.pak","nexusFileId":23336,"metaUuid":"afec2692-0a4d-4698-aac2-87fe2ce22b4b"},
+{"nexusFileName":"Amakuni Phalar Aluve","nexusFileVersion":"1","nexusFileUploadedAt":1725061119,"pakFileName":"AmakuniPhalarAluve.pak","nexusFileId":68403,"metaUuid":null}
 ]},
 "1345":{"nexusModName":"Unlocked Unarmed Strike","nexusUploadedBy":"AzraelTheSorrowful","nexusModId":1345,"paks":[
 {"nexusFileName":"UnlockedUnarmedStrike","nexusFileVersion":"1.5.0","nexusFileUploadedAt":1731959540,"pakFileName":"UnlockedUnarmedStrike.pak","nexusFileId":79298,"metaUuid":"558bd4c9-260a-40d2-add9-455d95aecb47"},
@@ -40890,7 +40891,7 @@
 {"nexusFileName":"NPC Revamp - Alfira Joins the Party Patch","nexusFileVersion":"1.0.2","nexusFileUploadedAt":1737942980,"pakFileName":"NPC_Revamp_Tiefling_Alfira_Joins_The_Party.pak","nexusFileId":84813,"metaUuid":"840d9bea-53fd-4a8e-995e-1a75a5135077"}
 ]},
 "14505":{"nexusModName":"Armouries of the Allegiant","nexusUploadedBy":"FrancisN934757","nexusModId":14505,"paks":[
-{"nexusFileName":"ArmouriesOfTheAllegiant","nexusFileVersion":"2.1.1.3","nexusFileUploadedAt":1778375438,"pakFileName":"ArmouriesOfTheAllegiant.pak","nexusFileId":120859,"metaUuid":"75d0f89f-c212-4433-83fc-1d63bf7efb10"}
+{"nexusFileName":"ArmouriesOfTheAllegiant","nexusFileVersion":"2.1.1.4","nexusFileUploadedAt":1786744614,"pakFileName":"ArmouriesOfTheAllegiant.pak","nexusFileId":128086,"metaUuid":"75d0f89f-c212-4433-83fc-1d63bf7efb10"}
 ]},
 "14506":{"nexusModName":"Legacy of Death - True Dark Urge Experience CHS","nexusUploadedBy":"nullOvOl","nexusModId":14506,"paks":[
 {"nexusFileName":"Legacy of Death CHS","nexusFileVersion":"1.3","nexusFileUploadedAt":1735633067,"pakFileName":"Legacy of Deathchs.pak","nexusFileId":83147,"metaUuid":null}
@@ -66903,8 +66904,7 @@
 {"nexusFileName":"The Batpack (Fixed)","nexusFileVersion":"2.0","nexusFileUploadedAt":1786511222,"pakFileName":"Batpack_e68f9a13-4f96-e97c-ea9b-ed12fb4eb5e9.pak","nexusFileId":127899,"metaUuid":null}
 ]},
 "23843":{"nexusModName":"KAVT - UT - Tattoo Outfit Patch","nexusUploadedBy":"BirbRR","nexusModId":23843,"paks":[
-{"nexusFileName":"KAVT UT Tattoo Patch 1.0.1","nexusFileVersion":"1.0.1","nexusFileUploadedAt":1784053705,"pakFileName":"KAVT-UT Tattoo Patch.pak","nexusFileId":125637,"metaUuid":"8077c86e-ddc4-4d78-ba2f-f19fcf50136a"},
-{"nexusFileName":"KAVT UT Tattoo Patch 1.0.2 - EXPERIMENTAL","nexusFileVersion":"1.0.2","nexusFileUploadedAt":1784162668,"pakFileName":"KAVT-UT Tattoo Patch.pak","nexusFileId":125752,"metaUuid":"8077c86e-ddc4-4d78-ba2f-f19fcf50136a"}
+{"nexusFileName":"KAVT UT Tattoo Patch 1.1.0","nexusFileVersion":"1.1.0","nexusFileUploadedAt":1786745007,"pakFileName":"KAVT-UT Tattoo Patch.pak","nexusFileId":128087,"metaUuid":"8077c86e-ddc4-4d78-ba2f-f19fcf50136a"}
 ]},
 "23844":{"nexusModName":"Plus 2 Proficiency Bonus","nexusUploadedBy":"Cainhurtz","nexusModId":23844,"paks":[
 {"nexusFileName":"Plus 2 Proficiency Bonus","nexusFileVersion":"1","nexusFileUploadedAt":1783965689,"pakFileName":"Plus_2_Proficiency_Bonus.pak","nexusFileId":125561,"metaUuid":"2d607e41-dd36-989a-d0cd-f61553c7106d"}
