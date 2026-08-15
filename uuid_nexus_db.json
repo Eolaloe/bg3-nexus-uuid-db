@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-08-15T21:52:37.594521+00:00","total_mods":17288},
+{"_meta":{"last_run":"2026-08-15T22:52:41.825516+00:00","total_mods":17289},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -67281,7 +67281,7 @@
 {"nexusFileName":"The Dreamer's Divide","nexusFileVersion":"1.0.0.15","nexusFileUploadedAt":1784895069,"pakFileName":"The_Dreamers_Divide.pak","nexusFileId":126357,"metaUuid":"ff610d29-73a9-245a-8806-6501be90d0e3"}
 ]},
 "23989":{"nexusModName":"Devil Fruit User Class (Gomu Gomu no Mi)","nexusUploadedBy":"SORRAG","nexusModId":23989,"paks":[
-{"nexusFileName":"Devil Fruit User Class","nexusFileVersion":"1.1.0","nexusFileUploadedAt":1784659929,"pakFileName":"DevilFruitUser_38428ec6-e04a-747b-759c-2b2ac3b5e489.pak","nexusFileId":126156,"metaUuid":"38428ec6-e04a-747b-759c-2b2ac3b5e489"}
+{"nexusFileName":"Devil Fruit User Class","nexusFileVersion":"1.1.1","nexusFileUploadedAt":1786834052,"pakFileName":"DevilFruitUser_38428ec6-e04a-747b-759c-2b2ac3b5e489.pak","nexusFileId":128177,"metaUuid":"38428ec6-e04a-747b-759c-2b2ac3b5e489"}
 ]},
 "23990":{"nexusModName":"Ravenloft Subclasses (PT-BR)","nexusUploadedBy":"Firetoga","nexusModId":23990,"paks":[
 {"nexusFileName":"RavenloftSubclasses (PT-BR)","nexusFileVersion":"1.0","nexusFileUploadedAt":1784658895,"pakFileName":"RavenloftSubclasses2024_BR.pak","nexusFileId":126154,"metaUuid":null}
@@ -68235,7 +68235,8 @@
 {"nexusFileName":"NAERYS Draconis ","nexusFileVersion":"1","nexusFileUploadedAt":1786536164,"pakFileName":"NAERYS_Draconis_0126d4d2-a00e-f46e-6ed7-60ccea9870e2.pak","nexusFileId":127910,"metaUuid":"0126d4d2-a00e-f46e-6ed7-60ccea9870e2"}
 ]},
 "24395":{"nexusModName":"Heads by Goblin","nexusUploadedBy":"gobanaoblin","nexusModId":24395,"paks":[
-{"nexusFileName":"Thea","nexusFileVersion":"1","nexusFileUploadedAt":1786555232,"pakFileName":"Thea By Goblin.pak","nexusFileId":127926,"metaUuid":null}
+{"nexusFileName":"Thea","nexusFileVersion":"1","nexusFileUploadedAt":1786555232,"pakFileName":"Thea By Goblin.pak","nexusFileId":127926,"metaUuid":null},
+{"nexusFileName":"Pandora","nexusFileVersion":"1","nexusFileUploadedAt":1786830466,"pakFileName":"CC_PandoraByGoblin_f3ef797d-6f3b-ec4b-369e-d72baacb2112.pak","nexusFileId":128172,"metaUuid":null}
 ]},
 "24398":{"nexusModName":"Fade's Augmentation Runes","nexusUploadedBy":"GraphicFade","nexusModId":24398,"paks":[
 {"nexusFileName":"Fade's Augmentation Runes","nexusFileVersion":"1.0.0.1","nexusFileUploadedAt":1786564577,"pakFileName":"FAR_5e1efd5c-5e82-2c2a-6e9e-e070d141262d.pak","nexusFileId":127934,"metaUuid":"5e1efd5c-5e82-2c2a-6e9e-e070d141262d"}
@@ -68306,6 +68307,11 @@
 ]},
 "24422":{"nexusModName":"Alice CC Set","nexusUploadedBy":"HeartsWires","nexusModId":24422,"paks":[
 {"nexusFileName":"HW_AliceCCSet ","nexusFileVersion":"1","nexusFileUploadedAt":1786743215,"pakFileName":"HW_AliceCCSet_2f1f41b2-caf4-0cec-1ed2-b939ea3d022e.pak","nexusFileId":128085,"metaUuid":"2f1f41b2-caf4-0cec-1ed2-b939ea3d022e"}
+]},
+"24423":{"nexusModName":"PHB2024(ish) Feats Overhaul","nexusUploadedBy":"aljoxo","nexusModId":24423,"paks":[
+{"nexusFileName":"PHB2024 Feat Overhaul","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1786831276,"pakFileName":"PHB2024FeatOverhaul.pak","nexusFileId":128174,"metaUuid":null},
+{"nexusFileName":"PHB2024 Feat Overhaul - War Caster","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1786831337,"pakFileName":"PHB2024FeatOverhaul - UAWarCaster.pak","nexusFileId":128175,"metaUuid":null},
+{"nexusFileName":"PHB2024 Feat Overhaul - Weapon Masteries DnD 5R","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1786831588,"pakFileName":"PHB2024FeatOverhaul - Weapon Masteries DnD 5R.pak","nexusFileId":128176,"metaUuid":null}
 ]},
 "24426":{"nexusModName":"Sanctus Signum - Outfit Ensemble","nexusUploadedBy":"BerrySemifreddo","nexusModId":24426,"paks":[
 {"nexusFileName":"Sanctus Signum - MainFile","nexusFileVersion":"1.0.0.6","nexusFileUploadedAt":1786750786,"pakFileName":"SanctusSignumRobe_9170f5dc-b973-d7ad-59ef-757fe1cc67c3.pak","nexusFileId":128092,"metaUuid":null}
