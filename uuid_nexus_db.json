@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-08-15T04:52:19.138818+00:00","total_mods":17277},
+{"_meta":{"last_run":"2026-08-15T05:52:23.629097+00:00","total_mods":17278},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -54929,8 +54929,7 @@
 {"nexusFileName":"Bard archer equipment","nexusFileVersion":"1.1.1.0","nexusFileUploadedAt":1775364204,"pakFileName":"Bardarcherequipment.pak","nexusFileId":118164,"metaUuid":"f52b5cb6-2714-45a5-8961-221ddb62ad37"}
 ]},
 "19698":{"nexusModName":"Feat_Divinity","nexusUploadedBy":"ZhongJinJingLiu","nexusModId":19698,"paks":[
-{"nexusFileName":"Feat_FengShen","nexusFileVersion":"2.2","nexusFileUploadedAt":1765281804,"pakFileName":"专长-封神之路.pak","nexusFileId":109267,"metaUuid":null},
-{"nexusFileName":"Feat_FengShen","nexusFileVersion":"2.2","nexusFileUploadedAt":1765281947,"pakFileName":"专长-封神之路.pak","nexusFileId":109269,"metaUuid":null}
+{"nexusFileName":"Feat_FengShen","nexusFileVersion":"2.6.1","nexusFileUploadedAt":1786772091,"pakFileName":"专长-封神之路.pak","nexusFileId":128111,"metaUuid":null}
 ]},
 "19699":{"nexusModName":"Trinkets Of Phlegethos","nexusUploadedBy":"UniqueVessel","nexusModId":19699,"paks":[
 {"nexusFileName":"Trinkets Of Phlegethos","nexusFileVersion":"1.0.0.11","nexusFileUploadedAt":1763382932,"pakFileName":"TrinketsOfPhlegethos_b2159087-b0da-fcef-58e7-4feb90a3f8af.pak","nexusFileId":107618,"metaUuid":"b2159087-b0da-fcef-58e7-4feb90a3f8af"}
@@ -56247,7 +56246,7 @@
 {"nexusFileName":"5eRangerSubclassesCombinedCHS","nexusFileVersion":"1.04","nexusFileUploadedAt":1765016552,"pakFileName":"5eRangerSubclassesCombinedCHS.pak","nexusFileId":108977,"metaUuid":null}
 ]},
 "19939":{"nexusModName":"Feat_Divinity_Buff_to_Enemy","nexusUploadedBy":"ZhongJinJingLiu","nexusModId":19939,"paks":[
-{"nexusFileName":"Feat_Divinity_Buff_to_Enemy","nexusFileVersion":"1.0","nexusFileUploadedAt":1764853248,"pakFileName":"难度-封神之路随机给敌人.pak","nexusFileId":108858,"metaUuid":null}
+{"nexusFileName":"Feat_Divinity_Buff_to_Enemy","nexusFileVersion":"2.6.1","nexusFileUploadedAt":1786772474,"pakFileName":"难度-封神之路随机给敌人.pak","nexusFileId":128112,"metaUuid":null}
 ]},
 "19940":{"nexusModName":"Feat - Be Nine-Finger - Dexterity Based Throw Bonus","nexusUploadedBy":"yoonmoonsik43","nexusModId":19940,"paks":[
 {"nexusFileName":"keenefeat","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1764854219,"pakFileName":"KeeneFeat_61e32eac-dcc3-4d7e-61c9-cd458643a524.pak","nexusFileId":108859,"metaUuid":"61e32eac-dcc3-4d7e-61c9-cd458643a524"}
@@ -68306,6 +68305,9 @@
 ]},
 "24438":{"nexusModName":"Spells Reworked - Pass Without Trace CHS","nexusUploadedBy":"mzldyt","nexusModId":24438,"paks":[
 {"nexusFileName":"Spells Enhanced   Pass Without Trace CHS","nexusFileVersion":"1","nexusFileUploadedAt":1786768626,"pakFileName":"Spells Enhanced - Pass Without Trace CHS.pak","nexusFileId":128108,"metaUuid":null}
+]},
+"24439":{"nexusModName":"GhostofFaerun_FighterSubclass_CHS","nexusUploadedBy":"Amikrt","nexusModId":24439,"paks":[
+{"nexusFileName":"GhostofFaerun FighterSubclass CHS","nexusFileVersion":"1","nexusFileUploadedAt":1786769877,"pakFileName":"GhostofFaerun_FighterSubclass_055a9471-1df5-45ab-8935-1e19102cc1aCHS.pak","nexusFileId":128110,"metaUuid":null}
 ]},
 "24440":{"nexusModName":"Spells Reworked - Utility Cantrips CHS","nexusUploadedBy":"mzldyt","nexusModId":24440,"paks":[
 {"nexusFileName":"Spells Enhanced   Utility Cantrips CHS","nexusFileVersion":"1","nexusFileUploadedAt":1786769322,"pakFileName":"Spells Enhanced - Utility Cantrips CHS.pak","nexusFileId":128109,"metaUuid":null}
