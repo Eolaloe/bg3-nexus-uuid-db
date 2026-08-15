@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-08-15T19:52:34.836145+00:00","total_mods":17284},
+{"_meta":{"last_run":"2026-08-15T20:52:47.409633+00:00","total_mods":17287},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -22849,7 +22849,7 @@
 {"nexusFileName":"Bag of Holding - Bag of Weight Reduction RUS","nexusFileVersion":"1.0.5","nexusFileUploadedAt":1709797399,"pakFileName":"Auridh_BoH_RUS.pak","nexusFileId":48647,"metaUuid":null}
 ]},
 "7656":{"nexusModName":"Holy Armor of Selune - Russian translation","nexusUploadedBy":"Garrett1988","nexusModId":7656,"paks":[
-{"nexusFileName":"Holy Armor of Selune RUS","nexusFileVersion":"1.0.10.1","nexusFileUploadedAt":1709798251,"pakFileName":"SeluneArmorRU.pak","nexusFileId":48648,"metaUuid":null}
+{"nexusFileName":"Holy Armor of Selune RUS","nexusFileVersion":"1.0.10.2","nexusFileUploadedAt":1786824627,"pakFileName":"SeluneArmorRUS.pak","nexusFileId":128165,"metaUuid":null}
 ]},
 "7658":{"nexusModName":"Ring of Graz'zt ITA","nexusUploadedBy":"Rahl81","nexusModId":7658,"paks":[
 {"nexusFileName":"Ring of Graz'zt ITA","nexusFileVersion":"1.9.2","nexusFileUploadedAt":1722149705,"pakFileName":"GrazztRing - ITA.pak","nexusFileId":65449,"metaUuid":null}
@@ -25846,7 +25846,7 @@
 {"nexusFileName":"5e Path of the Zealot - Barbarian Subclass - PTBR","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1713105931,"pakFileName":"Zealot5ePTBR.pak","nexusFileId":53741,"metaUuid":null}
 ]},
 "8758":{"nexusModName":"Aegis Fang - Russian translation","nexusUploadedBy":"Garrett1988","nexusModId":8758,"paks":[
-{"nexusFileName":"Aegis Fang RUS","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1713106614,"pakFileName":"AegisFangRUS.pak","nexusFileId":53743,"metaUuid":null}
+{"nexusFileName":"Aegis Fang RUS","nexusFileVersion":"1.1","nexusFileUploadedAt":1786825944,"pakFileName":"AegisFangRUS.pak","nexusFileId":128166,"metaUuid":null}
 ]},
 "8759":{"nexusModName":"Baldur's Gate III Extender","nexusUploadedBy":"eclecticx","nexusModId":8759,"paks":[
 {"nexusFileName":"LevelCapExtender_Paks.zip","nexusFileVersion":"1.7.1","nexusFileUploadedAt":1729129901,"pakFileName":"LevelCapExtender2X_45e9f7d4-d4f4-c531-fec0-372952017b3d.pak","nexusFileId":75623,"metaUuid":null},
@@ -36077,7 +36077,7 @@
 ]},
 "12727":{"nexusModName":"DnD 5.5e All-in-One BEYOND","nexusUploadedBy":"yoonmoonsik43","nexusModId":12727,"paks":[
 {"nexusFileName":"dnd2024 - V3 Legacy","nexusFileVersion":"3.4.6.4","nexusFileUploadedAt":1771945305,"pakFileName":"DnD2024_897914ef-5c96-053c-44af-0be823f895fe.pak","nexusFileId":115523,"metaUuid":"897914ef-5c96-053c-44af-0be823f895fe"},
-{"nexusFileName":"DnD 5.5e All-in-One BEYOND","nexusFileVersion":"4.11.22.24","nexusFileUploadedAt":1786811676,"pakFileName":"DnD2024_897914ef-5c96-053c-44af-0be823f895fe.pak","nexusFileId":128149,"metaUuid":"897914ef-5c96-053c-44af-0be823f895fe"}
+{"nexusFileName":"DnD 5.5e All-in-One BEYOND","nexusFileVersion":"4.11.22.25","nexusFileUploadedAt":1786826649,"pakFileName":"DnD2024_897914ef-5c96-053c-44af-0be823f895fe.pak","nexusFileId":128167,"metaUuid":"897914ef-5c96-053c-44af-0be823f895fe"}
 ]},
 "12728":{"nexusModName":"Origin-Themed Headwear KR","nexusUploadedBy":"Soorawang","nexusModId":12728,"paks":[
 {"nexusFileName":"Origin-Themed Headwear KR","nexusFileVersion":"1.0","nexusFileUploadedAt":1727930331,"pakFileName":"OriginHeadwear_kr.pak","nexusFileId":73692,"metaUuid":null}
@@ -67748,7 +67748,7 @@
 ]},
 "24167":{"nexusModName":"Firstborn Wyrm Patron for Warlock (Dragoon)","nexusUploadedBy":"Kaiodenic","nexusModId":24167,"paks":[
 {"nexusFileName":"Pact and Power Compatibility Patch","nexusFileVersion":"1","nexusFileUploadedAt":1786803035,"pakFileName":"PactOfTheTalon_PactAndPowerCompat.pak","nexusFileId":128133,"metaUuid":null},
-{"nexusFileName":"Firstborn Wyrm Patron for Warlock","nexusFileVersion":"1.2.2","nexusFileUploadedAt":1786804197,"pakFileName":"FirstbornWyrmPatron.pak","nexusFileId":128135,"metaUuid":"7701a199-982a-4c72-8d1a-6afca49c7547"}
+{"nexusFileName":"Firstborn Wyrm Patron for Warlock","nexusFileVersion":"1.2.3","nexusFileUploadedAt":1786824179,"pakFileName":"FirstbornWyrmPatron.pak","nexusFileId":128163,"metaUuid":"7701a199-982a-4c72-8d1a-6afca49c7547"}
 ]},
 "24168":{"nexusModName":"Djinni","nexusUploadedBy":"PupFenrir20","nexusModId":24168,"paks":[
 {"nexusFileName":"Djinni","nexusFileVersion":"1","nexusFileUploadedAt":1785463440,"pakFileName":"Djinni.pak","nexusFileId":126877,"metaUuid":null}
@@ -68044,6 +68044,9 @@
 "24304":{"nexusModName":"Courtship Collection","nexusUploadedBy":"OneEyeAskew","nexusModId":24304,"paks":[
 {"nexusFileName":"Regency","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1786031442,"pakFileName":"Regency.pak","nexusFileId":127447,"metaUuid":"d96173d5-72a7-4537-879f-d47f3ff1c0e3"}
 ]},
+"24305":{"nexusModName":"Gilded Laurels","nexusUploadedBy":"OneEyeAskew","nexusModId":24305,"paks":[
+{"nexusFileName":"GildedLaurels","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1786766362,"pakFileName":"GildedLaurels.pak","nexusFileId":128104,"metaUuid":null}
+]},
 "24308":{"nexusModName":"Witches Cauldrons and Recipes","nexusUploadedBy":"cayssac","nexusModId":24308,"paks":[
 {"nexusFileName":"Witches Cauldrons and Recipes","nexusFileVersion":"1","nexusFileUploadedAt":1786048078,"pakFileName":"Witches Cauldrons & Recipes.pak","nexusFileId":127461,"metaUuid":"b3ee1377-bc0d-4497-bd1c-42a07e568c0e"}
 ]},
@@ -68266,6 +68269,15 @@
 "24411":{"nexusModName":"Merigold the Fearless - Triss Merigold's alternative outfit","nexusUploadedBy":"yonhi","nexusModId":24411,"paks":[
 {"nexusFileName":"Merigold the Fearless","nexusFileVersion":"1","nexusFileUploadedAt":1786651787,"pakFileName":"TrissAlternative_cc6e60f6-3eeb-68e5-42fe-203296f97111.pak","nexusFileId":128035,"metaUuid":"cc6e60f6-3eeb-68e5-42fe-203296f97111"}
 ]},
+"24412":{"nexusModName":"Lover of Mine Pose Pack","nexusUploadedBy":"starlesstides","nexusModId":24412,"paks":[
+{"nexusFileName":"Lover of Mine - AIO","nexusFileVersion":"1","nexusFileUploadedAt":1786660160,"pakFileName":"StarlessLoverOfMinePosePack_c7405564-5c0d-d2a5-6f6c-e664f7e6d96e.pak","nexusFileId":128042,"metaUuid":null},
+{"nexusFileName":"Lover of Mine - BT1xBT1 only","nexusFileVersion":"1","nexusFileUploadedAt":1786662008,"pakFileName":"StarlessLoverOfMineBT1xBT1_5d34b439-5210-fde4-3059-26aeb33ceb36.pak","nexusFileId":128044,"metaUuid":null},
+{"nexusFileName":"Lover of Mine - BT1xBT2 only","nexusFileVersion":"1","nexusFileUploadedAt":1786701506,"pakFileName":"StarlessLoverOfMineBT1xBT2_99bbabca-63f6-1835-8d4c-b9990f20402d.pak","nexusFileId":128056,"metaUuid":null},
+{"nexusFileName":"Lover of Mine - BT1xBT3 only","nexusFileVersion":"1","nexusFileUploadedAt":1786703711,"pakFileName":"StarlessLoverOfMineBT1xBT3_5ad71ae4-0335-7eaf-6f47-67c0b7ddb3e5.pak","nexusFileId":128058,"metaUuid":null},
+{"nexusFileName":"Lover of Mine - BT1xBT4 only","nexusFileVersion":"1","nexusFileUploadedAt":1786705006,"pakFileName":"StarlessLoverOfMineBT1xBT4_652cb4d4-f6de-829c-9fdc-c445fdd23497.pak","nexusFileId":128059,"metaUuid":null},
+{"nexusFileName":"Lover of Mine - BT2xBT2 only","nexusFileVersion":"1","nexusFileUploadedAt":1786709964,"pakFileName":"StarlessLoverOfMineBT2xBT2_8c065361-1617-71d0-0767-28a3bfe7cb19.pak","nexusFileId":128063,"metaUuid":null},
+{"nexusFileName":"Lover of Mine - BT2xBT4 only","nexusFileVersion":"1","nexusFileUploadedAt":1786711972,"pakFileName":"StarlessLoverOfMineBT2xBT4_1747368e-e66e-5f0e-dcb9-34adff86b529.pak","nexusFileId":128066,"metaUuid":null}
+]},
 "24413":{"nexusModName":"End-turn Exploit Fix","nexusUploadedBy":"joow92","nexusModId":24413,"paks":[
 {"nexusFileName":"EndTurnExploitFix","nexusFileVersion":"1","nexusFileUploadedAt":1786657083,"pakFileName":"EndTurnExploitFix.pak","nexusFileId":128039,"metaUuid":null}
 ]},
@@ -68339,4 +68351,7 @@
 ]},
 "24448":{"nexusModName":"Necromancy Reanimated Remove Toggles","nexusUploadedBy":"Sai","nexusModId":24448,"paks":[
 {"nexusFileName":"NR RemoveToggles","nexusFileVersion":"1","nexusFileUploadedAt":1786820369,"pakFileName":"NR_RemoveToggles.pak","nexusFileId":128158,"metaUuid":null}
+]},
+"24451":{"nexusModName":"HyperspaceTowel's Early Access Dream Visitor Restored for Korean","nexusUploadedBy":"Eolaloe","nexusModId":24451,"paks":[
+{"nexusFileName":"Early Access Dream Visitor Restored for Korean","nexusFileVersion":"1.0.1.1","nexusFileUploadedAt":1786824207,"pakFileName":"HT_EA_Daisy_kr.pak","nexusFileId":128164,"metaUuid":null}
 ]}}
