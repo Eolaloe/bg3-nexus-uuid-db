@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-08-15T02:52:00.089208+00:00","total_mods":17269},
+{"_meta":{"last_run":"2026-08-15T03:52:16.421806+00:00","total_mods":17273},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -53067,7 +53067,7 @@
 {"nexusFileName":"DeitiesForAll","nexusFileVersion":"1.0","nexusFileUploadedAt":1759707520,"pakFileName":"DeitiesForAll.pak","nexusFileId":104437,"metaUuid":"2f00633a-e121-4264-b3ba-0fec5a93efce"}
 ]},
 "19021":{"nexusModName":"Records - A Party Statistics Tracker","nexusUploadedBy":"wtfbengt","nexusModId":19021,"paks":[
-{"nexusFileName":"Records","nexusFileVersion":"2.0.0.1","nexusFileUploadedAt":1777159585,"pakFileName":"Records.pak","nexusFileId":119872,"metaUuid":"7a671e11-7692-463b-a873-c4353743db2d"}
+{"nexusFileName":"Records","nexusFileVersion":"2.5.0.0","nexusFileUploadedAt":1786762947,"pakFileName":"Records.pak","nexusFileId":128096,"metaUuid":"7a671e11-7692-463b-a873-c4353743db2d"}
 ]},
 "19022":{"nexusModName":"The Grand Theater-CHS","nexusUploadedBy":"AgleafSdan","nexusModId":19022,"paks":[
 {"nexusFileName":"The Grand Theater-CHS","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1759732696,"pakFileName":"The Grand Theater-CHS.pak","nexusFileId":104445,"metaUuid":"b5a6dd46-bd1e-4eb2-b966-8d7d8f451445"}
@@ -68283,6 +68283,18 @@
 "24426":{"nexusModName":"Sanctus Signum - Outfit Ensemble","nexusUploadedBy":"BerrySemifreddo","nexusModId":24426,"paks":[
 {"nexusFileName":"Sanctus Signum - MainFile","nexusFileVersion":"1.0.0.6","nexusFileUploadedAt":1786750786,"pakFileName":"SanctusSignumRobe_9170f5dc-b973-d7ad-59ef-757fe1cc67c3.pak","nexusFileId":128092,"metaUuid":null}
 ]},
+"24427":{"nexusModName":"Songblade","nexusUploadedBy":"Nitremazael","nexusModId":24427,"paks":[
+{"nexusFileName":"Songblade 1.0","nexusFileVersion":"1","nexusFileUploadedAt":1786764407,"pakFileName":"Songblade.pak","nexusFileId":128098,"metaUuid":null}
+]},
 "24428":{"nexusModName":"Oath of the Moon - Paladin Subclass.CHS","nexusUploadedBy":"yangyangmeiiii","nexusModId":24428,"paks":[
 {"nexusFileName":"OathoftheMoonCHS","nexusFileVersion":"1","nexusFileUploadedAt":1786755174,"pakFileName":"OathoftheMoonCHS.pak","nexusFileId":128094,"metaUuid":null}
+]},
+"24430":{"nexusModName":"More_enemies_in_basic_fight CHS","nexusUploadedBy":"mzldyt","nexusModId":24430,"paks":[
+{"nexusFileName":"More Enemies In Basic Fight CHS","nexusFileVersion":"1","nexusFileUploadedAt":1786763885,"pakFileName":"More_enemies_in_basic_fight CHS.pak","nexusFileId":128097,"metaUuid":null}
+]},
+"24432":{"nexusModName":"Lightbringer Reforged","nexusUploadedBy":"mzldyt","nexusModId":24432,"paks":[
+{"nexusFileName":"Lightbringer Reforged  CHS","nexusFileVersion":"1","nexusFileUploadedAt":1786764935,"pakFileName":"Lightbringer Reforged  CHS.pak","nexusFileId":128099,"metaUuid":null}
+]},
+"24433":{"nexusModName":"Dual Wield Overhaul CHS","nexusUploadedBy":"mzldyt","nexusModId":24433,"paks":[
+{"nexusFileName":"Dual Wield Overhaul CHS","nexusFileVersion":"1","nexusFileUploadedAt":1786765613,"pakFileName":"Dual Wield Overhaul CHS.pak","nexusFileId":128100,"metaUuid":null}
 ]}}
