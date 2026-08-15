@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-08-15T12:52:14.078632+00:00","total_mods":17279},
+{"_meta":{"last_run":"2026-08-15T13:51:56.887646+00:00","total_mods":17280},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -64874,7 +64874,7 @@
 "23058":{"nexusModName":"Akm Tiefling Body","nexusUploadedBy":"Akumu22","nexusModId":23058,"paks":[
 {"nexusFileName":"Akm Tiefling Body","nexusFileVersion":"2.0.1.0","nexusFileUploadedAt":1785246210,"pakFileName":"Akm Tiefling Body.pak","nexusFileId":126663,"metaUuid":"77b21fea-e837-470c-8e79-a79e84e6221a"},
 {"nexusFileName":"FIX - STAV Tail Tats","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1786023194,"pakFileName":"Akm Tiefling Body - STAV Tail FIX.pak","nexusFileId":127442,"metaUuid":null},
-{"nexusFileName":"Akm Tiefling Body - BT3 Beta","nexusFileVersion":"2.0.5.0","nexusFileUploadedAt":1786463756,"pakFileName":"Akm Tiefling Body - BT3 - Beta.pak","nexusFileId":127857,"metaUuid":"4420c433-718f-4749-8e5d-1da521a84b19"}
+{"nexusFileName":"Akm Tiefling Body - BT3 Beta","nexusFileVersion":"2.0.6.0","nexusFileUploadedAt":1786799449,"pakFileName":"Akm Tiefling Body - BT3 - Beta.pak","nexusFileId":128128,"metaUuid":"4420c433-718f-4749-8e5d-1da521a84b19"}
 ]},
 "23059":{"nexusModName":"Flora Dress and Long Nature Hair","nexusUploadedBy":"Lyniara","nexusModId":23059,"paks":[
 {"nexusFileName":"Flora Dress","nexusFileVersion":"1","nexusFileUploadedAt":1779744844,"pakFileName":"LynFloraDress.pak","nexusFileId":122131,"metaUuid":"a7c4ef09-4ca7-428a-950d-85c4c74573b9"},
@@ -68270,6 +68270,10 @@
 ]},
 "24417":{"nexusModName":"Sorceress' Dress - BT1 BT3","nexusUploadedBy":"euryalex","nexusModId":24417,"paks":[
 {"nexusFileName":"Sorceress' Armor","nexusFileVersion":"1.1","nexusFileUploadedAt":1786776740,"pakFileName":"Sorceress_Armor.pak","nexusFileId":128115,"metaUuid":"a3144a91-db14-4ff3-bb25-3192695c2f53"}
+]},
+"24418":{"nexusModName":"Weapon Masteries DnD 5R PHB2024","nexusUploadedBy":"chizfreak","nexusModId":24418,"paks":[
+{"nexusFileName":"Weapon Masteries DnD 5R PHB2024","nexusFileVersion":"1.0","nexusFileUploadedAt":1786799135,"pakFileName":"WeaponMasteriesPHB2024_517e9f2c-514c-3ebf-05f5-84b7e72dfa3a.pak","nexusFileId":128127,"metaUuid":null},
+{"nexusFileName":"Weapon Masteries DnD 5R PHB2024 - RAW Patch","nexusFileVersion":"1.0","nexusFileUploadedAt":1786800264,"pakFileName":"Weapon Masteries PHB2024 - RAW Patch.pak","nexusFileId":128129,"metaUuid":null}
 ]},
 "24419":{"nexusModName":"Outfits Dummy Auto-Patcher (UAP)","nexusUploadedBy":"Nzx","nexusModId":24419,"paks":[
 {"nexusFileName":"Outfits Dummy Auto-Patcher (UAP)","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1786727191,"pakFileName":"Outfits Dummy Auto-Patcher [UAP].pak","nexusFileId":128073,"metaUuid":"1fc366f3-d7f1-4b04-98bf-deafe06efb77"}
