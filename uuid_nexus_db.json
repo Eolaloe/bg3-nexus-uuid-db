@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-08-15T03:52:16.421806+00:00","total_mods":17273},
+{"_meta":{"last_run":"2026-08-15T04:52:19.138818+00:00","total_mods":17277},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -67742,7 +67742,7 @@
 {"nexusFileName":"PantherProwlFix V1.1","nexusFileVersion":"1","nexusFileUploadedAt":1785452134,"pakFileName":"PantherProwlFix_v1.1.pak","nexusFileId":126862,"metaUuid":"a72e99f9-7cf0-42d0-9735-2f843296db3d"}
 ]},
 "24167":{"nexusModName":"Firstborn Wyrm Patron for Warlock (Dragoon)","nexusUploadedBy":"Kaiodenic","nexusModId":24167,"paks":[
-{"nexusFileName":"FirstbornWyrmPatron","nexusFileVersion":"1.1","nexusFileUploadedAt":1786076029,"pakFileName":"FirstbornWyrmPatron.pak","nexusFileId":127481,"metaUuid":"7701a199-982a-4c72-8d1a-6afca49c7547"}
+{"nexusFileName":"FirstbornWyrmPatron","nexusFileVersion":"1.2.0.1","nexusFileUploadedAt":1786766383,"pakFileName":"FirstbornWyrmPatron.pak","nexusFileId":128105,"metaUuid":"7701a199-982a-4c72-8d1a-6afca49c7547"}
 ]},
 "24168":{"nexusModName":"Djinni","nexusUploadedBy":"PupFenrir20","nexusModId":24168,"paks":[
 {"nexusFileName":"Djinni","nexusFileVersion":"1","nexusFileUploadedAt":1785463440,"pakFileName":"Djinni.pak","nexusFileId":126877,"metaUuid":null}
@@ -68297,4 +68297,16 @@
 ]},
 "24433":{"nexusModName":"Dual Wield Overhaul CHS","nexusUploadedBy":"mzldyt","nexusModId":24433,"paks":[
 {"nexusFileName":"Dual Wield Overhaul CHS","nexusFileVersion":"1","nexusFileUploadedAt":1786765613,"pakFileName":"Dual Wield Overhaul CHS.pak","nexusFileId":128100,"metaUuid":null}
+]},
+"24436":{"nexusModName":"Weapon Mastery Expanded CHS","nexusUploadedBy":"mzldyt","nexusModId":24436,"paks":[
+{"nexusFileName":"WeaponMasteryExpanded CHS","nexusFileVersion":"1","nexusFileUploadedAt":1786767419,"pakFileName":"WeaponMasteryExpanded CHS.pak","nexusFileId":128106,"metaUuid":null}
+]},
+"24437":{"nexusModName":"Cloud and Vision Overhaul CHS","nexusUploadedBy":"mzldyt","nexusModId":24437,"paks":[
+{"nexusFileName":"Cloud VisionOverhaul CHS","nexusFileVersion":"1","nexusFileUploadedAt":1786768118,"pakFileName":"Cloud_VisionOverhaul CHS.pak","nexusFileId":128107,"metaUuid":null}
+]},
+"24438":{"nexusModName":"Spells Reworked - Pass Without Trace CHS","nexusUploadedBy":"mzldyt","nexusModId":24438,"paks":[
+{"nexusFileName":"Spells Enhanced   Pass Without Trace CHS","nexusFileVersion":"1","nexusFileUploadedAt":1786768626,"pakFileName":"Spells Enhanced - Pass Without Trace CHS.pak","nexusFileId":128108,"metaUuid":null}
+]},
+"24440":{"nexusModName":"Spells Reworked - Utility Cantrips CHS","nexusUploadedBy":"mzldyt","nexusModId":24440,"paks":[
+{"nexusFileName":"Spells Enhanced   Utility Cantrips CHS","nexusFileVersion":"1","nexusFileUploadedAt":1786769322,"pakFileName":"Spells Enhanced - Utility Cantrips CHS.pak","nexusFileId":128109,"metaUuid":null}
 ]}}
