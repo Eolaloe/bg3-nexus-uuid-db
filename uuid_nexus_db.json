@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-08-15T16:52:41.995737+00:00","total_mods":17281},
+{"_meta":{"last_run":"2026-08-15T17:52:30.668860+00:00","total_mods":17283},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -2767,7 +2767,8 @@
 {"nexusFileName":"Boots of Apparent Death Expanded","nexusFileVersion":"1.0","nexusFileUploadedAt":1692273065,"pakFileName":"BootsApparentDeathExpanded.pak","nexusFileId":7944,"metaUuid":null}
 ]},
 "1058":{"nexusModName":"Less Wrinkled Expression and Forehead for Face","nexusUploadedBy":"commanderstrawberry","nexusModId":1058,"paks":[
-{"nexusFileName":"PAK format all-in-1","nexusFileVersion":"1","nexusFileUploadedAt":1709984246,"pakFileName":"WrinkleMapeSmoothn.pak","nexusFileId":49148,"metaUuid":"e8c6faa2-6f45-42f6-9529-4188dcd70f14"}
+{"nexusFileName":"PAK format all-in-1","nexusFileVersion":"1","nexusFileUploadedAt":1709984246,"pakFileName":"WrinkleMapeSmoothn.pak","nexusFileId":49148,"metaUuid":"e8c6faa2-6f45-42f6-9529-4188dcd70f14"},
+{"nexusFileName":"PAK format- totally empty (for uninstalling)","nexusFileVersion":"1","nexusFileUploadedAt":1709984340,"pakFileName":"WrinkleMapeSmoothn.pak","nexusFileId":49149,"metaUuid":"e8c6faa2-6f45-42f6-9529-4188dcd70f14"}
 ]},
 "1059":{"nexusModName":"Astarion Urchin","nexusUploadedBy":"majber","nexusModId":1059,"paks":[
 {"nexusFileName":"Astaron Urchin","nexusFileVersion":"7","nexusFileUploadedAt":1725649222,"pakFileName":"Asstarion_Urchin_d575b4a9-9e6c-cf4c-2875-787924054914.pak","nexusFileId":69173,"metaUuid":null}
@@ -45151,7 +45152,7 @@
 {"nexusFileName":"EmbersLute_V3CHS","nexusFileVersion":"3.0.2.6","nexusFileUploadedAt":1751859793,"pakFileName":"EmbersLute_V3CHS.pak","nexusFileId":97549,"metaUuid":null}
 ]},
 "16217":{"nexusModName":"Absolute's Laboratory - NPC and Combat Inspector and Mutator","nexusUploadedBy":"osirisofinternet","nexusModId":16217,"paks":[
-{"nexusFileName":"Absolute's Laboratory","nexusFileVersion":"1.13.3","nexusFileUploadedAt":1785090535,"pakFileName":"Absolutes_Laboratory.pak","nexusFileId":126549,"metaUuid":"a17a3a3d-5c16-404a-910a-68ae9e47f247"}
+{"nexusFileName":"Absolute's Laboratory","nexusFileVersion":"1.13.4","nexusFileUploadedAt":1786814151,"pakFileName":"Absolutes_Laboratory.pak","nexusFileId":128152,"metaUuid":"a17a3a3d-5c16-404a-910a-68ae9e47f247"}
 ]},
 "16218":{"nexusModName":"Dragonborn Style Voice Replacer","nexusUploadedBy":"xiaokuii","nexusModId":16218,"paks":[
 {"nexusFileName":"Main file - install with mod manager","nexusFileVersion":"1.0","nexusFileUploadedAt":1746045390,"pakFileName":"Dragonborn.pak","nexusFileId":91214,"metaUuid":"81c2330a-b0bc-420b-b4ce-87fecda5acda"}
@@ -66178,7 +66179,7 @@
 {"nexusFileName":"Coral Cove - Initial Release","nexusFileVersion":"1.0.0.1","nexusFileUploadedAt":1782496791,"pakFileName":"Inky_Underwater_288ad531-3f50-cc88-c773-b1353f50ceb8.pak","nexusFileId":124336,"metaUuid":"288ad531-3f50-cc88-c773-b1353f50ceb8"}
 ]},
 "23570":{"nexusModName":"Change Names and Titles","nexusUploadedBy":"ForKiramay","nexusModId":23570,"paks":[
-{"nexusFileName":"Change Names and Titles","nexusFileVersion":"1.0.0.32","nexusFileUploadedAt":1786661147,"pakFileName":"Rename_ebd350c8-aef4-0599-3a42-7c9f6993f47f.pak","nexusFileId":128043,"metaUuid":"ebd350c8-aef4-0599-3a42-7c9f6993f47f"}
+{"nexusFileName":"Change Names and Titles","nexusFileVersion":"1.0.0.38","nexusFileUploadedAt":1786814654,"pakFileName":"Rename_ebd350c8-aef4-0599-3a42-7c9f6993f47f.pak","nexusFileId":128153,"metaUuid":"ebd350c8-aef4-0599-3a42-7c9f6993f47f"}
 ]},
 "23571":{"nexusModName":"Modded Vanilla Experience By Doya Solutions","nexusUploadedBy":"doyasolutions","nexusModId":23571,"paks":[
 {"nexusFileName":"ModdedVanillaExperienceByDoyaSolutions","nexusFileVersion":"1.0.0.1","nexusFileUploadedAt":1782542133,"pakFileName":"ModdedVanillaExperienceByDoyaSolutions.pak","nexusFileId":124359,"metaUuid":"7fef9c20-cfb5-4d47-8b6f-b5d6e9e807cc"}
@@ -66947,7 +66948,7 @@
 {"nexusFileName":"FiendHunterSet","nexusFileVersion":"1","nexusFileUploadedAt":1783997566,"pakFileName":"FiendHunterBattlehammer_66ca89a2-3c01-fe78-6d7c-074b564c34b8.pak","nexusFileId":125598,"metaUuid":"66ca89a2-3c01-fe78-6d7c-074b564c34b8"}
 ]},
 "23861":{"nexusModName":"Goon's Attack of Opportunity Overhaul with Optional Critical Miss AoO","nexusUploadedBy":"BaldursGoonsack","nexusModId":23861,"paks":[
-{"nexusFileName":"Goon's Attack Of Opportunity Overhaul","nexusFileVersion":"1.4.1.0","nexusFileUploadedAt":1786654350,"pakFileName":"Goon's Attack of Opportunity Overhaul.pak","nexusFileId":128037,"metaUuid":"682e9bdc-9887-4de7-a6f8-a21ef2b8290c"}
+{"nexusFileName":"Goon's Attack Of Opportunity Overhaul","nexusFileVersion":"1.5.0.0","nexusFileUploadedAt":1786813988,"pakFileName":"Goon's Attack of Opportunity Overhaul.pak","nexusFileId":128151,"metaUuid":"682e9bdc-9887-4de7-a6f8-a21ef2b8290c"}
 ]},
 "23862":{"nexusModName":"Guildmasters Present - Vedalken","nexusUploadedBy":"queenplouton","nexusModId":23862,"paks":[
 {"nexusFileName":"Vedalken 337774d1 5069 2339 0fbc 146cc656d1bc","nexusFileVersion":"1","nexusFileUploadedAt":1785675504,"pakFileName":"Vedalken_337774d1-5069-2339-0fbc-146cc656d1bc.pak","nexusFileId":127119,"metaUuid":"337774d1-5069-2339-0fbc-146cc656d1bc"}
@@ -68167,6 +68168,9 @@
 {"nexusFileName":"Find More Familiars","nexusFileVersion":"2.6.1","nexusFileUploadedAt":1786657170,"pakFileName":"Edh_Familiars_9e296d8e-02fa-843d-6ce9-06bc6cfb8e98-2.pak","nexusFileId":128040,"metaUuid":null},
 {"nexusFileName":"Find More Familiars","nexusFileVersion":"2.6.1","nexusFileUploadedAt":1786657170,"pakFileName":"._Edh_Familiars_9e296d8e-02fa-843d-6ce9-06bc6cfb8e98-2.pak","nexusFileId":128040,"metaUuid":null}
 ]},
+"24368":{"nexusModName":"Dancing Through Life","nexusUploadedBy":"meepmeganmeep","nexusModId":24368,"paks":[
+{"nexusFileName":"Dancing Through Life","nexusFileVersion":"2","nexusFileUploadedAt":1786807797,"pakFileName":"Dancing_Through_Life_b5ad8c35-5018-5e5f-f686-7c86d4b31638.pak","nexusFileId":128141,"metaUuid":null}
+]},
 "24369":{"nexusModName":"Auto-Sorting Hotbar","nexusUploadedBy":"Eolaloe","nexusModId":24369,"paks":[
 {"nexusFileName":"Auto-Sorting Hotbar","nexusFileVersion":"1.0.0.2","nexusFileUploadedAt":1786477748,"pakFileName":"hotbarsort.pak","nexusFileId":127866,"metaUuid":"27ed5bd3-edc0-4f87-9559-6624934945f8"}
 ]},
@@ -68276,7 +68280,7 @@
 ]},
 "24418":{"nexusModName":"Weapon Masteries DnD 5R PHB2024","nexusUploadedBy":"chizfreak","nexusModId":24418,"paks":[
 {"nexusFileName":"Weapon Masteries DnD 5R PHB2024 - RAW Patch","nexusFileVersion":"1.0","nexusFileUploadedAt":1786800264,"pakFileName":"Weapon Masteries PHB2024 - RAW Patch.pak","nexusFileId":128129,"metaUuid":null},
-{"nexusFileName":"Weapon Masteries DnD 5R PHB2024","nexusFileVersion":"1.2","nexusFileUploadedAt":1786808888,"pakFileName":"WeaponMasteriesPHB2024_517e9f2c-514c-3ebf-05f5-84b7e72dfa3a.pak","nexusFileId":128143,"metaUuid":null}
+{"nexusFileName":"Weapon Masteries DnD 5R PHB2024","nexusFileVersion":"1.2.1","nexusFileUploadedAt":1786814886,"pakFileName":"WeaponMasteriesPHB2024_517e9f2c-514c-3ebf-05f5-84b7e72dfa3a.pak","nexusFileId":128154,"metaUuid":null}
 ]},
 "24419":{"nexusModName":"Outfits Dummy Auto-Patcher (UAP)","nexusUploadedBy":"Nzx","nexusModId":24419,"paks":[
 {"nexusFileName":"Outfits Dummy Auto-Patcher (UAP)","nexusFileVersion":"1.0.1","nexusFileUploadedAt":1786809667,"pakFileName":"Outfits Dummy Auto-Patcher [UAP].pak","nexusFileId":128144,"metaUuid":"1fc366f3-d7f1-4b04-98bf-deafe06efb77"}
@@ -68325,4 +68329,7 @@
 ]},
 "24444":{"nexusModName":"chizfreak's Weapon Masteries DnD 5R PHB2024 for Korean","nexusUploadedBy":"Eolaloe","nexusModId":24444,"paks":[
 {"nexusFileName":"Weapon Masteries DnD 5R PHB2024 for Korean","nexusFileVersion":"1.2","nexusFileUploadedAt":1786809818,"pakFileName":"WeaponMasteriesPHB2024_kr.pak","nexusFileId":128145,"metaUuid":null}
+]},
+"24447":{"nexusModName":"SE Console Command Atlas","nexusUploadedBy":"wtfbengt","nexusModId":24447,"paks":[
+{"nexusFileName":"SEConsoleCommandAtlas","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1786812513,"pakFileName":"SEConsoleCommandAtlas.pak","nexusFileId":128150,"metaUuid":null}
 ]}}
