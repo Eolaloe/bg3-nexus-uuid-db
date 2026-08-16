@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-08-16T20:51:57.898748+00:00","total_mods":17292},
+{"_meta":{"last_run":"2026-08-16T21:51:46.622263+00:00","total_mods":17293},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -41667,7 +41667,7 @@
 {"nexusFileName":"SuneDeity","nexusFileVersion":"v1","nexusFileUploadedAt":1738051123,"pakFileName":"SuneDeity_486f93c3-5ce8-f2b4-8b9a-17dedd9db2a7.pak","nexusFileId":84898,"metaUuid":null}
 ]},
 "14816":{"nexusModName":"Frost Domain - Cleric Subclass","nexusUploadedBy":"GIGeorge95","nexusModId":14816,"paks":[
-{"nexusFileName":"Frost Domain","nexusFileVersion":"2.0.0.55","nexusFileUploadedAt":1776046329,"pakFileName":"ColdCleric_817cd636-7843-87b8-ff14-85f60a39c54f.pak","nexusFileId":118832,"metaUuid":"817cd636-7843-87b8-ff14-85f60a39c54f"}
+{"nexusFileName":"Frost Domain","nexusFileVersion":"2.0.0.56","nexusFileUploadedAt":1786913718,"pakFileName":"ColdCleric_817cd636-7843-87b8-ff14-85f60a39c54f.pak","nexusFileId":128238,"metaUuid":"817cd636-7843-87b8-ff14-85f60a39c54f"}
 ]},
 "14817":{"nexusModName":"Wilderness Camp Lighting Tweaks","nexusUploadedBy":"magnetuning","nexusModId":14817,"paks":[
 {"nexusFileName":"Wilderness Camp Lighting Tweaks","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1738125245,"pakFileName":"MGNTN_WLDCMPLighting.pak","nexusFileId":84964,"metaUuid":"6f0098e9-a2ca-4976-a78c-82ecde0ccc61"},
@@ -68327,7 +68327,7 @@
 {"nexusFileName":"Spells Enhanced   Pass Without Trace CHS","nexusFileVersion":"1","nexusFileUploadedAt":1786768626,"pakFileName":"Spells Enhanced - Pass Without Trace CHS.pak","nexusFileId":128108,"metaUuid":null}
 ]},
 "24439":{"nexusModName":"GhostofFaerun_FighterSubclass_CHS","nexusUploadedBy":"Amikrt","nexusModId":24439,"paks":[
-{"nexusFileName":"GhostofFaerun FighterSubclass CHS","nexusFileVersion":"1","nexusFileUploadedAt":1786769877,"pakFileName":"GhostofFaerun_FighterSubclass_055a9471-1df5-45ab-8935-1e19102cc1aCHS.pak","nexusFileId":128110,"metaUuid":null}
+{"nexusFileName":"GhostofFaerun FighterSubclass CHS","nexusFileVersion":"3","nexusFileUploadedAt":1786916960,"pakFileName":"GhostofFaerun_FighterSubclass_CHS.pak","nexusFileId":128241,"metaUuid":null}
 ]},
 "24440":{"nexusModName":"Spells Reworked - Utility Cantrips CHS","nexusUploadedBy":"mzldyt","nexusModId":24440,"paks":[
 {"nexusFileName":"Spells Enhanced   Utility Cantrips CHS","nexusFileVersion":"1","nexusFileUploadedAt":1786769322,"pakFileName":"Spells Enhanced - Utility Cantrips CHS.pak","nexusFileId":128109,"metaUuid":null}
@@ -68370,4 +68370,10 @@
 ]},
 "24462":{"nexusModName":"Grease Genius - Wizard Subclass","nexusUploadedBy":"mashnear","nexusModId":24462,"paks":[
 {"nexusFileName":"GreaseGenius V25J PublicClean","nexusFileVersion":"1","nexusFileUploadedAt":1786913203,"pakFileName":"GreaseGenius_V25J_PublicClean_HogFogFlight_LardBrainPersistence.pak","nexusFileId":128237,"metaUuid":null}
+]},
+"24464":{"nexusModName":"No Bhaal Gift","nexusUploadedBy":"vityakisliy","nexusModId":24464,"paks":[
+{"nexusFileName":"noDarkUrge","nexusFileVersion":"1","nexusFileUploadedAt":1786916715,"pakFileName":"noDarkUrge.pak","nexusFileId":128240,"metaUuid":null}
+]},
+"24465":{"nexusModName":"Absolute Rolls","nexusUploadedBy":"Sai","nexusModId":24465,"paks":[
+{"nexusFileName":"AbsoluteRolls","nexusFileVersion":"1","nexusFileUploadedAt":1786914375,"pakFileName":"AbsoluteRolls.pak","nexusFileId":128239,"metaUuid":null}
 ]}}
