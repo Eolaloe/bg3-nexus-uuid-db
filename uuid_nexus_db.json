@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-08-16T15:52:25.283449+00:00","total_mods":17293},
+{"_meta":{"last_run":"2026-08-16T16:52:16.092395+00:00","total_mods":17292},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -66794,7 +66794,7 @@
 {"nexusFileName":"DefensiveDuelistReactionFix","nexusFileVersion":"0.1.1.0","nexusFileUploadedAt":1783924194,"pakFileName":"DefensiveDuelistReactionFix.pak","nexusFileId":125522,"metaUuid":"e79fb484-8cab-408b-bdcc-e0effcbca8e7"}
 ]},
 "23815":{"nexusModName":"Dual Wielding Begone (Toggled)","nexusUploadedBy":"Cainhurtz","nexusModId":23815,"paks":[
-{"nexusFileName":"Dual Wielding Begone (Toggled)","nexusFileVersion":"6","nexusFileUploadedAt":1786893269,"pakFileName":"Fluck_Dual_Wielding.pak","nexusFileId":128226,"metaUuid":null}
+{"nexusFileName":"Dual Wielding Begone (Toggled)","nexusFileVersion":"7","nexusFileUploadedAt":1786897731,"pakFileName":"Fluck_Dual_Wielding.pak","nexusFileId":128229,"metaUuid":null}
 ]},
 "23816":{"nexusModName":"Vox Machina (Pikes Holy Shield and Mace)","nexusUploadedBy":"haytur","nexusModId":23816,"paks":[
 {"nexusFileName":"VoxHoly","nexusFileVersion":"1.0R","nexusFileUploadedAt":1783746193,"pakFileName":"VoxHoly.pak","nexusFileId":125391,"metaUuid":"e840b1ce-2dc5-cd93-7f2f-1c4724b5c176"}
@@ -66836,7 +66836,7 @@
 {"nexusFileName":"Shared Bags for Your Party","nexusFileVersion":"1.0.7.0","nexusFileUploadedAt":1786293946,"pakFileName":"SharedBags.pak","nexusFileId":127708,"metaUuid":"b68a904f-fb57-4a64-a4bb-1e7cf264862f"}
 ]},
 "23823":{"nexusModName":"Shields Begone (Toggled)","nexusUploadedBy":"Cainhurtz","nexusModId":23823,"paks":[
-{"nexusFileName":"Shields Begone (Toggled)","nexusFileVersion":"6","nexusFileUploadedAt":1786508470,"pakFileName":"Fluck_Shields.pak","nexusFileId":127896,"metaUuid":"69615e25-b334-5f90-9732-f21dd2ea7f34"}
+{"nexusFileName":"Shields Begone (Toggled)","nexusFileVersion":"7","nexusFileUploadedAt":1786897684,"pakFileName":"Fluck_Shields.pak","nexusFileId":128228,"metaUuid":"69615e25-b334-5f90-9732-f21dd2ea7f34"}
 ]},
 "23824":{"nexusModName":"Shadow from Grenpoli - bt2 outfit","nexusUploadedBy":"Mojra414","nexusModId":23824,"paks":[
 {"nexusFileName":"SFG v1.2","nexusFileVersion":"2","nexusFileUploadedAt":1784187825,"pakFileName":"SFG_f7e86c39-1195-d5e0-ab5b-4b6d7118fac1.pak","nexusFileId":125768,"metaUuid":"f7e86c39-1195-d5e0-ab5b-4b6d7118fac1"}
@@ -68369,4 +68369,7 @@
 ]},
 "24457":{"nexusModName":"Flail of the Holy Crusader","nexusUploadedBy":"SaberDelta","nexusModId":24457,"paks":[
 {"nexusFileName":"Flail of the Holy Crusader","nexusFileVersion":"1","nexusFileUploadedAt":1786866930,"pakFileName":"FlailoftheCrusader_60d2f340-fe4f-0e0c-5f15-0a091dbec52b.pak","nexusFileId":128197,"metaUuid":"60d2f340-fe4f-0e0c-5f15-0a091dbec52b"}
+]},
+"24461":{"nexusModName":"Improvised Weapon Fix","nexusUploadedBy":"fenrir4life","nexusModId":24461,"paks":[
+{"nexusFileName":"ImprovisedWeaponFix V1","nexusFileVersion":"1","nexusFileUploadedAt":1786896940,"pakFileName":"ImprovisedWeaponsFix.pak","nexusFileId":128227,"metaUuid":null}
 ]}}
