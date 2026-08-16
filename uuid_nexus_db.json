@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-08-15T23:52:27.790128+00:00","total_mods":17288},
+{"_meta":{"last_run":"2026-08-16T00:52:22.815772+00:00","total_mods":17289},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -68233,7 +68233,7 @@
 ]},
 "24395":{"nexusModName":"Heads by Goblin","nexusUploadedBy":"gobanaoblin","nexusModId":24395,"paks":[
 {"nexusFileName":"Thea","nexusFileVersion":"1","nexusFileUploadedAt":1786555232,"pakFileName":"Thea By Goblin.pak","nexusFileId":127926,"metaUuid":null},
-{"nexusFileName":"Pandora","nexusFileVersion":"1","nexusFileUploadedAt":1786830466,"pakFileName":"CC_PandoraByGoblin_f3ef797d-6f3b-ec4b-369e-d72baacb2112.pak","nexusFileId":128172,"metaUuid":null}
+{"nexusFileName":"Pandora","nexusFileVersion":"2","nexusFileUploadedAt":1786840003,"pakFileName":"CC_PandoraByGoblin_f3ef797d-6f3b-ec4b-369e-d72baacb2112.pak","nexusFileId":128179,"metaUuid":null}
 ]},
 "24398":{"nexusModName":"Fade's Augmentation Runes","nexusUploadedBy":"GraphicFade","nexusModId":24398,"paks":[
 {"nexusFileName":"Fade's Augmentation Runes","nexusFileVersion":"1.0.0.1","nexusFileUploadedAt":1786564577,"pakFileName":"FAR_5e1efd5c-5e82-2c2a-6e9e-e070d141262d.pak","nexusFileId":127934,"metaUuid":"5e1efd5c-5e82-2c2a-6e9e-e070d141262d"}
@@ -68360,4 +68360,7 @@
 ]},
 "24451":{"nexusModName":"HyperspaceTowel's Early Access Dream Visitor Restored for Korean","nexusUploadedBy":"Eolaloe","nexusModId":24451,"paks":[
 {"nexusFileName":"Early Access Dream Visitor Restored for Korean","nexusFileVersion":"1.0.1.1","nexusFileUploadedAt":1786824207,"pakFileName":"HT_EA_Daisy_kr.pak","nexusFileId":128164,"metaUuid":null}
+]},
+"24453":{"nexusModName":"Move With World Map","nexusUploadedBy":"Keny4nn","nexusModId":24453,"paks":[
+{"nexusFileName":"MoveWithWorldMap 1.0.0","nexusFileVersion":"1","nexusFileUploadedAt":1786840276,"pakFileName":"MoveWithWorldMap.pak","nexusFileId":128180,"metaUuid":null}
 ]}}
