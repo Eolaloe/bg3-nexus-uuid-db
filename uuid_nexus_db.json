@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-08-17T19:52:14.524218+00:00","total_mods":17296},
+{"_meta":{"last_run":"2026-08-17T20:52:26.655438+00:00","total_mods":17297},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -34448,8 +34448,8 @@
 {"nexusFileName":"Tav's Hair Salon - Spanish","nexusFileVersion":"2.0.0.0","nexusFileUploadedAt":1726064425,"pakFileName":"Tav's HairpackES.pak","nexusFileId":70473,"metaUuid":null}
 ]},
 "12106":{"nexusModName":"Succubus Attire","nexusUploadedBy":"MariusSeph","nexusModId":12106,"paks":[
-{"nexusFileName":"Succubus Attire V9","nexusFileVersion":"9","nexusFileUploadedAt":1773700159,"pakFileName":"The_Succubus_Attire.pak","nexusFileId":116880,"metaUuid":"18122fc5-e538-4c8b-bb36-961c5710d3b6"},
-{"nexusFileName":"Attempt to deliver Black and red Dye after hotfix","nexusFileVersion":"0.0","nexusFileUploadedAt":1773701745,"pakFileName":"Unlimited_black&red_dye.pak","nexusFileId":116882,"metaUuid":"b2d555cb-1a08-4e3c-b89b-e885015adf15"}
+{"nexusFileName":"Attempt to deliver Black and red Dye after hotfix","nexusFileVersion":"0.0","nexusFileUploadedAt":1773701745,"pakFileName":"Unlimited_black&red_dye.pak","nexusFileId":116882,"metaUuid":"b2d555cb-1a08-4e3c-b89b-e885015adf15"},
+{"nexusFileName":"Succubus Attire V10","nexusFileVersion":"10","nexusFileUploadedAt":1786998573,"pakFileName":"The_Succubus_Attire.pak","nexusFileId":128320,"metaUuid":"18122fc5-e538-4c8b-bb36-961c5710d3b6"}
 ]},
 "12108":{"nexusModName":"Better Tooltips UA","nexusUploadedBy":"NerKun01","nexusModId":12108,"paks":[
 {"nexusFileName":"Better Tooltips UA","nexusFileVersion":"1.2.3","nexusFileUploadedAt":1726085595,"pakFileName":"bettertooltipsUA.pak","nexusFileId":70549,"metaUuid":null}
@@ -68226,7 +68226,8 @@
 "24409":{"nexusModName":"Astral Fury - Lae'zel Edit","nexusUploadedBy":"SweetGenerousThing","nexusModId":24409,"paks":[
 {"nexusFileName":"SGT_Astral Fury -  Lae'zel Portrait","nexusFileVersion":"1","nexusFileUploadedAt":1786644728,"pakFileName":"Astral Fury - Lae'zel Portrait.pak","nexusFileId":128028,"metaUuid":"8fbcd872-a0e1-41f9-a6a8-8cb2da48f1f8"},
 {"nexusFileName":"SGT_Astral Fury - Lae'zel Edit","nexusFileVersion":"1.0.1","nexusFileUploadedAt":1786741888,"pakFileName":"SGT_AstralFury_ae46be95-b478-7487-f6a8-a878448cf088.pak","nexusFileId":128082,"metaUuid":"ae46be95-b478-7487-f6a8-a878448cf088"},
-{"nexusFileName":"SGT_Astral Fury - Hairstyle for CC","nexusFileVersion":"1","nexusFileUploadedAt":1786823060,"pakFileName":"SGT_AstralHairs_462a7ba4-9fce-dad1-04f3-e04379ecfa57.pak","nexusFileId":128161,"metaUuid":"462a7ba4-9fce-dad1-04f3-e04379ecfa57"}
+{"nexusFileName":"SGT_Astral Fury - Hairstyle for CC","nexusFileVersion":"1","nexusFileUploadedAt":1786823060,"pakFileName":"SGT_AstralHairs_462a7ba4-9fce-dad1-04f3-e04379ecfa57.pak","nexusFileId":128161,"metaUuid":"462a7ba4-9fce-dad1-04f3-e04379ecfa57"},
+{"nexusFileName":"SGT_Astral Fury - Hair Only","nexusFileVersion":"1.0.1","nexusFileUploadedAt":1786997561,"pakFileName":"SGT_AstralFury_HairOnly_ea0fdf1b-9cfb-78e3-5990-55ec50f34315.pak","nexusFileId":128318,"metaUuid":null}
 ]},
 "24410":{"nexusModName":"Origin Traits","nexusUploadedBy":"Dreamerydia","nexusModId":24410,"paks":[
 {"nexusFileName":"OriginTraits V1.0.0","nexusFileVersion":"1","nexusFileUploadedAt":1786649105,"pakFileName":"OriginTraits.pak","nexusFileId":128033,"metaUuid":"a06c7ab0-44df-4e78-bec4-d1485e250fbf"}
@@ -68348,6 +68349,9 @@
 ]},
 "24462":{"nexusModName":"Grease Genius - Wizard Subclass","nexusUploadedBy":"mashnear","nexusModId":24462,"paks":[
 {"nexusFileName":"GreaseGenius V25J PublicClean","nexusFileVersion":"1","nexusFileUploadedAt":1786913203,"pakFileName":"GreaseGenius_V25J_PublicClean_HogFogFlight_LardBrainPersistence.pak","nexusFileId":128237,"metaUuid":null}
+]},
+"24463":{"nexusModName":"Plus-size Virgin Killer Dress","nexusUploadedBy":"Desdimonda","nexusModId":24463,"paks":[
+{"nexusFileName":"Desdi Plus Size VK Dress Refit","nexusFileVersion":"1","nexusFileUploadedAt":1786997858,"pakFileName":"DesdiPlusVKDress_c38f2ab4-a9cf-fb2d-dc7c-b7b9f8cdbeb7.pak","nexusFileId":128319,"metaUuid":null}
 ]},
 "24464":{"nexusModName":"No Bhaal Gift","nexusUploadedBy":"vityakisliy","nexusModId":24464,"paks":[
 {"nexusFileName":"noDarkUrge","nexusFileVersion":"1","nexusFileUploadedAt":1786916715,"pakFileName":"noDarkUrge.pak","nexusFileId":128240,"metaUuid":null}
