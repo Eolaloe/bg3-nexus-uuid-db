@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-08-17T07:52:24.271574+00:00","total_mods":17288},
+{"_meta":{"last_run":"2026-08-17T08:52:35.488341+00:00","total_mods":17289},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -33642,9 +33642,9 @@
 {"nexusFileName":"EKP Add-on 4 - War Magic Enhanced","nexusFileVersion":"4.1","nexusFileUploadedAt":1725491965,"pakFileName":"Eldritch Knight Plus Add-on 4.pak","nexusFileId":68761,"metaUuid":null},
 {"nexusFileName":"EKP Add-on 5 - (unmodified) War Magic at level 5","nexusFileVersion":"3.1","nexusFileUploadedAt":1725639574,"pakFileName":"Eldritch Knight Plus Add-on 5.pak","nexusFileId":69113,"metaUuid":null},
 {"nexusFileName":"EKP Add-on 6 - War Magic Enhanced AND at level 5","nexusFileVersion":"3.1","nexusFileUploadedAt":1725640508,"pakFileName":"Eldritch Knight Plus Add-on 6.pak","nexusFileId":69123,"metaUuid":null},
-{"nexusFileName":"Eldritch Knight Plus","nexusFileVersion":"5.2","nexusFileUploadedAt":1747101895,"pakFileName":"Eldritch Knight Plus.pak","nexusFileId":92731,"metaUuid":"b2044353-c19c-4bbb-a2dd-94108e3176a6"},
 {"nexusFileName":"EKP Add-on 7 - No Empowered Cantrips","nexusFileVersion":"5.2","nexusFileUploadedAt":1747102330,"pakFileName":"Eldritch Knight Plus Add-on 7.pak","nexusFileId":92733,"metaUuid":null},
-{"nexusFileName":"Eldritch Knight Plus - Level 20 Version","nexusFileVersion":"5.2","nexusFileUploadedAt":1747899639,"pakFileName":"Eldritch Knight Plus - Lvl20 ver.pak","nexusFileId":93734,"metaUuid":"b2044353-c19c-4bbb-a2dd-94108e3176a6"}
+{"nexusFileName":"Eldritch Knight Plus","nexusFileVersion":"5.3","nexusFileUploadedAt":1786956152,"pakFileName":"Eldritch Knight Plus.pak","nexusFileId":128264,"metaUuid":"b2044353-c19c-4bbb-a2dd-94108e3176a6"},
+{"nexusFileName":"Eldritch Knight Plus - Level 20 Version","nexusFileVersion":"5.3","nexusFileUploadedAt":1786956223,"pakFileName":"Eldritch Knight Plus - Lvl20 ver.pak","nexusFileId":128265,"metaUuid":"b2044353-c19c-4bbb-a2dd-94108e3176a6"}
 ]},
 "11809":{"nexusModName":"Savage Attacker Enhanced - Also applies to ranged and unarmed attacks","nexusUploadedBy":"Khione95","nexusModId":11809,"paks":[
 {"nexusFileName":"Savage Attacker Enhanced","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1724887883,"pakFileName":"SavageAttackerUltra.pak","nexusFileId":68226,"metaUuid":"c2b52efd-1e67-4ddf-8ba4-21f687889c92"}
@@ -56470,7 +56470,7 @@
 {"nexusFileName":"Goon's Barbarian Overhaul for Korean","nexusFileVersion":"1.2.0.0","nexusFileUploadedAt":1785751528,"pakFileName":"Goon's Barbarian Overhaul_kr.pak","nexusFileId":127197,"metaUuid":"093dd857-2607-4d59-8c39-64390d6148d5"}
 ]},
 "20032":{"nexusModName":"Goon's Bard Overhaul for Korean","nexusUploadedBy":"Eolaloe","nexusModId":20032,"paks":[
-{"nexusFileName":"Goon's Bard Overhaul for Korean","nexusFileVersion":"1.0.0.2","nexusFileUploadedAt":1765194906,"pakFileName":"Goon's Bard Overhaul_kr.pak","nexusFileId":109187,"metaUuid":null}
+{"nexusFileName":"Goon's Bard Overhaul for Korean","nexusFileVersion":"1.1.0.0","nexusFileUploadedAt":1786954279,"pakFileName":"Goon's Bard Overhaul_kr.pak","nexusFileId":128260,"metaUuid":null}
 ]},
 "20033":{"nexusModName":"Goon's Cleric Overhaul for Korean","nexusUploadedBy":"Eolaloe","nexusModId":20033,"paks":[
 {"nexusFileName":"Goon's Cleric Overhaul for Korean","nexusFileVersion":"1.0.6.0","nexusFileUploadedAt":1785755693,"pakFileName":"Goon's Cleric Overhaul_kr.pak","nexusFileId":127206,"metaUuid":"e6502969-f7e5-4b3c-9d15-9bcf863647c5"}
@@ -58284,7 +58284,7 @@
 {"nexusFileName":"Goon's Cleric Overhaul for Japanese","nexusFileVersion":"1.0.6.0","nexusFileUploadedAt":1785755731,"pakFileName":"Goon's Cleric Overhaul_jp.pak","nexusFileId":127207,"metaUuid":null}
 ]},
 "20659":{"nexusModName":"Goon's Bard Overhaul for Japanese","nexusUploadedBy":"Eolaloe","nexusModId":20659,"paks":[
-{"nexusFileName":"Goon's Bard Overhaul for Japanese","nexusFileVersion":"1.0.1.0","nexusFileUploadedAt":1768211898,"pakFileName":"Goon's Bard Overhaul_jp.pak","nexusFileId":112003,"metaUuid":null}
+{"nexusFileName":"Goon's Bard Overhaul for Japanese","nexusFileVersion":"1.1.0.0","nexusFileUploadedAt":1786954318,"pakFileName":"Goon's Bard Overhaul_jp.pak","nexusFileId":128261,"metaUuid":null}
 ]},
 "20660":{"nexusModName":"Goon's Barbarian Overhaul for Japanese","nexusUploadedBy":"Eolaloe","nexusModId":20660,"paks":[
 {"nexusFileName":"Goon's Barbarian Overhaul for Japanese","nexusFileVersion":"1.2.0.0","nexusFileUploadedAt":1785751580,"pakFileName":"Goon's Barbarian Overhaul_jp.pak","nexusFileId":127198,"metaUuid":null}
@@ -61468,7 +61468,7 @@
 {"nexusFileName":"Way of the Jungle - Monk Subclass_KOR","nexusFileVersion":"1.0","nexusFileUploadedAt":1772886833,"pakFileName":"WayOfTheJungle_KOR_ab791096-53b6-dbbd-23cd-792ad9677c05.pak","nexusFileId":116257,"metaUuid":null}
 ]},
 "21774":{"nexusModName":"B52's Finesse Weaponry for Korean","nexusUploadedBy":"Eolaloe","nexusModId":21774,"paks":[
-{"nexusFileName":"B52's Finesse Weaponry for Korean","nexusFileVersion":"3.0.1.9","nexusFileUploadedAt":1772891153,"pakFileName":"FinesseBlugeonWeapons_kr.pak","nexusFileId":116260,"metaUuid":null}
+{"nexusFileName":"B52's Finesse Weaponry for Korean","nexusFileVersion":"3.0.1.12","nexusFileUploadedAt":1786955724,"pakFileName":"FinesseBlugeonWeapons_kr.pak","nexusFileId":128262,"metaUuid":null}
 ]},
 "21775":{"nexusModName":"Feat - Dexterous Weapon Master for Korean","nexusUploadedBy":"Eolaloe","nexusModId":21775,"paks":[
 {"nexusFileName":"Feat - Dexterous Weapon Master for Korean","nexusFileVersion":"1.0.0.5","nexusFileUploadedAt":1772891575,"pakFileName":"FinesseWeaponMasterFeat_kr.pak","nexusFileId":116261,"metaUuid":null}
@@ -68359,4 +68359,7 @@
 ]},
 "24471":{"nexusModName":"Water Myrmidon Healing Vapours - Wet Status Restored","nexusUploadedBy":"qhrals8","nexusModId":24471,"paks":[
 {"nexusFileName":"HealingVapors","nexusFileVersion":"1","nexusFileUploadedAt":1786948101,"pakFileName":"HealingVapors.pak","nexusFileId":128251,"metaUuid":null}
+]},
+"24472":{"nexusModName":"Queen's Dress","nexusUploadedBy":"euryalex","nexusModId":24472,"paks":[
+{"nexusFileName":"Queen's Dress","nexusFileVersion":"1.0","nexusFileUploadedAt":1786956447,"pakFileName":"Queens_Dress.pak","nexusFileId":128266,"metaUuid":null}
 ]}}
