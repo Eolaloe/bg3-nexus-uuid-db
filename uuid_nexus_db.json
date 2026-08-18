@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-08-18T22:51:55.789445+00:00","total_mods":17310},
+{"_meta":{"last_run":"2026-08-18T23:52:39.223738+00:00","total_mods":17309},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -17903,7 +17903,7 @@
 {"nexusFileName":"Duplicate Equipment","nexusFileVersion":"1.0.1","nexusFileUploadedAt":1706612551,"pakFileName":"DuplicateEquipment.pak","nexusFileId":42438,"metaUuid":null}
 ]},
 "5660":{"nexusModName":"Unlock Summon Skills","nexusUploadedBy":"actualsailorcat","nexusModId":5660,"paks":[
-{"nexusFileName":"Unlock Summon Skills","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1704409780,"pakFileName":"Unlock Summon Skills.pak","nexusFileId":38094,"metaUuid":"5f69f66a-142b-4875-91a0-38c385d7aee3"}
+{"nexusFileName":"Unlock Summon Skills","nexusFileVersion":"1.00.01","nexusFileUploadedAt":1787094343,"pakFileName":"Unlock Summon Skills.pak","nexusFileId":128424,"metaUuid":"5f69f66a-142b-4875-91a0-38c385d7aee3"}
 ]},
 "5661":{"nexusModName":"Reset Cooldowns","nexusUploadedBy":"BitterPast","nexusModId":5661,"paks":[
 {"nexusFileName":"Combat Reset","nexusFileVersion":"1.0.1","nexusFileUploadedAt":1706612925,"pakFileName":"ResetCooldowns.pak","nexusFileId":42441,"metaUuid":null},
@@ -67446,7 +67446,8 @@
 {"nexusFileName":"Simple Monk Outfit TRM1R","nexusFileVersion":"1","nexusFileUploadedAt":1786816729,"pakFileName":"simpleMonk_TRM1R.pak","nexusFileId":128155,"metaUuid":null},
 {"nexusFileName":"Rose Bard Redux TRM1R","nexusFileVersion":"1","nexusFileUploadedAt":1786816755,"pakFileName":"RoseBardRedux_TRM1R.pak","nexusFileId":128156,"metaUuid":null},
 {"nexusFileName":"CBR Pirates and Rebels TRM1R","nexusFileVersion":"1","nexusFileUploadedAt":1786924306,"pakFileName":"CBR_Pirates_Rebels_TRM1R.pak","nexusFileId":128245,"metaUuid":null},
-{"nexusFileName":"CBR Cambion and Gith Armor TRM1R","nexusFileVersion":"1","nexusFileUploadedAt":1786988036,"pakFileName":"CBR_Cambion_Gith_TRM1R.pak","nexusFileId":128310,"metaUuid":null}
+{"nexusFileName":"CBR Cambion and Gith Armor TRM1R","nexusFileVersion":"1","nexusFileUploadedAt":1786988036,"pakFileName":"CBR_Cambion_Gith_TRM1R.pak","nexusFileId":128310,"metaUuid":null},
+{"nexusFileName":"OWY Night Silk Brocade TRM1R","nexusFileVersion":"1","nexusFileUploadedAt":1787096285,"pakFileName":"OWYDoesOutfits_NightSilkBrocade_TRM1R.pak","nexusFileId":128426,"metaUuid":null}
 ]},
 "24060":{"nexusModName":"Quick Second Wind","nexusUploadedBy":"yoonmoonsik43","nexusModId":24060,"paks":[
 {"nexusFileName":"Quicksecondwind 11aabc80 36ad 3qmv","nexusFileVersion":"1","nexusFileUploadedAt":1784917946,"pakFileName":"QuickSecondWind_11aabc80-36ad-7197-0fd6-f66b6b5a0915.pak","nexusFileId":126385,"metaUuid":"11aabc80-36ad-7197-0fd6-f66b6b5a0915"}
@@ -68172,7 +68173,7 @@
 {"nexusFileName":"Noah Better Ai CHS","nexusFileVersion":"1","nexusFileUploadedAt":1786411924,"pakFileName":"Noah_Better_Ai_CHS.pak","nexusFileId":127811,"metaUuid":null}
 ]},
 "24372":{"nexusModName":"Malefica - Light Armor and Camp Clothing","nexusUploadedBy":"khaleesinz","nexusModId":24372,"paks":[
-{"nexusFileName":"Malefica - Light Armor and Camp Clothing","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1786426615,"pakFileName":"MaleficaArmor_khaleesinz_7b8354b2-24ef-18cc-0543-89e2ec5ca045.pak","nexusFileId":127838,"metaUuid":"7b8354b2-24ef-18cc-0543-89e2ec5ca045"}
+{"nexusFileName":"Malefica - Light Armor and Camp Clothing","nexusFileVersion":"1.0.1","nexusFileUploadedAt":1787095565,"pakFileName":"MaleficaArmor_khaleesinz_7b8354b2-24ef-18cc-0543-89e2ec5ca045.pak","nexusFileId":128425,"metaUuid":"7b8354b2-24ef-18cc-0543-89e2ec5ca045"}
 ]},
 "24374":{"nexusModName":"The Fashionable Monk","nexusUploadedBy":"limebloodexe","nexusModId":24374,"paks":[
 {"nexusFileName":"FashionableMonk","nexusFileVersion":"1","nexusFileUploadedAt":1786428279,"pakFileName":"FashionableMonk_9c6f14d6-cb91-1b40-a980-4de2c92a7661.pak","nexusFileId":127839,"metaUuid":"9c6f14d6-cb91-1b40-a980-4de2c92a7661"}
@@ -68350,7 +68351,7 @@
 {"nexusFileName":"NR RemoveToggles","nexusFileVersion":"1","nexusFileUploadedAt":1786820369,"pakFileName":"NR_RemoveToggles.pak","nexusFileId":128158,"metaUuid":"9c423e21-3b07-4450-a05f-57c058e7b273"}
 ]},
 "24449":{"nexusModName":"Cheater's Menu","nexusUploadedBy":"ForKiramay","nexusModId":24449,"paks":[
-{"nexusFileName":"Cheater's Menu","nexusFileVersion":"1.0.0.29","nexusFileUploadedAt":1786828731,"pakFileName":"CheatersMenu_7f91aeca-b731-cd89-05f7-3c0b56cb6d92.pak","nexusFileId":128169,"metaUuid":"7f91aeca-b731-cd89-05f7-3c0b56cb6d92"}
+{"nexusFileName":"Cheater's Menu","nexusFileVersion":"1.0.0.40","nexusFileUploadedAt":1787097003,"pakFileName":"CheatersMenu_7f91aeca-b731-cd89-05f7-3c0b56cb6d92.pak","nexusFileId":128427,"metaUuid":"7f91aeca-b731-cd89-05f7-3c0b56cb6d92"}
 ]},
 "24451":{"nexusModName":"HyperspaceTowel's Early Access Dream Visitor Restored for Korean","nexusUploadedBy":"Eolaloe","nexusModId":24451,"paks":[
 {"nexusFileName":"Early Access Dream Visitor Restored for Korean","nexusFileVersion":"1.0.1.1","nexusFileUploadedAt":1786824207,"pakFileName":"HT_EA_Daisy_kr.pak","nexusFileId":128164,"metaUuid":null}
