@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-08-18T00:52:39.875446+00:00","total_mods":17299},
+{"_meta":{"last_run":"2026-08-18T01:52:24.468068+00:00","total_mods":17300},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -68277,7 +68277,7 @@
 "24423":{"nexusModName":"PHB2024(ish) Feats Overhaul","nexusUploadedBy":"aljoxo","nexusModId":24423,"paks":[
 {"nexusFileName":"PHB2024 Feat Overhaul - War Caster","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1786831337,"pakFileName":"PHB2024FeatOverhaul - UAWarCaster.pak","nexusFileId":128175,"metaUuid":null},
 {"nexusFileName":"PHB2024 Feat Overhaul - Weapon Masteries DnD 5R","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1786831588,"pakFileName":"PHB2024FeatOverhaul - Weapon Masteries DnD 5R.pak","nexusFileId":128176,"metaUuid":null},
-{"nexusFileName":"PHB2024 Feat Overhaul","nexusFileVersion":"1.0.1","nexusFileUploadedAt":1786870634,"pakFileName":"PHB2024FeatOverhaul.pak","nexusFileId":128200,"metaUuid":null}
+{"nexusFileName":"PHB2024 Feat Overhaul","nexusFileVersion":"1.0.2","nexusFileUploadedAt":1787016498,"pakFileName":"PHB2024FeatOverhaul.pak","nexusFileId":128334,"metaUuid":null}
 ]},
 "24426":{"nexusModName":"Sanctus Signum - Outfit Ensemble","nexusUploadedBy":"BerrySemifreddo","nexusModId":24426,"paks":[
 {"nexusFileName":"Sanctus Signum - MainFile","nexusFileVersion":"1.0.0.6","nexusFileUploadedAt":1786750786,"pakFileName":"SanctusSignumRobe_9170f5dc-b973-d7ad-59ef-757fe1cc67c3.pak","nexusFileId":128092,"metaUuid":null}
@@ -68712,4 +68712,7 @@
 ]},
 "24484":{"nexusModName":"Desire demon dress","nexusUploadedBy":"orionnix","nexusModId":24484,"paks":[
 {"nexusFileName":"DAO DesireDemon","nexusFileVersion":"1","nexusFileUploadedAt":1787010690,"pakFileName":"DAO_DesireDemon_Robes_c04da5d7-e7e5-c376-701b-c5ed0b432b91.pak","nexusFileId":128332,"metaUuid":null}
+]},
+"24486":{"nexusModName":"Perilous Stakes Revert","nexusUploadedBy":"qhrals8","nexusModId":24486,"paks":[
+{"nexusFileName":"PerilousStakes","nexusFileVersion":"1","nexusFileUploadedAt":1787014782,"pakFileName":"PerilousStakes.pak","nexusFileId":128333,"metaUuid":null}
 ]}}
