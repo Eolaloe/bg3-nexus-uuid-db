@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-08-18T14:51:55.099707+00:00","total_mods":17303},
+{"_meta":{"last_run":"2026-08-18T15:52:22.929208+00:00","total_mods":17305},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -57081,7 +57081,7 @@
 {"nexusFileName":"PHB_2024_Bladesinger","nexusFileVersion":"v1.1.0","nexusFileUploadedAt":1767062193,"pakFileName":"PHB_2024_Bladesinger.pak","nexusFileId":110651,"metaUuid":"2eb0f48a-2f6d-05dc-8236-95b59e998637"}
 ]},
 "20247":{"nexusModName":"Automatic Magical Secrets Extender","nexusUploadedBy":"mikeshardmind","nexusModId":20247,"paks":[
-{"nexusFileName":"AutomaticMagicalSecretsExtender","nexusFileVersion":"1.1.3","nexusFileUploadedAt":1783548982,"pakFileName":"AutomaticMagicalSecretsExtender.pak","nexusFileId":125250,"metaUuid":"dc4702de-e7e8-4c2e-8c9d-9fd67139988e"}
+{"nexusFileName":"AutomaticMagicalSecretsExtender","nexusFileVersion":"1.1.4","nexusFileUploadedAt":1787066382,"pakFileName":"AutomaticMagicalSecretsExtender.pak","nexusFileId":128362,"metaUuid":"dc4702de-e7e8-4c2e-8c9d-9fd67139988e"}
 ]},
 "20248":{"nexusModName":"Human Variant and Half-Elf Racials Adjustments","nexusUploadedBy":"chizfreak","nexusModId":20248,"paks":[
 {"nexusFileName":"Human Variant and Half-Elf Racials Adjustments","nexusFileVersion":"3.2","nexusFileUploadedAt":1783364117,"pakFileName":"Human-Halfelf-Racials_977e8bda-7e4a-286c-b00f-a48488bf5c70.pak","nexusFileId":125115,"metaUuid":"977e8bda-7e4a-286c-b00f-a48488bf5c70"}
@@ -68686,7 +68686,7 @@
 {"nexusFileName":"KingThranduilArmor ","nexusFileVersion":"1","nexusFileUploadedAt":1786973739,"pakFileName":"KingThranduilArmor.pak","nexusFileId":128289,"metaUuid":"a7f0a9ac-f158-4b19-b544-ae73fc519896"}
 ]},
 "24477":{"nexusModName":"Dragon Class","nexusUploadedBy":"STpwnz","nexusModId":24477,"paks":[
-{"nexusFileName":"DragonClass","nexusFileVersion":"1","nexusFileUploadedAt":1786981209,"pakFileName":"DragonClass.pak","nexusFileId":128291,"metaUuid":"6de69882-b8c8-499f-99f7-7636cfa11550"}
+{"nexusFileName":"DragonClass","nexusFileVersion":"1.1","nexusFileUploadedAt":1787067177,"pakFileName":"DragonClass.pak","nexusFileId":128364,"metaUuid":"6de69882-b8c8-499f-99f7-7636cfa11550"}
 ]},
 "24478":{"nexusModName":"Hexblade - Bind Hexed Weapon X Deepened Pact","nexusUploadedBy":"Ahdarugo","nexusModId":24478,"paks":[
 {"nexusFileName":"Hexblade - Bind Hexed Weapon X Deepened Pact","nexusFileVersion":"1.0.0.1","nexusFileUploadedAt":1786982340,"pakFileName":"HexWeaponPactofBlade_42662995-1707-49ef-5efd-5ae1521c0055.pak","nexusFileId":128292,"metaUuid":null}
@@ -68724,4 +68724,10 @@
 ]},
 "24494":{"nexusModName":"Edith - Head Preset","nexusUploadedBy":"manuliparoni","nexusModId":24494,"paks":[
 {"nexusFileName":"Edith Head Preset C007baaf 540 4axi","nexusFileVersion":"1","nexusFileUploadedAt":1787054632,"pakFileName":"Edith_Head_Preset_c007baaf-540a-f6f5-b139-e5923b4b2b0c.pak","nexusFileId":128357,"metaUuid":null}
+]},
+"24497":{"nexusModName":"Enhanced Gontr Mael","nexusUploadedBy":"158534276","nexusModId":24497,"paks":[
+{"nexusFileName":"GontrMael","nexusFileVersion":"1","nexusFileUploadedAt":1787066235,"pakFileName":"GontrMael.pak","nexusFileId":128361,"metaUuid":null}
+]},
+"24499":{"nexusModName":"Shadow Blade On Weapon CHS","nexusUploadedBy":"158534276","nexusModId":24499,"paks":[
+{"nexusFileName":"UMI ShadowBlade Change","nexusFileVersion":"1","nexusFileUploadedAt":1787066736,"pakFileName":"UMI_ShadowBlade_Change.pak","nexusFileId":128363,"metaUuid":null}
 ]}}
