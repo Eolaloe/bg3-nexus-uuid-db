@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-08-18T10:52:06.731765+00:00","total_mods":17302},
+{"_meta":{"last_run":"2026-08-18T11:52:16.151589+00:00","total_mods":17304},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -52334,7 +52334,7 @@
 {"nexusFileName":"AlfiraJoinsTheParty_RU","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1758393790,"pakFileName":"AlfiraJoinsTheParty_RU.pak","nexusFileId":103266,"metaUuid":"290d735a-2f69-44e8-a63f-78f94dafcff6"}
 ]},
 "18770":{"nexusModName":"Awakened Blood of Lathander (pt-BR)","nexusUploadedBy":"Firetoga","nexusModId":18770,"paks":[
-{"nexusFileName":"Awakened Blood of Lathander (pt-BR)","nexusFileVersion":"1.9","nexusFileUploadedAt":1758395882,"pakFileName":"AwakenedBloodofLathander_BR_1f0d41da-e9d8-44d4-b2cc-49bc4f8eca3a.pak","nexusFileId":103267,"metaUuid":"1f0d41da-e9d8-44d4-b2cc-49bc4f8eca3a"}
+{"nexusFileName":"Awakened Blood of Lathander (PT-BR)","nexusFileVersion":"1.11.4","nexusFileUploadedAt":1787050821,"pakFileName":"Awakened Blood of Lathander (Tradução PT-BR).pak","nexusFileId":128354,"metaUuid":null}
 ]},
 "18771":{"nexusModName":"Helm's Armory (pt-BR)","nexusUploadedBy":"Firetoga","nexusModId":18771,"paks":[
 {"nexusFileName":"Helm's Armory (pt-BR)","nexusFileVersion":"3.1","nexusFileUploadedAt":1758399934,"pakFileName":"HelmsArmory_BR_2ae419ed-fc5d-4119-9728-5a0b7cdd9af1.pak","nexusFileId":103274,"metaUuid":"2ae419ed-fc5d-4119-9728-5a0b7cdd9af1"}
@@ -68720,4 +68720,10 @@
 ]},
 "24489":{"nexusModName":"Draconic Ascendant","nexusUploadedBy":"Malgera","nexusModId":24489,"paks":[
 {"nexusFileName":"DraconicAscendant","nexusFileVersion":"1","nexusFileUploadedAt":1787045073,"pakFileName":"DraconicAscendant.pak","nexusFileId":128348,"metaUuid":null}
+]},
+"24492":{"nexusModName":"Who Runs the World Tavs (A Single Player multitav mod)_KOR","nexusUploadedBy":"Ahdarugo","nexusModId":24492,"paks":[
+{"nexusFileName":"Who Runs the World Tavs_KOR","nexusFileVersion":"1.0.0.1","nexusFileUploadedAt":1787050926,"pakFileName":"Create_New_Tav_KOR.pak","nexusFileId":128355,"metaUuid":null}
+]},
+"24493":{"nexusModName":"Dragon Class - Russian Translation","nexusUploadedBy":"Shiwaru","nexusModId":24493,"paks":[
+{"nexusFileName":"DragonClassRu","nexusFileVersion":"1","nexusFileUploadedAt":1787053266,"pakFileName":"DragonClassRu.pak","nexusFileId":128356,"metaUuid":null}
 ]}}
