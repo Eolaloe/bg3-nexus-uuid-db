@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-08-18T11:52:16.151589+00:00","total_mods":17304},
+{"_meta":{"last_run":"2026-08-18T12:52:17.237547+00:00","total_mods":17305},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -64835,7 +64835,7 @@
 "23058":{"nexusModName":"Akm Tiefling Body","nexusUploadedBy":"Akumu22","nexusModId":23058,"paks":[
 {"nexusFileName":"FIX - STAV Tail Tats","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1786023194,"pakFileName":"Akm Tiefling Body - STAV Tail FIX.pak","nexusFileId":127442,"metaUuid":null},
 {"nexusFileName":"Akm Tiefling Body","nexusFileVersion":"2.0.1.1","nexusFileUploadedAt":1786887403,"pakFileName":"Akm Tiefling Body.pak","nexusFileId":128213,"metaUuid":"77b21fea-e837-470c-8e79-a79e84e6221a"},
-{"nexusFileName":"Akm Tiefling Body - BT3 Beta","nexusFileVersion":"2.0.6.1","nexusFileUploadedAt":1786887556,"pakFileName":"Akm Tiefling Body - BT3 - Beta.pak","nexusFileId":128214,"metaUuid":"4420c433-718f-4749-8e5d-1da521a84b19"}
+{"nexusFileName":"Akm Tiefling Body - BT3 Beta","nexusFileVersion":"2.0.7.0","nexusFileUploadedAt":1787055071,"pakFileName":"Akm Tiefling Body - BT3 - Beta.pak","nexusFileId":128358,"metaUuid":"4420c433-718f-4749-8e5d-1da521a84b19"}
 ]},
 "23059":{"nexusModName":"Flora Dress and Long Nature Hair","nexusUploadedBy":"Lyniara","nexusModId":23059,"paks":[
 {"nexusFileName":"Flora Dress","nexusFileVersion":"1","nexusFileUploadedAt":1779744844,"pakFileName":"LynFloraDress.pak","nexusFileId":122131,"metaUuid":"a7c4ef09-4ca7-428a-950d-85c4c74573b9"},
@@ -68726,4 +68726,7 @@
 ]},
 "24493":{"nexusModName":"Dragon Class - Russian Translation","nexusUploadedBy":"Shiwaru","nexusModId":24493,"paks":[
 {"nexusFileName":"DragonClassRu","nexusFileVersion":"1","nexusFileUploadedAt":1787053266,"pakFileName":"DragonClassRu.pak","nexusFileId":128356,"metaUuid":null}
+]},
+"24494":{"nexusModName":"Edith - Head Preset","nexusUploadedBy":"manuliparoni","nexusModId":24494,"paks":[
+{"nexusFileName":"Edith Head Preset C007baaf 540 4axi","nexusFileVersion":"1","nexusFileUploadedAt":1787054632,"pakFileName":"Edith_Head_Preset_c007baaf-540a-f6f5-b139-e5923b4b2b0c.pak","nexusFileId":128357,"metaUuid":null}
 ]}}
