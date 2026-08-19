@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-08-19T03:52:24.850753+00:00","total_mods":17309},
+{"_meta":{"last_run":"2026-08-19T04:52:36.912638+00:00","total_mods":17310},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -34152,11 +34152,9 @@
 {"nexusFileName":"Balduran Head Mod - Elf","nexusFileVersion":"1.2","nexusFileUploadedAt":1726462872,"pakFileName":"Balduran Head Mod (Elf).pak","nexusFileId":71397,"metaUuid":null}
 ]},
 "11994":{"nexusModName":"Masculine Heads for Body 1","nexusUploadedBy":"junbug7897","nexusModId":11994,"paks":[
-{"nexusFileName":"Masculine Heads for Body 1","nexusFileVersion":"1.2","nexusFileUploadedAt":1728735771,"pakFileName":"MB1Heads.pak","nexusFileId":75041,"metaUuid":null},
-{"nexusFileName":"Masculine Heads for Body 1 (EOTB Version)","nexusFileVersion":"1.2","nexusFileUploadedAt":1728735817,"pakFileName":"MB1Heads (EOTB).pak","nexusFileId":75042,"metaUuid":null},
-{"nexusFileName":"Masculine Heads for Body 1 (UTAV and EOTB Version)","nexusFileVersion":"1.2","nexusFileUploadedAt":1728735864,"pakFileName":"MB1Heads (UTAV+EOTB).pak","nexusFileId":75043,"metaUuid":"41d326ec-9d0b-4b45-8923-3ac82464a14d"},
-{"nexusFileName":"Masculine Heads for Body 1 (UTAV Version)","nexusFileVersion":"1.2","nexusFileUploadedAt":1728735916,"pakFileName":"MB1Heads (UTAV).pak","nexusFileId":75044,"metaUuid":null},
-{"nexusFileName":"Masculine Heads for Body 1 (CCO Version)","nexusFileVersion":"1","nexusFileUploadedAt":1786007917,"pakFileName":"MB1Heads_CCO.pak","nexusFileId":127423,"metaUuid":null}
+{"nexusFileName":"Masculine Heads for Body 1 (CCO Version)","nexusFileVersion":"1","nexusFileUploadedAt":1786007917,"pakFileName":"MB1Heads_CCO.pak","nexusFileId":127423,"metaUuid":null},
+{"nexusFileName":"Masculine Heads for Body 1","nexusFileVersion":"2","nexusFileUploadedAt":1787111547,"pakFileName":"MB1Heads.pak","nexusFileId":128442,"metaUuid":null},
+{"nexusFileName":"Masc Body 1 Heads (TRM1Races Patch)","nexusFileVersion":"1","nexusFileUploadedAt":1787111676,"pakFileName":"TRM1Races_MB1Heads_Patch.pak","nexusFileId":128443,"metaUuid":null}
 ]},
 "11995":{"nexusModName":"Fierce Deity Sword","nexusUploadedBy":"Valin000","nexusModId":11995,"paks":[
 {"nexusFileName":"Fierce Deity Sword","nexusFileVersion":"1.0.1","nexusFileUploadedAt":1725631528,"pakFileName":"Fierce_Deity.pak","nexusFileId":69102,"metaUuid":null}
@@ -68273,7 +68271,8 @@
 "24418":{"nexusModName":"Weapon Masteries DnD 5R PHB2024","nexusUploadedBy":"chizfreak","nexusModId":24418,"paks":[
 {"nexusFileName":"Weapon Masteries DnD 5R PHB2024 - RAW Patch","nexusFileVersion":"1.0","nexusFileUploadedAt":1786800264,"pakFileName":"Weapon Masteries PHB2024 - RAW Patch.pak","nexusFileId":128129,"metaUuid":null},
 {"nexusFileName":"Weapon Masteries DnD 5R PHB2024 - RAW Patch SE","nexusFileVersion":"1.3.1","nexusFileUploadedAt":1786939268,"pakFileName":"Weapon Masteries PHB2024 - SE RAW Patch.pak","nexusFileId":128250,"metaUuid":null},
-{"nexusFileName":"Weapon Masteries DnD 5R PHB2024","nexusFileVersion":"2.2.1","nexusFileUploadedAt":1787034517,"pakFileName":"WeaponMasteriesPHB2024_517e9f2c-514c-3ebf-05f5-84b7e72dfa3a.pak","nexusFileId":128344,"metaUuid":"517e9f2c-514c-3ebf-05f5-84b7e72dfa3a"}
+{"nexusFileName":"Weapon Masteries DnD 5R PHB2024","nexusFileVersion":"2.2.1","nexusFileUploadedAt":1787034517,"pakFileName":"WeaponMasteriesPHB2024_517e9f2c-514c-3ebf-05f5-84b7e72dfa3a.pak","nexusFileId":128344,"metaUuid":"517e9f2c-514c-3ebf-05f5-84b7e72dfa3a"},
+{"nexusFileName":"Weapon Masteries - Restore Old Weapon Actions","nexusFileVersion":"2.2.1","nexusFileUploadedAt":1787111969,"pakFileName":"Weapon Masteries PHB2024 - Restore Old Weapon Actions.pak","nexusFileId":128444,"metaUuid":null}
 ]},
 "24419":{"nexusModName":"Outfits Dummy Auto-Patcher (UAP)","nexusUploadedBy":"Nzx","nexusModId":24419,"paks":[
 {"nexusFileName":"Outfits Dummy Auto-Patcher (UAP)","nexusFileVersion":"1.0.2","nexusFileUploadedAt":1786890733,"pakFileName":"Outfits Dummy Auto-Patcher [UAP].pak","nexusFileId":128219,"metaUuid":"1fc366f3-d7f1-4b04-98bf-deafe06efb77"}
@@ -68771,4 +68770,7 @@
 ]},
 "24512":{"nexusModName":"NPC Redesign - Waukeen's Rest","nexusUploadedBy":"Ahdarugo","nexusModId":24512,"paks":[
 {"nexusFileName":"NPC Redesign - Waukeen's Rest_KOR","nexusFileVersion":"1.0.0.1","nexusFileUploadedAt":1787110895,"pakFileName":"Aza_NPCre_WaukensInn_KOR.pak","nexusFileId":128441,"metaUuid":null}
+]},
+"24513":{"nexusModName":"Eos Dyes","nexusUploadedBy":"7hornadus","nexusModId":24513,"paks":[
+{"nexusFileName":"EosDyes","nexusFileVersion":"1","nexusFileUploadedAt":1787112382,"pakFileName":"EosDyes.pak","nexusFileId":128445,"metaUuid":null}
 ]}}
