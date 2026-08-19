@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-08-19T09:51:59.782890+00:00","total_mods":17314},
+{"_meta":{"last_run":"2026-08-19T10:52:47.172115+00:00","total_mods":17315},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -44769,7 +44769,7 @@
 {"nexusFileName":"PPHB2024 - 5e Spells Patch","nexusFileVersion":"4.0.0","nexusFileUploadedAt":1762069510,"pakFileName":"PaladinPHB2024 5e Spells Patch.pak","nexusFileId":106577,"metaUuid":"36f5a133-f226-4d59-be6b-bb7245f63e52"},
 {"nexusFileName":"zDivine Smite - No Bonus Action Cost","nexusFileVersion":"6.1.0","nexusFileUploadedAt":1777157461,"pakFileName":"PaladinPHB2024 Smite No BA Cost.pak","nexusFileId":119867,"metaUuid":"45af5b6f-c492-4ce4-93d1-dbd54cfa65d0"},
 {"nexusFileName":"PPHB2024 - Summon Undead Patch","nexusFileVersion":"6.2.3","nexusFileUploadedAt":1784222015,"pakFileName":"PaladinPHB2024 Summon Undead Patch.pak","nexusFileId":125780,"metaUuid":"75a8fbbc-46fd-4cec-ae5e-cbedd5a79b1e"},
-{"nexusFileName":"Paladin and Oaths DnD 5R PHB2024","nexusFileVersion":"6.3.0","nexusFileUploadedAt":1785193676,"pakFileName":"PaladinPHB2024_9b9367cc-77ff-7773-7327-75dd42089bea.pak","nexusFileId":126617,"metaUuid":"9b9367cc-77ff-7773-7327-75dd42089bea"}
+{"nexusFileName":"Paladin and Oaths DnD 5R PHB2024","nexusFileVersion":"6.3.1","nexusFileUploadedAt":1787133199,"pakFileName":"PaladinPHB2024_9b9367cc-77ff-7773-7327-75dd42089bea.pak","nexusFileId":128454,"metaUuid":"9b9367cc-77ff-7773-7327-75dd42089bea"}
 ]},
 "16066":{"nexusModName":"Grave Domain Cleric SubclassCHS","nexusUploadedBy":"yangyangmeiiii","nexusModId":16066,"paks":[
 {"nexusFileName":"Grave Domain Cleric SubclassCHS","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1745557519,"pakFileName":"GraveDomainCHS.pak","nexusFileId":90539,"metaUuid":null}
@@ -62099,7 +62099,7 @@
 {"nexusFileName":"Hammer of Disenchantment_KOR","nexusFileVersion":"1.0","nexusFileUploadedAt":1773980453,"pakFileName":"Hammer_Of_Disenchantment_KOR.pak","nexusFileId":117071,"metaUuid":"287f0e41-d515-421e-8579-4de782f5053d"}
 ]},
 "22003":{"nexusModName":"Cheat Spells","nexusUploadedBy":"chizfreak","nexusModId":22003,"paks":[
-{"nexusFileName":"Cheat Spells","nexusFileVersion":"2.2","nexusFileUploadedAt":1784291797,"pakFileName":"CheatSpells_8180320e-305c-d63e-6c49-9f3ff03c9d62.pak","nexusFileId":125834,"metaUuid":"8180320e-305c-d63e-6c49-9f3ff03c9d62"}
+{"nexusFileName":"Cheat Spells","nexusFileVersion":"2.3","nexusFileUploadedAt":1787135678,"pakFileName":"CheatSpells_8180320e-305c-d63e-6c49-9f3ff03c9d62.pak","nexusFileId":128455,"metaUuid":"8180320e-305c-d63e-6c49-9f3ff03c9d62"}
 ]},
 "22004":{"nexusModName":"Trials of Tav - Reloaded_CHT","nexusUploadedBy":"Bzax","nexusModId":22004,"paks":[
 {"nexusFileName":"Trials of Tav - Reloaded_CHT","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1774008352,"pakFileName":"Trials of Tav - Reloaded_CHT.pak","nexusFileId":117078,"metaUuid":null}
@@ -68761,6 +68761,9 @@
 "24503":{"nexusModName":"Permanent Domination","nexusUploadedBy":"Keileon","nexusModId":24503,"paks":[
 {"nexusFileName":"Permanent Domination","nexusFileVersion":"1","nexusFileUploadedAt":1787086453,"pakFileName":"RR_PermanentDomination.pak","nexusFileId":128419,"metaUuid":null},
 {"nexusFileName":"Unbreakable Domination","nexusFileVersion":"1","nexusFileUploadedAt":1787086662,"pakFileName":"RR_UnbreakableDomination.pak","nexusFileId":128420,"metaUuid":null}
+]},
+"24507":{"nexusModName":"Bhaal's Forgotten Son","nexusUploadedBy":"RealYablo","nexusModId":24507,"paks":[
+{"nexusFileName":"BhaalsForgottenSon 1.0","nexusFileVersion":"1","nexusFileUploadedAt":1787098234,"pakFileName":"hold_on_2ec64c1b-f0e2-d572-c5da-78e09a4ebc08.pak","nexusFileId":128429,"metaUuid":null}
 ]},
 "24509":{"nexusModName":"Band of the Mystic Scoundrel Tweaked","nexusUploadedBy":"vampiremans1on","nexusModId":24509,"paks":[
 {"nexusFileName":"BandOfTheMysticScoundrelTweaked.Pak","nexusFileVersion":"1","nexusFileUploadedAt":1787117688,"pakFileName":"BandOfTheMysticScoundrelTweaked.pak","nexusFileId":128446,"metaUuid":"404d7544-5782-1d19-7560-7b6486230a5e"},
