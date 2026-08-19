@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-08-19T20:52:24.963060+00:00","total_mods":17312},
+{"_meta":{"last_run":"2026-08-19T21:52:11.513625+00:00","total_mods":17313},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -66600,7 +66600,7 @@
 "23765":{"nexusModName":"Dark Urge Morning After - Always Astarion","nexusUploadedBy":"Seristina","nexusModId":23765,"paks":[
 {"nexusFileName":"DurgeMorningFixAlwaysAstarion","nexusFileVersion":"1","nexusFileUploadedAt":1783466988,"pakFileName":"DurgeMorningFixAlwaysAstarion.pak","nexusFileId":125197,"metaUuid":"bb8b316b-d343-4deb-8a7a-ca663d9bed2a"},
 {"nexusFileName":"DurgeMorningFix","nexusFileVersion":"1","nexusFileUploadedAt":1783467609,"pakFileName":"DurgeMorningFix.pak","nexusFileId":125198,"metaUuid":"7699ea7a-8677-4be6-b226-3900324ada7f"},
-{"nexusFileName":"DurgeMorningAlwaysAstarionNoFix","nexusFileVersion":"1","nexusFileUploadedAt":1787172416,"pakFileName":"DurgeMorningAlwaysAstarionNoFix.pak","nexusFileId":128493,"metaUuid":null}
+{"nexusFileName":"DurgeMorningAlwaysAstarionNoFix","nexusFileVersion":"3","nexusFileUploadedAt":1787175594,"pakFileName":"DurgeMorningAlwaysAstarionNoFix.pak","nexusFileId":128495,"metaUuid":null}
 ]},
 "23766":{"nexusModName":"Chained Vampire for BT1","nexusUploadedBy":"Ayuro","nexusModId":23766,"paks":[
 {"nexusFileName":"AYU_Chained_Vampire","nexusFileVersion":"1","nexusFileUploadedAt":1783453182,"pakFileName":"AYU_VAMPIR_ChainedVampire_927e457b-6b89-4e5e-b054-bba3608bb589.pak","nexusFileId":125185,"metaUuid":"927e457b-6b89-4e5e-b054-bba3608bb589"}
@@ -68319,7 +68319,7 @@
 {"nexusFileName":"NR RemoveToggles","nexusFileVersion":"1","nexusFileUploadedAt":1786820369,"pakFileName":"NR_RemoveToggles.pak","nexusFileId":128158,"metaUuid":"9c423e21-3b07-4450-a05f-57c058e7b273"}
 ]},
 "24449":{"nexusModName":"Cheater's Menu","nexusUploadedBy":"ForKiramay","nexusModId":24449,"paks":[
-{"nexusFileName":"Cheater's Menu","nexusFileVersion":"1.0.0.42","nexusFileUploadedAt":1787137352,"pakFileName":"CheatersMenu_7f91aeca-b731-cd89-05f7-3c0b56cb6d92.pak","nexusFileId":128456,"metaUuid":"7f91aeca-b731-cd89-05f7-3c0b56cb6d92"}
+{"nexusFileName":"Cheater's Menu","nexusFileVersion":"1.0.0.46","nexusFileUploadedAt":1787175684,"pakFileName":"CheatersMenu_7f91aeca-b731-cd89-05f7-3c0b56cb6d92.pak","nexusFileId":128496,"metaUuid":"7f91aeca-b731-cd89-05f7-3c0b56cb6d92"}
 ]},
 "24451":{"nexusModName":"HyperspaceTowel's Early Access Dream Visitor Restored for Korean","nexusUploadedBy":"Eolaloe","nexusModId":24451,"paks":[
 {"nexusFileName":"Early Access Dream Visitor Restored for Korean","nexusFileVersion":"1.0.1.1","nexusFileUploadedAt":1786824207,"pakFileName":"HT_EA_Daisy_kr.pak","nexusFileId":128164,"metaUuid":null}
@@ -68784,4 +68784,9 @@
 ]},
 "24523":{"nexusModName":"Band of the Mystic Scoundrel Tweaked","nexusUploadedBy":"vampiremans1on","nexusModId":24523,"paks":[
 {"nexusFileName":"BandOfTheMysticScoundrelTweaked","nexusFileVersion":"1","nexusFileUploadedAt":1787168684,"pakFileName":"BandOfTheMysticScoundrelTweaked.pak","nexusFileId":128483,"metaUuid":null}
+]},
+"24525":{"nexusModName":"Exclusive Dice","nexusUploadedBy":"nyilas7","nexusModId":24525,"paks":[
+{"nexusFileName":"Exclusive Dice","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1787171776,"pakFileName":"Exclusive Dice.pak","nexusFileId":128489,"metaUuid":null},
+{"nexusFileName":"Exclusive Dice - Dice of Hope and Despair","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1787171870,"pakFileName":"Exclusive Dice - Dice of Hope and Despair.pak","nexusFileId":128490,"metaUuid":null},
+{"nexusFileName":"Exclusive Dice - Prismatic Spray","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1787171953,"pakFileName":"Exclusive Dice - Prismatic Spray.pak","nexusFileId":128492,"metaUuid":null}
 ]}}
