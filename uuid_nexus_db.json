@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-08-19T19:52:01.774072+00:00","total_mods":17312},
+{"_meta":{"last_run":"2026-08-19T20:52:24.963060+00:00","total_mods":17312},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -66599,7 +66599,8 @@
 ]},
 "23765":{"nexusModName":"Dark Urge Morning After - Always Astarion","nexusUploadedBy":"Seristina","nexusModId":23765,"paks":[
 {"nexusFileName":"DurgeMorningFixAlwaysAstarion","nexusFileVersion":"1","nexusFileUploadedAt":1783466988,"pakFileName":"DurgeMorningFixAlwaysAstarion.pak","nexusFileId":125197,"metaUuid":"bb8b316b-d343-4deb-8a7a-ca663d9bed2a"},
-{"nexusFileName":"DurgeMorningFix","nexusFileVersion":"1","nexusFileUploadedAt":1783467609,"pakFileName":"DurgeMorningFix.pak","nexusFileId":125198,"metaUuid":"7699ea7a-8677-4be6-b226-3900324ada7f"}
+{"nexusFileName":"DurgeMorningFix","nexusFileVersion":"1","nexusFileUploadedAt":1783467609,"pakFileName":"DurgeMorningFix.pak","nexusFileId":125198,"metaUuid":"7699ea7a-8677-4be6-b226-3900324ada7f"},
+{"nexusFileName":"DurgeMorningAlwaysAstarionNoFix","nexusFileVersion":"1","nexusFileUploadedAt":1787172416,"pakFileName":"DurgeMorningAlwaysAstarionNoFix.pak","nexusFileId":128493,"metaUuid":null}
 ]},
 "23766":{"nexusModName":"Chained Vampire for BT1","nexusUploadedBy":"Ayuro","nexusModId":23766,"paks":[
 {"nexusFileName":"AYU_Chained_Vampire","nexusFileVersion":"1","nexusFileUploadedAt":1783453182,"pakFileName":"AYU_VAMPIR_ChainedVampire_927e457b-6b89-4e5e-b054-bba3608bb589.pak","nexusFileId":125185,"metaUuid":"927e457b-6b89-4e5e-b054-bba3608bb589"}
@@ -66932,14 +66933,15 @@
 ]},
 "23892":{"nexusModName":"Hot Thing - Karlach edit","nexusUploadedBy":"SweetGenerousThing","nexusModId":23892,"paks":[
 {"nexusFileName":"SGT_Hot Thing - Portrait","nexusFileVersion":"1","nexusFileUploadedAt":1784725330,"pakFileName":"Hot Thing - Karlach Portrait.pak","nexusFileId":126210,"metaUuid":"5f17f40d-02ad-43e7-a0b2-e10472984866"},
-{"nexusFileName":"SGT_Hot Thing_Karlach edit - MAIN","nexusFileVersion":"1.1","nexusFileUploadedAt":1785262879,"pakFileName":"SGT_KarlachEdit_ad691c90-093a-33fe-81d4-3d33cb3b06e2.pak","nexusFileId":126688,"metaUuid":"ad691c90-093a-33fe-81d4-3d33cb3b06e2"},
 {"nexusFileName":"SGT_KarlachEdit_HEAD ONLY_PAK","nexusFileVersion":"1.1","nexusFileUploadedAt":1785263000,"pakFileName":"SGT_KarlachEdit_ad691c90-093a-33fe-81d4-3d33cb3b06e2.pak","nexusFileId":126690,"metaUuid":"ad691c90-093a-33fe-81d4-3d33cb3b06e2"},
 {"nexusFileName":"SGT_KarlachEdit_HAIR ONLY_PAK","nexusFileVersion":"1.1","nexusFileUploadedAt":1785263313,"pakFileName":"SGT_KarlachEdit_ad691c90-093a-33fe-81d4-3d33cb3b06e2.pak","nexusFileId":126692,"metaUuid":"ad691c90-093a-33fe-81d4-3d33cb3b06e2"},
 {"nexusFileName":"SGT_HotThing_Hair_CC","nexusFileVersion":"1","nexusFileUploadedAt":1785273961,"pakFileName":"SGT_HotThing_Hair_3b09c297-07b1-997a-bbc5-92eaa6628bb7.pak","nexusFileId":126699,"metaUuid":"3b09c297-07b1-997a-bbc5-92eaa6628bb7"},
 {"nexusFileName":"SGT_HotThing_Head_CC","nexusFileVersion":"1","nexusFileUploadedAt":1785521522,"pakFileName":"SGT_HotThing_Head_0c809a03-cec9-3de0-bbd3-dcc5ec1af5a2.pak","nexusFileId":126936,"metaUuid":"0c809a03-cec9-3de0-bbd3-dcc5ec1af5a2"},
-{"nexusFileName":"SGT_KarlachEdit_No Scars (face and body)","nexusFileVersion":"1","nexusFileUploadedAt":1786109959,"pakFileName":"SGT_KarlachEdit_ad691c90-093a-33fe-81d4-3d33cb3b06e2.pak","nexusFileId":127498,"metaUuid":"ad691c90-093a-33fe-81d4-3d33cb3b06e2"},
-{"nexusFileName":"SGT_KarlachEdit_No Scars - Black Hair","nexusFileVersion":"1","nexusFileUploadedAt":1786109986,"pakFileName":"SGT_KarlachEdit_ad691c90-093a-33fe-81d4-3d33cb3b06e2.pak","nexusFileId":127499,"metaUuid":"ad691c90-093a-33fe-81d4-3d33cb3b06e2"},
-{"nexusFileName":"SGT_KarlachEdit_No Scars - Vanilla Hair","nexusFileVersion":"1","nexusFileUploadedAt":1786110021,"pakFileName":"SGT_KarlachEdit_ad691c90-093a-33fe-81d4-3d33cb3b06e2.pak","nexusFileId":127500,"metaUuid":"ad691c90-093a-33fe-81d4-3d33cb3b06e2"}
+{"nexusFileName":"SGT_Hot Thing - Karlach Edit - MAIN","nexusFileVersion":"1.2","nexusFileUploadedAt":1787169838,"pakFileName":"SGT_KarlachEdit_ad691c90-093a-33fe-81d4-3d33cb3b06e2.pak","nexusFileId":128484,"metaUuid":"ad691c90-093a-33fe-81d4-3d33cb3b06e2"},
+{"nexusFileName":"SGT_KarlachEdit_No Scars - Vanilla Hair","nexusFileVersion":"1.2","nexusFileUploadedAt":1787169916,"pakFileName":"SGT_KarlachEdit_ad691c90-093a-33fe-81d4-3d33cb3b06e2.pak","nexusFileId":128485,"metaUuid":"ad691c90-093a-33fe-81d4-3d33cb3b06e2"},
+{"nexusFileName":"SGT_KarlachEdit_No Scars - Black Hair","nexusFileVersion":"1.2","nexusFileUploadedAt":1787169964,"pakFileName":"SGT_KarlachEdit_ad691c90-093a-33fe-81d4-3d33cb3b06e2.pak","nexusFileId":128486,"metaUuid":"ad691c90-093a-33fe-81d4-3d33cb3b06e2"},
+{"nexusFileName":"SGT_KarlachEdit_No Scars","nexusFileVersion":"1.2","nexusFileUploadedAt":1787170007,"pakFileName":"SGT_KarlachEdit_ad691c90-093a-33fe-81d4-3d33cb3b06e2.pak","nexusFileId":128487,"metaUuid":"ad691c90-093a-33fe-81d4-3d33cb3b06e2"},
+{"nexusFileName":"SGT_KarlachEdit_Black Hair","nexusFileVersion":"1.2","nexusFileUploadedAt":1787170071,"pakFileName":"SGT_KarlachEdit_ad691c90-093a-33fe-81d4-3d33cb3b06e2.pak","nexusFileId":128488,"metaUuid":"ad691c90-093a-33fe-81d4-3d33cb3b06e2"}
 ]},
 "23893":{"nexusModName":"Noir Poses - Solo Edition","nexusUploadedBy":"MunchyInTechnicolor","nexusModId":23893,"paks":[
 {"nexusFileName":"NoirPoses Solo V1","nexusFileVersion":"1","nexusFileUploadedAt":1784160634,"pakFileName":"NoirPoses_Solo_V1.pak","nexusFileId":125751,"metaUuid":"b56bf874-b3a7-d0df-5294-856be88c180b"}
@@ -68779,4 +68781,7 @@
 ]},
 "24521":{"nexusModName":"A Beautiful Webbing - Act 3 - Minthara Romance Scenes RUS","nexusUploadedBy":"0dyss12","nexusModId":24521,"paks":[
 {"nexusFileName":"HT A Beautiful Webbing Minthara Romance Act3 RUS","nexusFileVersion":"1","nexusFileUploadedAt":1787164631,"pakFileName":"HT_A_Beautiful_Webbing_Minthara_Romance_Act3_RUS.pak","nexusFileId":128481,"metaUuid":null}
+]},
+"24523":{"nexusModName":"Band of the Mystic Scoundrel Tweaked","nexusUploadedBy":"vampiremans1on","nexusModId":24523,"paks":[
+{"nexusFileName":"BandOfTheMysticScoundrelTweaked","nexusFileVersion":"1","nexusFileUploadedAt":1787168684,"pakFileName":"BandOfTheMysticScoundrelTweaked.pak","nexusFileId":128483,"metaUuid":null}
 ]}}
