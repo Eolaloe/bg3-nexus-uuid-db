@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-08-19T21:52:11.513625+00:00","total_mods":17313},
+{"_meta":{"last_run":"2026-08-19T22:52:26.631205+00:00","total_mods":17314},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -62985,7 +62985,8 @@
 {"nexusFileName":"Necri Soul Wand Act3","nexusFileVersion":"2","nexusFileUploadedAt":1776202912,"pakFileName":"Necri_Soul_Wand_bce292ff-3506-4e26-6675-4efc93289dcc.pak","nexusFileId":119000,"metaUuid":"bce292ff-3506-4e26-6675-4efc93289dcc"},
 {"nexusFileName":"Necri - For Undead  Players - WIP (depreciated)","nexusFileVersion":"2","nexusFileUploadedAt":1782665229,"pakFileName":"Necri_Soul_Wand_bce292ff-3506-4e26-6675-4efc93289dcc.pak","nexusFileId":124487,"metaUuid":"bce292ff-3506-4e26-6675-4efc93289dcc"},
 {"nexusFileName":"Necri Soul Wand V2.5","nexusFileVersion":"2.5","nexusFileUploadedAt":1783095847,"pakFileName":"Necri_Soul_Wand_bce292ff-3506-4e26-6675-4efc93289dcc.pak","nexusFileId":124788,"metaUuid":"bce292ff-3506-4e26-6675-4efc93289dcc"},
-{"nexusFileName":"Necri Soul Wand 2.7","nexusFileVersion":"2.7","nexusFileUploadedAt":1785773821,"pakFileName":"Necri_Soul_Wand_bce292ff-3506-4e26-6675-4efc93289dcc.pak","nexusFileId":127220,"metaUuid":"bce292ff-3506-4e26-6675-4efc93289dcc"}
+{"nexusFileName":"Necri Soul Wand 2.7","nexusFileVersion":"2.7","nexusFileUploadedAt":1785773821,"pakFileName":"Necri_Soul_Wand_bce292ff-3506-4e26-6675-4efc93289dcc.pak","nexusFileId":127220,"metaUuid":"bce292ff-3506-4e26-6675-4efc93289dcc"},
+{"nexusFileName":"Necri - Experimental","nexusFileVersion":"2.7.1","nexusFileUploadedAt":1787176520,"pakFileName":"Necri_Soul_Wand_bce292ff-3506-4e26-6675-4efc93289dcc.pak","nexusFileId":128498,"metaUuid":"bce292ff-3506-4e26-6675-4efc93289dcc"}
 ]},
 "22334":{"nexusModName":"Fade's Dynamic Enemy Encounters for Korean","nexusUploadedBy":"Eolaloe","nexusModId":22334,"paks":[
 {"nexusFileName":"Dynamic Enemy Encounters for Korean","nexusFileVersion":"1.0.0.23","nexusFileUploadedAt":1785828810,"pakFileName":"DynamicExtraEncounters_kr.pak","nexusFileId":127283,"metaUuid":"685f72ea-ff40-47b2-9a4b-8c091b714ff1"}
@@ -68748,7 +68749,7 @@
 {"nexusFileName":"Unbreakable Domination","nexusFileVersion":"1","nexusFileUploadedAt":1787086662,"pakFileName":"RR_UnbreakableDomination.pak","nexusFileId":128420,"metaUuid":null}
 ]},
 "24507":{"nexusModName":"Bhaal's Forgotten Son","nexusUploadedBy":"RealYablo","nexusModId":24507,"paks":[
-{"nexusFileName":"BhaalsForgottenSon 1.0.1","nexusFileVersion":"1.0.1","nexusFileUploadedAt":1787166437,"pakFileName":"hold_on_2ec64c1b-f0e2-d572-c5da-78e09a4ebc08.pak","nexusFileId":128482,"metaUuid":"2ec64c1b-f0e2-d572-c5da-78e09a4ebc08"}
+{"nexusFileName":"BhaalsForgottenSon 1.0.2","nexusFileVersion":"1.0.2","nexusFileUploadedAt":1787179036,"pakFileName":"hold_on_2ec64c1b-f0e2-d572-c5da-78e09a4ebc08.pak","nexusFileId":128501,"metaUuid":"2ec64c1b-f0e2-d572-c5da-78e09a4ebc08"}
 ]},
 "24508":{"nexusModName":"Moon's Half Orcs","nexusUploadedBy":"AdrasteaMoon","nexusModId":24508,"paks":[
 {"nexusFileName":"Main File","nexusFileVersion":"1","nexusFileUploadedAt":1787099791,"pakFileName":"Moon's Orcs.pak","nexusFileId":128431,"metaUuid":"0ad3841f-672c-46cf-b1cf-044a8af97b0e"}
@@ -68789,4 +68790,7 @@
 {"nexusFileName":"Exclusive Dice","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1787171776,"pakFileName":"Exclusive Dice.pak","nexusFileId":128489,"metaUuid":null},
 {"nexusFileName":"Exclusive Dice - Dice of Hope and Despair","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1787171870,"pakFileName":"Exclusive Dice - Dice of Hope and Despair.pak","nexusFileId":128490,"metaUuid":null},
 {"nexusFileName":"Exclusive Dice - Prismatic Spray","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1787171953,"pakFileName":"Exclusive Dice - Prismatic Spray.pak","nexusFileId":128492,"metaUuid":null}
+]},
+"24527":{"nexusModName":"Vanilla Dice Colors","nexusUploadedBy":"nyilas7","nexusModId":24527,"paks":[
+{"nexusFileName":"Vanilla Dice Colors","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1787175686,"pakFileName":"Vanilla Dice Colors.pak","nexusFileId":128497,"metaUuid":null}
 ]}}
