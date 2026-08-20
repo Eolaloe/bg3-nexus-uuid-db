@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-08-20T12:52:00.826234+00:00","total_mods":17316},
+{"_meta":{"last_run":"2026-08-20T13:52:17.815159+00:00","total_mods":17317},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -40509,8 +40509,8 @@
 ]},
 "14364":{"nexusModName":"Lighty Lights and Photo Mode stuff","nexusUploadedBy":"rakor","nexusModId":14364,"paks":[
 {"nexusFileName":"PushingPpose","nexusFileVersion":"daniela","nexusFileUploadedAt":1776178849,"pakFileName":"pushingPpose.pak","nexusFileId":118961,"metaUuid":"0d6d6972-2dbe-9d97-6883-f8b2d206e0e2"},
-{"nexusFileName":"Dani Lighty Lights","nexusFileVersion":"1.10.1","nexusFileUploadedAt":1787161233,"pakFileName":"LighterLightyLights_6aa50183-bce4-576e-749f-3a2c60233b09.pak","nexusFileId":128472,"metaUuid":"6aa50183-bce4-576e-749f-3a2c60233b09"},
-{"nexusFileName":"Gobos and garbage","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1787161306,"pakFileName":"LightyLights_Gobos.pak","nexusFileId":128474,"metaUuid":"ce92c6aa-ad10-4503-b0f4-1a59d7aec286"}
+{"nexusFileName":"Gobos and garbage","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1787161306,"pakFileName":"LightyLights_Gobos.pak","nexusFileId":128474,"metaUuid":"ce92c6aa-ad10-4503-b0f4-1a59d7aec286"},
+{"nexusFileName":"Dani Lighty Lights","nexusFileVersion":"1.10.2","nexusFileUploadedAt":1787233424,"pakFileName":"LighterLightyLights_6aa50183-bce4-576e-749f-3a2c60233b09.pak","nexusFileId":128541,"metaUuid":"6aa50183-bce4-576e-749f-3a2c60233b09"}
 ]},
 "14365":{"nexusModName":"Deepspace Collection - vol. 1","nexusUploadedBy":"OneEyeAskew","nexusModId":14365,"paks":[
 {"nexusFileName":"Deepspace Collection - vol. 1","nexusFileVersion":"1.0.1","nexusFileUploadedAt":1735068058,"pakFileName":"LaDsv1.pak","nexusFileId":82678,"metaUuid":"215234f9-bc28-44a1-b2dc-fce03181a9ec"}
@@ -68223,7 +68223,8 @@
 {"nexusFileName":"SGT_Bex Is Brunette","nexusFileVersion":"1","nexusFileUploadedAt":1787069595,"pakFileName":"SGT_Bex_Edited_fc22738d-e93f-3e3f-eb0b-bcccb57600da.pak","nexusFileId":128366,"metaUuid":null},
 {"nexusFileName":"SGT_Bex Is Brunette - Original hairstyle","nexusFileVersion":"1","nexusFileUploadedAt":1787072410,"pakFileName":"SGT_Bex_Edited_fc22738d-e93f-3e3f-eb0b-bcccb57600da.pak","nexusFileId":128368,"metaUuid":null},
 {"nexusFileName":"SGT_Astral Fury - No Gith Spots","nexusFileVersion":"1.0.2","nexusFileUploadedAt":1787082318,"pakFileName":"SGT_AstralFury_ae46be95-b478-7487-f6a8-a878448cf088.pak","nexusFileId":128413,"metaUuid":"ae46be95-b478-7487-f6a8-a878448cf088"},
-{"nexusFileName":"SGT_Astral Fury - Lae'zel Edit","nexusFileVersion":"1.0.2","nexusFileUploadedAt":1787082511,"pakFileName":"SGT_AstralFury_ae46be95-b478-7487-f6a8-a878448cf088.pak","nexusFileId":128414,"metaUuid":"ae46be95-b478-7487-f6a8-a878448cf088"}
+{"nexusFileName":"SGT_Astral Fury - Lae'zel Edit","nexusFileVersion":"1.0.2","nexusFileUploadedAt":1787082511,"pakFileName":"SGT_AstralFury_ae46be95-b478-7487-f6a8-a878448cf088.pak","nexusFileId":128414,"metaUuid":"ae46be95-b478-7487-f6a8-a878448cf088"},
+{"nexusFileName":"SGT_AstralFury_Head for CC","nexusFileVersion":"1","nexusFileUploadedAt":1787232352,"pakFileName":"SGT_AstralFury_Head_CC.pak","nexusFileId":128539,"metaUuid":null}
 ]},
 "24410":{"nexusModName":"Origin Traits","nexusUploadedBy":"Dreamerydia","nexusModId":24410,"paks":[
 {"nexusFileName":"OriginTraits V1.0.0","nexusFileVersion":"1","nexusFileUploadedAt":1786649105,"pakFileName":"OriginTraits.pak","nexusFileId":128033,"metaUuid":"a06c7ab0-44df-4e78-bec4-d1485e250fbf"}
@@ -68813,4 +68814,7 @@
 ]},
 "24530":{"nexusModName":"Grease Radius Expansion","nexusUploadedBy":"Keileon","nexusModId":24530,"paks":[
 {"nexusFileName":"Grease Radius Expansion","nexusFileVersion":"1","nexusFileUploadedAt":1787197587,"pakFileName":"RR_ButterFire.pak","nexusFileId":128508,"metaUuid":null}
+]},
+"24534":{"nexusModName":"Wavemother Astarion","nexusUploadedBy":"AgleafSdan","nexusModId":24534,"paks":[
+{"nexusFileName":"Wavemother Astarion","nexusFileVersion":"1","nexusFileUploadedAt":1787230749,"pakFileName":"Wavemother Astarion 阿斯代伦原始衣物替换海浪之母长袍.pak","nexusFileId":128537,"metaUuid":null}
 ]}}
