@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-08-20T20:52:30.593833+00:00","total_mods":17322},
+{"_meta":{"last_run":"2026-08-20T21:52:20.367128+00:00","total_mods":17323},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -68090,7 +68090,7 @@
 "24350":{"nexusModName":"aljo's Miscellaneous Overhauls","nexusUploadedBy":"aljoxo","nexusModId":24350,"paks":[
 {"nexusFileName":"Ethel and Volo Eyes Rework","nexusFileVersion":"1.0.1","nexusFileUploadedAt":1786484336,"pakFileName":"EthelVoloEyes.pak","nexusFileId":127875,"metaUuid":null},
 {"nexusFileName":"aljos Rewards Rebalance","nexusFileVersion":"1.1.0","nexusFileUploadedAt":1786922085,"pakFileName":"aljos Rewards Rebalance.pak","nexusFileId":128244,"metaUuid":null},
-{"nexusFileName":"PHB2024(ish) Elves","nexusFileVersion":"1.2.0","nexusFileUploadedAt":1787189973,"pakFileName":"PHB2024Elves.pak","nexusFileId":128506,"metaUuid":null}
+{"nexusFileName":"PHB2024(ish) Elves","nexusFileVersion":"1.2.1","nexusFileUploadedAt":1787262201,"pakFileName":"PHB2024Elves.pak","nexusFileId":128576,"metaUuid":null}
 ]},
 "24351":{"nexusModName":"5e Cleric Subclasses Combined - PTBR (2026)","nexusUploadedBy":"BarovZx","nexusModId":24351,"paks":[
 {"nexusFileName":"Cleric Subclasses 5e Combined PTBR","nexusFileVersion":"13.02.2026","nexusFileUploadedAt":1786303853,"pakFileName":"Cleric Subclasses 5e Combined PTBR.pak","nexusFileId":127716,"metaUuid":null}
@@ -68194,8 +68194,7 @@
 ]},
 "24395":{"nexusModName":"Heads by Goblin","nexusUploadedBy":"gobanaoblin","nexusModId":24395,"paks":[
 {"nexusFileName":"Thea","nexusFileVersion":"1","nexusFileUploadedAt":1786555232,"pakFileName":"Thea By Goblin.pak","nexusFileId":127926,"metaUuid":null},
-{"nexusFileName":"Pandora","nexusFileVersion":"2","nexusFileUploadedAt":1787242652,"pakFileName":"Pandora By Goblin.pak","nexusFileId":128551,"metaUuid":null},
-{"nexusFileName":"Pandora Vampiric Version","nexusFileVersion":"1","nexusFileUploadedAt":1787252806,"pakFileName":"Pandora Vampiric Version By Goblin.pak","nexusFileId":128566,"metaUuid":null}
+{"nexusFileName":"Pandora","nexusFileVersion":"2","nexusFileUploadedAt":1787242652,"pakFileName":"Pandora By Goblin.pak","nexusFileId":128551,"metaUuid":null}
 ]},
 "24398":{"nexusModName":"Fade's Augmentation Runes","nexusUploadedBy":"GraphicFade","nexusModId":24398,"paks":[
 {"nexusFileName":"Fade's Augmentation Runes","nexusFileVersion":"1.0.0.1","nexusFileUploadedAt":1786564577,"pakFileName":"FAR_5e1efd5c-5e82-2c2a-6e9e-e070d141262d.pak","nexusFileId":127934,"metaUuid":"5e1efd5c-5e82-2c2a-6e9e-e070d141262d"}
@@ -68834,4 +68833,7 @@
 ]},
 "24544":{"nexusModName":"Gith Beauties Head Pack","nexusUploadedBy":"manuliparoni","nexusModId":24544,"paks":[
 {"nexusFileName":"Gith Beauties Head Pack","nexusFileVersion":"1","nexusFileUploadedAt":1787255538,"pakFileName":"Gith_Beauties_Head_Pack.pak","nexusFileId":128571,"metaUuid":null}
+]},
+"24545":{"nexusModName":"Free Casting at Camp","nexusUploadedBy":"yoonmoonsik43","nexusModId":24545,"paks":[
+{"nexusFileName":"Freespellsatcamp 0063dd93 Dc15 3qwg","nexusFileVersion":"1","nexusFileUploadedAt":1787260607,"pakFileName":"FreeSpellsAtCamp_0063dd93-dc15-9c81-cdbd-f18f42279228.pak","nexusFileId":128575,"metaUuid":null}
 ]}}
