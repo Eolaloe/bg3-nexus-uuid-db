@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-08-20T09:52:05.910765+00:00","total_mods":17316},
+{"_meta":{"last_run":"2026-08-20T10:52:04.236852+00:00","total_mods":17316},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -36070,7 +36070,7 @@
 ]},
 "12727":{"nexusModName":"DnD 5.5e All-in-One BEYOND","nexusUploadedBy":"yoonmoonsik43","nexusModId":12727,"paks":[
 {"nexusFileName":"dnd2024 - V3 Legacy","nexusFileVersion":"3.4.6.4","nexusFileUploadedAt":1771945305,"pakFileName":"DnD2024_897914ef-5c96-053c-44af-0be823f895fe.pak","nexusFileId":115523,"metaUuid":"897914ef-5c96-053c-44af-0be823f895fe"},
-{"nexusFileName":"DnD 5.5e All-in-One BEYOND","nexusFileVersion":"4.11.24.0","nexusFileUploadedAt":1787161149,"pakFileName":"DnD2024_897914ef-5c96-053c-44af-0be823f895fe.pak","nexusFileId":128471,"metaUuid":"897914ef-5c96-053c-44af-0be823f895fe"}
+{"nexusFileName":"DnD 5.5e All-in-One BEYOND","nexusFileVersion":"4.12.0.0","nexusFileUploadedAt":1787219753,"pakFileName":"DnD2024_897914ef-5c96-053c-44af-0be823f895fe.pak","nexusFileId":128520,"metaUuid":"897914ef-5c96-053c-44af-0be823f895fe"}
 ]},
 "12728":{"nexusModName":"Origin-Themed Headwear KR","nexusUploadedBy":"Soorawang","nexusModId":12728,"paks":[
 {"nexusFileName":"Origin-Themed Headwear KR","nexusFileVersion":"1.0","nexusFileUploadedAt":1727930331,"pakFileName":"OriginHeadwear_kr.pak","nexusFileId":73692,"metaUuid":null}
@@ -63359,7 +63359,7 @@
 {"nexusFileName":"Fatebond","nexusFileVersion":"1.4","nexusFileUploadedAt":1784576306,"pakFileName":"Fatebond.pak","nexusFileId":126087,"metaUuid":"6cfead1f-d54c-4dfb-bc94-05e9fc1e2970"}
 ]},
 "22459":{"nexusModName":"DnD 5.5e All-in-One BEYOND Russian Localization","nexusUploadedBy":"XapcT","nexusModId":22459,"paks":[
-{"nexusFileName":"DnD 5.5e AIO Russian v0.4.32.zip","nexusFileVersion":"0.4.32","nexusFileUploadedAt":1787161649,"pakFileName":"DnD 5.5e AIO Russian.pak","nexusFileId":128477,"metaUuid":null}
+{"nexusFileName":"DnD 5.5e AIO Russian v0.5.0.zip","nexusFileVersion":"0.5.0","nexusFileUploadedAt":1787221077,"pakFileName":"DnD 5.5e AIO Russian.pak","nexusFileId":128521,"metaUuid":null}
 ]},
 "22460":{"nexusModName":"Elementally Based Gear","nexusUploadedBy":"Useyourrifle","nexusModId":22460,"paks":[
 {"nexusFileName":"Elemental_Gear.7z","nexusFileVersion":"1","nexusFileUploadedAt":1776346340,"pakFileName":"OP_Bow_56032304-f037-e077-f5e7-045d2e03ef1c.pak","nexusFileId":119147,"metaUuid":"56032304-f037-e077-f5e7-045d2e03ef1c"}
@@ -68790,7 +68790,19 @@
 {"nexusFileName":"Exclusive Dice - Prismatic Spray","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1787171953,"pakFileName":"Exclusive Dice - Prismatic Spray.pak","nexusFileId":128492,"metaUuid":null}
 ]},
 "24527":{"nexusModName":"Vanilla Dice Colors","nexusUploadedBy":"nyilas7","nexusModId":24527,"paks":[
-{"nexusFileName":"Vanilla Dice Colors","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1787175686,"pakFileName":"Vanilla Dice Colors.pak","nexusFileId":128497,"metaUuid":null}
+{"nexusFileName":"Avernus Flame","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1787221963,"pakFileName":"Vanilla Dice Colors - Avernus Flame.pak","nexusFileId":128522,"metaUuid":null},
+{"nexusFileName":"Crimson Bloodthirst","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1787222000,"pakFileName":"Vanilla Dice Colors - Crimson Bloodthirst.pak","nexusFileId":128523,"metaUuid":null},
+{"nexusFileName":"Emerald Grove","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1787222096,"pakFileName":"Vanilla Dice Colors - Emerald Grove.pak","nexusFileId":128524,"metaUuid":null},
+{"nexusFileName":"Kraken's Abyss","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1787222123,"pakFileName":"Vanilla Dice Colors - Kraken's Abyss.pak","nexusFileId":128525,"metaUuid":null},
+{"nexusFileName":"Lathander's Light","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1787222153,"pakFileName":"Vanilla Dice Colors - Lathander's Light.pak","nexusFileId":128526,"metaUuid":null},
+{"nexusFileName":"Merfolk Scale","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1787222186,"pakFileName":"Vanilla Dice Colors - Merfolk Scale.pak","nexusFileId":128527,"metaUuid":null},
+{"nexusFileName":"Mind Ruler'S Majesty","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1787222203,"pakFileName":"Vanilla Dice Colors - Mind Ruler's Majesty.pak","nexusFileId":128528,"metaUuid":null},
+{"nexusFileName":"Murder Lord's Bile","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1787222225,"pakFileName":"Vanilla Dice Colors - Murder Lord's Bile.pak","nexusFileId":128529,"metaUuid":null},
+{"nexusFileName":"Selune's Silver Stream","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1787222254,"pakFileName":"Vanilla Dice Colors - Selûne's Silver Stream.pak","nexusFileId":128530,"metaUuid":null},
+{"nexusFileName":"Shar's Eclipse","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1787222281,"pakFileName":"Vanilla Dice Colors - Shar's Eclipse.pak","nexusFileId":128531,"metaUuid":null},
+{"nexusFileName":"Triton Tide","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1787222303,"pakFileName":"Vanilla Dice Colors - Triton Tide.pak","nexusFileId":128532,"metaUuid":null},
+{"nexusFileName":"Wild Magic Surge","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1787222323,"pakFileName":"Vanilla Dice Colors - Wild Magic Surge.pak","nexusFileId":128533,"metaUuid":null},
+{"nexusFileName":"Vanilla Dice Colors","nexusFileVersion":"1.0.1.0","nexusFileUploadedAt":1787222918,"pakFileName":"Vanilla Dice Colors.pak","nexusFileId":128534,"metaUuid":null}
 ]},
 "24528":{"nexusModName":"Ikaros Longbow","nexusUploadedBy":"7hornadus","nexusModId":24528,"paks":[
 {"nexusFileName":"Ikaros Longbow - Black","nexusFileVersion":"1","nexusFileUploadedAt":1787186659,"pakFileName":"Ikaros_Longbow.pak","nexusFileId":128503,"metaUuid":null},
