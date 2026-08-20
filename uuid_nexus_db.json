@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-08-20T21:52:20.367128+00:00","total_mods":17323},
+{"_meta":{"last_run":"2026-08-20T22:52:08.171007+00:00","total_mods":17323},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -66839,10 +66839,10 @@
 {"nexusFileName":"Main file","nexusFileVersion":"1","nexusFileUploadedAt":1784069598,"pakFileName":"gortflash_80d47f66-036b-e1a5-b3d8-44b178f6a0f7.pak","nexusFileId":125658,"metaUuid":"80d47f66-036b-e1a5-b3d8-44b178f6a0f7"}
 ]},
 "23848":{"nexusModName":"Transmuted Spell - a Metamagic for Every Element","nexusUploadedBy":"JThug","nexusModId":23848,"paks":[
-{"nexusFileName":"TransmutedMagic Nexus Extended V1.3.9","nexusFileVersion":"1.3.9","nexusFileUploadedAt":1787207320,"pakFileName":"StarkMeiProbe.pak","nexusFileId":128514,"metaUuid":"aa11bb22-cc33-4d44-8e55-ff6677889900"},
-{"nexusFileName":"TransmutedMagic Nexus Extended V1.3.9","nexusFileVersion":"1.3.9","nexusFileUploadedAt":1787207320,"pakFileName":"TransmutedMagic.pak","nexusFileId":128514,"metaUuid":"aa11bb22-cc33-4d44-8e55-ff6677889900"},
-{"nexusFileName":"TransmutedSpell Nexus V1.3.9","nexusFileVersion":"1.3.9","nexusFileUploadedAt":1787207382,"pakFileName":"StarkMeiProbe.pak","nexusFileId":128515,"metaUuid":"aa11bb22-cc33-4d44-8e55-ff6677889900"},
-{"nexusFileName":"TransmutedSpell Nexus V1.3.9","nexusFileVersion":"1.3.9","nexusFileUploadedAt":1787207382,"pakFileName":"TransmutedSpell.pak","nexusFileId":128515,"metaUuid":"3aef6cce-fc3a-583c-beb1-19f52c1435e1"}
+{"nexusFileName":"TransmutedSpell Nexus V1.3.10","nexusFileVersion":"1.3.10","nexusFileUploadedAt":1787263635,"pakFileName":"StarkMeiProbe.pak","nexusFileId":128578,"metaUuid":"aa11bb22-cc33-4d44-8e55-ff6677889900"},
+{"nexusFileName":"TransmutedSpell Nexus V1.3.10","nexusFileVersion":"1.3.10","nexusFileUploadedAt":1787263635,"pakFileName":"TransmutedSpell.pak","nexusFileId":128578,"metaUuid":"3aef6cce-fc3a-583c-beb1-19f52c1435e1"},
+{"nexusFileName":"TransmutedMagic Nexus Extended V1.3.10","nexusFileVersion":"1.3.10","nexusFileUploadedAt":1787263722,"pakFileName":"StarkMeiProbe.pak","nexusFileId":128579,"metaUuid":"aa11bb22-cc33-4d44-8e55-ff6677889900"},
+{"nexusFileName":"TransmutedMagic Nexus Extended V1.3.10","nexusFileVersion":"1.3.10","nexusFileUploadedAt":1787263722,"pakFileName":"TransmutedMagic.pak","nexusFileId":128579,"metaUuid":"aa11bb22-cc33-4d44-8e55-ff6677889900"}
 ]},
 "23850":{"nexusModName":"Shar Origin","nexusUploadedBy":"TheCobaltCactus","nexusModId":23850,"paks":[
 {"nexusFileName":"Shar Origin","nexusFileVersion":"1.0.0.3","nexusFileUploadedAt":1783983463,"pakFileName":"Origin_Shar_New_cfd7d1ab-73b4-bcd5-052f-b0b18d907f48.pak","nexusFileId":125577,"metaUuid":"cfd7d1ab-73b4-bcd5-052f-b0b18d907f48"}
@@ -68194,7 +68194,8 @@
 ]},
 "24395":{"nexusModName":"Heads by Goblin","nexusUploadedBy":"gobanaoblin","nexusModId":24395,"paks":[
 {"nexusFileName":"Thea","nexusFileVersion":"1","nexusFileUploadedAt":1786555232,"pakFileName":"Thea By Goblin.pak","nexusFileId":127926,"metaUuid":null},
-{"nexusFileName":"Pandora","nexusFileVersion":"2","nexusFileUploadedAt":1787242652,"pakFileName":"Pandora By Goblin.pak","nexusFileId":128551,"metaUuid":null}
+{"nexusFileName":"Pandora","nexusFileVersion":"2","nexusFileUploadedAt":1787242652,"pakFileName":"Pandora By Goblin.pak","nexusFileId":128551,"metaUuid":null},
+{"nexusFileName":"Pandora Vampiric Version","nexusFileVersion":"1","nexusFileUploadedAt":1787262781,"pakFileName":"Pandora Vampiric Version By Goblin.pak","nexusFileId":128577,"metaUuid":null}
 ]},
 "24398":{"nexusModName":"Fade's Augmentation Runes","nexusUploadedBy":"GraphicFade","nexusModId":24398,"paks":[
 {"nexusFileName":"Fade's Augmentation Runes","nexusFileVersion":"1.0.0.1","nexusFileUploadedAt":1786564577,"pakFileName":"FAR_5e1efd5c-5e82-2c2a-6e9e-e070d141262d.pak","nexusFileId":127934,"metaUuid":"5e1efd5c-5e82-2c2a-6e9e-e070d141262d"}
@@ -68768,7 +68769,7 @@
 {"nexusFileName":"NPC Redesign - Waukeen's Rest_KOR","nexusFileVersion":"1.0.0.1","nexusFileUploadedAt":1787110895,"pakFileName":"Aza_NPCre_WaukensInn_KOR.pak","nexusFileId":128441,"metaUuid":null}
 ]},
 "24513":{"nexusModName":"Eos Dyes","nexusUploadedBy":"7hornadus","nexusModId":24513,"paks":[
-{"nexusFileName":"EosDyes","nexusFileVersion":"1","nexusFileUploadedAt":1787112382,"pakFileName":"EosDyes.pak","nexusFileId":128445,"metaUuid":"acd6e194-8785-4ed8-a123-d8f737544776"}
+{"nexusFileName":"EosDyes","nexusFileVersion":"2","nexusFileUploadedAt":1787264015,"pakFileName":"EosDyes.pak","nexusFileId":128580,"metaUuid":"acd6e194-8785-4ed8-a123-d8f737544776"}
 ]},
 "24514":{"nexusModName":"MoveEverythingTeleport","nexusUploadedBy":"ankerlcg","nexusModId":24514,"paks":[
 {"nexusFileName":"MoveEverythingTeleport","nexusFileVersion":"2","nexusFileUploadedAt":1787121807,"pakFileName":"MoveEverythingTeleport.pak","nexusFileId":128448,"metaUuid":null}
