@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-08-21T02:52:12.689073+00:00","total_mods":17323},
+{"_meta":{"last_run":"2026-08-21T03:52:35.156682+00:00","total_mods":17324},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -49626,7 +49626,8 @@
 {"nexusFileName":"Goons Barbarian Overhaul_CHS","nexusFileVersion":"1.1.2.0","nexusFileUploadedAt":1769676667,"pakFileName":"Goons Barbarian Overhaul_CHS.pak","nexusFileId":113504,"metaUuid":null}
 ]},
 "17811":{"nexusModName":"Goon's All Overhaul CHS","nexusUploadedBy":"hanli","nexusModId":17811,"paks":[
-{"nexusFileName":"Goons_Cleric_Paladin_Rogue_Overhaul_CHS","nexusFileVersion":"1.0","nexusFileUploadedAt":1787280655,"pakFileName":"Goon's All Overhaul CHS.pak","nexusFileId":128592,"metaUuid":null}
+{"nexusFileName":"Goon's All Overhaul CHS","nexusFileVersion":"1.0","nexusFileUploadedAt":1787280706,"pakFileName":"Goon's All Overhaul CHS.pak","nexusFileId":128593,"metaUuid":null},
+{"nexusFileName":"Goon'S Spell Overhaul CHS","nexusFileVersion":"1","nexusFileUploadedAt":1787281429,"pakFileName":"Goon's Spell Overhaul CHS.pak","nexusFileId":128594,"metaUuid":null}
 ]},
 "17812":{"nexusModName":"Followers_of_Zerthimon_FROG_CHS","nexusUploadedBy":"hanli","nexusModId":17812,"paks":[
 {"nexusFileName":"Followers_of_Zerthimon_FROG_CHS","nexusFileVersion":"1.0","nexusFileUploadedAt":1753580572,"pakFileName":"Followers_of_Zerthimon_FROG_CHS.pak","nexusFileId":99170,"metaUuid":null}
@@ -64681,7 +64682,7 @@
 {"nexusFileName":"Dynamic Difficulty Scaling for Korean","nexusFileVersion":"1.0.0.14","nexusFileUploadedAt":1785828189,"pakFileName":"DynamicDifficultyScaling_kr.pak","nexusFileId":127281,"metaUuid":"2b62e596-6110-4d7c-b337-7dd678d67e60"}
 ]},
 "23018":{"nexusModName":"Dynamic Difficulty Scaling for Chinese","nexusUploadedBy":"hanli","nexusModId":23018,"paks":[
-{"nexusFileName":"DynamicDifficultyScaling CHS","nexusFileVersion":"1.0.0.14","nexusFileUploadedAt":1785643505,"pakFileName":"DynamicDifficultyScaling_CHS.pak","nexusFileId":127084,"metaUuid":null}
+{"nexusFileName":"DynamicDifficultyScaling CHS","nexusFileVersion":"1.0.0.17","nexusFileUploadedAt":1787282453,"pakFileName":"DynamicDifficultyScaling_CHS.pak","nexusFileId":128595,"metaUuid":null}
 ]},
 "23019":{"nexusModName":"Heart Of The Forest - Playable Dryad Race RUS","nexusUploadedBy":"augustine1memorise","nexusModId":23019,"paks":[
 {"nexusFileName":"DryadRaceRUS","nexusFileVersion":"1","nexusFileUploadedAt":1779509457,"pakFileName":"EmDryadRaceRUS.pak","nexusFileId":121968,"metaUuid":null}
@@ -68839,4 +68840,7 @@
 ]},
 "24547":{"nexusModName":"Warden","nexusUploadedBy":"silverhawk2456","nexusModId":24547,"paks":[
 {"nexusFileName":"Warden","nexusFileVersion":"1","nexusFileUploadedAt":1787273280,"pakFileName":"Warden_bdbaacae-93e6-e36a-3c33-0e174680b8ff.pak","nexusFileId":128589,"metaUuid":null}
+]},
+"24548":{"nexusModName":"No Combat Saving - SE","nexusUploadedBy":"wtfbengt","nexusModId":24548,"paks":[
+{"nexusFileName":"NoCombatSaving","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1787282981,"pakFileName":"NoCombatSaving.pak","nexusFileId":128596,"metaUuid":null}
 ]}}
