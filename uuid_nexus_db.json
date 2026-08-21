@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-08-21T18:52:15.363791+00:00","total_mods":17329},
+{"_meta":{"last_run":"2026-08-21T19:52:20.613721+00:00","total_mods":17330},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -13180,7 +13180,7 @@
 {"nexusFileName":"All In One- Nasty Doctor's Tools","nexusFileVersion":"3","nexusFileUploadedAt":1700342109,"pakFileName":"Nasty Doctor's Tools.pak","nexusFileId":29108,"metaUuid":null}
 ]},
 "4195":{"nexusModName":"Destiny 2 Exotics","nexusUploadedBy":"Kyrosa1","nexusModId":4195,"paks":[
-{"nexusFileName":"D2 Exotics","nexusFileVersion":"0.7.0.1","nexusFileUploadedAt":1729862644,"pakFileName":"D2Exotics.pak","nexusFileId":76720,"metaUuid":"0897dff6-48be-42d3-9cdb-a3c0e1483d20"}
+{"nexusFileName":"D2 Exotics","nexusFileVersion":"0.8.0","nexusFileUploadedAt":1787338403,"pakFileName":"D2Exotics.pak","nexusFileId":128623,"metaUuid":"0897dff6-48be-42d3-9cdb-a3c0e1483d20"}
 ]},
 "4196":{"nexusModName":"Oath of Glory Russian Localization","nexusUploadedBy":"Chishkont","nexusModId":4196,"paks":[
 {"nexusFileName":"Oath_Glory_RU","nexusFileVersion":"1","nexusFileUploadedAt":1699905581,"pakFileName":"Oath_Glory_RU.pak","nexusFileId":28269,"metaUuid":null}
@@ -49326,7 +49326,7 @@
 {"nexusFileName":"THE REALTOR - Player Housing","nexusFileVersion":"1.0.0.43","nexusFileUploadedAt":1753316691,"pakFileName":"Realtor_f82a47de-4a4a-ab7c-d3dd-87e5e0caf4e1.pak","nexusFileId":98850,"metaUuid":"f82a47de-4a4a-ab7c-d3dd-87e5e0caf4e1"}
 ]},
 "17706":{"nexusModName":"Goon's Monk Overhaul","nexusUploadedBy":"BaldursGoonsack","nexusModId":17706,"paks":[
-{"nexusFileName":"Goon's Monk Overhaul","nexusFileVersion":"1.0.2.0","nexusFileUploadedAt":1767850707,"pakFileName":"Goon's Monk Overhaul.pak","nexusFileId":111517,"metaUuid":"9b086038-0313-4508-b335-2642b3f42abc"}
+{"nexusFileName":"Goon's Monk Overhaul","nexusFileVersion":"1.1.0.0","nexusFileUploadedAt":1787340780,"pakFileName":"Goon's Monk Overhaul.pak","nexusFileId":128625,"metaUuid":"9b086038-0313-4508-b335-2642b3f42abc"}
 ]},
 "17707":{"nexusModName":"Minsc Stat Fix","nexusUploadedBy":"CEBK","nexusModId":17707,"paks":[
 {"nexusFileName":"Minsc Stat Fix","nexusFileVersion":"1.0.0.2","nexusFileUploadedAt":1753072125,"pakFileName":"MinscStatFix_483d9a73-55be-08c6-5e68-508e029586c8.pak","nexusFileId":98661,"metaUuid":"483d9a73-55be-08c6-5e68-508e029586c8"}
@@ -68243,7 +68243,7 @@
 {"nexusFileName":"Lover of Mine - BT2xBT4 only","nexusFileVersion":"1","nexusFileUploadedAt":1786711972,"pakFileName":"StarlessLoverOfMineBT2xBT4_1747368e-e66e-5f0e-dcb9-34adff86b529.pak","nexusFileId":128066,"metaUuid":"1747368e-e66e-5f0e-dcb9-34adff86b529"}
 ]},
 "24413":{"nexusModName":"End-turn Exploit Fix","nexusUploadedBy":"joow92","nexusModId":24413,"paks":[
-{"nexusFileName":"EndTurnExploitFix","nexusFileVersion":"1","nexusFileUploadedAt":1786657083,"pakFileName":"EndTurnExploitFix.pak","nexusFileId":128039,"metaUuid":null}
+{"nexusFileName":"EndTurnExploitFix","nexusFileVersion":"1.0.1","nexusFileUploadedAt":1787339634,"pakFileName":"EndTurnExploitFix.pak","nexusFileId":128624,"metaUuid":null}
 ]},
 "24414":{"nexusModName":"Plus-size Simple Monk Attire","nexusUploadedBy":"Desdimonda","nexusModId":24414,"paks":[
 {"nexusFileName":"Desdi Plus Size Simple Monk Re Fit","nexusFileVersion":"1","nexusFileUploadedAt":1786663856,"pakFileName":"DesdiPlusSimpleMonk_05267020-3ae0-d131-b4f0-64715e86a537.pak","nexusFileId":128045,"metaUuid":null}
@@ -68863,4 +68863,7 @@
 "24553":{"nexusModName":"Wavemother's Gift Outfit","nexusUploadedBy":"Lyniara","nexusModId":24553,"paks":[
 {"nexusFileName":"Wavemother's Gift","nexusFileVersion":"1.2","nexusFileUploadedAt":1787322203,"pakFileName":"LynWavemotherGift_v1.2.pak","nexusFileId":128614,"metaUuid":null},
 {"nexusFileName":"Wavemother's Gift TMTS","nexusFileVersion":"1.1","nexusFileUploadedAt":1787322540,"pakFileName":"LynWavemotherGift_v1.1_TMTS.pak","nexusFileId":128615,"metaUuid":null}
+]},
+"24555":{"nexusModName":"Shadowheart's Memory Recovery Tweaks - Heal Spell and Act 3 Noblestalks","nexusUploadedBy":"magnetuning","nexusModId":24555,"paks":[
+{"nexusFileName":"Shadowheart's Memory Recovery Tweaks","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1787340925,"pakFileName":"MGNTN_HealShadMemories.pak","nexusFileId":128626,"metaUuid":null}
 ]}}
