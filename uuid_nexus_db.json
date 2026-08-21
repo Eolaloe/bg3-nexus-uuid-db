@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-08-21T12:51:58.857624+00:00","total_mods":17327},
+{"_meta":{"last_run":"2026-08-21T13:52:18.343864+00:00","total_mods":17328},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -62952,7 +62952,7 @@
 {"nexusFileName":"Keyblade Wielder","nexusFileVersion":"1","nexusFileUploadedAt":1775504031,"pakFileName":"KeybladeMaster_2f6811b6-0a17-c09e-fcea-a5a870a9b9aa.pak","nexusFileId":118292,"metaUuid":"2f6811b6-0a17-c09e-fcea-a5a870a9b9aa"}
 ]},
 "22322":{"nexusModName":"Purgatory - A Map for VP","nexusUploadedBy":"inkyplz","nexusModId":22322,"paks":[
-{"nexusFileName":"Purgatory Map","nexusFileVersion":"1.0.0.9","nexusFileUploadedAt":1775518655,"pakFileName":"Purgatory_9be9a4ba-4a09-bf87-626e-ec3446034652.pak","nexusFileId":118307,"metaUuid":null},
+{"nexusFileName":"Purgatory Map","nexusFileVersion":"1.0.0.9","nexusFileUploadedAt":1775518655,"pakFileName":"Purgatory_9be9a4ba-4a09-bf87-626e-ec3446034652.pak","nexusFileId":118307,"metaUuid":"9be9a4ba-4a09-bf87-626e-ec3446034652"},
 {"nexusFileName":"Purgatory","nexusFileVersion":"1.0.0.10","nexusFileUploadedAt":1776184671,"pakFileName":"Purgatory_9be9a4ba-4a09-bf87-626e-ec3446034652.pak","nexusFileId":118971,"metaUuid":"9be9a4ba-4a09-bf87-626e-ec3446034652"}
 ]},
 "22323":{"nexusModName":"Couple and Friendship Poses for BT1","nexusUploadedBy":"HastursQueen","nexusModId":22323,"paks":[
@@ -68710,7 +68710,8 @@
 ]},
 "24484":{"nexusModName":"Desire demon dress","nexusUploadedBy":"orionnix","nexusModId":24484,"paks":[
 {"nexusFileName":"DAO DesireDemon V2","nexusFileVersion":"1","nexusFileUploadedAt":1787048368,"pakFileName":"DAO_DesireDemon_Robes_c04da5d7-e7e5-c376-701b-c5ed0b432b91.pak","nexusFileId":128352,"metaUuid":"c04da5d7-e7e5-c376-701b-c5ed0b432b91"},
-{"nexusFileName":"DesireDemon Hair","nexusFileVersion":"1","nexusFileUploadedAt":1787268116,"pakFileName":"DesireDemon_Hair.pak","nexusFileId":128585,"metaUuid":null}
+{"nexusFileName":"DesireDemon Hair","nexusFileVersion":"1","nexusFileUploadedAt":1787268116,"pakFileName":"DesireDemon_Hair.pak","nexusFileId":128585,"metaUuid":null},
+{"nexusFileName":"DAO DesireDemon Robes RefitAKM","nexusFileVersion":"1","nexusFileUploadedAt":1787319791,"pakFileName":"DAO_DesireDemon_Robes_RefitAKM.pak","nexusFileId":128611,"metaUuid":null}
 ]},
 "24485":{"nexusModName":"Brocade Be Gone - Customize Tav's Epilogue Wardrobe","nexusUploadedBy":"Seristina","nexusModId":24485,"paks":[
 {"nexusFileName":"EpilogueWardrobe","nexusFileVersion":"1","nexusFileUploadedAt":1787086011,"pakFileName":"EpilogueWardrobe.pak","nexusFileId":128417,"metaUuid":"546e2002-b5d9-46b7-9807-15108ec6715c"}
@@ -68852,4 +68853,9 @@
 ]},
 "24551":{"nexusModName":"Moments by Rain","nexusUploadedBy":"rainbow1411","nexusModId":24551,"paks":[
 {"nexusFileName":"Moments","nexusFileVersion":"1","nexusFileUploadedAt":1787314278,"pakFileName":"Moments_b5842741-c2b0-28ff-f56d-e5273597d0ba.pak","nexusFileId":128606,"metaUuid":null}
+]},
+"24552":{"nexusModName":"Nightsilk Brocade Dream Guardian","nexusUploadedBy":"AgleafSdan","nexusModId":24552,"paks":[
+{"nexusFileName":"Nightsilk Brocade Dream Guardian-BT","nexusFileVersion":"1","nexusFileUploadedAt":1787317564,"pakFileName":"Nightsilk Brocade Dream Guardian（BT）.pak","nexusFileId":128607,"metaUuid":null},
+{"nexusFileName":"Nightsilk Brocade Dream Guardian-HIMBO","nexusFileVersion":"1","nexusFileUploadedAt":1787317613,"pakFileName":"Nightsilk Brocade Dream Guardian（HIMBO）.pak","nexusFileId":128608,"metaUuid":null},
+{"nexusFileName":"Nightsilk Brocade Dream Guardian-TMTS","nexusFileVersion":"1","nexusFileUploadedAt":1787317635,"pakFileName":"Nightsilk Brocade Dream Guardian（TMTS）.pak","nexusFileId":128609,"metaUuid":null}
 ]}}
