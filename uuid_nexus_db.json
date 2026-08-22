@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-08-22T19:52:37.734350+00:00","total_mods":17344},
+{"_meta":{"last_run":"2026-08-22T20:52:25.564730+00:00","total_mods":17343},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -64640,16 +64640,11 @@
 "23004":{"nexusModName":"Convert All Slots at Once - Sorcery Points","nexusUploadedBy":"Imemee","nexusModId":23004,"paks":[
 {"nexusFileName":"AllSorceryPointAdd","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1779455298,"pakFileName":"AllSorceryPointAdd.pak","nexusFileId":121930,"metaUuid":"a1ff749c-bc03-4543-bcc2-7ade5cc7727e"}
 ]},
-"23005":{"nexusModName":"Compatible Bodies Tooltip (For Wearables) (By SerpentineShel)","nexusUploadedBy":"SerpentineShel","nexusModId":23005,"paks":[
-{"nexusFileName":"CompatibleBodiesTooltip 1.2.0","nexusFileVersion":"1.2","nexusFileUploadedAt":1779457412,"pakFileName":"CompatibleBodiesTooltip.pak","nexusFileId":121933,"metaUuid":"a7c0ffee-7501-4f00-a17a-c00b08ec4377"},
-{"nexusFileName":"CompatibleBodiesTooltip 1.3.2 UltraFashionista","nexusFileVersion":"2","nexusFileUploadedAt":1781782435,"pakFileName":"CompatibleBodiesTooltip.pak","nexusFileId":123823,"metaUuid":"a7c0ffee-7501-4f00-a17a-c00b08ec4377"},
-{"nexusFileName":"CompatibleBodiesTooltip 1.3.2 EssentialsPlus","nexusFileVersion":"2","nexusFileUploadedAt":1781782459,"pakFileName":"CompatibleBodiesTooltip.pak","nexusFileId":123824,"metaUuid":"a7c0ffee-7501-4f00-a17a-c00b08ec4377"},
-{"nexusFileName":"CompatibleBodiesTooltip 1.3.2 FashionEssentials","nexusFileVersion":"2","nexusFileUploadedAt":1781782481,"pakFileName":"CompatibleBodiesTooltip.pak","nexusFileId":123825,"metaUuid":"a7c0ffee-7501-4f00-a17a-c00b08ec4377"},
-{"nexusFileName":"CompatibleBodiesTooltip 1.3.2 Vanilla","nexusFileVersion":"2","nexusFileUploadedAt":1781782518,"pakFileName":"CompatibleBodiesTooltip.pak","nexusFileId":123826,"metaUuid":"a7c0ffee-7501-4f00-a17a-c00b08ec4377"},
-{"nexusFileName":"CompatibleBodiesTooltip 1.3.3 AllTiers ","nexusFileVersion":"1","nexusFileUploadedAt":1783779192,"pakFileName":"CompatibleBodiesTooltip-1.3.3-EssentialsPlus.pak","nexusFileId":125425,"metaUuid":"a7c0ffee-7501-4f00-a17a-c00b08ec4377"},
-{"nexusFileName":"CompatibleBodiesTooltip 1.3.3 AllTiers ","nexusFileVersion":"1","nexusFileUploadedAt":1783779192,"pakFileName":"CompatibleBodiesTooltip-1.3.3-FashionEssentials.pak","nexusFileId":125425,"metaUuid":"a7c0ffee-7501-4f00-a17a-c00b08ec4377"},
-{"nexusFileName":"CompatibleBodiesTooltip 1.3.3 AllTiers ","nexusFileVersion":"1","nexusFileUploadedAt":1783779192,"pakFileName":"CompatibleBodiesTooltip-1.3.3-UltraFashionista.pak","nexusFileId":125425,"metaUuid":"a7c0ffee-7501-4f00-a17a-c00b08ec4377"},
-{"nexusFileName":"CompatibleBodiesTooltip 1.3.3 AllTiers ","nexusFileVersion":"1","nexusFileUploadedAt":1783779192,"pakFileName":"CompatibleBodiesTooltip-1.3.3-Vanilla.pak","nexusFileId":125425,"metaUuid":"a7c0ffee-7501-4f00-a17a-c00b08ec4377"}
+"23005":{"nexusModName":"Compatible Bodies Tooltip For Garments v 1.4 (By SerpentineShel)","nexusUploadedBy":"SerpentineShel","nexusModId":23005,"paks":[
+{"nexusFileName":"CompatibleBodiesTooltip 1.4 AllTiers","nexusFileVersion":"1.4","nexusFileUploadedAt":1787429910,"pakFileName":"CompatibleBodiesTooltip-1.4-EssentialsPlus.pak","nexusFileId":128719,"metaUuid":null},
+{"nexusFileName":"CompatibleBodiesTooltip 1.4 AllTiers","nexusFileVersion":"1.4","nexusFileUploadedAt":1787429910,"pakFileName":"CompatibleBodiesTooltip-1.4-FashionEssentials.pak","nexusFileId":128719,"metaUuid":null},
+{"nexusFileName":"CompatibleBodiesTooltip 1.4 AllTiers","nexusFileVersion":"1.4","nexusFileUploadedAt":1787429910,"pakFileName":"CompatibleBodiesTooltip-1.4-UltraFashionista.pak","nexusFileId":128719,"metaUuid":null},
+{"nexusFileName":"CompatibleBodiesTooltip 1.4 AllTiers","nexusFileVersion":"1.4","nexusFileUploadedAt":1787429910,"pakFileName":"CompatibleBodiesTooltip-1.4-Vanilla.pak","nexusFileId":128719,"metaUuid":null}
 ]},
 "23007":{"nexusModName":"Early Access Nautiloid","nexusUploadedBy":"DerekL27","nexusModId":23007,"paks":[
 {"nexusFileName":"Early Access Nautiloid","nexusFileVersion":"1.0.0.9","nexusFileUploadedAt":1780244061,"pakFileName":"EarlyAccessAvernusTutorial_058bbf34-d867-539c-fa4d-8540dc810da0.pak","nexusFileId":122523,"metaUuid":"058bbf34-d867-539c-fa4d-8540dc810da0"},
@@ -67424,7 +67419,7 @@
 {"nexusFileName":"Quicksecondwind 11aabc80 36ad 3qmv","nexusFileVersion":"1","nexusFileUploadedAt":1784917946,"pakFileName":"QuickSecondWind_11aabc80-36ad-7197-0fd6-f66b6b5a0915.pak","nexusFileId":126385,"metaUuid":"11aabc80-36ad-7197-0fd6-f66b6b5a0915"}
 ]},
 "24062":{"nexusModName":"The Hallowleafs - Dynamic Appearances","nexusUploadedBy":"whatsontheflip","nexusModId":24062,"paks":[
-{"nexusFileName":"Hallowleafs Dyanmic Appearances","nexusFileVersion":"1.0.0.6","nexusFileUploadedAt":1784943690,"pakFileName":"Hallowleafs_Dyanmic_Appearances_eb194b62-1284-9f53-18cc-79d5b20c36c8.pak","nexusFileId":126428,"metaUuid":"eb194b62-1284-9f53-18cc-79d5b20c36c8"}
+{"nexusFileName":"Hallowleafs Dyamic Appearances","nexusFileVersion":"1.0.0.6","nexusFileUploadedAt":1784943690,"pakFileName":"Hallowleafs_Dyanmic_Appearances_eb194b62-1284-9f53-18cc-79d5b20c36c8.pak","nexusFileId":126428,"metaUuid":"eb194b62-1284-9f53-18cc-79d5b20c36c8"}
 ]},
 "24063":{"nexusModName":"Mushroom hat for all","nexusUploadedBy":"Klarafromearth","nexusModId":24063,"paks":[
 {"nexusFileName":"Mushroom Hat","nexusFileVersion":"1","nexusFileUploadedAt":1784930045,"pakFileName":"Mushroom_Hat_e57d8475-47cd-7038-a66c-f3f4b64e9f4a.pak","nexusFileId":126404,"metaUuid":"e57d8475-47cd-7038-a66c-f3f4b64e9f4a"}
