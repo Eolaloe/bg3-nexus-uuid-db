@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-08-22T21:52:46.864724+00:00","total_mods":17342},
+{"_meta":{"last_run":"2026-08-22T22:52:09.741623+00:00","total_mods":17342},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -64644,7 +64644,11 @@
 {"nexusFileName":"CompatibleBodiesTooltip 1.4 AllTiers","nexusFileVersion":"1.4","nexusFileUploadedAt":1787429910,"pakFileName":"CompatibleBodiesTooltip-1.4-EssentialsPlus.pak","nexusFileId":128719,"metaUuid":null},
 {"nexusFileName":"CompatibleBodiesTooltip 1.4 AllTiers","nexusFileVersion":"1.4","nexusFileUploadedAt":1787429910,"pakFileName":"CompatibleBodiesTooltip-1.4-FashionEssentials.pak","nexusFileId":128719,"metaUuid":null},
 {"nexusFileName":"CompatibleBodiesTooltip 1.4 AllTiers","nexusFileVersion":"1.4","nexusFileUploadedAt":1787429910,"pakFileName":"CompatibleBodiesTooltip-1.4-UltraFashionista.pak","nexusFileId":128719,"metaUuid":null},
-{"nexusFileName":"CompatibleBodiesTooltip 1.4 AllTiers","nexusFileVersion":"1.4","nexusFileUploadedAt":1787429910,"pakFileName":"CompatibleBodiesTooltip-1.4-Vanilla.pak","nexusFileId":128719,"metaUuid":null}
+{"nexusFileName":"CompatibleBodiesTooltip 1.4 AllTiers","nexusFileVersion":"1.4","nexusFileUploadedAt":1787429910,"pakFileName":"CompatibleBodiesTooltip-1.4-Vanilla.pak","nexusFileId":128719,"metaUuid":null},
+{"nexusFileName":"CompatibleBodiesTooltip 1.4 EssentialsPlus","nexusFileVersion":"1.4","nexusFileUploadedAt":1787436255,"pakFileName":"CompatibleBodiesTooltip-1.4-EssentialsPlus.pak","nexusFileId":128727,"metaUuid":null},
+{"nexusFileName":"CompatibleBodiesTooltip 1.4 FashionEssentials","nexusFileVersion":"1.4","nexusFileUploadedAt":1787436298,"pakFileName":"CompatibleBodiesTooltip-1.4-FashionEssentials.pak","nexusFileId":128728,"metaUuid":null},
+{"nexusFileName":"CompatibleBodiesTooltip 1.4 UltraFashionista","nexusFileVersion":"1.4","nexusFileUploadedAt":1787436416,"pakFileName":"CompatibleBodiesTooltip-1.4-UltraFashionista.pak","nexusFileId":128729,"metaUuid":null},
+{"nexusFileName":"CompatibleBodiesTooltip 1.4 Vanilla","nexusFileVersion":"1.4","nexusFileUploadedAt":1787436484,"pakFileName":"CompatibleBodiesTooltip-1.4-Vanilla.pak","nexusFileId":128730,"metaUuid":null}
 ]},
 "23007":{"nexusModName":"Early Access Nautiloid","nexusUploadedBy":"DerekL27","nexusModId":23007,"paks":[
 {"nexusFileName":"Early Access Nautiloid","nexusFileVersion":"1.0.0.9","nexusFileUploadedAt":1780244061,"pakFileName":"EarlyAccessAvernusTutorial_058bbf34-d867-539c-fa4d-8540dc810da0.pak","nexusFileId":122523,"metaUuid":"058bbf34-d867-539c-fa4d-8540dc810da0"},
