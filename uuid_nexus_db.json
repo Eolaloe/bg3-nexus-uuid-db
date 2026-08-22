@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-08-22T03:52:05.650131+00:00","total_mods":17332},
+{"_meta":{"last_run":"2026-08-22T04:52:00.081056+00:00","total_mods":17333},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -315,7 +315,7 @@
 "279":{"nexusModName":"Expansion Level 13-20 (Configurable)","nexusUploadedBy":"DiZ91891","nexusModId":279,"paks":[
 {"nexusFileName":"Bladesinger","nexusFileVersion":"2.1.0.0","nexusFileUploadedAt":1744924772,"pakFileName":"Bladesinger.pak","nexusFileId":89421,"metaUuid":"4b3027c0-d841-4c04-a015-6270592ec140"},
 {"nexusFileName":"Expansion Optional Features","nexusFileVersion":"1.00","nexusFileUploadedAt":1785636404,"pakFileName":"ExpansionOptionalFeatures.pak","nexusFileId":127076,"metaUuid":null},
-{"nexusFileName":"Expansion","nexusFileVersion":"1.7.3.10","nexusFileUploadedAt":1785772183,"pakFileName":"Expansion.pak","nexusFileId":127219,"metaUuid":"a2c4b0fc-e745-41df-81b7-fa53950d86a0"}
+{"nexusFileName":"Expansion","nexusFileVersion":"1.7.3.11","nexusFileUploadedAt":1787373567,"pakFileName":"Expansion.pak","nexusFileId":128649,"metaUuid":"a2c4b0fc-e745-41df-81b7-fa53950d86a0"}
 ]},
 "280":{"nexusModName":"Origin Unlocker and Warlock Fireball - TEST","nexusUploadedBy":"Gryffindor777","nexusModId":280,"paks":[
 {"nexusFileName":"ORIGIN UNLOCKER and WARLOCK FIREBALL","nexusFileVersion":"1","nexusFileUploadedAt":1636912832,"pakFileName":"Gustav.pak","nexusFileId":2180,"metaUuid":null},
@@ -56102,7 +56102,7 @@
 {"nexusFileName":"cadystieflingposes","nexusFileVersion":"1.0.0.7","nexusFileUploadedAt":1764669160,"pakFileName":"tiefposes_2fcf2d22-c06a-25fd-be53-f73a46e9099e.pak","nexusFileId":108655,"metaUuid":"2fcf2d22-c06a-25fd-be53-f73a46e9099e"}
 ]},
 "19908":{"nexusModName":"DnD 5.5e All-in-One BEYOND for Chinese","nexusUploadedBy":"pom0328tw","nexusModId":19908,"paks":[
-{"nexusFileName":"Dnd2024CHSCHT","nexusFileVersion":"2.9.5","nexusFileUploadedAt":1786843093,"pakFileName":"dnd2024CHSCHT.pak","nexusFileId":128183,"metaUuid":"577d1a0d-1421-441b-b563-060e7b564a00"}
+{"nexusFileName":"Dnd2024CHSCHT","nexusFileVersion":"2.10","nexusFileUploadedAt":1787373804,"pakFileName":"dnd2024CHSCHT.pak","nexusFileId":128650,"metaUuid":"577d1a0d-1421-441b-b563-060e7b564a00"}
 ]},
 "19909":{"nexusModName":"Zorn - a pretty boy head preset for HRC","nexusUploadedBy":"Midsommarnacht","nexusModId":19909,"paks":[
 {"nexusFileName":"Zorn - EOTB","nexusFileVersion":"1.2.1","nexusFileUploadedAt":1764847572,"pakFileName":"♡a pretty orc head mod♡ -EOTB.pak","nexusFileId":108841,"metaUuid":null},
@@ -68839,6 +68839,9 @@
 ]},
 "24545":{"nexusModName":"Free Casting at Camp","nexusUploadedBy":"yoonmoonsik43","nexusModId":24545,"paks":[
 {"nexusFileName":"Freespellsatcamp 0063dd93 Dc15 3qwg","nexusFileVersion":"1","nexusFileUploadedAt":1787260607,"pakFileName":"FreeSpellsAtCamp_0063dd93-dc15-9c81-cdbd-f18f42279228.pak","nexusFileId":128575,"metaUuid":"0063dd93-dc15-9c81-cdbd-f18f42279228"}
+]},
+"24546":{"nexusModName":"Circle Of Boughs","nexusUploadedBy":"CEBK","nexusModId":24546,"paks":[
+{"nexusFileName":"CircleOfBoughs ","nexusFileVersion":"1.0.0.10","nexusFileUploadedAt":1787371873,"pakFileName":"CircleOfBoughs_d7be046e-2bb1-58be-2a58-955a137d1b1a.pak","nexusFileId":128648,"metaUuid":null}
 ]},
 "24547":{"nexusModName":"Warden","nexusUploadedBy":"silverhawk2456","nexusModId":24547,"paks":[
 {"nexusFileName":"Warden","nexusFileVersion":"1","nexusFileUploadedAt":1787273280,"pakFileName":"Warden_bdbaacae-93e6-e36a-3c33-0e174680b8ff.pak","nexusFileId":128589,"metaUuid":null}
