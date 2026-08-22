@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-08-22T16:52:35.245928+00:00","total_mods":17342},
+{"_meta":{"last_run":"2026-08-22T18:52:23.834312+00:00","total_mods":17344},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -14121,8 +14121,8 @@
 "4496":{"nexusModName":"Valkrana's Skeleton Crew - Over 60 Random Undead Allies","nexusUploadedBy":"actualsailorcat","nexusModId":4496,"paks":[
 {"nexusFileName":"VSC and VUE CX","nexusFileVersion":"1.00.02","nexusFileUploadedAt":1770336294,"pakFileName":"VSC and VUE CX.pak","nexusFileId":114208,"metaUuid":"2eff8b0a-6438-4bbf-90af-a24fe65f54ca"},
 {"nexusFileName":"VSCrew XP Enabled","nexusFileVersion":"1.00.02","nexusFileUploadedAt":1777677896,"pakFileName":"Valkrana's Skeleton Crew XP Enabled.pak","nexusFileId":120315,"metaUuid":"b4568e73-abfb-4824-8730-7650eb91e5cb"},
-{"nexusFileName":"Valkrana's Skeleton Crew","nexusFileVersion":"1.29.05","nexusFileUploadedAt":1785197258,"pakFileName":"Valkrana's Skeleton Crew.pak","nexusFileId":126628,"metaUuid":"0dd8b949-b56e-4248-9bf0-b03b3c3bd8c5"},
-{"nexusFileName":"Valkrana's Skeleton Crew Feat","nexusFileVersion":"1.29.05","nexusFileUploadedAt":1785197290,"pakFileName":"Valkrana's Skeleton Crew Feat.pak","nexusFileId":126629,"metaUuid":"d76ff1e5-e09e-4565-a9d2-a035037f6134"}
+{"nexusFileName":"Valkrana's Skeleton Crew Feat","nexusFileVersion":"1.29.06","nexusFileUploadedAt":1787420341,"pakFileName":"Valkrana's Skeleton Crew Feat.pak","nexusFileId":128708,"metaUuid":"d76ff1e5-e09e-4565-a9d2-a035037f6134"},
+{"nexusFileName":"Valkrana's Skeleton Crew","nexusFileVersion":"1.29.06","nexusFileUploadedAt":1787420366,"pakFileName":"Valkrana's Skeleton Crew.pak","nexusFileId":128709,"metaUuid":"0dd8b949-b56e-4248-9bf0-b03b3c3bd8c5"}
 ]},
 "4497":{"nexusModName":"Mystic Class Ita","nexusUploadedBy":"ogugght","nexusModId":4497,"paks":[
 {"nexusFileName":"Mystic Class Ita by Kilay","nexusFileVersion":"1.1","nexusFileUploadedAt":1707381676,"pakFileName":"MysticIta.pak","nexusFileId":43718,"metaUuid":null}
@@ -64618,7 +64618,7 @@
 {"nexusFileName":"PsionicEmpowermentforGithyanki","nexusFileVersion":"1.0","nexusFileUploadedAt":1779373344,"pakFileName":"PsionicEmpowermentforGithyanki.pak","nexusFileId":121832,"metaUuid":"0fbb3da3-c378-49be-877b-cf96dfe861a5"}
 ]},
 "22998":{"nexusModName":"Sanctum Heretic","nexusUploadedBy":"CrushNa2v","nexusModId":22998,"paks":[
-{"nexusFileName":"SanctumHeretic v1.3.11","nexusFileVersion":"1.3.11","nexusFileUploadedAt":1779378717,"pakFileName":"SanctumHeretic 圣域邪使 v1.3.11.pak","nexusFileId":121836,"metaUuid":"5cfa6e02-6b11-4c1a-b8d0-0520bda30a1c"}
+{"nexusFileName":"SanctumHeretic v1.4.0","nexusFileVersion":"1.4.0","nexusFileUploadedAt":1787422520,"pakFileName":"SanctumHeretic_圣域邪使_v1.4.0.pak","nexusFileId":128712,"metaUuid":null}
 ]},
 "22999":{"nexusModName":"Fallen Midas Outfit","nexusUploadedBy":"Lyniara","nexusModId":22999,"paks":[
 {"nexusFileName":"Fallen Midas Outfit","nexusFileVersion":"1.2","nexusFileUploadedAt":1779402769,"pakFileName":"LynFallenMidas.pak","nexusFileId":121848,"metaUuid":"9c930d25-27b9-4c91-9aeb-e0452c3a52ea"},
@@ -68925,4 +68925,10 @@
 ]},
 "24574":{"nexusModName":"Astarion's Book of Hungers","nexusUploadedBy":"KryptoHack","nexusModId":24574,"paks":[
 {"nexusFileName":"Astarion's Book of Hungers","nexusFileVersion":"1.0.0.3","nexusFileUploadedAt":1787415268,"pakFileName":"KHG_BookOfHungers_fb124d51-9136-9398-c8af-a9a3c7516024.pak","nexusFileId":128703,"metaUuid":null}
+]},
+"24575":{"nexusModName":"Gortash Redux - The Golden Tyrant","nexusUploadedBy":"PoisonValentineXIII","nexusModId":24575,"paks":[
+{"nexusFileName":"Gortash Redux - The Golden Tyrant ","nexusFileVersion":"1.0.0.4","nexusFileUploadedAt":1787416378,"pakFileName":"GortashReduxia_e536562c-be84-c8a3-c68f-7a1645fcc122.pak","nexusFileId":128706,"metaUuid":null}
+]},
+"24576":{"nexusModName":"Goon's Spell Overhaul CHS","nexusUploadedBy":"mzldyt","nexusModId":24576,"paks":[
+{"nexusFileName":"Goon'S Spell Overhaul CHS","nexusFileVersion":"1","nexusFileUploadedAt":1787421859,"pakFileName":"Goon's Spell Overhaul CHS.pak","nexusFileId":128710,"metaUuid":null}
 ]}}
