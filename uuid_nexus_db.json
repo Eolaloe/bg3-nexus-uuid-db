@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-08-22T22:52:09.741623+00:00","total_mods":17342},
+{"_meta":{"last_run":"2026-08-22T23:52:18.921323+00:00","total_mods":17342},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -52853,8 +52853,7 @@
 {"nexusFileName":"Big Spoon x Little Spoon Pose Pack","nexusFileVersion":"1.0","nexusFileUploadedAt":1759435035,"pakFileName":"GG_PartnerPoses_MxMS_b6ca166e-6a9f-e564-f5c1-49edf1f0929b.pak","nexusFileId":104174,"metaUuid":"b6ca166e-6a9f-e564-f5c1-49edf1f0929b"}
 ]},
 "18958":{"nexusModName":"Always on Display Hotbar Icons Detail (AODHID) for Vanilla","nexusUploadedBy":"Eolaloe","nexusModId":18958,"paks":[
-{"nexusFileName":"1. Vanilla_Ver.a","nexusFileVersion":"2.0.1.0","nexusFileUploadedAt":1772989403,"pakFileName":"AOD_Hotbar_Icons_Detail_VA_A_6b8681de-5c01-7653-b160-3bc9224374e2.pak","nexusFileId":116328,"metaUuid":"6b8681de-5c01-7653-b160-3bc9224374e2"},
-{"nexusFileName":"2. Vanilla_Ver.b","nexusFileVersion":"2.0.1.0","nexusFileUploadedAt":1772989482,"pakFileName":"AOD_Hotbar_Icons_Detail_VA_B_08b86cf8-81af-28c4-4f3d-6501f6a63d2f.pak","nexusFileId":116329,"metaUuid":"08b86cf8-81af-28c4-4f3d-6501f6a63d2f"}
+{"nexusFileName":"1. Vanilla_Ver.a","nexusFileVersion":"2.0.1.0","nexusFileUploadedAt":1772989403,"pakFileName":"AOD_Hotbar_Icons_Detail_VA_A_6b8681de-5c01-7653-b160-3bc9224374e2.pak","nexusFileId":116328,"metaUuid":"6b8681de-5c01-7653-b160-3bc9224374e2"}
 ]},
 "18960":{"nexusModName":"Forged Thorn","nexusUploadedBy":"haytur","nexusModId":18960,"paks":[
 {"nexusFileName":"ForgedThorn","nexusFileVersion":"1.0R","nexusFileUploadedAt":1759450387,"pakFileName":"ForgeThorn.pak","nexusFileId":104182,"metaUuid":"8564afa9-961d-654a-b35e-87f8a7b8b5dc"}
@@ -68806,8 +68805,10 @@
 {"nexusFileName":"Vanilla Dice Colors","nexusFileVersion":"1.0.1.0","nexusFileUploadedAt":1787222918,"pakFileName":"Vanilla Dice Colors.pak","nexusFileId":128534,"metaUuid":"a91e6d47-3c28-4f52-9b81-72d5c0a6e314"}
 ]},
 "24528":{"nexusModName":"Ikaros Longbow","nexusUploadedBy":"7hornadus","nexusModId":24528,"paks":[
-{"nexusFileName":"Ikaros Longbow - Black","nexusFileVersion":"1","nexusFileUploadedAt":1787186659,"pakFileName":"Ikaros_Longbow.pak","nexusFileId":128503,"metaUuid":"36eb93e9-083b-48b5-892d-4eef2ab69ccf"},
-{"nexusFileName":"Ikaros Longbow - White","nexusFileVersion":"1","nexusFileUploadedAt":1787186686,"pakFileName":"Ikaros_Longbow.pak","nexusFileId":128504,"metaUuid":"36eb93e9-083b-48b5-892d-4eef2ab69ccf"}
+{"nexusFileName":"Ikaros Longbow - Legendary Black","nexusFileVersion":"1","nexusFileUploadedAt":1787186659,"pakFileName":"Ikaros_Longbow.pak","nexusFileId":128503,"metaUuid":"36eb93e9-083b-48b5-892d-4eef2ab69ccf"},
+{"nexusFileName":"Ikaros Longbow - Legendary White","nexusFileVersion":"1","nexusFileUploadedAt":1787186686,"pakFileName":"Ikaros_Longbow.pak","nexusFileId":128504,"metaUuid":"36eb93e9-083b-48b5-892d-4eef2ab69ccf"},
+{"nexusFileName":"Ikaros Longbow - Rare Black","nexusFileVersion":"1","nexusFileUploadedAt":1787441133,"pakFileName":"Ikaros Longbow.pak","nexusFileId":128733,"metaUuid":null},
+{"nexusFileName":"Ikaros Longbow - Rare White","nexusFileVersion":"1","nexusFileUploadedAt":1787441163,"pakFileName":"Ikaros Longbow.pak","nexusFileId":128734,"metaUuid":null}
 ]},
 "24529":{"nexusModName":"BloodWhispers' Natural Model Poses","nexusUploadedBy":"Bl00dWhispers","nexusModId":24529,"paks":[
 {"nexusFileName":"Natural Model","nexusFileVersion":"1","nexusFileUploadedAt":1787192941,"pakFileName":"BL00D_NaturalModel_be59b3f7-7a7b-3892-9646-75bfb128fb7a.pak","nexusFileId":128507,"metaUuid":"be59b3f7-7a7b-3892-9646-75bfb128fb7a"}
