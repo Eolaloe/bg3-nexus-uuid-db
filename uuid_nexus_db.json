@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-08-22T15:52:23.659766+00:00","total_mods":17341},
+{"_meta":{"last_run":"2026-08-22T16:52:35.245928+00:00","total_mods":17342},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -26057,7 +26057,8 @@
 {"nexusFileName":"Appearance Edit - Ukr Translation","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1713370978,"pakFileName":"AppearanceEdit-Ukr.pak","nexusFileId":54077,"metaUuid":null}
 ]},
 "8843":{"nexusModName":"Plus-Size Tav","nexusUploadedBy":"MangoPunch","nexusModId":8843,"paks":[
-{"nexusFileName":"Plus-Size Tav","nexusFileVersion":"2.0","nexusFileUploadedAt":1786987636,"pakFileName":"PlusSizeTav.pak","nexusFileId":128309,"metaUuid":null}
+{"nexusFileName":"Plus-Size Tav","nexusFileVersion":"2.0","nexusFileUploadedAt":1786987636,"pakFileName":"PlusSizeTav.pak","nexusFileId":128309,"metaUuid":null},
+{"nexusFileName":"Plus-Size Wardrobe","nexusFileVersion":"1","nexusFileUploadedAt":1787414573,"pakFileName":"PlusSizeWardrobe.pak","nexusFileId":128702,"metaUuid":null}
 ]},
 "8844":{"nexusModName":"(Vanilla) Clothing and Armors for Lydia's Softer Body 2","nexusUploadedBy":"plaemon","nexusModId":8844,"paks":[
 {"nexusFileName":"Softer Body 2 - NPC Armors and Clothing 1.9","nexusFileVersion":"1.9","nexusFileUploadedAt":1744645127,"pakFileName":"Softer Body 2 - NPC Armors and Clothing.pak","nexusFileId":88836,"metaUuid":"4f8eb9c0-34bd-4042-83e4-85481d5d1ae0"},
@@ -26581,7 +26582,7 @@
 {"nexusFileName":"Addon - Randomized Loot","nexusFileVersion":"2.0.0","nexusFileUploadedAt":1777412085,"pakFileName":"HomeBrew - Comprehensive Reworks (Addon - Randomized Loot).pak","nexusFileId":120106,"metaUuid":"74a00bb6-b29e-497d-8410-2307ceb876fe"},
 {"nexusFileName":"Misc - Modded Subclasses","nexusFileVersion":"8.3.1","nexusFileUploadedAt":1777412098,"pakFileName":"HomeBrew - Comprehensive Reworks (Misc - Modded Subclasses).pak","nexusFileId":120107,"metaUuid":"cf1fd434-de12-40ed-9bb0-4a5a3de48973"},
 {"nexusFileName":"Easier Difficulty - Mythic Difficulty Reduced","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1783594414,"pakFileName":"Home Brew - Comprehensive Reworks (Easier Difficulty - Mythic Difficulty Reduced).pak","nexusFileId":125264,"metaUuid":"135c0255-9690-4377-957d-2b40187f74a2"},
-{"nexusFileName":"HomeBrew   Comprehensive Reworks","nexusFileVersion":"9.1.2","nexusFileUploadedAt":1786201211,"pakFileName":"HomeBrew - Comprehensive Reworks.pak","nexusFileId":127609,"metaUuid":"486d1526-3505-4b09-9790-0f6a60f5ac0f"}
+{"nexusFileName":"HomeBrew   Comprehensive Reworks","nexusFileVersion":"9.1.3","nexusFileUploadedAt":1787415524,"pakFileName":"HomeBrew - Comprehensive Reworks.pak","nexusFileId":128705,"metaUuid":"486d1526-3505-4b09-9790-0f6a60f5ac0f"}
 ]},
 "9053":{"nexusModName":"Planetouched - Homebrew Race","nexusUploadedBy":"0Lyra","nexusModId":9053,"paks":[
 {"nexusFileName":"Planetouched - Main","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1715369676,"pakFileName":"Planetouched_Race.pak","nexusFileId":56628,"metaUuid":"fc59491b-4bc3-4822-8597-7ed1b84064c5"},
@@ -68218,7 +68219,7 @@
 {"nexusFileName":"SGT_Astral Fury -  Lae'zel Portrait","nexusFileVersion":"1","nexusFileUploadedAt":1786644728,"pakFileName":"Astral Fury - Lae'zel Portrait.pak","nexusFileId":128028,"metaUuid":"8fbcd872-a0e1-41f9-a6a8-8cb2da48f1f8"},
 {"nexusFileName":"SGT_Astral Fury - Hairstyle for CC","nexusFileVersion":"1","nexusFileUploadedAt":1786823060,"pakFileName":"SGT_AstralHairs_462a7ba4-9fce-dad1-04f3-e04379ecfa57.pak","nexusFileId":128161,"metaUuid":"462a7ba4-9fce-dad1-04f3-e04379ecfa57"},
 {"nexusFileName":"SGT_Astral Fury - Hair Only","nexusFileVersion":"1.0.1","nexusFileUploadedAt":1786997561,"pakFileName":"SGT_AstralFury_HairOnly_ea0fdf1b-9cfb-78e3-5990-55ec50f34315.pak","nexusFileId":128318,"metaUuid":null},
-{"nexusFileName":"SGT_Bex Is Brunette","nexusFileVersion":"1","nexusFileUploadedAt":1787069595,"pakFileName":"SGT_Bex_Edited_fc22738d-e93f-3e3f-eb0b-bcccb57600da.pak","nexusFileId":128366,"metaUuid":null},
+{"nexusFileName":"SGT_Bex Is Brunette","nexusFileVersion":"1","nexusFileUploadedAt":1787069595,"pakFileName":"SGT_Bex_Edited_fc22738d-e93f-3e3f-eb0b-bcccb57600da.pak","nexusFileId":128366,"metaUuid":"fc22738d-e93f-3e3f-eb0b-bcccb57600da"},
 {"nexusFileName":"SGT_Bex Is Brunette - Original hairstyle","nexusFileVersion":"1","nexusFileUploadedAt":1787072410,"pakFileName":"SGT_Bex_Edited_fc22738d-e93f-3e3f-eb0b-bcccb57600da.pak","nexusFileId":128368,"metaUuid":"fc22738d-e93f-3e3f-eb0b-bcccb57600da"},
 {"nexusFileName":"SGT_Astral Fury - No Gith Spots","nexusFileVersion":"1.0.2","nexusFileUploadedAt":1787082318,"pakFileName":"SGT_AstralFury_ae46be95-b478-7487-f6a8-a878448cf088.pak","nexusFileId":128413,"metaUuid":"ae46be95-b478-7487-f6a8-a878448cf088"},
 {"nexusFileName":"SGT_Astral Fury - Lae'zel Edit","nexusFileVersion":"1.0.2","nexusFileUploadedAt":1787082511,"pakFileName":"SGT_AstralFury_ae46be95-b478-7487-f6a8-a878448cf088.pak","nexusFileId":128414,"metaUuid":"ae46be95-b478-7487-f6a8-a878448cf088"},
@@ -68713,7 +68714,8 @@
 {"nexusFileName":"DesireDemon Hair","nexusFileVersion":"1","nexusFileUploadedAt":1787268116,"pakFileName":"DesireDemon_Hair.pak","nexusFileId":128585,"metaUuid":null},
 {"nexusFileName":"DAO DesireDemon RefitAKM - BT1 only version","nexusFileVersion":"2","nexusFileUploadedAt":1787324927,"pakFileName":"DAO_DesireDemon_Robes_RefitAKM.pak","nexusFileId":128617,"metaUuid":null},
 {"nexusFileName":"DAO DesireDemon RefitAKM - BT1 and BT3 version","nexusFileVersion":"1","nexusFileUploadedAt":1787325020,"pakFileName":"DAO_DesireDemon_Robes_RefitAKM_V2.pak","nexusFileId":128618,"metaUuid":null},
-{"nexusFileName":"DAO DesireDemon RefitMidSize","nexusFileVersion":"1","nexusFileUploadedAt":1787353649,"pakFileName":"DAO_DesireDemon_Robes_RefitMidSize.pak","nexusFileId":128637,"metaUuid":null}
+{"nexusFileName":"DAO DesireDemon RefitMidSize","nexusFileVersion":"1","nexusFileUploadedAt":1787353649,"pakFileName":"DAO_DesireDemon_Robes_RefitMidSize.pak","nexusFileId":128637,"metaUuid":null},
+{"nexusFileName":"DAO DesireDemon RefitSBBF","nexusFileVersion":"1","nexusFileUploadedAt":1787415501,"pakFileName":"DAO_DesireDemon_Robes_RefitSBBF.pak","nexusFileId":128704,"metaUuid":null}
 ]},
 "24485":{"nexusModName":"Brocade Be Gone - Customize Tav's Epilogue Wardrobe","nexusUploadedBy":"Seristina","nexusModId":24485,"paks":[
 {"nexusFileName":"EpilogueWardrobe","nexusFileVersion":"1","nexusFileUploadedAt":1787086011,"pakFileName":"EpilogueWardrobe.pak","nexusFileId":128417,"metaUuid":"546e2002-b5d9-46b7-9807-15108ec6715c"}
@@ -68874,6 +68876,25 @@
 "24558":{"nexusModName":"Choose your size - Patch 8 fix","nexusUploadedBy":"Gyug","nexusModId":24558,"paks":[
 {"nexusFileName":"Choose your size - consumable","nexusFileVersion":"1","nexusFileUploadedAt":1787348664,"pakFileName":"BeBigger.pak","nexusFileId":128630,"metaUuid":null}
 ]},
+"24559":{"nexusModName":"More Dice Varieties","nexusUploadedBy":"nyilas7","nexusModId":24559,"paks":[
+{"nexusFileName":"More Dice Varieties","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1787399628,"pakFileName":"More Dice Varieties.pak","nexusFileId":128667,"metaUuid":null},
+{"nexusFileName":"Voidstone Amethyst","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1787399681,"pakFileName":"More Dice Varieties - Voidstone Amethyst.pak","nexusFileId":128668,"metaUuid":null},
+{"nexusFileName":"Sylvan Emerald","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1787399706,"pakFileName":"More Dice Varieties - Sylvan Emerald.pak","nexusFileId":128669,"metaUuid":null},
+{"nexusFileName":"Spark Of The Weave","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1787399727,"pakFileName":"More Dice Varieties - Spark of the Weave.pak","nexusFileId":128670,"metaUuid":null},
+{"nexusFileName":"Red Dragon Scale","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1787399752,"pakFileName":"More Dice Varieties - Red Dragon Scale.pak","nexusFileId":128671,"metaUuid":null},
+{"nexusFileName":"Netherese Cobalt","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1787399779,"pakFileName":"More Dice Varieties - Netherese Cobalt.pak","nexusFileId":128672,"metaUuid":null},
+{"nexusFileName":"Necromancer's Blight","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1787399806,"pakFileName":"More Dice Varieties - Necromancer's Blight.pak","nexusFileId":128673,"metaUuid":null},
+{"nexusFileName":"Morninglord's Favor","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1787399831,"pakFileName":"More Dice Varieties - Morninglord's Favor.pak","nexusFileId":128674,"metaUuid":null},
+{"nexusFileName":"Moonmaiden's Tear","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1787399857,"pakFileName":"More Dice Varieties - Moonmaiden's Tear.pak","nexusFileId":128675,"metaUuid":null},
+{"nexusFileName":"Mithral Shard","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1787399880,"pakFileName":"More Dice Varieties - Mithral Shard.pak","nexusFileId":128676,"metaUuid":null},
+{"nexusFileName":"Justiciar's Twilight","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1787399902,"pakFileName":"More Dice Varieties - Justiciar's Twilight.pak","nexusFileId":128677,"metaUuid":null},
+{"nexusFileName":"Infernal Amber","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1787399926,"pakFileName":"More Dice Varieties - Infernal Amber.pak","nexusFileId":128678,"metaUuid":null},
+{"nexusFileName":"Forged Steel","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1787399948,"pakFileName":"More Dice Varieties - Forged Steel.pak","nexusFileId":128679,"metaUuid":null},
+{"nexusFileName":"Feywild Arcana","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1787399969,"pakFileName":"More Dice Varieties - Feywild Arcana.pak","nexusFileId":128680,"metaUuid":null},
+{"nexusFileName":"Deepsea Malachite","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1787399990,"pakFileName":"More Dice Varieties - Deepsea Malachite.pak","nexusFileId":128681,"metaUuid":null},
+{"nexusFileName":"Chionthar's Depths","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1787400025,"pakFileName":"More Dice Varieties - Chionthar's Depths.pak","nexusFileId":128682,"metaUuid":null},
+{"nexusFileName":"Chardalyn Rose","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1787400047,"pakFileName":"More Dice Varieties - Chardalyn Rose.pak","nexusFileId":128683,"metaUuid":null}
+]},
 "24562":{"nexusModName":"Glut's Animating Spores with repeated resurrection for Circle of the Spores druids","nexusUploadedBy":"Nensen1991","nexusModId":24562,"paks":[
 {"nexusFileName":"SporeServantMod","nexusFileVersion":"1","nexusFileUploadedAt":1787352207,"pakFileName":"SporeServantMod.pak","nexusFileId":128635,"metaUuid":"9d8a321f-1122-4a55-b890-7f2c3a8d6149"}
 ]},
@@ -68881,7 +68902,7 @@
 {"nexusFileName":"Plus Size Secret Garden Lingerie Refit","nexusFileVersion":"1","nexusFileUploadedAt":1787359278,"pakFileName":"DesdiPlusSizeSecretGarden_9594465a-fe8c-ac4e-0c80-89be83a4c820.pak","nexusFileId":128645,"metaUuid":null}
 ]},
 "24564":{"nexusModName":"Player Voiced Scenes Priority","nexusUploadedBy":"marykerry02","nexusModId":24564,"paks":[
-{"nexusFileName":"Player Voiced Scenes Priority","nexusFileVersion":"1","nexusFileUploadedAt":1787389107,"pakFileName":"VoicedLinesPriority.pak","nexusFileId":128658,"metaUuid":null},
+{"nexusFileName":"Player Voiced Scenes Priority","nexusFileVersion":"1","nexusFileUploadedAt":1787389107,"pakFileName":"VoicedLinesPriority.pak","nexusFileId":128658,"metaUuid":"b05a2aad-1668-43b1-8722-7c5d02765fda"},
 {"nexusFileName":"Player Voiced Scenes Priority (Laezel ignored)","nexusFileVersion":"1","nexusFileUploadedAt":1787397975,"pakFileName":"VoicedLinesPriority.pak","nexusFileId":128666,"metaUuid":"b05a2aad-1668-43b1-8722-7c5d02765fda"}
 ]},
 "24565":{"nexusModName":"Origins Chaos","nexusUploadedBy":"ankerlcg","nexusModId":24565,"paks":[
@@ -68901,4 +68922,7 @@
 ]},
 "24573":{"nexusModName":"InfiniteSpellCasting Double AP usage","nexusUploadedBy":"swissfred","nexusModId":24573,"paks":[
 {"nexusFileName":"Infinitespellcasting Double AP usage","nexusFileVersion":"7.0.8.0","nexusFileUploadedAt":1787404848,"pakFileName":"InfiniteSpellCastingX2APUsage_ac1602fd-7d03-c083-24ce-c97c13c2bbe5.pak","nexusFileId":128694,"metaUuid":"ac1602fd-7d03-c083-24ce-c97c13c2bbe5"}
+]},
+"24574":{"nexusModName":"Astarion's Book of Hungers","nexusUploadedBy":"KryptoHack","nexusModId":24574,"paks":[
+{"nexusFileName":"Astarion's Book of Hungers","nexusFileVersion":"1.0.0.3","nexusFileUploadedAt":1787415268,"pakFileName":"KHG_BookOfHungers_fb124d51-9136-9398-c8af-a9a3c7516024.pak","nexusFileId":128703,"metaUuid":null}
 ]}}
