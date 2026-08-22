@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-08-22T08:51:50.121933+00:00","total_mods":17335},
+{"_meta":{"last_run":"2026-08-22T09:51:49.612625+00:00","total_mods":17337},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -40014,9 +40014,9 @@
 {"nexusFileName":"Demon Hunter Class - FR","nexusFileVersion":"1.0.2","nexusFileUploadedAt":1734047181,"pakFileName":"DamonHunterTradFR_bce5da59-41e9-6549-6cc7-7a30d3d6a523.pak","nexusFileId":81646,"metaUuid":null}
 ]},
 "14155":{"nexusModName":"Everybody Moves Fast","nexusUploadedBy":"hawchangJA","nexusModId":14155,"paks":[
-{"nexusFileName":"Everybody Moves Fast","nexusFileVersion":"1.0.3","nexusFileUploadedAt":1767510127,"pakFileName":"EverybodyMovesFast_e245a6e0-86aa-2749-4290-566a167cda57.pak","nexusFileId":111081,"metaUuid":null},
-{"nexusFileName":"Everybody Moves Fast 125","nexusFileVersion":"1.0.3","nexusFileUploadedAt":1767510151,"pakFileName":"EverybodyMovesFast125_140a6d4d-74b6-fb5c-269d-191cf7267e6e.pak","nexusFileId":111082,"metaUuid":"140a6d4d-74b6-fb5c-269d-191cf7267e6e"},
-{"nexusFileName":"Everybody Moves Fast 200","nexusFileVersion":"1.0.3","nexusFileUploadedAt":1767510175,"pakFileName":"EverybodyMovesFast200_a245fafe-0eb7-bac6-cb93-c078831f4c74.pak","nexusFileId":111083,"metaUuid":"a245fafe-0eb7-bac6-cb93-c078831f4c74"}
+{"nexusFileName":"Everybody Moves Fast 200","nexusFileVersion":"1.0.4","nexusFileUploadedAt":1787390952,"pakFileName":"EverybodyMovesFast200_a245fafe-0eb7-bac6-cb93-c078831f4c74.pak","nexusFileId":128660,"metaUuid":"a245fafe-0eb7-bac6-cb93-c078831f4c74"},
+{"nexusFileName":"Everybody Moves Fast 125","nexusFileVersion":"1.0.4","nexusFileUploadedAt":1787390974,"pakFileName":"EverybodyMovesFast125_140a6d4d-74b6-fb5c-269d-191cf7267e6e.pak","nexusFileId":128661,"metaUuid":"140a6d4d-74b6-fb5c-269d-191cf7267e6e"},
+{"nexusFileName":"Everybody Moves Fast","nexusFileVersion":"1.0.4","nexusFileUploadedAt":1787390989,"pakFileName":"EverybodyMovesFast_e245a6e0-86aa-2749-4290-566a167cda57.pak","nexusFileId":128662,"metaUuid":null}
 ]},
 "14156":{"nexusModName":"The Morninglord's Morningstar - Russian","nexusUploadedBy":"Aks2aidos","nexusModId":14156,"paks":[
 {"nexusFileName":"MorninglordsMorningstar_ru","nexusFileVersion":"1.0.0.14","nexusFileUploadedAt":1733583402,"pakFileName":"MorninglordsMorningstar_ru.pak","nexusFileId":81272,"metaUuid":null}
@@ -68328,7 +68328,8 @@
 {"nexusFileName":"Early Access Dream Visitor Restored for Korean","nexusFileVersion":"1.0.1.1","nexusFileUploadedAt":1786824207,"pakFileName":"HT_EA_Daisy_kr.pak","nexusFileId":128164,"metaUuid":null}
 ]},
 "24453":{"nexusModName":"Move With World Map","nexusUploadedBy":"Kenyann","nexusModId":24453,"paks":[
-{"nexusFileName":"MoveWithWorldMap ","nexusFileVersion":"1.0.7","nexusFileUploadedAt":1787381347,"pakFileName":"MoveWithWorldMap.pak","nexusFileId":128654,"metaUuid":"21b7486e-1b0c-4d07-9028-c3d47602c9fa"}
+{"nexusFileName":"MoveWithWorldMap ","nexusFileVersion":"1.0.8","nexusFileUploadedAt":1787391475,"pakFileName":"MoveWithWorldMap.pak","nexusFileId":128663,"metaUuid":"21b7486e-1b0c-4d07-9028-c3d47602c9fa"},
+{"nexusFileName":"MoveWithWorldMap ","nexusFileVersion":"1.0.8","nexusFileUploadedAt":1787391475,"pakFileName":"MoveWithWorldMapUI.pak","nexusFileId":128663,"metaUuid":null}
 ]},
 "24454":{"nexusModName":"Lae'zel's Cage Trap Fixed","nexusUploadedBy":"NecroticFlame","nexusModId":24454,"paks":[
 {"nexusFileName":"Cage Trap Fixed","nexusFileVersion":"1.0.1","nexusFileUploadedAt":1787299489,"pakFileName":"CageTrapFixed_e0314fc8-37e6-142c-53f9-770467e6d02a.pak","nexusFileId":128602,"metaUuid":"e0314fc8-37e6-142c-53f9-770467e6d02a"}
@@ -68876,9 +68877,15 @@
 "24562":{"nexusModName":"Glut's Animating Spores with repeated resurrection for Circle of the Spores druids","nexusUploadedBy":"Nensen1991","nexusModId":24562,"paks":[
 {"nexusFileName":"SporeServantMod","nexusFileVersion":"1","nexusFileUploadedAt":1787352207,"pakFileName":"SporeServantMod.pak","nexusFileId":128635,"metaUuid":"9d8a321f-1122-4a55-b890-7f2c3a8d6149"}
 ]},
+"24564":{"nexusModName":"Player Voiced Scenes Priority","nexusUploadedBy":"marykerry02","nexusModId":24564,"paks":[
+{"nexusFileName":"Player Voiced Scenes Priority","nexusFileVersion":"1","nexusFileUploadedAt":1787389107,"pakFileName":"VoicedLinesPriority.pak","nexusFileId":128658,"metaUuid":null}
+]},
 "24565":{"nexusModName":"Origins Chaos","nexusUploadedBy":"ankerlcg","nexusModId":24565,"paks":[
 {"nexusFileName":"ChaosOriginsRemastered","nexusFileVersion":"1","nexusFileUploadedAt":1787387207,"pakFileName":"ChaosOriginsRemastered.pak","nexusFileId":128656,"metaUuid":null}
 ]},
 "24567":{"nexusModName":"Starsong Patron","nexusUploadedBy":"StarDrgon","nexusModId":24567,"paks":[
 {"nexusFileName":"StarsongPatron","nexusFileVersion":"1","nexusFileUploadedAt":1787388036,"pakFileName":"StarsongPatron_星歌宗主_Skyler发布版.pak","nexusFileId":128657,"metaUuid":null}
+]},
+"24568":{"nexusModName":"Great Old One - Eldritch Blast Enhanced","nexusUploadedBy":"263884","nexusModId":24568,"paks":[
+{"nexusFileName":"Great Old One   Eldritch Blast Enhanced","nexusFileVersion":"1","nexusFileUploadedAt":1787390795,"pakFileName":"Great Old One - Eldritch Blast Enhanced.pak","nexusFileId":128659,"metaUuid":null}
 ]}}
