@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-08-23T11:53:05.949770+00:00","total_mods":17355},
+{"_meta":{"last_run":"2026-08-23T12:53:41.776991+00:00","total_mods":17355},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -48878,8 +48878,8 @@
 {"nexusFileName":"CL_Lightning Monk","nexusFileVersion":"1.0.0.9","nexusFileUploadedAt":1753146510,"pakFileName":"CL_LightningMonk.pak","nexusFileId":98705,"metaUuid":"2155e720-c0d3-799b-46e7-e9fbbf2f2dbe"}
 ]},
 "17535":{"nexusModName":"Goon's Paladin Overhaul","nexusUploadedBy":"BaldursGoonsack","nexusModId":17535,"paks":[
-{"nexusFileName":"No Divine Smite for Oathbreakers","nexusFileVersion":"1.0.3.7","nexusFileUploadedAt":1767852139,"pakFileName":"Goon's Paladin Overhaul - No Divine Smite for Oathbreakers.pak","nexusFileId":111521,"metaUuid":"4072e431-c421-45b0-9c42-1e64a41c2bfb"},
-{"nexusFileName":"Goon's Paladin Overhaul","nexusFileVersion":"1.1.0.0","nexusFileUploadedAt":1781095388,"pakFileName":"Goon's Paladin Overhaul.pak","nexusFileId":123278,"metaUuid":"dcbb4c7f-a112-4c0f-9644-91d8a16db127"}
+{"nexusFileName":"No Divine Smite for Oathbreakers","nexusFileVersion":"1.1.1.0","nexusFileUploadedAt":1787486363,"pakFileName":"Goon's Paladin Overhaul - No Divine Smite for Oathbreakers.pak","nexusFileId":128818,"metaUuid":"4072e431-c421-45b0-9c42-1e64a41c2bfb"},
+{"nexusFileName":"Goon's Paladin Overhaul","nexusFileVersion":"1.1.1.0","nexusFileUploadedAt":1787486379,"pakFileName":"Goon's Paladin Overhaul.pak","nexusFileId":128819,"metaUuid":"dcbb4c7f-a112-4c0f-9644-91d8a16db127"}
 ]},
 "17536":{"nexusModName":"JWL Discordant Instruments for Patch 7","nexusUploadedBy":"robogena","nexusModId":17536,"paks":[
 {"nexusFileName":"JWL Discordant Instruments (No Restrictions Patch)","nexusFileVersion":"1.0","nexusFileUploadedAt":1753195302,"pakFileName":"JWL_DiscordantInstruments_zNoRestrictions.pak","nexusFileId":98747,"metaUuid":"c96650a1-8ce6-49bd-9f6f-d09b35532e52"},
@@ -52289,8 +52289,8 @@
 "18766":{"nexusModName":"Flesh to Stone Leave Combat and Reward XP (Plus Midas and Medusa Spells)","nexusUploadedBy":"Lootbugger","nexusModId":18766,"paks":[
 {"nexusFileName":"Flesh to Stone Leave Combat (Conditions Only)","nexusFileVersion":"1.0","nexusFileUploadedAt":1759078753,"pakFileName":"FleshToStoneLeaveCombatConditionsOnly_49324e02-f293-e888-cc0b-3585fea53c7f.pak","nexusFileId":103872,"metaUuid":null},
 {"nexusFileName":"Flesh to Stone Leave Combat (Buff and Pick Up)","nexusFileVersion":"1.2","nexusFileUploadedAt":1759853806,"pakFileName":"FleshToStoneLeaveCombatBuff_38057dc0-19c1-be83-ded0-29e205b4f8e7.pak","nexusFileId":104544,"metaUuid":"38057dc0-19c1-be83-ded0-29e205b4f8e7"},
-{"nexusFileName":"Midas and Medusa","nexusFileVersion":"1.3","nexusFileUploadedAt":1769276944,"pakFileName":"MidasMedusa_9f4411bb-3cc3-73ab-77bc-15ee74489e00.pak","nexusFileId":113150,"metaUuid":null},
-{"nexusFileName":"Midas and Medusa (Fewer Medusa Saves)","nexusFileVersion":"1.3","nexusFileUploadedAt":1769276986,"pakFileName":"MidasMedusa_9f4411bb-3cc3-73ab-77bc-15ee74489e00.pak","nexusFileId":113151,"metaUuid":null}
+{"nexusFileName":"Midas and Medusa","nexusFileVersion":"1.4","nexusFileUploadedAt":1787486233,"pakFileName":"MidasMedusa_9f4411bb-3cc3-73ab-77bc-15ee74489e00.pak","nexusFileId":128816,"metaUuid":null},
+{"nexusFileName":"Midas and Medusa (Fewer Medusa Saves)","nexusFileVersion":"1.4","nexusFileUploadedAt":1787486280,"pakFileName":"Fewer_MidasMedusa_9f4411bb-3cc3-73ab-77bc-15ee74489e00.pak","nexusFileId":128817,"metaUuid":null}
 ]},
 "18767":{"nexusModName":"Berserk Guts Armor_Weapon Set_KOR","nexusUploadedBy":"Kei8725","nexusModId":18767,"paks":[
 {"nexusFileName":"Berserk Guts Armor_Weapon Set_KOR","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1758385349,"pakFileName":"GDSlyarm_KOR.pak","nexusFileId":103254,"metaUuid":"ba406457-e41f-4b94-899c-6c9cee6fa3b2"}
@@ -56731,7 +56731,7 @@
 {"nexusFileName":"Legendary Action Armaments (Rings and Amulets)CHS","nexusFileVersion":"2.8.0.0","nexusFileUploadedAt":1767763047,"pakFileName":"Legendary_Armaments_CHS.pak","nexusFileId":111384,"metaUuid":null}
 ]},
 "20137":{"nexusModName":"Fade's Early Access Illithid Powers Restored for Korean","nexusUploadedBy":"Eolaloe","nexusModId":20137,"paks":[
-{"nexusFileName":"Early Access Illithid Powers Restored for Korean","nexusFileVersion":"1.0.0.8-1","nexusFileUploadedAt":1779821150,"pakFileName":"EarlyAccess_IllithidPowers_kr.pak","nexusFileId":122219,"metaUuid":"50887ca0-216c-4987-8ae7-acb1d1ff21e9"}
+{"nexusFileName":"Early Access Illithid Powers Restored for Korean","nexusFileVersion":"1.0.0.9","nexusFileUploadedAt":1787485913,"pakFileName":"EarlyAccess_IllithidPowers_kr.pak","nexusFileId":128812,"metaUuid":"50887ca0-216c-4987-8ae7-acb1d1ff21e9"}
 ]},
 "20138":{"nexusModName":"Shadowheart Cantrip Night Piercer for Korean","nexusUploadedBy":"Eolaloe","nexusModId":20138,"paks":[
 {"nexusFileName":"Shadowheart Cantrip Night Piercer for Korean","nexusFileVersion":"2.0","nexusFileUploadedAt":1765781180,"pakFileName":"NightPiercer_kr.pak","nexusFileId":109651,"metaUuid":"aaec8470-7830-43aa-8cd9-ac6bdf3ad90c"}
@@ -57213,9 +57213,9 @@
 {"nexusFileName":"Tasha's Fighting Styles RAW for Japanese","nexusFileVersion":"1.0.1.2","nexusFileUploadedAt":1766594653,"pakFileName":"DrKekyll_TashasFightingStyles_jp.pak","nexusFileId":110256,"metaUuid":null}
 ]},
 "20299":{"nexusModName":"Homebrew Wild Magic (for Sorcerer and Barbarian)","nexusUploadedBy":"Lootbugger","nexusModId":20299,"paks":[
-{"nexusFileName":"Playtest","nexusFileVersion":"1.0.2","nexusFileUploadedAt":1768233932,"pakFileName":"HomebrewWildMagicPlaytest_a44ee957-0545-24d0-cbb2-8b2a9326cb7f.pak","nexusFileId":112031,"metaUuid":null},
-{"nexusFileName":"Homebrew Wild Magic (No Polymorph)","nexusFileVersion":"1.0.4","nexusFileUploadedAt":1769106329,"pakFileName":"HomebrewWildMagic_NoPolymorph_ff4320cc-84ff-ef4f-df10-b607f6548dea.pak","nexusFileId":112954,"metaUuid":null},
-{"nexusFileName":"Homebrew Wild Magic (for Sorcerer and Barbarian)","nexusFileVersion":"1.0.4","nexusFileUploadedAt":1769106371,"pakFileName":"HomebrewWildMagic_ff4320cc-84ff-ef4f-df10-b607f6548dea.pak","nexusFileId":112955,"metaUuid":"ff4320cc-84ff-ef4f-df10-b607f6548dea"}
+{"nexusFileName":"Homebrew Wild Magic (for Sorcerer and Barbarian)","nexusFileVersion":"1.1","nexusFileUploadedAt":1787486631,"pakFileName":"HomebrewWildMagic_ff4320cc-84ff-ef4f-df10-b607f6548dea.pak","nexusFileId":128820,"metaUuid":"ff4320cc-84ff-ef4f-df10-b607f6548dea"},
+{"nexusFileName":"Homebrew Wild Magic (No Polymorph)","nexusFileVersion":"1.1","nexusFileUploadedAt":1787486665,"pakFileName":"HomebrewWildMagic_NoPolymorph_ff4320cc-84ff-ef4f-df10-b607f6548dea.pak","nexusFileId":128821,"metaUuid":null},
+{"nexusFileName":"Playtest","nexusFileVersion":"1.1","nexusFileUploadedAt":1787486686,"pakFileName":"HomebrewWildMagicPlaytest_a44ee957-0545-24d0-cbb2-8b2a9326cb7f.pak","nexusFileId":128822,"metaUuid":null}
 ]},
 "20300":{"nexusModName":"Eldritch Knight_Eldritch Strike Update","nexusUploadedBy":"YouMeAndBG3","nexusModId":20300,"paks":[
 {"nexusFileName":"Eldritch Knight_Eldritch Strike Update","nexusFileVersion":"1","nexusFileUploadedAt":1766616058,"pakFileName":"ABetterEldritchKnight.pak","nexusFileId":110280,"metaUuid":"b01fc8da-c2f8-4983-9efb-ac60419fa932"}
@@ -58021,7 +58021,7 @@
 {"nexusFileName":"Ancient Mega Pack Plus for Korean","nexusFileVersion":"1.9.4.37","nexusFileUploadedAt":1786091558,"pakFileName":"AMP_Plus_kr.pak","nexusFileId":127492,"metaUuid":null}
 ]},
 "20589":{"nexusModName":"Many More Monsters for Korean","nexusUploadedBy":"Eolaloe","nexusModId":20589,"paks":[
-{"nexusFileName":"Many More Monsters for Korean","nexusFileVersion":"4.3.2.0","nexusFileUploadedAt":1781358927,"pakFileName":"ManyMoreMonsters_kr.pak","nexusFileId":123477,"metaUuid":null}
+{"nexusFileName":"Many More Monsters for Korean","nexusFileVersion":"4.4.3.0","nexusFileUploadedAt":1787488956,"pakFileName":"ManyMoreMonsters_kr.pak","nexusFileId":128823,"metaUuid":null}
 ]},
 "20590":{"nexusModName":"Veenab's  5e Warlock CHS","nexusUploadedBy":"sansanjiuzhu","nexusModId":20590,"paks":[
 {"nexusFileName":"Veenab's Warlock CHS","nexusFileVersion":"1.3","nexusFileUploadedAt":1768634333,"pakFileName":"Veenab's Warlock CHS.pak","nexusFileId":112403,"metaUuid":null}
@@ -59361,7 +59361,7 @@
 {"nexusFileName":"Karlach's Infernal Friends for Japanese","nexusFileVersion":"1.1","nexusFileUploadedAt":1769628236,"pakFileName":"KarlachClive_jp.pak","nexusFileId":113471,"metaUuid":null}
 ]},
 "21073":{"nexusModName":"Many More Monsters for Japanese","nexusUploadedBy":"Eolaloe","nexusModId":21073,"paks":[
-{"nexusFileName":"Many More Monsters for Japanese","nexusFileVersion":"4.3.2.0","nexusFileUploadedAt":1781358955,"pakFileName":"ManyMoreMonsters_jp.pak","nexusFileId":123478,"metaUuid":null}
+{"nexusFileName":"Many More Monsters for Japanese","nexusFileVersion":"4.4.3.0","nexusFileUploadedAt":1787488985,"pakFileName":"ManyMoreMonsters_jp.pak","nexusFileId":128824,"metaUuid":null}
 ]},
 "21074":{"nexusModName":"Home Brew - Comprehensive Reworks - Chinese (Simplified) Translation","nexusUploadedBy":"Hiserysdh","nexusModId":21074,"paks":[
 {"nexusFileName":"Home Brew - Comprehensive Reworks - Chinese","nexusFileVersion":"8.02","nexusFileUploadedAt":1773565863,"pakFileName":"Home Brew - Comprehensive ReworksCHSYYMLSS.pak","nexusFileId":116779,"metaUuid":null}
@@ -61281,10 +61281,10 @@
 {"nexusFileName":"Platinum Dragonborn Subrace_KOR","nexusFileVersion":"1.0","nexusFileUploadedAt":1772623945,"pakFileName":"PlatinumDraconicBloodlineDragonborn_KOR_50feba2b-db46-aa93-27aa-b141f6ea99e2.pak","nexusFileId":116016,"metaUuid":null}
 ]},
 "21729":{"nexusModName":"GraphicFade's Items Patch for Home Brew (All in One Edition) for Korean","nexusUploadedBy":"Eolaloe","nexusModId":21729,"paks":[
-{"nexusFileName":"GraphicFade's Items Patch for Home Brew for Korean","nexusFileVersion":"1.7.0.6","nexusFileUploadedAt":1777048556,"pakFileName":"Home Brew - GraphicFade's Items Patch (All in One Edition)_kr.pak","nexusFileId":119800,"metaUuid":"21c88d13-1e40-4fef-b63c-b315815ad47e"}
+{"nexusFileName":"GraphicFade's Items Patch for Home Brew for Korean","nexusFileVersion":"1.7.1.2","nexusFileUploadedAt":1787489047,"pakFileName":"Home Brew - GraphicFade's Items Patch (All in One Edition)_kr.pak","nexusFileId":128825,"metaUuid":"21c88d13-1e40-4fef-b63c-b315815ad47e"}
 ]},
 "21730":{"nexusModName":"FATE Patch for Home Brew for Korean","nexusUploadedBy":"Eolaloe","nexusModId":21730,"paks":[
-{"nexusFileName":"FATE Patch for Home Brew for Korean","nexusFileVersion":"1.0.0.6","nexusFileUploadedAt":1777048960,"pakFileName":"Home Brew FATE_kr.pak","nexusFileId":119802,"metaUuid":"8cacf414-e7fb-474c-82a7-24f6b69f8276"}
+{"nexusFileName":"FATE Patch for Home Brew for Korean","nexusFileVersion":"1.0.0.8","nexusFileUploadedAt":1787489106,"pakFileName":"Home Brew FATE_kr.pak","nexusFileId":128826,"metaUuid":"8cacf414-e7fb-474c-82a7-24f6b69f8276"}
 ]},
 "21731":{"nexusModName":"NoRacialRequirementGear","nexusUploadedBy":"EtherealTr","nexusModId":21731,"paks":[
 {"nexusFileName":"NoRacialRequirementGear","nexusFileVersion":"1.0.2","nexusFileUploadedAt":1776960720,"pakFileName":"NoRacialRequirementGear.pak","nexusFileId":119728,"metaUuid":"6461c515-9826-4926-8cdd-218f9569675d"}
@@ -64680,7 +64680,7 @@
 {"nexusFileName":"Head8forAll","nexusFileVersion":"1","nexusFileUploadedAt":1779497241,"pakFileName":"Head8forAll_ca561ae5-e296-a9e8-a0cb-cf8479c0cdf6.pak","nexusFileId":121961,"metaUuid":null}
 ]},
 "23017":{"nexusModName":"Fade's Dynamic Difficulty Scaling for Korean","nexusUploadedBy":"Eolaloe","nexusModId":23017,"paks":[
-{"nexusFileName":"Dynamic Difficulty Scaling for Korean","nexusFileVersion":"1.0.0.14","nexusFileUploadedAt":1785828189,"pakFileName":"DynamicDifficultyScaling_kr.pak","nexusFileId":127281,"metaUuid":"2b62e596-6110-4d7c-b337-7dd678d67e60"}
+{"nexusFileName":"Dynamic Difficulty Scaling for Korean","nexusFileVersion":"1.0.0.17","nexusFileUploadedAt":1787485968,"pakFileName":"DynamicDifficultyScaling_kr.pak","nexusFileId":128813,"metaUuid":"2b62e596-6110-4d7c-b337-7dd678d67e60"}
 ]},
 "23018":{"nexusModName":"Dynamic Difficulty Scaling for Chinese","nexusUploadedBy":"hanli","nexusModId":23018,"paks":[
 {"nexusFileName":"DynamicDifficultyScaling CHS","nexusFileVersion":"1.0.0.17","nexusFileUploadedAt":1787282453,"pakFileName":"DynamicDifficultyScaling_CHS.pak","nexusFileId":128595,"metaUuid":null}
@@ -64724,7 +64724,7 @@
 {"nexusFileName":"Halsinthebearmanblack","nexusFileVersion":"1.0.0.2","nexusFileUploadedAt":1779712562,"pakFileName":"HalsinTheBearManBlack_c8e931f5-a38e-0969-a592-8511332ed952.pak","nexusFileId":122107,"metaUuid":null}
 ]},
 "23032":{"nexusModName":"Fade's Dynamic Difficulty Scaling for Japanese","nexusUploadedBy":"Eolaloe","nexusModId":23032,"paks":[
-{"nexusFileName":"Dynamic Difficulty Scaling for Japanese","nexusFileVersion":"1.0.0.14","nexusFileUploadedAt":1785828216,"pakFileName":"DynamicDifficultyScaling_jp.pak","nexusFileId":127282,"metaUuid":null}
+{"nexusFileName":"Dynamic Difficulty Scaling for Japanese","nexusFileVersion":"1.0.0.17","nexusFileUploadedAt":1787486003,"pakFileName":"DynamicDifficultyScaling_jp.pak","nexusFileId":128814,"metaUuid":null}
 ]},
 "23034":{"nexusModName":"Skirbie's Cobalt Key Warrior - Progressive Equipment Set for Korean","nexusUploadedBy":"Eolaloe","nexusModId":23034,"paks":[
 {"nexusFileName":"Cobalt Key Warrior Set for Korean","nexusFileVersion":"1.0.0.6","nexusFileUploadedAt":1779589279,"pakFileName":"AQKwtraq_kr.pak","nexusFileId":122019,"metaUuid":"ab604afe-72ae-457f-8ab2-8248828b1613"}
@@ -66186,7 +66186,7 @@
 {"nexusFileName":"Marksman Classchs","nexusFileVersion":"1.2.1.0","nexusFileUploadedAt":1782643646,"pakFileName":"Marksman_Classchs.pak","nexusFileId":124461,"metaUuid":null}
 ]},
 "23601":{"nexusModName":"Petals and Decay","nexusUploadedBy":"cayssac","nexusModId":23601,"paks":[
-{"nexusFileName":"Petals and  Decay","nexusFileVersion":"6","nexusFileUploadedAt":1787435086,"pakFileName":"Petals & Decay.pak","nexusFileId":128725,"metaUuid":"e3ea6b54-3bfa-4377-907c-a4fb8c3f71ab"}
+{"nexusFileName":"Petals and  Decay","nexusFileVersion":"7","nexusFileUploadedAt":1787489352,"pakFileName":"Petals & Decay.pak","nexusFileId":128827,"metaUuid":"e3ea6b54-3bfa-4377-907c-a4fb8c3f71ab"}
 ]},
 "23602":{"nexusModName":"Dawnstars Grimoire Turkish Translation","nexusUploadedBy":"tarikagl1","nexusModId":23602,"paks":[
 {"nexusFileName":"BloodofWitches TR","nexusFileVersion":"1.00.00","nexusFileUploadedAt":1782645508,"pakFileName":"BloodofWitches TR.pak","nexusFileId":124462,"metaUuid":null}
@@ -68189,7 +68189,7 @@
 {"nexusFileName":"StuffyMcBears V1.0.0","nexusFileVersion":"1","nexusFileUploadedAt":1786566095,"pakFileName":"StuffyMcBears_v1.0.0.pak","nexusFileId":127939,"metaUuid":null}
 ]},
 "24402":{"nexusModName":"Fade's Augmentation Runes for Korean","nexusUploadedBy":"Eolaloe","nexusModId":24402,"paks":[
-{"nexusFileName":"Fade's Augmentation Runes for Korean","nexusFileVersion":"1.0.0.1","nexusFileUploadedAt":1786571102,"pakFileName":"FAR_kr.pak","nexusFileId":127942,"metaUuid":null}
+{"nexusFileName":"Fade's Augmentation Runes for Korean","nexusFileVersion":"1.0.0.3","nexusFileUploadedAt":1787486072,"pakFileName":"FAR_kr.pak","nexusFileId":128815,"metaUuid":null}
 ]},
 "24403":{"nexusModName":"Progressive Ceremorphosis","nexusUploadedBy":"ShadyEl","nexusModId":24403,"paks":[
 {"nexusFileName":"Progressive Ceremorphosis","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1786646621,"pakFileName":"SHProgressiveCeremorphosis.pak","nexusFileId":128030,"metaUuid":"a7f22756-c539-4274-a38a-e641b27da82a"}
