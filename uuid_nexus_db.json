@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-08-23T02:52:54.946922+00:00","total_mods":17341},
+{"_meta":{"last_run":"2026-08-23T03:53:03.739702+00:00","total_mods":17343},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -36071,7 +36071,7 @@
 ]},
 "12727":{"nexusModName":"DnD 5.5e All-in-One BEYOND","nexusUploadedBy":"yoonmoonsik43","nexusModId":12727,"paks":[
 {"nexusFileName":"dnd2024 - V3 Legacy","nexusFileVersion":"3.4.6.4","nexusFileUploadedAt":1771945305,"pakFileName":"DnD2024_897914ef-5c96-053c-44af-0be823f895fe.pak","nexusFileId":115523,"metaUuid":"897914ef-5c96-053c-44af-0be823f895fe"},
-{"nexusFileName":"DnD 5.5e All-in-One BEYOND","nexusFileVersion":"4.12.1.2","nexusFileUploadedAt":1787253980,"pakFileName":"DnD2024_897914ef-5c96-053c-44af-0be823f895fe.pak","nexusFileId":128567,"metaUuid":"897914ef-5c96-053c-44af-0be823f895fe"}
+{"nexusFileName":"DnD 5.5e All-in-One BEYOND","nexusFileVersion":"4.12.1.3","nexusFileUploadedAt":1787453887,"pakFileName":"DnD2024_897914ef-5c96-053c-44af-0be823f895fe.pak","nexusFileId":128763,"metaUuid":"897914ef-5c96-053c-44af-0be823f895fe"}
 ]},
 "12728":{"nexusModName":"Origin-Themed Headwear KR","nexusUploadedBy":"Soorawang","nexusModId":12728,"paks":[
 {"nexusFileName":"Origin-Themed Headwear KR","nexusFileVersion":"1.0","nexusFileUploadedAt":1727930331,"pakFileName":"OriginHeadwear_kr.pak","nexusFileId":73692,"metaUuid":null}
@@ -41564,7 +41564,7 @@
 {"nexusFileName":"CHS and CHT Localization","nexusFileVersion":"1.1.6.4","nexusFileUploadedAt":1737775537,"pakFileName":"_True5E Modifications CHLoc.pak","nexusFileId":84707,"metaUuid":null}
 ]},
 "14763":{"nexusModName":"Shovel Evolved_KOR","nexusUploadedBy":"Ahdarugo","nexusModId":14763,"paks":[
-{"nexusFileName":"Shovel Evolved_KOR","nexusFileVersion":"3.3.0.0","nexusFileUploadedAt":1781744874,"pakFileName":"ShovelEvolved_KOR_134981df-8365-e9be-c1a8-740496ed4856.pak","nexusFileId":123799,"metaUuid":"134981df-8365-e9be-c1a8-740496ed4856"}
+{"nexusFileName":"Shovel Evolved_KOR","nexusFileVersion":"4.0.0.0","nexusFileUploadedAt":1787455835,"pakFileName":"ShovelEvolved_KOR_134981df-8365-e9be-c1a8-740496ed4856.pak","nexusFileId":128768,"metaUuid":"134981df-8365-e9be-c1a8-740496ed4856"}
 ]},
 "14765":{"nexusModName":"SCO - Toolkit","nexusUploadedBy":"Crosscrusade","nexusModId":14765,"paks":[
 {"nexusFileName":"SCO - Toolkit Version","nexusFileVersion":"3.0.4.169","nexusFileUploadedAt":1740374565,"pakFileName":"SCO_06d09f8a-64da-3b81-a735-78f44ecef0e0.pak","nexusFileId":86247,"metaUuid":"06d09f8a-64da-3b81-a735-78f44ecef0e0"}
@@ -50906,7 +50906,7 @@
 {"nexusFileName":"Shadowheart Portrait Color Fix","nexusFileVersion":"1.0","nexusFileUploadedAt":1755779203,"pakFileName":"SPCF.pak","nexusFileId":101147,"metaUuid":"068e529d-6cdc-4209-a78c-d32bdd7ae4d2"}
 ]},
 "18267":{"nexusModName":"Scratch Evolved_KOR","nexusUploadedBy":"Ahdarugo","nexusModId":18267,"paks":[
-{"nexusFileName":"Scratch Evolved_KOR","nexusFileVersion":"2.0.0.0","nexusFileUploadedAt":1784681829,"pakFileName":"ScratchEvolved_KOR_5f553173-05da-27fc-6e59-82a24366e919.pak","nexusFileId":126188,"metaUuid":"5f553173-05da-27fc-6e59-82a24366e919"}
+{"nexusFileName":"Scratch Evolved_KOR","nexusFileVersion":"3.0.0.0","nexusFileUploadedAt":1787455798,"pakFileName":"ScratchEvolved_KOR_5f553173-05da-27fc-6e59-82a24366e919.pak","nexusFileId":128767,"metaUuid":"5f553173-05da-27fc-6e59-82a24366e919"}
 ]},
 "18268":{"nexusModName":"Mantle of Blood - A Bhaal-Themed Cloak","nexusUploadedBy":"RevolutionScribe","nexusModId":18268,"paks":[
 {"nexusFileName":"Mantle of Blood - Tutorial Chest Addon","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1755787111,"pakFileName":"Mantle_of_Blood-Tutorial_Chest_Addon.pak","nexusFileId":101152,"metaUuid":"27a5a1a8-611d-40fd-a257-2d8084266ed1"},
@@ -60118,7 +60118,7 @@
 ]},
 "21344":{"nexusModName":"Prismortalis - A Dark-Fantasy Spellblade","nexusUploadedBy":"nvlliel","nexusModId":21344,"paks":[
 {"nexusFileName":"Prismortalis - Feats Every Two Levels","nexusFileVersion":"1.0.0.1","nexusFileUploadedAt":1784578982,"pakFileName":"PrismortalisFeatsEvery2Levels_a230221a-2a95-a352-bedb-d13b30a5e412.pak","nexusFileId":126094,"metaUuid":null},
-{"nexusFileName":"Prismortalis - A Dark-Fantasy Spellblade","nexusFileVersion":"5.5.4.5","nexusFileUploadedAt":1786578982,"pakFileName":"Prismortalis_5a28cde7-cff0-e977-dc6d-17244faeaa8c.pak","nexusFileId":127946,"metaUuid":"5a28cde7-cff0-e977-dc6d-17244faeaa8c"}
+{"nexusFileName":"Prismortalis - A Dark-Fantasy Spellblade","nexusFileVersion":"5.5.5","nexusFileUploadedAt":1787455878,"pakFileName":"Prismortalis_5a28cde7-cff0-e977-dc6d-17244faeaa8c.pak","nexusFileId":128769,"metaUuid":"5a28cde7-cff0-e977-dc6d-17244faeaa8c"}
 ]},
 "21345":{"nexusModName":"Marksman - A Gunslinger class for Korean","nexusUploadedBy":"Eolaloe","nexusModId":21345,"paks":[
 {"nexusFileName":"Marksman - A Gunslinger class for Korean","nexusFileVersion":"1.2.1.0","nexusFileUploadedAt":1782326055,"pakFileName":"Marksman_Class_kr.pak","nexusFileId":124220,"metaUuid":null}
@@ -61340,7 +61340,7 @@
 {"nexusFileName":"Book of Rogues - 5e Rogue Subclasses_KOR","nexusFileVersion":"1.0.0.2","nexusFileUploadedAt":1773234628,"pakFileName":"BookofRogues-5eRogueSubclasses_KOR_8a694ba1-4c8c-2d5e-f09c-a973c50539b3.pak","nexusFileId":116531,"metaUuid":null}
 ]},
 "21748":{"nexusModName":"Pooldripp Evolved_KOR","nexusUploadedBy":"Ahdarugo","nexusModId":21748,"paks":[
-{"nexusFileName":"Pooldripp Evolved_KOR","nexusFileVersion":"1.1.0.0.","nexusFileUploadedAt":1779767764,"pakFileName":"PooldrippEvolved_KOR_0395e3be-2f75-cb24-c4c5-1030f1c82715.pak","nexusFileId":122164,"metaUuid":null}
+{"nexusFileName":"Pooldripp Evolved_KOR","nexusFileVersion":"2.0.0.0","nexusFileUploadedAt":1787455716,"pakFileName":"PooldrippEvolved_KOR_0395e3be-2f75-cb24-c4c5-1030f1c82715.pak","nexusFileId":128765,"metaUuid":null}
 ]},
 "21749":{"nexusModName":"DOS2 Sebille's Armor","nexusUploadedBy":"Chunyou2039","nexusModId":21749,"paks":[
 {"nexusFileName":"DOS2 Sebille's Armor by Chunyou_","nexusFileVersion":"1.0.0.9","nexusFileUploadedAt":1772765217,"pakFileName":"Sebille_beef707b-6dc8-d6ae-088f-47af12f6abfd.pak","nexusFileId":116146,"metaUuid":"beef707b-6dc8-d6ae-088f-47af12f6abfd"}
@@ -62873,7 +62873,7 @@
 {"nexusFileName":"SazzaEvolved","nexusFileVersion":"2.0.0.0","nexusFileUploadedAt":1787403418,"pakFileName":"SazzaEvolved_67933c1b-4a1c-8c30-74c7-03638ceb5d65.pak","nexusFileId":128688,"metaUuid":"67933c1b-4a1c-8c30-74c7-03638ceb5d65"}
 ]},
 "22288":{"nexusModName":"Sazza Evolved_KOR","nexusUploadedBy":"Ahdarugo","nexusModId":22288,"paks":[
-{"nexusFileName":"Sazza Evolved_KOR","nexusFileVersion":"1.0.0.5","nexusFileUploadedAt":1786349969,"pakFileName":"SazzaEvolved_KOR_ae4bbd65-4e5e-fde5-e21b-1a38b60c1df2.pak","nexusFileId":127750,"metaUuid":null}
+{"nexusFileName":"Sazza Evolved_KOR","nexusFileVersion":"2.0.0.0","nexusFileUploadedAt":1787455765,"pakFileName":"SazzaEvolved_KOR_ae4bbd65-4e5e-fde5-e21b-1a38b60c1df2.pak","nexusFileId":128766,"metaUuid":null}
 ]},
 "22289":{"nexusModName":"Safe Travel - Add New Levels to Vanilla","nexusUploadedBy":"ForKiramay","nexusModId":22289,"paks":[
 {"nexusFileName":"SafeTravel","nexusFileVersion":"1.0.0.1","nexusFileUploadedAt":1775319128,"pakFileName":"SafeTravel_599b7ee9-2785-8e63-5aa0-9574aa8cb82a.pak","nexusFileId":118119,"metaUuid":"599b7ee9-2785-8e63-5aa0-9574aa8cb82a"}
@@ -68706,7 +68706,7 @@
 {"nexusFileName":"DAO DesireDemon RefitSBBF","nexusFileVersion":"1","nexusFileUploadedAt":1787415501,"pakFileName":"DAO_DesireDemon_Robes_RefitSBBF.pak","nexusFileId":128704,"metaUuid":null}
 ]},
 "24485":{"nexusModName":"Brocade Be Gone - Customize Tav's Epilogue Wardrobe","nexusUploadedBy":"Seristina","nexusModId":24485,"paks":[
-{"nexusFileName":"EpilogueWardrobe","nexusFileVersion":"1","nexusFileUploadedAt":1787086011,"pakFileName":"EpilogueWardrobe.pak","nexusFileId":128417,"metaUuid":"546e2002-b5d9-46b7-9807-15108ec6715c"}
+{"nexusFileName":"EpilogueWardrobe","nexusFileVersion":"2","nexusFileUploadedAt":1787453486,"pakFileName":"EpilogueWardrobe2.pak","nexusFileId":128762,"metaUuid":null}
 ]},
 "24486":{"nexusModName":"Perilous Stakes Revert","nexusUploadedBy":"qhrals8","nexusModId":24486,"paks":[
 {"nexusFileName":"PerilousStakes","nexusFileVersion":"1","nexusFileUploadedAt":1787014782,"pakFileName":"PerilousStakes.pak","nexusFileId":128333,"metaUuid":"c1fee49f-da6b-7839-d4e3-2cfbd6de4a45"}
@@ -68926,4 +68926,10 @@
 "24578":{"nexusModName":"Devil May cry 5 (DMC5) Nero Devil Breakers","nexusUploadedBy":"KraytClaw","nexusModId":24578,"paks":[
 {"nexusFileName":" NeroBreakers","nexusFileVersion":"1.0","nexusFileUploadedAt":1787445482,"pakFileName":"_NeroBreakers.pak","nexusFileId":128739,"metaUuid":null},
 {"nexusFileName":"NeroBreakers NoProgression","nexusFileVersion":"1.0","nexusFileUploadedAt":1787445548,"pakFileName":"_NeroBreakers_NoProgression.pak","nexusFileId":128740,"metaUuid":null}
+]},
+"24581":{"nexusModName":"SummerBeach_Core","nexusUploadedBy":"EvilRecluse","nexusModId":24581,"paks":[
+{"nexusFileName":"SummerBeach Core","nexusFileVersion":"1","nexusFileUploadedAt":1787456932,"pakFileName":"SummerBeach_Core.pak","nexusFileId":128770,"metaUuid":null}
+]},
+"24582":{"nexusModName":"Elden Ring Talismans","nexusUploadedBy":"Prednoxx","nexusModId":24582,"paks":[
+{"nexusFileName":"Elden Ring Talismans","nexusFileVersion":"1.1.1.2","nexusFileUploadedAt":1787454310,"pakFileName":"EldenRingTalismans_bb7c2e36-ca1d-4770-8923-9257a8bdf5e2.pak","nexusFileId":128764,"metaUuid":null}
 ]}}
