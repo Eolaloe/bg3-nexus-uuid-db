@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-08-23T13:53:41.330584+00:00","total_mods":17355},
+{"_meta":{"last_run":"2026-08-23T14:53:32.420366+00:00","total_mods":17356},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -43266,6 +43266,9 @@
 "15445":{"nexusModName":"The Dark Urge Slayer","nexusUploadedBy":"supernovasupremacy","nexusModId":15445,"paks":[
 {"nexusFileName":"The Dark Urge Slayer   Player and Cutscenes Only","nexusFileVersion":"1.1","nexusFileUploadedAt":1742731220,"pakFileName":"The Dark Urge Slayer.pak","nexusFileId":87757,"metaUuid":"3758ba45-db1a-3600-e44d-b5e060750376"}
 ]},
+"15446":{"nexusModName":"Novold's Minor Changes","nexusUploadedBy":"Novold0","nexusModId":15446,"paks":[
+{"nexusFileName":"Novold's Minor Changes","nexusFileVersion":"0.6","nexusFileUploadedAt":1787493683,"pakFileName":"Novold's Minor Changes.pak","nexusFileId":128837,"metaUuid":null}
+]},
 "15447":{"nexusModName":"Valeera Daggers","nexusUploadedBy":"haytur","nexusModId":15447,"paks":[
 {"nexusFileName":"Fel Daggers","nexusFileVersion":"1.3","nexusFileUploadedAt":1786422568,"pakFileName":"Fel_Blade3.pak","nexusFileId":127817,"metaUuid":"948507ad-d196-561d-4352-519b2ebdb203"}
 ]},
@@ -66723,7 +66726,7 @@
 {"nexusFileName":"DefensiveDuelistReactionFix","nexusFileVersion":"0.1.1.0","nexusFileUploadedAt":1783924194,"pakFileName":"DefensiveDuelistReactionFix.pak","nexusFileId":125522,"metaUuid":"e79fb484-8cab-408b-bdcc-e0effcbca8e7"}
 ]},
 "23815":{"nexusModName":"Dual Wielding Begone (Toggled)","nexusUploadedBy":"Cainhurtz","nexusModId":23815,"paks":[
-{"nexusFileName":"Dual Wielding Begone (Toggled)","nexusFileVersion":"8","nexusFileUploadedAt":1787443586,"pakFileName":"Fluck_Dual_Wielding.pak","nexusFileId":128736,"metaUuid":"3ab0115d-dbd6-4174-ba74-127260d87e9c"}
+{"nexusFileName":"Dual Wielding Begone (Toggled)","nexusFileVersion":"9","nexusFileUploadedAt":1787495933,"pakFileName":"Fluck_Dual_Wielding.pak","nexusFileId":128838,"metaUuid":"3ab0115d-dbd6-4174-ba74-127260d87e9c"}
 ]},
 "23816":{"nexusModName":"Vox Machina (Pikes Holy Shield and Mace)","nexusUploadedBy":"haytur","nexusModId":23816,"paks":[
 {"nexusFileName":"VoxHoly","nexusFileVersion":"1.0R","nexusFileUploadedAt":1783746193,"pakFileName":"VoxHoly.pak","nexusFileId":125391,"metaUuid":"e840b1ce-2dc5-cd93-7f2f-1c4724b5c176"}
@@ -66765,7 +66768,7 @@
 {"nexusFileName":"Shared Bags for Your Party","nexusFileVersion":"1.0.7.0","nexusFileUploadedAt":1786293946,"pakFileName":"SharedBags.pak","nexusFileId":127708,"metaUuid":"b68a904f-fb57-4a64-a4bb-1e7cf264862f"}
 ]},
 "23823":{"nexusModName":"Shields Begone (Toggled)","nexusUploadedBy":"Cainhurtz","nexusModId":23823,"paks":[
-{"nexusFileName":"Shields Begone (Toggled)","nexusFileVersion":"9","nexusFileUploadedAt":1787450780,"pakFileName":"Fluck_Shields.pak","nexusFileId":128743,"metaUuid":"69615e25-b334-5f90-9732-f21dd2ea7f34"}
+{"nexusFileName":"Shields Begone (Toggled)","nexusFileVersion":"10","nexusFileUploadedAt":1787495971,"pakFileName":"Fluck_Shields.pak","nexusFileId":128839,"metaUuid":"69615e25-b334-5f90-9732-f21dd2ea7f34"}
 ]},
 "23824":{"nexusModName":"Shadow from Grenpoli - bt2 outfit","nexusUploadedBy":"Mojra414","nexusModId":23824,"paks":[
 {"nexusFileName":"SFG v1.2","nexusFileVersion":"2","nexusFileUploadedAt":1784187825,"pakFileName":"SFG_f7e86c39-1195-d5e0-ab5b-4b6d7118fac1.pak","nexusFileId":125768,"metaUuid":"f7e86c39-1195-d5e0-ab5b-4b6d7118fac1"}
@@ -68735,7 +68738,7 @@
 {"nexusFileName":"GontrMael","nexusFileVersion":"1","nexusFileUploadedAt":1787066235,"pakFileName":"GontrMael.pak","nexusFileId":128361,"metaUuid":null}
 ]},
 "24498":{"nexusModName":"Nightsilk Brocade Outfit","nexusUploadedBy":"ObsessedWhyYes","nexusModId":24498,"paks":[
-{"nexusFileName":"OWY Nightsilk Brocade","nexusFileVersion":"1","nexusFileUploadedAt":1787069975,"pakFileName":"OWYDoesOutfits_NightSilkBrocade_69be4462-cdea-be96-a824-99d4ecf70fd5.pak","nexusFileId":128367,"metaUuid":"69be4462-cdea-be96-a824-99d4ecf70fd5"}
+{"nexusFileName":"OWY Nightsilk Brocade","nexusFileVersion":"2","nexusFileUploadedAt":1787496062,"pakFileName":"OWYDoesOutfits_NightSilkBrocade_69be4462-cdea-be96-a824-99d4ecf70fd5.pak","nexusFileId":128840,"metaUuid":"69be4462-cdea-be96-a824-99d4ecf70fd5"}
 ]},
 "24499":{"nexusModName":"Shadow Blade On Weapon CHS","nexusUploadedBy":"158534276","nexusModId":24499,"paks":[
 {"nexusFileName":"UMI ShadowBlade Change","nexusFileVersion":"2","nexusFileUploadedAt":1787107210,"pakFileName":"UMI_ShadowBlade_Change.pak","nexusFileId":128433,"metaUuid":"98fa2fc5-15da-7f66-b629-7c851acc4a9f"}
