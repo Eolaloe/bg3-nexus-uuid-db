@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-08-23T04:52:52.590337+00:00","total_mods":17345},
+{"_meta":{"last_run":"2026-08-23T05:52:34.943366+00:00","total_mods":17346},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -39049,8 +39049,8 @@
 {"nexusFileName":"BG3SX AnimAddon","nexusFileVersion":"2.0.2","nexusFileUploadedAt":1767013430,"pakFileName":"BG3SX AnimAddon.pak","nexusFileId":110603,"metaUuid":"6db3c660-a33d-49ee-aaaa-a16c18e75f3e"}
 ]},
 "13824":{"nexusModName":"Fade's Equipment Distribution (FED)","nexusUploadedBy":"GraphicFade","nexusModId":13824,"paks":[
-{"nexusFileName":"Fade's Equipment Distribution - FED - SE","nexusFileVersion":"1.0.0.23","nexusFileUploadedAt":1746994334,"pakFileName":"FED_SE.pak","nexusFileId":92590,"metaUuid":"3baef2b9-80d3-777b-a256-394f7f7be0d8"},
-{"nexusFileName":"Fade's Equipment Distribution - FED","nexusFileVersion":"1.0.0.25","nexusFileUploadedAt":1756770092,"pakFileName":"FED_3baef2b9-80d3-777b-a256-394f7f7be0d8.pak","nexusFileId":101898,"metaUuid":"3baef2b9-80d3-777b-a256-394f7f7be0d8"}
+{"nexusFileName":"Fade's Equipment Distribution - FED","nexusFileVersion":"1.0.0.25","nexusFileUploadedAt":1756770092,"pakFileName":"FED_3baef2b9-80d3-777b-a256-394f7f7be0d8.pak","nexusFileId":101898,"metaUuid":"3baef2b9-80d3-777b-a256-394f7f7be0d8"},
+{"nexusFileName":"Fade's Equipment Distribution - FED - Osi","nexusFileVersion":"1.0.0.25","nexusFileUploadedAt":1787460795,"pakFileName":"FED_Osiris.pak","nexusFileId":128776,"metaUuid":null}
 ]},
 "13825":{"nexusModName":"Tweaks to Eldritch Invocations and new Homebrew invocations for Warlocks","nexusUploadedBy":"dmarquez","nexusModId":13825,"paks":[
 {"nexusFileName":"Shadowflight Invocation","nexusFileVersion":"1.0","nexusFileUploadedAt":1731710772,"pakFileName":"ShadowflightInvocation.pak","nexusFileId":79049,"metaUuid":"d868e9f9-9404-413b-9bc9-e677cd5d5fea"},
@@ -68926,6 +68926,9 @@
 "24578":{"nexusModName":"Devil May cry 5 (DMC5) Nero Devil Breakers","nexusUploadedBy":"KraytClaw","nexusModId":24578,"paks":[
 {"nexusFileName":" NeroBreakers","nexusFileVersion":"1.0","nexusFileUploadedAt":1787445482,"pakFileName":"_NeroBreakers.pak","nexusFileId":128739,"metaUuid":null},
 {"nexusFileName":"NeroBreakers NoProgression","nexusFileVersion":"1.0","nexusFileUploadedAt":1787445548,"pakFileName":"_NeroBreakers_NoProgression.pak","nexusFileId":128740,"metaUuid":null}
+]},
+"24580":{"nexusModName":"Lowclass Degenerate - Rogue Subclass","nexusUploadedBy":"mashnear","nexusModId":24580,"paks":[
+{"nexusFileName":"LowclassDegenerate V2N","nexusFileVersion":"1","nexusFileUploadedAt":1787462162,"pakFileName":"LowclassDegenerate_V2N.pak","nexusFileId":128777,"metaUuid":null}
 ]},
 "24581":{"nexusModName":"SummerBeach_Core","nexusUploadedBy":"EvilRecluse","nexusModId":24581,"paks":[
 {"nexusFileName":"SummerBeach Core","nexusFileVersion":"1","nexusFileUploadedAt":1787456932,"pakFileName":"SummerBeach_Core.pak","nexusFileId":128770,"metaUuid":null}
