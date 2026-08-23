@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-08-22T23:52:18.921323+00:00","total_mods":17342},
+{"_meta":{"last_run":"2026-08-23T00:52:18.611726+00:00","total_mods":17341},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -52853,7 +52853,8 @@
 {"nexusFileName":"Big Spoon x Little Spoon Pose Pack","nexusFileVersion":"1.0","nexusFileUploadedAt":1759435035,"pakFileName":"GG_PartnerPoses_MxMS_b6ca166e-6a9f-e564-f5c1-49edf1f0929b.pak","nexusFileId":104174,"metaUuid":"b6ca166e-6a9f-e564-f5c1-49edf1f0929b"}
 ]},
 "18958":{"nexusModName":"Always on Display Hotbar Icons Detail (AODHID) for Vanilla","nexusUploadedBy":"Eolaloe","nexusModId":18958,"paks":[
-{"nexusFileName":"1. Vanilla_Ver.a","nexusFileVersion":"2.0.1.0","nexusFileUploadedAt":1772989403,"pakFileName":"AOD_Hotbar_Icons_Detail_VA_A_6b8681de-5c01-7653-b160-3bc9224374e2.pak","nexusFileId":116328,"metaUuid":"6b8681de-5c01-7653-b160-3bc9224374e2"}
+{"nexusFileName":"1. Vanilla_Ver.a","nexusFileVersion":"2.0.1.0","nexusFileUploadedAt":1772989403,"pakFileName":"AOD_Hotbar_Icons_Detail_VA_A_6b8681de-5c01-7653-b160-3bc9224374e2.pak","nexusFileId":116328,"metaUuid":"6b8681de-5c01-7653-b160-3bc9224374e2"},
+{"nexusFileName":"2. Vanilla_Ver.b","nexusFileVersion":"2.0.1.0","nexusFileUploadedAt":1772989482,"pakFileName":"AOD_Hotbar_Icons_Detail_VA_B_08b86cf8-81af-28c4-4f3d-6501f6a63d2f.pak","nexusFileId":116329,"metaUuid":null}
 ]},
 "18960":{"nexusModName":"Forged Thorn","nexusUploadedBy":"haytur","nexusModId":18960,"paks":[
 {"nexusFileName":"ForgedThorn","nexusFileVersion":"1.0R","nexusFileUploadedAt":1759450387,"pakFileName":"ForgeThorn.pak","nexusFileId":104182,"metaUuid":"8564afa9-961d-654a-b35e-87f8a7b8b5dc"}
@@ -64255,7 +64256,8 @@
 ]},
 "22808":{"nexusModName":"Devil May Cry 5 (DMC5) Nero Clothes","nexusUploadedBy":"KraytClaw","nexusModId":22808,"paks":[
 {"nexusFileName":"NeroClothes","nexusFileVersion":"1.1","nexusFileUploadedAt":1781518391,"pakFileName":"_NeroClothes.pak","nexusFileId":123652,"metaUuid":"97f9ee5d-9bc1-4ed9-b30c-f07150a1eff2"},
-{"nexusFileName":"NeroClothesDyable","nexusFileVersion":"1.1","nexusFileUploadedAt":1786116395,"pakFileName":"_NeroClothesDyable.pak","nexusFileId":127510,"metaUuid":"47ab3844-1c50-4664-9c5f-668eb91ff25b"}
+{"nexusFileName":"NeroClothesDyable","nexusFileVersion":"1.1","nexusFileUploadedAt":1786116395,"pakFileName":"_NeroClothesDyable.pak","nexusFileId":127510,"metaUuid":"47ab3844-1c50-4664-9c5f-668eb91ff25b"},
+{"nexusFileName":" NeroClothes BreakersMSFix","nexusFileVersion":"1.0","nexusFileUploadedAt":1787445660,"pakFileName":"_NeroClothes_BreakersMSFix.pak","nexusFileId":128741,"metaUuid":null}
 ]},
 "22809":{"nexusModName":"Instrument Poses - Singing and Piano (Bard Poses Part 5)","nexusUploadedBy":"HastursQueen","nexusModId":22809,"paks":[
 {"nexusFileName":"SingingAndPianoPoses","nexusFileVersion":"1","nexusFileUploadedAt":1779730658,"pakFileName":"SingingAndPianoPoses.pak","nexusFileId":122123,"metaUuid":"96d210a9-6488-ea09-77f3-686a58b7d5db"}
@@ -66721,7 +66723,7 @@
 {"nexusFileName":"DefensiveDuelistReactionFix","nexusFileVersion":"0.1.1.0","nexusFileUploadedAt":1783924194,"pakFileName":"DefensiveDuelistReactionFix.pak","nexusFileId":125522,"metaUuid":"e79fb484-8cab-408b-bdcc-e0effcbca8e7"}
 ]},
 "23815":{"nexusModName":"Dual Wielding Begone (Toggled)","nexusUploadedBy":"Cainhurtz","nexusModId":23815,"paks":[
-{"nexusFileName":"Dual Wielding Begone (Toggled)","nexusFileVersion":"7","nexusFileUploadedAt":1786897731,"pakFileName":"Fluck_Dual_Wielding.pak","nexusFileId":128229,"metaUuid":"3ab0115d-dbd6-4174-ba74-127260d87e9c"}
+{"nexusFileName":"Dual Wielding Begone (Toggled)","nexusFileVersion":"8","nexusFileUploadedAt":1787443586,"pakFileName":"Fluck_Dual_Wielding.pak","nexusFileId":128736,"metaUuid":"3ab0115d-dbd6-4174-ba74-127260d87e9c"}
 ]},
 "23816":{"nexusModName":"Vox Machina (Pikes Holy Shield and Mace)","nexusUploadedBy":"haytur","nexusModId":23816,"paks":[
 {"nexusFileName":"VoxHoly","nexusFileVersion":"1.0R","nexusFileUploadedAt":1783746193,"pakFileName":"VoxHoly.pak","nexusFileId":125391,"metaUuid":"e840b1ce-2dc5-cd93-7f2f-1c4724b5c176"}
@@ -66763,7 +66765,7 @@
 {"nexusFileName":"Shared Bags for Your Party","nexusFileVersion":"1.0.7.0","nexusFileUploadedAt":1786293946,"pakFileName":"SharedBags.pak","nexusFileId":127708,"metaUuid":"b68a904f-fb57-4a64-a4bb-1e7cf264862f"}
 ]},
 "23823":{"nexusModName":"Shields Begone (Toggled)","nexusUploadedBy":"Cainhurtz","nexusModId":23823,"paks":[
-{"nexusFileName":"Shields Begone (Toggled)","nexusFileVersion":"7","nexusFileUploadedAt":1786897684,"pakFileName":"Fluck_Shields.pak","nexusFileId":128228,"metaUuid":"69615e25-b334-5f90-9732-f21dd2ea7f34"}
+{"nexusFileName":"Shields Begone (Toggled)","nexusFileVersion":"8","nexusFileUploadedAt":1787443525,"pakFileName":"Fluck_Shields.pak","nexusFileId":128735,"metaUuid":"69615e25-b334-5f90-9732-f21dd2ea7f34"}
 ]},
 "23824":{"nexusModName":"Shadow from Grenpoli - bt2 outfit","nexusUploadedBy":"Mojra414","nexusModId":23824,"paks":[
 {"nexusFileName":"SFG v1.2","nexusFileVersion":"2","nexusFileUploadedAt":1784187825,"pakFileName":"SFG_f7e86c39-1195-d5e0-ab5b-4b6d7118fac1.pak","nexusFileId":125768,"metaUuid":"f7e86c39-1195-d5e0-ab5b-4b6d7118fac1"}
@@ -68920,4 +68922,8 @@
 ]},
 "24576":{"nexusModName":"Goon's Spell Overhaul CHS","nexusUploadedBy":"mzldyt","nexusModId":24576,"paks":[
 {"nexusFileName":"Goon'S Spell Overhaul CHS","nexusFileVersion":"1","nexusFileUploadedAt":1787421859,"pakFileName":"Goon's Spell Overhaul CHS.pak","nexusFileId":128710,"metaUuid":null}
+]},
+"24578":{"nexusModName":"Devil May cry 5 (DMC5) Nero Devil Breakers","nexusUploadedBy":"KraytClaw","nexusModId":24578,"paks":[
+{"nexusFileName":" NeroBreakers","nexusFileVersion":"1.0","nexusFileUploadedAt":1787445482,"pakFileName":"_NeroBreakers.pak","nexusFileId":128739,"metaUuid":null},
+{"nexusFileName":"NeroBreakers NoProgression","nexusFileVersion":"1.0","nexusFileUploadedAt":1787445548,"pakFileName":"_NeroBreakers_NoProgression.pak","nexusFileId":128740,"metaUuid":null}
 ]}}
