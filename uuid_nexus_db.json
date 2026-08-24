@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-08-24T19:52:21.246491+00:00","total_mods":17367},
+{"_meta":{"last_run":"2026-08-24T20:52:15.906013+00:00","total_mods":17368},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -45573,9 +45573,9 @@
 {"nexusFileName":"Clawstep - UTAV patch - PAK","nexusFileVersion":"1.0.0.1","nexusFileUploadedAt":1756983782,"pakFileName":"Clawstep - UTAV patch - PAK.pak","nexusFileId":102046,"metaUuid":"0895bf8e-4c9a-4ebc-b983-f551d10d6ba2"},
 {"nexusFileName":"Clawstep - Dragonborn body - Digitigrade legs","nexusFileVersion":"1.0.0.41","nexusFileUploadedAt":1761535981,"pakFileName":"DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a.pak","nexusFileId":106089,"metaUuid":"533a435e-8c13-bc21-7cfc-48c3a322e29a"},
 {"nexusFileName":"Clawstep Lazy Armor Patch","nexusFileVersion":"1.0.0.10","nexusFileUploadedAt":1785364564,"pakFileName":"ZZZ_Lazy_Armor_Patcher_c072eaf2-13e1-abb3-10e2-3b58483eb770.pak","nexusFileId":126789,"metaUuid":"c072eaf2-13e1-abb3-10e2-3b58483eb770"},
-{"nexusFileName":"Clawstep Lazy Armor Patch - Akm - Breast","nexusFileVersion":"1.0.0.3","nexusFileUploadedAt":1785369181,"pakFileName":"ZZZ_Lazy_Armor_Patcher_Akm_BRST_976f7aa0-562d-54cb-4d33-8117f5593ad9.pak","nexusFileId":126796,"metaUuid":"976f7aa0-562d-54cb-4d33-8117f5593ad9"},
 {"nexusFileName":"Clawstep Lazy Armor Patch - Breast","nexusFileVersion":"1.0.0.5","nexusFileUploadedAt":1785369958,"pakFileName":"ZZZ_Lazy_Armor_Patcher_BRST_a913a8a0-ce9c-2f8f-af29-e1ba302de852.pak","nexusFileId":126798,"metaUuid":"a913a8a0-ce9c-2f8f-af29-e1ba302de852"},
-{"nexusFileName":"Clawstep Lazy Armor Patch - Akm","nexusFileVersion":"1.0.0.4","nexusFileUploadedAt":1787599830,"pakFileName":"ZZZ_Lazy_Armor_Patcher_Akm_6fe607d6-0989-995e-d952-98927df6b931.pak","nexusFileId":128943,"metaUuid":"6fe607d6-0989-995e-d952-98927df6b931"}
+{"nexusFileName":"Clawstep Lazy Armor Patch - Akm","nexusFileVersion":"1.0.0.4","nexusFileUploadedAt":1787599830,"pakFileName":"ZZZ_Lazy_Armor_Patcher_Akm_6fe607d6-0989-995e-d952-98927df6b931.pak","nexusFileId":128943,"metaUuid":"6fe607d6-0989-995e-d952-98927df6b931"},
+{"nexusFileName":"Clawstep Lazy Armor Patch - Akm - Breast","nexusFileVersion":"1.0.0.4","nexusFileUploadedAt":1787601585,"pakFileName":"ZZZ_Lazy_Armor_Patcher_Akm_BRST_976f7aa0-562d-54cb-4d33-8117f5593ad9.pak","nexusFileId":128947,"metaUuid":"976f7aa0-562d-54cb-4d33-8117f5593ad9"}
 ]},
 "16385":{"nexusModName":"Character Tag Ring CHS","nexusUploadedBy":"LaundryDragonmaidOfficial","nexusModId":16385,"paks":[
 {"nexusFileName":"character_tag_ringCHS","nexusFileVersion":"1.0.2.0","nexusFileUploadedAt":1749723942,"pakFileName":"character_tag_ringCHS.pak","nexusFileId":95689,"metaUuid":null}
@@ -60947,8 +60947,8 @@
 {"nexusFileName":"Sandi's Races and Personalities","nexusFileVersion":"1","nexusFileUploadedAt":1771859868,"pakFileName":"Sandis Races and Personalities.pak","nexusFileId":115464,"metaUuid":"bb30c457-3fe2-489b-b7bc-091adc284d64"}
 ]},
 "21616":{"nexusModName":"DRS Remover","nexusUploadedBy":"Sandiford","nexusModId":21616,"paks":[
-{"nexusFileName":"DRS Remover - Standalone","nexusFileVersion":"1.1","nexusFileUploadedAt":1787451625,"pakFileName":"drsremover_standalone_b0f89b5d-9wxm.pak","nexusFileId":128744,"metaUuid":"b0f89b5d-c267-29c5-41ad-a8c176ef81b3"},
-{"nexusFileName":"DRS Remover - for Item and Spell Bug Fixes","nexusFileVersion":"1.1","nexusFileUploadedAt":1787451666,"pakFileName":"drsremover_itemandspellbugfixe-h2wq.pak","nexusFileId":128745,"metaUuid":"76c39ae8-4049-bc68-5cf1-7dbd06a32fa9"}
+{"nexusFileName":"DRS Remover - for Item and Spell Bug Fixes","nexusFileVersion":"1.1","nexusFileUploadedAt":1787601192,"pakFileName":"drsremover_itemandspellbugfixe-188v.pak","nexusFileId":128945,"metaUuid":null},
+{"nexusFileName":"DRS Remover - Standalone","nexusFileVersion":"1.1","nexusFileUploadedAt":1787601209,"pakFileName":"drsremover_standalone_b0f89b5d-2icz.pak","nexusFileId":128946,"metaUuid":null}
 ]},
 "21617":{"nexusModName":"Model Mischief","nexusUploadedBy":"Utrennyaya","nexusModId":21617,"paks":[
 {"nexusFileName":"Model Mischief","nexusFileVersion":"1.0.0.2","nexusFileUploadedAt":1771864622,"pakFileName":"ModelMischief_58a3b84b-117e-8b71-3125-fa4e997ee42e.pak","nexusFileId":115467,"metaUuid":"58a3b84b-117e-8b71-3125-fa4e997ee42e"}
@@ -61456,7 +61456,7 @@
 ]},
 "21783":{"nexusModName":"Arch Traitor's Armor - Warhammer 40k Fan Work","nexusUploadedBy":"AeehyehssReeper","nexusModId":21783,"paks":[
 {"nexusFileName":"Dyeable Arch Traitor's Armor","nexusFileVersion":"1","nexusFileUploadedAt":1783952613,"pakFileName":"DyeableValcoran_40c6fc4d-0165-b5ea-423f-a7c1761121e3.pak","nexusFileId":125546,"metaUuid":null},
-{"nexusFileName":"Arch Traitor's Armor","nexusFileVersion":"2.0.0","nexusFileUploadedAt":1787492602,"pakFileName":"Valcoran_e179057a-cc1b-cc32-7f26-067d2a31174e.pak","nexusFileId":128833,"metaUuid":"e179057a-cc1b-cc32-7f26-067d2a31174e"}
+{"nexusFileName":"Arch Traitor's Armor","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1787603386,"pakFileName":"Valcoran_e179057a-cc1b-cc32-7f26-067d2a31174e.pak","nexusFileId":128949,"metaUuid":"e179057a-cc1b-cc32-7f26-067d2a31174e"}
 ]},
 "21785":{"nexusModName":"The Viltrumite Race","nexusUploadedBy":"ukmerked","nexusModId":21785,"paks":[
 {"nexusFileName":"The Viltrumite Race - Faces of Faerun Patch","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1772925636,"pakFileName":"The Viltrumite Race - Faces of Faerun Patch.pak","nexusFileId":116291,"metaUuid":null},
@@ -69013,4 +69013,7 @@
 ]},
 "24614":{"nexusModName":"Sensible Mod Info","nexusUploadedBy":"Nzx","nexusModId":24614,"paks":[
 {"nexusFileName":"Sensible Mod Info","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1787593763,"pakFileName":"Sensible Mod Info.pak","nexusFileId":128940,"metaUuid":null}
+]},
+"24619":{"nexusModName":"Solasta Rogue Subclasses","nexusUploadedBy":"oaklei","nexusModId":24619,"paks":[
+{"nexusFileName":"Rogue Subclasses Solasta","nexusFileVersion":"1","nexusFileUploadedAt":1787603981,"pakFileName":"Solasta_subclasses_03a3acbb-bc56-f2cf-1e37-d91af75cb933.pak","nexusFileId":128950,"metaUuid":null}
 ]}}
