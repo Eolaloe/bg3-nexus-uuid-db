@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-08-24T02:52:28.066709+00:00","total_mods":17366},
+{"_meta":{"last_run":"2026-08-24T03:52:27.393853+00:00","total_mods":17367},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -48882,7 +48882,7 @@
 ]},
 "17535":{"nexusModName":"Goon's Paladin Overhaul","nexusUploadedBy":"BaldursGoonsack","nexusModId":17535,"paks":[
 {"nexusFileName":"No Divine Smite for Oathbreakers","nexusFileVersion":"1.1.1.0","nexusFileUploadedAt":1787486363,"pakFileName":"Goon's Paladin Overhaul - No Divine Smite for Oathbreakers.pak","nexusFileId":128818,"metaUuid":"4072e431-c421-45b0-9c42-1e64a41c2bfb"},
-{"nexusFileName":"Goon's Paladin Overhaul","nexusFileVersion":"1.1.1.0","nexusFileUploadedAt":1787486379,"pakFileName":"Goon's Paladin Overhaul.pak","nexusFileId":128819,"metaUuid":"dcbb4c7f-a112-4c0f-9644-91d8a16db127"}
+{"nexusFileName":"Goon's Paladin Overhaul","nexusFileVersion":"1.1.2.0","nexusFileUploadedAt":1787540518,"pakFileName":"Goon's Paladin Overhaul.pak","nexusFileId":128899,"metaUuid":"dcbb4c7f-a112-4c0f-9644-91d8a16db127"}
 ]},
 "17536":{"nexusModName":"JWL Discordant Instruments for Patch 7","nexusUploadedBy":"robogena","nexusModId":17536,"paks":[
 {"nexusFileName":"JWL Discordant Instruments (No Restrictions Patch)","nexusFileVersion":"1.0","nexusFileUploadedAt":1753195302,"pakFileName":"JWL_DiscordantInstruments_zNoRestrictions.pak","nexusFileId":98747,"metaUuid":"c96650a1-8ce6-49bd-9f6f-d09b35532e52"},
@@ -60121,7 +60121,7 @@
 ]},
 "21344":{"nexusModName":"Prismortalis - A Dark-Fantasy Spellblade","nexusUploadedBy":"nvlliel","nexusModId":21344,"paks":[
 {"nexusFileName":"Prismortalis - Feats Every Two Levels","nexusFileVersion":"1.0.0.1","nexusFileUploadedAt":1784578982,"pakFileName":"PrismortalisFeatsEvery2Levels_a230221a-2a95-a352-bedb-d13b30a5e412.pak","nexusFileId":126094,"metaUuid":null},
-{"nexusFileName":"Prismortalis - A Dark-Fantasy Spellblade","nexusFileVersion":"5.5.5","nexusFileUploadedAt":1787455878,"pakFileName":"Prismortalis_5a28cde7-cff0-e977-dc6d-17244faeaa8c.pak","nexusFileId":128769,"metaUuid":"5a28cde7-cff0-e977-dc6d-17244faeaa8c"}
+{"nexusFileName":"Prismortalis - A Dark-Fantasy Spellblade","nexusFileVersion":"5.5.5.1","nexusFileUploadedAt":1787540427,"pakFileName":"Prismortalis_5a28cde7-cff0-e977-dc6d-17244faeaa8c.pak","nexusFileId":128898,"metaUuid":"5a28cde7-cff0-e977-dc6d-17244faeaa8c"}
 ]},
 "21345":{"nexusModName":"Marksman - A Gunslinger class for Korean","nexusUploadedBy":"Eolaloe","nexusModId":21345,"paks":[
 {"nexusFileName":"Marksman - A Gunslinger class for Korean","nexusFileVersion":"1.2.1.0","nexusFileUploadedAt":1782326055,"pakFileName":"Marksman_Class_kr.pak","nexusFileId":124220,"metaUuid":null}
@@ -69013,4 +69013,7 @@
 ]},
 "24606":{"nexusModName":"Hag Eyed (Paid the Price) Enhanced","nexusUploadedBy":"chizfreak","nexusModId":24606,"paks":[
 {"nexusFileName":"Hag Eyed Enhanced","nexusFileVersion":"1.0","nexusFileUploadedAt":1787538332,"pakFileName":"HagEyedEnhanced_88623716-c2e2-5177-bbee-257cfe84fcfd.pak","nexusFileId":128893,"metaUuid":null}
+]},
+"24607":{"nexusModName":"B52's Timelost Arsenal","nexusUploadedBy":"B52NAKAMURA","nexusModId":24607,"paks":[
+{"nexusFileName":"B52's Timelost Arsenal","nexusFileVersion":"1.0.0.2","nexusFileUploadedAt":1787541813,"pakFileName":"B52sTimelostWeaponry_45260b60-6a6c-3902-29ea-f869d05ebfaa.pak","nexusFileId":128900,"metaUuid":null}
 ]}}
