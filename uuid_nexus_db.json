@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-08-24T20:52:15.906013+00:00","total_mods":17368},
+{"_meta":{"last_run":"2026-08-24T21:52:11.193831+00:00","total_mods":17369},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -68703,7 +68703,10 @@
 {"nexusFileName":"DAO DesireDemon RefitAKM - BT1 only version","nexusFileVersion":"2","nexusFileUploadedAt":1787324927,"pakFileName":"DAO_DesireDemon_Robes_RefitAKM.pak","nexusFileId":128617,"metaUuid":null},
 {"nexusFileName":"DAO DesireDemon RefitAKM - BT1 and BT3 version","nexusFileVersion":"1","nexusFileUploadedAt":1787325020,"pakFileName":"DAO_DesireDemon_Robes_RefitAKM_V2.pak","nexusFileId":128618,"metaUuid":"7bbd7492-3771-b668-6730-bf725744aca5"},
 {"nexusFileName":"DAO DesireDemon RefitMidSize","nexusFileVersion":"1","nexusFileUploadedAt":1787353649,"pakFileName":"DAO_DesireDemon_Robes_RefitMidSize.pak","nexusFileId":128637,"metaUuid":null},
-{"nexusFileName":"DAO DesireDemon RefitSBBF","nexusFileVersion":"1","nexusFileUploadedAt":1787415501,"pakFileName":"DAO_DesireDemon_Robes_RefitSBBF.pak","nexusFileId":128704,"metaUuid":null}
+{"nexusFileName":"DAO DesireDemon RefitSBBF","nexusFileVersion":"1","nexusFileUploadedAt":1787415501,"pakFileName":"DAO_DesireDemon_Robes_RefitSBBF.pak","nexusFileId":128704,"metaUuid":null},
+{"nexusFileName":"DAO DesireDemon RefitDulcetBoth Non-replacer","nexusFileVersion":"1","nexusFileUploadedAt":1787606475,"pakFileName":"DAO_DesireDemon_Robes_RefitDulcet_NRP.pak","nexusFileId":128953,"metaUuid":null},
+{"nexusFileName":"DAO DesireDemon RefitDulcetA Replacer","nexusFileVersion":"1","nexusFileUploadedAt":1787606591,"pakFileName":"DAO_DesireDemon_Robes_RefitDulcetA_RP.pak","nexusFileId":128954,"metaUuid":null},
+{"nexusFileName":"DAO DesireDemon RefitDulcetB Replacer","nexusFileVersion":"1","nexusFileUploadedAt":1787606624,"pakFileName":"DAO_DesireDemon_Robes_RefitDulcetB_RP.pak","nexusFileId":128955,"metaUuid":null}
 ]},
 "24485":{"nexusModName":"Brocade Be Gone - Customize Tav's Epilogue Wardrobe","nexusUploadedBy":"Seristina","nexusModId":24485,"paks":[
 {"nexusFileName":"EpilogueWardrobe","nexusFileVersion":"2","nexusFileUploadedAt":1787453486,"pakFileName":"EpilogueWardrobe2.pak","nexusFileId":128762,"metaUuid":"546e2002-b5d9-46b7-9807-15108ec6715c"}
@@ -69013,6 +69016,9 @@
 ]},
 "24614":{"nexusModName":"Sensible Mod Info","nexusUploadedBy":"Nzx","nexusModId":24614,"paks":[
 {"nexusFileName":"Sensible Mod Info","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1787593763,"pakFileName":"Sensible Mod Info.pak","nexusFileId":128940,"metaUuid":"a094bf38-22df-435d-84cd-04f07106caec"}
+]},
+"24616":{"nexusModName":"Create More Undead - Russian translation","nexusUploadedBy":"SNKmod777","nexusModId":24616,"paks":[
+{"nexusFileName":"CreateMoreUndead RU","nexusFileVersion":"1.1","nexusFileUploadedAt":1787605321,"pakFileName":"CreateMoreUndead_RU.pak","nexusFileId":128952,"metaUuid":null}
 ]},
 "24619":{"nexusModName":"Solasta Rogue Subclasses","nexusUploadedBy":"oaklei","nexusModId":24619,"paks":[
 {"nexusFileName":"Rogue Subclasses Solasta","nexusFileVersion":"1","nexusFileUploadedAt":1787603981,"pakFileName":"Solasta_subclasses_03a3acbb-bc56-f2cf-1e37-d91af75cb933.pak","nexusFileId":128950,"metaUuid":null}
