@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-08-24T01:53:07.519828+00:00","total_mods":17365},
+{"_meta":{"last_run":"2026-08-24T02:52:28.066709+00:00","total_mods":17366},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -68814,10 +68814,10 @@
 {"nexusFileName":"Vanilla Dice Colors","nexusFileVersion":"1.0.1.0","nexusFileUploadedAt":1787222918,"pakFileName":"Vanilla Dice Colors.pak","nexusFileId":128534,"metaUuid":"a91e6d47-3c28-4f52-9b81-72d5c0a6e314"}
 ]},
 "24528":{"nexusModName":"Ikaros Longbow","nexusUploadedBy":"7hornadus","nexusModId":24528,"paks":[
-{"nexusFileName":"Ikaros Longbow - Legendary Black","nexusFileVersion":"1","nexusFileUploadedAt":1787186659,"pakFileName":"Ikaros_Longbow.pak","nexusFileId":128503,"metaUuid":"36eb93e9-083b-48b5-892d-4eef2ab69ccf"},
-{"nexusFileName":"Ikaros Longbow - Legendary White","nexusFileVersion":"1","nexusFileUploadedAt":1787186686,"pakFileName":"Ikaros_Longbow.pak","nexusFileId":128504,"metaUuid":"36eb93e9-083b-48b5-892d-4eef2ab69ccf"},
-{"nexusFileName":"Ikaros Longbow - Rare Black","nexusFileVersion":"1","nexusFileUploadedAt":1787441133,"pakFileName":"Ikaros Longbow.pak","nexusFileId":128733,"metaUuid":null},
-{"nexusFileName":"Ikaros Longbow - Rare White","nexusFileVersion":"1","nexusFileUploadedAt":1787441163,"pakFileName":"Ikaros Longbow.pak","nexusFileId":128734,"metaUuid":null}
+{"nexusFileName":"Ikaros Longbow - Rare White","nexusFileVersion":"2","nexusFileUploadedAt":1787539354,"pakFileName":"Ikaros_Longbow.pak","nexusFileId":128894,"metaUuid":"36eb93e9-083b-48b5-892d-4eef2ab69ccf"},
+{"nexusFileName":"Ikaros Longbow - Rare Black","nexusFileVersion":"2","nexusFileUploadedAt":1787539371,"pakFileName":"Ikaros_Longbow.pak","nexusFileId":128895,"metaUuid":"36eb93e9-083b-48b5-892d-4eef2ab69ccf"},
+{"nexusFileName":"Ikaros Longbow - Legendary White","nexusFileVersion":"2","nexusFileUploadedAt":1787539388,"pakFileName":"Ikaros_Longbow.pak","nexusFileId":128896,"metaUuid":"36eb93e9-083b-48b5-892d-4eef2ab69ccf"},
+{"nexusFileName":"Ikaros Longbow - Legendary Black","nexusFileVersion":"2","nexusFileUploadedAt":1787539419,"pakFileName":"Ikaros_Longbow.pak","nexusFileId":128897,"metaUuid":"36eb93e9-083b-48b5-892d-4eef2ab69ccf"}
 ]},
 "24529":{"nexusModName":"BloodWhispers' Natural Model Poses","nexusUploadedBy":"Bl00dWhispers","nexusModId":24529,"paks":[
 {"nexusFileName":"Natural Model","nexusFileVersion":"1","nexusFileUploadedAt":1787192941,"pakFileName":"BL00D_NaturalModel_be59b3f7-7a7b-3892-9646-75bfb128fb7a.pak","nexusFileId":128507,"metaUuid":"be59b3f7-7a7b-3892-9646-75bfb128fb7a"}
@@ -69010,4 +69010,7 @@
 ]},
 "24603":{"nexusModName":"Requiem for the Absolute CHS","nexusUploadedBy":"mzldyt","nexusModId":24603,"paks":[
 {"nexusFileName":"Requiem For The Absolute CHS","nexusFileVersion":"4.0.0.46","nexusFileUploadedAt":1787512226,"pakFileName":"Requiem_for_the_Absolute CHS.pak","nexusFileId":128863,"metaUuid":null}
+]},
+"24606":{"nexusModName":"Hag Eyed (Paid the Price) Enhanced","nexusUploadedBy":"chizfreak","nexusModId":24606,"paks":[
+{"nexusFileName":"Hag Eyed Enhanced","nexusFileVersion":"1.0","nexusFileUploadedAt":1787538332,"pakFileName":"HagEyedEnhanced_88623716-c2e2-5177-bbee-257cfe84fcfd.pak","nexusFileId":128893,"metaUuid":null}
 ]}}
