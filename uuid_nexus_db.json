@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-08-25T09:52:15.747160+00:00","total_mods":17372},
+{"_meta":{"last_run":"2026-08-25T10:52:28.581498+00:00","total_mods":17373},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -69021,7 +69021,7 @@
 {"nexusFileName":"CreateMoreUndead RU","nexusFileVersion":"1.1","nexusFileUploadedAt":1787605321,"pakFileName":"CreateMoreUndead_RU.pak","nexusFileId":128952,"metaUuid":null}
 ]},
 "24617":{"nexusModName":"Unarmed smites for Zariel Tieflings","nexusUploadedBy":"sarymsak","nexusModId":24617,"paks":[
-{"nexusFileName":"Unarmed Zariel tiefling smites","nexusFileVersion":"1.1","nexusFileUploadedAt":1787617215,"pakFileName":"v1.1_SAR_Unarmed-Zariel-smites_c3d49d59-5746-6ad6-7e79-6b4581b39436.pak","nexusFileId":128959,"metaUuid":"c3d49d59-5746-6ad6-7e79-6b4581b39436"}
+{"nexusFileName":"Unarmed Zariel tiefling smites","nexusFileVersion":"1.2","nexusFileUploadedAt":1787654879,"pakFileName":"v1.2_SAR_Unarmed-Zariel-smites_c3d49d59-5746-6ad6-7e79-6b4581b39436.pak","nexusFileId":128974,"metaUuid":null}
 ]},
 "24619":{"nexusModName":"Solasta Rogue Subclasses","nexusUploadedBy":"oaklei","nexusModId":24619,"paks":[
 {"nexusFileName":"Rogue Subclasses Solasta","nexusFileVersion":"1","nexusFileUploadedAt":1787603981,"pakFileName":"Solasta_subclasses_03a3acbb-bc56-f2cf-1e37-d91af75cb933.pak","nexusFileId":128950,"metaUuid":null}
@@ -69031,4 +69031,7 @@
 ]},
 "24623":{"nexusModName":"Balanced AP Usage","nexusUploadedBy":"swissfred","nexusModId":24623,"paks":[
 {"nexusFileName":"Balanced AP Usage","nexusFileVersion":"6.0.8.0","nexusFileUploadedAt":1787645010,"pakFileName":"BalancedAPUsage_493720a0-8ae9-5c01-a742-fb57141597aa.pak","nexusFileId":128971,"metaUuid":null}
+]},
+"24625":{"nexusModName":"Dark Urge Isobel Reward Fixed","nexusUploadedBy":"NecroticFlame","nexusModId":24625,"paks":[
+{"nexusFileName":"Dark Urge Isobel Reward Fix","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1787649939,"pakFileName":"DarkUrgeIsobelRewardFix_c5dcb8f5-6767-6c50-82a1-c2efdfeca7e6.pak","nexusFileId":128973,"metaUuid":null}
 ]}}
