@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-08-25T22:52:32.802489+00:00","total_mods":17377},
+{"_meta":{"last_run":"2026-08-25T23:52:11.985457+00:00","total_mods":17379},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -59254,7 +59254,7 @@
 {"nexusFileName":"Whispering Blood Remaster RU","nexusFileVersion":"1.0","nexusFileUploadedAt":1769433585,"pakFileName":"WhisperingBloodRemaster_RU.pak","nexusFileId":113293,"metaUuid":null}
 ]},
 "21026":{"nexusModName":"B.A.L.L. Character Capture","nexusUploadedBy":"ForKiramay","nexusModId":21026,"paks":[
-{"nexusFileName":"Character Capture System","nexusFileVersion":"1.0.0.24","nexusFileUploadedAt":1787621404,"pakFileName":"BALLS_bc20b69a-cb9c-c07b-34ca-359f08c9a3c9.pak","nexusFileId":128962,"metaUuid":"bc20b69a-cb9c-c07b-34ca-359f08c9a3c9"}
+{"nexusFileName":"Character Capture System","nexusFileVersion":"1.0.0.28","nexusFileUploadedAt":1787701518,"pakFileName":"BALLS_bc20b69a-cb9c-c07b-34ca-359f08c9a3c9.pak","nexusFileId":129007,"metaUuid":"bc20b69a-cb9c-c07b-34ca-359f08c9a3c9"}
 ]},
 "21028":{"nexusModName":"(DTO) Otherworldy Archetypes for Korean","nexusUploadedBy":"Eolaloe","nexusModId":21028,"paks":[
 {"nexusFileName":"DTO - Otherworldly Archetypes for Korean","nexusFileVersion":"1.2.0.66","nexusFileUploadedAt":1781631913,"pakFileName":"DaelensTestament_kr.pak","nexusFileId":123720,"metaUuid":"3d6eed57-0935-4474-91d0-5dfd185e8e9d"}
@@ -69055,4 +69055,10 @@
 ]},
 "24630":{"nexusModName":"Rubik's Dice","nexusUploadedBy":"nyilas7","nexusModId":24630,"paks":[
 {"nexusFileName":"Rubik's Dice","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1787692924,"pakFileName":"Rubik's Dice.pak","nexusFileId":129003,"metaUuid":null}
+]},
+"24631":{"nexusModName":"Full Custom Companions (Hirelings) RUS for 2.2.2.1 version","nexusUploadedBy":"detachme","nexusModId":24631,"paks":[
+{"nexusFileName":"CustomCompanions Russian","nexusFileVersion":"2.2.2.1","nexusFileUploadedAt":1787699995,"pakFileName":"CustomCompanions_russian.pak","nexusFileId":129006,"metaUuid":null}
+]},
+"24632":{"nexusModName":"Unlocked Deities","nexusUploadedBy":"Sai","nexusModId":24632,"paks":[
+{"nexusFileName":"UnlockedDeities","nexusFileVersion":"1.0","nexusFileUploadedAt":1787698258,"pakFileName":"UnlockedDeities.pak","nexusFileId":129005,"metaUuid":null}
 ]}}
