@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-08-25T16:52:12.967856+00:00","total_mods":17374},
+{"_meta":{"last_run":"2026-08-25T17:52:01.488910+00:00","total_mods":17375},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -48705,8 +48705,8 @@
 {"nexusFileName":"Blackguard 4.91-KR","nexusFileVersion":"4.907","nexusFileUploadedAt":1754299477,"pakFileName":"Blackguard 4.91-KR.pak","nexusFileId":99885,"metaUuid":"3054567d-7fe0-4af0-821d-a993a5a668f7"}
 ]},
 "17471":{"nexusModName":"Goon's Cleric Overhaul","nexusUploadedBy":"BaldursGoonsack","nexusModId":17471,"paks":[
-{"nexusFileName":"Goon's Cleric Overhaul - Disciple of Life Only","nexusFileVersion":"1.0.5.0","nexusFileUploadedAt":1776867614,"pakFileName":"Goon's Cleric Overhaul - Disciple of Life Only.pak","nexusFileId":119673,"metaUuid":"ed2a01d9-05f9-40a1-821d-c31dcbc77c19"},
-{"nexusFileName":"Goon's Cleric Overhaul","nexusFileVersion":"1.0.6.0","nexusFileUploadedAt":1783932663,"pakFileName":"Goon's Cleric Overhaul.pak","nexusFileId":125524,"metaUuid":"ed2a01d9-05f9-40a1-821d-c31dcbc77c19"}
+{"nexusFileName":"Goon's Cleric Overhaul - Disciple of Life Only","nexusFileVersion":"1.1.0.0","nexusFileUploadedAt":1787679398,"pakFileName":"Goon's Cleric Overhaul - Disciple of Life Only.pak","nexusFileId":128987,"metaUuid":"ed2a01d9-05f9-40a1-821d-c31dcbc77c19"},
+{"nexusFileName":"Goon's Cleric Overhaul","nexusFileVersion":"1.1.0.0","nexusFileUploadedAt":1787679416,"pakFileName":"Goon's Cleric Overhaul.pak","nexusFileId":128988,"metaUuid":"ed2a01d9-05f9-40a1-821d-c31dcbc77c19"}
 ]},
 "17472":{"nexusModName":"Succubus-KR","nexusUploadedBy":"MshapedHairLoss","nexusModId":17472,"paks":[
 {"nexusFileName":"Succubus-KR","nexusFileVersion":"1.0.205.8000","nexusFileUploadedAt":1751989683,"pakFileName":"Succubus-KR.pak","nexusFileId":97675,"metaUuid":null}
@@ -68828,7 +68828,7 @@
 ]},
 "24540":{"nexusModName":"Karlach's Better Starter Gear by AzazeL (Patch 8)","nexusUploadedBy":"AzazeLwasTaken","nexusModId":24540,"paks":[
 {"nexusFileName":"Better Starting Gear (Karlach)","nexusFileVersion":"1.0.0.2","nexusFileUploadedAt":1787252404,"pakFileName":"Aza_BSG_Karlach_f065cd8c-f2ec-2af9-acf6-e63b4c1ca322.pak","nexusFileId":128565,"metaUuid":"f065cd8c-f2ec-2af9-acf6-e63b4c1ca322"},
-{"nexusFileName":"Karlach BSG - Tier 2 Start Addon","nexusFileVersion":"1.0","nexusFileUploadedAt":1787426451,"pakFileName":"Aza_BSG_Karlach_T2_Start_Addon.pak","nexusFileId":128714,"metaUuid":"defc1362-8ed7-5f1f-9756-88508ef38e13"}
+{"nexusFileName":"Addon - Tier 2 Equipment Start","nexusFileVersion":"1.0","nexusFileUploadedAt":1787426451,"pakFileName":"Aza_BSG_Karlach_T2_Start_Addon.pak","nexusFileId":128714,"metaUuid":"defc1362-8ed7-5f1f-9756-88508ef38e13"}
 ]},
 "24541":{"nexusModName":"Gale's New Look RUS","nexusUploadedBy":"Garrett1988","nexusModId":24541,"paks":[
 {"nexusFileName":"Gale New LookRUS","nexusFileVersion":"1","nexusFileUploadedAt":1787241818,"pakFileName":"Gale_New_LookRUS.pak","nexusFileId":128547,"metaUuid":null}
@@ -68998,6 +68998,9 @@
 ]},
 "24598":{"nexusModName":"New Greetings For Wyll (Wyll Cinematic Universe Mod 5) Traduzione ITA","nexusUploadedBy":"EveeLaverne","nexusModId":24598,"paks":[
 {"nexusFileName":"MGNTN WyllNewGreetings TraduzioneITA","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1787498274,"pakFileName":"MGNTN_WyllNewGreetings_TraduzioneITA.pak","nexusFileId":128844,"metaUuid":null}
+]},
+"24600":{"nexusModName":"Neera's Wild Dress - Sorcerer robe outfit (BG1 BG2)","nexusUploadedBy":"commanderstrawberry","nexusModId":24600,"paks":[
+{"nexusFileName":"NeeraSorcOutfit","nexusFileVersion":"1","nexusFileUploadedAt":1787678199,"pakFileName":"NeeraSorcOutfit.pak","nexusFileId":128986,"metaUuid":null}
 ]},
 "24601":{"nexusModName":"Mizora Edits - Wyll's Scourge","nexusUploadedBy":"PoisonValentineXIII","nexusModId":24601,"paks":[
 {"nexusFileName":"Mizora Edits - Blue Robe Edition (First Variant)","nexusFileVersion":"1.0.0.3","nexusFileUploadedAt":1787512279,"pakFileName":"MizoraElementalistBlue_c5d555d0-f75e-5dfd-9fbb-4e369a37eb75.pak","nexusFileId":128864,"metaUuid":null},
