@@ -207,7 +207,7 @@
 {"nexusFileName":"Satan Hardcore Mode","nexusFileVersion":"1.0","nexusFileUploadedAt":1610884285,"pakFileName":"satanhardcore.pak","nexusFileId":865,"metaUuid":null}
 ]},
 "167":{"nexusModName":"Feats Extra","nexusUploadedBy":"lostsoulman","nexusModId":167,"paks":[
-{"nexusFileName":"featsextra_Addon_Valdacil","nexusFileVersion":"1.0","nexusFileUploadedAt":1714990479,"pakFileName":"featsextra_Addon_Valdacil.pak","nexusFileId":56114,"metaUuid":null},
+{"nexusFileName":"featsextra_Addon_Valdacil","nexusFileVersion":"1.0","nexusFileUploadedAt":1714990479,"pakFileName":"featsextra_Addon_Valdacil.pak","nexusFileId":56114,"metaUuid":"c82b41d6-a774-4d9c-af7b-5038aa7dbf9d"},
 {"nexusFileName":"featsextra_ORDERFEATS","nexusFileVersion":"1.0","nexusFileUploadedAt":1741335121,"pakFileName":"featsextra_ORDERFEATS.pak","nexusFileId":86827,"metaUuid":"b6eb4bf3-cf5d-42f0-8946-79794c18d5b6"},
 {"nexusFileName":"featsextra_Limit","nexusFileVersion":"1.0","nexusFileUploadedAt":1749011474,"pakFileName":"featsextra_Limit.pak","nexusFileId":95033,"metaUuid":"5c1a2f89-fc53-4b20-b154-ffce743788f2"},
 {"nexusFileName":"featsextra","nexusFileVersion":"1.71","nexusFileUploadedAt":1770683601,"pakFileName":"featsextra.pak","nexusFileId":114490,"metaUuid":"0c036a05-f3e4-4422-87bd-eadadf96c161"},
@@ -12351,7 +12351,7 @@
 {"nexusFileName":"Ranger Druid Subclasses Combined","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1698868171,"pakFileName":"RangerDruidSubclassesCombined.pak","nexusFileId":26276,"metaUuid":null},
 {"nexusFileName":"Cleric Druid Subclasses Combined","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1698868200,"pakFileName":"ClericDruidSubclasses.pak","nexusFileId":26277,"metaUuid":null},
 {"nexusFileName":"Rogue Subclasses into Monk Open Hand","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1698887530,"pakFileName":"MonkRogueSubclasses.pak","nexusFileId":26339,"metaUuid":null},
-{"nexusFileName":"Ranger subclasses into Rogue Subclasses","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1698887556,"pakFileName":"RogueRangerSubclasses.pak","nexusFileId":26340,"metaUuid":null},
+{"nexusFileName":"Ranger subclasses into Rogue Subclasses","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1698887556,"pakFileName":"RogueRangerSubclasses.pak","nexusFileId":26340,"metaUuid":"141c1c8f-b130-40c4-82af-86eb396f8b97"},
 {"nexusFileName":"Fighter Storm Sorc Custom","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1700603452,"pakFileName":"FighterStormSorc.pak","nexusFileId":29729,"metaUuid":null},
 {"nexusFileName":"Fighter Storm Sorc Custom Feat 6 11","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1700603472,"pakFileName":"FighterStormSorc.pak","nexusFileId":29730,"metaUuid":null},
 {"nexusFileName":"Level One Spells Action Only","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1702239531,"pakFileName":"LevelOneSpellsCostChange.pak","nexusFileId":33800,"metaUuid":null},
@@ -13571,7 +13571,7 @@
 {"nexusFileName":"Jump Movement Cost Only","nexusFileVersion":"1.0.1","nexusFileUploadedAt":1704318608,"pakFileName":"JumpCostAdjustment.pak","nexusFileId":37923,"metaUuid":"71c8f2a3-eac3-42fa-b1fc-a558224823f6"}
 ]},
 "4336":{"nexusModName":"Dash Also Disengages","nexusUploadedBy":"BitterPast","nexusModId":4336,"paks":[
-{"nexusFileName":"Dash Applies Disengage","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1700314114,"pakFileName":"DashAppliesDisengage.pak","nexusFileId":29044,"metaUuid":null}
+{"nexusFileName":"Dash Applies Disengage","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1700314114,"pakFileName":"DashAppliesDisengage.pak","nexusFileId":29044,"metaUuid":"f6a36662-e6a6-4361-9d2c-ca767036170f"}
 ]},
 "4338":{"nexusModName":"Hellish Rebuke - Reaction Only","nexusUploadedBy":"BitterPast","nexusModId":4338,"paks":[
 {"nexusFileName":"Hellish Rebuke No Spellslot","nexusFileVersion":"1.0.1","nexusFileUploadedAt":1704302542,"pakFileName":"HellishRebukeNoSpellSlot.pak","nexusFileId":37841,"metaUuid":"77284e13-00fc-45a4-ac22-50bbfaebfc53"}
@@ -64945,7 +64945,7 @@
 {"nexusFileName":"F-03. Exalt - SBTL - BA - 10 Turns","nexusFileVersion":"1.0.0-F-03","nexusFileUploadedAt":1780782165,"pakFileName":"Exalt - Solar Bless - F-03.pak","nexusFileId":122989,"metaUuid":null},
 {"nexusFileName":"F-04. Exalt - SBTL - BA - Long Rest","nexusFileVersion":"1.0.0-F-04","nexusFileUploadedAt":1780782192,"pakFileName":"Exalt - Solar Bless - F-04.pak","nexusFileId":122990,"metaUuid":null},
 {"nexusFileName":"F-05. Exalt - SBTL - BA - Permanent","nexusFileVersion":"1.0.0-F-05","nexusFileUploadedAt":1780782228,"pakFileName":"Exalt - Solar Bless - F-05.pak","nexusFileId":122991,"metaUuid":"b1254677-ffae-44f1-807d-07ad810fc06c"},
-{"nexusFileName":"Exalt - All Caster Addon","nexusFileVersion":"1.0.1","nexusFileUploadedAt":1782782485,"pakFileName":"Exalt - Solar Bless - All Caster Addon.pak","nexusFileId":124567,"metaUuid":"724a11f6-c514-4325-8256-b4af27b1b57f"}
+{"nexusFileName":"Exalt - All Caster Addon","nexusFileVersion":"1.0.1","nexusFileUploadedAt":1782782485,"pakFileName":"Exalt - Solar Bless - All Caster Addon.pak","nexusFileId":124567,"metaUuid":"840c420e-a8ff-44f9-97cc-5843917a5cea"}
 ]},
 "23098":{"nexusModName":"Purifier's Mantle - A Sunlight-Themed Crusader's Mantle Alternative - Multiple Versions - 2024 PHB","nexusUploadedBy":"SymboJones","nexusModId":23098,"paks":[
 {"nexusFileName":"A-01. Purifier's Mantle - FR - Action - 10 T - Con","nexusFileVersion":"1.0.0-A-01","nexusFileUploadedAt":1780782595,"pakFileName":"Purifiers Mantle - Solar Crusaders Mantle - A-01.pak","nexusFileId":122992,"metaUuid":null},
@@ -65160,7 +65160,7 @@
 {"nexusFileName":"F-03. Anoint - SBTL - BA - 10 Turns","nexusFileVersion":"1.0.0-F-03","nexusFileUploadedAt":1781224956,"pakFileName":"Anoint - Lunar Bless - F-03.pak","nexusFileId":123381,"metaUuid":null},
 {"nexusFileName":"F-04. Anoint - SBTL - BA - Long Rest","nexusFileVersion":"1.0.0-F-04","nexusFileUploadedAt":1781224994,"pakFileName":"Anoint - Lunar Bless - F-04.pak","nexusFileId":123382,"metaUuid":null},
 {"nexusFileName":"F-05. Anoint - SBTL - BA - Permanent","nexusFileVersion":"1.0.0-F-05","nexusFileUploadedAt":1781260209,"pakFileName":"Anoint - Lunar Bless - F-05.pak","nexusFileId":123397,"metaUuid":"b2668b70-4af9-44fb-a20d-2184c51f9994"},
-{"nexusFileName":"Anoint - All Caster Addon","nexusFileVersion":"1.0.1","nexusFileUploadedAt":1782575930,"pakFileName":"Anoint - Lunar Bless - All Caster Addon.pak","nexusFileId":124388,"metaUuid":"da17f06b-0109-45a0-8680-82d8a9997ad1"}
+{"nexusFileName":"Anoint - All Caster Addon","nexusFileVersion":"1.0.1","nexusFileUploadedAt":1782575930,"pakFileName":"Anoint - Lunar Bless - All Caster Addon.pak","nexusFileId":124388,"metaUuid":"d415a344-c4ff-4040-b7ed-6bab0d23d207"}
 ]},
 "23163":{"nexusModName":"Ward of Compassion - A Moonlight-Themed Shield of Faith Alternative - Multiple Versions","nexusUploadedBy":"SymboJones","nexusModId":23163,"paks":[
 {"nexusFileName":"A-01. Ward Of Compassion - TL - A - 100 T - Con","nexusFileVersion":"1.0.0-A-01","nexusFileUploadedAt":1782162273,"pakFileName":"Ward of Compassion - Lunar Shield of Faith - A-01.pak","nexusFileId":124094,"metaUuid":null},
@@ -66163,14 +66163,14 @@
 {"nexusFileName":"Faces by Goblin","nexusFileVersion":"2","nexusFileUploadedAt":1782808454,"pakFileName":"PP_Faces_27b8c7a5-eba8-d3c8-4a30-d891e32a4792.pak","nexusFileId":124577,"metaUuid":"24f742cc-908f-86ad-aef1-e46833c25d11"},
 {"nexusFileName":"Still Motion","nexusFileVersion":"3","nexusFileUploadedAt":1783893160,"pakFileName":"PP_StillMotion_258a8b5d-e538-277c-0f7a-f67c29828ab3.pak","nexusFileId":125502,"metaUuid":"24f742cc-908f-86ad-aef1-e46833c25d11"},
 {"nexusFileName":"Eternal by Goblin","nexusFileVersion":"3","nexusFileUploadedAt":1783966165,"pakFileName":"PP_Eternal_24f742cc-908f-86ad-aef1-e46833c25d11.pak","nexusFileId":125564,"metaUuid":"24f742cc-908f-86ad-aef1-e46833c25d11"},
-{"nexusFileName":"All-In-One Download","nexusFileVersion":"5","nexusFileUploadedAt":1785868927,"pakFileName":"PP_ChildBhaal_6170b196-a292-fd5c-30fc-038f9de3ac70.pak","nexusFileId":127320,"metaUuid":"f222a5a7-bf00-f3cb-1b85-6281c5b45f33"},
-{"nexusFileName":"All-In-One Download","nexusFileVersion":"5","nexusFileUploadedAt":1785868927,"pakFileName":"PP_Eternal_24f742cc-908f-86ad-aef1-e46833c25d11.pak","nexusFileId":127320,"metaUuid":"f222a5a7-bf00-f3cb-1b85-6281c5b45f33"},
-{"nexusFileName":"All-In-One Download","nexusFileVersion":"5","nexusFileUploadedAt":1785868927,"pakFileName":"PP_Faces_27b8c7a5-eba8-d3c8-4a30-d891e32a4792.pak","nexusFileId":127320,"metaUuid":"f222a5a7-bf00-f3cb-1b85-6281c5b45f33"},
-{"nexusFileName":"All-In-One Download","nexusFileVersion":"5","nexusFileUploadedAt":1785868927,"pakFileName":"PP_Hush_f222a5a7-bf00-f3cb-1b85-6281c5b45f33.pak","nexusFileId":127320,"metaUuid":"f222a5a7-bf00-f3cb-1b85-6281c5b45f33"},
-{"nexusFileName":"All-In-One Download","nexusFileVersion":"5","nexusFileUploadedAt":1785868927,"pakFileName":"PP_LongRest_b24a6276-1f60-a362-6e5a-bbf89184bd76.pak","nexusFileId":127320,"metaUuid":"f222a5a7-bf00-f3cb-1b85-6281c5b45f33"},
-{"nexusFileName":"All-In-One Download","nexusFileVersion":"5","nexusFileUploadedAt":1785868927,"pakFileName":"PP_QuietMoment_636cb6aa-0fb7-1937-47f8-c84b6a058e41.pak","nexusFileId":127320,"metaUuid":"f222a5a7-bf00-f3cb-1b85-6281c5b45f33"},
-{"nexusFileName":"All-In-One Download","nexusFileVersion":"5","nexusFileUploadedAt":1785868927,"pakFileName":"PP_Silhouettes_63d63dd5-f55f-13d7-d754-f2af16472a95.pak","nexusFileId":127320,"metaUuid":"f222a5a7-bf00-f3cb-1b85-6281c5b45f33"},
-{"nexusFileName":"All-In-One Download","nexusFileVersion":"5","nexusFileUploadedAt":1785868927,"pakFileName":"PP_StillMotion_258a8b5d-e538-277c-0f7a-f67c29828ab3.pak","nexusFileId":127320,"metaUuid":"f222a5a7-bf00-f3cb-1b85-6281c5b45f33"},
+{"nexusFileName":"All-In-One Download","nexusFileVersion":"5","nexusFileUploadedAt":1785868927,"pakFileName":"PP_ChildBhaal_6170b196-a292-fd5c-30fc-038f9de3ac70.pak","nexusFileId":127320,"metaUuid":"63d63dd5-f55f-13d7-d754-f2af16472a95"},
+{"nexusFileName":"All-In-One Download","nexusFileVersion":"5","nexusFileUploadedAt":1785868927,"pakFileName":"PP_Eternal_24f742cc-908f-86ad-aef1-e46833c25d11.pak","nexusFileId":127320,"metaUuid":"63d63dd5-f55f-13d7-d754-f2af16472a95"},
+{"nexusFileName":"All-In-One Download","nexusFileVersion":"5","nexusFileUploadedAt":1785868927,"pakFileName":"PP_Faces_27b8c7a5-eba8-d3c8-4a30-d891e32a4792.pak","nexusFileId":127320,"metaUuid":"63d63dd5-f55f-13d7-d754-f2af16472a95"},
+{"nexusFileName":"All-In-One Download","nexusFileVersion":"5","nexusFileUploadedAt":1785868927,"pakFileName":"PP_Hush_f222a5a7-bf00-f3cb-1b85-6281c5b45f33.pak","nexusFileId":127320,"metaUuid":"63d63dd5-f55f-13d7-d754-f2af16472a95"},
+{"nexusFileName":"All-In-One Download","nexusFileVersion":"5","nexusFileUploadedAt":1785868927,"pakFileName":"PP_LongRest_b24a6276-1f60-a362-6e5a-bbf89184bd76.pak","nexusFileId":127320,"metaUuid":"63d63dd5-f55f-13d7-d754-f2af16472a95"},
+{"nexusFileName":"All-In-One Download","nexusFileVersion":"5","nexusFileUploadedAt":1785868927,"pakFileName":"PP_QuietMoment_636cb6aa-0fb7-1937-47f8-c84b6a058e41.pak","nexusFileId":127320,"metaUuid":"63d63dd5-f55f-13d7-d754-f2af16472a95"},
+{"nexusFileName":"All-In-One Download","nexusFileVersion":"5","nexusFileUploadedAt":1785868927,"pakFileName":"PP_Silhouettes_63d63dd5-f55f-13d7-d754-f2af16472a95.pak","nexusFileId":127320,"metaUuid":"63d63dd5-f55f-13d7-d754-f2af16472a95"},
+{"nexusFileName":"All-In-One Download","nexusFileVersion":"5","nexusFileUploadedAt":1785868927,"pakFileName":"PP_StillMotion_258a8b5d-e538-277c-0f7a-f67c29828ab3.pak","nexusFileId":127320,"metaUuid":"63d63dd5-f55f-13d7-d754-f2af16472a95"},
 {"nexusFileName":"Silhouettes by Goblin","nexusFileVersion":"3","nexusFileUploadedAt":1785869345,"pakFileName":"PP_Silhouettes_63d63dd5-f55f-13d7-d754-f2af16472a95.pak","nexusFileId":127323,"metaUuid":"6170b196-a292-fd5c-30fc-038f9de3ac70"}
 ]},
 "23593":{"nexusModName":"Grasping Vine PHB2024","nexusUploadedBy":"chizfreak","nexusModId":23593,"paks":[
@@ -67143,7 +67143,7 @@
 {"nexusFileName":"Npcs Have Subclasses Chs 3c1ba 0fwh","nexusFileVersion":"1","nexusFileUploadedAt":1784548605,"pakFileName":"NPCs_have_Subclasses_CHS_3c1baa36-d2d4-8c39-0046-5028c409d406.pak","nexusFileId":126073,"metaUuid":null}
 ]},
 "23963":{"nexusModName":"Eyes of the Hoarder - Rule-based Auto-Loot","nexusUploadedBy":"MiahNelah","nexusModId":23963,"paks":[
-{"nexusFileName":"EyesOfTheHoarder","nexusFileVersion":"3.0.1.0","nexusFileUploadedAt":1787722539,"pakFileName":"EyesOfTheHoarder-3.0.1.0.pak","nexusFileId":129019,"metaUuid":null}
+{"nexusFileName":"EyesOfTheHoarder","nexusFileVersion":"3.0.1.0","nexusFileUploadedAt":1787722539,"pakFileName":"EyesOfTheHoarder-3.0.1.0.pak","nexusFileId":129019,"metaUuid":"0292cb8a-600a-4c29-9f22-dd9b32ef6758"}
 ]},
 "23965":{"nexusModName":"CombatBodysuit_TheFirstDescendant_ViessaUltimate","nexusUploadedBy":"EvilRecluse","nexusModId":23965,"paks":[
 {"nexusFileName":"CombatBodysuit TheFirstDescendant ViessaUltimate","nexusFileVersion":"1","nexusFileUploadedAt":1784536547,"pakFileName":"CombatBodysuit_TheFirstDescendant_ViessaUltimate.pak","nexusFileId":126059,"metaUuid":"5efb9354-9532-471e-8ae5-1aeae515f6cf"}
@@ -68790,7 +68790,7 @@
 {"nexusFileName":"Exclusive Dice - Dice of Hope and Despair","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1787171870,"pakFileName":"Exclusive Dice - Dice of Hope and Despair.pak","nexusFileId":128490,"metaUuid":null},
 {"nexusFileName":"Exclusive Dice - Prismatic Spray","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1787171953,"pakFileName":"Exclusive Dice - Prismatic Spray.pak","nexusFileId":128492,"metaUuid":null},
 {"nexusFileName":"Exclusive Dice - Illithid Purple","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1787476939,"pakFileName":"Exclusive Dice - Illithid Purple.pak","nexusFileId":128786,"metaUuid":"d15d3a4d-36bb-4953-ba2d-590729dbf09d"},
-{"nexusFileName":"Exclusive Dice - Xanathar's Barter Remake","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1787662387,"pakFileName":"Exclusive Dice - Xanathar's Barter.pak","nexusFileId":128977,"metaUuid":null}
+{"nexusFileName":"Exclusive Dice - Xanathar's Barter Remake","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1787662387,"pakFileName":"Exclusive Dice - Xanathar's Barter.pak","nexusFileId":128977,"metaUuid":"a5876f8d-158c-4449-a20e-6fd2945938b8"}
 ]},
 "24527":{"nexusModName":"Vanilla Dice Colors","nexusUploadedBy":"nyilas7","nexusModId":24527,"paks":[
 {"nexusFileName":"Avernus Flame","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1787221963,"pakFileName":"Vanilla Dice Colors - Avernus Flame.pak","nexusFileId":128522,"metaUuid":null},
@@ -69086,5 +69086,5 @@
 {"nexusFileName":"Stronger SoulCoin Levelmap RU","nexusFileVersion":"1","nexusFileUploadedAt":1787752482,"pakFileName":"Stronger_SoulCoin_Levelmap_RU.pak","nexusFileId":129058,"metaUuid":null}
 ]},
 "24644":{"nexusModName":"Ziva Goddess Dress","nexusUploadedBy":"Apzurv","nexusModId":24644,"paks":[
-{"nexusFileName":"Ziva Goddess Dress","nexusFileVersion":"1.0","nexusFileUploadedAt":1787763646,"pakFileName":"Ziva_GoddessDress.pak","nexusFileId":129063,"metaUuid":null}
+{"nexusFileName":"Ziva Goddess Dress","nexusFileVersion":"1.0","nexusFileUploadedAt":1787763646,"pakFileName":"Ziva_GoddessDress.pak","nexusFileId":129063,"metaUuid":"7f345cfa-d2c7-f5ba-e591-9ca7645fd363"}
 ]}}
