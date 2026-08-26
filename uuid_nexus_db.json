@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-08-26T16:53:28.687789+00:00","total_mods":17386},
+{"_meta":{"last_run":"2026-08-26T17:53:14.509065+00:00","total_mods":17387},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -68117,8 +68117,8 @@
 "24368":{"nexusModName":"Dancing Through Life","nexusUploadedBy":"meepmeganmeep","nexusModId":24368,"paks":[
 {"nexusFileName":"Dancing Through Life","nexusFileVersion":"3","nexusFileUploadedAt":1786879890,"pakFileName":"Dancing_Through_Life_b5ad8c35-5018-5e5f-f686-7c86d4b31638.pak","nexusFileId":128206,"metaUuid":"b5ad8c35-5018-5e5f-f686-7c86d4b31638"}
 ]},
-"24369":{"nexusModName":"Auto-Sorting Hotbar","nexusUploadedBy":"Eolaloe","nexusModId":24369,"paks":[
-{"nexusFileName":"Auto-Sorting Hotbar","nexusFileVersion":"1.0.1.0","nexusFileUploadedAt":1786886455,"pakFileName":"hotbarsort.pak","nexusFileId":128212,"metaUuid":"27ed5bd3-edc0-4f87-9559-6624934945f8"}
+"24369":{"nexusModName":"Auto-Sorting Hotbar (with Radial Wheel)","nexusUploadedBy":"Eolaloe","nexusModId":24369,"paks":[
+{"nexusFileName":"Auto-Sorting Hotbar","nexusFileVersion":"1.1.0.0","nexusFileUploadedAt":1787764598,"pakFileName":"hotbarsort.pak","nexusFileId":129068,"metaUuid":"27ed5bd3-edc0-4f87-9559-6624934945f8"}
 ]},
 "24370":{"nexusModName":"Ferrety's Features - Lycanthropy (PT-BR)","nexusUploadedBy":"Firetoga","nexusModId":24370,"paks":[
 {"nexusFileName":"Ferrety's Features - Lycanthropy (PT-BR)","nexusFileVersion":"1.0.5.0","nexusFileUploadedAt":1786409744,"pakFileName":"Ferrety's Features - Lycanthropy (Tradução PT-BR).pak","nexusFileId":127809,"metaUuid":null}
@@ -68211,11 +68211,11 @@
 {"nexusFileName":"SGT_Bex Is Brunette","nexusFileVersion":"1","nexusFileUploadedAt":1787069595,"pakFileName":"SGT_Bex_Edited_fc22738d-e93f-3e3f-eb0b-bcccb57600da.pak","nexusFileId":128366,"metaUuid":"fc22738d-e93f-3e3f-eb0b-bcccb57600da"},
 {"nexusFileName":"SGT_Bex Is Brunette - Original hairstyle","nexusFileVersion":"1","nexusFileUploadedAt":1787072410,"pakFileName":"SGT_Bex_Edited_fc22738d-e93f-3e3f-eb0b-bcccb57600da.pak","nexusFileId":128368,"metaUuid":"fc22738d-e93f-3e3f-eb0b-bcccb57600da"},
 {"nexusFileName":"SGT_Astral Fury - Head for CC","nexusFileVersion":"1","nexusFileUploadedAt":1787232352,"pakFileName":"SGT_AstralFury_Head_CC.pak","nexusFileId":128539,"metaUuid":null},
-{"nexusFileName":"SGT_Astral Fury - Lae'zel Edit","nexusFileVersion":"1.0.3","nexusFileUploadedAt":1787583299,"pakFileName":"SGT_AstralFury_ae46be95-b478-7487-f6a8-a878448cf088.pak","nexusFileId":128933,"metaUuid":"ae46be95-b478-7487-f6a8-a878448cf088"},
-{"nexusFileName":"SGT_Astral Fury - Black Lipstick","nexusFileVersion":"1.0.3","nexusFileUploadedAt":1787583344,"pakFileName":"SGT_AstralFury_ae46be95-b478-7487-f6a8-a878448cf088.pak","nexusFileId":128934,"metaUuid":"ae46be95-b478-7487-f6a8-a878448cf088"},
-{"nexusFileName":"SGT_Astral Fury - No Tattoo","nexusFileVersion":"1.0.3","nexusFileUploadedAt":1787583406,"pakFileName":"SGT_AstralFury_ae46be95-b478-7487-f6a8-a878448cf088.pak","nexusFileId":128935,"metaUuid":"ae46be95-b478-7487-f6a8-a878448cf088"},
-{"nexusFileName":"SGT_Astral Fury - No Gith Spots","nexusFileVersion":"1.0.3","nexusFileUploadedAt":1787583498,"pakFileName":"SGT_AstralFury_ae46be95-b478-7487-f6a8-a878448cf088.pak","nexusFileId":128936,"metaUuid":"ae46be95-b478-7487-f6a8-a878448cf088"},
-{"nexusFileName":"SGT_Astral Fury - No Tattoo - No Spots","nexusFileVersion":"1.0.3","nexusFileUploadedAt":1787667147,"pakFileName":"SGT_AstralFury_ae46be95-b478-7487-f6a8-a878448cf088.pak","nexusFileId":128978,"metaUuid":"ae46be95-b478-7487-f6a8-a878448cf088"}
+{"nexusFileName":"SGT_Astral Fury - No Tattoo - No Spots","nexusFileVersion":"1.0.4","nexusFileUploadedAt":1787764304,"pakFileName":"SGT_AstralFury_ae46be95-b478-7487-f6a8-a878448cf088.pak","nexusFileId":129064,"metaUuid":"ae46be95-b478-7487-f6a8-a878448cf088"},
+{"nexusFileName":"SGT_Astral Fury - No Gith Spots","nexusFileVersion":"1.0.4","nexusFileUploadedAt":1787764365,"pakFileName":"SGT_AstralFury_ae46be95-b478-7487-f6a8-a878448cf088.pak","nexusFileId":129065,"metaUuid":"ae46be95-b478-7487-f6a8-a878448cf088"},
+{"nexusFileName":"SGT_Astral Fury - No Tattoo","nexusFileVersion":"1.0.4","nexusFileUploadedAt":1787764436,"pakFileName":"SGT_AstralFury_ae46be95-b478-7487-f6a8-a878448cf088.pak","nexusFileId":129066,"metaUuid":"ae46be95-b478-7487-f6a8-a878448cf088"},
+{"nexusFileName":"SGT_Astral Fury - Black Lipstick","nexusFileVersion":"1.0.4","nexusFileUploadedAt":1787764509,"pakFileName":"SGT_AstralFury_ae46be95-b478-7487-f6a8-a878448cf088.pak","nexusFileId":129067,"metaUuid":"ae46be95-b478-7487-f6a8-a878448cf088"},
+{"nexusFileName":"SGT_Astral Fury - Lae'zel Edit","nexusFileVersion":"1.0.4","nexusFileUploadedAt":1787764605,"pakFileName":"SGT_AstralFury_ae46be95-b478-7487-f6a8-a878448cf088.pak","nexusFileId":129069,"metaUuid":"ae46be95-b478-7487-f6a8-a878448cf088"}
 ]},
 "24410":{"nexusModName":"Origin Traits","nexusUploadedBy":"Dreamerydia","nexusModId":24410,"paks":[
 {"nexusFileName":"OriginTraits V1.1.0","nexusFileVersion":"1.1.0","nexusFileUploadedAt":1787511559,"pakFileName":"OriginTraits.pak","nexusFileId":128860,"metaUuid":"a06c7ab0-44df-4e78-bec4-d1485e250fbf"}
@@ -69050,7 +69050,7 @@
 {"nexusFileName":"CustomCompanions Russian","nexusFileVersion":"2.2.2.1","nexusFileUploadedAt":1787699995,"pakFileName":"CustomCompanions_russian.pak","nexusFileId":129006,"metaUuid":null}
 ]},
 "24632":{"nexusModName":"Unlocked Deities","nexusUploadedBy":"Sai","nexusModId":24632,"paks":[
-{"nexusFileName":"UnlockedDeities","nexusFileVersion":"1.0","nexusFileUploadedAt":1787698258,"pakFileName":"UnlockedDeities.pak","nexusFileId":129005,"metaUuid":"73aa8f68-f85a-42e5-93f2-36655021ff98"}
+{"nexusFileName":"UnlockedDeities","nexusFileVersion":"2.0","nexusFileUploadedAt":1787766044,"pakFileName":"UnlockedDeities.pak","nexusFileId":129070,"metaUuid":"73aa8f68-f85a-42e5-93f2-36655021ff98"}
 ]},
 "24634":{"nexusModName":"Species Expansion","nexusUploadedBy":"matt1998","nexusModId":24634,"paks":[
 {"nexusFileName":"SpeciesExpansion","nexusFileVersion":"1","nexusFileUploadedAt":1787722762,"pakFileName":"Non-PlayableRacesPlayable_330a0158-30ca-19a3-49cf-a975edad8689.pak","nexusFileId":129020,"metaUuid":null}
@@ -69084,4 +69084,7 @@
 "24643":{"nexusModName":"Stronger Soulcoin Infernal Fury Buff - Russian translation","nexusUploadedBy":"SNKmod777","nexusModId":24643,"paks":[
 {"nexusFileName":"Stronger SoulCoin Levelmap Conditionless RU","nexusFileVersion":"1","nexusFileUploadedAt":1787752452,"pakFileName":"Stronger_SoulCoin_Levelmap_Conditionless_RU.pak","nexusFileId":129057,"metaUuid":null},
 {"nexusFileName":"Stronger SoulCoin Levelmap RU","nexusFileVersion":"1","nexusFileUploadedAt":1787752482,"pakFileName":"Stronger_SoulCoin_Levelmap_RU.pak","nexusFileId":129058,"metaUuid":null}
+]},
+"24644":{"nexusModName":"Ziva Goddess Dress","nexusUploadedBy":"Apzurv","nexusModId":24644,"paks":[
+{"nexusFileName":"Ziva Goddess Dress","nexusFileVersion":"1.0","nexusFileUploadedAt":1787763646,"pakFileName":"Ziva_GoddessDress.pak","nexusFileId":129063,"metaUuid":null}
 ]}}
