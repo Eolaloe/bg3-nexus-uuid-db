@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-08-26T14:53:31.482937+00:00","total_mods":17387},
+{"_meta":{"last_run":"2026-08-26T15:53:45.869668+00:00","total_mods":17387},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -207,6 +207,7 @@
 {"nexusFileName":"Satan Hardcore Mode","nexusFileVersion":"1.0","nexusFileUploadedAt":1610884285,"pakFileName":"satanhardcore.pak","nexusFileId":865,"metaUuid":null}
 ]},
 "167":{"nexusModName":"Feats Extra","nexusUploadedBy":"lostsoulman","nexusModId":167,"paks":[
+{"nexusFileName":"featsextra_Addon_Valdacil","nexusFileVersion":"1.0","nexusFileUploadedAt":1714990479,"pakFileName":"featsextra_Addon_Valdacil.pak","nexusFileId":56114,"metaUuid":null},
 {"nexusFileName":"featsextra_ORDERFEATS","nexusFileVersion":"1.0","nexusFileUploadedAt":1741335121,"pakFileName":"featsextra_ORDERFEATS.pak","nexusFileId":86827,"metaUuid":"b6eb4bf3-cf5d-42f0-8946-79794c18d5b6"},
 {"nexusFileName":"featsextra_Limit","nexusFileVersion":"1.0","nexusFileUploadedAt":1749011474,"pakFileName":"featsextra_Limit.pak","nexusFileId":95033,"metaUuid":"5c1a2f89-fc53-4b20-b154-ffce743788f2"},
 {"nexusFileName":"featsextra","nexusFileVersion":"1.71","nexusFileUploadedAt":1770683601,"pakFileName":"featsextra.pak","nexusFileId":114490,"metaUuid":"0c036a05-f3e4-4422-87bd-eadadf96c161"},
@@ -69026,7 +69027,7 @@
 {"nexusFileName":"CreateMoreUndead RU","nexusFileVersion":"1.1","nexusFileUploadedAt":1787605321,"pakFileName":"CreateMoreUndead_RU.pak","nexusFileId":128952,"metaUuid":null}
 ]},
 "24617":{"nexusModName":"Unarmed smites for Zariel Tieflings","nexusUploadedBy":"sarymsak","nexusModId":24617,"paks":[
-{"nexusFileName":"Unarmed Zariel tiefling smites","nexusFileVersion":"1.2","nexusFileUploadedAt":1787654879,"pakFileName":"v1.2_SAR_Unarmed-Zariel-smites_c3d49d59-5746-6ad6-7e79-6b4581b39436.pak","nexusFileId":128974,"metaUuid":null}
+{"nexusFileName":"Unarmed Zariel tiefling smites","nexusFileVersion":"2.0","nexusFileUploadedAt":1787759440,"pakFileName":"SAR_Unarmed-Zariel-Tiefling-Smites_ea8d1a1f-da43-e360-cca6-28e63eeaca53.pak","nexusFileId":129062,"metaUuid":null}
 ]},
 "24619":{"nexusModName":"Solasta Rogue Subclasses","nexusUploadedBy":"oaklei","nexusModId":24619,"paks":[
 {"nexusFileName":"Rogue Subclasses Solasta","nexusFileVersion":"1","nexusFileUploadedAt":1787603981,"pakFileName":"Solasta_subclasses_03a3acbb-bc56-f2cf-1e37-d91af75cb933.pak","nexusFileId":128950,"metaUuid":null}
@@ -69058,7 +69059,7 @@
 "24634":{"nexusModName":"Species Expansion","nexusUploadedBy":"matt1998","nexusModId":24634,"paks":[
 {"nexusFileName":"SpeciesExpansion","nexusFileVersion":"1","nexusFileUploadedAt":1787722762,"pakFileName":"Non-PlayableRacesPlayable_330a0158-30ca-19a3-49cf-a975edad8689.pak","nexusFileId":129020,"metaUuid":null}
 ]},
-"24635":{"nexusModName":"Fur Patch for Bugbear from Fantastical Multiverse - Fantastic Legacy","nexusUploadedBy":"trollerforever007","nexusModId":24635,"paks":[
+"24635":{"nexusModName":"Fur Patch for Bugbear from Fantastical Multiverse - Fantastical Legacy","nexusUploadedBy":"trollerforever007","nexusModId":24635,"paks":[
 {"nexusFileName":"Furless Patch","nexusFileVersion":"1.9.5.5","nexusFileUploadedAt":1787718562,"pakFileName":"Fur Patch for Fantastical-Bugbear.pak","nexusFileId":129013,"metaUuid":null},
 {"nexusFileName":"Ginger Fur Patch","nexusFileVersion":"1.9.5.5","nexusFileUploadedAt":1787718597,"pakFileName":"Fur Patch for Fantastical-Bugbear.pak","nexusFileId":129014,"metaUuid":null},
 {"nexusFileName":"Blonde Fur Patch","nexusFileVersion":"1.9.5.5","nexusFileUploadedAt":1787718627,"pakFileName":"Fur Patch for Fantastical-Bugbear.pak","nexusFileId":129015,"metaUuid":null},
