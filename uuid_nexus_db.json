@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-08-26T11:52:57.430979+00:00","total_mods":17385},
+{"_meta":{"last_run":"2026-08-26T12:52:40.493588+00:00","total_mods":17386},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -67423,7 +67423,8 @@
 {"nexusFileName":"Old Wizard Robe TRM1R","nexusFileVersion":"1","nexusFileUploadedAt":1787491882,"pakFileName":"OldWizardRobe_TRM1R.pak","nexusFileId":128831,"metaUuid":null},
 {"nexusFileName":"Gothyanki Gear TRM1R","nexusFileVersion":"2","nexusFileUploadedAt":1787500493,"pakFileName":"jerinski_gothyanki-gear_TRM1R.pak","nexusFileId":128850,"metaUuid":null},
 {"nexusFileName":"OWY Night Silk Brocade TRM1R","nexusFileVersion":"2","nexusFileUploadedAt":1787501008,"pakFileName":"OWYDoesOutfits_NightSilkBrocade_TRM1R.pak","nexusFileId":128851,"metaUuid":null},
-{"nexusFileName":"Epilogue Camp Clothes TRM1R","nexusFileVersion":"1","nexusFileUploadedAt":1787525765,"pakFileName":"EpilogueCampClothes_TRM1R.pak","nexusFileId":128877,"metaUuid":null}
+{"nexusFileName":"Epilogue Camp Clothes TRM1R","nexusFileVersion":"1","nexusFileUploadedAt":1787525765,"pakFileName":"EpilogueCampClothes_TRM1R.pak","nexusFileId":128877,"metaUuid":null},
+{"nexusFileName":"Agile Armor TRM1R","nexusFileVersion":"1","nexusFileUploadedAt":1787745754,"pakFileName":"AgileArmor_TRM1R.pak","nexusFileId":129054,"metaUuid":null}
 ]},
 "24060":{"nexusModName":"Quick Second Wind","nexusUploadedBy":"yoonmoonsik43","nexusModId":24060,"paks":[
 {"nexusFileName":"Quicksecondwind 11aabc80 36ad 3qmv","nexusFileVersion":"1","nexusFileUploadedAt":1784917946,"pakFileName":"QuickSecondWind_11aabc80-36ad-7197-0fd6-f66b6b5a0915.pak","nexusFileId":126385,"metaUuid":"11aabc80-36ad-7197-0fd6-f66b6b5a0915"}
@@ -69080,4 +69081,7 @@
 ]},
 "24640":{"nexusModName":"Species Expansion - Russian Translation","nexusUploadedBy":"Shiwaru","nexusModId":24640,"paks":[
 {"nexusFileName":"Species Expansion Rus","nexusFileVersion":"1.0.0.56","nexusFileUploadedAt":1787734726,"pakFileName":"Species Expansion Rus.pak","nexusFileId":129032,"metaUuid":null}
+]},
+"24641":{"nexusModName":"Bigger Vanilla Dragonborn Feet","nexusUploadedBy":"Kjorteo","nexusModId":24641,"paks":[
+{"nexusFileName":"Bigger Vanilla Dragonborn Feet","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1787747169,"pakFileName":"Bigger Dragonborn Feet.pak","nexusFileId":129055,"metaUuid":null}
 ]}}
