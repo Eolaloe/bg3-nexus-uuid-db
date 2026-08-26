@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-08-26T05:52:16.830417+00:00","total_mods":17379},
+{"_meta":{"last_run":"2026-08-26T06:52:25.621124+00:00","total_mods":17379},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -62234,9 +62234,9 @@
 ]},
 "22058":{"nexusModName":"Biomancer and Blood Cultist Original Classes","nexusUploadedBy":"gammawx","nexusModId":22058,"paks":[
 {"nexusFileName":"Non-Immersive Patch","nexusFileVersion":"1","nexusFileUploadedAt":1779676200,"pakFileName":"BCM_Biomancer_Patch_AllGear_6550a4cd-8c6f-afca-6f7a-b365ff8b7df3.pak","nexusFileId":122088,"metaUuid":"6550a4cd-8c6f-afca-6f7a-b365ff8b7df3"},
-{"nexusFileName":"Biomancer and Blood Cultist Original Class","nexusFileVersion":"2.3.0","nexusFileUploadedAt":1782608218,"pakFileName":"BCM_BiomancerBloodCult_0cd91307-625e-ad26-e05a-df06ac1bd8fc.pak","nexusFileId":124436,"metaUuid":"0cd91307-625e-ad26-e05a-df06ac1bd8fc"},
-{"nexusFileName":"Progression to Level 20 Patch","nexusFileVersion":"2.4.1","nexusFileUploadedAt":1782700937,"pakFileName":"BCM_Biomancer_Lvl20_588f3cac-4821-5ae9-1414-d4ff234c07c2.pak","nexusFileId":124514,"metaUuid":"588f3cac-4821-5ae9-1414-d4ff234c07c2"},
-{"nexusFileName":"Progression Lvl 20 Patch No-Dependency","nexusFileVersion":"2.4.2","nexusFileUploadedAt":1782773077,"pakFileName":"BCM_Biomancer_Lvl20_NoDependency.pak","nexusFileId":124562,"metaUuid":"588f3cac-4821-5ae9-1414-d4ff234c07c2"}
+{"nexusFileName":"Biomancer and Blood Cultist Original Class","nexusFileVersion":"3.0.0","nexusFileUploadedAt":1787725928,"pakFileName":"BCM_BiomancerBloodCult_0cd91307-625e-ad26-e05a-df06ac1bd8fc.pak","nexusFileId":129024,"metaUuid":"0cd91307-625e-ad26-e05a-df06ac1bd8fc"},
+{"nexusFileName":"Progression to Level 20 Patch","nexusFileVersion":"3.0.0","nexusFileUploadedAt":1787726039,"pakFileName":"BCM_Biomancer_Lvl20_588f3cac-4821-5ae9-1414-d4ff234c07c2.pak","nexusFileId":129025,"metaUuid":"588f3cac-4821-5ae9-1414-d4ff234c07c2"},
+{"nexusFileName":"Progression Lvl 20 Patch No-Dependency","nexusFileVersion":"3.0.0","nexusFileUploadedAt":1787726239,"pakFileName":"BCM_Biomancer_Lvl20_588f3cac-4821-5ae9-1414-d4ff234c07c2.pak","nexusFileId":129026,"metaUuid":"588f3cac-4821-5ae9-1414-d4ff234c07c2"}
 ]},
 "22060":{"nexusModName":"Lady Shar's spear","nexusUploadedBy":"cayssac","nexusModId":22060,"paks":[
 {"nexusFileName":"Lady Shar's spear","nexusFileVersion":"1.0","nexusFileUploadedAt":1774137261,"pakFileName":"Lady Shar's Spear.pak","nexusFileId":117237,"metaUuid":"f42dbc07-3aac-4bdf-91ff-694ee084df5e"}
@@ -67843,8 +67843,8 @@
 {"nexusFileName":"Beach Bodies Restored","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1785731316,"pakFileName":"BeachBodies_3a102489-3233-5dcb-66ba-9829e7ac2897.pak","nexusFileId":127177,"metaUuid":"3a102489-3233-5dcb-66ba-9829e7ac2897"}
 ]},
 "24245":{"nexusModName":"Celestial Emissary","nexusUploadedBy":"Hachimichimimi","nexusModId":24245,"paks":[
-{"nexusFileName":"CelestialEmissary 1.2 CN","nexusFileVersion":"1.2","nexusFileUploadedAt":1786529879,"pakFileName":"CelestialEmissary.pak","nexusFileId":127906,"metaUuid":"4d809249-e5ad-479d-9d75-8df398d4fafb"},
-{"nexusFileName":"CelestialEmissaryEnglish 1.2","nexusFileVersion":"1.2","nexusFileUploadedAt":1786530067,"pakFileName":"CelestialEmissaryEnglish.pak","nexusFileId":127907,"metaUuid":null}
+{"nexusFileName":"CelestialEmissary 1.3 CN","nexusFileVersion":"1.3","nexusFileUploadedAt":1787725186,"pakFileName":"CelestialEmissary.pak","nexusFileId":129021,"metaUuid":"4d809249-e5ad-479d-9d75-8df398d4fafb"},
+{"nexusFileName":"CelestialEmissaryEnglish 1.3","nexusFileVersion":"1.3","nexusFileUploadedAt":1787725254,"pakFileName":"CelestialEmissaryEnglish.pak","nexusFileId":129022,"metaUuid":null}
 ]},
 "24247":{"nexusModName":"The Tollmaster's Ledger - New Flesh to Gold","nexusUploadedBy":"FerionLegacy","nexusModId":24247,"paks":[
 {"nexusFileName":"The Tollmasters Ledger V1.0","nexusFileVersion":"1","nexusFileUploadedAt":1785771977,"pakFileName":"The_Tollmasters_Ledger_v1.0_source.pak","nexusFileId":127218,"metaUuid":"bea45142-3d71-44fb-916d-d459946310dd"}
@@ -69035,7 +69035,7 @@
 {"nexusFileName":"CATPACK","nexusFileVersion":"1","nexusFileUploadedAt":1787613163,"pakFileName":"CLD_Catpack_d72cf775-14aa-a6f2-a394-01293eca028f.pak","nexusFileId":128957,"metaUuid":"d72cf775-14aa-a6f2-a394-01293eca028f"}
 ]},
 "24623":{"nexusModName":"Balanced AP Usage","nexusUploadedBy":"swissfred","nexusModId":24623,"paks":[
-{"nexusFileName":"Balanced AP Usage","nexusFileVersion":"6.0.8.0","nexusFileUploadedAt":1787645010,"pakFileName":"BalancedAPUsage_493720a0-8ae9-5c01-a742-fb57141597aa.pak","nexusFileId":128971,"metaUuid":null}
+{"nexusFileName":"Balanced AP Usage","nexusFileVersion":"6.0.8.2","nexusFileUploadedAt":1787725915,"pakFileName":"BalancedAPUsage_493720a0-8ae9-5c01-a742-fb57141597aa.pak","nexusFileId":129023,"metaUuid":null}
 ]},
 "24625":{"nexusModName":"Dark Urge Isobel Reward Fixed","nexusUploadedBy":"NecroticFlame","nexusModId":24625,"paks":[
 {"nexusFileName":"Dark Urge Isobel Reward Fix","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1787649939,"pakFileName":"DarkUrgeIsobelRewardFix_c5dcb8f5-6767-6c50-82a1-c2efdfeca7e6.pak","nexusFileId":128973,"metaUuid":null}
