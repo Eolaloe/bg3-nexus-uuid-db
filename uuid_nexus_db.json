@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-08-26T18:52:50.462200+00:00","total_mods":17387},
+{"_meta":{"last_run":"2026-08-26T19:54:26.338795+00:00","total_mods":17387},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -36064,7 +36064,7 @@
 ]},
 "12727":{"nexusModName":"DnD 5.5e All-in-One BEYOND","nexusUploadedBy":"yoonmoonsik43","nexusModId":12727,"paks":[
 {"nexusFileName":"dnd2024 - V3 Legacy","nexusFileVersion":"3.4.6.4","nexusFileUploadedAt":1771945305,"pakFileName":"DnD2024_897914ef-5c96-053c-44af-0be823f895fe.pak","nexusFileId":115523,"metaUuid":"897914ef-5c96-053c-44af-0be823f895fe"},
-{"nexusFileName":"DnD 5.5e All-in-One BEYOND","nexusFileVersion":"4.12.6.0","nexusFileUploadedAt":1787741536,"pakFileName":"DnD2024_897914ef-5c96-053c-44af-0be823f895fe.pak","nexusFileId":129049,"metaUuid":"897914ef-5c96-053c-44af-0be823f895fe"}
+{"nexusFileName":"DnD 5.5e All-in-One BEYOND","nexusFileVersion":"4.12.7.0","nexusFileUploadedAt":1787770960,"pakFileName":"DnD2024_897914ef-5c96-053c-44af-0be823f895fe.pak","nexusFileId":129073,"metaUuid":"897914ef-5c96-053c-44af-0be823f895fe"}
 ]},
 "12728":{"nexusModName":"Origin-Themed Headwear KR","nexusUploadedBy":"Soorawang","nexusModId":12728,"paks":[
 {"nexusFileName":"Origin-Themed Headwear KR","nexusFileVersion":"1.0","nexusFileUploadedAt":1727930331,"pakFileName":"OriginHeadwear_kr.pak","nexusFileId":73692,"metaUuid":null}
@@ -63361,7 +63361,7 @@
 {"nexusFileName":"Fatebond","nexusFileVersion":"1.4","nexusFileUploadedAt":1784576306,"pakFileName":"Fatebond.pak","nexusFileId":126087,"metaUuid":"6cfead1f-d54c-4dfb-bc94-05e9fc1e2970"}
 ]},
 "22459":{"nexusModName":"DnD 5.5e All-in-One BEYOND Russian Localization","nexusUploadedBy":"XapcT","nexusModId":22459,"paks":[
-{"nexusFileName":"DnD 5.5e AIO Russian v0.5.8.zip","nexusFileVersion":"0.5.8","nexusFileUploadedAt":1787742175,"pakFileName":"DnD 5.5e AIO Russian.pak","nexusFileId":129051,"metaUuid":"6401e84d-daf2-416d-adeb-99c03a2487a6"}
+{"nexusFileName":"DnD 5.5e AIO Russian v0.5.9.zip","nexusFileVersion":"0.5.9","nexusFileUploadedAt":1787771890,"pakFileName":"DnD 5.5e AIO Russian.pak","nexusFileId":129106,"metaUuid":"6401e84d-daf2-416d-adeb-99c03a2487a6"}
 ]},
 "22460":{"nexusModName":"Elementally Based Gear","nexusUploadedBy":"Useyourrifle","nexusModId":22460,"paks":[
 {"nexusFileName":"Elemental_Gear.7z","nexusFileVersion":"1","nexusFileUploadedAt":1776346340,"pakFileName":"OP_Bow_56032304-f037-e077-f5e7-045d2e03ef1c.pak","nexusFileId":119147,"metaUuid":"56032304-f037-e077-f5e7-045d2e03ef1c"}
@@ -66639,17 +66639,48 @@
 {"nexusFileName":"Originals P1","nexusFileVersion":"1.0.0.4","nexusFileUploadedAt":1785160088,"pakFileName":"Originals_P1.pak","nexusFileId":126595,"metaUuid":"a736fd33-b1f3-4eae-b2e1-ebbf65fbd4e7"}
 ]},
 "23778":{"nexusModName":"Twilight Flourish - A Moonlight-Themed Melee Cantrip Based on True Strike 2024","nexusUploadedBy":"SymboJones","nexusModId":23778,"paks":[
-{"nexusFileName":"A-01. Twilight Flourish - Action Point - 1d4 Each","nexusFileVersion":"1.0.0-A-01","nexusFileUploadedAt":1784999626,"pakFileName":"Twilight Flourish - Lunar True Strike 2024 - A-01.pak","nexusFileId":126468,"metaUuid":"acc35787-59ae-4633-a078-944a09a0bd74"},
-{"nexusFileName":"A-02. Twilight Flourish - AP - 1d8 Cold","nexusFileVersion":"1.0.0-A-02","nexusFileUploadedAt":1784999686,"pakFileName":"Twilight Flourish - Lunar True Strike 2024 - A-02.pak","nexusFileId":126469,"metaUuid":"9ddba300-060e-42b7-a3a6-ea6286e15ff0"},
-{"nexusFileName":"A-03. Twilight Flourish - AP - 1d6 Cold","nexusFileVersion":"1.0.0-A-03","nexusFileUploadedAt":1784999749,"pakFileName":"Twilight Flourish - Lunar True Strike 2024 - A-03.pak","nexusFileId":126470,"metaUuid":null},
-{"nexusFileName":"A-04. Twilight Flourish - AP - 1d8 Radiant","nexusFileVersion":"1.0.0-A-04","nexusFileUploadedAt":1784999830,"pakFileName":"Twilight Flourish - Lunar True Strike 2024 - A-04.pak","nexusFileId":126471,"metaUuid":null},
-{"nexusFileName":"A-05. Twilight Flourish - AP - 1d6 Radiant","nexusFileVersion":"1.0.0-A-05","nexusFileUploadedAt":1784999892,"pakFileName":"Twilight Flourish - Lunar True Strike 2024 - A-05.pak","nexusFileId":126472,"metaUuid":null},
-{"nexusFileName":"Twilight Flourish - All Caster Addon","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1784999953,"pakFileName":"Twilight Flourish - Lunar True Strike 2024 - All Caster Addon.pak","nexusFileId":126473,"metaUuid":"1718d35f-daa7-433b-9bfc-4c9c797c0232"},
-{"nexusFileName":"B-01. Twilight Flourish - Bonus Action - 1d4 Each","nexusFileVersion":"1.0.0-B-01","nexusFileUploadedAt":1784999999,"pakFileName":"Twilight Flourish - Lunar True Strike 2024 - B-01.pak","nexusFileId":126474,"metaUuid":"841cf2c1-e1f2-4363-8901-24628845ca77"},
-{"nexusFileName":"B-02. Twilight Flourish - BA - 1d8 Cold","nexusFileVersion":"1.0.0-B-02","nexusFileUploadedAt":1785000027,"pakFileName":"Twilight Flourish - Lunar True Strike 2024 - B-02.pak","nexusFileId":126475,"metaUuid":"691016bc-4b64-4788-b9f0-63e86f6dc151"},
-{"nexusFileName":"B-03. Twilight Flourish - BA - 1d6 Cold","nexusFileVersion":"1.0.0-B-03","nexusFileUploadedAt":1785000054,"pakFileName":"Twilight Flourish - Lunar True Strike 2024 - B-03.pak","nexusFileId":126476,"metaUuid":null},
-{"nexusFileName":"B-04. Twilight Flourish - BA - 1d8 Radiant","nexusFileVersion":"1.0.0-B-04","nexusFileUploadedAt":1785000080,"pakFileName":"Twilight Flourish - Lunar True Strike 2024 - B-04.pak","nexusFileId":126477,"metaUuid":"facdac7b-7483-49f1-b1a5-049b1e9515c8"},
-{"nexusFileName":"B-05. Twilight Flourish - BA - 1d6 Radiant","nexusFileVersion":"1.0.0-B-05","nexusFileUploadedAt":1785000114,"pakFileName":"Twilight Flourish - Lunar True Strike 2024 - B-05.pak","nexusFileId":126478,"metaUuid":null}
+{"nexusFileName":"A-01. Twilight Flourish - Attack - AP - Tag - Bd4s","nexusFileVersion":"2.0.0-A-01","nexusFileUploadedAt":1787771122,"pakFileName":"Twilight Flourish - Lunar True Strike 2024 - A-01.pak","nexusFileId":129074,"metaUuid":"acc35787-59ae-4633-a078-944a09a0bd74"},
+{"nexusFileName":"A-02. Twilight Flourish - Attack - AP - Tag - Cd8s","nexusFileVersion":"2.0.0-A-02","nexusFileUploadedAt":1787771142,"pakFileName":"Twilight Flourish - Lunar True Strike 2024 - A-02.pak","nexusFileId":129075,"metaUuid":"9ddba300-060e-42b7-a3a6-ea6286e15ff0"},
+{"nexusFileName":"A-03. Twilight Flourish - Attack - AP - Tag - Cd6s","nexusFileVersion":"2.0.0-A-03","nexusFileUploadedAt":1787771161,"pakFileName":"Twilight Flourish - Lunar True Strike 2024 - A-03.pak","nexusFileId":129076,"metaUuid":null},
+{"nexusFileName":"A-04. Twilight Flourish - Attack - AP - Tag - Rd8s","nexusFileVersion":"2.0.0-A-04","nexusFileUploadedAt":1787771179,"pakFileName":"Twilight Flourish - Lunar True Strike 2024 - A-04.pak","nexusFileId":129077,"metaUuid":null},
+{"nexusFileName":"A-05. Twilight Flourish - Attack - AP - Tag - Rd6s","nexusFileVersion":"2.0.0-A-05","nexusFileUploadedAt":1787771197,"pakFileName":"Twilight Flourish - Lunar True Strike 2024 - A-05.pak","nexusFileId":129078,"metaUuid":null},
+{"nexusFileName":"Twilight Flourish - All Caster Addon - A to D","nexusFileVersion":"2.0.0","nexusFileUploadedAt":1787771227,"pakFileName":"Twilight Flourish - Lunar True Strike 2024 - All Caster Addon [A-D].pak","nexusFileId":129079,"metaUuid":null},
+{"nexusFileName":"Twilight Flourish - All Caster Addon - E to H","nexusFileVersion":"2.0.0","nexusFileUploadedAt":1787771254,"pakFileName":"Twilight Flourish - Lunar True Strike 2024 - All Caster Addon [E-H].pak","nexusFileId":129080,"metaUuid":null},
+{"nexusFileName":"B-01. Twilight Flourish - Attack - BA - Tag - Bd4s","nexusFileVersion":"2.0.0-B-01","nexusFileUploadedAt":1787771274,"pakFileName":"Twilight Flourish - Lunar True Strike 2024 - B-01.pak","nexusFileId":129081,"metaUuid":"841cf2c1-e1f2-4363-8901-24628845ca77"},
+{"nexusFileName":"B-02. Twilight Flourish - Attack - BA - Tag - Cd8s","nexusFileVersion":"2.0.0-B-02","nexusFileUploadedAt":1787771295,"pakFileName":"Twilight Flourish - Lunar True Strike 2024 - B-02.pak","nexusFileId":129082,"metaUuid":"691016bc-4b64-4788-b9f0-63e86f6dc151"},
+{"nexusFileName":"B-03. Twilight Flourish - Attack - BA - Tag - Cd6s","nexusFileVersion":"2.0.0-B-03","nexusFileUploadedAt":1787771315,"pakFileName":"Twilight Flourish - Lunar True Strike 2024 - B-03.pak","nexusFileId":129083,"metaUuid":null},
+{"nexusFileName":"B-04. Twilight Flourish - Attack - BA - Tag - Rd8s","nexusFileVersion":"2.0.0-B-04","nexusFileUploadedAt":1787771334,"pakFileName":"Twilight Flourish - Lunar True Strike 2024 - B-04.pak","nexusFileId":129084,"metaUuid":"facdac7b-7483-49f1-b1a5-049b1e9515c8"},
+{"nexusFileName":"B-05. Twilight Flourish - Attack - BA - Tag - Rd6s","nexusFileVersion":"2.0.0-B-05","nexusFileUploadedAt":1787771352,"pakFileName":"Twilight Flourish - Lunar True Strike 2024 - B-05.pak","nexusFileId":129085,"metaUuid":null},
+{"nexusFileName":"C-01. Twilight Flourish - Attack - AP - Bd4s","nexusFileVersion":"2.0.0-C-01","nexusFileUploadedAt":1787771369,"pakFileName":"Twilight Flourish - Lunar True Strike 2024 - C-01.pak","nexusFileId":129086,"metaUuid":null},
+{"nexusFileName":"C-02. Twilight Flourish - Attack - AP - Cd8s","nexusFileVersion":"2.0.0-C-02","nexusFileUploadedAt":1787771389,"pakFileName":"Twilight Flourish - Lunar True Strike 2024 - C-02.pak","nexusFileId":129087,"metaUuid":null},
+{"nexusFileName":"C-03. Twilight Flourish - Attack - AP - Cd6s","nexusFileVersion":"2.0.0-C-03","nexusFileUploadedAt":1787771410,"pakFileName":"Twilight Flourish - Lunar True Strike 2024 - C-03.pak","nexusFileId":129088,"metaUuid":null},
+{"nexusFileName":"C-04. Twilight Flourish - Attack - AP - Rd8s","nexusFileVersion":"2.0.0-C-04","nexusFileUploadedAt":1787771429,"pakFileName":"Twilight Flourish - Lunar True Strike 2024 - C-04.pak","nexusFileId":129089,"metaUuid":null},
+{"nexusFileName":"C-05. Twilight Flourish - Attack - AP - Rd6s","nexusFileVersion":"2.0.0-C-05","nexusFileUploadedAt":1787771449,"pakFileName":"Twilight Flourish - Lunar True Strike 2024 - C-05.pak","nexusFileId":129090,"metaUuid":null},
+{"nexusFileName":"D-01. Twilight Flourish - Attack - BA - Bd4s","nexusFileVersion":"2.0.0-D-01","nexusFileUploadedAt":1787771468,"pakFileName":"Twilight Flourish - Lunar True Strike 2024 - D-01.pak","nexusFileId":129091,"metaUuid":null},
+{"nexusFileName":"D-02. Twilight Flourish - Attack - BA - Cd8s","nexusFileVersion":"2.0.0-D-02","nexusFileUploadedAt":1787771488,"pakFileName":"Twilight Flourish - Lunar True Strike 2024 - D-02.pak","nexusFileId":129092,"metaUuid":null},
+{"nexusFileName":"D-03. Twilight Flourish - Attack - BA - Cd6s","nexusFileVersion":"2.0.0-D-03","nexusFileUploadedAt":1787771508,"pakFileName":"Twilight Flourish - Lunar True Strike 2024 - D-03.pak","nexusFileId":129093,"metaUuid":null},
+{"nexusFileName":"D-04. Twilight Flourish - Attack - BA - Rd8s","nexusFileVersion":"2.0.0-D-04","nexusFileUploadedAt":1787771527,"pakFileName":"Twilight Flourish - Lunar True Strike 2024 - D-04.pak","nexusFileId":129094,"metaUuid":null},
+{"nexusFileName":"D-05. Twilight Flourish - Attack - BA - Rd6s","nexusFileVersion":"2.0.0-D-05","nexusFileUploadedAt":1787771546,"pakFileName":"Twilight Flourish - Lunar True Strike 2024 - D-05.pak","nexusFileId":129095,"metaUuid":null},
+{"nexusFileName":"E-01. Twilight Flourish - Buff - AP - Tag - Bd4s","nexusFileVersion":"2.0.0-E-01","nexusFileUploadedAt":1787771564,"pakFileName":"Twilight Flourish - Lunar True Strike 2024 - E-01.pak","nexusFileId":129096,"metaUuid":null},
+{"nexusFileName":"E-02. Twilight Flourish - Buff - AP - Tag - Cd8s","nexusFileVersion":"2.0.0-E-02","nexusFileUploadedAt":1787771583,"pakFileName":"Twilight Flourish - Lunar True Strike 2024 - E-02.pak","nexusFileId":129097,"metaUuid":null},
+{"nexusFileName":"E-03. Twilight Flourish - Buff - AP - Tag - Cd6s","nexusFileVersion":"2.0.0-E-03","nexusFileUploadedAt":1787771604,"pakFileName":"Twilight Flourish - Lunar True Strike 2024 - E-03.pak","nexusFileId":129098,"metaUuid":null},
+{"nexusFileName":"E-04. Twilight Flourish - Buff - AP - Tag - Rd8s","nexusFileVersion":"2.0.0-E-04","nexusFileUploadedAt":1787771623,"pakFileName":"Twilight Flourish - Lunar True Strike 2024 - E-04.pak","nexusFileId":129099,"metaUuid":null},
+{"nexusFileName":"E-05. Twilight Flourish - Buff - AP - Tag - Rd6s","nexusFileVersion":"2.0.0-E-05","nexusFileUploadedAt":1787771645,"pakFileName":"Twilight Flourish - Lunar True Strike 2024 - E-05.pak","nexusFileId":129100,"metaUuid":null},
+{"nexusFileName":"F-01. Twilight Flourish - Buff - BA - Tag - Bd4s","nexusFileVersion":"2.0.0-F-01","nexusFileUploadedAt":1787771669,"pakFileName":"Twilight Flourish - Lunar True Strike 2024 - F-01.pak","nexusFileId":129101,"metaUuid":null},
+{"nexusFileName":"F-02. Twilight Flourish - Buff - BA - Tag - Cd8s","nexusFileVersion":"2.0.0-F-02","nexusFileUploadedAt":1787771687,"pakFileName":"Twilight Flourish - Lunar True Strike 2024 - F-02.pak","nexusFileId":129102,"metaUuid":null},
+{"nexusFileName":"F-03. Twilight Flourish - Buff - BA - Tag - Cd6s","nexusFileVersion":"2.0.0-F-03","nexusFileUploadedAt":1787771711,"pakFileName":"Twilight Flourish - Lunar True Strike 2024 - F-03.pak","nexusFileId":129103,"metaUuid":null},
+{"nexusFileName":"F-04. Twilight Flourish - Buff - BA - Tag - Rd8s","nexusFileVersion":"2.0.0-F-04","nexusFileUploadedAt":1787771732,"pakFileName":"Twilight Flourish - Lunar True Strike 2024 - F-04.pak","nexusFileId":129104,"metaUuid":null},
+{"nexusFileName":"F-05. Twilight Flourish - Buff - BA - Tag - Rd6s","nexusFileVersion":"2.0.0-F-05","nexusFileUploadedAt":1787771756,"pakFileName":"Twilight Flourish - Lunar True Strike 2024 - F-05.pak","nexusFileId":129105,"metaUuid":null},
+{"nexusFileName":"G-01. Twilight Flourish - Buff - AP - Bd4s","nexusFileVersion":"2.0.0-G-01","nexusFileUploadedAt":1787772126,"pakFileName":"Twilight Flourish - Lunar True Strike 2024 - G-01.pak","nexusFileId":129107,"metaUuid":null},
+{"nexusFileName":"G-02. Twilight Flourish - Buff - AP - Cd8s","nexusFileVersion":"2.0.0-G-02","nexusFileUploadedAt":1787772145,"pakFileName":"Twilight Flourish - Lunar True Strike 2024 - G-02.pak","nexusFileId":129108,"metaUuid":null},
+{"nexusFileName":"G-03. Twilight Flourish - Buff - AP - Cd6s","nexusFileVersion":"2.0.0-G-03","nexusFileUploadedAt":1787772162,"pakFileName":"Twilight Flourish - Lunar True Strike 2024 - G-03.pak","nexusFileId":129109,"metaUuid":null},
+{"nexusFileName":"G-04. Twilight Flourish - Buff - AP - Rd8s","nexusFileVersion":"2.0.0-G-04","nexusFileUploadedAt":1787772179,"pakFileName":"Twilight Flourish - Lunar True Strike 2024 - G-04.pak","nexusFileId":129110,"metaUuid":null},
+{"nexusFileName":"G-05. Twilight Flourish - Buff - AP - Rd6s","nexusFileVersion":"2.0.0-G-05","nexusFileUploadedAt":1787772195,"pakFileName":"Twilight Flourish - Lunar True Strike 2024 - G-05.pak","nexusFileId":129111,"metaUuid":null},
+{"nexusFileName":"H-01. Twilight Flourish - Buff - BA - Bd4s","nexusFileVersion":"2.0.0-H-01","nexusFileUploadedAt":1787772327,"pakFileName":"Twilight Flourish - Lunar True Strike 2024 - H-01.pak","nexusFileId":129112,"metaUuid":null},
+{"nexusFileName":"H-02. Twilight Flourish - Buff - BA - Cd8s","nexusFileVersion":"2.0.0-H-02","nexusFileUploadedAt":1787772348,"pakFileName":"Twilight Flourish - Lunar True Strike 2024 - H-02.pak","nexusFileId":129113,"metaUuid":null},
+{"nexusFileName":"H-03. Twilight Flourish - Buff - BA - Cd6s","nexusFileVersion":"2.0.0-H-03","nexusFileUploadedAt":1787772513,"pakFileName":"Twilight Flourish - Lunar True Strike 2024 - H-03.pak","nexusFileId":129114,"metaUuid":null},
+{"nexusFileName":"H-04. Twilight Flourish - Buff - BA - Rd8s","nexusFileVersion":"2.0.0-H-04","nexusFileUploadedAt":1787772530,"pakFileName":"Twilight Flourish - Lunar True Strike 2024 - H-04.pak","nexusFileId":129115,"metaUuid":null},
+{"nexusFileName":"H-05. Twilight Flourish - Buff - BA - Rd6s","nexusFileVersion":"2.0.0-H-05","nexusFileUploadedAt":1787772547,"pakFileName":"Twilight Flourish - Lunar True Strike 2024 - H-05.pak","nexusFileId":129116,"metaUuid":null}
 ]},
 "23779":{"nexusModName":"Silverlight Smite - A Moonlight-Themed Divine Smite Alternative","nexusUploadedBy":"SymboJones","nexusModId":23779,"paks":[
 {"nexusFileName":"A-01. Silverlight Smite - Vanilla - Both types d4s","nexusFileVersion":"1.0.0-A-01","nexusFileUploadedAt":1785250089,"pakFileName":"Silverlight Smite - Lunar Divine Smite - A-01.pak","nexusFileId":126664,"metaUuid":"c6623a62-f962-4741-8a39-bb2b388f73ea"},
@@ -66814,7 +66845,7 @@
 {"nexusFileName":"steelroserapier","nexusFileVersion":"1.1.0.2","nexusFileUploadedAt":1784545216,"pakFileName":"SteelRoseRapier_6d4048e2-74e6-f8d8-a11e-b14e0984795f.pak","nexusFileId":126071,"metaUuid":"6d4048e2-74e6-f8d8-a11e-b14e0984795f"}
 ]},
 "23840":{"nexusModName":"Darker Urge - Roll to Resist Your Fate","nexusUploadedBy":"RevolutionScribe","nexusModId":23840,"paks":[
-{"nexusFileName":"Darker Urge","nexusFileVersion":"1.0.0.9","nexusFileUploadedAt":1784123247,"pakFileName":"DarkerUrge_1.0.0.9.pak","nexusFileId":125707,"metaUuid":"df43f64e-685a-4c94-38fe-9d422c53fb69"}
+{"nexusFileName":"Darker Urge","nexusFileVersion":"1.0.0.10","nexusFileUploadedAt":1787772573,"pakFileName":"DarkerUrge_1.0.0.10.pak","nexusFileId":129117,"metaUuid":null}
 ]},
 "23841":{"nexusModName":"Witcher 3 - Syanna's Gear","nexusUploadedBy":"westhavian","nexusModId":23841,"paks":[
 {"nexusFileName":"WM SyannaOutfit","nexusFileVersion":"2","nexusFileUploadedAt":1784068569,"pakFileName":"WM_SyannaOutfit_60c27a06-db52-3ca3-571e-68f93b7c8175.pak","nexusFileId":125657,"metaUuid":"60c27a06-db52-3ca3-571e-68f93b7c8175"}
