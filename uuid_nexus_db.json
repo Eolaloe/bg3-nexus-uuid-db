@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-08-27T11:53:01.386558+00:00","total_mods":17388},
+{"_meta":{"last_run":"2026-08-27T12:52:56.707621+00:00","total_mods":17388},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -36371,7 +36371,7 @@
 {"nexusFileName":"TheTrueChampion_v1.2 - BR","nexusFileVersion":"1.0","nexusFileUploadedAt":1728187370,"pakFileName":"TheTrueChampion_v1.2 - BR.pak","nexusFileId":74189,"metaUuid":null}
 ]},
 "12834":{"nexusModName":"Goon's Library - Passives Functions Spells and More","nexusUploadedBy":"BaldursGoonsack","nexusModId":12834,"paks":[
-{"nexusFileName":"Goon's Library","nexusFileVersion":"4.25.3.0","nexusFileUploadedAt":1787816099,"pakFileName":"Goon's Library.pak","nexusFileId":129139,"metaUuid":"07fbc2f1-f359-4b9d-b243-fe28bd783e4c"}
+{"nexusFileName":"Goon's Library","nexusFileVersion":"4.26.0.0","nexusFileUploadedAt":1787834283,"pakFileName":"Goon's Library.pak","nexusFileId":129151,"metaUuid":"07fbc2f1-f359-4b9d-b243-fe28bd783e4c"}
 ]},
 "12835":{"nexusModName":"Fiendish Races (Succubus and Cambions)","nexusUploadedBy":"haytur","nexusModId":12835,"paks":[
 {"nexusFileName":"Fiendish Races","nexusFileVersion":"1.5","nexusFileUploadedAt":1754198767,"pakFileName":"CambionRace.pak","nexusFileId":99769,"metaUuid":"d3a48c4c-f446-a697-1982-5628a8ebb728"}
@@ -52455,8 +52455,10 @@
 {"nexusFileName":"FlickerStrike","nexusFileVersion":"1.00","nexusFileUploadedAt":1758628891,"pakFileName":"FlickerStrike_20378825-f98b-8e44-ae73-dde374007b9a.pak","nexusFileId":103502,"metaUuid":"20378825-f98b-8e44-ae73-dde374007b9a"}
 ]},
 "18819":{"nexusModName":"Vampire Lord Transformation","nexusUploadedBy":"cayssac","nexusModId":18819,"paks":[
-{"nexusFileName":"Vampire Lord Transformation Ring 7.3","nexusFileVersion":"7.3","nexusFileUploadedAt":1787306121,"pakFileName":"Vampire True form ring [V7] AutoDismiss-Transform.pak","nexusFileId":128603,"metaUuid":"783fbc12-dfee-4c44-9d7a-05a5f53926d9"},
-{"nexusFileName":"Vampire Lord Transformation Ring NOCD 7.3","nexusFileVersion":"7.3","nexusFileUploadedAt":1787306148,"pakFileName":"Vampire True form ring [V7] AutoDismiss-Transform - NOCD.pak","nexusFileId":128604,"metaUuid":"783fbc12-dfee-4c44-9d7a-05a5f53926d9"}
+{"nexusFileName":"Vampire Lord - NOCD NOAUTO","nexusFileVersion":"8","nexusFileUploadedAt":1787832640,"pakFileName":"Vampire True form ring - SKILLBAR - NO AUTO - NOCD.pak","nexusFileId":129147,"metaUuid":null},
+{"nexusFileName":"Vampire Lord - NOAUTO - WILDSHAPE SKILLBAR","nexusFileVersion":"8","nexusFileUploadedAt":1787832786,"pakFileName":"Vampire True form ring - SKILLBAR - NO AUTO.pak","nexusFileId":129148,"metaUuid":null},
+{"nexusFileName":"Vampire Lord - AUTO - SKILLBAR","nexusFileVersion":"8","nexusFileUploadedAt":1787832869,"pakFileName":"Vampire True form ring - AutoDismiss-Transform - SKILLBAR.pak","nexusFileId":129149,"metaUuid":null},
+{"nexusFileName":"Vampire Lord - AUTO - NOSKILLBAR","nexusFileVersion":"8","nexusFileUploadedAt":1787832947,"pakFileName":"Vampire True form ring - AutoDismiss-Transform - NO SKILLBAR.pak","nexusFileId":129150,"metaUuid":null}
 ]},
 "18820":{"nexusModName":"DarkKnight Class - Embrace your darkness_KOR","nexusUploadedBy":"Kei8725","nexusModId":18820,"paks":[
 {"nexusFileName":"DarkKnight Class - Embrace your darkness_KOR","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1758637121,"pakFileName":"DarkKnight_KOR.pak","nexusFileId":103511,"metaUuid":"dcde3a86-8b3b-4026-b3fe-5c77034767d0"}
@@ -68784,7 +68786,7 @@
 {"nexusFileName":"Unbreakable Domination","nexusFileVersion":"1","nexusFileUploadedAt":1787086662,"pakFileName":"RR_UnbreakableDomination.pak","nexusFileId":128420,"metaUuid":null}
 ]},
 "24507":{"nexusModName":"Bhaal's Forgotten Son","nexusUploadedBy":"RealYablo","nexusModId":24507,"paks":[
-{"nexusFileName":"BhaalsForgottenSon 1.0.5","nexusFileVersion":"1.0.5","nexusFileUploadedAt":1787744139,"pakFileName":"hold_on_2ec64c1b-f0e2-d572-c5da-78e09a4ebc08.pak","nexusFileId":129053,"metaUuid":"2ec64c1b-f0e2-d572-c5da-78e09a4ebc08"}
+{"nexusFileName":"BhaalsForgottenSon 1.0.6","nexusFileVersion":"1.0.6","nexusFileUploadedAt":1787832034,"pakFileName":"hold_on_2ec64c1b-f0e2-d572-c5da-78e09a4ebc08.pak","nexusFileId":129146,"metaUuid":"2ec64c1b-f0e2-d572-c5da-78e09a4ebc08"}
 ]},
 "24508":{"nexusModName":"Moon's Half Orcs","nexusUploadedBy":"AdrasteaMoon","nexusModId":24508,"paks":[
 {"nexusFileName":"Main File","nexusFileVersion":"1","nexusFileUploadedAt":1787099791,"pakFileName":"Moon's Orcs.pak","nexusFileId":128431,"metaUuid":"0ad3841f-672c-46cf-b1cf-044a8af97b0e"}
