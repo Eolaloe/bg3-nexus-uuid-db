@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-08-27T14:52:29.145823+00:00","total_mods":17390},
+{"_meta":{"last_run":"2026-08-27T15:52:45.897910+00:00","total_mods":17389},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -53762,7 +53762,7 @@
 {"nexusFileName":"Sylus head MOD - UTAV -  V2","nexusFileVersion":"V2","nexusFileUploadedAt":1762240977,"pakFileName":"xxhh_bg3_sylus_head_2448453f-7814-6cd8-3f03-aa3b55ee3583.pak","nexusFileId":106730,"metaUuid":"2448453f-7814-6cd8-3f03-aa3b55ee3583"}
 ]},
 "19315":{"nexusModName":"Skynet","nexusUploadedBy":"JustAnotherHomoSapien","nexusModId":19315,"paks":[
-{"nexusFileName":"Skynet","nexusFileVersion":"4.15","nexusFileUploadedAt":1786529097,"pakFileName":"Skynet.pak","nexusFileId":127905,"metaUuid":"e883778e-f8ae-9d7c-aa01-e738c7fb1040"}
+{"nexusFileName":"Skynet","nexusFileVersion":"5","nexusFileUploadedAt":1787843682,"pakFileName":"Skynet.pak","nexusFileId":129155,"metaUuid":"e883778e-f8ae-9d7c-aa01-e738c7fb1040"}
 ]},
 "19316":{"nexusModName":"Way of the Crimson Fist_KOR","nexusUploadedBy":"Kei8725","nexusModId":19316,"paks":[
 {"nexusFileName":"Way of the Crimson Fist_KOR","nexusFileVersion":"1.0.0.1","nexusFileUploadedAt":1761021522,"pakFileName":"CrimsonFist_KOR.pak","nexusFileId":105695,"metaUuid":"1cc5f550-0c0a-4f99-8746-717ff34b7bbd"}
@@ -64258,9 +64258,9 @@
 {"nexusFileName":"Alfira Death Delayed","nexusFileVersion":"1","nexusFileUploadedAt":1779014900,"pakFileName":"Alfira_Death_Delayed_0261b107-6a72-983d-773c-1e9232c2dc94.pak","nexusFileId":121432,"metaUuid":"0261b107-6a72-983d-773c-1e9232c2dc94"}
 ]},
 "22808":{"nexusModName":"Devil May Cry 5 (DMC5) Nero Clothes","nexusUploadedBy":"KraytClaw","nexusModId":22808,"paks":[
-{"nexusFileName":"NeroClothes","nexusFileVersion":"1.1","nexusFileUploadedAt":1781518391,"pakFileName":"_NeroClothes.pak","nexusFileId":123652,"metaUuid":"97f9ee5d-9bc1-4ed9-b30c-f07150a1eff2"},
 {"nexusFileName":"NeroClothesDyable","nexusFileVersion":"1.1","nexusFileUploadedAt":1786116395,"pakFileName":"_NeroClothesDyable.pak","nexusFileId":127510,"metaUuid":"47ab3844-1c50-4664-9c5f-668eb91ff25b"},
-{"nexusFileName":" NeroClothes BreakersMSFix","nexusFileVersion":"1.0","nexusFileUploadedAt":1787445660,"pakFileName":"_NeroClothes_BreakersMSFix.pak","nexusFileId":128741,"metaUuid":null}
+{"nexusFileName":" NeroClothes BreakersMSFix","nexusFileVersion":"1.0","nexusFileUploadedAt":1787445660,"pakFileName":"_NeroClothes_BreakersMSFix.pak","nexusFileId":128741,"metaUuid":null},
+{"nexusFileName":"NeroClothes","nexusFileVersion":"1.2","nexusFileUploadedAt":1787845030,"pakFileName":"_NeroClothes.pak","nexusFileId":129156,"metaUuid":"97f9ee5d-9bc1-4ed9-b30c-f07150a1eff2"}
 ]},
 "22809":{"nexusModName":"Instrument Poses - Singing and Piano (Bard Poses Part 5)","nexusUploadedBy":"HastursQueen","nexusModId":22809,"paks":[
 {"nexusFileName":"SingingAndPianoPoses","nexusFileVersion":"1","nexusFileUploadedAt":1779730658,"pakFileName":"SingingAndPianoPoses.pak","nexusFileId":122123,"metaUuid":"96d210a9-6488-ea09-77f3-686a58b7d5db"}
@@ -66105,7 +66105,8 @@
 {"nexusFileName":"ModdedVanillaExperienceByDoyaSolutions","nexusFileVersion":"1.0.0.1","nexusFileUploadedAt":1782542133,"pakFileName":"ModdedVanillaExperienceByDoyaSolutions.pak","nexusFileId":124359,"metaUuid":"7fef9c20-cfb5-4d47-8b6f-b5d6e9e807cc"}
 ]},
 "23572":{"nexusModName":"Dawnbringer","nexusUploadedBy":"bennymp4","nexusModId":23572,"paks":[
-{"nexusFileName":"Dawnbringer","nexusFileVersion":"1.0.2.0","nexusFileUploadedAt":1782503502,"pakFileName":"Dawnbringer_a40101f7-a0d8-9773-2a84-d93f642782cb.pak","nexusFileId":124344,"metaUuid":"a40101f7-a0d8-9773-2a84-d93f642782cb"}
+{"nexusFileName":"Dawnbringer (Lore Friendly)","nexusFileVersion":"1.0.2.0","nexusFileUploadedAt":1782503502,"pakFileName":"Dawnbringer_a40101f7-a0d8-9773-2a84-d93f642782cb.pak","nexusFileId":124344,"metaUuid":"a40101f7-a0d8-9773-2a84-d93f642782cb"},
+{"nexusFileName":"Dawnbringer (Tutorial Chest)","nexusFileVersion":"1.0.2.4","nexusFileUploadedAt":1787845590,"pakFileName":"Dawnbringer_a40101f7-a0d8-9773-2a84-d93f642782cb.pak","nexusFileId":129157,"metaUuid":"a40101f7-a0d8-9773-2a84-d93f642782cb"}
 ]},
 "23573":{"nexusModName":"A Little Bit Dramatic Pose Pack","nexusUploadedBy":"Marymeeee","nexusModId":23573,"paks":[
 {"nexusFileName":"ALittleBitDramatic","nexusFileVersion":"1","nexusFileUploadedAt":1782500315,"pakFileName":"ALittleBitDramatic_112d5413-3b49-64d0-9d5d-ff0fe03fc20b.pak","nexusFileId":124340,"metaUuid":"112d5413-3b49-64d0-9d5d-ff0fe03fc20b"}
