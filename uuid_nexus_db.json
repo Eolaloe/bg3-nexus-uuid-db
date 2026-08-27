@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-08-27T17:52:56.163389+00:00","total_mods":17390},
+{"_meta":{"last_run":"2026-08-27T18:52:35.534263+00:00","total_mods":17393},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -68195,6 +68195,9 @@
 "24385":{"nexusModName":"Dread Knight Flail","nexusUploadedBy":"SaberDelta","nexusModId":24385,"paks":[
 {"nexusFileName":"Dread Knight Flail","nexusFileVersion":"1.2","nexusFileUploadedAt":1786819109,"pakFileName":"Dread_Knight_Flail.pak","nexusFileId":128157,"metaUuid":"1fc029cc-3806-4b52-b59d-fdfa4caae782"}
 ]},
+"24386":{"nexusModName":"Scarlet Witch","nexusUploadedBy":"danliyev","nexusModId":24386,"paks":[
+{"nexusFileName":"Scarlet Witch","nexusFileVersion":"1.0.0.26","nexusFileUploadedAt":1787853086,"pakFileName":"Scarlet_Witch_c657bd59-7da8-c017-8f08-1c23acc45aca.pak","nexusFileId":129165,"metaUuid":null}
+]},
 "24387":{"nexusModName":"Stuffy McGoldpaws - Portable Loot Compressor","nexusUploadedBy":"FerionLegacy","nexusModId":24387,"paks":[
 {"nexusFileName":"StuffyMcGoldpaws V1.0.0 Balanced","nexusFileVersion":"1","nexusFileUploadedAt":1786489683,"pakFileName":"StuffyMcGoldpaws_v1.0.0_Balanced.pak","nexusFileId":127880,"metaUuid":null},
 {"nexusFileName":"StuffyMcGoldpaws V1.0.0 OP","nexusFileVersion":"1","nexusFileUploadedAt":1786489695,"pakFileName":"StuffyMcGoldpaws_v1.0.0_OP.pak","nexusFileId":127881,"metaUuid":null}
@@ -68734,6 +68737,9 @@
 "24482":{"nexusModName":"God Slayer (Godslayer) Class Redux","nexusUploadedBy":"pitris90","nexusModId":24482,"paks":[
 {"nexusFileName":"GodSlayer Redux - Standalone","nexusFileVersion":"3.0","nexusFileUploadedAt":1787525869,"pakFileName":"Unpacked_Godslayer.pak","nexusFileId":128878,"metaUuid":"2a979984-4e6e-879d-5852-172bffffa255"}
 ]},
+"24483":{"nexusModName":"Clothing Size Tags","nexusUploadedBy":"julesberry","nexusModId":24483,"paks":[
+{"nexusFileName":"Clothing Size Tags","nexusFileVersion":"1.0.1.0","nexusFileUploadedAt":1787853130,"pakFileName":"ClothingSizes.pak","nexusFileId":129166,"metaUuid":null}
+]},
 "24484":{"nexusModName":"Desire demon dress","nexusUploadedBy":"orionnix","nexusModId":24484,"paks":[
 {"nexusFileName":"DesireDemon Hair","nexusFileVersion":"1","nexusFileUploadedAt":1787268116,"pakFileName":"DesireDemon_Hair.pak","nexusFileId":128585,"metaUuid":null},
 {"nexusFileName":"DAO DesireDemon RefitAKM - BT1 only version","nexusFileVersion":"2","nexusFileUploadedAt":1787324927,"pakFileName":"DAO_DesireDemon_Robes_RefitAKM.pak","nexusFileId":128617,"metaUuid":null},
@@ -69087,6 +69093,9 @@
 "24631":{"nexusModName":"Full Custom Companions (Hirelings) RUS for 2.2.2.1 version","nexusUploadedBy":"detachme","nexusModId":24631,"paks":[
 {"nexusFileName":"CustomCompanions Russian","nexusFileVersion":"2.2.2.1","nexusFileUploadedAt":1787699995,"pakFileName":"CustomCompanions_russian.pak","nexusFileId":129006,"metaUuid":null}
 ]},
+"24632":{"nexusModName":"Unlocked Deities","nexusUploadedBy":"Sai","nexusModId":24632,"paks":[
+{"nexusFileName":"Unlocked Deities","nexusFileVersion":"1.2","nexusFileUploadedAt":1787854476,"pakFileName":"Unlocked Deities.pak","nexusFileId":129168,"metaUuid":null}
+]},
 "24634":{"nexusModName":"Species Expansion","nexusUploadedBy":"matt1998","nexusModId":24634,"paks":[
 {"nexusFileName":"SpeciesExpansion","nexusFileVersion":"1","nexusFileUploadedAt":1787722762,"pakFileName":"Non-PlayableRacesPlayable_330a0158-30ca-19a3-49cf-a975edad8689.pak","nexusFileId":129020,"metaUuid":null}
 ]},
@@ -69124,7 +69133,7 @@
 {"nexusFileName":"Ziva Goddess Dress","nexusFileVersion":"1.0","nexusFileUploadedAt":1787763646,"pakFileName":"Ziva_GoddessDress.pak","nexusFileId":129063,"metaUuid":"7f345cfa-d2c7-f5ba-e591-9ca7645fd363"}
 ]},
 "24646":{"nexusModName":"Azure Dragoon - A FFXIV Inspired Class","nexusUploadedBy":"SuperVertigo","nexusModId":24646,"paks":[
-{"nexusFileName":"Dragoon - A FFXIV Inspired Class","nexusFileVersion":"1.0.0.1","nexusFileUploadedAt":1787848558,"pakFileName":"Dragoon_b248e260-da4e-f87a-f349-365a1f92a3b2.pak","nexusFileId":129162,"metaUuid":null}
+{"nexusFileName":"Dragoon - A FFXIV Inspired Class","nexusFileVersion":"1.0.0.2","nexusFileUploadedAt":1787856676,"pakFileName":"Dragoon_b248e260-da4e-f87a-f349-365a1f92a3b2.pak","nexusFileId":129173,"metaUuid":null}
 ]},
 "24648":{"nexusModName":"Shadowrogue Outfit BT1","nexusUploadedBy":"Ayuro","nexusModId":24648,"paks":[
 {"nexusFileName":"AYU R2 Shadowrogue","nexusFileVersion":"1","nexusFileUploadedAt":1787836143,"pakFileName":"AYU_R2_Shadowrogue_1ce42c9c-49ee-4ae2-bad5-743c7fb6a3a2.pak","nexusFileId":129152,"metaUuid":null}
