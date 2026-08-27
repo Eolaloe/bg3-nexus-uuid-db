@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-08-27T19:52:11.804592+00:00","total_mods":17393},
+{"_meta":{"last_run":"2026-08-27T20:52:25.525298+00:00","total_mods":17395},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -68792,8 +68792,12 @@
 {"nexusFileName":"Permanent Domination","nexusFileVersion":"1","nexusFileUploadedAt":1787086453,"pakFileName":"RR_PermanentDomination.pak","nexusFileId":128419,"metaUuid":"d1ee762f-0816-dc7a-300a-b8b909cc1c65"},
 {"nexusFileName":"Unbreakable Domination","nexusFileVersion":"1","nexusFileUploadedAt":1787086662,"pakFileName":"RR_UnbreakableDomination.pak","nexusFileId":128420,"metaUuid":null}
 ]},
+"24505":{"nexusModName":"Pick Your Party Clothes - Epilogue Clothing Storage System","nexusUploadedBy":"magnetuning","nexusModId":24505,"paks":[
+{"nexusFileName":"Pick Your Party Clothes - Epilogue Clothes Storage","nexusFileVersion":"1.0.0.3","nexusFileUploadedAt":1787802402,"pakFileName":"MGNTN_PickEPIOutfitsSpell.pak","nexusFileId":129134,"metaUuid":null},
+{"nexusFileName":"Epilogue Clothing Storage System - G-d Gale Patch","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1787802764,"pakFileName":"MGNTN_PickEPIOutfits_GdGale.pak","nexusFileId":129135,"metaUuid":null}
+]},
 "24507":{"nexusModName":"Bhaal's Forgotten Son","nexusUploadedBy":"RealYablo","nexusModId":24507,"paks":[
-{"nexusFileName":"BhaalsForgottenSon 1.0.6","nexusFileVersion":"1.0.6","nexusFileUploadedAt":1787858663,"pakFileName":"hold_on_2ec64c1b-f0e2-d572-c5da-78e09a4ebc08.pak","nexusFileId":129177,"metaUuid":"2ec64c1b-f0e2-d572-c5da-78e09a4ebc08"}
+{"nexusFileName":"BhaalsForgottenSon 1.0.6","nexusFileVersion":"1.0.6","nexusFileUploadedAt":1787860953,"pakFileName":"hold_on_2ec64c1b-f0e2-d572-c5da-78e09a4ebc08.pak","nexusFileId":129180,"metaUuid":"2ec64c1b-f0e2-d572-c5da-78e09a4ebc08"}
 ]},
 "24508":{"nexusModName":"Moon's Half Orcs","nexusUploadedBy":"AdrasteaMoon","nexusModId":24508,"paks":[
 {"nexusFileName":"Main File","nexusFileVersion":"1","nexusFileUploadedAt":1787099791,"pakFileName":"Moon's Orcs.pak","nexusFileId":128431,"metaUuid":"0ad3841f-672c-46cf-b1cf-044a8af97b0e"}
@@ -68948,6 +68952,9 @@
 ]},
 "24563":{"nexusModName":"Plus-size Secret Garden Lingerie","nexusUploadedBy":"Desdimonda","nexusModId":24563,"paks":[
 {"nexusFileName":"Plus Size Secret Garden Lingerie Refit","nexusFileVersion":"1","nexusFileUploadedAt":1787359278,"pakFileName":"DesdiPlusSizeSecretGarden_9594465a-fe8c-ac4e-0c80-89be83a4c820.pak","nexusFileId":128645,"metaUuid":"9594465a-fe8c-ac4e-0c80-89be83a4c820"}
+]},
+"24564":{"nexusModName":"Player Voiced Scenes Priority","nexusUploadedBy":"marykerry02","nexusModId":24564,"paks":[
+{"nexusFileName":"Player Voiced Scenes Priority","nexusFileVersion":"2","nexusFileUploadedAt":1787860304,"pakFileName":"VoicedLinesPriority.pak","nexusFileId":129179,"metaUuid":null}
 ]},
 "24565":{"nexusModName":"Origins Chaos","nexusUploadedBy":"ankerlcg","nexusModId":24565,"paks":[
 {"nexusFileName":"ChaosOriginsRemastered","nexusFileVersion":"1","nexusFileUploadedAt":1787387207,"pakFileName":"ChaosOriginsRemastered.pak","nexusFileId":128656,"metaUuid":"9112dfde-d843-408f-b59b-9c893f5f7d92"}
@@ -69133,7 +69140,7 @@
 {"nexusFileName":"Ziva Goddess Dress","nexusFileVersion":"1.0","nexusFileUploadedAt":1787763646,"pakFileName":"Ziva_GoddessDress.pak","nexusFileId":129063,"metaUuid":"7f345cfa-d2c7-f5ba-e591-9ca7645fd363"}
 ]},
 "24646":{"nexusModName":"Azure Dragoon - A FFXIV Inspired Class","nexusUploadedBy":"SuperVertigo","nexusModId":24646,"paks":[
-{"nexusFileName":"Dragoon - A FFXIV Inspired Class","nexusFileVersion":"1.0.0.2","nexusFileUploadedAt":1787856676,"pakFileName":"Dragoon_b248e260-da4e-f87a-f349-365a1f92a3b2.pak","nexusFileId":129173,"metaUuid":null}
+{"nexusFileName":"Dragoon - A FFXIV Inspired Class","nexusFileVersion":"1.0.0.3","nexusFileUploadedAt":1787861801,"pakFileName":"Dragoon_b248e260-da4e-f87a-f349-365a1f92a3b2.pak","nexusFileId":129181,"metaUuid":null}
 ]},
 "24648":{"nexusModName":"Shadowrogue Outfit BT1","nexusUploadedBy":"Ayuro","nexusModId":24648,"paks":[
 {"nexusFileName":"AYU R2 Shadowrogue","nexusFileVersion":"1","nexusFileUploadedAt":1787836143,"pakFileName":"AYU_R2_Shadowrogue_1ce42c9c-49ee-4ae2-bad5-743c7fb6a3a2.pak","nexusFileId":129152,"metaUuid":"1ce42c9c-49ee-4ae2-bad5-743c7fb6a3a2"}
