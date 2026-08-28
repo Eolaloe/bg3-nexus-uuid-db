@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-08-28T11:52:00.973510+00:00","total_mods":17399},
+{"_meta":{"last_run":"2026-08-28T12:52:00.886423+00:00","total_mods":17400},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -69141,4 +69141,7 @@
 ]},
 "24660":{"nexusModName":"WeaveBurst","nexusUploadedBy":"tyyytty","nexusModId":24660,"paks":[
 {"nexusFileName":"WeaveBurst","nexusFileVersion":"1","nexusFileUploadedAt":1787911069,"pakFileName":"WeaveBurst.pak","nexusFileId":129197,"metaUuid":null}
+]},
+"24661":{"nexusModName":"Picking Up Items Costs an Action","nexusUploadedBy":"Cainhurtz","nexusModId":24661,"paks":[
+{"nexusFileName":"Picking Up Items Costs an Action","nexusFileVersion":"1","nexusFileUploadedAt":1787917326,"pakFileName":"PickUpCost.pak","nexusFileId":129199,"metaUuid":null}
 ]}}
