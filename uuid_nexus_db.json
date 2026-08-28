@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-08-28T22:52:17.267552+00:00","total_mods":17410},
+{"_meta":{"last_run":"2026-08-28T23:52:08.165531+00:00","total_mods":17412},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -3395,7 +3395,7 @@
 "1258":{"nexusModName":"Valkrana's Spellbook - 17 New Necromancy Spells","nexusUploadedBy":"actualsailorcat","nexusModId":1258,"paks":[
 {"nexusFileName":"Valkrana's Impart Undeath Feat","nexusFileVersion":"1.01.00","nexusFileUploadedAt":1772167964,"pakFileName":"Valkrana's Impart Undeath Feat.pak","nexusFileId":115684,"metaUuid":"3d311d0d-a184-420e-b4d4-849b23d4a2d5"},
 {"nexusFileName":"Valkrana's Spellbook Limited Lists","nexusFileVersion":"1.00.03","nexusFileUploadedAt":1782860700,"pakFileName":"Valkrana's Spellbook Limited Lists.pak","nexusFileId":124614,"metaUuid":"84ccf67f-ba0d-4413-bb30-a14051f5fd02"},
-{"nexusFileName":"Valkrana's Spellbook","nexusFileVersion":"3.01.02","nexusFileUploadedAt":1787769696,"pakFileName":"Valkrana's Spellbook.pak","nexusFileId":129072,"metaUuid":"9deeb371-f01e-41b4-b20e-c5eee0751b12"}
+{"nexusFileName":"Valkrana's Spellbook","nexusFileVersion":"3.01.03","nexusFileUploadedAt":1787958465,"pakFileName":"Valkrana's Spellbook.pak","nexusFileId":129224,"metaUuid":"9deeb371-f01e-41b4-b20e-c5eee0751b12"}
 ]},
 "1259":{"nexusModName":"Great Old One Dice","nexusUploadedBy":"WingedAsarath","nexusModId":1259,"paks":[
 {"nexusFileName":"Great Old One Dice","nexusFileVersion":"1.1","nexusFileUploadedAt":1692634131,"pakFileName":"GreatOldOneDice.pak","nexusFileId":9187,"metaUuid":null}
@@ -69165,7 +69165,7 @@
 {"nexusFileName":"PL Poest Mini CC Set","nexusFileVersion":"1","nexusFileUploadedAt":1787938381,"pakFileName":"PL_LoM_Leonard_e3f1de2c-c360-45b5-2271-b712108a40af.pak","nexusFileId":129209,"metaUuid":null}
 ]},
 "24665":{"nexusModName":"Exposed","nexusUploadedBy":"MegaMatt8","nexusModId":24665,"paks":[
-{"nexusFileName":"Exposed 1.0","nexusFileVersion":"1.0","nexusFileUploadedAt":1787939987,"pakFileName":"Exposed.pak","nexusFileId":129211,"metaUuid":null}
+{"nexusFileName":"Exposed 1.0","nexusFileVersion":"1.0.0.1","nexusFileUploadedAt":1787960038,"pakFileName":"Exposed.pak","nexusFileId":129234,"metaUuid":null}
 ]},
 "24666":{"nexusModName":"CatKin and Specialist","nexusUploadedBy":"silverhawk2456","nexusModId":24666,"paks":[
 {"nexusFileName":"Catkin_Specialist","nexusFileVersion":"1","nexusFileUploadedAt":1787940495,"pakFileName":"CatkinSpecialist_8112703d-ba2c-e46b-7c4c-5760f8e58aa4.pak","nexusFileId":129212,"metaUuid":null}
@@ -69175,4 +69175,15 @@
 ]},
 "24670":{"nexusModName":"Dynamic Extra Encounters - Russian Translation","nexusUploadedBy":"SNKmod777","nexusModId":24670,"paks":[
 {"nexusFileName":"DynamicExtraEncounters RU","nexusFileVersion":"1.0.0.3","nexusFileUploadedAt":1787951343,"pakFileName":"DynamicExtraEncounters_RU.pak","nexusFileId":129220,"metaUuid":null}
+]},
+"24672":{"nexusModName":"Minthara Auto-Knockout RUS","nexusUploadedBy":"0dyss12","nexusModId":24672,"paks":[
+{"nexusFileName":"Minthara Auto-KO - Full Auto-KO RUS","nexusFileVersion":"1","nexusFileUploadedAt":1787958991,"pakFileName":"Minthara_Auto-KO_Full_Auto-KO_RUS.pak","nexusFileId":129227,"metaUuid":null},
+{"nexusFileName":"Minthara Auto-KO - Illithid Persuasion RUS","nexusFileVersion":"1","nexusFileUploadedAt":1787959022,"pakFileName":"Minthara_Auto-KO_Illithid_Persuasion_RUS.pak","nexusFileId":129228,"metaUuid":null},
+{"nexusFileName":"Minthara Auto-KO - Combined Version RUS","nexusFileVersion":"1","nexusFileUploadedAt":1787959057,"pakFileName":"Minthara_Auto-KO_Illithid_Persuasion_Full_Auto_Combined_RUS.pak","nexusFileId":129229,"metaUuid":null},
+{"nexusFileName":"Full Auto - No Dialogue Changes RUS","nexusFileVersion":"1","nexusFileUploadedAt":1787959160,"pakFileName":"Minthara_Auto-KO_Full_Auto-No_Dialogue_Changes_RUS.pak","nexusFileId":129230,"metaUuid":null},
+{"nexusFileName":"Combined Version No Dialogue Changes RUS","nexusFileVersion":"1","nexusFileUploadedAt":1787959227,"pakFileName":"Minthara_Auto-KO_Combined_Version_No_Dialogue_Change_RUS.pak","nexusFileId":129231,"metaUuid":null},
+{"nexusFileName":"Grove Raid Dialogue Options Patch RUS","nexusFileVersion":"1","nexusFileUploadedAt":1787959245,"pakFileName":"Minthara_Auto-KO_Grove_Raid_Dialogue_Options_Patch_RUS.pak","nexusFileId":129232,"metaUuid":null}
+]},
+"24673":{"nexusModName":"Mithridatism - poison resistance for Minthara RUS","nexusUploadedBy":"0dyss12","nexusModId":24673,"paks":[
+{"nexusFileName":"AntiPoisonMinthara RUS","nexusFileVersion":"1","nexusFileUploadedAt":1787959920,"pakFileName":"AntiPoisonMinthara_RUS.pak","nexusFileId":129233,"metaUuid":null}
 ]}}
