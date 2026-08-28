@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-08-28T16:52:09.859976+00:00","total_mods":17400},
+{"_meta":{"last_run":"2026-08-28T17:51:37.433583+00:00","total_mods":17404},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -65561,7 +65561,7 @@
 {"nexusFileName":"Oath Of Watchers Paladin Subclass PTBR","nexusFileVersion":"1","nexusFileUploadedAt":1780951501,"pakFileName":"Oath_of_Watchers_Paladin_PTBR.pak","nexusFileId":123196,"metaUuid":"f59affb3-1b47-4d49-a08c-b529b2201d57"}
 ]},
 "23291":{"nexusModName":"Randomized Disguise Self","nexusUploadedBy":"djgLXXII","nexusModId":23291,"paks":[
-{"nexusFileName":"RandomizedDisguiseSelf","nexusFileVersion":"2.2.0","nexusFileUploadedAt":1781880537,"pakFileName":"RandomizedDisguiseSelf.pak","nexusFileId":123882,"metaUuid":"b2849033-9215-4deb-9954-3518e94d1e9d"}
+{"nexusFileName":"RandomizedDisguiseSelf","nexusFileVersion":"2.2.1","nexusFileUploadedAt":1787935872,"pakFileName":"RandomizedDisguiseSelf.pak","nexusFileId":129207,"metaUuid":"b2849033-9215-4deb-9954-3518e94d1e9d"}
 ]},
 "23293":{"nexusModName":"Ice Cold Murder Dagger","nexusUploadedBy":"PookieKunz","nexusModId":23293,"paks":[
 {"nexusFileName":"Ice Cold Murder Dagger","nexusFileVersion":"1","nexusFileUploadedAt":1780959827,"pakFileName":"IceColdMurderDagger_4a7c03b6-1f13-4c9c-a913-08536c84e3ec.pak","nexusFileId":123206,"metaUuid":"4a7c03b6-1f13-4c9c-a913-08536c84e3ec"}
@@ -69136,6 +69136,9 @@
 {"nexusFileName":"Fixed Dwarven Splintmail - Intended Colors","nexusFileVersion":"1","nexusFileUploadedAt":1787883080,"pakFileName":"FixedDwarvenSplintmail.pak","nexusFileId":129189,"metaUuid":null},
 {"nexusFileName":"Fixed Dwarven Splintmail - Original Colors","nexusFileVersion":"1","nexusFileUploadedAt":1787883128,"pakFileName":"FixedDwarvenSplintmail.pak","nexusFileId":129190,"metaUuid":null}
 ]},
+"24658":{"nexusModName":"Yet Another Spell Rebalancing Mod","nexusUploadedBy":"Sw1shyFishy","nexusModId":24658,"paks":[
+{"nexusFileName":"Yet Another Spell Rebalance Mod","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1787939302,"pakFileName":"SwishyFishy_SpellsRebalance.pak","nexusFileId":129210,"metaUuid":null}
+]},
 "24659":{"nexusModName":"Ketheric Chosen of Myrkul","nexusUploadedBy":"Prednoxx","nexusModId":24659,"paks":[
 {"nexusFileName":"Ketheric is Hard","nexusFileVersion":"1","nexusFileUploadedAt":1787896399,"pakFileName":"KethericChosen_d5b741d6-f00e-4cbc-ad61-52985e11e16d.pak","nexusFileId":129194,"metaUuid":null}
 ]},
@@ -69144,4 +69147,13 @@
 ]},
 "24661":{"nexusModName":"Picking Up Items Costs an Action","nexusUploadedBy":"Cainhurtz","nexusModId":24661,"paks":[
 {"nexusFileName":"Picking Up Items Costs an Action","nexusFileVersion":"1","nexusFileUploadedAt":1787917326,"pakFileName":"PickUpCost.pak","nexusFileId":129199,"metaUuid":null}
+]},
+"24662":{"nexusModName":"Zephyr (Clothing and Weapon)","nexusUploadedBy":"onyx","nexusModId":24662,"paks":[
+{"nexusFileName":"ONYX - Zephyr","nexusFileVersion":"1","nexusFileUploadedAt":1787935198,"pakFileName":"ONYX_Zephyr_4b2d815f-d644-70a8-82ce-74b4df9fa60d.pak","nexusFileId":129206,"metaUuid":null}
+]},
+"24663":{"nexusModName":"Guiding Bolt Always Advantage","nexusUploadedBy":"RennWorks","nexusModId":24663,"paks":[
+{"nexusFileName":"Guidingbolt Alwaysadvantage","nexusFileVersion":"1","nexusFileUploadedAt":1787935975,"pakFileName":"guidingbolt_alwaysadvantage.pak","nexusFileId":129208,"metaUuid":null}
+]},
+"24664":{"nexusModName":"Poesielibre's Poet Mini CC Set","nexusUploadedBy":"poesielibre","nexusModId":24664,"paks":[
+{"nexusFileName":"PL Poest Mini CC Set","nexusFileVersion":"1","nexusFileUploadedAt":1787938381,"pakFileName":"PL_LoM_Leonard_e3f1de2c-c360-45b5-2271-b712108a40af.pak","nexusFileId":129209,"metaUuid":null}
 ]}}
