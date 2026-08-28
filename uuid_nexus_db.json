@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-08-28T20:52:15.961698+00:00","total_mods":17408},
+{"_meta":{"last_run":"2026-08-28T21:52:14.034626+00:00","total_mods":17410},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -45130,7 +45130,7 @@
 {"nexusFileName":"EmbersLute_V3CHS","nexusFileVersion":"3.0.2.6","nexusFileUploadedAt":1751859793,"pakFileName":"EmbersLute_V3CHS.pak","nexusFileId":97549,"metaUuid":null}
 ]},
 "16217":{"nexusModName":"Absolute's Laboratory - NPC and Combat Inspector and Mutator","nexusUploadedBy":"osirisofinternet","nexusModId":16217,"paks":[
-{"nexusFileName":"Absolute's Laboratory","nexusFileVersion":"1.13.4","nexusFileUploadedAt":1786814151,"pakFileName":"Absolutes_Laboratory.pak","nexusFileId":128152,"metaUuid":"a17a3a3d-5c16-404a-910a-68ae9e47f247"}
+{"nexusFileName":"Absolute's Laboratory","nexusFileVersion":"1.13.5","nexusFileUploadedAt":1787952487,"pakFileName":"Absolutes_Laboratory.pak","nexusFileId":129222,"metaUuid":"a17a3a3d-5c16-404a-910a-68ae9e47f247"}
 ]},
 "16218":{"nexusModName":"Dragonborn Style Voice Replacer","nexusUploadedBy":"xiaokuii","nexusModId":16218,"paks":[
 {"nexusFileName":"Main file - install with mod manager","nexusFileVersion":"1.0","nexusFileUploadedAt":1746045390,"pakFileName":"Dragonborn.pak","nexusFileId":91214,"metaUuid":"81c2330a-b0bc-420b-b4ce-87fecda5acda"}
@@ -69045,6 +69045,9 @@
 "24607":{"nexusModName":"B52's Timelost Arsenal","nexusUploadedBy":"B52NAKAMURA","nexusModId":24607,"paks":[
 {"nexusFileName":"B52's Timelost Arsenal","nexusFileVersion":"1.0.0.3","nexusFileUploadedAt":1787803158,"pakFileName":"B52sTimelostWeaponry_45260b60-6a6c-3902-29ea-f869d05ebfaa.pak","nexusFileId":129136,"metaUuid":"45260b60-6a6c-3902-29ea-f869d05ebfaa"}
 ]},
+"24610":{"nexusModName":"Octavia's Prowl - modern clothing for multiple BTs","nexusUploadedBy":"DramaticChipmunk","nexusModId":24610,"paks":[
+{"nexusFileName":"OctaviaProwl 68b4ebae 93e7 5906 Eacc A1314f42247a","nexusFileVersion":"1","nexusFileUploadedAt":1787951460,"pakFileName":"OctaviaProwl_68b4ebae-93e7-5906-eacc-a1314f42247a.pak","nexusFileId":129221,"metaUuid":null}
+]},
 "24611":{"nexusModName":"Dirty Deathy Durge Scale Colors","nexusUploadedBy":"jerinski","nexusModId":24611,"paks":[
 {"nexusFileName":"Dirty Deathy Durge Scale Colors","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1787587350,"pakFileName":"jerinski_dgb_scales_01c50d6f-7f44-8c72-9078-d5717d27b5a4.pak","nexusFileId":128939,"metaUuid":"01c50d6f-7f44-8c72-9078-d5717d27b5a4"}
 ]},
@@ -69169,4 +69172,7 @@
 ]},
 "24669":{"nexusModName":"Clawstep Mod Refits","nexusUploadedBy":"tealrabbit19","nexusModId":24669,"paks":[
 {"nexusFileName":"CBR Battlemage Clawstep","nexusFileVersion":"1","nexusFileUploadedAt":1787948145,"pakFileName":"CBR_Battlemage_Clawstep.pak","nexusFileId":129218,"metaUuid":null}
+]},
+"24670":{"nexusModName":"Dynamic Extra Encounters - Russian Translation","nexusUploadedBy":"SNKmod777","nexusModId":24670,"paks":[
+{"nexusFileName":"DynamicExtraEncounters RU","nexusFileVersion":"1.0.0.3","nexusFileUploadedAt":1787951343,"pakFileName":"DynamicExtraEncounters_RU.pak","nexusFileId":129220,"metaUuid":null}
 ]}}
