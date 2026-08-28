@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-08-28T19:51:41.627652+00:00","total_mods":17407},
+{"_meta":{"last_run":"2026-08-28T20:52:15.961698+00:00","total_mods":17408},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -67422,7 +67422,6 @@
 "24059":{"nexusModName":"TRM1 Races Mod Refits","nexusUploadedBy":"tealrabbit19","nexusModId":24059,"paks":[
 {"nexusFileName":"CBR Bandit Armors and Camp Clothes TRM1R","nexusFileVersion":"1","nexusFileUploadedAt":1784918794,"pakFileName":"CBR_BanditArmors_TRM1R.pak","nexusFileId":126386,"metaUuid":"7246888e-e37b-4bab-9128-9dcbe7941e02"},
 {"nexusFileName":"CBR Citizen Outfits as Camp Clothes TRM1R","nexusFileVersion":"1","nexusFileUploadedAt":1784918831,"pakFileName":"CBR_CitizenOutfits_TRM1R.pak","nexusFileId":126387,"metaUuid":null},
-{"nexusFileName":"CBR Battlemage Armor TRM1R","nexusFileVersion":"1","nexusFileUploadedAt":1784918860,"pakFileName":"CBR_Battlemage_TRM1R.pak","nexusFileId":126388,"metaUuid":null},
 {"nexusFileName":"Ranger's Leather Armor TRM1R","nexusFileVersion":"1","nexusFileUploadedAt":1784918921,"pakFileName":"SimpleRangerOutfitTRM1R.pak","nexusFileId":126390,"metaUuid":null},
 {"nexusFileName":"PK Clothes and Armours TRM1R","nexusFileVersion":"1","nexusFileUploadedAt":1784918959,"pakFileName":"PK_Armors_N_Clothes_TRM1R.pak","nexusFileId":126391,"metaUuid":null},
 {"nexusFileName":"PK Clothes and Armours - Haunted Sea TRM1R","nexusFileVersion":"1","nexusFileUploadedAt":1784919007,"pakFileName":"PK_Haunted_Sea_TRM1R.pak","nexusFileId":126392,"metaUuid":null},
@@ -67442,7 +67441,9 @@
 {"nexusFileName":"Gothyanki Gear TRM1R","nexusFileVersion":"2","nexusFileUploadedAt":1787500493,"pakFileName":"jerinski_gothyanki-gear_TRM1R.pak","nexusFileId":128850,"metaUuid":null},
 {"nexusFileName":"OWY Night Silk Brocade TRM1R","nexusFileVersion":"2","nexusFileUploadedAt":1787501008,"pakFileName":"OWYDoesOutfits_NightSilkBrocade_TRM1R.pak","nexusFileId":128851,"metaUuid":null},
 {"nexusFileName":"Epilogue Camp Clothes TRM1R","nexusFileVersion":"1","nexusFileUploadedAt":1787525765,"pakFileName":"EpilogueCampClothes_TRM1R.pak","nexusFileId":128877,"metaUuid":null},
-{"nexusFileName":"Agile Armor TRM1R","nexusFileVersion":"1","nexusFileUploadedAt":1787745754,"pakFileName":"AgileArmor_TRM1R.pak","nexusFileId":129054,"metaUuid":null}
+{"nexusFileName":"Agile Armor TRM1R","nexusFileVersion":"1","nexusFileUploadedAt":1787745754,"pakFileName":"AgileArmor_TRM1R.pak","nexusFileId":129054,"metaUuid":null},
+{"nexusFileName":"She Who Guides TRM1R","nexusFileVersion":"1","nexusFileUploadedAt":1787946732,"pakFileName":"SeluneClericMKII_TRM1R.pak","nexusFileId":129216,"metaUuid":null},
+{"nexusFileName":"CBR Battlemage Armor TRM1R","nexusFileVersion":"1.1","nexusFileUploadedAt":1787948892,"pakFileName":"CBR_Battlemage_TRM1R.pak","nexusFileId":129219,"metaUuid":null}
 ]},
 "24060":{"nexusModName":"Quick Second Wind","nexusUploadedBy":"yoonmoonsik43","nexusModId":24060,"paks":[
 {"nexusFileName":"Quicksecondwind 11aabc80 36ad 3qmv","nexusFileVersion":"1","nexusFileUploadedAt":1784917946,"pakFileName":"QuickSecondWind_11aabc80-36ad-7197-0fd6-f66b6b5a0915.pak","nexusFileId":126385,"metaUuid":"11aabc80-36ad-7197-0fd6-f66b6b5a0915"}
@@ -69165,4 +69166,7 @@
 ]},
 "24666":{"nexusModName":"CatKin and Specialist","nexusUploadedBy":"silverhawk2456","nexusModId":24666,"paks":[
 {"nexusFileName":"Catkin_Specialist","nexusFileVersion":"1","nexusFileUploadedAt":1787940495,"pakFileName":"CatkinSpecialist_8112703d-ba2c-e46b-7c4c-5760f8e58aa4.pak","nexusFileId":129212,"metaUuid":null}
+]},
+"24669":{"nexusModName":"Clawstep Mod Refits","nexusUploadedBy":"tealrabbit19","nexusModId":24669,"paks":[
+{"nexusFileName":"CBR Battlemage Clawstep","nexusFileVersion":"1","nexusFileUploadedAt":1787948145,"pakFileName":"CBR_Battlemage_Clawstep.pak","nexusFileId":129218,"metaUuid":null}
 ]}}
