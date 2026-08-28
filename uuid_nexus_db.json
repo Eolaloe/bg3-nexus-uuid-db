@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-08-28T05:51:44.200446+00:00","total_mods":17397},
+{"_meta":{"last_run":"2026-08-28T06:51:56.929799+00:00","total_mods":17398},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -40254,7 +40254,7 @@
 {"nexusFileName":"DAV Imperium's Resolve","nexusFileVersion":"1.0","nexusFileUploadedAt":1735211355,"pakFileName":"DAV Imperium's Resolve.pak","nexusFileId":82819,"metaUuid":"1db5ed85-52bf-47fc-a4f1-7c4e820a0975"}
 ]},
 "14275":{"nexusModName":"Change Permanent Ability Scores (Ethel . Hag Hair . Everlasting Vigour . Mirror of Loss)","nexusUploadedBy":"VeronicaEris","nexusModId":14275,"paks":[
-{"nexusFileName":"Change Perm Ability Scores","nexusFileVersion":"1","nexusFileUploadedAt":1787839978,"pakFileName":"Change_Perm_Ability_Scores_064a83d0-2cdb-8f17-95c2-924b26b194c6.pak","nexusFileId":129154,"metaUuid":"064a83d0-2cdb-8f17-95c2-924b26b194c6"}
+{"nexusFileName":"Change Perm Ability Scores","nexusFileVersion":"1.0.0.2","nexusFileUploadedAt":1787839978,"pakFileName":"Change_Perm_Ability_Scores_064a83d0-2cdb-8f17-95c2-924b26b194c6.pak","nexusFileId":129154,"metaUuid":"064a83d0-2cdb-8f17-95c2-924b26b194c6"}
 ]},
 "14277":{"nexusModName":"Jack of All Trades affects Initiative","nexusUploadedBy":"r3Fuze","nexusModId":14277,"paks":[
 {"nexusFileName":"Jack of All Trades affects initiative","nexusFileVersion":"1.0.0.4","nexusFileUploadedAt":1734191439,"pakFileName":"JackOfAllTradesInitiative_d744225e-9341-6f0c-e3f2-814f2c4c742b.pak","nexusFileId":81787,"metaUuid":"d744225e-9341-6f0c-e3f2-814f2c4c742b"}
@@ -69135,4 +69135,7 @@
 "24656":{"nexusModName":"Fixed Dwarven Splintmail","nexusUploadedBy":"Ghostly","nexusModId":24656,"paks":[
 {"nexusFileName":"Fixed Dwarven Splintmail - Intended Colors","nexusFileVersion":"1","nexusFileUploadedAt":1787883080,"pakFileName":"FixedDwarvenSplintmail.pak","nexusFileId":129189,"metaUuid":null},
 {"nexusFileName":"Fixed Dwarven Splintmail - Original Colors","nexusFileVersion":"1","nexusFileUploadedAt":1787883128,"pakFileName":"FixedDwarvenSplintmail.pak","nexusFileId":129190,"metaUuid":null}
+]},
+"24659":{"nexusModName":"Ketheric Chosen of Myrkul","nexusUploadedBy":"Prednoxx","nexusModId":24659,"paks":[
+{"nexusFileName":"Ketheric is Hard","nexusFileVersion":"1","nexusFileUploadedAt":1787896399,"pakFileName":"KethericChosen_d5b741d6-f00e-4cbc-ad61-52985e11e16d.pak","nexusFileId":129194,"metaUuid":null}
 ]}}
