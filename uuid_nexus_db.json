@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-08-28T01:51:41.492161+00:00","total_mods":17396},
+{"_meta":{"last_run":"2026-08-28T02:51:46.355084+00:00","total_mods":17397},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -40272,7 +40272,7 @@
 {"nexusFileName":"DAV Crow Outfit","nexusFileVersion":"1.3","nexusFileUploadedAt":1735021475,"pakFileName":"DAV Crow Outfit.pak","nexusFileId":82624,"metaUuid":"428d65d4-3e4a-470d-b49a-dd171c181285"},
 {"nexusFileName":"DAV Imperium's Resolve","nexusFileVersion":"1.0","nexusFileUploadedAt":1735211355,"pakFileName":"DAV Imperium's Resolve.pak","nexusFileId":82819,"metaUuid":"1db5ed85-52bf-47fc-a4f1-7c4e820a0975"}
 ]},
-"14275":{"nexusModName":"Change Permanent Ability Scores (Ethel . Hag Hair . Everlasting Vigour . Mirror of Loss)","nexusUploadedBy":"darkaris","nexusModId":14275,"paks":[
+"14275":{"nexusModName":"Change Permanent Ability Scores (Ethel . Hag Hair . Everlasting Vigour . Mirror of Loss)","nexusUploadedBy":"VeronicaEris","nexusModId":14275,"paks":[
 {"nexusFileName":"Change Perm Ability Scores","nexusFileVersion":"1","nexusFileUploadedAt":1787839978,"pakFileName":"Change_Perm_Ability_Scores_064a83d0-2cdb-8f17-95c2-924b26b194c6.pak","nexusFileId":129154,"metaUuid":"064a83d0-2cdb-8f17-95c2-924b26b194c6"}
 ]},
 "14277":{"nexusModName":"Jack of All Trades affects Initiative","nexusUploadedBy":"r3Fuze","nexusModId":14277,"paks":[
@@ -69150,4 +69150,8 @@
 "24653":{"nexusModName":"Beelanda's 4K TV Modpack","nexusUploadedBy":"Horslanda","nexusModId":24653,"paks":[
 {"nexusFileName":"BG3 4KTVModpack Beelanda","nexusFileVersion":"1","nexusFileUploadedAt":1787866373,"pakFileName":"BetterHotbar2LowVision_3eee3790-3f76-6ad9-2200-ec052569254c.pak","nexusFileId":129182,"metaUuid":null},
 {"nexusFileName":"BG3 4KTVModpack Beelanda","nexusFileVersion":"1","nexusFileUploadedAt":1787866373,"pakFileName":"ImpUI_26922ba9-6018-5252-075d-7ff2ba6ed879.pak","nexusFileId":129182,"metaUuid":null}
+]},
+"24656":{"nexusModName":"Fixed Dwarven Splintmail","nexusUploadedBy":"Ghostly","nexusModId":24656,"paks":[
+{"nexusFileName":"Fixed Dwarven Splintmail - Intended Colors","nexusFileVersion":"1","nexusFileUploadedAt":1787883080,"pakFileName":"FixedDwarvenSplintmail.pak","nexusFileId":129189,"metaUuid":null},
+{"nexusFileName":"Fixed Dwarven Splintmail - Original Colors","nexusFileVersion":"1","nexusFileUploadedAt":1787883128,"pakFileName":"FixedDwarvenSplintmail.pak","nexusFileId":129190,"metaUuid":null}
 ]}}
