@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-08-28T03:51:54.001531+00:00","total_mods":17397},
+{"_meta":{"last_run":"2026-08-28T04:52:14.576781+00:00","total_mods":17397},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -3436,27 +3436,8 @@
 {"nexusFileName":"TavernBrawlerFinesse_AllStats","nexusFileVersion":"4.0.0","nexusFileUploadedAt":1708113987,"pakFileName":"TavernBrawlerFinesse_AllStats.pak","nexusFileId":44931,"metaUuid":null},
 {"nexusFileName":"TavernBrawlerFinesse_NoAccuracy","nexusFileVersion":"4.0.0","nexusFileUploadedAt":1708114041,"pakFileName":"TavernBrawlerFinesse_NoAccuracy.pak","nexusFileId":44932,"metaUuid":null}
 ]},
-"1268":{"nexusModName":"Ace Must Die - Dice (Die) Skin(s)","nexusUploadedBy":"acerbicon","nexusModId":1268,"paks":[
-{"nexusFileName":"Ace Must Die - Amethyst","nexusFileVersion":"4.0","nexusFileUploadedAt":1696980898,"pakFileName":"Ace Must Die - Amethyst.pak","nexusFileId":21972,"metaUuid":null},
-{"nexusFileName":"Ace Must Die - Emerald","nexusFileVersion":"4.0","nexusFileUploadedAt":1696980947,"pakFileName":"Ace Must Die - Emerald.pak","nexusFileId":21973,"metaUuid":null},
-{"nexusFileName":"Ace Must Die - Frostmourn","nexusFileVersion":"4.0","nexusFileUploadedAt":1696981004,"pakFileName":"Ace Must Die - Frostmourn.pak","nexusFileId":21974,"metaUuid":null},
-{"nexusFileName":"Ace Must Die - Haricot Vertices","nexusFileVersion":"4.0","nexusFileUploadedAt":1696981103,"pakFileName":"Ace Must Die - Haricot Vertices.pak","nexusFileId":21978,"metaUuid":null},
-{"nexusFileName":"Ace Must Die - Lady Amalthea","nexusFileVersion":"4.0","nexusFileUploadedAt":1696981146,"pakFileName":"Ace Must Die - Lady Amalthea.pak","nexusFileId":21982,"metaUuid":null},
-{"nexusFileName":"Ace Must Die - Lava","nexusFileVersion":"4.0","nexusFileUploadedAt":1696981202,"pakFileName":"Ace Must Die - Lava.pak","nexusFileId":21983,"metaUuid":null},
-{"nexusFileName":"Ace Must Die - Masonic","nexusFileVersion":"4.0","nexusFileUploadedAt":1696981271,"pakFileName":"Ace Must Die - Masonic.pak","nexusFileId":21985,"metaUuid":null},
-{"nexusFileName":"Ace Must Die - Opalescent","nexusFileVersion":"4.0","nexusFileUploadedAt":1696981320,"pakFileName":"Ace Must Die - Opalescent.pak","nexusFileId":21986,"metaUuid":null},
-{"nexusFileName":"Ace Must Die - Sapphire Crown","nexusFileVersion":"4.0","nexusFileUploadedAt":1696981363,"pakFileName":"Ace Must Die - Sapphire Crown.pak","nexusFileId":21987,"metaUuid":null},
-{"nexusFileName":"Ace Must Die - Snowball","nexusFileVersion":"4.0","nexusFileUploadedAt":1696981409,"pakFileName":"Ace Must Die - Snowball.pak","nexusFileId":21988,"metaUuid":null},
-{"nexusFileName":"Ace Must Die - Verdigris","nexusFileVersion":"4.0","nexusFileUploadedAt":1696981451,"pakFileName":"Ace Must Die - Verdigris.pak","nexusFileId":21989,"metaUuid":null},
-{"nexusFileName":"Ace Must Die - Viridian","nexusFileVersion":"4.0","nexusFileUploadedAt":1696981512,"pakFileName":"Ace Must Die - Viridian.pak","nexusFileId":21990,"metaUuid":null},
-{"nexusFileName":"Ace Must Die","nexusFileVersion":"4.1","nexusFileUploadedAt":1697290438,"pakFileName":"Ace Must Die.pak","nexusFileId":22841,"metaUuid":"07100dae-751b-4089-b96c-359bd8f2f9fa"},
-{"nexusFileName":"Ace Must Die - Liberty","nexusFileVersion":"4.0","nexusFileUploadedAt":1697290557,"pakFileName":"Ace Must Die - Liberty.pak","nexusFileId":22842,"metaUuid":null},
-{"nexusFileName":"Ace Must Die - Phthalo Green","nexusFileVersion":"4.0","nexusFileUploadedAt":1697290613,"pakFileName":"Ace Must Die - Phthalo Green.pak","nexusFileId":22843,"metaUuid":null},
-{"nexusFileName":"Ace Must Die - Sea Glass","nexusFileVersion":"4.0","nexusFileUploadedAt":1697290664,"pakFileName":"Ace Must Die - Sea Glass.pak","nexusFileId":22844,"metaUuid":null},
-{"nexusFileName":"Ace Must Die - Seafoam","nexusFileVersion":"4.0","nexusFileUploadedAt":1697290736,"pakFileName":"Ace Must Die - Seafoam.pak","nexusFileId":22845,"metaUuid":null},
-{"nexusFileName":"Ace Must Die - Garnet","nexusFileVersion":"4.1","nexusFileUploadedAt":1697374402,"pakFileName":"Ace Must Die - Garnet.pak","nexusFileId":23064,"metaUuid":null},
-{"nexusFileName":"Ace Must Die - Ghost Die","nexusFileVersion":"4.1","nexusFileUploadedAt":1697374445,"pakFileName":"Ace Must Die - Ghost Die.pak","nexusFileId":23065,"metaUuid":null},
-{"nexusFileName":"Ace Must Die - Magma","nexusFileVersion":"4.1","nexusFileUploadedAt":1697374490,"pakFileName":"Ace Must Die - Magma.pak","nexusFileId":23066,"metaUuid":null}
+"1268":{"nexusModName":"Ace Must Die - Dice Pack","nexusUploadedBy":"acerbicon","nexusModId":1268,"paks":[
+{"nexusFileName":"Ace Must Die","nexusFileVersion":"4.2","nexusFileUploadedAt":1787890580,"pakFileName":"Ace Must Die.pak","nexusFileId":129193,"metaUuid":"07100dae-751b-4089-b96c-359bd8f2f9fa"}
 ]},
 "1269":{"nexusModName":"Arcane Dice Set","nexusUploadedBy":"SeanConnerX0","nexusModId":1269,"paks":[
 {"nexusFileName":"arcane-dice","nexusFileVersion":"1.1","nexusFileUploadedAt":1692646494,"pakFileName":"arcane-dice_1.1.pak","nexusFileId":9257,"metaUuid":"e222094b-b5f6-4173-b7a0-0b119f296b39"}
