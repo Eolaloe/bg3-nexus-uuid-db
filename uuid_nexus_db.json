@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-08-29T15:52:02.686894+00:00","total_mods":17420},
+{"_meta":{"last_run":"2026-08-29T16:52:40.278533+00:00","total_mods":17421},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -21933,7 +21933,7 @@
 {"nexusFileName":"Fight Vlaakith","nexusFileVersion":"1.0","nexusFileUploadedAt":1708988888,"pakFileName":"Fight Vlaakith.pak","nexusFileId":46790,"metaUuid":null}
 ]},
 "7207":{"nexusModName":"Belarusian translation","nexusUploadedBy":"Zmiecer","nexusModId":7207,"paks":[
-{"nexusFileName":"BG3 Bel V0.6","nexusFileVersion":"0.6","nexusFileUploadedAt":1711288078,"pakFileName":"Russian.pak","nexusFileId":51286,"metaUuid":null}
+{"nexusFileName":"BG3 Belarusian","nexusFileVersion":"1.2","nexusFileUploadedAt":1788020478,"pakFileName":"bg3_belarusian_8b4f10d2-829b-1b06-1443-a0177dbe81b1.pak","nexusFileId":129274,"metaUuid":null}
 ]},
 "7208":{"nexusModName":"Patch For Ancient Jewelry (Roleplay Only)","nexusUploadedBy":"fathomlesspatron","nexusModId":7208,"paks":[
 {"nexusFileName":"PatchForAncientJewely","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1708990361,"pakFileName":"PatchForAncientJewelry.pak","nexusFileId":46791,"metaUuid":null}
@@ -68783,7 +68783,7 @@
 {"nexusFileName":"Epilogue Clothing Storage System - G-d Gale Patch","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1787802764,"pakFileName":"MGNTN_PickEPIOutfits_GdGale.pak","nexusFileId":129135,"metaUuid":"621308d4-716a-4329-a528-0a8edbedb639"}
 ]},
 "24507":{"nexusModName":"Bhaal's Forgotten Son","nexusUploadedBy":"RealYablo","nexusModId":24507,"paks":[
-{"nexusFileName":"BhaalsForgottenSon 1.0.8","nexusFileVersion":"1.0.8","nexusFileUploadedAt":1787941271,"pakFileName":"hold_on_2ec64c1b-f0e2-d572-c5da-78e09a4ebc08.pak","nexusFileId":129213,"metaUuid":"2ec64c1b-f0e2-d572-c5da-78e09a4ebc08"}
+{"nexusFileName":"Bhaal's Forgotten Son -1.0.9- reupload","nexusFileVersion":"1.0.9","nexusFileUploadedAt":1788021556,"pakFileName":"hold_on_2ec64c1b-f0e2-d572-c5da-78e09a4ebc08.pak","nexusFileId":129279,"metaUuid":"2ec64c1b-f0e2-d572-c5da-78e09a4ebc08"}
 ]},
 "24508":{"nexusModName":"Moon's Half Orcs","nexusUploadedBy":"AdrasteaMoon","nexusModId":24508,"paks":[
 {"nexusFileName":"Main File","nexusFileVersion":"1","nexusFileUploadedAt":1787099791,"pakFileName":"Moon's Orcs.pak","nexusFileId":128431,"metaUuid":"0ad3841f-672c-46cf-b1cf-044a8af97b0e"}
@@ -69214,4 +69214,7 @@
 {"nexusFileName":"Reduced Crossbow Range","nexusFileVersion":"1","nexusFileUploadedAt":1788015341,"pakFileName":"ReducedCrossbowRange.pak","nexusFileId":129268,"metaUuid":null},
 {"nexusFileName":"Reduced Spell Range - 30 ft","nexusFileVersion":"1","nexusFileUploadedAt":1788015490,"pakFileName":"ReducedSpellRange30.pak","nexusFileId":129269,"metaUuid":null},
 {"nexusFileName":"Reduced Spell Range - 45 ft","nexusFileVersion":"1","nexusFileUploadedAt":1788015513,"pakFileName":"ReducedSpellRange45.pak","nexusFileId":129270,"metaUuid":null}
+]},
+"24682":{"nexusModName":"Know Your Roll","nexusUploadedBy":"Aliencow1338","nexusModId":24682,"paks":[
+{"nexusFileName":"KnowYourRoll","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1788020198,"pakFileName":"KnowYourRoll.pak","nexusFileId":129273,"metaUuid":null}
 ]}}
