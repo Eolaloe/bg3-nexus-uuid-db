@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-08-29T16:52:40.278533+00:00","total_mods":17421},
+{"_meta":{"last_run":"2026-08-29T17:52:02.978520+00:00","total_mods":17422},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -68783,7 +68783,7 @@
 {"nexusFileName":"Epilogue Clothing Storage System - G-d Gale Patch","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1787802764,"pakFileName":"MGNTN_PickEPIOutfits_GdGale.pak","nexusFileId":129135,"metaUuid":"621308d4-716a-4329-a528-0a8edbedb639"}
 ]},
 "24507":{"nexusModName":"Bhaal's Forgotten Son","nexusUploadedBy":"RealYablo","nexusModId":24507,"paks":[
-{"nexusFileName":"Bhaal's Forgotten Son -1.0.9- reupload","nexusFileVersion":"1.0.9","nexusFileUploadedAt":1788021556,"pakFileName":"hold_on_2ec64c1b-f0e2-d572-c5da-78e09a4ebc08.pak","nexusFileId":129279,"metaUuid":"2ec64c1b-f0e2-d572-c5da-78e09a4ebc08"}
+{"nexusFileName":"Bhaal's Forgotten Son -1.0.9-","nexusFileVersion":"1.0.9","nexusFileUploadedAt":1788021556,"pakFileName":"hold_on_2ec64c1b-f0e2-d572-c5da-78e09a4ebc08.pak","nexusFileId":129279,"metaUuid":"2ec64c1b-f0e2-d572-c5da-78e09a4ebc08"}
 ]},
 "24508":{"nexusModName":"Moon's Half Orcs","nexusUploadedBy":"AdrasteaMoon","nexusModId":24508,"paks":[
 {"nexusFileName":"Main File","nexusFileVersion":"1","nexusFileUploadedAt":1787099791,"pakFileName":"Moon's Orcs.pak","nexusFileId":128431,"metaUuid":"0ad3841f-672c-46cf-b1cf-044a8af97b0e"}
@@ -69137,6 +69137,11 @@
 "24649":{"nexusModName":"Carian Knight Set (Elden Ring)","nexusUploadedBy":"olddude1993","nexusModId":24649,"paks":[
 {"nexusFileName":"Carian Knight Set","nexusFileVersion":"1","nexusFileUploadedAt":1787836592,"pakFileName":"Carian_Knight_Set_83a6e61a-2291-c933-8905-ce3f5c97aaa8.pak","nexusFileId":129153,"metaUuid":null}
 ]},
+"24652":{"nexusModName":"SALEM - Armor and Camp Clothing","nexusUploadedBy":"Naerys","nexusModId":24652,"paks":[
+{"nexusFileName":"NAERYS Salem Vanilla colours","nexusFileVersion":"1","nexusFileUploadedAt":1788021143,"pakFileName":"NAERYS_Salem_Vanilla.pak","nexusFileId":129276,"metaUuid":null},
+{"nexusFileName":"NAERYS Salem Obsidian","nexusFileVersion":"1","nexusFileUploadedAt":1788021171,"pakFileName":"NAERYS_Salem_Obsidian.pak","nexusFileId":129277,"metaUuid":null},
+{"nexusFileName":"NAERYS Salem Ruby","nexusFileVersion":"1","nexusFileUploadedAt":1788022290,"pakFileName":"NAERYS_Salem_Ruby.pak","nexusFileId":129280,"metaUuid":null}
+]},
 "24656":{"nexusModName":"Fixed Dwarven Splintmail","nexusUploadedBy":"Ghostly","nexusModId":24656,"paks":[
 {"nexusFileName":"Fixed Dwarven Splintmail - Intended Colors","nexusFileVersion":"1","nexusFileUploadedAt":1787883080,"pakFileName":"FixedDwarvenSplintmail.pak","nexusFileId":129189,"metaUuid":"84ac9ec3-190b-0629-bf5a-a875a5cbc9b8"},
 {"nexusFileName":"Fixed Dwarven Splintmail - Original Colors","nexusFileVersion":"1","nexusFileUploadedAt":1787883128,"pakFileName":"FixedDwarvenSplintmail.pak","nexusFileId":129190,"metaUuid":"84ac9ec3-190b-0629-bf5a-a875a5cbc9b8"}
@@ -69209,7 +69214,7 @@
 "24680":{"nexusModName":"Dynamic ExtraEncounters CHS","nexusUploadedBy":"mzldyt","nexusModId":24680,"paks":[
 {"nexusFileName":"DynamicExtraEncounters CH","nexusFileVersion":"1.0.0.26","nexusFileUploadedAt":1788009242,"pakFileName":"DynamicExtraEncounters_CH.pak","nexusFileId":129265,"metaUuid":null}
 ]},
-"24681":{"nexusModName":"Reduced Range Across the Board","nexusUploadedBy":"Cainhurtz","nexusModId":24681,"paks":[
+"24681":{"nexusModName":"Reduce Range","nexusUploadedBy":"Cainhurtz","nexusModId":24681,"paks":[
 {"nexusFileName":"Reduced Bow Range","nexusFileVersion":"1","nexusFileUploadedAt":1788015262,"pakFileName":"ReducedBowRange.pak","nexusFileId":129267,"metaUuid":null},
 {"nexusFileName":"Reduced Crossbow Range","nexusFileVersion":"1","nexusFileUploadedAt":1788015341,"pakFileName":"ReducedCrossbowRange.pak","nexusFileId":129268,"metaUuid":null},
 {"nexusFileName":"Reduced Spell Range - 30 ft","nexusFileVersion":"1","nexusFileUploadedAt":1788015490,"pakFileName":"ReducedSpellRange30.pak","nexusFileId":129269,"metaUuid":null},
