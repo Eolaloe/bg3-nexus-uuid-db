@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-08-29T14:52:08.235174+00:00","total_mods":17419},
+{"_meta":{"last_run":"2026-08-29T15:52:02.686894+00:00","total_mods":17420},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -69208,4 +69208,10 @@
 ]},
 "24680":{"nexusModName":"Dynamic ExtraEncounters CHS","nexusUploadedBy":"mzldyt","nexusModId":24680,"paks":[
 {"nexusFileName":"DynamicExtraEncounters CH","nexusFileVersion":"1.0.0.26","nexusFileUploadedAt":1788009242,"pakFileName":"DynamicExtraEncounters_CH.pak","nexusFileId":129265,"metaUuid":null}
+]},
+"24681":{"nexusModName":"Reduced Range Across the Board","nexusUploadedBy":"Cainhurtz","nexusModId":24681,"paks":[
+{"nexusFileName":"Reduced Bow Range","nexusFileVersion":"1","nexusFileUploadedAt":1788015262,"pakFileName":"ReducedBowRange.pak","nexusFileId":129267,"metaUuid":null},
+{"nexusFileName":"Reduced Crossbow Range","nexusFileVersion":"1","nexusFileUploadedAt":1788015341,"pakFileName":"ReducedCrossbowRange.pak","nexusFileId":129268,"metaUuid":null},
+{"nexusFileName":"Reduced Spell Range - 30 ft","nexusFileVersion":"1","nexusFileUploadedAt":1788015490,"pakFileName":"ReducedSpellRange30.pak","nexusFileId":129269,"metaUuid":null},
+{"nexusFileName":"Reduced Spell Range - 45 ft","nexusFileVersion":"1","nexusFileUploadedAt":1788015513,"pakFileName":"ReducedSpellRange45.pak","nexusFileId":129270,"metaUuid":null}
 ]}}
