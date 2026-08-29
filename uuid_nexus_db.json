@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-08-29T09:52:37.863385+00:00","total_mods":17413},
+{"_meta":{"last_run":"2026-08-29T10:52:22.405218+00:00","total_mods":17415},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -53826,7 +53826,7 @@
 ]},
 "19347":{"nexusModName":"Oath of the Noble Genies - Paladin Subclass (ENG-KOR)","nexusUploadedBy":"Ahdarugo","nexusModId":19347,"paks":[
 {"nexusFileName":"OPTION) Aura of Elemental Shielding range 6","nexusFileVersion":"1.0.0.2","nexusFileUploadedAt":1761930108,"pakFileName":"Oath_NobleGenies_Aura_6_e232bfe0-ad70-e186-6eba-3311b6aaf80c.pak","nexusFileId":106444,"metaUuid":"e232bfe0-ad70-e186-6eba-3311b6aaf80c"},
-{"nexusFileName":"Oath of the Noble Genies - Paladin Subclass","nexusFileVersion":"1.0.0.29","nexusFileUploadedAt":1786124543,"pakFileName":"OathoftheNobleGenies_ef277af6-fc99-75b4-ee0e-128b73234b8b.pak","nexusFileId":127514,"metaUuid":"ef277af6-fc99-75b4-ee0e-128b73234b8b"}
+{"nexusFileName":"Oath of the Noble Genies - Paladin Subclass","nexusFileVersion":"1.0.0.30","nexusFileUploadedAt":1787998268,"pakFileName":"OathoftheNobleGenies_ef277af6-fc99-75b4-ee0e-128b73234b8b.pak","nexusFileId":129256,"metaUuid":"ef277af6-fc99-75b4-ee0e-128b73234b8b"}
 ]},
 "19348":{"nexusModName":"Bells of Faerun - Russian translation","nexusUploadedBy":"FanLarin","nexusModId":19348,"paks":[
 {"nexusFileName":"BellsOfFaerun_RU","nexusFileVersion":"1.1.0","nexusFileUploadedAt":1761478686,"pakFileName":"BellsOfFaerun_RU.pak","nexusFileId":106036,"metaUuid":null}
@@ -67879,7 +67879,7 @@
 {"nexusFileName":"Speak With Dead Revamped","nexusFileVersion":"1.0.1","nexusFileUploadedAt":1786834316,"pakFileName":"Speak with Dead Revamped.pak","nexusFileId":128178,"metaUuid":"2863de0d-bf15-4045-8d8f-c5c934ac68bd"}
 ]},
 "24252":{"nexusModName":"Precious Head Presets - Rosyln","nexusUploadedBy":"preciouslittlebhaalbabee","nexusModId":24252,"paks":[
-{"nexusFileName":"Precious Head Presets - Rosyln","nexusFileVersion":"1","nexusFileUploadedAt":1785779651,"pakFileName":"Precious Head Presets - Rosyln.pak","nexusFileId":127225,"metaUuid":"465162ca-e52f-0cd1-1583-f4c7b016a8a4"}
+{"nexusFileName":"Precious Head Presets - Rosyln","nexusFileVersion":"2","nexusFileUploadedAt":1787999840,"pakFileName":"PHPRosyln_465162ca-e52f-0cd1-1583-f4c7b016a8a4.pak","nexusFileId":129258,"metaUuid":null}
 ]},
 "24254":{"nexusModName":"Eilistraee's Moonsword","nexusUploadedBy":"Safoxheadsymbol","nexusModId":24254,"paks":[
 {"nexusFileName":"FXHD Eilistraee Moonsword Mod","nexusFileVersion":"1","nexusFileUploadedAt":1785783170,"pakFileName":"Elistrae_Com_7811817b-fd5b-7e86-0658-0a79f12a3a8f.pak","nexusFileId":127232,"metaUuid":"7811817b-fd5b-7e86-0658-0a79f12a3a8f"}
@@ -69168,6 +69168,9 @@
 "24666":{"nexusModName":"CatKin and Specialist","nexusUploadedBy":"silverhawk2456","nexusModId":24666,"paks":[
 {"nexusFileName":"Catkin_Specialist","nexusFileVersion":"1","nexusFileUploadedAt":1787940495,"pakFileName":"CatkinSpecialist_8112703d-ba2c-e46b-7c4c-5760f8e58aa4.pak","nexusFileId":129212,"metaUuid":null}
 ]},
+"24667":{"nexusModName":"Permanent Buffs","nexusUploadedBy":"Sai","nexusModId":24667,"paks":[
+{"nexusFileName":"Permanent Buffs","nexusFileVersion":"1.0","nexusFileUploadedAt":1787999089,"pakFileName":"Permanent Buffs.pak","nexusFileId":129257,"metaUuid":null}
+]},
 "24669":{"nexusModName":"Clawstep Mod Refits","nexusUploadedBy":"tealrabbit19","nexusModId":24669,"paks":[
 {"nexusFileName":"CBR Battlemage Clawstep","nexusFileVersion":"1","nexusFileUploadedAt":1787948145,"pakFileName":"CBR_Battlemage_Clawstep.pak","nexusFileId":129218,"metaUuid":null}
 ]},
@@ -69190,4 +69193,7 @@
 ]},
 "24675":{"nexusModName":"Mizora Joins the Party","nexusUploadedBy":"WorldWalker42","nexusModId":24675,"paks":[
 {"nexusFileName":"Mizora Joins the Party","nexusFileVersion":"1.0.1.101","nexusFileUploadedAt":1787966091,"pakFileName":"WW_MizoraJoinsTheParty_ae9d1319-ab06-5bed-c686-0cfd706dea56.pak","nexusFileId":129238,"metaUuid":null}
+]},
+"24676":{"nexusModName":"Precious Head Presets - Robin","nexusUploadedBy":"preciouslittlebhaalbabee","nexusModId":24676,"paks":[
+{"nexusFileName":"PHPRobin E870033d 7c9d E902 8706 977022c78caf","nexusFileVersion":"1.0","nexusFileUploadedAt":1788000188,"pakFileName":"PHPRobin_e870033d-7c9d-e902-8706-977022c78caf.pak","nexusFileId":129259,"metaUuid":null}
 ]}}
