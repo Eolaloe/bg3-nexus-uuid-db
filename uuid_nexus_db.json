@@ -8701,7 +8701,7 @@
 ]},
 "2652":{"nexusModName":"Voice Swaps - Gale - Wyll - Astarion - Shadowheart - Lae'zel - Karlach - Halsin - Jaheira - Minthara - Minsc","nexusUploadedBy":"arkien","nexusModId":2652,"paks":[
 {"nexusFileName":"Gale_MtoF_1","nexusFileVersion":"2.0","nexusFileUploadedAt":1747402555,"pakFileName":"VC2-Gale-Female_20fee1ef-8815-2972-d790-fd02912009bc.pak","nexusFileId":93099,"metaUuid":null},
-{"nexusFileName":"AstarionMtoF1","nexusFileVersion":"2.0","nexusFileUploadedAt":1747428054,"pakFileName":"VS2-AstarionF-Deeper_d9a2452e-69f4-695b-1a14-78016e812928.pak","nexusFileId":93143,"metaUuid":null},
+{"nexusFileName":"AstarionMtoF1","nexusFileVersion":"2.0","nexusFileUploadedAt":1747428054,"pakFileName":"VS2-AstarionF-Deeper_d9a2452e-69f4-695b-1a14-78016e812928.pak","nexusFileId":93143,"metaUuid":"d9a2452e-69f4-695b-1a14-78016e812928"},
 {"nexusFileName":"Shadowheart_FtoM","nexusFileVersion":"2.1","nexusFileUploadedAt":1747863093,"pakFileName":"ShadowheartM_O_e18f9b27-39b8-4903-9774-de63c9860757.pak","nexusFileId":93673,"metaUuid":"e18f9b27-39b8-4903-9774-de63c9860757"},
 {"nexusFileName":"Halsin_MtoF","nexusFileVersion":"2.0","nexusFileUploadedAt":1747863213,"pakFileName":"Halsin_F1_ee39788f-b266-413d-b7c9-a2876629a7e9.pak","nexusFileId":93674,"metaUuid":"ee39788f-b266-413d-b7c9-a2876629a7e9"},
 {"nexusFileName":"Minsc_MtoF","nexusFileVersion":"2.0","nexusFileUploadedAt":1747863291,"pakFileName":"Minsc_F1_f6fd4930-9e12-4ee6-8ceb-82ee7d5566bb.pak","nexusFileId":93675,"metaUuid":"f6fd4930-9e12-4ee6-8ceb-82ee7d5566bb"},
@@ -8845,7 +8845,7 @@
 {"nexusFileName":"Style C","nexusFileVersion":"0.2.3","nexusFileUploadedAt":1729760643,"pakFileName":"Female Gale Voice Conversion Style C v2.3.pak","nexusFileId":76478,"metaUuid":"ef0a8d41-4102-4295-8396-24832fff3664"},
 {"nexusFileName":"Style D","nexusFileVersion":"0.2.3","nexusFileUploadedAt":1729761679,"pakFileName":"Female Gale Voice Conversion Style D v2.3.pak","nexusFileId":76479,"metaUuid":null},
 {"nexusFileName":"Style E","nexusFileVersion":"0.2.3","nexusFileUploadedAt":1729762806,"pakFileName":"Female Gale Voice Conversion Style E v2.3.pak","nexusFileId":76480,"metaUuid":"7514ef04-3e60-4ed7-b921-11664bd86bf4"},
-{"nexusFileName":"Style Zero (0)","nexusFileVersion":"0.2.3","nexusFileUploadedAt":1729764017,"pakFileName":"Female Gale Voice Conversion Style 0 v2.3.pak","nexusFileId":76482,"metaUuid":null}
+{"nexusFileName":"Style Zero (0)","nexusFileVersion":"0.2.3","nexusFileUploadedAt":1729764017,"pakFileName":"Female Gale Voice Conversion Style 0 v2.3.pak","nexusFileId":76482,"metaUuid":"1414423b-c4a4-4425-a12a-1ffeaa2f7a9a"}
 ]},
 "2703":{"nexusModName":"Traduction FR - Sous-Classe - Necromancien","nexusUploadedBy":"Keviinn86","nexusModId":2703,"paks":[
 {"nexusFileName":"DreadOverlord_French","nexusFileVersion":"4.0.4","nexusFileUploadedAt":1695811755,"pakFileName":"DreadOverlord_French.pak","nexusFileId":18906,"metaUuid":null}
@@ -9925,7 +9925,7 @@
 {"nexusFileName":"Style M","nexusFileVersion":"0.2.3","nexusFileUploadedAt":1729782338,"pakFileName":"Female Astarion Voice Conversion Style M v2.3.pak","nexusFileId":76540,"metaUuid":null},
 {"nexusFileName":"Style N","nexusFileVersion":"0.2.3","nexusFileUploadedAt":1729783534,"pakFileName":"Female Astarion Voice Conversion Style N v2.3.pak","nexusFileId":76546,"metaUuid":null},
 {"nexusFileName":"Style O","nexusFileVersion":"0.2.3","nexusFileUploadedAt":1729785476,"pakFileName":"Female Astarion Voice Conversion Style O v2.3.pak","nexusFileId":76554,"metaUuid":null},
-{"nexusFileName":"Style Zero (0)","nexusFileVersion":"0.2.3","nexusFileUploadedAt":1729795928,"pakFileName":"Female Astarion Voice Conversion Style 0 v2.3.pak","nexusFileId":76595,"metaUuid":null}
+{"nexusFileName":"Style Zero (0)","nexusFileVersion":"0.2.3","nexusFileUploadedAt":1729795928,"pakFileName":"Female Astarion Voice Conversion Style 0 v2.3.pak","nexusFileId":76595,"metaUuid":"527c1dc0-1059-4c1e-ac52-546ce686babb"}
 ]},
 "3021":{"nexusModName":"Darker Paper","nexusUploadedBy":"wes47","nexusModId":3021,"paks":[
 {"nexusFileName":"Darker Paper","nexusFileVersion":"3.0","nexusFileUploadedAt":1725901765,"pakFileName":"DarkerPaper.pak","nexusFileId":70173,"metaUuid":"7cc76845-27b0-40d5-81c7-2fbb302a7c85"}
@@ -18471,7 +18471,7 @@
 {"nexusFileName":"Style M (Medium)","nexusFileVersion":"0.2.3","nexusFileUploadedAt":1729853199,"pakFileName":"Female Wyll Voice Conversion Style M (Medium) v2.3.pak","nexusFileId":76698,"metaUuid":"36a20bf0-67a4-4219-bb4c-0b14279633da"},
 {"nexusFileName":"Style M (Super Light)","nexusFileVersion":"0.2.3","nexusFileUploadedAt":1729854466,"pakFileName":"Female Wyll Voice Conversion Style M (Super Light) v2.3.pak","nexusFileId":76703,"metaUuid":null},
 {"nexusFileName":"Style N","nexusFileVersion":"0.2.3","nexusFileUploadedAt":1729855197,"pakFileName":"Female Wyll Voice Conversion Style N v2.3.pak","nexusFileId":76704,"metaUuid":null},
-{"nexusFileName":"Style O","nexusFileVersion":"0.2.3","nexusFileUploadedAt":1729879712,"pakFileName":"Female Wyll Voice Conversion Style O v2.3.pak","nexusFileId":76757,"metaUuid":null},
+{"nexusFileName":"Style O","nexusFileVersion":"0.2.3","nexusFileUploadedAt":1729879712,"pakFileName":"Female Wyll Voice Conversion Style O v2.3.pak","nexusFileId":76757,"metaUuid":"6367c57d-6c1a-4b69-8095-346e0ba32bf3"},
 {"nexusFileName":"Style P","nexusFileVersion":"0.2.3","nexusFileUploadedAt":1729881223,"pakFileName":"Female Wyll Voice Conversion Style P v2.3.pak","nexusFileId":76761,"metaUuid":null},
 {"nexusFileName":"Style Q","nexusFileVersion":"0.2.3","nexusFileUploadedAt":1729884769,"pakFileName":"Female Wyll Voice Conversion Style Q v2.3.pak","nexusFileId":76768,"metaUuid":"8ceab7ad-edf8-4880-bc9f-caaaeb18173b"},
 {"nexusFileName":"Style S","nexusFileVersion":"0.2.3","nexusFileUploadedAt":1729885674,"pakFileName":"Female Wyll Voice Conversion Style S v2.3.pak","nexusFileId":76770,"metaUuid":null},
@@ -66862,8 +66862,8 @@
 "23848":{"nexusModName":"Transmuted Spell - a Metamagic for Every Element","nexusUploadedBy":"JThug","nexusModId":23848,"paks":[
 {"nexusFileName":"TransmutedSpell Nexus V1.3.14","nexusFileVersion":"1.3.14","nexusFileUploadedAt":1787857773,"pakFileName":"StarkMeiProbe.pak","nexusFileId":129175,"metaUuid":"aa11bb22-cc33-4d44-8e55-ff6677889900"},
 {"nexusFileName":"TransmutedSpell Nexus V1.3.14","nexusFileVersion":"1.3.14","nexusFileUploadedAt":1787857773,"pakFileName":"TransmutedSpell.pak","nexusFileId":129175,"metaUuid":"aa11bb22-cc33-4d44-8e55-ff6677889900"},
-{"nexusFileName":"TransmutedMagic Nexus Extended V1.3.14","nexusFileVersion":"1.3.14","nexusFileUploadedAt":1787857793,"pakFileName":"StarkMeiProbe.pak","nexusFileId":129176,"metaUuid":"aa11bb22-cc33-4d44-8e55-ff6677889900"},
-{"nexusFileName":"TransmutedMagic Nexus Extended V1.3.14","nexusFileVersion":"1.3.14","nexusFileUploadedAt":1787857793,"pakFileName":"TransmutedMagic.pak","nexusFileId":129176,"metaUuid":"aa11bb22-cc33-4d44-8e55-ff6677889900"}
+{"nexusFileName":"TransmutedMagic Nexus Extended V1.3.14","nexusFileVersion":"1.3.14","nexusFileUploadedAt":1787857793,"pakFileName":"StarkMeiProbe.pak","nexusFileId":129176,"metaUuid":"237c3b40-47b7-5b29-bf12-a098e35c6aac"},
+{"nexusFileName":"TransmutedMagic Nexus Extended V1.3.14","nexusFileVersion":"1.3.14","nexusFileUploadedAt":1787857793,"pakFileName":"TransmutedMagic.pak","nexusFileId":129176,"metaUuid":"237c3b40-47b7-5b29-bf12-a098e35c6aac"}
 ]},
 "23850":{"nexusModName":"Shar Origin","nexusUploadedBy":"TheCobaltCactus","nexusModId":23850,"paks":[
 {"nexusFileName":"Shar Origin","nexusFileVersion":"1.0.0.3","nexusFileUploadedAt":1783983463,"pakFileName":"Origin_Shar_New_cfd7d1ab-73b4-bcd5-052f-b0b18d907f48.pak","nexusFileId":125577,"metaUuid":"cfd7d1ab-73b4-bcd5-052f-b0b18d907f48"}
@@ -69066,7 +69066,7 @@
 {"nexusFileName":"Unarmed Zariel tiefling smites","nexusFileVersion":"2.0","nexusFileUploadedAt":1787759440,"pakFileName":"SAR_Unarmed-Zariel-Tiefling-Smites_ea8d1a1f-da43-e360-cca6-28e63eeaca53.pak","nexusFileId":129062,"metaUuid":"ea8d1a1f-da43-e360-cca6-28e63eeaca53"}
 ]},
 "24619":{"nexusModName":"Solasta Rogue Subclasses","nexusUploadedBy":"oaklei","nexusModId":24619,"paks":[
-{"nexusFileName":"Rogue Subclasses Solasta","nexusFileVersion":"1","nexusFileUploadedAt":1787603981,"pakFileName":"Solasta_subclasses_03a3acbb-bc56-f2cf-1e37-d91af75cb933.pak","nexusFileId":128950,"metaUuid":null}
+{"nexusFileName":"Rogue Subclasses Solasta","nexusFileVersion":"1","nexusFileUploadedAt":1787603981,"pakFileName":"Solasta_subclasses_03a3acbb-bc56-f2cf-1e37-d91af75cb933.pak","nexusFileId":128950,"metaUuid":"03a3acbb-bc56-f2cf-1e37-d91af75cb933"}
 ]},
 "24620":{"nexusModName":"CATPACK - backpacks for your cats","nexusUploadedBy":"clloudiie","nexusModId":24620,"paks":[
 {"nexusFileName":"CATPACK","nexusFileVersion":"1","nexusFileUploadedAt":1787613163,"pakFileName":"CLD_Catpack_d72cf775-14aa-a6f2-a394-01293eca028f.pak","nexusFileId":128957,"metaUuid":"d72cf775-14aa-a6f2-a394-01293eca028f"}
