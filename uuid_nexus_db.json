@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-08-29T18:52:30.291964+00:00","total_mods":17425},
+{"_meta":{"last_run":"2026-08-29T19:52:38.255366+00:00","total_mods":17426},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -26560,7 +26560,7 @@
 {"nexusFileName":"Addon - Randomized Loot","nexusFileVersion":"2.0.0","nexusFileUploadedAt":1777412085,"pakFileName":"HomeBrew - Comprehensive Reworks (Addon - Randomized Loot).pak","nexusFileId":120106,"metaUuid":"74a00bb6-b29e-497d-8410-2307ceb876fe"},
 {"nexusFileName":"Misc - Modded Subclasses","nexusFileVersion":"8.3.1","nexusFileUploadedAt":1777412098,"pakFileName":"HomeBrew - Comprehensive Reworks (Misc - Modded Subclasses).pak","nexusFileId":120107,"metaUuid":"cf1fd434-de12-40ed-9bb0-4a5a3de48973"},
 {"nexusFileName":"Easier Difficulty - Mythic Difficulty Reduced","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1783594414,"pakFileName":"Home Brew - Comprehensive Reworks (Easier Difficulty - Mythic Difficulty Reduced).pak","nexusFileId":125264,"metaUuid":"135c0255-9690-4377-957d-2b40187f74a2"},
-{"nexusFileName":"HomeBrew   Comprehensive Reworks","nexusFileVersion":"9.1.4","nexusFileUploadedAt":1787684825,"pakFileName":"HomeBrew - Comprehensive Reworks.pak","nexusFileId":128990,"metaUuid":"486d1526-3505-4b09-9790-0f6a60f5ac0f"}
+{"nexusFileName":"HomeBrew   Comprehensive Reworks","nexusFileVersion":"9.1.5","nexusFileUploadedAt":1788031960,"pakFileName":"HomeBrew - Comprehensive Reworks.pak","nexusFileId":129293,"metaUuid":"486d1526-3505-4b09-9790-0f6a60f5ac0f"}
 ]},
 "9053":{"nexusModName":"Planetouched - Homebrew Race","nexusUploadedBy":"0Lyra","nexusModId":9053,"paks":[
 {"nexusFileName":"Planetouched - Main","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1715369676,"pakFileName":"Planetouched_Race.pak","nexusFileId":56628,"metaUuid":"fc59491b-4bc3-4822-8597-7ed1b84064c5"},
@@ -66860,10 +66860,10 @@
 {"nexusFileName":"Main file","nexusFileVersion":"1","nexusFileUploadedAt":1784069598,"pakFileName":"gortflash_80d47f66-036b-e1a5-b3d8-44b178f6a0f7.pak","nexusFileId":125658,"metaUuid":"80d47f66-036b-e1a5-b3d8-44b178f6a0f7"}
 ]},
 "23848":{"nexusModName":"Transmuted Spell - a Metamagic for Every Element","nexusUploadedBy":"JThug","nexusModId":23848,"paks":[
-{"nexusFileName":"TransmutedSpell Nexus V1.3.14","nexusFileVersion":"1.3.14","nexusFileUploadedAt":1787857773,"pakFileName":"StarkMeiProbe.pak","nexusFileId":129175,"metaUuid":"aa11bb22-cc33-4d44-8e55-ff6677889900"},
+{"nexusFileName":"TransmutedSpell Nexus V1.3.14","nexusFileVersion":"1.3.14","nexusFileUploadedAt":1787857773,"pakFileName":"StarkMeiProbe.pak","nexusFileId":129175,"metaUuid":"237c3b40-47b7-5b29-bf12-a098e35c6aac"},
 {"nexusFileName":"TransmutedSpell Nexus V1.3.14","nexusFileVersion":"1.3.14","nexusFileUploadedAt":1787857773,"pakFileName":"TransmutedSpell.pak","nexusFileId":129175,"metaUuid":"aa11bb22-cc33-4d44-8e55-ff6677889900"},
-{"nexusFileName":"TransmutedMagic Nexus Extended V1.3.14","nexusFileVersion":"1.3.14","nexusFileUploadedAt":1787857793,"pakFileName":"StarkMeiProbe.pak","nexusFileId":129176,"metaUuid":"237c3b40-47b7-5b29-bf12-a098e35c6aac"},
-{"nexusFileName":"TransmutedMagic Nexus Extended V1.3.14","nexusFileVersion":"1.3.14","nexusFileUploadedAt":1787857793,"pakFileName":"TransmutedMagic.pak","nexusFileId":129176,"metaUuid":"237c3b40-47b7-5b29-bf12-a098e35c6aac"}
+{"nexusFileName":"TransmutedMagic Nexus Extended V1.3.15","nexusFileVersion":"1.3.15","nexusFileUploadedAt":1788031636,"pakFileName":"StarkMeiProbe.pak","nexusFileId":129292,"metaUuid":"237c3b40-47b7-5b29-bf12-a098e35c6aac"},
+{"nexusFileName":"TransmutedMagic Nexus Extended V1.3.15","nexusFileVersion":"1.3.15","nexusFileUploadedAt":1788031636,"pakFileName":"TransmutedMagic.pak","nexusFileId":129292,"metaUuid":"237c3b40-47b7-5b29-bf12-a098e35c6aac"}
 ]},
 "23850":{"nexusModName":"Shar Origin","nexusUploadedBy":"TheCobaltCactus","nexusModId":23850,"paks":[
 {"nexusFileName":"Shar Origin","nexusFileVersion":"1.0.0.3","nexusFileUploadedAt":1783983463,"pakFileName":"Origin_Shar_New_cfd7d1ab-73b4-bcd5-052f-b0b18d907f48.pak","nexusFileId":125577,"metaUuid":"cfd7d1ab-73b4-bcd5-052f-b0b18d907f48"}
@@ -68340,7 +68340,7 @@
 {"nexusFileName":"NR RemoveToggles","nexusFileVersion":"1","nexusFileUploadedAt":1786820369,"pakFileName":"NR_RemoveToggles.pak","nexusFileId":128158,"metaUuid":"9c423e21-3b07-4450-a05f-57c058e7b273"}
 ]},
 "24449":{"nexusModName":"Cheater's Menu","nexusUploadedBy":"ForKiramay","nexusModId":24449,"paks":[
-{"nexusFileName":"Cheater's Menu","nexusFileVersion":"1.0.0.55","nexusFileUploadedAt":1787701945,"pakFileName":"CheatersMenu_7f91aeca-b731-cd89-05f7-3c0b56cb6d92.pak","nexusFileId":129008,"metaUuid":"7f91aeca-b731-cd89-05f7-3c0b56cb6d92"}
+{"nexusFileName":"Cheater's Menu","nexusFileVersion":"1.0.0.58","nexusFileUploadedAt":1788031995,"pakFileName":"CheatersMenu_7f91aeca-b731-cd89-05f7-3c0b56cb6d92.pak","nexusFileId":129294,"metaUuid":"7f91aeca-b731-cd89-05f7-3c0b56cb6d92"}
 ]},
 "24451":{"nexusModName":"HyperspaceTowel's Early Access Dream Visitor Restored for Korean","nexusUploadedBy":"Eolaloe","nexusModId":24451,"paks":[
 {"nexusFileName":"Early Access Dream Visitor Restored for Korean","nexusFileVersion":"1.0.1.1","nexusFileUploadedAt":1786824207,"pakFileName":"HT_EA_Daisy_kr.pak","nexusFileId":128164,"metaUuid":null}
@@ -69206,7 +69206,7 @@
 {"nexusFileName":"PHPRobin E870033d 7c9d E902 8706 977022c78caf","nexusFileVersion":"1.0","nexusFileUploadedAt":1788000188,"pakFileName":"PHPRobin_e870033d-7c9d-e902-8706-977022c78caf.pak","nexusFileId":129259,"metaUuid":null}
 ]},
 "24677":{"nexusModName":"Half-Orc Half-Drow","nexusUploadedBy":"Sai","nexusModId":24677,"paks":[
-{"nexusFileName":"Half Orc Half Drow","nexusFileVersion":"1.0","nexusFileUploadedAt":1788007447,"pakFileName":"Half-Orc Half-Drow.pak","nexusFileId":129263,"metaUuid":null}
+{"nexusFileName":"Half-Orc Half-Drow","nexusFileVersion":"1.1","nexusFileUploadedAt":1788030151,"pakFileName":"Half-Orc Half-Drow.pak","nexusFileId":129291,"metaUuid":null}
 ]},
 "24678":{"nexusModName":"Mizora Joins the Party - Turkish Translation","nexusUploadedBy":"tarikagl1","nexusModId":24678,"paks":[
 {"nexusFileName":"MizoraJoinsTheParty TR","nexusFileVersion":"1.00.00","nexusFileUploadedAt":1788006365,"pakFileName":"MizoraJoinsTheParty_TR.pak","nexusFileId":129262,"metaUuid":null}
@@ -69225,6 +69225,10 @@
 ]},
 "24682":{"nexusModName":"Know Your Roll","nexusUploadedBy":"Aliencow1338","nexusModId":24682,"paks":[
 {"nexusFileName":"KnowYourRoll","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1788020198,"pakFileName":"KnowYourRoll.pak","nexusFileId":129273,"metaUuid":null}
+]},
+"24683":{"nexusModName":"Taste of Poison - Minthara Edit","nexusUploadedBy":"SweetGenerousThing","nexusModId":24683,"paks":[
+{"nexusFileName":"SGT_Taste Of Poison -  Minthara Portrait","nexusFileVersion":"1","nexusFileUploadedAt":1788025939,"pakFileName":"Taste Of Poison - Minthara Portrait.pak","nexusFileId":129282,"metaUuid":null},
+{"nexusFileName":"SGT_Taste Of Poison -  Minthara Edit","nexusFileVersion":"1","nexusFileUploadedAt":1788029970,"pakFileName":"SGT_TasteOfPoison_109503d1-750a-378f-febb-3145eac4f9df.pak","nexusFileId":129290,"metaUuid":null}
 ]},
 "24684":{"nexusModName":"Astarions armor in the scene with Casador.","nexusUploadedBy":"Deni34","nexusModId":24684,"paks":[
 {"nexusFileName":"Astarion FINAL","nexusFileVersion":"1","nexusFileUploadedAt":1788027313,"pakFileName":"Astarion_FINAL.pak","nexusFileId":129284,"metaUuid":null}
