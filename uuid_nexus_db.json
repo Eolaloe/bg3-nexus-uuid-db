@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-08-29T12:52:07.166945+00:00","total_mods":17417},
+{"_meta":{"last_run":"2026-08-29T13:52:38.999026+00:00","total_mods":17419},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -57402,8 +57402,8 @@
 {"nexusFileName":"Spells Enhanced - Aid","nexusFileVersion":"1.0.2","nexusFileUploadedAt":1777249114,"pakFileName":"Spells Enhanced - Aid.pak","nexusFileId":119967,"metaUuid":"3741a573-731d-41c0-ab74-5b7de35b996e"}
 ]},
 "20379":{"nexusModName":"Scion Of The Three - Rogue Subclass (ENG-KOR)","nexusUploadedBy":"Ahdarugo","nexusModId":20379,"paks":[
-{"nexusFileName":"Scion Of The Three - Rogue Subclass","nexusFileVersion":"1.0.0.15","nexusFileUploadedAt":1781358129,"pakFileName":"ScionOfTheThree_bea74574-57da-e902-25ed-e5875d88679f.pak","nexusFileId":123474,"metaUuid":"bea74574-57da-e902-25ed-e5875d88679f"},
-{"nexusFileName":"Scion Of The Three - Rogue Subclass Charisma addon","nexusFileVersion":"1.0.0.2","nexusFileUploadedAt":1782053453,"pakFileName":"ScionOfTheThreeCharisma_5bc3359f-0287-6064-2450-051f3f31446e.pak","nexusFileId":123999,"metaUuid":null}
+{"nexusFileName":"Scion Of The Three - Rogue Subclass Charisma addon","nexusFileVersion":"1.0.0.2","nexusFileUploadedAt":1782053453,"pakFileName":"ScionOfTheThreeCharisma_5bc3359f-0287-6064-2450-051f3f31446e.pak","nexusFileId":123999,"metaUuid":null},
+{"nexusFileName":"Scion Of The Three - Rogue Subclass","nexusFileVersion":"1.1.0.1","nexusFileUploadedAt":1788010027,"pakFileName":"ScionOfTheThree_bea74574-57da-e902-25ed-e5875d88679f.pak","nexusFileId":129266,"metaUuid":"bea74574-57da-e902-25ed-e5875d88679f"}
 ]},
 "20380":{"nexusModName":"Custom Titles","nexusUploadedBy":"adriant1978","nexusModId":20380,"paks":[
 {"nexusFileName":"CustomTitles","nexusFileVersion":"2.0.0.0","nexusFileUploadedAt":1769090744,"pakFileName":"CustomTitles.pak","nexusFileId":112937,"metaUuid":"46b7c73b-da73-4db0-941e-34e1ad7c7e6f"}
@@ -69202,4 +69202,10 @@
 ]},
 "24678":{"nexusModName":"Mizora Joins the Party - Turkish Translation","nexusUploadedBy":"tarikagl1","nexusModId":24678,"paks":[
 {"nexusFileName":"MizoraJoinsTheParty TR","nexusFileVersion":"1.00.00","nexusFileUploadedAt":1788006365,"pakFileName":"MizoraJoinsTheParty_TR.pak","nexusFileId":129262,"metaUuid":null}
+]},
+"24679":{"nexusModName":"Concentration Overhaul Mod","nexusUploadedBy":"Aliencow1338","nexusModId":24679,"paks":[
+{"nexusFileName":"Concentration Overhaul","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1788007841,"pakFileName":"ConcentrationOverhaul.pak","nexusFileId":129264,"metaUuid":null}
+]},
+"24680":{"nexusModName":"Dynamic ExtraEncounters CHS","nexusUploadedBy":"mzldyt","nexusModId":24680,"paks":[
+{"nexusFileName":"DynamicExtraEncounters CH","nexusFileVersion":"1.0.0.26","nexusFileUploadedAt":1788009242,"pakFileName":"DynamicExtraEncounters_CH.pak","nexusFileId":129265,"metaUuid":null}
 ]}}
