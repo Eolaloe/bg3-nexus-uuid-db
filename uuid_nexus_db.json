@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-08-30T20:52:38.056808+00:00","total_mods":17440},
+{"_meta":{"last_run":"2026-08-30T21:52:09.314830+00:00","total_mods":17441},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -65436,7 +65436,7 @@
 {"nexusFileName":"Awakened Morninglord's Morningstar","nexusFileVersion":"1.0.1","nexusFileUploadedAt":1780865334,"pakFileName":"Awakened Morninglord's Morningstar Compatibility Patch.pak","nexusFileId":123106,"metaUuid":"a4bc95d6-d14f-4ce5-8401-222937128234"}
 ]},
 "23247":{"nexusModName":"Advanced Enemy Randomizer","nexusUploadedBy":"celerev","nexusModId":23247,"paks":[
-{"nexusFileName":"AERando","nexusFileVersion":"0.9.16.5","nexusFileUploadedAt":1788114515,"pakFileName":"AERando.pak","nexusFileId":129373,"metaUuid":"1ec28411-fbaf-43ba-ad7b-092aa678c0dc"}
+{"nexusFileName":"AERando","nexusFileVersion":"0.9.16.6","nexusFileUploadedAt":1788124293,"pakFileName":"AERando.pak","nexusFileId":129389,"metaUuid":"1ec28411-fbaf-43ba-ad7b-092aa678c0dc"}
 ]},
 "23248":{"nexusModName":"Sharran Weaponry by AzazeL (WIP)_JP","nexusUploadedBy":"Akazonae36","nexusModId":23248,"paks":[
 {"nexusFileName":"Aza Sharran Weaponry WIP JP","nexusFileVersion":"1","nexusFileUploadedAt":1780802520,"pakFileName":"Aza_Sharran_Weaponry_WIP_JP.pak","nexusFileId":123036,"metaUuid":null}
@@ -66866,8 +66866,8 @@
 "23848":{"nexusModName":"Transmuted Spell - a Metamagic for Every Element","nexusUploadedBy":"JThug","nexusModId":23848,"paks":[
 {"nexusFileName":"TransmutedSpell Nexus V1.3.14","nexusFileVersion":"1.3.14","nexusFileUploadedAt":1787857773,"pakFileName":"StarkMeiProbe.pak","nexusFileId":129175,"metaUuid":"237c3b40-47b7-5b29-bf12-a098e35c6aac"},
 {"nexusFileName":"TransmutedSpell Nexus V1.3.14","nexusFileVersion":"1.3.14","nexusFileUploadedAt":1787857773,"pakFileName":"TransmutedSpell.pak","nexusFileId":129175,"metaUuid":"3aef6cce-fc3a-583c-beb1-19f52c1435e1"},
-{"nexusFileName":"TransmutedMagic Nexus Extended V1.3.15","nexusFileVersion":"1.3.15","nexusFileUploadedAt":1788031636,"pakFileName":"StarkMeiProbe.pak","nexusFileId":129292,"metaUuid":"237c3b40-47b7-5b29-bf12-a098e35c6aac"},
-{"nexusFileName":"TransmutedMagic Nexus Extended V1.3.15","nexusFileVersion":"1.3.15","nexusFileUploadedAt":1788031636,"pakFileName":"TransmutedMagic.pak","nexusFileId":129292,"metaUuid":"237c3b40-47b7-5b29-bf12-a098e35c6aac"}
+{"nexusFileName":"TransmutedMagic Nexus Extended V1.3.16","nexusFileVersion":"1.3.16","nexusFileUploadedAt":1788124489,"pakFileName":"StarkMeiProbe.pak","nexusFileId":129390,"metaUuid":"237c3b40-47b7-5b29-bf12-a098e35c6aac"},
+{"nexusFileName":"TransmutedMagic Nexus Extended V1.3.16","nexusFileVersion":"1.3.16","nexusFileUploadedAt":1788124489,"pakFileName":"TransmutedMagic.pak","nexusFileId":129390,"metaUuid":"237c3b40-47b7-5b29-bf12-a098e35c6aac"}
 ]},
 "23850":{"nexusModName":"Shar Origin","nexusUploadedBy":"TheCobaltCactus","nexusModId":23850,"paks":[
 {"nexusFileName":"Shar Origin","nexusFileVersion":"1.0.0.3","nexusFileUploadedAt":1783983463,"pakFileName":"Origin_Shar_New_cfd7d1ab-73b4-bcd5-052f-b0b18d907f48.pak","nexusFileId":125577,"metaUuid":"cfd7d1ab-73b4-bcd5-052f-b0b18d907f48"}
@@ -69284,6 +69284,9 @@
 ]},
 "24710":{"nexusModName":"Fade's Equipment Distribution - Russian Translation","nexusUploadedBy":"SNKmod777","nexusModId":24710,"paks":[
 {"nexusFileName":"FED RU","nexusFileVersion":"1.0.0.1","nexusFileUploadedAt":1788116822,"pakFileName":"FED_RU.pak","nexusFileId":129379,"metaUuid":null}
+]},
+"24711":{"nexusModName":"Dialogue Tag Selector","nexusUploadedBy":"marykerry02","nexusModId":24711,"paks":[
+{"nexusFileName":"Dialogue Tag Selector","nexusFileVersion":"1","nexusFileUploadedAt":1788126618,"pakFileName":"DialogueTagSelector.pak","nexusFileId":129391,"metaUuid":null}
 ]},
 "24712":{"nexusModName":"Symphony of a Vampire CHS","nexusUploadedBy":"mzldyt","nexusModId":24712,"paks":[
 {"nexusFileName":"Vampiric Tree CHS","nexusFileVersion":"1","nexusFileUploadedAt":1788119419,"pakFileName":"vampiric_tree CHS.pak","nexusFileId":129384,"metaUuid":null}
