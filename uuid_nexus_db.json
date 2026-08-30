@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-08-30T11:52:04.669082+00:00","total_mods":17435},
+{"_meta":{"last_run":"2026-08-30T12:52:15.284293+00:00","total_mods":17436},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -55110,8 +55110,8 @@
 "19790":{"nexusModName":"Cahoot's Absolute's Laboratory Config","nexusUploadedBy":"Cahooots","nexusModId":19790,"paks":[
 {"nexusFileName":"CahootLabConfig Dependencies 2","nexusFileVersion":"2.0.0","nexusFileUploadedAt":1783105253,"pakFileName":"CahootLabConfig_Dependencies_2.pak","nexusFileId":124807,"metaUuid":"40f67820-a2d1-4049-a121-66d74a4a35f2"},
 {"nexusFileName":"CahootLabConfig Dependencies 1","nexusFileVersion":"2.0.0","nexusFileUploadedAt":1783107377,"pakFileName":"CahootLabConfig_Dependencies_1.pak","nexusFileId":124809,"metaUuid":"0865ac2a-7ab7-4200-aec5-955ffccb5aa7"},
-{"nexusFileName":"Cahoot's Lab Config (5 Party)","nexusFileVersion":"2.1.0","nexusFileUploadedAt":1784409462,"pakFileName":"CahootLabConfig_5Party.pak","nexusFileId":125957,"metaUuid":"6fcd359f-9326-4502-ab3e-6a925629bb67"},
-{"nexusFileName":"Cahoot's Lab Config (4 Party)","nexusFileVersion":"2.1.0","nexusFileUploadedAt":1784409470,"pakFileName":"CahootLabConfig_4Party.pak","nexusFileId":125958,"metaUuid":"bed00e2c-7588-49fc-ac58-263619bcab5f"}
+{"nexusFileName":"Cahoot's Lab Config (4 Party)","nexusFileVersion":"2.1.1","nexusFileUploadedAt":1788092038,"pakFileName":"CahootLabConfig_4Party.pak","nexusFileId":129333,"metaUuid":"bed00e2c-7588-49fc-ac58-263619bcab5f"},
+{"nexusFileName":"Cahoot's Lab Config (5 Party)","nexusFileVersion":"2.1.1","nexusFileUploadedAt":1788092046,"pakFileName":"CahootLabConfig_5Party.pak","nexusFileId":129334,"metaUuid":"6fcd359f-9326-4502-ab3e-6a925629bb67"}
 ]},
 "19791":{"nexusModName":"Aufelle's Boudoir Pose Pack","nexusUploadedBy":"AufelleClauvellan","nexusModId":19791,"paks":[
 {"nexusFileName":"Aufelle's Boudoir Pose Pack","nexusFileVersion":"1.0.0.19","nexusFileUploadedAt":1764812751,"pakFileName":"AufBoudoirPosePack_6414c2f9-3ee7-9129-667a-dc195aa6ad53.pak","nexusFileId":108808,"metaUuid":"6414c2f9-3ee7-9129-667a-dc195aa6ad53"}
@@ -69267,4 +69267,7 @@
 ]},
 "24702":{"nexusModName":"Princess Alisa's Ice Arsenal","nexusUploadedBy":"Prednoxx","nexusModId":24702,"paks":[
 {"nexusFileName":"Alisa's Ice Greatswords","nexusFileVersion":"1","nexusFileUploadedAt":1788081687,"pakFileName":"IceGreatswordTest_00f65607-1a59-5350-11a4-88c396eccf21.pak","nexusFileId":129325,"metaUuid":null}
+]},
+"24704":{"nexusModName":"Remove Mod Manager Button","nexusUploadedBy":"Sai","nexusModId":24704,"paks":[
+{"nexusFileName":"Remove Mod Manager Button","nexusFileVersion":"1.0","nexusFileUploadedAt":1788092538,"pakFileName":"Remove Mod Manager Button.pak","nexusFileId":129335,"metaUuid":null}
 ]}}
