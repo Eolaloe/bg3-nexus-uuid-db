@@ -15824,7 +15824,7 @@
 ]},
 "5037":{"nexusModName":"Astarion Post Ascension Dialogue Fix","nexusUploadedBy":"Hazevamp","nexusModId":5037,"paks":[
 {"nexusFileName":"FixedAAdialogue w Support","nexusFileVersion":"7","nexusFileUploadedAt":1772410739,"pakFileName":"AAdialogueSupport_4c27ef34-91b0-8ec8-c8e6-1988eb27c5ce.pak","nexusFileId":115868,"metaUuid":"4c27ef34-91b0-8ec8-c8e6-1988eb27c5ce"},
-{"nexusFileName":"FixedAAdialogue","nexusFileVersion":"7","nexusFileUploadedAt":1772410794,"pakFileName":"AAdialogue_dbfee446-a992-03af-88d2-9beb5164bd01.pak","nexusFileId":115869,"metaUuid":null}
+{"nexusFileName":"FixedAAdialogue","nexusFileVersion":"7","nexusFileUploadedAt":1772410794,"pakFileName":"AAdialogue_dbfee446-a992-03af-88d2-9beb5164bd01.pak","nexusFileId":115869,"metaUuid":"dbfee446-a992-03af-88d2-9beb5164bd01"}
 ]},
 "5038":{"nexusModName":"Learn Devils Sight or Superior Darkvision","nexusUploadedBy":"BitterPast","nexusModId":5038,"paks":[
 {"nexusFileName":"Receive Devils Sight","nexusFileVersion":"1.0.1","nexusFileUploadedAt":1706457003,"pakFileName":"AddSightPassive.pak","nexusFileId":42218,"metaUuid":null},
@@ -32769,8 +32769,8 @@
 {"nexusFileName":"The Leg Thing - PAK","nexusFileVersion":"1.0.1.1","nexusFileUploadedAt":1745379778,"pakFileName":"MGNTN_TheLegThing.pak","nexusFileId":90315,"metaUuid":"5b653bb7-9b30-405f-a828-41ec71c8d87e"}
 ]},
 "11461":{"nexusModName":"Veenab Library","nexusUploadedBy":"Veenab","nexusModId":11461,"paks":[
-{"nexusFileName":"VBT Resource(3.5.3.1)","nexusFileVersion":"3.5.3.1","nexusFileUploadedAt":1777462124,"pakFileName":"VBT_Resource.pak","nexusFileId":120172,"metaUuid":"02b17e3e-869e-4df4-8416-0e7296017764"},
-{"nexusFileName":"VBT Resource(3.5.3.1)","nexusFileVersion":"3.5.3.1","nexusFileUploadedAt":1777462124,"pakFileName":"VBT_Toolkit_c11543b5-10b6-3be8-7322-d8fc739b32d4.pak","nexusFileId":120172,"metaUuid":"02b17e3e-869e-4df4-8416-0e7296017764"}
+{"nexusFileName":"VBT Resource(3.5.3.1)","nexusFileVersion":"3.5.3.1","nexusFileUploadedAt":1777462124,"pakFileName":"VBT_Resource.pak","nexusFileId":120172,"metaUuid":"c11543b5-10b6-3be8-7322-d8fc739b32d4"},
+{"nexusFileName":"VBT Resource(3.5.3.1)","nexusFileVersion":"3.5.3.1","nexusFileUploadedAt":1777462124,"pakFileName":"VBT_Toolkit_c11543b5-10b6-3be8-7322-d8fc739b32d4.pak","nexusFileId":120172,"metaUuid":"c11543b5-10b6-3be8-7322-d8fc739b32d4"}
 ]},
 "11462":{"nexusModName":"5e Samurai - Russian Translation","nexusUploadedBy":"Hecctus","nexusModId":11462,"paks":[
 {"nexusFileName":"5e Samurai RU","nexusFileVersion":"1.1.2.0","nexusFileUploadedAt":1726841449,"pakFileName":"Samurai5e_RU.pak","nexusFileId":71914,"metaUuid":null}
@@ -34270,7 +34270,7 @@
 {"nexusFileName":"2e Spells ITA","nexusFileVersion":"8.10.0","nexusFileUploadedAt":1725807029,"pakFileName":"2eSpells - ITA.pak","nexusFileId":69885,"metaUuid":null}
 ]},
 "12055":{"nexusModName":"Lighter Half Illithid","nexusUploadedBy":"Cloweeeee","nexusModId":12055,"paks":[
-{"nexusFileName":"LighterHalfIllithid - Bugfix - 1.1.0 (half-color)","nexusFileVersion":"1.1.0","nexusFileUploadedAt":1727363431,"pakFileName":"LighterHalfIllithid_707c63c9-0374-6ffa-c522-d9c277eb03be_halfcolor.pak","nexusFileId":72798,"metaUuid":null},
+{"nexusFileName":"LighterHalfIllithid - Bugfix - 1.1.0 (half-color)","nexusFileVersion":"1.1.0","nexusFileUploadedAt":1727363431,"pakFileName":"LighterHalfIllithid_707c63c9-0374-6ffa-c522-d9c277eb03be_halfcolor.pak","nexusFileId":72798,"metaUuid":"707c63c9-0374-6ffa-c522-d9c277eb03be"},
 {"nexusFileName":"LighterHalfIllithid - Bugfix - 1.1.0 (colorless)","nexusFileVersion":"1.1.0","nexusFileUploadedAt":1727363498,"pakFileName":"LighterHalfIllithid_707c63c9-0374-6ffa-c522-d9c277eb03be_colorless.pak","nexusFileId":72799,"metaUuid":null}
 ]},
 "12056":{"nexusModName":"Exhaustion - FR","nexusUploadedBy":"Aqu1lae","nexusModId":12056,"paks":[
@@ -39756,7 +39756,7 @@
 {"nexusFileName":"Addons - 2 files (OG Faces for Kagha and Rolan)","nexusFileVersion":"1.5.0.0","nexusFileUploadedAt":1734709504,"pakFileName":"Aza_NPCre_KaghaOGFace.pak","nexusFileId":82373,"metaUuid":"999137b3-bd32-4497-aa01-5daf0e2e0de0"},
 {"nexusFileName":"Addons - 2 files (OG Faces for Kagha and Rolan)","nexusFileVersion":"1.5.0.0","nexusFileUploadedAt":1734709504,"pakFileName":"Aza_NPCre_RolanOGFace.pak","nexusFileId":82373,"metaUuid":"c1a659d2-ae4a-80b7-0f64-8e110ce1cb92"},
 {"nexusFileName":"Patch for Alfira Joins the Party","nexusFileVersion":"1.6.0","nexusFileUploadedAt":1771051206,"pakFileName":"Aza_NPCre_TheEmeraldGrove_AlfiraPatch_ab2692a7-11aa-55ff-7f99-5f2edf6333da.pak","nexusFileId":114798,"metaUuid":"ab2692a7-11aa-55ff-7f99-5f2edf6333da"},
-{"nexusFileName":"NPC Redesign v2 (All-in-One)","nexusFileVersion":"2.0","nexusFileUploadedAt":1776195012,"pakFileName":"Aza_NPCre_TheEmeraldGrove_v2.pak","nexusFileId":118987,"metaUuid":"ab2692a7-11aa-55ff-7f99-5f2edf6333da"},
+{"nexusFileName":"NPC Redesign v2 (All-in-One)","nexusFileVersion":"2.0","nexusFileUploadedAt":1776195012,"pakFileName":"Aza_NPCre_TheEmeraldGrove_v2.pak","nexusFileId":118987,"metaUuid":"74cb2214-5ddb-8fa6-9f6b-1f9be9bba6f3"},
 {"nexusFileName":"NPC Redesign v2 (Druids and Shadow Druids)","nexusFileVersion":"2.0","nexusFileUploadedAt":1776195023,"pakFileName":"Aza_NPCre_TheEmeraldGrove_Druids_v2.pak","nexusFileId":118988,"metaUuid":"b2c2d64c-d6ad-3bea-f9b8-7fe6e3ce6e57"},
 {"nexusFileName":"NPC Redesign v2 (Tieflings)","nexusFileVersion":"2.0","nexusFileUploadedAt":1776195026,"pakFileName":"Aza_NPCre_TheEmeraldGrove_Tieflings_v2.pak","nexusFileId":118989,"metaUuid":"03a1d481-b75e-e618-1be1-ebe620d9944d"},
 {"nexusFileName":"NPC Redesign v2 (Aradin's Group)","nexusFileVersion":"2.0","nexusFileUploadedAt":1776195039,"pakFileName":"Aza_NPCre_TheEmeraldGrove_AradinGroup_v2.pak","nexusFileId":118990,"metaUuid":"a097314d-b985-6c41-9d36-c9c3254a1508"},
@@ -69079,7 +69079,7 @@
 {"nexusFileName":"Unarmed Zariel tiefling smites","nexusFileVersion":"2.0","nexusFileUploadedAt":1787759440,"pakFileName":"SAR_Unarmed-Zariel-Tiefling-Smites_ea8d1a1f-da43-e360-cca6-28e63eeaca53.pak","nexusFileId":129062,"metaUuid":"ea8d1a1f-da43-e360-cca6-28e63eeaca53"}
 ]},
 "24618":{"nexusModName":"Homebrew Subclasses","nexusUploadedBy":"zx10rx","nexusModId":24618,"paks":[
-{"nexusFileName":"Homebrew Subclasses","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1788082435,"pakFileName":"HomebrewSubclasses_aec6997c-56bd-733a-728d-500c70dba8d1.pak","nexusFileId":129328,"metaUuid":null}
+{"nexusFileName":"Homebrew Subclasses","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1788082435,"pakFileName":"HomebrewSubclasses_aec6997c-56bd-733a-728d-500c70dba8d1.pak","nexusFileId":129328,"metaUuid":"aec6997c-56bd-733a-728d-500c70dba8d1"}
 ]},
 "24619":{"nexusModName":"Solasta Rogue Subclasses","nexusUploadedBy":"oaklei","nexusModId":24619,"paks":[
 {"nexusFileName":"Rogue Subclasses Solasta","nexusFileVersion":"1","nexusFileUploadedAt":1787603981,"pakFileName":"Solasta_subclasses_03a3acbb-bc56-f2cf-1e37-d91af75cb933.pak","nexusFileId":128950,"metaUuid":"03a3acbb-bc56-f2cf-1e37-d91af75cb933"}
@@ -69091,7 +69091,7 @@
 {"nexusFileName":"Balanced AP Usage","nexusFileVersion":"6.0.8.2","nexusFileUploadedAt":1787725915,"pakFileName":"BalancedAPUsage_493720a0-8ae9-5c01-a742-fb57141597aa.pak","nexusFileId":129023,"metaUuid":null}
 ]},
 "24625":{"nexusModName":"Dark Urge Isobel Reward Fixed","nexusUploadedBy":"NecroticFlame","nexusModId":24625,"paks":[
-{"nexusFileName":"Dark Urge Isobel Reward Fix","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1787649939,"pakFileName":"DarkUrgeIsobelRewardFix_c5dcb8f5-6767-6c50-82a1-c2efdfeca7e6.pak","nexusFileId":128973,"metaUuid":null}
+{"nexusFileName":"Dark Urge Isobel Reward Fix","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1787649939,"pakFileName":"DarkUrgeIsobelRewardFix_c5dcb8f5-6767-6c50-82a1-c2efdfeca7e6.pak","nexusFileId":128973,"metaUuid":"c5dcb8f5-6767-6c50-82a1-c2efdfeca7e6"}
 ]},
 "24626":{"nexusModName":"CORVID - Wings - Armor - Camp Clothing","nexusUploadedBy":"Naerys","nexusModId":24626,"paks":[
 {"nexusFileName":"Corvid - Wings - Armor - Camp Clothing","nexusFileVersion":"2","nexusFileUploadedAt":1787734856,"pakFileName":"NAERYS_Corvid_5cce380e-33c2-cd76-4866-1ace502da562.pak","nexusFileId":129033,"metaUuid":"5cce380e-33c2-cd76-4866-1ace502da562"}
@@ -69189,7 +69189,7 @@
 {"nexusFileName":"Catkin_Specialist","nexusFileVersion":"1","nexusFileUploadedAt":1787940495,"pakFileName":"CatkinSpecialist_8112703d-ba2c-e46b-7c4c-5760f8e58aa4.pak","nexusFileId":129212,"metaUuid":"8112703d-ba2c-e46b-7c4c-5760f8e58aa4"}
 ]},
 "24667":{"nexusModName":"Permanent Buffs","nexusUploadedBy":"Sai","nexusModId":24667,"paks":[
-{"nexusFileName":"Permanent Buffs","nexusFileVersion":"1.4","nexusFileUploadedAt":1788109466,"pakFileName":"Permanent Buffs.pak","nexusFileId":129361,"metaUuid":null}
+{"nexusFileName":"Permanent Buffs","nexusFileVersion":"1.4","nexusFileUploadedAt":1788109466,"pakFileName":"Permanent Buffs.pak","nexusFileId":129361,"metaUuid":"9fed344c-fe38-4982-9613-9f7b5df3e119"}
 ]},
 "24669":{"nexusModName":"Clawstep Mod Refits","nexusUploadedBy":"tealrabbit19","nexusModId":24669,"paks":[
 {"nexusFileName":"CBR Battlemage Clawstep","nexusFileVersion":"1","nexusFileUploadedAt":1787948145,"pakFileName":"CBR_Battlemage_Clawstep.pak","nexusFileId":129218,"metaUuid":null},
