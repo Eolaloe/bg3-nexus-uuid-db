@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-08-30T16:52:27.760506+00:00","total_mods":17438},
+{"_meta":{"last_run":"2026-08-30T17:52:46.040334+00:00","total_mods":17437},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -22010,11 +22010,12 @@
 {"nexusFileName":"No Annoying VFX (light spell)","nexusFileVersion":"1.08","nexusFileUploadedAt":1710271719,"pakFileName":"NoAnnoyingVFX-light.pak","nexusFileId":49665,"metaUuid":"3978f9d5-6a06-4021-938a-2fb34f385e0c"},
 {"nexusFileName":"No Annoying VFX (ui vfx)","nexusFileVersion":"1.08","nexusFileUploadedAt":1710271936,"pakFileName":"NoAnnoyingVFX-ui.pak","nexusFileId":49666,"metaUuid":"6ef14768-5cd1-4b6d-ac70-109126b1dc31"},
 {"nexusFileName":"No Annoying VFX (armor)","nexusFileVersion":"1.14","nexusFileUploadedAt":1772442975,"pakFileName":"NoAnnoyingVFX-armor.pak","nexusFileId":115889,"metaUuid":"de58c909-7a6b-41f5-92df-5b7138be8da1"},
-{"nexusFileName":"No Annoying VFX (passive)","nexusFileVersion":"1.14","nexusFileUploadedAt":1772442992,"pakFileName":"NoAnnoyingVFX-passive.pak","nexusFileId":115890,"metaUuid":"1a79b9c5-6e4f-4de4-8d26-09eaa3eefc53"},
 {"nexusFileName":"No Annoying VFX (armor-lite)","nexusFileVersion":"1.14","nexusFileUploadedAt":1772443011,"pakFileName":"NoAnnoyingVFX-armor_lite.pak","nexusFileId":115891,"metaUuid":"de58c909-7a6b-41f5-92df-5b7138be8da1"},
 {"nexusFileName":"No Annoying VFX (active)","nexusFileVersion":"1.15","nexusFileUploadedAt":1773521659,"pakFileName":"NoAnnoyingVFX-active.pak","nexusFileId":116750,"metaUuid":"90f7b39e-c1f3-4cb7-97af-7e145065cef2"},
 {"nexusFileName":"No Annoying VFX (weapons)","nexusFileVersion":"1.15","nexusFileUploadedAt":1773521675,"pakFileName":"NoAnnoyingVFX-weapons.pak","nexusFileId":116751,"metaUuid":"deb2d267-1655-4aa7-9e47-1ec8de2f8d0f"},
-{"nexusFileName":"No Annoying VFX (weapons-lite)","nexusFileVersion":"1.15","nexusFileUploadedAt":1773521694,"pakFileName":"NoAnnoyingVFX-weapons_light.pak","nexusFileId":116752,"metaUuid":"deb2d267-1655-4aa7-9e47-1ec8de2f8d0f"}
+{"nexusFileName":"No Annoying VFX (weapons-lite)","nexusFileVersion":"1.15","nexusFileUploadedAt":1773521694,"pakFileName":"NoAnnoyingVFX-weapons_light.pak","nexusFileId":116752,"metaUuid":"deb2d267-1655-4aa7-9e47-1ec8de2f8d0f"},
+{"nexusFileName":"No Annoying VFX (passive long-term)","nexusFileVersion":"1.16","nexusFileUploadedAt":1788111811,"pakFileName":"NoAnnoyingVFX-passive_long.pak","nexusFileId":129367,"metaUuid":null},
+{"nexusFileName":"No Annoying VFX (passive short-term)","nexusFileVersion":"1.16","nexusFileUploadedAt":1788111916,"pakFileName":"NoAnnoyingVFX-passive_short.pak","nexusFileId":129368,"metaUuid":null}
 ]},
 "7249":{"nexusModName":"Immersive Lighting - Multi coloured Lights","nexusUploadedBy":"Shivero","nexusModId":7249,"paks":[
 {"nexusFileName":"Immersive_Lighting_SHV","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1709069323,"pakFileName":"Immersive_Lighting_SHV.pak","nexusFileId":46929,"metaUuid":"de07556f-880e-4561-bd4d-cb842db3eb33"}
@@ -57924,7 +57925,9 @@
 ]},
 "20560":{"nexusModName":"Larger Pupils for Githyanki Eyes","nexusUploadedBy":"TheCobaltCactus","nexusModId":20560,"paks":[
 {"nexusFileName":"Wider Pupils","nexusFileVersion":"1.0.0.4","nexusFileUploadedAt":1767769085,"pakFileName":"githyanki_larger_pupils_87628e55-f0d4-5e8a-df69-ad6cf3dd9d8c.pak","nexusFileId":111406,"metaUuid":null},
-{"nexusFileName":"Dilated Pupils","nexusFileVersion":"1.0.0.4","nexusFileUploadedAt":1767769116,"pakFileName":"githyanki_dilated_pupils_ea576ca5-000b-8ed4-a591-68b6ce50486b.pak","nexusFileId":111407,"metaUuid":null}
+{"nexusFileName":"Dilated Pupils","nexusFileVersion":"1.0.0.4","nexusFileUploadedAt":1767769116,"pakFileName":"githyanki_dilated_pupils_ea576ca5-000b-8ed4-a591-68b6ce50486b.pak","nexusFileId":111407,"metaUuid":null},
+{"nexusFileName":"Wider Pupils (EotB)","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1788111485,"pakFileName":"gith_wider_eotb.pak","nexusFileId":129364,"metaUuid":null},
+{"nexusFileName":"Dilated Pupils (Eotb)","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1788111531,"pakFileName":"gith_dilated_eotb.pak","nexusFileId":129365,"metaUuid":null}
 ]},
 "20562":{"nexusModName":"Transmog Enhanced Revamped - Russian Translation","nexusUploadedBy":"Hecctus","nexusModId":20562,"paks":[
 {"nexusFileName":"TransmogEnhanced_Revamped_RU","nexusFileVersion":"v1.3.3","nexusFileUploadedAt":1767778285,"pakFileName":"TransmogEnhanced_Revamped_RU.pak","nexusFileId":111415,"metaUuid":null}
@@ -58173,7 +58176,7 @@
 {"nexusFileName":"Adventurer's Armaments Pack","nexusFileVersion":"1","nexusFileUploadedAt":1768139084,"pakFileName":"BB26CustomItems.pak","nexusFileId":111898,"metaUuid":"3a06145a-94dd-4388-a0d0-401c81d15b9a"}
 ]},
 "20640":{"nexusModName":"Homebrew Wild Magic (for Sorcerer and Barbarian) for Korean","nexusUploadedBy":"Eolaloe","nexusModId":20640,"paks":[
-{"nexusFileName":"Homebrew Wild Magic for Korean","nexusFileVersion":"1.0.4","nexusFileUploadedAt":1779820857,"pakFileName":"HomebrewWildMagic_kr.pak","nexusFileId":122215,"metaUuid":"9b50ccb2-a360-4c48-8a06-caf13f168cff"}
+{"nexusFileName":"Homebrew Wild Magic for Korean","nexusFileVersion":"1.1","nexusFileUploadedAt":1788108651,"pakFileName":"HomebrewWildMagic_kr.pak","nexusFileId":129357,"metaUuid":"9b50ccb2-a360-4c48-8a06-caf13f168cff"}
 ]},
 "20641":{"nexusModName":"Shotgun - Crossbore","nexusUploadedBy":"AeehyehssReeper","nexusModId":20641,"paks":[
 {"nexusFileName":"Shotgun - Crossbore","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1768140481,"pakFileName":"Crossbore_c8948e42-a752-01c0-b451-16e47e40da11.pak","nexusFileId":111905,"metaUuid":"c8948e42-a752-01c0-b451-16e47e40da11"}
@@ -58208,7 +58211,7 @@
 {"nexusFileName":"Vampire Race for Japanese","nexusFileVersion":"1.0.0.87","nexusFileUploadedAt":1768189533,"pakFileName":"Vampire_Race_jp.pak","nexusFileId":111982,"metaUuid":null}
 ]},
 "20652":{"nexusModName":"Homebrew Wild Magic (for Sorcerer and Barbarian) for Japanese","nexusUploadedBy":"Eolaloe","nexusModId":20652,"paks":[
-{"nexusFileName":"Homebrew Wild Magic for Japanese","nexusFileVersion":"1.0.4","nexusFileUploadedAt":1779820899,"pakFileName":"HomebrewWildMagic_jp.pak","nexusFileId":122216,"metaUuid":null}
+{"nexusFileName":"Homebrew Wild Magic for Japanese","nexusFileVersion":"1.1","nexusFileUploadedAt":1788108681,"pakFileName":"HomebrewWildMagic_jp.pak","nexusFileId":129358,"metaUuid":null}
 ]},
 "20653":{"nexusModName":"Woodland Wardrobe - 5 outfits for BT1","nexusUploadedBy":"clloudiie","nexusModId":20653,"paks":[
 {"nexusFileName":"WoodlandWardrobe","nexusFileVersion":"1.0.0.3","nexusFileUploadedAt":1768198758,"pakFileName":"CLD_Woodland_22630f92-baa4-db97-40cd-3248bed4f319.pak","nexusFileId":111988,"metaUuid":"22630f92-baa4-db97-40cd-3248bed4f319"}
@@ -60191,7 +60194,7 @@
 {"nexusFileName":"Ferrety's Spells - Arcane Puppetry for Korean","nexusFileVersion":"1.0.8.4","nexusFileUploadedAt":1772329664,"pakFileName":"Ferrety's Spells - Arcane Puppetry_kr.pak","nexusFileId":115817,"metaUuid":null}
 ]},
 "21375":{"nexusModName":"Prismortalis - A Dark-Fantasy Spellblade for Korean","nexusUploadedBy":"Eolaloe","nexusModId":21375,"paks":[
-{"nexusFileName":"Prismortalis for Korean","nexusFileVersion":"5.5.5","nexusFileUploadedAt":1787476462,"pakFileName":"Prismortalis_kr.pak","nexusFileId":128782,"metaUuid":"7fedb0f8-e2ba-412f-b3e6-ba5c7c9ea3a2"}
+{"nexusFileName":"Prismortalis for Korean","nexusFileVersion":"5.5.5.1","nexusFileUploadedAt":1788109198,"pakFileName":"Prismortalis_kr.pak","nexusFileId":129360,"metaUuid":"7fedb0f8-e2ba-412f-b3e6-ba5c7c9ea3a2"}
 ]},
 "21376":{"nexusModName":"TLH_MOD's Warrior Class Mod Inspired by Guild Wars for Korean","nexusUploadedBy":"Eolaloe","nexusModId":21376,"paks":[
 {"nexusFileName":"Warrior Class Mod Inspired by Guild Wars for Korea","nexusFileVersion":"2.1.10.119","nexusFileUploadedAt":1778279444,"pakFileName":"TLH_WAR_Warrior_Main_kr.pak","nexusFileId":120778,"metaUuid":null}
@@ -61413,7 +61416,7 @@
 {"nexusFileName":"Way of the Jungle - Monk Subclass_KOR","nexusFileVersion":"1.0","nexusFileUploadedAt":1772886833,"pakFileName":"WayOfTheJungle_KOR_ab791096-53b6-dbbd-23cd-792ad9677c05.pak","nexusFileId":116257,"metaUuid":null}
 ]},
 "21774":{"nexusModName":"B52's Finesse Weaponry for Korean","nexusUploadedBy":"Eolaloe","nexusModId":21774,"paks":[
-{"nexusFileName":"B52's Finesse Weaponry for Korean","nexusFileVersion":"3.0.1.12","nexusFileUploadedAt":1786955724,"pakFileName":"FinesseBlugeonWeapons_kr.pak","nexusFileId":128262,"metaUuid":null}
+{"nexusFileName":"B52's Finesse Weaponry for Korean","nexusFileVersion":"3.0.1.14","nexusFileUploadedAt":1788108908,"pakFileName":"FinesseBlugeonWeapons_kr.pak","nexusFileId":129359,"metaUuid":null}
 ]},
 "21775":{"nexusModName":"Feat - Dexterous Weapon Master for Korean","nexusUploadedBy":"Eolaloe","nexusModId":21775,"paks":[
 {"nexusFileName":"Feat - Dexterous Weapon Master for Korean","nexusFileVersion":"1.0.0.5","nexusFileUploadedAt":1772891575,"pakFileName":"FinesseWeaponMasterFeat_kr.pak","nexusFileId":116261,"metaUuid":null}
@@ -65278,7 +65281,7 @@
 {"nexusFileName":"DeathPosePhotoMode 1.0.0 Nexus","nexusFileVersion":"2","nexusFileUploadedAt":1780529430,"pakFileName":"DeathPosePhotoMode_7d731f78-28f6-4f22-bef0-2fa79f30b1d2.pak","nexusFileId":122717,"metaUuid":"7d731f78-28f6-4f22-bef0-2fa79f30b1d2"}
 ]},
 "23191":{"nexusModName":"Zenin Path - A Jujutsu Kaisen Class for Korean","nexusUploadedBy":"Eolaloe","nexusModId":23191,"paks":[
-{"nexusFileName":"Zenin Path - A Jujutsu Kaisen Class for Korean","nexusFileVersion":"1.0.0.9","nexusFileUploadedAt":1783254241,"pakFileName":"ZeninPath_kr.pak","nexusFileId":124943,"metaUuid":"e3b08576-4351-457f-a9c0-296d2425014c"}
+{"nexusFileName":"Zenin Path - A Jujutsu Kaisen Class for Korean","nexusFileVersion":"1.0.0.12","nexusFileUploadedAt":1788111547,"pakFileName":"ZeninPath_kr.pak","nexusFileId":129366,"metaUuid":"e3b08576-4351-457f-a9c0-296d2425014c"}
 ]},
 "23192":{"nexusModName":"Elemental Flow - a complete rework of Monk (Way of the Four Elements)","nexusUploadedBy":"dddzmpzmp","nexusModId":23192,"paks":[
 {"nexusFileName":"Elemental Flow v2.0.1","nexusFileVersion":"5","nexusFileUploadedAt":1782426247,"pakFileName":"FourElementsMonkRevamp_4e1e6f03-f0a4-4b3e-8a70-2c9719f4e1e5.pak","nexusFileId":124283,"metaUuid":"01598601-28d0-4022-a498-50e87c5932da"},
@@ -68370,7 +68373,7 @@
 {"nexusFileName":"noDarkUrge","nexusFileVersion":"1","nexusFileUploadedAt":1786916715,"pakFileName":"noDarkUrge.pak","nexusFileId":128240,"metaUuid":null}
 ]},
 "24465":{"nexusModName":"Absolute Rolls","nexusUploadedBy":"Sai","nexusModId":24465,"paks":[
-{"nexusFileName":"AbsoluteRolls","nexusFileVersion":"1.1","nexusFileUploadedAt":1787007339,"pakFileName":"AbsoluteRolls.pak","nexusFileId":128331,"metaUuid":"a491600e-7294-4902-97aa-1bddd1f949be"}
+{"nexusFileName":"Absolute Rolls","nexusFileVersion":"1.1","nexusFileUploadedAt":1787007339,"pakFileName":"AbsoluteRolls.pak","nexusFileId":128331,"metaUuid":"a491600e-7294-4902-97aa-1bddd1f949be"}
 ]},
 "24468":{"nexusModName":"Book of Sorcerers - 5e Sorcerer Subclasses (PT-BR)","nexusUploadedBy":"Firetoga","nexusModId":24468,"paks":[
 {"nexusFileName":"Book Of Sorcerers (PT-BR)","nexusFileVersion":"1.0.1.13","nexusFileUploadedAt":1786932192,"pakFileName":"Book of Sorcerers (PT-BR).pak","nexusFileId":128247,"metaUuid":null}
@@ -69185,7 +69188,7 @@
 {"nexusFileName":"Catkin_Specialist","nexusFileVersion":"1","nexusFileUploadedAt":1787940495,"pakFileName":"CatkinSpecialist_8112703d-ba2c-e46b-7c4c-5760f8e58aa4.pak","nexusFileId":129212,"metaUuid":"8112703d-ba2c-e46b-7c4c-5760f8e58aa4"}
 ]},
 "24667":{"nexusModName":"Permanent Buffs","nexusUploadedBy":"Sai","nexusModId":24667,"paks":[
-{"nexusFileName":"Permanent Buffs","nexusFileVersion":"1.3","nexusFileUploadedAt":1788096256,"pakFileName":"Permanent Buffs.pak","nexusFileId":129337,"metaUuid":null}
+{"nexusFileName":"Permanent Buffs","nexusFileVersion":"1.4","nexusFileUploadedAt":1788109466,"pakFileName":"Permanent Buffs.pak","nexusFileId":129361,"metaUuid":null}
 ]},
 "24669":{"nexusModName":"Clawstep Mod Refits","nexusUploadedBy":"tealrabbit19","nexusModId":24669,"paks":[
 {"nexusFileName":"CBR Battlemage Clawstep","nexusFileVersion":"1","nexusFileUploadedAt":1787948145,"pakFileName":"CBR_Battlemage_Clawstep.pak","nexusFileId":129218,"metaUuid":null},
