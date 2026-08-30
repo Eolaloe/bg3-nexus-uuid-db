@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-08-30T01:52:19.905171+00:00","total_mods":17430},
+{"_meta":{"last_run":"2026-08-30T02:51:54.090275+00:00","total_mods":17431},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -34396,10 +34396,9 @@
 {"nexusFileName":"Optional adjustments and nerfs","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1747495988,"pakFileName":"PlanescapeOptionalPatch_d89e8800-600b-3512-a737-79f2cde2f350.pak","nexusFileId":93232,"metaUuid":"d89e8800-600b-3512-a737-79f2cde2f350"},
 {"nexusFileName":"Features from DnD 5E Planescape - 2.2.1","nexusFileVersion":"2.2.1","nexusFileUploadedAt":1784380777,"pakFileName":"planescape_dnd5e_voiced.pak","nexusFileId":125933,"metaUuid":"73707e2a-b358-aa93-fe6e-de6764489833"}
 ]},
-"12097":{"nexusModName":"Lewd Add-on Animations for BG3SX Framework","nexusUploadedBy":"ltpitb","nexusModId":12097,"paks":[
-{"nexusFileName":"Lewd Sweaty Sex","nexusFileVersion":"2.0.0.0","nexusFileUploadedAt":1774035648,"pakFileName":"LewdSweatySex.pak","nexusFileId":117126,"metaUuid":"a416585f-177d-4ce2-8745-217000156b2b"},
-{"nexusFileName":"Lewd Sweatier Sex","nexusFileVersion":"2.0.0.0","nexusFileUploadedAt":1774063735,"pakFileName":"LewdSweatierSex.pak","nexusFileId":117167,"metaUuid":"a416585f-177d-4ce2-8745-217000156b2b"},
-{"nexusFileName":"Lewds","nexusFileVersion":"2.2.0.9","nexusFileUploadedAt":1779681027,"pakFileName":"Lewds.pak","nexusFileId":122090,"metaUuid":"a72cf004-581f-4efa-ae4f-687101b3ed54"}
+"12097":{"nexusModName":"Lewd Add-on for the BG3SX Framework","nexusUploadedBy":"ltpitb","nexusModId":12097,"paks":[
+{"nexusFileName":"Lewd Sweaty Sex","nexusFileVersion":"3.0.0.1","nexusFileUploadedAt":1788056575,"pakFileName":"LewdSweatySex.pak","nexusFileId":129307,"metaUuid":"a416585f-177d-4ce2-8745-217000156b2b"},
+{"nexusFileName":"Lewds","nexusFileVersion":"3.0.0.3","nexusFileUploadedAt":1788056771,"pakFileName":"Lewds.pak","nexusFileId":129308,"metaUuid":"a72cf004-581f-4efa-ae4f-687101b3ed54"}
 ]},
 "12098":{"nexusModName":"Blue Eyed Shadowheart","nexusUploadedBy":"DeviousGlizzy","nexusModId":12098,"paks":[
 {"nexusFileName":"Blue Eyed Shadowheart","nexusFileVersion":"1.1","nexusFileUploadedAt":1726216759,"pakFileName":"ShadowheartBlueEyes_44043991-08bd-2bfc-a0a3-d39f1e94e63b.pak","nexusFileId":70844,"metaUuid":null}
@@ -69248,4 +69247,7 @@
 ]},
 "24691":{"nexusModName":"Karlach's Better Starter Gear (PT-BR)","nexusUploadedBy":"Firetoga","nexusModId":24691,"paks":[
 {"nexusFileName":"Karlach's Better Starter Gear (PT-BR)","nexusFileVersion":"1.1.1.1","nexusFileUploadedAt":1788049344,"pakFileName":"Karlach's Better Starter Gear (PT-BR).pak","nexusFileId":129304,"metaUuid":null}
+]},
+"24693":{"nexusModName":"Mizora Joins the Party CHS","nexusUploadedBy":"Savathun3","nexusModId":24693,"paks":[
+{"nexusFileName":"Mizora Joins The Party ZHCN","nexusFileVersion":"1","nexusFileUploadedAt":1788055725,"pakFileName":"Mizora_Joins_the_Party_ZHCN.pak","nexusFileId":129306,"metaUuid":null}
 ]}}
