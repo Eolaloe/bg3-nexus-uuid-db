@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-08-30T18:52:32.746189+00:00","total_mods":17437},
+{"_meta":{"last_run":"2026-08-30T19:52:51.678382+00:00","total_mods":17440},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -26482,7 +26482,7 @@
 {"nexusFileName":"Meet Mythral (UTCA)","nexusFileVersion":"1.2.4","nexusFileUploadedAt":1716790529,"pakFileName":"Meet Mythral (UTCA).pak","nexusFileId":58906,"metaUuid":"da4bbf23-f333-4af6-8b0c-ab348688e289"}
 ]},
 "9024":{"nexusModName":"Valkrana's Undead Encounters - New Bosses Fights Items and Allies - Including Act 3","nexusUploadedBy":"actualsailorcat","nexusModId":9024,"paks":[
-{"nexusFileName":"Valkrana's Undead Encounters","nexusFileVersion":"1.11.07","nexusFileUploadedAt":1785366502,"pakFileName":"Valkrana's Undead Encounters.pak","nexusFileId":126792,"metaUuid":"4b83dd7a-0d18-4d6b-a6d3-e540a17c43de"}
+{"nexusFileName":"Valkrana's Undead Encounters","nexusFileVersion":"1.12.00","nexusFileUploadedAt":1788118740,"pakFileName":"Valkrana's Undead Encounters.pak","nexusFileId":129383,"metaUuid":"4b83dd7a-0d18-4d6b-a6d3-e540a17c43de"}
 ]},
 "9025":{"nexusModName":"Weightless Consumables","nexusUploadedBy":"Belinn","nexusModId":9025,"paks":[
 {"nexusFileName":"Weightless Containers","nexusFileVersion":"1.0","nexusFileUploadedAt":1714190067,"pakFileName":"WeightlessContainers.pak","nexusFileId":55078,"metaUuid":"22667102-91d1-491f-bad5-632c80152c84"},
@@ -62870,7 +62870,7 @@
 {"nexusFileName":"SafeTravel","nexusFileVersion":"1.0.0.1","nexusFileUploadedAt":1775319128,"pakFileName":"SafeTravel_599b7ee9-2785-8e63-5aa0-9574aa8cb82a.pak","nexusFileId":118119,"metaUuid":"599b7ee9-2785-8e63-5aa0-9574aa8cb82a"}
 ]},
 "22290":{"nexusModName":"Dynamic Extra Encounters","nexusUploadedBy":"GraphicFade","nexusModId":22290,"paks":[
-{"nexusFileName":"Dynamic Extra Encounters","nexusFileVersion":"1.0.0.26","nexusFileUploadedAt":1787923475,"pakFileName":"DynamicExtraEncounters_ea4f827e-2da8-616d-24f5-6882a126a25a.pak","nexusFileId":129200,"metaUuid":"ea4f827e-2da8-616d-24f5-6882a126a25a"}
+{"nexusFileName":"Dynamic Extra Encounters","nexusFileVersion":"1.0.0.28","nexusFileUploadedAt":1788117906,"pakFileName":"DynamicExtraEncounters_ea4f827e-2da8-616d-24f5-6882a126a25a.pak","nexusFileId":129382,"metaUuid":"ea4f827e-2da8-616d-24f5-6882a126a25a"}
 ]},
 "22291":{"nexusModName":"Exaen's Sazza Evolved for Korean","nexusUploadedBy":"Eolaloe","nexusModId":22291,"paks":[
 {"nexusFileName":"Sazza Evolved for Korean","nexusFileVersion":"2.0.0.0","nexusFileUploadedAt":1787477266,"pakFileName":"SazzaEvolved_kr.pak","nexusFileId":128791,"metaUuid":"f1e44601-ba43-4d3d-8b3e-e9a3a4d8b12f"}
@@ -65735,7 +65735,8 @@
 {"nexusFileName":"In This Moment Poses By LifeofaSin","nexusFileVersion":"1","nexusFileUploadedAt":1781470168,"pakFileName":"In This Moment Poses By LifeofaSin.pak","nexusFileId":123578,"metaUuid":"7e5827cb-54f1-6222-3462-ba056be89b92"}
 ]},
 "23385":{"nexusModName":"Summon Enhanced - MCM","nexusUploadedBy":"BaiYanYueQWQ","nexusModId":23385,"paks":[
-{"nexusFileName":"SummonEnhanced","nexusFileVersion":"2.9.4.0","nexusFileUploadedAt":1786128101,"pakFileName":"SummonEnhanced.pak","nexusFileId":127520,"metaUuid":"6a465714-dc81-41c0-9a95-e81165789ad2"}
+{"nexusFileName":"SummonEnhanced","nexusFileVersion":"2.9.4.0","nexusFileUploadedAt":1786128101,"pakFileName":"SummonEnhanced.pak","nexusFileId":127520,"metaUuid":"6a465714-dc81-41c0-9a95-e81165789ad2"},
+{"nexusFileName":"Debug-SummonEnhanced","nexusFileVersion":"1","nexusFileUploadedAt":1788116516,"pakFileName":"SummonEnhanced.pak","nexusFileId":129377,"metaUuid":"6a465714-dc81-41c0-9a95-e81165789ad2"}
 ]},
 "23386":{"nexusModName":"Sun Blade - Crashfix CN EN","nexusUploadedBy":"91wangsir","nexusModId":23386,"paks":[
 {"nexusFileName":"Sun Blade   Crashfix CN EN","nexusFileVersion":"1","nexusFileUploadedAt":1781480470,"pakFileName":"Sun Blade - Crashfix CN EN.pak","nexusFileId":123592,"metaUuid":"2f1b75f5-838c-40ab-aa76-3e5f89c5ace6"}
@@ -69153,12 +69154,11 @@
 {"nexusFileName":"Carian Knight Set","nexusFileVersion":"1","nexusFileUploadedAt":1787836592,"pakFileName":"Carian_Knight_Set_83a6e61a-2291-c933-8905-ce3f5c97aaa8.pak","nexusFileId":129153,"metaUuid":null}
 ]},
 "24652":{"nexusModName":"SALEM - Armor and Camp Clothing","nexusUploadedBy":"Naerys","nexusModId":24652,"paks":[
-{"nexusFileName":"NAERYS Salem Vanilla colours","nexusFileVersion":"1","nexusFileUploadedAt":1788021143,"pakFileName":"NAERYS_Salem_Vanilla.pak","nexusFileId":129276,"metaUuid":null},
-{"nexusFileName":"NAERYS Salem Obsidian","nexusFileVersion":"1","nexusFileUploadedAt":1788021171,"pakFileName":"NAERYS_Salem_Obsidian.pak","nexusFileId":129277,"metaUuid":null},
-{"nexusFileName":"NAERYS Salem Ruby","nexusFileVersion":"1","nexusFileUploadedAt":1788021238,"pakFileName":"NAERYS_Salem_Ruby.pak","nexusFileId":129278,"metaUuid":null},
-{"nexusFileName":"NAERYS Salem Ruby","nexusFileVersion":"1","nexusFileUploadedAt":1788022290,"pakFileName":"NAERYS_Salem_Ruby.pak","nexusFileId":129280,"metaUuid":null},
-{"nexusFileName":"NAERYS Salem Sapphire","nexusFileVersion":"1","nexusFileUploadedAt":1788103105,"pakFileName":"NAERYS_Salem_Sapphire.pak","nexusFileId":129341,"metaUuid":null},
-{"nexusFileName":"NAERYS Salem Pearl","nexusFileVersion":"1","nexusFileUploadedAt":1788115846,"pakFileName":"NAERYS_Salem_Pearl.pak","nexusFileId":129374,"metaUuid":null}
+{"nexusFileName":"NAERYS Salem Pearl","nexusFileVersion":"1","nexusFileUploadedAt":1788115846,"pakFileName":"NAERYS_Salem_Pearl.pak","nexusFileId":129374,"metaUuid":null},
+{"nexusFileName":"NAERYS Salem Vanilla colours","nexusFileVersion":"2","nexusFileUploadedAt":1788116058,"pakFileName":"NAERYS_Salem_f4c37a68-8f42-21d4-711a-b788ffbcd8ae.pak","nexusFileId":129375,"metaUuid":null},
+{"nexusFileName":"NAERYS Salem Obsidian","nexusFileVersion":"2","nexusFileUploadedAt":1788116294,"pakFileName":"NAERYS_Salem_Obsidian.pak","nexusFileId":129376,"metaUuid":null},
+{"nexusFileName":"NAERYS Salem Ruby","nexusFileVersion":"2","nexusFileUploadedAt":1788116658,"pakFileName":"NAERYS_Salem_Ruby.pak","nexusFileId":129378,"metaUuid":null},
+{"nexusFileName":"NAERYS Salem Sapphire","nexusFileVersion":"2","nexusFileUploadedAt":1788116968,"pakFileName":"NAERYS_Salem_sapphire.pak","nexusFileId":129380,"metaUuid":null}
 ]},
 "24656":{"nexusModName":"Fixed Dwarven Splintmail","nexusUploadedBy":"Ghostly","nexusModId":24656,"paks":[
 {"nexusFileName":"Fixed Dwarven Splintmail - Intended Colors","nexusFileVersion":"1","nexusFileUploadedAt":1787883080,"pakFileName":"FixedDwarvenSplintmail.pak","nexusFileId":129189,"metaUuid":"84ac9ec3-190b-0629-bf5a-a875a5cbc9b8"},
@@ -69278,4 +69278,13 @@
 ]},
 "24708":{"nexusModName":"Homebrew Subclasses_KOR","nexusUploadedBy":"Ahdarugo","nexusModId":24708,"paks":[
 {"nexusFileName":"Homebrewsubclasses Kor 122327c 05gt","nexusFileVersion":"1.0.0.1","nexusFileUploadedAt":1788106295,"pakFileName":"HomebrewSubclasses_KOR_122327c7-ae8c-1c77-7a27-e3524ec923f5.pak","nexusFileId":129348,"metaUuid":null}
+]},
+"24709":{"nexusModName":"Abbalars Bardic Bow","nexusUploadedBy":"haytur","nexusModId":24709,"paks":[
+{"nexusFileName":"Harmony","nexusFileVersion":"1.0R","nexusFileUploadedAt":1788117413,"pakFileName":"Harmony.pak","nexusFileId":129381,"metaUuid":null}
+]},
+"24710":{"nexusModName":"Fade's Equipment Distribution - Russian Translation","nexusUploadedBy":"SNKmod777","nexusModId":24710,"paks":[
+{"nexusFileName":"FED RU","nexusFileVersion":"1.0.0.1","nexusFileUploadedAt":1788116822,"pakFileName":"FED_RU.pak","nexusFileId":129379,"metaUuid":null}
+]},
+"24712":{"nexusModName":"Symphony of a Vampire CHS","nexusUploadedBy":"mzldyt","nexusModId":24712,"paks":[
+{"nexusFileName":"Vampiric Tree CHS","nexusFileVersion":"1","nexusFileUploadedAt":1788119419,"pakFileName":"vampiric_tree CHS.pak","nexusFileId":129384,"metaUuid":null}
 ]}}
