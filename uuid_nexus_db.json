@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-08-30T15:52:19.662501+00:00","total_mods":17435},
+{"_meta":{"last_run":"2026-08-30T16:52:27.760506+00:00","total_mods":17438},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -36048,7 +36048,7 @@
 ]},
 "12727":{"nexusModName":"DnD 5.5e All-in-One BEYOND","nexusUploadedBy":"yoonmoonsik43","nexusModId":12727,"paks":[
 {"nexusFileName":"dnd2024 - V3 Legacy","nexusFileVersion":"3.4.6.4","nexusFileUploadedAt":1771945305,"pakFileName":"DnD2024_897914ef-5c96-053c-44af-0be823f895fe.pak","nexusFileId":115523,"metaUuid":"897914ef-5c96-053c-44af-0be823f895fe"},
-{"nexusFileName":"DnD 5.5e All-in-One BEYOND","nexusFileVersion":"4.12.9.5","nexusFileUploadedAt":1787967459,"pakFileName":"DnD2024_897914ef-5c96-053c-44af-0be823f895fe.pak","nexusFileId":129242,"metaUuid":"897914ef-5c96-053c-44af-0be823f895fe"}
+{"nexusFileName":"DnD 5.5e All-in-One BEYOND","nexusFileVersion":"4.12.9.6","nexusFileUploadedAt":1788106007,"pakFileName":"DnD2024_897914ef-5c96-053c-44af-0be823f895fe.pak","nexusFileId":129344,"metaUuid":"897914ef-5c96-053c-44af-0be823f895fe"}
 ]},
 "12728":{"nexusModName":"Origin-Themed Headwear KR","nexusUploadedBy":"Soorawang","nexusModId":12728,"paks":[
 {"nexusFileName":"Origin-Themed Headwear KR","nexusFileVersion":"1.0","nexusFileUploadedAt":1727930331,"pakFileName":"OriginHeadwear_kr.pak","nexusFileId":73692,"metaUuid":null}
@@ -49158,7 +49158,8 @@
 {"nexusFileName":"Lorroakan Redone - The Lord of Razamith's Tower RU","nexusFileVersion":"1","nexusFileUploadedAt":1752776097,"pakFileName":"LorroakanRedone_4587ec98-12ca-9a54-dae9-0a874bfb0ac5.pak","nexusFileId":98316,"metaUuid":null}
 ]},
 "17647":{"nexusModName":"Githyanki Frog Eyes","nexusUploadedBy":"TheCobaltCactus","nexusModId":17647,"paks":[
-{"nexusFileName":"Githyanki Frog Eyes","nexusFileVersion":"1.0.0.5","nexusFileUploadedAt":1780003044,"pakFileName":"githyanki_frog_eyes_fbce759c-4942-4660-0061-75697f826361.pak","nexusFileId":122373,"metaUuid":null}
+{"nexusFileName":"Githyanki Frog Eyes","nexusFileVersion":"1.0.0.5","nexusFileUploadedAt":1780003044,"pakFileName":"githyanki_frog_eyes_fbce759c-4942-4660-0061-75697f826361.pak","nexusFileId":122373,"metaUuid":null},
+{"nexusFileName":"Githyanki Frog Eyes (EotB)","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1788107748,"pakFileName":"githyanki_frog_eyes_eotb.pak","nexusFileId":129355,"metaUuid":null}
 ]},
 "17648":{"nexusModName":"Delete Naaber","nexusUploadedBy":"thecommabandit","nexusModId":17648,"paks":[
 {"nexusFileName":"Delete Naaber","nexusFileVersion":"1.0.0.3","nexusFileUploadedAt":1752793124,"pakFileName":"DeleteNaaber_4f5e6940-62ea-dbe3-67e2-3195e8d2d0e4.pak","nexusFileId":98326,"metaUuid":"4f5e6940-62ea-dbe3-67e2-3195e8d2d0e4"}
@@ -56428,7 +56429,7 @@
 {"nexusFileName":"Goon's Fighter Overhaul for Korean","nexusFileVersion":"1.1.0.0","nexusFileUploadedAt":1785753201,"pakFileName":"Goon's Fighter Overhaul_kr.pak","nexusFileId":127202,"metaUuid":null}
 ]},
 "20035":{"nexusModName":"Goon's Paladin Overhaul for Korean","nexusUploadedBy":"Eolaloe","nexusModId":20035,"paks":[
-{"nexusFileName":"Goon's Paladin Overhaul for Korean","nexusFileVersion":"1.1.0.0","nexusFileUploadedAt":1781160328,"pakFileName":"Goon's Paladin Overhaul_kr.pak","nexusFileId":123312,"metaUuid":null}
+{"nexusFileName":"Goon's Paladin Overhaul for Korean","nexusFileVersion":"1.2.0.0","nexusFileUploadedAt":1788106137,"pakFileName":"Goon's Paladin Overhaul_kr.pak","nexusFileId":129346,"metaUuid":null}
 ]},
 "20036":{"nexusModName":"Goon's Rogue Overhaul for Korean","nexusUploadedBy":"Eolaloe","nexusModId":20036,"paks":[
 {"nexusFileName":"Goon's Rogue Overhaul for Korean","nexusFileVersion":"2.1.0.1","nexusFileUploadedAt":1786949161,"pakFileName":"Goon's Rogue Overhaul_kr.pak","nexusFileId":128255,"metaUuid":"20f6b761-dd4b-47d9-a929-152d2f520eb6"}
@@ -56437,7 +56438,7 @@
 {"nexusFileName":"Goon's Sorcerer Overhaul for Korean","nexusFileVersion":"1.2.0.0","nexusFileUploadedAt":1785752478,"pakFileName":"Goon's Sorcerer Overhaul_kr.pak","nexusFileId":127200,"metaUuid":"1f04b758-fe89-45b7-9dfc-5d4306d7ad5a"}
 ]},
 "20038":{"nexusModName":"Goon's Wizard Overhaul for Korean","nexusUploadedBy":"Eolaloe","nexusModId":20038,"paks":[
-{"nexusFileName":"Goon's Wizard Overhaul for Korean","nexusFileVersion":"1.0.2.2","nexusFileUploadedAt":1765195731,"pakFileName":"Goon's Wizard Overhaul_kr.pak","nexusFileId":109193,"metaUuid":null}
+{"nexusFileName":"Goon's Wizard Overhaul for Korean","nexusFileVersion":"1.1.0.0","nexusFileUploadedAt":1788107077,"pakFileName":"Goon's Wizard Overhaul_kr.pak","nexusFileId":129350,"metaUuid":null}
 ]},
 "20039":{"nexusModName":"Goon's Condition and Surface Overhaul for Korean","nexusUploadedBy":"Eolaloe","nexusModId":20039,"paks":[
 {"nexusFileName":"Goon's Condition and Surface Overhaul for Korean","nexusFileVersion":"1.0.8.0","nexusFileUploadedAt":1785749426,"pakFileName":"Goon's Condition & Surface Overhaul_kr.pak","nexusFileId":127188,"metaUuid":"6cf39c2f-71ba-4eac-817e-5949bf26b983"}
@@ -58219,7 +58220,7 @@
 {"nexusFileName":"Goon's Library - Passives Functions for Japanese","nexusFileVersion":"4.17.1.0","nexusFileUploadedAt":1785749036,"pakFileName":"Goon's Library_jp.pak","nexusFileId":127187,"metaUuid":null}
 ]},
 "20656":{"nexusModName":"Goon's Paladin Overhaul for Japanese","nexusUploadedBy":"Eolaloe","nexusModId":20656,"paks":[
-{"nexusFileName":"Goon's Paladin Overhaul for Japanese","nexusFileVersion":"1.1.0.0","nexusFileUploadedAt":1781160367,"pakFileName":"Goon's Paladin Overhaul_jp.pak","nexusFileId":123313,"metaUuid":null}
+{"nexusFileName":"Goon's Paladin Overhaul for Japanese","nexusFileVersion":"1.2.0.0","nexusFileUploadedAt":1788106168,"pakFileName":"Goon's Paladin Overhaul_jp.pak","nexusFileId":129347,"metaUuid":null}
 ]},
 "20657":{"nexusModName":"Goon's Rogue Overhaul for Japanese","nexusUploadedBy":"Eolaloe","nexusModId":20657,"paks":[
 {"nexusFileName":"Goon's Rogue Overhaul for Japanese","nexusFileVersion":"2.1.0.1","nexusFileUploadedAt":1786949210,"pakFileName":"Goon's Rogue Overhaul_jp.pak","nexusFileId":128256,"metaUuid":null}
@@ -58234,7 +58235,7 @@
 {"nexusFileName":"Goon's Barbarian Overhaul for Japanese","nexusFileVersion":"1.2.0.0","nexusFileUploadedAt":1785751580,"pakFileName":"Goon's Barbarian Overhaul_jp.pak","nexusFileId":127198,"metaUuid":null}
 ]},
 "20661":{"nexusModName":"Goon's Wizard Overhaul for Japanese","nexusUploadedBy":"Eolaloe","nexusModId":20661,"paks":[
-{"nexusFileName":"Goon's Wizard Overhaul for Japanese","nexusFileVersion":"1.0.2.3","nexusFileUploadedAt":1768212203,"pakFileName":"Goon's Wizard Overhaul_jp.pak","nexusFileId":112005,"metaUuid":null}
+{"nexusFileName":"Goon's Wizard Overhaul for Japanese","nexusFileVersion":"1.1.0.0","nexusFileUploadedAt":1788107112,"pakFileName":"Goon's Wizard Overhaul_jp.pak","nexusFileId":129351,"metaUuid":null}
 ]},
 "20662":{"nexusModName":"Goon's Sorcerer Overhaul for Japanese","nexusUploadedBy":"Eolaloe","nexusModId":20662,"paks":[
 {"nexusFileName":"Goon's Sorcerer Overhaul for Japanese","nexusFileVersion":"1.2.0.0","nexusFileUploadedAt":1785752516,"pakFileName":"Goon's Sorcerer Overhaul_jp.pak","nexusFileId":127201,"metaUuid":null}
@@ -63348,7 +63349,7 @@
 {"nexusFileName":"Fatebond","nexusFileVersion":"1.4","nexusFileUploadedAt":1784576306,"pakFileName":"Fatebond.pak","nexusFileId":126087,"metaUuid":"6cfead1f-d54c-4dfb-bc94-05e9fc1e2970"}
 ]},
 "22459":{"nexusModName":"DnD 5.5e All-in-One BEYOND Russian Localization","nexusUploadedBy":"XapcT","nexusModId":22459,"paks":[
-{"nexusFileName":"DnD 5.5e AIO Russian v0.5.12.zip","nexusFileVersion":"0.5.12","nexusFileUploadedAt":1787968048,"pakFileName":"DnD 5.5e AIO Russian.pak","nexusFileId":129244,"metaUuid":"6401e84d-daf2-416d-adeb-99c03a2487a6"}
+{"nexusFileName":"DnD 5.5e AIO Russian v0.5.13.zip","nexusFileVersion":"0.5.13","nexusFileUploadedAt":1788107547,"pakFileName":"DnD 5.5e AIO Russian.pak","nexusFileId":129354,"metaUuid":"6401e84d-daf2-416d-adeb-99c03a2487a6"}
 ]},
 "22460":{"nexusModName":"Elementally Based Gear","nexusUploadedBy":"Useyourrifle","nexusModId":22460,"paks":[
 {"nexusFileName":"Elemental_Gear.7z","nexusFileVersion":"1","nexusFileUploadedAt":1776346340,"pakFileName":"OP_Bow_56032304-f037-e077-f5e7-045d2e03ef1c.pak","nexusFileId":119147,"metaUuid":"56032304-f037-e077-f5e7-045d2e03ef1c"}
@@ -65846,10 +65847,10 @@
 {"nexusFileName":"Wish","nexusFileVersion":"1.01.05","nexusFileUploadedAt":1787612209,"pakFileName":"Wish.pak","nexusFileId":128956,"metaUuid":"c5786672-3c9d-4bfb-a777-e92fb962fab5"}
 ]},
 "23448":{"nexusModName":"Valkrana's Wish Spell for Korean","nexusUploadedBy":"Eolaloe","nexusModId":23448,"paks":[
-{"nexusFileName":"Wish Spell for Korean","nexusFileVersion":"1.01.03","nexusFileUploadedAt":1785944981,"pakFileName":"Wish_kr.pak","nexusFileId":127371,"metaUuid":null}
+{"nexusFileName":"Wish Spell for Korean","nexusFileVersion":"1.01.05","nexusFileUploadedAt":1788107495,"pakFileName":"Wish_kr.pak","nexusFileId":129352,"metaUuid":null}
 ]},
 "23449":{"nexusModName":"Valkrana's Wish Spell for Japanese","nexusUploadedBy":"Eolaloe","nexusModId":23449,"paks":[
-{"nexusFileName":"Wish Spell for Japanese","nexusFileVersion":"1.01.03","nexusFileUploadedAt":1785945008,"pakFileName":"Wish_jp.pak","nexusFileId":127372,"metaUuid":null}
+{"nexusFileName":"Wish Spell for Japanese","nexusFileVersion":"1.01.05","nexusFileUploadedAt":1788107531,"pakFileName":"Wish_jp.pak","nexusFileId":129353,"metaUuid":null}
 ]},
 "23451":{"nexusModName":"Vergadain","nexusUploadedBy":"YellowbeardHellfist","nexusModId":23451,"paks":[
 {"nexusFileName":"Vergadain 5223cba5 E91c 4fe1 F662 Eea9d1b9312a","nexusFileVersion":"1","nexusFileUploadedAt":1781819429,"pakFileName":"Vergadain_5223cba5-e91c-4fe1-f662-eea9d1b9312a.pak","nexusFileId":123851,"metaUuid":"5223cba5-e91c-4fe1-f662-eea9d1b9312a"}
@@ -66610,7 +66611,7 @@
 {"nexusFileName":"CSUK Loremaster E5ES","nexusFileVersion":"1","nexusFileUploadedAt":1784981079,"pakFileName":"CSUK_Loremaster.pak","nexusFileId":126448,"metaUuid":"1a13803e-7e33-4273-949e-00cfd779893d"}
 ]},
 "23772":{"nexusModName":"Difficulty Adjustment","nexusUploadedBy":"BaiYanYueQWQ","nexusModId":23772,"paks":[
-{"nexusFileName":"DifficultyAdjustment","nexusFileVersion":"1.6.1.1","nexusFileUploadedAt":1785577413,"pakFileName":"DifficultyAdjustment.pak","nexusFileId":127028,"metaUuid":"9c20e0b9-b5af-4675-936f-484993cb295a"}
+{"nexusFileName":"DifficultyAdjustment","nexusFileVersion":"1.6.2.0","nexusFileUploadedAt":1788106645,"pakFileName":"DifficultyAdjustment.pak","nexusFileId":129349,"metaUuid":"9c20e0b9-b5af-4675-936f-484993cb295a"}
 ]},
 "23773":{"nexusModName":"Ardeo's Jawbone - Forgotten Armoury II - Shortsword","nexusUploadedBy":"Lyniara","nexusModId":23773,"paks":[
 {"nexusFileName":"Ardeo's Jawbone","nexusFileVersion":"1.0.0.4","nexusFileUploadedAt":1783718067,"pakFileName":"LYRA_LYN_Ardeo_Jawbone_1.0.0.4.pak","nexusFileId":125371,"metaUuid":"25224e76-5de0-9336-beb9-dca7a261e3b1"},
@@ -68787,7 +68788,7 @@
 {"nexusFileName":"Pick Your Party Clothes - Epilogue Clothes Storage","nexusFileVersion":"1.0.0.3","nexusFileUploadedAt":1787802402,"pakFileName":"MGNTN_PickEPIOutfitsSpell.pak","nexusFileId":129134,"metaUuid":"39caa6e8-1443-4515-8a8a-392082192999"},
 {"nexusFileName":"Epilogue Clothing Storage System - G-d Gale Patch","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1787802764,"pakFileName":"MGNTN_PickEPIOutfits_GdGale.pak","nexusFileId":129135,"metaUuid":"621308d4-716a-4329-a528-0a8edbedb639"}
 ]},
-"24507":{"nexusModName":"'Bhaal's Forgotten Son' - Dark Urge Story Expansion -","nexusUploadedBy":"RealYablo","nexusModId":24507,"paks":[
+"24507":{"nexusModName":"Bhaal's Forgotten Son - Dark Urge Lore Expansion -","nexusUploadedBy":"RealYablo","nexusModId":24507,"paks":[
 {"nexusFileName":"Bhaal's Forgotten Son -1.0.9-","nexusFileVersion":"1.0.9","nexusFileUploadedAt":1788021556,"pakFileName":"hold_on_2ec64c1b-f0e2-d572-c5da-78e09a4ebc08.pak","nexusFileId":129279,"metaUuid":"2ec64c1b-f0e2-d572-c5da-78e09a4ebc08"}
 ]},
 "24508":{"nexusModName":"Moon's Half Orcs","nexusUploadedBy":"AdrasteaMoon","nexusModId":24508,"paks":[
@@ -69268,4 +69269,13 @@
 ]},
 "24704":{"nexusModName":"Remove Mod Manager Button","nexusUploadedBy":"Sai","nexusModId":24704,"paks":[
 {"nexusFileName":"Remove Mod Manager Button","nexusFileVersion":"1.0","nexusFileUploadedAt":1788092538,"pakFileName":"Remove Mod Manager Button.pak","nexusFileId":129335,"metaUuid":null}
+]},
+"24706":{"nexusModName":"Mystra's Spell Swords","nexusUploadedBy":"jonnyrouse","nexusModId":24706,"paks":[
+{"nexusFileName":"Mystras Spell Swords","nexusFileVersion":"1","nexusFileUploadedAt":1788108626,"pakFileName":"MystrasSpellSwords_e968a103-be49-45c5-a5ed-45a90cfd6504.pak","nexusFileId":129356,"metaUuid":null}
+]},
+"24707":{"nexusModName":"SummerBeach_TheFirstDescendant_BunnySummerParadise","nexusUploadedBy":"EvilRecluse","nexusModId":24707,"paks":[
+{"nexusFileName":"SummerBeach TheFirstDescendant BunnySummerParadise","nexusFileVersion":"1","nexusFileUploadedAt":1788106009,"pakFileName":"SummerBeach_TheFirstDescendant_BunnySummerParadise.pak","nexusFileId":129345,"metaUuid":null}
+]},
+"24708":{"nexusModName":"Homebrew Subclasses_KOR","nexusUploadedBy":"Ahdarugo","nexusModId":24708,"paks":[
+{"nexusFileName":"Homebrewsubclasses Kor 122327c 05gt","nexusFileVersion":"1.0.0.1","nexusFileUploadedAt":1788106295,"pakFileName":"HomebrewSubclasses_KOR_122327c7-ae8c-1c77-7a27-e3524ec923f5.pak","nexusFileId":129348,"metaUuid":null}
 ]}}
