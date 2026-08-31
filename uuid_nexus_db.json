@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-08-31T19:52:59.250930+00:00","total_mods":17448},
+{"_meta":{"last_run":"2026-08-31T20:52:22.327690+00:00","total_mods":17448},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -36049,7 +36049,7 @@
 ]},
 "12727":{"nexusModName":"DnD 5.5e All-in-One BEYOND","nexusUploadedBy":"yoonmoonsik43","nexusModId":12727,"paks":[
 {"nexusFileName":"dnd2024 - V3 Legacy","nexusFileVersion":"3.4.6.4","nexusFileUploadedAt":1771945305,"pakFileName":"DnD2024_897914ef-5c96-053c-44af-0be823f895fe.pak","nexusFileId":115523,"metaUuid":"897914ef-5c96-053c-44af-0be823f895fe"},
-{"nexusFileName":"DnD 5.5e All-in-One BEYOND","nexusFileVersion":"4.12.10.2","nexusFileUploadedAt":1788189579,"pakFileName":"DnD2024_897914ef-5c96-053c-44af-0be823f895fe.pak","nexusFileId":129450,"metaUuid":"897914ef-5c96-053c-44af-0be823f895fe"}
+{"nexusFileName":"DnD 5.5e All-in-One BEYOND","nexusFileVersion":"4.12.10.3","nexusFileUploadedAt":1788207823,"pakFileName":"DnD2024_897914ef-5c96-053c-44af-0be823f895fe.pak","nexusFileId":129466,"metaUuid":"897914ef-5c96-053c-44af-0be823f895fe"}
 ]},
 "12728":{"nexusModName":"Origin-Themed Headwear KR","nexusUploadedBy":"Soorawang","nexusModId":12728,"paks":[
 {"nexusFileName":"Origin-Themed Headwear KR","nexusFileVersion":"1.0","nexusFileUploadedAt":1727930331,"pakFileName":"OriginHeadwear_kr.pak","nexusFileId":73692,"metaUuid":null}
@@ -66122,20 +66122,20 @@
 {"nexusFileName":"Dexterity Jump BG3SS","nexusFileVersion":"1","nexusFileUploadedAt":1782585987,"pakFileName":"Dexterity_Jump_BG3SS.pak","nexusFileId":124411,"metaUuid":null}
 ]},
 "23592":{"nexusModName":"Compendium of Poses","nexusUploadedBy":"gobanaoblin","nexusModId":23592,"paks":[
-{"nexusFileName":"Child of Bhaal","nexusFileVersion":"2","nexusFileUploadedAt":1782767527,"pakFileName":"PP_ChildBhaal_6170b196-a292-fd5c-30fc-038f9de3ac70.pak","nexusFileId":124553,"metaUuid":"24f742cc-908f-86ad-aef1-e46833c25d11"},
-{"nexusFileName":"Quiet Moment","nexusFileVersion":"2","nexusFileUploadedAt":1782767541,"pakFileName":"PP_QuietMoment_636cb6aa-0fb7-1937-47f8-c84b6a058e41.pak","nexusFileId":124554,"metaUuid":"24f742cc-908f-86ad-aef1-e46833c25d11"},
-{"nexusFileName":"Hush by Goblin (NSFW)","nexusFileVersion":"2","nexusFileUploadedAt":1782767589,"pakFileName":"PP_Hush_f222a5a7-bf00-f3cb-1b85-6281c5b45f33.pak","nexusFileId":124556,"metaUuid":"24f742cc-908f-86ad-aef1-e46833c25d11"},
-{"nexusFileName":"Long Rest by Goblin (NSFW)","nexusFileVersion":"1","nexusFileUploadedAt":1782767612,"pakFileName":"PP_LongRest_b24a6276-1f60-a362-6e5a-bbf89184bd76.pak","nexusFileId":124557,"metaUuid":"24f742cc-908f-86ad-aef1-e46833c25d11"},
-{"nexusFileName":"Faces by Goblin","nexusFileVersion":"2","nexusFileUploadedAt":1782808454,"pakFileName":"PP_Faces_27b8c7a5-eba8-d3c8-4a30-d891e32a4792.pak","nexusFileId":124577,"metaUuid":"24f742cc-908f-86ad-aef1-e46833c25d11"},
-{"nexusFileName":"Still Motion","nexusFileVersion":"3","nexusFileUploadedAt":1783893160,"pakFileName":"PP_StillMotion_258a8b5d-e538-277c-0f7a-f67c29828ab3.pak","nexusFileId":125502,"metaUuid":"24f742cc-908f-86ad-aef1-e46833c25d11"},
-{"nexusFileName":"Eternal by Goblin","nexusFileVersion":"3","nexusFileUploadedAt":1783966165,"pakFileName":"PP_Eternal_24f742cc-908f-86ad-aef1-e46833c25d11.pak","nexusFileId":125564,"metaUuid":"24f742cc-908f-86ad-aef1-e46833c25d11"},
+{"nexusFileName":"Child of Bhaal","nexusFileVersion":"2","nexusFileUploadedAt":1782767527,"pakFileName":"PP_ChildBhaal_6170b196-a292-fd5c-30fc-038f9de3ac70.pak","nexusFileId":124553,"metaUuid":"63d63dd5-f55f-13d7-d754-f2af16472a95"},
+{"nexusFileName":"Quiet Moment","nexusFileVersion":"2","nexusFileUploadedAt":1782767541,"pakFileName":"PP_QuietMoment_636cb6aa-0fb7-1937-47f8-c84b6a058e41.pak","nexusFileId":124554,"metaUuid":"63d63dd5-f55f-13d7-d754-f2af16472a95"},
+{"nexusFileName":"Hush by Goblin (NSFW)","nexusFileVersion":"2","nexusFileUploadedAt":1782767589,"pakFileName":"PP_Hush_f222a5a7-bf00-f3cb-1b85-6281c5b45f33.pak","nexusFileId":124556,"metaUuid":"63d63dd5-f55f-13d7-d754-f2af16472a95"},
+{"nexusFileName":"Long Rest by Goblin (NSFW)","nexusFileVersion":"1","nexusFileUploadedAt":1782767612,"pakFileName":"PP_LongRest_b24a6276-1f60-a362-6e5a-bbf89184bd76.pak","nexusFileId":124557,"metaUuid":"63d63dd5-f55f-13d7-d754-f2af16472a95"},
+{"nexusFileName":"Faces by Goblin","nexusFileVersion":"2","nexusFileUploadedAt":1782808454,"pakFileName":"PP_Faces_27b8c7a5-eba8-d3c8-4a30-d891e32a4792.pak","nexusFileId":124577,"metaUuid":"63d63dd5-f55f-13d7-d754-f2af16472a95"},
+{"nexusFileName":"Still Motion","nexusFileVersion":"3","nexusFileUploadedAt":1783893160,"pakFileName":"PP_StillMotion_258a8b5d-e538-277c-0f7a-f67c29828ab3.pak","nexusFileId":125502,"metaUuid":"63d63dd5-f55f-13d7-d754-f2af16472a95"},
+{"nexusFileName":"Eternal by Goblin","nexusFileVersion":"3","nexusFileUploadedAt":1783966165,"pakFileName":"PP_Eternal_24f742cc-908f-86ad-aef1-e46833c25d11.pak","nexusFileId":125564,"metaUuid":"63d63dd5-f55f-13d7-d754-f2af16472a95"},
 {"nexusFileName":"All-In-One Download","nexusFileVersion":"5","nexusFileUploadedAt":1785868927,"pakFileName":"PP_ChildBhaal_6170b196-a292-fd5c-30fc-038f9de3ac70.pak","nexusFileId":127320,"metaUuid":"63d63dd5-f55f-13d7-d754-f2af16472a95"},
 {"nexusFileName":"All-In-One Download","nexusFileVersion":"5","nexusFileUploadedAt":1785868927,"pakFileName":"PP_Eternal_24f742cc-908f-86ad-aef1-e46833c25d11.pak","nexusFileId":127320,"metaUuid":"63d63dd5-f55f-13d7-d754-f2af16472a95"},
 {"nexusFileName":"All-In-One Download","nexusFileVersion":"5","nexusFileUploadedAt":1785868927,"pakFileName":"PP_Faces_27b8c7a5-eba8-d3c8-4a30-d891e32a4792.pak","nexusFileId":127320,"metaUuid":"63d63dd5-f55f-13d7-d754-f2af16472a95"},
 {"nexusFileName":"All-In-One Download","nexusFileVersion":"5","nexusFileUploadedAt":1785868927,"pakFileName":"PP_Hush_f222a5a7-bf00-f3cb-1b85-6281c5b45f33.pak","nexusFileId":127320,"metaUuid":"63d63dd5-f55f-13d7-d754-f2af16472a95"},
 {"nexusFileName":"All-In-One Download","nexusFileVersion":"5","nexusFileUploadedAt":1785868927,"pakFileName":"PP_LongRest_b24a6276-1f60-a362-6e5a-bbf89184bd76.pak","nexusFileId":127320,"metaUuid":"63d63dd5-f55f-13d7-d754-f2af16472a95"},
 {"nexusFileName":"All-In-One Download","nexusFileVersion":"5","nexusFileUploadedAt":1785868927,"pakFileName":"PP_QuietMoment_636cb6aa-0fb7-1937-47f8-c84b6a058e41.pak","nexusFileId":127320,"metaUuid":"63d63dd5-f55f-13d7-d754-f2af16472a95"},
-{"nexusFileName":"All-In-One Download","nexusFileVersion":"5","nexusFileUploadedAt":1785868927,"pakFileName":"PP_Silhouettes_63d63dd5-f55f-13d7-d754-f2af16472a95.pak","nexusFileId":127320,"metaUuid":"63d63dd5-f55f-13d7-d754-f2af16472a95"},
+{"nexusFileName":"All-In-One Download","nexusFileVersion":"5","nexusFileUploadedAt":1785868927,"pakFileName":"PP_Silhouettes_63d63dd5-f55f-13d7-d754-f2af16472a95.pak","nexusFileId":127320,"metaUuid":"6170b196-a292-fd5c-30fc-038f9de3ac70"},
 {"nexusFileName":"All-In-One Download","nexusFileVersion":"5","nexusFileUploadedAt":1785868927,"pakFileName":"PP_StillMotion_258a8b5d-e538-277c-0f7a-f67c29828ab3.pak","nexusFileId":127320,"metaUuid":"63d63dd5-f55f-13d7-d754-f2af16472a95"},
 {"nexusFileName":"Silhouettes by Goblin","nexusFileVersion":"3","nexusFileUploadedAt":1785869345,"pakFileName":"PP_Silhouettes_63d63dd5-f55f-13d7-d754-f2af16472a95.pak","nexusFileId":127323,"metaUuid":"6170b196-a292-fd5c-30fc-038f9de3ac70"}
 ]},
@@ -68714,7 +68714,8 @@
 {"nexusFileName":"DAO DesireDemon V2","nexusFileVersion":"2","nexusFileUploadedAt":1787846594,"pakFileName":"DAO_DesireDemon_Robes.pak","nexusFileId":129158,"metaUuid":"c04da5d7-e7e5-c376-701b-c5ed0b432b91"}
 ]},
 "24485":{"nexusModName":"Brocade Be Gone - Customize Tav's Epilogue Wardrobe","nexusUploadedBy":"Seristina","nexusModId":24485,"paks":[
-{"nexusFileName":"EpilogueWardrobe","nexusFileVersion":"3","nexusFileUploadedAt":1787880448,"pakFileName":"EpilogueWardrobe_plus_underwear.pak","nexusFileId":129187,"metaUuid":"546e2002-b5d9-46b7-9807-15108ec6715c"}
+{"nexusFileName":"EpilogueWardrobe","nexusFileVersion":"3","nexusFileUploadedAt":1787880448,"pakFileName":"EpilogueWardrobe_plus_underwear.pak","nexusFileId":129187,"metaUuid":"546e2002-b5d9-46b7-9807-15108ec6715c"},
+{"nexusFileName":"Tav Epi Acquisition Patch - Tut_Chest Fytz Carmen","nexusFileVersion":"1","nexusFileUploadedAt":1788205928,"pakFileName":"EpilogueWardrobe_plus_underwear_tut_vendor_patch.pak","nexusFileId":129464,"metaUuid":null}
 ]},
 "24486":{"nexusModName":"Perilous Stakes Revert","nexusUploadedBy":"qhrals8","nexusModId":24486,"paks":[
 {"nexusFileName":"PerilousStakes","nexusFileVersion":"1","nexusFileUploadedAt":1787014782,"pakFileName":"PerilousStakes.pak","nexusFileId":128333,"metaUuid":"c1fee49f-da6b-7839-d4e3-2cfbd6de4a45"}
@@ -68967,7 +68968,8 @@
 {"nexusFileName":"Eldenringtalismans Bb7c2e36 Ca Dbct","nexusFileVersion":"1.1.1.6","nexusFileUploadedAt":1787535695,"pakFileName":"EldenRingTalismans_bb7c2e36-ca1d-4770-8923-9257a8bdf5e2.pak","nexusFileId":128892,"metaUuid":"bb7c2e36-ca1d-4770-8923-9257a8bdf5e2"}
 ]},
 "24583":{"nexusModName":"A Well-Dressed Party - Customize Companion Epilogue Outfits","nexusUploadedBy":"Seristina","nexusModId":24583,"paks":[
-{"nexusFileName":"CompanionEpilogueWardrobe","nexusFileVersion":"2","nexusFileUploadedAt":1787880974,"pakFileName":"CompanionEpilogueWardrobe_plus_underwear.pak","nexusFileId":129188,"metaUuid":"6c2e10f3-c7cc-4c72-b7b0-124813afcef0"}
+{"nexusFileName":"CompanionEpilogueWardrobe","nexusFileVersion":"2","nexusFileUploadedAt":1787880974,"pakFileName":"CompanionEpilogueWardrobe_plus_underwear.pak","nexusFileId":129188,"metaUuid":"6c2e10f3-c7cc-4c72-b7b0-124813afcef0"},
+{"nexusFileName":"Comp_Epi Acquisition Patch - Tut_Chest Fytz Carmen","nexusFileVersion":"1","nexusFileUploadedAt":1788205870,"pakFileName":"CompanionEpilogueWardrobe_plus_underwear_tut_vendor_patch.pak","nexusFileId":129463,"metaUuid":null}
 ]},
 "24584":{"nexusModName":"SummerBeach_TheFirstDescendant_BunnyOasisParty","nexusUploadedBy":"EvilRecluse","nexusModId":24584,"paks":[
 {"nexusFileName":"SummerBeach TheFirstDescendant BunnyOasisParty","nexusFileVersion":"1","nexusFileUploadedAt":1787457736,"pakFileName":"SummerBeach_TheFirstDescendant_BunnyOasisParty.pak","nexusFileId":128774,"metaUuid":"1719657b-f2d7-43e4-96de-72ae0982bfb0"}
