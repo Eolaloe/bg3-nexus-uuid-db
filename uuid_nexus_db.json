@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-08-31T06:52:08.981477+00:00","total_mods":17439},
+{"_meta":{"last_run":"2026-08-31T07:52:40.026738+00:00","total_mods":17440},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -69285,4 +69285,8 @@
 ]},
 "24719":{"nexusModName":"Advanced Enemy Randomizer_CHS","nexusUploadedBy":"Pir922195467","nexusModId":24719,"paks":[
 {"nexusFileName":"AERando CHS","nexusFileVersion":"1","nexusFileUploadedAt":1788154709,"pakFileName":"AERando_CHS.pak","nexusFileId":129414,"metaUuid":null}
+]},
+"24721":{"nexusModName":"Appearance Edit Enhanced (Russian Localization)","nexusUploadedBy":"ganeuken","nexusModId":24721,"paks":[
+{"nexusFileName":"Appearance Edit Enhanced (Russian Localization)","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1788160428,"pakFileName":"AppearanceEditEnhanced_RU.pak","nexusFileId":129419,"metaUuid":null},
+{"nexusFileName":"Appearance Edit Origins (Russian Localization)","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1788160476,"pakFileName":"AppearanceEditOrigins_RU.pak","nexusFileId":129420,"metaUuid":null}
 ]}}
