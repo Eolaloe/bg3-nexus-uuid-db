@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-08-31T09:52:28.337988+00:00","total_mods":17442},
+{"_meta":{"last_run":"2026-08-31T10:52:35.602003+00:00","total_mods":17443},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -26561,7 +26561,7 @@
 {"nexusFileName":"Addon - Randomized Loot","nexusFileVersion":"2.0.0","nexusFileUploadedAt":1777412085,"pakFileName":"HomeBrew - Comprehensive Reworks (Addon - Randomized Loot).pak","nexusFileId":120106,"metaUuid":"74a00bb6-b29e-497d-8410-2307ceb876fe"},
 {"nexusFileName":"Misc - Modded Subclasses","nexusFileVersion":"8.3.1","nexusFileUploadedAt":1777412098,"pakFileName":"HomeBrew - Comprehensive Reworks (Misc - Modded Subclasses).pak","nexusFileId":120107,"metaUuid":"cf1fd434-de12-40ed-9bb0-4a5a3de48973"},
 {"nexusFileName":"Easier Difficulty - Mythic Difficulty Reduced","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1783594414,"pakFileName":"Home Brew - Comprehensive Reworks (Easier Difficulty - Mythic Difficulty Reduced).pak","nexusFileId":125264,"metaUuid":"135c0255-9690-4377-957d-2b40187f74a2"},
-{"nexusFileName":"HomeBrew   Comprehensive Reworks","nexusFileVersion":"9.1.5","nexusFileUploadedAt":1788031960,"pakFileName":"HomeBrew - Comprehensive Reworks.pak","nexusFileId":129293,"metaUuid":"486d1526-3505-4b09-9790-0f6a60f5ac0f"}
+{"nexusFileName":"HomeBrew   Comprehensive Reworks","nexusFileVersion":"9.1.6","nexusFileUploadedAt":1788171913,"pakFileName":"HomeBrew - Comprehensive Reworks.pak","nexusFileId":129427,"metaUuid":"486d1526-3505-4b09-9790-0f6a60f5ac0f"}
 ]},
 "9053":{"nexusModName":"Planetouched - Homebrew Race","nexusUploadedBy":"0Lyra","nexusModId":9053,"paks":[
 {"nexusFileName":"Planetouched - Main","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1715369676,"pakFileName":"Planetouched_Race.pak","nexusFileId":56628,"metaUuid":"fc59491b-4bc3-4822-8597-7ed1b84064c5"},
@@ -69139,6 +69139,9 @@
 {"nexusFileName":"NAERYS Salem Ruby","nexusFileVersion":"2","nexusFileUploadedAt":1788116658,"pakFileName":"NAERYS_Salem_Ruby.pak","nexusFileId":129378,"metaUuid":null},
 {"nexusFileName":"NAERYS Salem Sapphire","nexusFileVersion":"2","nexusFileUploadedAt":1788116968,"pakFileName":"NAERYS_Salem_sapphire.pak","nexusFileId":129380,"metaUuid":null}
 ]},
+"24654":{"nexusModName":"Unarmed smites for Paladins","nexusUploadedBy":"sarymsak","nexusModId":24654,"paks":[
+{"nexusFileName":"Unarmed Paladin Smites","nexusFileVersion":"1.0","nexusFileUploadedAt":1788171393,"pakFileName":"SAR_Unarmed-Paladin-smites_faa4ff27-6fc0-a163-23d2-54a5e5187a7b.pak","nexusFileId":129424,"metaUuid":null}
+]},
 "24656":{"nexusModName":"Fixed Dwarven Splintmail","nexusUploadedBy":"Ghostly","nexusModId":24656,"paks":[
 {"nexusFileName":"Fixed Dwarven Splintmail - Intended Colors","nexusFileVersion":"1","nexusFileUploadedAt":1787883080,"pakFileName":"FixedDwarvenSplintmail.pak","nexusFileId":129189,"metaUuid":"84ac9ec3-190b-0629-bf5a-a875a5cbc9b8"},
 {"nexusFileName":"Fixed Dwarven Splintmail - Original Colors","nexusFileVersion":"1","nexusFileUploadedAt":1787883128,"pakFileName":"FixedDwarvenSplintmail.pak","nexusFileId":129190,"metaUuid":"84ac9ec3-190b-0629-bf5a-a875a5cbc9b8"}
@@ -69220,7 +69223,9 @@
 ]},
 "24683":{"nexusModName":"Taste of Poison - Minthara Edit","nexusUploadedBy":"SweetGenerousThing","nexusModId":24683,"paks":[
 {"nexusFileName":"SGT_Taste Of Poison -  Minthara Portrait","nexusFileVersion":"1","nexusFileUploadedAt":1788025939,"pakFileName":"Taste Of Poison - Minthara Portrait.pak","nexusFileId":129282,"metaUuid":"72363f0e-4940-4d2d-8702-96019f851d5e"},
-{"nexusFileName":"SGT_Taste Of Poison -  Minthara Edit","nexusFileVersion":"1","nexusFileUploadedAt":1788029970,"pakFileName":"SGT_TasteOfPoison_109503d1-750a-378f-febb-3145eac4f9df.pak","nexusFileId":129290,"metaUuid":"109503d1-750a-378f-febb-3145eac4f9df"}
+{"nexusFileName":"SGT_Taste Of Poison -  Minthara Edit","nexusFileVersion":"1","nexusFileUploadedAt":1788029970,"pakFileName":"SGT_TasteOfPoison_109503d1-750a-378f-febb-3145eac4f9df.pak","nexusFileId":129290,"metaUuid":"109503d1-750a-378f-febb-3145eac4f9df"},
+{"nexusFileName":"SGT_Taste Of Poison - Hairstyle For CC","nexusFileVersion":"1","nexusFileUploadedAt":1788171816,"pakFileName":"TasteOfPoison - Harstyle for CC.pak","nexusFileId":129425,"metaUuid":null},
+{"nexusFileName":"SGT_Taste Of Poison - Head For CC","nexusFileVersion":"1","nexusFileUploadedAt":1788171898,"pakFileName":"SGT_TasteOfPoison_Head_CC.pak","nexusFileId":129426,"metaUuid":null}
 ]},
 "24684":{"nexusModName":"Astarions armor in the scene with Casador.","nexusUploadedBy":"Deni34","nexusModId":24684,"paks":[
 {"nexusFileName":"Astarion FINAL","nexusFileVersion":"1","nexusFileUploadedAt":1788027313,"pakFileName":"Astarion_FINAL.pak","nexusFileId":129284,"metaUuid":null}
@@ -69264,7 +69269,7 @@
 "24710":{"nexusModName":"Fade's Equipment Distribution - Russian Translation","nexusUploadedBy":"SNKmod777","nexusModId":24710,"paks":[
 {"nexusFileName":"FED RU","nexusFileVersion":"1.0.0.1","nexusFileUploadedAt":1788116822,"pakFileName":"FED_RU.pak","nexusFileId":129379,"metaUuid":null}
 ]},
-"24711":{"nexusModName":"Dialogue Tag Selector","nexusUploadedBy":"marykerry02","nexusModId":24711,"paks":[
+"24711":{"nexusModName":"Dialogue Class Tag Selector","nexusUploadedBy":"marykerry02","nexusModId":24711,"paks":[
 {"nexusFileName":"Dialogue Tag Selector","nexusFileVersion":"1","nexusFileUploadedAt":1788126618,"pakFileName":"DialogueTagSelector.pak","nexusFileId":129391,"metaUuid":"4c5219fd-dc75-466c-9cb5-109e36b8b7c4"}
 ]},
 "24712":{"nexusModName":"Symphony of a Vampire CHS","nexusUploadedBy":"mzldyt","nexusModId":24712,"paks":[
@@ -69292,4 +69297,7 @@
 ]},
 "24724":{"nexusModName":"Mod Configuration Menu (Russian Localization)","nexusUploadedBy":"ganeuken","nexusModId":24724,"paks":[
 {"nexusFileName":"Mod Configuration Menu (Russian Localization)","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1788167962,"pakFileName":"ModConfigurationMenu_RU.pak","nexusFileId":129422,"metaUuid":null}
+]},
+"24725":{"nexusModName":"Symphony of a Vampire (Russian Localization)","nexusUploadedBy":"ganeuken","nexusModId":24725,"paks":[
+{"nexusFileName":"Symphony of a Vampire (Russian Localization)","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1788171309,"pakFileName":"VampiricTree_RU.pak","nexusFileId":129423,"metaUuid":null}
 ]}}
