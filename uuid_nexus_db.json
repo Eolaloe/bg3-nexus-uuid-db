@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-08-31T14:52:58.538385+00:00","total_mods":17443},
+{"_meta":{"last_run":"2026-08-31T15:52:46.630934+00:00","total_mods":17446},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -36049,7 +36049,7 @@
 ]},
 "12727":{"nexusModName":"DnD 5.5e All-in-One BEYOND","nexusUploadedBy":"yoonmoonsik43","nexusModId":12727,"paks":[
 {"nexusFileName":"dnd2024 - V3 Legacy","nexusFileVersion":"3.4.6.4","nexusFileUploadedAt":1771945305,"pakFileName":"DnD2024_897914ef-5c96-053c-44af-0be823f895fe.pak","nexusFileId":115523,"metaUuid":"897914ef-5c96-053c-44af-0be823f895fe"},
-{"nexusFileName":"DnD 5.5e All-in-One BEYOND","nexusFileVersion":"4.12.10.1","nexusFileUploadedAt":1788156191,"pakFileName":"DnD2024_897914ef-5c96-053c-44af-0be823f895fe.pak","nexusFileId":129416,"metaUuid":"897914ef-5c96-053c-44af-0be823f895fe"}
+{"nexusFileName":"DnD 5.5e All-in-One BEYOND","nexusFileVersion":"4.12.10.2","nexusFileUploadedAt":1788189579,"pakFileName":"DnD2024_897914ef-5c96-053c-44af-0be823f895fe.pak","nexusFileId":129450,"metaUuid":"897914ef-5c96-053c-44af-0be823f895fe"}
 ]},
 "12728":{"nexusModName":"Origin-Themed Headwear KR","nexusUploadedBy":"Soorawang","nexusModId":12728,"paks":[
 {"nexusFileName":"Origin-Themed Headwear KR","nexusFileVersion":"1.0","nexusFileUploadedAt":1727930331,"pakFileName":"OriginHeadwear_kr.pak","nexusFileId":73692,"metaUuid":null}
@@ -60363,7 +60363,7 @@
 {"nexusFileName":"Scourge of Ilmater","nexusFileVersion":"2.0","nexusFileUploadedAt":1778437070,"pakFileName":"v2.0_SAR_Martyr-of-Ilmater_64d05fd8-753c-c3bf-6254-40642c6c9ef9.pak","nexusFileId":120917,"metaUuid":null}
 ]},
 "21440":{"nexusModName":"Eyes of the Beholder - Universal Automatic Patcher (EotB UAP)","nexusUploadedBy":"Volitio","nexusModId":21440,"paks":[
-{"nexusFileName":"EotB Universal Automatic Patcher 1.0.0","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1771129403,"pakFileName":"EotB Universal Automatic Patcher.pak","nexusFileId":114874,"metaUuid":"3c69aa47-b4d6-437c-996e-a4172c36ecf2"}
+{"nexusFileName":"EotB Universal Automatic Patcher","nexusFileVersion":"1.2.0","nexusFileUploadedAt":1788188110,"pakFileName":"EotB Universal Automatic Patcher.pak","nexusFileId":129448,"metaUuid":"3c69aa47-b4d6-437c-996e-a4172c36ecf2"}
 ]},
 "21442":{"nexusModName":"Convenient Invisibility for Korean","nexusUploadedBy":"Eolaloe","nexusModId":21442,"paks":[
 {"nexusFileName":"Convenient Invisibility for Korean","nexusFileVersion":"1.1.0.4","nexusFileUploadedAt":1770873871,"pakFileName":"Convenient Invisibility_kr.pak","nexusFileId":114637,"metaUuid":null}
@@ -66024,7 +66024,7 @@
 {"nexusFileName":"Zoo Mogul I","nexusFileVersion":"1.0.0.14","nexusFileUploadedAt":1782376682,"pakFileName":"ZooMogul1.pak","nexusFileId":124248,"metaUuid":"3e27dfae-890c-66b4-b6cf-aef68e28afa4"}
 ]},
 "23553":{"nexusModName":"Bloodtrail - Path of Undeath Chapter 2 for Korean","nexusUploadedBy":"Eolaloe","nexusModId":23553,"paks":[
-{"nexusFileName":"Bloodtrail - Path of Undeath Chapter 2 for Korean","nexusFileVersion":"2.2","nexusFileUploadedAt":1786991677,"pakFileName":"Path of Undeath - Bloodtrail_kr.pak","nexusFileId":128313,"metaUuid":"808468f9-81b6-4c7d-b2bc-ccbb93a6d2ab"}
+{"nexusFileName":"Bloodtrail - Path of Undeath Chapter 2 for Korean","nexusFileVersion":"2.3","nexusFileUploadedAt":1788191056,"pakFileName":"Path of Undeath - Bloodtrail_kr.pak","nexusFileId":129454,"metaUuid":"808468f9-81b6-4c7d-b2bc-ccbb93a6d2ab"}
 ]},
 "23554":{"nexusModName":"Manalis' Vanilla Feats Overhauled Volume 1","nexusUploadedBy":"EmyioAzachi","nexusModId":23554,"paks":[
 {"nexusFileName":"Manalis' Vanilla Feats Overhauled","nexusFileVersion":"1","nexusFileUploadedAt":1782417394,"pakFileName":"VanillaFeatsOverhauled_3742bd42-ff93-c0f4-a0ca-ea3afd8fe774.pak","nexusFileId":124274,"metaUuid":"3742bd42-ff93-c0f4-a0ca-ea3afd8fe774"},
@@ -66339,7 +66339,7 @@
 {"nexusFileName":"MF Radio 1.8.1","nexusFileVersion":"1.8.1","nexusFileUploadedAt":1787779126,"pakFileName":"MF_Radio.pak","nexusFileId":129120,"metaUuid":"d9e9fd0b-6a72-4cd2-bdc9-a9cb1dd3efc2"}
 ]},
 "23676":{"nexusModName":"STAV - Universal Automatic Patcher (UAP)","nexusUploadedBy":"Volitio","nexusModId":23676,"paks":[
-{"nexusFileName":"STAV UAP 1.0.0","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1783640867,"pakFileName":"Universal STAV Patcher.pak","nexusFileId":125308,"metaUuid":"a347f848-222b-4cdc-8cba-754ee581d6d9"}
+{"nexusFileName":"STAV UAP","nexusFileVersion":"1.2.0","nexusFileUploadedAt":1788188220,"pakFileName":"Universal STAV Patcher.pak","nexusFileId":129449,"metaUuid":"a347f848-222b-4cdc-8cba-754ee581d6d9"}
 ]},
 "23677":{"nexusModName":"Living Sculptures Pose Pack","nexusUploadedBy":"primnose","nexusModId":23677,"paks":[
 {"nexusFileName":"Primnose's Living Sculpture Pose Pack","nexusFileVersion":"1.0.0.4","nexusFileUploadedAt":1784984519,"pakFileName":"Primnose_LivingSculptures_Poses_7734f3d0-9c63-8f49-dbb1-6c79caabbb7d.pak","nexusFileId":126450,"metaUuid":"7734f3d0-9c63-8f49-dbb1-6c79caabbb7d"}
@@ -69224,7 +69224,8 @@
 {"nexusFileName":"SGT_Taste Of Poison - Hairstyle For CC","nexusFileVersion":"1","nexusFileUploadedAt":1788171816,"pakFileName":"TasteOfPoison - Harstyle for CC.pak","nexusFileId":129425,"metaUuid":null},
 {"nexusFileName":"SGT_Taste Of Poison - Head For CC","nexusFileVersion":"1","nexusFileUploadedAt":1788171898,"pakFileName":"SGT_TasteOfPoison_Head_CC.pak","nexusFileId":129426,"metaUuid":null},
 {"nexusFileName":"SGT_Taste Of Poison - Vanilla Face","nexusFileVersion":"1","nexusFileUploadedAt":1788184694,"pakFileName":"SGT_TasteOfPoison_109503d1-750a-378f-febb-3145eac4f9df.pak","nexusFileId":129437,"metaUuid":"109503d1-750a-378f-febb-3145eac4f9df"},
-{"nexusFileName":"SGT_Taste Of Poison  - Minthara Edit - Alt","nexusFileVersion":"1","nexusFileUploadedAt":1788184722,"pakFileName":"SGT_TasteOfPoison_109503d1-750a-378f-febb-3145eac4f9df.pak","nexusFileId":129439,"metaUuid":"109503d1-750a-378f-febb-3145eac4f9df"}
+{"nexusFileName":"SGT_Taste Of Poison  - Minthara Edit - Alt","nexusFileVersion":"1","nexusFileUploadedAt":1788184722,"pakFileName":"SGT_TasteOfPoison_109503d1-750a-378f-febb-3145eac4f9df.pak","nexusFileId":129439,"metaUuid":"109503d1-750a-378f-febb-3145eac4f9df"},
+{"nexusFileName":"SGT_Taste Of Poison -  Armor","nexusFileVersion":"1","nexusFileUploadedAt":1788190190,"pakFileName":"SGT_TasteOfPoison_Armor_8cdc9656-8523-4e2b-9aa2-8e09fe1424c1.pak","nexusFileId":129452,"metaUuid":null}
 ]},
 "24684":{"nexusModName":"Astarions armor in the scene with Casador.","nexusUploadedBy":"Deni34","nexusModId":24684,"paks":[
 {"nexusFileName":"Astarion FINAL","nexusFileVersion":"1","nexusFileUploadedAt":1788027313,"pakFileName":"Astarion_FINAL.pak","nexusFileId":129284,"metaUuid":null}
@@ -69302,4 +69303,13 @@
 ]},
 "24725":{"nexusModName":"Symphony of a Vampire (Russian Localization)","nexusUploadedBy":"ganeuken","nexusModId":24725,"paks":[
 {"nexusFileName":"Symphony of a Vampire (Russian Localization)","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1788171309,"pakFileName":"VampiricTree_RU.pak","nexusFileId":129423,"metaUuid":null}
+]},
+"24727":{"nexusModName":"Blood Sorcery - A Sorcerer subclass - TURKISH TRANSLATE","nexusUploadedBy":"Mrtbskn","nexusModId":24727,"paks":[
+{"nexusFileName":"Blood SorceryTurkish_Translate","nexusFileVersion":"1","nexusFileUploadedAt":1788188075,"pakFileName":"BloodMagicSpell_5b702441-7a33-9cb9-30c1-e64bd9ec89c3.pak","nexusFileId":129447,"metaUuid":null}
+]},
+"24728":{"nexusModName":"Whispering Blood Remastered - TURKISH TRANSLATE","nexusUploadedBy":"Mrtbskn","nexusModId":24728,"paks":[
+{"nexusFileName":"Whispering Blood Remastered","nexusFileVersion":"1.2.1","nexusFileUploadedAt":1788189694,"pakFileName":"WhisperingBloodRemaster_121130de-b769-17e6-07be-a34a7071f372.pak","nexusFileId":129451,"metaUuid":null}
+]},
+"24729":{"nexusModName":"Blood Sorcery Unleashed - TURKISH TRANSLATE","nexusUploadedBy":"Mrtbskn","nexusModId":24729,"paks":[
+{"nexusFileName":"Blood Sorcery Unleashed TURKISH TRANSLATE","nexusFileVersion":"2","nexusFileUploadedAt":1788190248,"pakFileName":"Blood_Sorcery_Unleashed_BALANCED(No ULC Dependency).pak","nexusFileId":129453,"metaUuid":null}
 ]}}
