@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-09-01T15:52:12.528023+00:00","total_mods":17453},
+{"_meta":{"last_run":"2026-09-01T16:52:34.040850+00:00","total_mods":17454},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -65837,7 +65837,7 @@
 {"nexusFileName":"Infinite Combat Encounters and Zombies","nexusFileVersion":"1.2","nexusFileUploadedAt":1787846842,"pakFileName":"ZombiesBG3Mode_f77df079-70a6-57c1-15ec-6cfddf8b7e51.pak","nexusFileId":129159,"metaUuid":"f77df079-70a6-57c1-15ec-6cfddf8b7e51"}
 ]},
 "23446":{"nexusModName":"Wish Spell","nexusUploadedBy":"actualsailorcat","nexusModId":23446,"paks":[
-{"nexusFileName":"Wish","nexusFileVersion":"1.01.05","nexusFileUploadedAt":1787612209,"pakFileName":"Wish.pak","nexusFileId":128956,"metaUuid":"c5786672-3c9d-4bfb-a777-e92fb962fab5"}
+{"nexusFileName":"Wish","nexusFileVersion":"1.01.06","nexusFileUploadedAt":1788280180,"pakFileName":"Wish.pak","nexusFileId":129498,"metaUuid":"c5786672-3c9d-4bfb-a777-e92fb962fab5"}
 ]},
 "23448":{"nexusModName":"Valkrana's Wish Spell for Korean","nexusUploadedBy":"Eolaloe","nexusModId":23448,"paks":[
 {"nexusFileName":"Wish Spell for Korean","nexusFileVersion":"1.01.05","nexusFileUploadedAt":1788107495,"pakFileName":"Wish_kr.pak","nexusFileId":129352,"metaUuid":null}
@@ -69344,4 +69344,8 @@
 {"nexusFileName":"OW - Cat Of Exploration And Combat","nexusFileVersion":"1","nexusFileUploadedAt":1788272318,"pakFileName":"OW - Cat of Exploration and Combat.pak","nexusFileId":129492,"metaUuid":null},
 {"nexusFileName":"BW - Cat Of Exploration And Combat","nexusFileVersion":"1","nexusFileUploadedAt":1788272332,"pakFileName":"BW - Cat of Exploration and Combat.pak","nexusFileId":129493,"metaUuid":null},
 {"nexusFileName":"FAM - Cat Of Exploration And Combat","nexusFileVersion":"1","nexusFileUploadedAt":1788272339,"pakFileName":"FAM - Cat of Exploration and Combat - Copie.pak","nexusFileId":129494,"metaUuid":null}
+]},
+"24741":{"nexusModName":"Oath of the Open Sea - Paladin Subclass (ENG-KOR)","nexusUploadedBy":"Ahdarugo","nexusModId":24741,"paks":[
+{"nexusFileName":"Oath Of The Open Sea - Paladin Subclass","nexusFileVersion":"1.1.0.1","nexusFileUploadedAt":1788278540,"pakFileName":"OathOfTheOpenSea_07bd11f1-fb48-96ad-56e3-2c0abe7da0b1.pak","nexusFileId":129496,"metaUuid":null},
+{"nexusFileName":"Oath Of The Open Sea   Aura Increase 3 To 6","nexusFileVersion":"1.0.0.1","nexusFileUploadedAt":1788278872,"pakFileName":"OathOfTheOpenSeaAddOn_81ce9cd4-30cc-423d-1f81-d797e683fd31.pak","nexusFileId":129497,"metaUuid":null}
 ]}}
