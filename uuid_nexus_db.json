@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-09-02T18:52:19.652905+00:00","total_mods":17466},
+{"_meta":{"last_run":"2026-09-02T19:53:02.188779+00:00","total_mods":17467},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -17525,7 +17525,7 @@
 {"nexusFileName":"Featsextra CH Standalone localization Pak","nexusFileVersion":"1.1.11.3","nexusFileUploadedAt":1742283591,"pakFileName":"_FeatsextraStandalone.pak","nexusFileId":87452,"metaUuid":null}
 ]},
 "5552":{"nexusModName":"Absolute Wrath","nexusUploadedBy":"Grimpreacher","nexusModId":5552,"paks":[
-{"nexusFileName":"Absolute Wrath","nexusFileVersion":"3.0","nexusFileUploadedAt":1785741979,"pakFileName":"AbsoluteWrath.pak","nexusFileId":127181,"metaUuid":"9010c099-c1e7-4ea8-8990-a883d6814975"}
+{"nexusFileName":"Absolute Wrath","nexusFileVersion":"3.1","nexusFileUploadedAt":1788378072,"pakFileName":"AbsoluteWrath.pak","nexusFileId":129558,"metaUuid":"9010c099-c1e7-4ea8-8990-a883d6814975"}
 ]},
 "5554":{"nexusModName":"Learn Brutal-Improved Critical","nexusUploadedBy":"BitterPast","nexusModId":5554,"paks":[
 {"nexusFileName":"Learn Brutal and Improved Critical","nexusFileVersion":"1.0.1","nexusFileUploadedAt":1706657229,"pakFileName":"LearnBrutalImprovedCritical.pak","nexusFileId":42521,"metaUuid":"150b4bf4-d065-40bc-b747-9384b01da16b"},
@@ -36047,7 +36047,7 @@
 ]},
 "12727":{"nexusModName":"DnD 5.5e All-in-One BEYOND","nexusUploadedBy":"yoonmoonsik43","nexusModId":12727,"paks":[
 {"nexusFileName":"dnd2024 - V3 Legacy","nexusFileVersion":"3.4.6.4","nexusFileUploadedAt":1771945305,"pakFileName":"DnD2024_897914ef-5c96-053c-44af-0be823f895fe.pak","nexusFileId":115523,"metaUuid":"897914ef-5c96-053c-44af-0be823f895fe"},
-{"nexusFileName":"DnD 5.5e All-in-One BEYOND","nexusFileVersion":"4.12.10.6","nexusFileUploadedAt":1788315005,"pakFileName":"DnD2024_897914ef-5c96-053c-44af-0be823f895fe.pak","nexusFileId":129522,"metaUuid":"897914ef-5c96-053c-44af-0be823f895fe"}
+{"nexusFileName":"DnD 5.5e All-in-One BEYOND","nexusFileVersion":"4.12.10.7","nexusFileUploadedAt":1788375130,"pakFileName":"DnD2024_897914ef-5c96-053c-44af-0be823f895fe.pak","nexusFileId":129556,"metaUuid":"897914ef-5c96-053c-44af-0be823f895fe"}
 ]},
 "12728":{"nexusModName":"Origin-Themed Headwear KR","nexusUploadedBy":"Soorawang","nexusModId":12728,"paks":[
 {"nexusFileName":"Origin-Themed Headwear KR","nexusFileVersion":"1.0","nexusFileUploadedAt":1727930331,"pakFileName":"OriginHeadwear_kr.pak","nexusFileId":73692,"metaUuid":null}
@@ -69369,7 +69369,7 @@
 {"nexusFileName":"Lathader's Armory","nexusFileVersion":"1","nexusFileUploadedAt":1788318322,"pakFileName":"Sanitatem Solis Gauntlets.pak","nexusFileId":129525,"metaUuid":null},
 {"nexusFileName":"Lathader's Armory","nexusFileVersion":"1","nexusFileUploadedAt":1788318322,"pakFileName":"Talaria Boots.pak","nexusFileId":129525,"metaUuid":null}
 ]},
-"24754":{"nexusModName":"Daisy (Dream Guardian) Morph Mod","nexusUploadedBy":"SerpentineShel","nexusModId":24754,"paks":[
+"24754":{"nexusModName":"Daisy (Dream Guardian) Morph Mod (by SerpentineShel)","nexusUploadedBy":"SerpentineShel","nexusModId":24754,"paks":[
 {"nexusFileName":"DaisyAppearanceMorph 1.0.0","nexusFileVersion":"1","nexusFileUploadedAt":1788316681,"pakFileName":"DaisyAppearanceMorph.pak","nexusFileId":129524,"metaUuid":null}
 ]},
 "24755":{"nexusModName":"Noxx's Black Rose Greatsword","nexusUploadedBy":"Prednoxx","nexusModId":24755,"paks":[
@@ -69392,4 +69392,7 @@
 ]},
 "24761":{"nexusModName":"Occultist Class (Blue Mage) Russian","nexusUploadedBy":"North3n","nexusModId":24761,"paks":[
 {"nexusFileName":"DBlueMage Russian Reviewed","nexusFileVersion":"1.7","nexusFileUploadedAt":1788347162,"pakFileName":"DBlueMage_Russian_reviewed.pak","nexusFileId":129544,"metaUuid":null}
+]},
+"24764":{"nexusModName":"Infernal Rapier Searing Smite","nexusUploadedBy":"Pyrexo","nexusModId":24764,"paks":[
+{"nexusFileName":"Infernal Rapier Searing Smite","nexusFileVersion":"1","nexusFileUploadedAt":1788376343,"pakFileName":"Infernal Rapier Searing Smite.pak","nexusFileId":129557,"metaUuid":null}
 ]}}
