@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-09-02T04:52:14.895120+00:00","total_mods":17461},
+{"_meta":{"last_run":"2026-09-02T05:51:53.184681+00:00","total_mods":17463},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -68965,14 +68965,14 @@
 ]},
 "24582":{"nexusModName":"Elden Ring Talismans","nexusUploadedBy":"Prednoxx","nexusModId":24582,"paks":[
 {"nexusFileName":"Elden Ring Talismans","nexusFileVersion":"1.1.1.2","nexusFileUploadedAt":1787454310,"pakFileName":"EldenRingTalismans_bb7c2e36-ca1d-4770-8923-9257a8bdf5e2.pak","nexusFileId":128764,"metaUuid":"bb7c2e36-ca1d-4770-8923-9257a8bdf5e2"},
-{"nexusFileName":"EldenRingPatch3","nexusFileVersion":"1.1.1.7","nexusFileUploadedAt":1788321900,"pakFileName":"EldenRingTalismans_bb7c2e36-ca1d-4770-8923-9257a8bdf5e2.pak","nexusFileId":129526,"metaUuid":"bb7c2e36-ca1d-4770-8923-9257a8bdf5e2"}
+{"nexusFileName":"EldenRingPatch3","nexusFileVersion":"1.1.1.8","nexusFileUploadedAt":1788327663,"pakFileName":"EldenRingTalismans_bb7c2e36-ca1d-4770-8923-9257a8bdf5e2.pak","nexusFileId":129530,"metaUuid":"bb7c2e36-ca1d-4770-8923-9257a8bdf5e2"}
 ]},
 "24583":{"nexusModName":"A Well-Dressed Party - Customize Companion Epilogue Outfits","nexusUploadedBy":"Seristina","nexusModId":24583,"paks":[
 {"nexusFileName":"CompanionEpilogueWardrobe","nexusFileVersion":"2","nexusFileUploadedAt":1787880974,"pakFileName":"CompanionEpilogueWardrobe_plus_underwear.pak","nexusFileId":129188,"metaUuid":"6c2e10f3-c7cc-4c72-b7b0-124813afcef0"},
 {"nexusFileName":"Comp_Epi Acquisition Patch - Tut_Chest Fytz Carmen","nexusFileVersion":"1","nexusFileUploadedAt":1788205870,"pakFileName":"CompanionEpilogueWardrobe_plus_underwear_tut_vendor_patch.pak","nexusFileId":129463,"metaUuid":"5b7594a1-72e6-4c64-a1bc-91b8913528f4"}
 ]},
 "24584":{"nexusModName":"SummerBeach_TheFirstDescendant_BunnyOasisParty","nexusUploadedBy":"EvilRecluse","nexusModId":24584,"paks":[
-{"nexusFileName":"SummerBeach TheFirstDescendant BunnyOasisParty","nexusFileVersion":"1","nexusFileUploadedAt":1787457736,"pakFileName":"SummerBeach_TheFirstDescendant_BunnyOasisParty.pak","nexusFileId":128774,"metaUuid":"1719657b-f2d7-43e4-96de-72ae0982bfb0"}
+{"nexusFileName":"SummerBeach TheFirstDescendant BunnyOasisParty","nexusFileVersion":"2","nexusFileUploadedAt":1788324870,"pakFileName":"SummerBeach_TheFirstDescendant_BunnyOasisParty.pak","nexusFileId":129527,"metaUuid":"1719657b-f2d7-43e4-96de-72ae0982bfb0"}
 ]},
 "24585":{"nexusModName":"Nova Dress - BT1 outfit","nexusUploadedBy":"clloudiie","nexusModId":24585,"paks":[
 {"nexusFileName":"Nova Dress","nexusFileVersion":"1","nexusFileUploadedAt":1787473831,"pakFileName":"CLD_Nova2_ed81607d-0a21-7f74-6ec8-96c164795d31.pak","nexusFileId":128779,"metaUuid":"ed81607d-0a21-7f74-6ec8-96c164795d31"}
@@ -69376,4 +69376,10 @@
 ]},
 "24754":{"nexusModName":"Daisy (Dream Guardian) Morph Mod","nexusUploadedBy":"SerpentineShel","nexusModId":24754,"paks":[
 {"nexusFileName":"DaisyAppearanceMorph 1.0.0","nexusFileVersion":"1","nexusFileUploadedAt":1788316681,"pakFileName":"DaisyAppearanceMorph.pak","nexusFileId":129524,"metaUuid":null}
+]},
+"24755":{"nexusModName":"Noxx's Black Rose Greatsword","nexusUploadedBy":"Prednoxx","nexusModId":24755,"paks":[
+{"nexusFileName":"Noxx's Greatsword","nexusFileVersion":"1","nexusFileUploadedAt":1788327043,"pakFileName":"NoxxsGreatsword_275e0232-5d33-4f0d-8def-b91930f1643f.pak","nexusFileId":129528,"metaUuid":null}
+]},
+"24756":{"nexusModName":"Shion's Oni Arsenal - Gorikimaru and Oni Sovereign","nexusUploadedBy":"Prednoxx","nexusModId":24756,"paks":[
+{"nexusFileName":"Shion's Oni Greatsword","nexusFileVersion":"1","nexusFileUploadedAt":1788327285,"pakFileName":"ShionsOniGreatsword_e9b5ec8c-e674-44e8-9283-353ec06a9b6f.pak","nexusFileId":129529,"metaUuid":null}
 ]}}
