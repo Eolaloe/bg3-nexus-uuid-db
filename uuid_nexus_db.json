@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-09-02T07:51:49.673207+00:00","total_mods":17465},
+{"_meta":{"last_run":"2026-09-02T08:52:26.477492+00:00","total_mods":17466},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -63607,7 +63607,7 @@
 {"nexusFileName":"ShadarKai ES","nexusFileVersion":"1","nexusFileUploadedAt":1777110901,"pakFileName":"ShadarKai_ES.pak","nexusFileId":119823,"metaUuid":null}
 ]},
 "22557":{"nexusModName":"Adventuring and Expansion of rest System","nexusUploadedBy":"JustAnotherHomoSapien","nexusModId":22557,"paks":[
-{"nexusFileName":"Apcs RestSystem","nexusFileVersion":"3.2","nexusFileUploadedAt":1785076844,"pakFileName":"apcs_RestSystem.pak","nexusFileId":126526,"metaUuid":null}
+{"nexusFileName":"Apcs RestSystem","nexusFileVersion":"4","nexusFileUploadedAt":1788338941,"pakFileName":"apcs_RestSystem.pak","nexusFileId":129541,"metaUuid":null}
 ]},
 "22558":{"nexusModName":"Ultimate Tactical AI Companions","nexusUploadedBy":"Vercadi","nexusModId":22558,"paks":[
 {"nexusFileName":"Ultimate Tactical AI Companions v1.1.3","nexusFileVersion":"1.1.3","nexusFileUploadedAt":1779117839,"pakFileName":"UTAC.pak","nexusFileId":121582,"metaUuid":"300fb883-8af8-4be9-a101-171b56698dc5"}
@@ -67766,7 +67766,7 @@
 {"nexusFileName":"CombatBodysuit EVA Asuka","nexusFileVersion":"1","nexusFileUploadedAt":1785567713,"pakFileName":"CombatBodysuit_EVA_Asuka.pak","nexusFileId":127019,"metaUuid":"97a4983f-85fa-4576-99be-72b0c727e1f5"}
 ]},
 "24209":{"nexusModName":"Carian Moon Sorcerer","nexusUploadedBy":"Prednoxx","nexusModId":24209,"paks":[
-{"nexusFileName":"CarianClass","nexusFileVersion":"1","nexusFileUploadedAt":1785572406,"pakFileName":"CarianMoonSorcery_v1.0.0.16.pak","nexusFileId":127021,"metaUuid":"2a5f226a-4066-4a41-843b-78c2c7a4e774"}
+{"nexusFileName":"CarianClassUpdate","nexusFileVersion":"2","nexusFileUploadedAt":1788338697,"pakFileName":"CarianMoonSorcery_2a5f226a-4066-4a41-843b-78c2c7a4e774.pak","nexusFileId":129540,"metaUuid":null}
 ]},
 "24210":{"nexusModName":"Noah Better Ai Companions","nexusUploadedBy":"iNoah","nexusModId":24210,"paks":[
 {"nexusFileName":"Noah Better Ai","nexusFileVersion":"1.6","nexusFileUploadedAt":1786139843,"pakFileName":"Noah_Better_Ai.pak","nexusFileId":127530,"metaUuid":"8e9c7fac-1c4f-4fe5-a715-3396618c57fe"}
@@ -69385,4 +69385,10 @@
 ]},
 "24757":{"nexusModName":"Warpblade","nexusUploadedBy":"jwjeff","nexusModId":24757,"paks":[
 {"nexusFileName":"Warpblade V1.12.0.0","nexusFileVersion":"1.12.0.0","nexusFileUploadedAt":1788331750,"pakFileName":"Warpblade.pak","nexusFileId":129536,"metaUuid":null}
+]},
+"24758":{"nexusModName":"Arachnid Monarch Class","nexusUploadedBy":"Prednoxx","nexusModId":24758,"paks":[
+{"nexusFileName":"Anti Arachnophobia Mod","nexusFileVersion":"1.9.0.3","nexusFileUploadedAt":1788335967,"pakFileName":"ArachnidPhaseMonarch_a956f1f9-f895-5b21-9738-6a53b027ed83.pak","nexusFileId":129537,"metaUuid":null}
+]},
+"24759":{"nexusModName":"Oath of Glory - Paladin Subclass Lv20 Expansion (Russian)","nexusUploadedBy":"North3n","nexusModId":24759,"paks":[
+{"nexusFileName":"Oath of Glory Russian ","nexusFileVersion":"2.0.3.1","nexusFileUploadedAt":1788338628,"pakFileName":"Oath_Glory_689f22b4-38e9-40a7-aa81-3d3e7ed8d38c_Russian_reviewed.pak","nexusFileId":129538,"metaUuid":null}
 ]}}
