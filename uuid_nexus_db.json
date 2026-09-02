@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-09-02T02:51:53.127130+00:00","total_mods":17459},
+{"_meta":{"last_run":"2026-09-02T03:52:00.184521+00:00","total_mods":17461},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -69364,4 +69364,16 @@
 ]},
 "24752":{"nexusModName":"Level 9 Hotbar Slots CHS","nexusUploadedBy":"TacticalCheeseRELX","nexusModId":24752,"paks":[
 {"nexusFileName":"Level 9 Hotbar Slots CHS V1.0","nexusFileVersion":"1","nexusFileUploadedAt":1788314403,"pakFileName":"Level_9_Hotbar_Slots_CHS V1.0.pak","nexusFileId":129521,"metaUuid":null}
+]},
+"24753":{"nexusModName":"Armory of Lathander's Chosen","nexusUploadedBy":"DorianNotGrey","nexusModId":24753,"paks":[
+{"nexusFileName":"Lathader's Armory","nexusFileVersion":"1","nexusFileUploadedAt":1788318322,"pakFileName":"Aegis of Sunrise.pak","nexusFileId":129525,"metaUuid":null},
+{"nexusFileName":"Lathader's Armory","nexusFileVersion":"1","nexusFileUploadedAt":1788318322,"pakFileName":"Cloak of Sunrise.pak","nexusFileId":129525,"metaUuid":null},
+{"nexusFileName":"Lathader's Armory","nexusFileVersion":"1","nexusFileUploadedAt":1788318322,"pakFileName":"Dawnbreaker.pak","nexusFileId":129525,"metaUuid":null},
+{"nexusFileName":"Lathader's Armory","nexusFileVersion":"1","nexusFileUploadedAt":1788318322,"pakFileName":"MorningLords Helm.pak","nexusFileId":129525,"metaUuid":null},
+{"nexusFileName":"Lathader's Armory","nexusFileVersion":"1","nexusFileUploadedAt":1788318322,"pakFileName":"Plate of the Champion.pak","nexusFileId":129525,"metaUuid":null},
+{"nexusFileName":"Lathader's Armory","nexusFileVersion":"1","nexusFileUploadedAt":1788318322,"pakFileName":"Sanitatem Solis Gauntlets.pak","nexusFileId":129525,"metaUuid":null},
+{"nexusFileName":"Lathader's Armory","nexusFileVersion":"1","nexusFileUploadedAt":1788318322,"pakFileName":"Talaria Boots.pak","nexusFileId":129525,"metaUuid":null}
+]},
+"24754":{"nexusModName":"Daisy (Dream Guardian) Morph Mod","nexusUploadedBy":"SerpentineShel","nexusModId":24754,"paks":[
+{"nexusFileName":"DaisyAppearanceMorph 1.0.0","nexusFileVersion":"1","nexusFileUploadedAt":1788316681,"pakFileName":"DaisyAppearanceMorph.pak","nexusFileId":129524,"metaUuid":null}
 ]}}
