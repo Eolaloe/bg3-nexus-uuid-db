@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-09-02T10:52:37.743705+00:00","total_mods":17466},
+{"_meta":{"last_run":"2026-09-02T11:52:21.190317+00:00","total_mods":17468},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -66804,7 +66804,7 @@
 {"nexusFileName":"steelroserapier","nexusFileVersion":"1.1.0.2","nexusFileUploadedAt":1784545216,"pakFileName":"SteelRoseRapier_6d4048e2-74e6-f8d8-a11e-b14e0984795f.pak","nexusFileId":126071,"metaUuid":"6d4048e2-74e6-f8d8-a11e-b14e0984795f"}
 ]},
 "23840":{"nexusModName":"Darker Urge - Roll to Resist Your Fate","nexusUploadedBy":"RevolutionScribe","nexusModId":23840,"paks":[
-{"nexusFileName":"Darker Urge","nexusFileVersion":"1.0.0.10","nexusFileUploadedAt":1787772573,"pakFileName":"DarkerUrge_1.0.0.10.pak","nexusFileId":129117,"metaUuid":"df43f64e-685a-4c94-38fe-9d422c53fb69"}
+{"nexusFileName":"DarkerUrge 1.0.0.11","nexusFileVersion":"1.0.0.11","nexusFileUploadedAt":1788349045,"pakFileName":"DarkerUrge_1.0.0.11.pak","nexusFileId":129547,"metaUuid":null}
 ]},
 "23841":{"nexusModName":"Witcher 3 - Syanna's Gear","nexusUploadedBy":"westhavian","nexusModId":23841,"paks":[
 {"nexusFileName":"WM SyannaOutfit","nexusFileVersion":"2","nexusFileUploadedAt":1784068569,"pakFileName":"WM_SyannaOutfit_60c27a06-db52-3ca3-571e-68f93b7c8175.pak","nexusFileId":125657,"metaUuid":"60c27a06-db52-3ca3-571e-68f93b7c8175"}
@@ -69391,4 +69391,10 @@
 ]},
 "24759":{"nexusModName":"Oath of Glory - Paladin Subclass Lv20 Expansion (Russian)","nexusUploadedBy":"North3n","nexusModId":24759,"paks":[
 {"nexusFileName":"Oath of Glory Russian ","nexusFileVersion":"2.0.3.1","nexusFileUploadedAt":1788338628,"pakFileName":"Oath_Glory_689f22b4-38e9-40a7-aa81-3d3e7ed8d38c_Russian_reviewed.pak","nexusFileId":129538,"metaUuid":null}
+]},
+"24760":{"nexusModName":"Unlocked Trajectory","nexusUploadedBy":"wildrabbet","nexusModId":24760,"paks":[
+{"nexusFileName":"RabbetTrajectory","nexusFileVersion":"1","nexusFileUploadedAt":1788348046,"pakFileName":"RabbetKnockback.pak","nexusFileId":129545,"metaUuid":null}
+]},
+"24761":{"nexusModName":"Occultist Class (Blue Mage) Russian","nexusUploadedBy":"North3n","nexusModId":24761,"paks":[
+{"nexusFileName":"DBlueMage Russian Reviewed","nexusFileVersion":"1.7","nexusFileUploadedAt":1788347162,"pakFileName":"DBlueMage_Russian_reviewed.pak","nexusFileId":129544,"metaUuid":null}
 ]}}
