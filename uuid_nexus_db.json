@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-09-02T19:53:02.188779+00:00","total_mods":17467},
+{"_meta":{"last_run":"2026-09-02T20:52:50.592215+00:00","total_mods":17467},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -22006,9 +22006,9 @@
 {"nexusFileName":"Amanda Head for Drow and Elves","nexusFileVersion":"1.0","nexusFileUploadedAt":1709376908,"pakFileName":"amanda ELF DROW.pak","nexusFileId":47692,"metaUuid":"b024b21c-db6b-4ba5-86c2-2322d4f43b4c"}
 ]},
 "7248":{"nexusModName":"No Annoying VFX (visual effects)","nexusUploadedBy":"Doppeltganger","nexusModId":7248,"paks":[
-{"nexusFileName":"No Annoying VFX (darkvision)","nexusFileVersion":"1.08","nexusFileUploadedAt":1710271627,"pakFileName":"NoAnnoyingVFX-darkvision.pak","nexusFileId":49664,"metaUuid":"e3264097-643f-41d9-a54a-7445592331fd"},
-{"nexusFileName":"No Annoying VFX (light spell)","nexusFileVersion":"1.08","nexusFileUploadedAt":1710271719,"pakFileName":"NoAnnoyingVFX-light.pak","nexusFileId":49665,"metaUuid":"3978f9d5-6a06-4021-938a-2fb34f385e0c"},
-{"nexusFileName":"No Annoying VFX (ui)","nexusFileVersion":"1.08","nexusFileUploadedAt":1710271936,"pakFileName":"NoAnnoyingVFX-ui.pak","nexusFileId":49666,"metaUuid":"6ef14768-5cd1-4b6d-ac70-109126b1dc31"},
+{"nexusFileName":"No Annoying VFX add-on (darkvision)","nexusFileVersion":"1.08","nexusFileUploadedAt":1710271627,"pakFileName":"NoAnnoyingVFX-darkvision.pak","nexusFileId":49664,"metaUuid":"e3264097-643f-41d9-a54a-7445592331fd"},
+{"nexusFileName":"No Annoying VFX add-on (light spell)","nexusFileVersion":"1.08","nexusFileUploadedAt":1710271719,"pakFileName":"NoAnnoyingVFX-light.pak","nexusFileId":49665,"metaUuid":"3978f9d5-6a06-4021-938a-2fb34f385e0c"},
+{"nexusFileName":"No Annoying VFX add-on (ui)","nexusFileVersion":"1.08","nexusFileUploadedAt":1710271936,"pakFileName":"NoAnnoyingVFX-ui.pak","nexusFileId":49666,"metaUuid":"6ef14768-5cd1-4b6d-ac70-109126b1dc31"},
 {"nexusFileName":"No Annoying VFX (armor)","nexusFileVersion":"1.14","nexusFileUploadedAt":1772442975,"pakFileName":"NoAnnoyingVFX-armor.pak","nexusFileId":115889,"metaUuid":"de58c909-7a6b-41f5-92df-5b7138be8da1"},
 {"nexusFileName":"No Annoying VFX (armor-lite)","nexusFileVersion":"1.14","nexusFileUploadedAt":1772443011,"pakFileName":"NoAnnoyingVFX-armor_lite.pak","nexusFileId":115891,"metaUuid":"de58c909-7a6b-41f5-92df-5b7138be8da1"},
 {"nexusFileName":"No Annoying VFX (active)","nexusFileVersion":"1.15","nexusFileUploadedAt":1773521659,"pakFileName":"NoAnnoyingVFX-active.pak","nexusFileId":116750,"metaUuid":"90f7b39e-c1f3-4cb7-97af-7e145065cef2"},
@@ -22016,7 +22016,8 @@
 {"nexusFileName":"No Annoying VFX (weapons-lite)","nexusFileVersion":"1.15","nexusFileUploadedAt":1773521694,"pakFileName":"NoAnnoyingVFX-weapons_light.pak","nexusFileId":116752,"metaUuid":"deb2d267-1655-4aa7-9e47-1ec8de2f8d0f"},
 {"nexusFileName":"No Annoying VFX (passive long-term)","nexusFileVersion":"1.16","nexusFileUploadedAt":1788111811,"pakFileName":"NoAnnoyingVFX-passive_long.pak","nexusFileId":129367,"metaUuid":"75a66c6b-be9c-406b-b787-e90baa76383c"},
 {"nexusFileName":"No Annoying VFX (passive short-term)","nexusFileVersion":"1.17","nexusFileUploadedAt":1788293442,"pakFileName":"NoAnnoyingVFX-passive_short.pak","nexusFileId":129507,"metaUuid":"1a79b9c5-6e4f-4de4-8d26-09eaa3eefc53"},
-{"nexusFileName":"No Annoying VFX (passive)","nexusFileVersion":"1.17","nexusFileUploadedAt":1788293968,"pakFileName":"NoAnnoyingVFX-passive.pak","nexusFileId":129508,"metaUuid":"1a79b9c5-6e4f-4de4-8d26-09eaa3eefc53"}
+{"nexusFileName":"No Annoying VFX (passive)","nexusFileVersion":"1.17","nexusFileUploadedAt":1788293968,"pakFileName":"NoAnnoyingVFX-passive.pak","nexusFileId":129508,"metaUuid":"1a79b9c5-6e4f-4de4-8d26-09eaa3eefc53"},
+{"nexusFileName":"No Annoying VFX (aio)","nexusFileVersion":"1.17","nexusFileUploadedAt":1788380611,"pakFileName":"NoAnnoyingVFX.pak","nexusFileId":129559,"metaUuid":null}
 ]},
 "7249":{"nexusModName":"Immersive Lighting - Multi coloured Lights","nexusUploadedBy":"Shivero","nexusModId":7249,"paks":[
 {"nexusFileName":"Immersive_Lighting_SHV","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1709069323,"pakFileName":"Immersive_Lighting_SHV.pak","nexusFileId":46929,"metaUuid":"de07556f-880e-4561-bd4d-cb842db3eb33"}
