@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-09-03T22:52:35.738467+00:00","total_mods":17479},
+{"_meta":{"last_run":"2026-09-03T23:52:43.586202+00:00","total_mods":17479},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -1359,7 +1359,8 @@
 {"nexusFileName":"Undead Automation SE","nexusFileVersion":"1.00.01","nexusFileUploadedAt":1728831817,"pakFileName":"Animate Dead++ SE Automation.pak","nexusFileId":75195,"metaUuid":"1e8d77fd-ceff-4ebc-be68-9abb2d520a39"},
 {"nexusFileName":"Fix - Submod of ADPP and VS","nexusFileVersion":"1.00.05","nexusFileUploadedAt":1733459446,"pakFileName":"ADPPnVS Submod Fix.pak","nexusFileId":81184,"metaUuid":"a9fbfcea-ff68-4884-85cb-90c6086cce25"},
 {"nexusFileName":"Spell List Addon","nexusFileVersion":"1.06.00","nexusFileUploadedAt":1764814675,"pakFileName":"Animate Dead++ Spell List Addon.pak","nexusFileId":108810,"metaUuid":"7ea10fb3-ccd0-44dd-bda6-7e2fc8628fb7"},
-{"nexusFileName":"Necromancy Reanimated","nexusFileVersion":"1.42.10","nexusFileUploadedAt":1788374050,"pakFileName":"Necromancy Reanimated.pak","nexusFileId":129555,"metaUuid":"f323b958-b845-4c79-b139-d39570658fbb"}
+{"nexusFileName":"Corpse Requirement Toggle SE","nexusFileVersion":"1.00.00","nexusFileUploadedAt":1788478936,"pakFileName":"NR - Corpse Conservation Bill.pak","nexusFileId":129635,"metaUuid":null},
+{"nexusFileName":"Necromancy Reanimated","nexusFileVersion":"1.43.00","nexusFileUploadedAt":1788479238,"pakFileName":"Necromancy Reanimated.pak","nexusFileId":129639,"metaUuid":"f323b958-b845-4c79-b139-d39570658fbb"}
 ]},
 "644":{"nexusModName":"Approval Tweaks","nexusUploadedBy":"Koriik","nexusModId":644,"paks":[
 {"nexusFileName":"(Version A) Natural","nexusFileVersion":"1.2","nexusFileUploadedAt":1691612965,"pakFileName":"ApprovalTweaks.pak","nexusFileId":6160,"metaUuid":null},
@@ -31419,7 +31420,7 @@
 "10922":{"nexusModName":"Automated Summons","nexusUploadedBy":"actualsailorcat","nexusModId":10922,"paks":[
 {"nexusFileName":"Automated Summons SE Swarms","nexusFileVersion":"1.00.19","nexusFileUploadedAt":1757778288,"pakFileName":"Automated Summons SE Swarms.pak","nexusFileId":102678,"metaUuid":"c2d7b6b1-e329-4ce1-a609-2364f873c201"},
 {"nexusFileName":"Automated Summons","nexusFileVersion":"1.00.20","nexusFileUploadedAt":1783616745,"pakFileName":"Automated Summons.pak","nexusFileId":125288,"metaUuid":"89ad7046-e391-41c9-8670-f1b070c4c408"},
-{"nexusFileName":"Automated Summons SE","nexusFileVersion":"1.01.01","nexusFileUploadedAt":1788458586,"pakFileName":"Automated Summons SE.pak","nexusFileId":129619,"metaUuid":"7b5ed0e6-94fe-40e8-842d-f65f4ed25f05"}
+{"nexusFileName":"Automated Summons SE","nexusFileVersion":"1.01.02","nexusFileUploadedAt":1788476569,"pakFileName":"Automated Summons SE.pak","nexusFileId":129632,"metaUuid":"7b5ed0e6-94fe-40e8-842d-f65f4ed25f05"}
 ]},
 "10924":{"nexusModName":"5e Reckless Attack","nexusUploadedBy":"sumradagnoth8","nexusModId":10924,"paks":[
 {"nexusFileName":"RecklessAttack5e.zip","nexusFileVersion":"1.0.2.1","nexusFileUploadedAt":1731431036,"pakFileName":"RecklessAttack5e.pak","nexusFileId":78682,"metaUuid":"776e25bb-6128-479d-8923-089146901e46"},
@@ -57128,8 +57129,8 @@
 {"nexusFileName":"Battle Maneuvers PHB2024 Update","nexusFileVersion":"1.3.1","nexusFileUploadedAt":1787206931,"pakFileName":"BattleManeuversPHB2024_861e9235-2afe-8178-3626-761eac089367.pak","nexusFileId":128513,"metaUuid":"861e9235-2afe-8178-3626-761eac089367"}
 ]},
 "20279":{"nexusModName":"Whispering Blood Remastered","nexusUploadedBy":"Alradium","nexusModId":20279,"paks":[
-{"nexusFileName":"Whispering Blood Remastered","nexusFileVersion":"1.2.1","nexusFileUploadedAt":1785953674,"pakFileName":"WhisperingBloodRemaster_121130de-b769-17e6-07be-a34a7071f372.pak","nexusFileId":127382,"metaUuid":"121130de-b769-17e6-07be-a34a7071f372"},
-{"nexusFileName":"WhisperingBloodRemaster Lvl12 Condensed Ver","nexusFileVersion":"1.2.1","nexusFileUploadedAt":1786465004,"pakFileName":"WhisperingBloodRemaster_121130de-b769-17e6-07be-a34a7071f372.pak","nexusFileId":127860,"metaUuid":"121130de-b769-17e6-07be-a34a7071f372"}
+{"nexusFileName":"Whispering Blood Remastered","nexusFileVersion":"1.2.2","nexusFileUploadedAt":1788478520,"pakFileName":"WhisperingBloodRemaster_121130de-b769-17e6-07be-a34a7071f372.pak","nexusFileId":129634,"metaUuid":"121130de-b769-17e6-07be-a34a7071f372"},
+{"nexusFileName":"WhisperingBloodRemaster Lvl12 Condensed Ver","nexusFileVersion":"1.2.2","nexusFileUploadedAt":1788479078,"pakFileName":"WhisperingBloodRemaster_121130de-b769-17e6-07be-a34a7071f372.pak","nexusFileId":129637,"metaUuid":"121130de-b769-17e6-07be-a34a7071f372"}
 ]},
 "20280":{"nexusModName":"chizfreak's Battle Maneuvers PHB2024 Update for Korean","nexusUploadedBy":"Eolaloe","nexusModId":20280,"paks":[
 {"nexusFileName":"Battle Maneuvers PHB2024 Update for Korean","nexusFileVersion":"1.3.1","nexusFileUploadedAt":1787480468,"pakFileName":"BattleManeuversPHB2024_kr.pak","nexusFileId":128802,"metaUuid":"0bbd39cb-db80-45d2-8ff6-b49d131890df"}
@@ -67705,8 +67706,8 @@
 {"nexusFileName":"P4 Custom Hairs","nexusFileVersion":"1.0.0.2","nexusFileUploadedAt":1785537306,"pakFileName":"P4_Custom_Hairs_b5beef0b-1598-13d6-35f5-adfc2c88a10a.pak","nexusFileId":126974,"metaUuid":"b5beef0b-1598-13d6-35f5-adfc2c88a10a"}
 ]},
 "24182":{"nexusModName":"Ring of Bloodstriding - Blood Puddle Teleportation and Buff","nexusUploadedBy":"jellysnakes","nexusModId":24182,"paks":[
-{"nexusFileName":"RingOfBloodstriding (No Cooldown)","nexusFileVersion":"1.0.1","nexusFileUploadedAt":1787255033,"pakFileName":"RingOfBloodstridingNoCooldown.pak","nexusFileId":128569,"metaUuid":"1ed7bd52-10af-fcee-d677-c78a65597795"},
-{"nexusFileName":"RingOfBloodstriding (Short Rest version)","nexusFileVersion":"1.0.1","nexusFileUploadedAt":1787255289,"pakFileName":"RingOfBloodstriding.pak","nexusFileId":128570,"metaUuid":"1ed7bd52-10af-fcee-d677-c78a65597795"}
+{"nexusFileName":"RingOfBloodstriding (Short Rest version)","nexusFileVersion":"1.0.2","nexusFileUploadedAt":1788479036,"pakFileName":"RingOfBloodstriding.pak","nexusFileId":129636,"metaUuid":"1ed7bd52-10af-fcee-d677-c78a65597795"},
+{"nexusFileName":"RingOfBloodstriding (No Cooldown)","nexusFileVersion":"1.0.2","nexusFileUploadedAt":1788479181,"pakFileName":"RingOfBloodstridingNoCooldown.pak","nexusFileId":129638,"metaUuid":"1ed7bd52-10af-fcee-d677-c78a65597795"}
 ]},
 "24184":{"nexusModName":"Formal Drider Outfit","nexusUploadedBy":"Lyniara","nexusModId":24184,"paks":[
 {"nexusFileName":"Formal Drider Outfit","nexusFileVersion":"1.0","nexusFileUploadedAt":1785518755,"pakFileName":"LynFormalDrider.pak","nexusFileId":126934,"metaUuid":"223c4ccb-3abb-4aef-ae2e-acd9b8e1eb92"}
@@ -69329,8 +69330,8 @@
 ]},
 "24733":{"nexusModName":"Alucard's Legacy","nexusUploadedBy":"Heathcliff805","nexusModId":24733,"paks":[
 {"nexusFileName":"SummonHotbarMemory 1.7 1","nexusFileVersion":"1","nexusFileUploadedAt":1788229159,"pakFileName":"SummonHotbarMemory.pak","nexusFileId":129475,"metaUuid":"b7e51a90-3c42-4d18-9f6b-2a7c5e10d833"},
-{"nexusFileName":"AlucardsLegacy expanded","nexusFileVersion":"2","nexusFileUploadedAt":1788424906,"pakFileName":"AlucardsLegacy.pak","nexusFileId":129592,"metaUuid":"a1c4d200-1e9a-4b77-9f31-6d2c8be51f01"},
-{"nexusFileName":"ResculptPersists 1.2","nexusFileVersion":"1","nexusFileUploadedAt":1788424975,"pakFileName":"ResculptPersists.pak","nexusFileId":129593,"metaUuid":null}
+{"nexusFileName":"ResculptPersists 1.2","nexusFileVersion":"1","nexusFileUploadedAt":1788424975,"pakFileName":"ResculptPersists.pak","nexusFileId":129593,"metaUuid":null},
+{"nexusFileName":"AlucardsLegacy expanded","nexusFileVersion":"3","nexusFileUploadedAt":1788477572,"pakFileName":"AlucardsLegacy.pak","nexusFileId":129633,"metaUuid":"a1c4d200-1e9a-4b77-9f31-6d2c8be51f01"}
 ]},
 "24734":{"nexusModName":"Mizora Joins Tweaks","nexusUploadedBy":"CosmicBovine","nexusModId":24734,"paks":[
 {"nexusFileName":"MizoraJoinsPatch","nexusFileVersion":"1","nexusFileUploadedAt":1788228502,"pakFileName":"MizoraJoinsPatch.pak","nexusFileId":129473,"metaUuid":"c0053edf-a2a1-4dd4-8449-6cbc96b30c88"}
