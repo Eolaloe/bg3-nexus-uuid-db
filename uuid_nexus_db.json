@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-09-03T11:53:14.402826+00:00","total_mods":17474},
+{"_meta":{"last_run":"2026-09-03T12:53:00.540818+00:00","total_mods":17474},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -30058,11 +30058,11 @@
 {"nexusFileName":"Dragonborn Breathweapon Buff JP","nexusFileVersion":"1.0","nexusFileUploadedAt":1718883012,"pakFileName":"dragonbornbuffJP.pak","nexusFileId":61556,"metaUuid":null}
 ]},
 "10431":{"nexusModName":"Mind Weaver Class","nexusUploadedBy":"zx10rx","nexusModId":10431,"paks":[
-{"nexusFileName":"Feat Every 2 Level","nexusFileVersion":"9.6.0","nexusFileUploadedAt":1782913828,"pakFileName":"MindWeaverFeatEver2Levels_5b684632-084a-b574-de3d-e1bd9878ef5f.pak","nexusFileId":124640,"metaUuid":"5b684632-084a-b574-de3d-e1bd9878ef5f"},
-{"nexusFileName":"Feat Every 1 Level","nexusFileVersion":"9.6.0","nexusFileUploadedAt":1782913856,"pakFileName":"MindWeaverFeatEver1Level_3891411f-cd58-510c-6352-e4b487e7961c.pak","nexusFileId":124641,"metaUuid":"3891411f-cd58-510c-6352-e4b487e7961c"},
-{"nexusFileName":"Extra Feat at Level 2","nexusFileVersion":"9.6.0","nexusFileUploadedAt":1782913879,"pakFileName":"MindWeaverClassExtraFeatAtLevel2_e6da3375-b9b7-245d-a390-438808525252.pak","nexusFileId":124642,"metaUuid":"e6da3375-b9b7-245d-a390-438808525252"},
-{"nexusFileName":"Mind Weaver Class","nexusFileVersion":"9.6.1","nexusFileUploadedAt":1782917025,"pakFileName":"MindWeaver_63d2a82d-84e1-05be-60a3-fffddbacfba8.pak","nexusFileId":124648,"metaUuid":"63d2a82d-84e1-05be-60a3-fffddbacfba8"},
-{"nexusFileName":"Custom Animations","nexusFileVersion":"9.6.2","nexusFileUploadedAt":1782986884,"pakFileName":"MindWeaverAnimations_08344bbe-80f1-bae4-88e7-6b5072b6a963.pak","nexusFileId":124709,"metaUuid":"08344bbe-80f1-bae4-88e7-6b5072b6a963"}
+{"nexusFileName":"Mind Weaver Class","nexusFileVersion":"9.6.2","nexusFileUploadedAt":1788439272,"pakFileName":"MindWeaver_63d2a82d-84e1-05be-60a3-fffddbacfba8.pak","nexusFileId":129598,"metaUuid":"63d2a82d-84e1-05be-60a3-fffddbacfba8"},
+{"nexusFileName":"Custom Animations","nexusFileVersion":"9.6.3","nexusFileUploadedAt":1788439292,"pakFileName":"MindWeaverAnimations_08344bbe-80f1-bae4-88e7-6b5072b6a963.pak","nexusFileId":129599,"metaUuid":"08344bbe-80f1-bae4-88e7-6b5072b6a963"},
+{"nexusFileName":"Extra Feat at Level 2","nexusFileVersion":"9.6.1","nexusFileUploadedAt":1788439313,"pakFileName":"MindWeaverClassExtraFeatAtLevel2_e6da3375-b9b7-245d-a390-438808525252.pak","nexusFileId":129600,"metaUuid":"e6da3375-b9b7-245d-a390-438808525252"},
+{"nexusFileName":"Feat Every 1 Level","nexusFileVersion":"9.6.1","nexusFileUploadedAt":1788439345,"pakFileName":"MindWeaverFeatEver1Level_3891411f-cd58-510c-6352-e4b487e7961c.pak","nexusFileId":129601,"metaUuid":"3891411f-cd58-510c-6352-e4b487e7961c"},
+{"nexusFileName":"Feat Every 2 Level","nexusFileVersion":"9.6.1","nexusFileUploadedAt":1788439358,"pakFileName":"MindWeaverFeatEver2Levels_5b684632-084a-b574-de3d-e1bd9878ef5f.pak","nexusFileId":129602,"metaUuid":"5b684632-084a-b574-de3d-e1bd9878ef5f"}
 ]},
 "10432":{"nexusModName":"Wretched Bloodline Russian Translation","nexusUploadedBy":"udrapatis","nexusModId":10432,"paks":[
 {"nexusFileName":"Wretched Bloodline Rus","nexusFileVersion":"1.0","nexusFileUploadedAt":1718889156,"pakFileName":"WretchedBloodlineRU.pak","nexusFileId":61563,"metaUuid":null},
@@ -51705,8 +51705,9 @@
 {"nexusFileName":"Tritons","nexusFileVersion":"1","nexusFileUploadedAt":1757531914,"pakFileName":"Tritons_17ab1dc7-2e65-944a-5fc1-01ce5a55607d.pak","nexusFileId":102466,"metaUuid":"ed86267e-e984-4daf-8535-cefd8e99e33a"},
 {"nexusFileName":"Half-Tiefs - Flora and Fauna (Custom Horn Pack)","nexusFileVersion":"1","nexusFileUploadedAt":1757606854,"pakFileName":"HalfTiefsFloraFaunaPatch.pak","nexusFileId":102507,"metaUuid":"ed86267e-e984-4daf-8535-cefd8e99e33a"}
 ]},
-"18552":{"nexusModName":"Fox's Arcanist of Mystra Class","nexusUploadedBy":"kbrooks27","nexusModId":18552,"paks":[
-{"nexusFileName":"Foxxal's Arcanist Of Mystra 1.1","nexusFileVersion":"1.1","nexusFileUploadedAt":1757555085,"pakFileName":"Arcanist_28f03fc0-b0cd-8c50-1cda-845a3a22a251.pak","nexusFileId":102474,"metaUuid":"28f03fc0-b0cd-8c50-1cda-845a3a22a251"}
+"18552":{"nexusModName":"Fox's Arcanist of Mystra Class (Patch 8 compatible)","nexusUploadedBy":"kbrooks27","nexusModId":18552,"paks":[
+{"nexusFileName":"Arcanist 1.2.4","nexusFileVersion":"1.2.4","nexusFileUploadedAt":1757954135,"pakFileName":"Arcanist_28f03fc0-b0cd-8c50-1cda-845a3a22a251.pak","nexusFileId":102853,"metaUuid":"28f03fc0-b0cd-8c50-1cda-845a3a22a251"},
+{"nexusFileName":"Arcanist - Can Learn From Scrolls","nexusFileVersion":"1","nexusFileUploadedAt":1788437606,"pakFileName":"Arcanist_28f03fc0-b0cd-8c50-1cda-845a3a22a251.pak","nexusFileId":129597,"metaUuid":"28f03fc0-b0cd-8c50-1cda-845a3a22a251"}
 ]},
 "18554":{"nexusModName":"Halsin's New Look","nexusUploadedBy":"Khloii1","nexusModId":18554,"paks":[
 {"nexusFileName":"Halsin's New Look","nexusFileVersion":"3.1","nexusFileUploadedAt":1769613740,"pakFileName":"Halsin_New_Look_c515f525-0a9d-1fa6-7e5a-879c44d80832.pak","nexusFileId":113456,"metaUuid":"c515f525-0a9d-1fa6-7e5a-879c44d80832"}
