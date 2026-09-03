@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-09-03T02:52:10.671934+00:00","total_mods":17469},
+{"_meta":{"last_run":"2026-09-03T03:52:28.762613+00:00","total_mods":17470},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -66745,12 +66745,12 @@
 {"nexusFileName":"Sunset Dice (all in one)","nexusFileVersion":"1.1","nexusFileUploadedAt":1784321627,"pakFileName":"Vaporwave Dice.pak","nexusFileId":125865,"metaUuid":"488d829f-2414-418c-8aff-6d3a27d89f53"}
 ]},
 "23822":{"nexusModName":"Shared Bags for Your Party","nexusUploadedBy":"Eolaloe","nexusModId":23822,"paks":[
-{"nexusFileName":"Better Context Menu Patch","nexusFileVersion":"1.0.1.5","nexusFileUploadedAt":1784495077,"pakFileName":"SharedBags_BCMPatch.pak","nexusFileId":126031,"metaUuid":"fc63a4af-29d0-438b-bf28-101528e39512"},
-{"nexusFileName":"Better Inventory UI Patch","nexusFileVersion":"1.0.1.5","nexusFileUploadedAt":1784495086,"pakFileName":"SharedBags_BIUIPatch.pak","nexusFileId":126032,"metaUuid":"a9cde387-476e-43a7-a292-d9f96c817f99"},
-{"nexusFileName":"Better UI AiO Patch","nexusFileVersion":"1.0.1.5","nexusFileUploadedAt":1784495106,"pakFileName":"SharedBags_BTAIOPatch.pak","nexusFileId":126034,"metaUuid":"135b278b-c4f4-4351-8356-83d868a3bb40"},
-{"nexusFileName":"Better Context Menu Patch (x1.3)","nexusFileVersion":"1.0.1.6","nexusFileUploadedAt":1784737829,"pakFileName":"SharedBags_BCMPatch13.pak","nexusFileId":126228,"metaUuid":"9eb1ded1-a406-4b14-9d2c-aeb66ff41c91"},
-{"nexusFileName":"Better UI AiO Patch (x1.3)","nexusFileVersion":"1.0.1.6","nexusFileUploadedAt":1784737849,"pakFileName":"SharedBags_BTAIOPatch13.pak","nexusFileId":126229,"metaUuid":"b3debe79-b88c-431e-806c-1e89d0f9f4db"},
-{"nexusFileName":"Shared Bags for Your Party","nexusFileVersion":"1.0.7.0","nexusFileUploadedAt":1786293946,"pakFileName":"SharedBags.pak","nexusFileId":127708,"metaUuid":"b68a904f-fb57-4a64-a4bb-1e7cf264862f"}
+{"nexusFileName":"Better Inventory UI Patch","nexusFileVersion":"1.1.0.0","nexusFileUploadedAt":1788404448,"pakFileName":"SharedBags_BIUIPatch.pak","nexusFileId":129580,"metaUuid":"a9cde387-476e-43a7-a292-d9f96c817f99"},
+{"nexusFileName":"Better Context Menu Patch (x1.3)","nexusFileVersion":"1.1.0.0","nexusFileUploadedAt":1788404469,"pakFileName":"SharedBags_BCMPatch13.pak","nexusFileId":129581,"metaUuid":"9eb1ded1-a406-4b14-9d2c-aeb66ff41c91"},
+{"nexusFileName":"Better Context Menu Patch","nexusFileVersion":"1.1.0.0","nexusFileUploadedAt":1788404485,"pakFileName":"SharedBags_BCMPatch.pak","nexusFileId":129582,"metaUuid":"fc63a4af-29d0-438b-bf28-101528e39512"},
+{"nexusFileName":"Better UI AiO Patch (x1.3)","nexusFileVersion":"1.1.0.0","nexusFileUploadedAt":1788404506,"pakFileName":"SharedBags_BTAIOPatch13.pak","nexusFileId":129583,"metaUuid":"b3debe79-b88c-431e-806c-1e89d0f9f4db"},
+{"nexusFileName":"Better UI AiO Patch","nexusFileVersion":"1.1.0.0","nexusFileUploadedAt":1788404517,"pakFileName":"SharedBags_BTAIOPatch.pak","nexusFileId":129584,"metaUuid":"135b278b-c4f4-4351-8356-83d868a3bb40"},
+{"nexusFileName":"Shared Bags for Your Party","nexusFileVersion":"1.1.0.0","nexusFileUploadedAt":1788404928,"pakFileName":"SharedBags.pak","nexusFileId":129585,"metaUuid":"b68a904f-fb57-4a64-a4bb-1e7cf264862f"}
 ]},
 "23823":{"nexusModName":"Shields Begone (Toggled)","nexusUploadedBy":"Cainhurtz","nexusModId":23823,"paks":[
 {"nexusFileName":"Shields Begone (Toggled)","nexusFileVersion":"10","nexusFileUploadedAt":1787495971,"pakFileName":"Fluck_Shields.pak","nexusFileId":128839,"metaUuid":"69615e25-b334-5f90-9732-f21dd2ea7f34"}
@@ -68107,7 +68107,7 @@
 {"nexusFileName":"Dancing Through Life","nexusFileVersion":"3","nexusFileUploadedAt":1786879890,"pakFileName":"Dancing_Through_Life_b5ad8c35-5018-5e5f-f686-7c86d4b31638.pak","nexusFileId":128206,"metaUuid":"b5ad8c35-5018-5e5f-f686-7c86d4b31638"}
 ]},
 "24369":{"nexusModName":"Auto-Sorting Hotbar (with Radial Wheel)","nexusUploadedBy":"Eolaloe","nexusModId":24369,"paks":[
-{"nexusFileName":"Auto-Sorting Hotbar","nexusFileVersion":"1.1.0.0","nexusFileUploadedAt":1787764598,"pakFileName":"hotbarsort.pak","nexusFileId":129068,"metaUuid":"27ed5bd3-edc0-4f87-9559-6624934945f8"}
+{"nexusFileName":"Auto-Sorting Hotbar","nexusFileVersion":"1.1.0.1","nexusFileUploadedAt":1788404180,"pakFileName":"hotbarsort.pak","nexusFileId":129578,"metaUuid":"27ed5bd3-edc0-4f87-9559-6624934945f8"}
 ]},
 "24370":{"nexusModName":"Ferrety's Features - Lycanthropy (PT-BR)","nexusUploadedBy":"Firetoga","nexusModId":24370,"paks":[
 {"nexusFileName":"Ferrety's Features - Lycanthropy (PT-BR)","nexusFileVersion":"1.0.5.0","nexusFileUploadedAt":1786409744,"pakFileName":"Ferrety's Features - Lycanthropy (Tradução PT-BR).pak","nexusFileId":127809,"metaUuid":null}
@@ -69393,6 +69393,9 @@
 ]},
 "24761":{"nexusModName":"Occultist Class (Blue Mage) Russian","nexusUploadedBy":"North3n","nexusModId":24761,"paks":[
 {"nexusFileName":"DBlueMage Russian Reviewed","nexusFileVersion":"1.7","nexusFileUploadedAt":1788347162,"pakFileName":"DBlueMage_Russian_reviewed.pak","nexusFileId":129544,"metaUuid":null}
+]},
+"24763":{"nexusModName":"Become Ascended - A Githyanki Knight Mod","nexusUploadedBy":"Zyren948","nexusModId":24763,"paks":[
+{"nexusFileName":"GithAscended","nexusFileVersion":"1","nexusFileUploadedAt":1788404442,"pakFileName":"GithAscended.pak","nexusFileId":129579,"metaUuid":null}
 ]},
 "24764":{"nexusModName":"Infernal Rapier Searing Smite","nexusUploadedBy":"Pyrexo","nexusModId":24764,"paks":[
 {"nexusFileName":"Infernal Rapier Searing Smite","nexusFileVersion":"1","nexusFileUploadedAt":1788376343,"pakFileName":"Infernal Rapier Searing Smite.pak","nexusFileId":129557,"metaUuid":null}
