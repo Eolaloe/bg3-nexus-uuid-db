@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-09-03T20:52:16.535045+00:00","total_mods":17477},
+{"_meta":{"last_run":"2026-09-03T21:52:55.343250+00:00","total_mods":17479},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -36043,7 +36043,7 @@
 ]},
 "12727":{"nexusModName":"DnD 5.5e All-in-One BEYOND","nexusUploadedBy":"yoonmoonsik43","nexusModId":12727,"paks":[
 {"nexusFileName":"dnd2024 - V3 Legacy","nexusFileVersion":"3.4.6.4","nexusFileUploadedAt":1771945305,"pakFileName":"DnD2024_897914ef-5c96-053c-44af-0be823f895fe.pak","nexusFileId":115523,"metaUuid":"897914ef-5c96-053c-44af-0be823f895fe"},
-{"nexusFileName":"DnD 5.5e All-in-One BEYOND","nexusFileVersion":"4.12.13.2","nexusFileUploadedAt":1788450218,"pakFileName":"DnD2024_897914ef-5c96-053c-44af-0be823f895fe.pak","nexusFileId":129611,"metaUuid":"897914ef-5c96-053c-44af-0be823f895fe"}
+{"nexusFileName":"DnD 5.5e All-in-One BEYOND","nexusFileVersion":"4.12.13.4","nexusFileUploadedAt":1788471369,"pakFileName":"DnD2024_897914ef-5c96-053c-44af-0be823f895fe.pak","nexusFileId":129628,"metaUuid":"897914ef-5c96-053c-44af-0be823f895fe"}
 ]},
 "12728":{"nexusModName":"Origin-Themed Headwear KR","nexusUploadedBy":"Soorawang","nexusModId":12728,"paks":[
 {"nexusFileName":"Origin-Themed Headwear KR","nexusFileVersion":"1.0","nexusFileUploadedAt":1727930331,"pakFileName":"OriginHeadwear_kr.pak","nexusFileId":73692,"metaUuid":null}
@@ -69422,8 +69422,16 @@
 "24777":{"nexusModName":"Shion's Oni Arsenal-CHS","nexusUploadedBy":"namelessman10086","nexusModId":24777,"paks":[
 {"nexusFileName":"ShionsOniGreatsword CHS","nexusFileVersion":"1","nexusFileUploadedAt":1788448495,"pakFileName":"ShionsOniGreatsword-CHS.pak","nexusFileId":129610,"metaUuid":null}
 ]},
+"24778":{"nexusModName":"Biomancer and Blood Cultist Original Classes (Russian)","nexusUploadedBy":"North3n","nexusModId":24778,"paks":[
+{"nexusFileName":"Biomancer and Blood Cultist Original Class","nexusFileVersion":"3.0.0","nexusFileUploadedAt":1788471136,"pakFileName":"BCM_BiomancerBloodCult_0cd91307-625e-ad26-e05a-df06ac1bd8fc_Russian_reviewed.pak","nexusFileId":129626,"metaUuid":null},
+{"nexusFileName":"Progression Lvl 20 Patch No-Dependency ","nexusFileVersion":"3.0.0","nexusFileUploadedAt":1788471226,"pakFileName":"BCM_Biomancer_Lvl20_588f3cac-4821-5ae9-1414-d4ff234c07c2_Russian_reviewed.pak","nexusFileId":129627,"metaUuid":null}
+]},
 "24779":{"nexusModName":"FaerunColors - Russian Translation","nexusUploadedBy":"SNKmod777","nexusModId":24779,"paks":[
 {"nexusFileName":"FaerunColors RU","nexusFileVersion":"1.0.0.3","nexusFileUploadedAt":1788452555,"pakFileName":"FaerunColors_RU.pak","nexusFileId":129612,"metaUuid":null}
+]},
+"24781":{"nexusModName":"Half-Orcs Use Strong Body ( bt3 bt4 half orc )","nexusUploadedBy":"commanderstrawberry","nexusModId":24781,"paks":[
+{"nexusFileName":"HalfOrcNormieBod -Horc animations","nexusFileVersion":"1","nexusFileUploadedAt":1788470538,"pakFileName":"HalfOrcNormieBod.pak","nexusFileId":129624,"metaUuid":null},
+{"nexusFileName":"HalfOrcNormieBod - Human Animations","nexusFileVersion":"1","nexusFileUploadedAt":1788470576,"pakFileName":"HalfOrcNormieBod.pak","nexusFileId":129625,"metaUuid":null}
 ]},
 "24782":{"nexusModName":"Fade's Equipment Distribution AIO CHS","nexusUploadedBy":"yangyangmeiiii","nexusModId":24782,"paks":[
 {"nexusFileName":"XFED AIO CHS","nexusFileVersion":"1.0.0.22","nexusFileUploadedAt":1788466358,"pakFileName":"xFED_AIO_CHS.pak","nexusFileId":129622,"metaUuid":null}
