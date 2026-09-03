@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-09-03T12:53:00.540818+00:00","total_mods":17474},
+{"_meta":{"last_run":"2026-09-03T13:52:48.190727+00:00","total_mods":17475},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -36047,8 +36047,7 @@
 {"nexusFileName":"Doom Armor - Main (2.0) ITA","nexusFileVersion":"2.1.1.0","nexusFileUploadedAt":1778476402,"pakFileName":"Doom Armor - Main - ITA.pak","nexusFileId":120944,"metaUuid":null}
 ]},
 "12727":{"nexusModName":"DnD 5.5e All-in-One BEYOND","nexusUploadedBy":"yoonmoonsik43","nexusModId":12727,"paks":[
-{"nexusFileName":"dnd2024 - V3 Legacy","nexusFileVersion":"3.4.6.4","nexusFileUploadedAt":1771945305,"pakFileName":"DnD2024_897914ef-5c96-053c-44af-0be823f895fe.pak","nexusFileId":115523,"metaUuid":"897914ef-5c96-053c-44af-0be823f895fe"},
-{"nexusFileName":"DnD 5.5e All-in-One BEYOND","nexusFileVersion":"4.12.12.0","nexusFileUploadedAt":1788403307,"pakFileName":"DnD2024_897914ef-5c96-053c-44af-0be823f895fe.pak","nexusFileId":129576,"metaUuid":"897914ef-5c96-053c-44af-0be823f895fe"}
+{"nexusFileName":"dnd2024 - V3 Legacy","nexusFileVersion":"3.4.6.4","nexusFileUploadedAt":1771945305,"pakFileName":"DnD2024_897914ef-5c96-053c-44af-0be823f895fe.pak","nexusFileId":115523,"metaUuid":"897914ef-5c96-053c-44af-0be823f895fe"}
 ]},
 "12728":{"nexusModName":"Origin-Themed Headwear KR","nexusUploadedBy":"Soorawang","nexusModId":12728,"paks":[
 {"nexusFileName":"Origin-Themed Headwear KR","nexusFileVersion":"1.0","nexusFileUploadedAt":1727930331,"pakFileName":"OriginHeadwear_kr.pak","nexusFileId":73692,"metaUuid":null}
@@ -53015,7 +53014,7 @@
 ]},
 "19027":{"nexusModName":"Oath of Glory - Paladin Subclass Lv20 Expansion","nexusUploadedBy":"Ahdarugo","nexusModId":19027,"paks":[
 {"nexusFileName":"OPTION) Aura of Alacrity range increased 3 to 6","nexusFileVersion":"1.2","nexusFileUploadedAt":1765143659,"pakFileName":"Oath_Glory_Aura_6_1e023724-8006-8223-438e-7207f444e729.pak","nexusFileId":109133,"metaUuid":"1e023724-8006-8223-438e-7207f444e729"},
-{"nexusFileName":"Oath of Glory - Paladin Subclass","nexusFileVersion":"2.0.3.1","nexusFileUploadedAt":1785259033,"pakFileName":"Oath_Glory_689f22b4-38e9-40a7-aa81-3d3e7ed8d38c.pak","nexusFileId":126676,"metaUuid":"689f22b4-38e9-40a7-aa81-3d3e7ed8d38c"}
+{"nexusFileName":"Oath of Glory - Paladin Subclass","nexusFileVersion":"2.0.3.2","nexusFileUploadedAt":1788440050,"pakFileName":"Oath_Glory_689f22b4-38e9-40a7-aa81-3d3e7ed8d38c.pak","nexusFileId":129603,"metaUuid":"689f22b4-38e9-40a7-aa81-3d3e7ed8d38c"}
 ]},
 "19028":{"nexusModName":"Heavy Weapons RAW","nexusUploadedBy":"MaxStrengthWizard","nexusModId":19028,"paks":[
 {"nexusFileName":"Heavy Weapons RAW Hybrid","nexusFileVersion":"1.4.8","nexusFileUploadedAt":1781693921,"pakFileName":"Heavy Weapons RAW Hybrid.pak","nexusFileId":123750,"metaUuid":"c2280d10-1be4-420c-9cf6-285d1e5d27a4"},
@@ -66463,8 +66462,8 @@
 "23726":{"nexusModName":"Aylin and Isobel Join the Party PTBR","nexusUploadedBy":"INinu","nexusModId":23726,"paks":[
 {"nexusFileName":"Aylin and Isobel Join the Party PTBR","nexusFileVersion":"1.0.1.5","nexusFileUploadedAt":1783275130,"pakFileName":"ww_aylinisobeljoinparty_ptbr_713f3afb-1fb8-dbda-b4b4-7ab2c431ce04.pak","nexusFileId":124965,"metaUuid":null}
 ]},
-"23727":{"nexusModName":"Character Creator Head and Hair Search (CCHHS) (by Serpentine)","nexusUploadedBy":"SerpentineShel","nexusModId":23727,"paks":[
-{"nexusFileName":"CCHHS   Head And Hair Search For CC V. 1. 0.0","nexusFileVersion":"1","nexusFileUploadedAt":1783276594,"pakFileName":"CCNS_HairHeadSearch.pak","nexusFileId":124970,"metaUuid":"a1f4c9e2-7b3d-4e8a-9c6f-2d5e8b1a4c70"}
+"23727":{"nexusModName":"Character Creator Head and Hair Search (CCHHS) (by SerpentineShel)","nexusUploadedBy":"SerpentineShel","nexusModId":23727,"paks":[
+{"nexusFileName":"CCHHS 1.1.0","nexusFileVersion":"1.1.0","nexusFileUploadedAt":1788440672,"pakFileName":"CCNS_HairHeadSearch.pak","nexusFileId":129605,"metaUuid":"a1f4c9e2-7b3d-4e8a-9c6f-2d5e8b1a4c70"}
 ]},
 "23728":{"nexusModName":"Westeros Accessories (with physics)","nexusUploadedBy":"Elledwyn","nexusModId":23728,"paks":[
 {"nexusFileName":"Westeros Accessories","nexusFileVersion":"1.0.0.9","nexusFileUploadedAt":1783279455,"pakFileName":"Westeros_Accessories_160bf329-a4ce-a2c1-4bd6-573c0d0b3919.pak","nexusFileId":124976,"metaUuid":"160bf329-a4ce-a2c1-4bd6-573c0d0b3919"}
@@ -69349,7 +69348,7 @@
 ]},
 "24741":{"nexusModName":"Oath of the Open Sea - Paladin Subclass (ENG-KOR)","nexusUploadedBy":"Ahdarugo","nexusModId":24741,"paks":[
 {"nexusFileName":"Oath Of The Open Sea   Aura Increase 3 To 6","nexusFileVersion":"1.0.0.1","nexusFileUploadedAt":1788278872,"pakFileName":"OathOfTheOpenSeaAddOn_81ce9cd4-30cc-423d-1f81-d797e683fd31.pak","nexusFileId":129497,"metaUuid":null},
-{"nexusFileName":"Oath Of The Open Sea - Paladin Subclass","nexusFileVersion":"1.1.0.2","nexusFileUploadedAt":1788328336,"pakFileName":"OathOfTheOpenSea_07bd11f1-fb48-96ad-56e3-2c0abe7da0b1.pak","nexusFileId":129531,"metaUuid":null}
+{"nexusFileName":"Oath Of The Open Sea - Paladin Subclass","nexusFileVersion":"1.1.0.4","nexusFileUploadedAt":1788442775,"pakFileName":"OathOfTheOpenSea_07bd11f1-fb48-96ad-56e3-2c0abe7da0b1.pak","nexusFileId":129607,"metaUuid":null}
 ]},
 "24742":{"nexusModName":"Custom Smart Containers","nexusUploadedBy":"joow92","nexusModId":24742,"paks":[
 {"nexusFileName":"CustomSmartContainers","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1788283412,"pakFileName":"CustomSmartContainers.pak","nexusFileId":129499,"metaUuid":"fb08d177-db10-46a1-8da4-bc51a94de5b4"}
@@ -69419,4 +69418,7 @@
 ]},
 "24774":{"nexusModName":"Astarion Vampire Bite Plus","nexusUploadedBy":"swissfred","nexusModId":24774,"paks":[
 {"nexusFileName":"Astarion Vampire Bite Plus","nexusFileVersion":"2.0.8.0","nexusFileUploadedAt":1788432106,"pakFileName":"AstarionVampireBitePlus_e09243e0-782e-892b-ae40-2449e9319994.pak","nexusFileId":129596,"metaUuid":null}
+]},
+"24776":{"nexusModName":"Arachnid Monarch Class Russian Translation","nexusUploadedBy":"Shiwaru","nexusModId":24776,"paks":[
+{"nexusFileName":"ArachnidPhaseMonarch Rus","nexusFileVersion":"1.0.9.3","nexusFileUploadedAt":1788440431,"pakFileName":"ArachnidPhaseMonarch_Rus.pak","nexusFileId":129604,"metaUuid":null}
 ]}}
