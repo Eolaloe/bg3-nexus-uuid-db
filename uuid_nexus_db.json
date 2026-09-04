@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-09-04T21:52:14.806472+00:00","total_mods":17497},
+{"_meta":{"last_run":"2026-09-04T22:52:40.484084+00:00","total_mods":17499},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -17520,7 +17520,7 @@
 {"nexusFileName":"Featsextra CH Standalone localization Pak","nexusFileVersion":"1.1.11.3","nexusFileUploadedAt":1742283591,"pakFileName":"_FeatsextraStandalone.pak","nexusFileId":87452,"metaUuid":null}
 ]},
 "5552":{"nexusModName":"Absolute Wrath","nexusUploadedBy":"Grimpreacher","nexusModId":5552,"paks":[
-{"nexusFileName":"Absolute Wrath","nexusFileVersion":"3.1.1","nexusFileUploadedAt":1788557568,"pakFileName":"AbsoluteWrath.pak","nexusFileId":129722,"metaUuid":"9010c099-c1e7-4ea8-8990-a883d6814975"}
+{"nexusFileName":"Absolute Wrath","nexusFileVersion":"3.1.1","nexusFileUploadedAt":1788560620,"pakFileName":"AbsoluteWrath.pak","nexusFileId":129724,"metaUuid":"9010c099-c1e7-4ea8-8990-a883d6814975"}
 ]},
 "5554":{"nexusModName":"Learn Brutal-Improved Critical","nexusUploadedBy":"BitterPast","nexusModId":5554,"paks":[
 {"nexusFileName":"Learn Brutal and Improved Critical","nexusFileVersion":"1.0.1","nexusFileUploadedAt":1706657229,"pakFileName":"LearnBrutalImprovedCritical.pak","nexusFileId":42521,"metaUuid":"150b4bf4-d065-40bc-b747-9384b01da16b"},
@@ -64075,6 +64075,9 @@
 "22744":{"nexusModName":"Mizora always joins Gather Your Allies","nexusUploadedBy":"koboldJuno","nexusModId":22744,"paks":[
 {"nexusFileName":"Mizora Gather Your Allies","nexusFileVersion":"1.0","nexusFileUploadedAt":1778160887,"pakFileName":"MizoraGatherYourAllies.pak","nexusFileId":120683,"metaUuid":"af6b4890-179f-4396-a3b6-3a9918e5f603"}
 ]},
+"22745":{"nexusModName":"Versace Luxury Swimsuit Collection","nexusUploadedBy":"VarisiaBG3","nexusModId":22745,"paks":[
+{"nexusFileName":"Versace Luxury Swimsuit Collection","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1787345802,"pakFileName":"VBG3_Versace_Swimsuits.pak","nexusFileId":128628,"metaUuid":null}
+]},
 "22746":{"nexusModName":"Ezuneo's Face Tendrils","nexusUploadedBy":"ezuneo","nexusModId":22746,"paks":[
 {"nexusFileName":"Ezuneo's Face Tendrils","nexusFileVersion":"1","nexusFileUploadedAt":1778169442,"pakFileName":"EZN_FaceTendrils_365489f1-40a8-45b9-a5f7-94c483a27e46.pak","nexusFileId":120691,"metaUuid":"365489f1-40a8-45b9-a5f7-94c483a27e46"}
 ]},
@@ -67555,6 +67558,9 @@
 "24101":{"nexusModName":"Ranger and Light Domain Expanded","nexusUploadedBy":"qhrals8","nexusModId":24101,"paks":[
 {"nexusFileName":"Ranger And Light Domain Expanded","nexusFileVersion":"2","nexusFileUploadedAt":1785122536,"pakFileName":"Ranger and Light Domain Expanded1.1.pak","nexusFileId":126575,"metaUuid":"b0365305-fecc-d09e-54bb-afd832028353"}
 ]},
+"24102":{"nexusModName":"Random Combat Modifiers","nexusUploadedBy":"Kudir420","nexusModId":24102,"paks":[
+{"nexusFileName":"CombatModifiers","nexusFileVersion":"1","nexusFileUploadedAt":1785206885,"pakFileName":"CombatModifiers.pak","nexusFileId":126630,"metaUuid":null}
+]},
 "24103":{"nexusModName":"Steal My Heart and Let Love In","nexusUploadedBy":"SilverHawkeSings","nexusModId":24103,"paks":[
 {"nexusFileName":"Steal My Heart Pose Pack","nexusFileVersion":"1","nexusFileUploadedAt":1786045313,"pakFileName":"StealMyHeart_4ffede51-1daa-6ce2-9dd0-d66bb78df343.pak","nexusFileId":127456,"metaUuid":"4ffede51-1daa-6ce2-9dd0-d66bb78df343"}
 ]},
@@ -69274,7 +69280,7 @@
 {"nexusFileName":"Harmony","nexusFileVersion":"1.0R","nexusFileUploadedAt":1788117413,"pakFileName":"Harmony.pak","nexusFileId":129381,"metaUuid":"bda72461-d61a-231a-2d71-de79427cd734"}
 ]},
 "24710":{"nexusModName":"Fade's Equipment Distribution - Russian Translation","nexusUploadedBy":"SNKmod777","nexusModId":24710,"paks":[
-{"nexusFileName":"FED RU","nexusFileVersion":"1.0.0.1","nexusFileUploadedAt":1788116822,"pakFileName":"FED_RU.pak","nexusFileId":129379,"metaUuid":null}
+{"nexusFileName":"Fade's Equipment Distribution - FED RU","nexusFileVersion":"1.0.0.1","nexusFileUploadedAt":1788116822,"pakFileName":"FED_RU.pak","nexusFileId":129379,"metaUuid":null}
 ]},
 "24711":{"nexusModName":"Dialogue Class Tag Selector","nexusUploadedBy":"marykerry02","nexusModId":24711,"paks":[
 {"nexusFileName":"Dialogue Tag Selector","nexusFileVersion":"1","nexusFileUploadedAt":1788126618,"pakFileName":"DialogueTagSelector.pak","nexusFileId":129391,"metaUuid":"4c5219fd-dc75-466c-9cb5-109e36b8b7c4"}
@@ -69356,7 +69362,7 @@
 "24742":{"nexusModName":"Custom Smart Containers","nexusUploadedBy":"joow92","nexusModId":24742,"paks":[
 {"nexusFileName":"Custom Smart Containers","nexusFileVersion":"1.0.3","nexusFileUploadedAt":1788556172,"pakFileName":"CustomSmartContainers.pak","nexusFileId":129720,"metaUuid":"fb08d177-db10-46a1-8da4-bc51a94de5b4"}
 ]},
-"24743":{"nexusModName":"Grove and Growl - Druid Equipment - Russian Translation (v1.0.0.19)","nexusUploadedBy":"SNKmod777","nexusModId":24743,"paks":[
+"24743":{"nexusModName":"Grove and Growl - Druid Equipment - Russian Translation","nexusUploadedBy":"SNKmod777","nexusModId":24743,"paks":[
 {"nexusFileName":"GG Druid Equipment RU","nexusFileVersion":"1.0.0.2","nexusFileUploadedAt":1788302097,"pakFileName":"GG_Druid_Equipment_RU.pak","nexusFileId":129515,"metaUuid":null}
 ]},
 "24744":{"nexusModName":"Lilac and gooseberries - Yennefer of Vengerberg's wardrobe","nexusUploadedBy":"yonhi","nexusModId":24744,"paks":[
