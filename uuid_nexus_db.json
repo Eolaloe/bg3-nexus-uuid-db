@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-09-04T13:52:23.620857+00:00","total_mods":17488},
+{"_meta":{"last_run":"2026-09-04T14:52:16.565259+00:00","total_mods":17490},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -44297,7 +44297,7 @@
 {"nexusFileName":"More Heads for Flutter and Whimsy - UTAV - EOTB","nexusFileVersion":"1.1.0","nexusFileUploadedAt":1745074002,"pakFileName":"CedastarionsFairies - EOTB - UTAV.pak","nexusFileId":89698,"metaUuid":"c1a872c6-7804-4d29-95fd-fd2986b242e1"}
 ]},
 "15889":{"nexusModName":"Vestments of the Faithful_KOR","nexusUploadedBy":"Ahdarugo","nexusModId":15889,"paks":[
-{"nexusFileName":"Vestments of the Faithful_KOR","nexusFileVersion":"6.0.0.3","nexusFileUploadedAt":1788073319,"pakFileName":"VestmentsOfTheFaithful_KOR.pak","nexusFileId":129318,"metaUuid":"e908525c-8f37-4d7d-828d-0f310b3652a9"}
+{"nexusFileName":"Vestments of the Faithful_KOR","nexusFileVersion":"6.0.0.5","nexusFileUploadedAt":1788530455,"pakFileName":"VestmentsOfTheFaithful_KOR.pak","nexusFileId":129672,"metaUuid":"e908525c-8f37-4d7d-828d-0f310b3652a9"}
 ]},
 "15890":{"nexusModName":"Punch Drunk Bastard Monk Weapon","nexusUploadedBy":"Plumegnis","nexusModId":15890,"paks":[
 {"nexusFileName":"Punch Drunk Bastard Quarterstaff","nexusFileVersion":"0.01","nexusFileUploadedAt":1745077345,"pakFileName":"Punch_Drunk_Bastard_Monk_1af326a4-da07-f545-1b71-254a67cea0bc.pak","nexusFileId":89709,"metaUuid":"1af326a4-da07-f545-1b71-254a67cea0bc"}
@@ -68831,6 +68831,9 @@
 "24534":{"nexusModName":"Wavemother Astarion","nexusUploadedBy":"AgleafSdan","nexusModId":24534,"paks":[
 {"nexusFileName":"Wavemother Astarion","nexusFileVersion":"1","nexusFileUploadedAt":1787230749,"pakFileName":"Wavemother Astarion 阿斯代伦原始衣物替换海浪之母长袍.pak","nexusFileId":128537,"metaUuid":"f70fa2e9-bfbe-4e38-b941-90df5167ceba"}
 ]},
+"24538":{"nexusModName":"Filigree Wings","nexusUploadedBy":"OneEyeAskew","nexusModId":24538,"paks":[
+{"nexusFileName":"FiligreeWings","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1788075469,"pakFileName":"FiligreeWings.pak","nexusFileId":129319,"metaUuid":null}
+]},
 "24540":{"nexusModName":"Karlach's Better Starter Gear by AzazeL (Patch 8)","nexusUploadedBy":"AzazeLwasTaken","nexusModId":24540,"paks":[
 {"nexusFileName":"Addon - Tier 2 Equipment Start","nexusFileVersion":"1.0","nexusFileUploadedAt":1787426451,"pakFileName":"Aza_BSG_Karlach_T2_Start_Addon.pak","nexusFileId":128714,"metaUuid":"defc1362-8ed7-5f1f-9756-88508ef38e13"},
 {"nexusFileName":"Better Starting Gear (Karlach)","nexusFileVersion":"1.1.1.1","nexusFileUploadedAt":1787680810,"pakFileName":"Aza_BSG_Karlach_f065cd8c-f2ec-2af9-acf6-e63b4c1ca322.pak","nexusFileId":128989,"metaUuid":"f065cd8c-f2ec-2af9-acf6-e63b4c1ca322"}
@@ -69462,9 +69465,12 @@
 {"nexusFileName":"Scion Of The Three Russian","nexusFileVersion":"1.1.0.1","nexusFileUploadedAt":1788515246,"pakFileName":"ScionOfTheThree_bea74574-57da-e902-25ed-e5875d88679f_Russian_reviewed.pak","nexusFileId":129657,"metaUuid":null}
 ]},
 "24797":{"nexusModName":"Sandal Straightener","nexusUploadedBy":"tealrabbit19","nexusModId":24797,"paks":[
-{"nexusFileName":"Sandal Straightener","nexusFileVersion":"1","nexusFileUploadedAt":1788516163,"pakFileName":"SandalStraightener.pak","nexusFileId":129659,"metaUuid":null},
-{"nexusFileName":"Sandal Straightener for CSS Changelings","nexusFileVersion":"1","nexusFileUploadedAt":1788516207,"pakFileName":"SandalStraightenerCSSChangelings.pak","nexusFileId":129660,"metaUuid":null}
+{"nexusFileName":"Sandal Straightener for CSS Changelings","nexusFileVersion":"1","nexusFileUploadedAt":1788516207,"pakFileName":"SandalStraightenerCSSChangelings.pak","nexusFileId":129660,"metaUuid":null},
+{"nexusFileName":"Sandal Straightener","nexusFileVersion":"2","nexusFileUploadedAt":1788531593,"pakFileName":"SandalStraightener.pak","nexusFileId":129673,"metaUuid":null}
 ]},
 "24798":{"nexusModName":"Winter Walker Ranger Subclass (Russian)","nexusUploadedBy":"North3n","nexusModId":24798,"paks":[
 {"nexusFileName":"Winter Walker Russian","nexusFileVersion":"1.2","nexusFileUploadedAt":1788517212,"pakFileName":"WinterWalker_09e190c8-d449-b653-69fc-252bcad61e45_Russian_reviewed.pak","nexusFileId":129661,"metaUuid":null}
+]},
+"24801":{"nexusModName":"AegisClass-CHS","nexusUploadedBy":"namelessman10086","nexusModId":24801,"paks":[
+{"nexusFileName":"AegisClass CHS","nexusFileVersion":"1","nexusFileUploadedAt":1788532371,"pakFileName":"AegisClass-CHS.pak","nexusFileId":129674,"metaUuid":null}
 ]}}
