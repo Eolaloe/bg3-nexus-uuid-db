@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-09-04T06:52:46.074233+00:00","total_mods":17481},
+{"_meta":{"last_run":"2026-09-04T07:52:35.457065+00:00","total_mods":17482},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -69328,9 +69328,9 @@
 {"nexusFileName":"Final Line For Dark Urge","nexusFileVersion":"1","nexusFileUploadedAt":1788220671,"pakFileName":"FinalLineForDurge.pak","nexusFileId":129472,"metaUuid":"50f7e0ef-d815-47d8-a4d1-3a3b6f0037ad"}
 ]},
 "24733":{"nexusModName":"Alucard's Legacy","nexusUploadedBy":"Heathcliff805","nexusModId":24733,"paks":[
-{"nexusFileName":"SummonHotbarMemory 1.7 1","nexusFileVersion":"1","nexusFileUploadedAt":1788229159,"pakFileName":"SummonHotbarMemory.pak","nexusFileId":129475,"metaUuid":"b7e51a90-3c42-4d18-9f6b-2a7c5e10d833"},
 {"nexusFileName":"ResculptPersists 1.2","nexusFileVersion":"1","nexusFileUploadedAt":1788424975,"pakFileName":"ResculptPersists.pak","nexusFileId":129593,"metaUuid":null},
-{"nexusFileName":"AlucardsLegacy expanded","nexusFileVersion":"3","nexusFileUploadedAt":1788477572,"pakFileName":"AlucardsLegacy.pak","nexusFileId":129633,"metaUuid":"a1c4d200-1e9a-4b77-9f31-6d2c8be51f01"}
+{"nexusFileName":"AlucardsLegacy expanded","nexusFileVersion":"4","nexusFileUploadedAt":1788508029,"pakFileName":"AlucardsLegacy.pak","nexusFileId":129648,"metaUuid":"a1c4d200-1e9a-4b77-9f31-6d2c8be51f01"},
+{"nexusFileName":"SummonHotbarMemory ","nexusFileVersion":"2","nexusFileUploadedAt":1788508143,"pakFileName":"SummonHotbarMemory.pak","nexusFileId":129649,"metaUuid":"b7e51a90-3c42-4d18-9f6b-2a7c5e10d833"}
 ]},
 "24734":{"nexusModName":"Mizora Joins Tweaks","nexusUploadedBy":"CosmicBovine","nexusModId":24734,"paks":[
 {"nexusFileName":"MizoraJoinsPatch","nexusFileVersion":"1","nexusFileUploadedAt":1788228502,"pakFileName":"MizoraJoinsPatch.pak","nexusFileId":129473,"metaUuid":"c0053edf-a2a1-4dd4-8449-6cbc96b30c88"}
@@ -69444,4 +69444,7 @@
 ]},
 "24791":{"nexusModName":"Banite Deva Fix - KoboldJuno's More Enemies","nexusUploadedBy":"Keileon","nexusModId":24791,"paks":[
 {"nexusFileName":"RR JunoDevaFix","nexusFileVersion":"1","nexusFileUploadedAt":1788502709,"pakFileName":"RR_JunoDevaFix.pak","nexusFileId":129646,"metaUuid":null}
+]},
+"24792":{"nexusModName":"Night Domain Cleric Subclass (Russian)","nexusUploadedBy":"North3n","nexusModId":24792,"paks":[
+{"nexusFileName":"NightDomain Russian","nexusFileVersion":"1.1","nexusFileUploadedAt":1788507099,"pakFileName":"NightDomain_0e809008-995f-6d2b-a4bc-3ef61618d398_Russian_reviewed.pak","nexusFileId":129647,"metaUuid":null}
 ]}}
