@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-09-04T14:52:16.565259+00:00","total_mods":17490},
+{"_meta":{"last_run":"2026-09-04T15:52:15.419297+00:00","total_mods":17492},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -31419,7 +31419,7 @@
 "10922":{"nexusModName":"Automated Summons","nexusUploadedBy":"actualsailorcat","nexusModId":10922,"paks":[
 {"nexusFileName":"Automated Summons SE Swarms","nexusFileVersion":"1.00.19","nexusFileUploadedAt":1757778288,"pakFileName":"Automated Summons SE Swarms.pak","nexusFileId":102678,"metaUuid":"c2d7b6b1-e329-4ce1-a609-2364f873c201"},
 {"nexusFileName":"Automated Summons","nexusFileVersion":"1.00.20","nexusFileUploadedAt":1783616745,"pakFileName":"Automated Summons.pak","nexusFileId":125288,"metaUuid":"89ad7046-e391-41c9-8670-f1b070c4c408"},
-{"nexusFileName":"Automated Summons SE","nexusFileVersion":"1.01.02","nexusFileUploadedAt":1788476569,"pakFileName":"Automated Summons SE.pak","nexusFileId":129632,"metaUuid":"7b5ed0e6-94fe-40e8-842d-f65f4ed25f05"}
+{"nexusFileName":"Automated Summons SE","nexusFileVersion":"1.01.04","nexusFileUploadedAt":1788533705,"pakFileName":"Automated Summons SE.pak","nexusFileId":129678,"metaUuid":"7b5ed0e6-94fe-40e8-842d-f65f4ed25f05"}
 ]},
 "10924":{"nexusModName":"5e Reckless Attack","nexusUploadedBy":"sumradagnoth8","nexusModId":10924,"paks":[
 {"nexusFileName":"RecklessAttack5e.zip","nexusFileVersion":"1.0.2.1","nexusFileUploadedAt":1731431036,"pakFileName":"RecklessAttack5e.pak","nexusFileId":78682,"metaUuid":"776e25bb-6128-479d-8923-089146901e46"},
@@ -64644,7 +64644,7 @@
 {"nexusFileName":"Expansion (PT-BR)","nexusFileVersion":"1.7.3.10","nexusFileUploadedAt":1786312862,"pakFileName":"Expansion (Tradução PT-BR - 1.7.3.10).pak","nexusFileId":127725,"metaUuid":null}
 ]},
 "23013":{"nexusModName":"Dynamic Difficulty Scaling","nexusUploadedBy":"GraphicFade","nexusModId":23013,"paks":[
-{"nexusFileName":"Dynamic Difficulty Scaling","nexusFileVersion":"1.0.0.17","nexusFileUploadedAt":1787267046,"pakFileName":"DynamicDifficultyScaling_51c67d03-954d-67d8-d5ea-c3f04d7be8bb.pak","nexusFileId":128582,"metaUuid":"51c67d03-954d-67d8-d5ea-c3f04d7be8bb"}
+{"nexusFileName":"Dynamic Difficulty Scaling","nexusFileVersion":"1.0.0.19","nexusFileUploadedAt":1788535707,"pakFileName":"DynamicDifficultyScaling_51c67d03-954d-67d8-d5ea-c3f04d7be8bb.pak","nexusFileId":129681,"metaUuid":"51c67d03-954d-67d8-d5ea-c3f04d7be8bb"}
 ]},
 "23014":{"nexusModName":"Nyxra Head Preset","nexusUploadedBy":"manuliparoni","nexusModId":23014,"paks":[
 {"nexusFileName":"Nyxra Head","nexusFileVersion":"3","nexusFileUploadedAt":1780502899,"pakFileName":"Nyxra_head.pak","nexusFileId":122703,"metaUuid":"f4fd22be-7f21-4794-9e25-103bce19e414"}
@@ -67326,9 +67326,8 @@
 {"nexusFileName":"SGT_The Oaken Maiden_Young","nexusFileVersion":"1.1","nexusFileUploadedAt":1785333552,"pakFileName":"SGT_JaheiraEdit_801d16be-dca8-cdcb-72d3-6c41c312f62e.pak","nexusFileId":126751,"metaUuid":"801d16be-dca8-cdcb-72d3-6c41c312f62e"},
 {"nexusFileName":"SGT_The Oaken Maiden_Vanilla Colors","nexusFileVersion":"1.1","nexusFileUploadedAt":1785333684,"pakFileName":"SGT_JaheiraEdit_801d16be-dca8-cdcb-72d3-6c41c312f62e.pak","nexusFileId":126752,"metaUuid":"801d16be-dca8-cdcb-72d3-6c41c312f62e"},
 {"nexusFileName":"SGT_The Oaken Maiden_Young_Vanilla Hair","nexusFileVersion":"1.1","nexusFileUploadedAt":1785524106,"pakFileName":"SGT_JaheiraEdit_801d16be-dca8-cdcb-72d3-6c41c312f62e.pak","nexusFileId":126938,"metaUuid":"801d16be-dca8-cdcb-72d3-6c41c312f62e"},
-{"nexusFileName":"SGT_OakenMaiden_HAIR for CC","nexusFileVersion":"1.1","nexusFileUploadedAt":1785611206,"pakFileName":"SGT_OakenMaiden_Hair_1829aca3-13ca-4c30-eedb-a187fc15b7e0.pak","nexusFileId":127056,"metaUuid":"1829aca3-13ca-4c30-eedb-a187fc15b7e0"},
-{"nexusFileName":"SGT_OakenMaiden_HAIR for CC - Alternative","nexusFileVersion":"1","nexusFileUploadedAt":1786735298,"pakFileName":"SGT_OakenMaiden_HAIR_ALT_a54b4320-1281-00b6-d7c6-12cfdf71bfd5.pak","nexusFileId":128078,"metaUuid":"a54b4320-1281-00b6-d7c6-12cfdf71bfd5"},
-{"nexusFileName":"SGT_The Oaken Maiden - Hair Only","nexusFileVersion":"1","nexusFileUploadedAt":1787404492,"pakFileName":"SGT_TheOakenMaiden_HairOnly_b7425595-8d3a-92b9-4df8-13ee5e03098d.pak","nexusFileId":128693,"metaUuid":null}
+{"nexusFileName":"SGT_The Oaken Maiden - Hair Only","nexusFileVersion":"1","nexusFileUploadedAt":1787404492,"pakFileName":"SGT_TheOakenMaiden_HairOnly_b7425595-8d3a-92b9-4df8-13ee5e03098d.pak","nexusFileId":128693,"metaUuid":null},
+{"nexusFileName":"SGT_OakenMaiden_HAIR for CC","nexusFileVersion":"1.2","nexusFileUploadedAt":1788533848,"pakFileName":"Oaken Maiden - Autosnap hair.pak","nexusFileId":129679,"metaUuid":null}
 ]},
 "24031":{"nexusModName":"Aylin's Kintsugi for STAV","nexusUploadedBy":"EvilSnail0fDestruktion","nexusModId":24031,"paks":[
 {"nexusFileName":"STAVAylin","nexusFileVersion":"1.0.1","nexusFileUploadedAt":1785115104,"pakFileName":"STAVAylin.pak","nexusFileId":126568,"metaUuid":"869f6f17-3ea8-5e35-9b82-a1b7fc565a29"}
@@ -67973,7 +67972,7 @@
 {"nexusFileName":"Witches Cauldrons and Recipes","nexusFileVersion":"1","nexusFileUploadedAt":1786048078,"pakFileName":"Witches Cauldrons & Recipes.pak","nexusFileId":127461,"metaUuid":"b3ee1377-bc0d-4497-bd1c-42a07e568c0e"}
 ]},
 "24310":{"nexusModName":"Sweet Little Hair Pack Vol.2","nexusUploadedBy":"SweetGenerousThing","nexusModId":24310,"paks":[
-{"nexusFileName":"SweetLittleHairPack_Vol2","nexusFileVersion":"1","nexusFileUploadedAt":1786048779,"pakFileName":"SweetLittleHairPackVol2.pak","nexusFileId":127462,"metaUuid":"b5c4424c-803d-422c-b2b3-3883fa81559d"}
+{"nexusFileName":"SweetLittleHairPack_Vol2","nexusFileVersion":"1.1","nexusFileUploadedAt":1788533565,"pakFileName":"SweetLittleHairPackVol2.pak","nexusFileId":129677,"metaUuid":"b5c4424c-803d-422c-b2b3-3883fa81559d"}
 ]},
 "24312":{"nexusModName":"Not Diving Strike","nexusUploadedBy":"yoonmoonsik43","nexusModId":24312,"paks":[
 {"nexusFileName":"Notdivingstrike 933ac624 1e29 9dya","nexusFileVersion":"1","nexusFileUploadedAt":1786068783,"pakFileName":"NotDivingStrike_933ac624-1e29-fb19-8534-d11e002b6d2b.pak","nexusFileId":127475,"metaUuid":"933ac624-1e29-fb19-8534-d11e002b6d2b"}
@@ -69286,6 +69285,9 @@
 "24713":{"nexusModName":"Caldarus (BT2 Head)","nexusUploadedBy":"AdrasteaMoon","nexusModId":24713,"paks":[
 {"nexusFileName":"Main File","nexusFileVersion":"1","nexusFileUploadedAt":1788213967,"pakFileName":"Caldarus.pak","nexusFileId":129469,"metaUuid":null}
 ]},
+"24714":{"nexusModName":"Worse Starting Gear","nexusUploadedBy":"auracrest","nexusModId":24714,"paks":[
+{"nexusFileName":"Worse Starting Gear","nexusFileVersion":"1","nexusFileUploadedAt":1788361072,"pakFileName":"Worse_Starting_Gear_6551f8c2-441c-9465-dca5-7718fd17228a.pak","nexusFileId":129552,"metaUuid":null}
+]},
 "24715":{"nexusModName":"CHAR's Dyeable Bhaalist Daggers","nexusUploadedBy":"char","nexusModId":24715,"paks":[
 {"nexusFileName":"CHAR's Dyeable Bhaalist Daggers","nexusFileVersion":"1","nexusFileUploadedAt":1788139521,"pakFileName":"CHAR_DyeableBhaalistDaggers_5b5d4845-c3bc-38c5-7e40-a974ed2e273c.pak","nexusFileId":129396,"metaUuid":"5b5d4845-c3bc-38c5-7e40-a974ed2e273c"}
 ]},
@@ -69470,6 +69472,9 @@
 ]},
 "24798":{"nexusModName":"Winter Walker Ranger Subclass (Russian)","nexusUploadedBy":"North3n","nexusModId":24798,"paks":[
 {"nexusFileName":"Winter Walker Russian","nexusFileVersion":"1.2","nexusFileUploadedAt":1788517212,"pakFileName":"WinterWalker_09e190c8-d449-b653-69fc-252bcad61e45_Russian_reviewed.pak","nexusFileId":129661,"metaUuid":null}
+]},
+"24800":{"nexusModName":"Sub-Dom Relationship Dynamics - Emi-SD","nexusUploadedBy":"EmiEmiko","nexusModId":24800,"paks":[
+{"nexusFileName":"Emi-SD","nexusFileVersion":"1","nexusFileUploadedAt":1788534631,"pakFileName":"Emi-SD.pak","nexusFileId":129680,"metaUuid":null}
 ]},
 "24801":{"nexusModName":"AegisClass-CHS","nexusUploadedBy":"namelessman10086","nexusModId":24801,"paks":[
 {"nexusFileName":"AegisClass CHS","nexusFileVersion":"1","nexusFileUploadedAt":1788532371,"pakFileName":"AegisClass-CHS.pak","nexusFileId":129674,"metaUuid":null}
