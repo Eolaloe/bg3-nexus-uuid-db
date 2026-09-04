@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-09-04T15:52:15.419297+00:00","total_mods":17492},
+{"_meta":{"last_run":"2026-09-04T16:52:43.434091+00:00","total_mods":17493},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -1357,9 +1357,9 @@
 ]},
 "642":{"nexusModName":"Necromancy Reanimated (Formerly Animate Dead Plus Plus)","nexusUploadedBy":"actualsailorcat","nexusModId":642,"paks":[
 {"nexusFileName":"Fix - Submod of ADPP and VS","nexusFileVersion":"1.00.05","nexusFileUploadedAt":1733459446,"pakFileName":"ADPPnVS Submod Fix.pak","nexusFileId":81184,"metaUuid":"a9fbfcea-ff68-4884-85cb-90c6086cce25"},
-{"nexusFileName":"Corpse Requirement Toggle SE","nexusFileVersion":"1.00.00","nexusFileUploadedAt":1788478936,"pakFileName":"NR - Corpse Conservation Bill.pak","nexusFileId":129635,"metaUuid":null},
 {"nexusFileName":"Necromancy Reanimated","nexusFileVersion":"1.43.00","nexusFileUploadedAt":1788479238,"pakFileName":"Necromancy Reanimated.pak","nexusFileId":129639,"metaUuid":"f323b958-b845-4c79-b139-d39570658fbb"},
-{"nexusFileName":"Spell List Addon","nexusFileVersion":"1.06.01","nexusFileUploadedAt":1788489782,"pakFileName":"NR - Spell List Addon.pak","nexusFileId":129643,"metaUuid":null}
+{"nexusFileName":"Spell List Addon","nexusFileVersion":"1.06.01","nexusFileUploadedAt":1788489782,"pakFileName":"NR - Spell List Addon.pak","nexusFileId":129643,"metaUuid":null},
+{"nexusFileName":"Corpse Requirement Toggle SE","nexusFileVersion":"1.00.01","nexusFileUploadedAt":1788537967,"pakFileName":"NR - Corpse Conservation Bill.pak","nexusFileId":129684,"metaUuid":null}
 ]},
 "644":{"nexusModName":"Approval Tweaks","nexusUploadedBy":"Koriik","nexusModId":644,"paks":[
 {"nexusFileName":"(Version A) Natural","nexusFileVersion":"1.2","nexusFileUploadedAt":1691612965,"pakFileName":"ApprovalTweaks.pak","nexusFileId":6160,"metaUuid":null},
@@ -31419,7 +31419,7 @@
 "10922":{"nexusModName":"Automated Summons","nexusUploadedBy":"actualsailorcat","nexusModId":10922,"paks":[
 {"nexusFileName":"Automated Summons SE Swarms","nexusFileVersion":"1.00.19","nexusFileUploadedAt":1757778288,"pakFileName":"Automated Summons SE Swarms.pak","nexusFileId":102678,"metaUuid":"c2d7b6b1-e329-4ce1-a609-2364f873c201"},
 {"nexusFileName":"Automated Summons","nexusFileVersion":"1.00.20","nexusFileUploadedAt":1783616745,"pakFileName":"Automated Summons.pak","nexusFileId":125288,"metaUuid":"89ad7046-e391-41c9-8670-f1b070c4c408"},
-{"nexusFileName":"Automated Summons SE","nexusFileVersion":"1.01.04","nexusFileUploadedAt":1788533705,"pakFileName":"Automated Summons SE.pak","nexusFileId":129678,"metaUuid":"7b5ed0e6-94fe-40e8-842d-f65f4ed25f05"}
+{"nexusFileName":"Automated Summons SE","nexusFileVersion":"1.01.05","nexusFileUploadedAt":1788537781,"pakFileName":"Automated Summons SE.pak","nexusFileId":129683,"metaUuid":"7b5ed0e6-94fe-40e8-842d-f65f4ed25f05"}
 ]},
 "10924":{"nexusModName":"5e Reckless Attack","nexusUploadedBy":"sumradagnoth8","nexusModId":10924,"paks":[
 {"nexusFileName":"RecklessAttack5e.zip","nexusFileVersion":"1.0.2.1","nexusFileUploadedAt":1731431036,"pakFileName":"RecklessAttack5e.pak","nexusFileId":78682,"metaUuid":"776e25bb-6128-479d-8923-089146901e46"},
@@ -42263,7 +42263,7 @@
 {"nexusFileName":"FeatsOverhaul HitDicePatch","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1779231272,"pakFileName":"FeatsOverhaul_HitDicePatch.pak","nexusFileId":121718,"metaUuid":"19edd084-c1bd-4042-a9f1-61a7817448d1"},
 {"nexusFileName":"FeatsOverhaul DualWielderPatch","nexusFileVersion":"1.0.2","nexusFileUploadedAt":1780003994,"pakFileName":"FeatsOverhaul_DualWielderPatch.pak","nexusFileId":122374,"metaUuid":"f1f0cb96-009b-40fa-b309-fcd26124bcb9"},
 {"nexusFileName":"FeatsOverhaul RangedWeaponsRebalancePatch","nexusFileVersion":"1.0.1","nexusFileUploadedAt":1784642162,"pakFileName":"FeatsOverhaul_RangedWeaponsRebalancePatch.pak","nexusFileId":126140,"metaUuid":"0a8a9f67-ac60-4cb1-8acb-1976c66b085d"},
-{"nexusFileName":"FeatsOverhaul","nexusFileVersion":"1.5.15","nexusFileUploadedAt":1786657609,"pakFileName":"FeatsOverhaul.pak","nexusFileId":128041,"metaUuid":"c2f1a230-8c0c-481b-9ab2-987e27d7db05"}
+{"nexusFileName":"FeatsOverhaul","nexusFileVersion":"1.5.16","nexusFileUploadedAt":1788536941,"pakFileName":"FeatsOverhaul.pak","nexusFileId":129682,"metaUuid":"c2f1a230-8c0c-481b-9ab2-987e27d7db05"}
 ]},
 "15045":{"nexusModName":"5e Ranger Subclasses Combined_KOR","nexusUploadedBy":"Ahdarugo","nexusModId":15045,"paks":[
 {"nexusFileName":"5e Ranger Subclasses Combined_KOR","nexusFileVersion":"2.0.0.3","nexusFileUploadedAt":1770134218,"pakFileName":"ranger__6473a445-3c30-7721-47ce-966e72fab1fd.pak","nexusFileId":114048,"metaUuid":"6473a445-3c30-7721-47ce-966e72fab1fd"}
@@ -47469,12 +47469,12 @@
 {"nexusFileName":"MnM_Shadowdancer","nexusFileVersion":"1.5","nexusFileUploadedAt":1753381718,"pakFileName":"MnM_Shadowdancer.pak","nexusFileId":98905,"metaUuid":"56e04b38-ad13-41d8-94fa-e102ec44bd3f"}
 ]},
 "17082":{"nexusModName":"Netherseam - Head Presets","nexusUploadedBy":"Alahria","nexusModId":17082,"paks":[
-{"nexusFileName":"Netherseam - Head Presets","nexusFileVersion":"1.3","nexusFileUploadedAt":1757699879,"pakFileName":"Netherseam - Head Presets.pak","nexusFileId":102601,"metaUuid":"ed58ae6b-70b1-4837-bb48-0fd35612efc5"},
-{"nexusFileName":"Netherseam - Head Presets CCO EotB","nexusFileVersion":"1.3","nexusFileUploadedAt":1757699975,"pakFileName":"Netherseam - Head Presets CCO EotB.pak","nexusFileId":102602,"metaUuid":"ed58ae6b-70b1-4837-bb48-0fd35612efc5"},
-{"nexusFileName":"Netherseam - Head Presets UTAV EotB","nexusFileVersion":"1.3","nexusFileUploadedAt":1757700044,"pakFileName":"Netherseam - Head Presets UTAV EotB.pak","nexusFileId":102603,"metaUuid":"ed58ae6b-70b1-4837-bb48-0fd35612efc5"},
-{"nexusFileName":"Netherseam - Head Preset CCO","nexusFileVersion":"1.3","nexusFileUploadedAt":1757700114,"pakFileName":"Netherseam - Head Presets CCO.pak","nexusFileId":102604,"metaUuid":null},
-{"nexusFileName":"Netherseam - Head Presets EotB","nexusFileVersion":"1.3","nexusFileUploadedAt":1757700185,"pakFileName":"Netherseam - Head Presets EotB.pak","nexusFileId":102605,"metaUuid":"ed58ae6b-70b1-4837-bb48-0fd35612efc5"},
-{"nexusFileName":"Netherseam - Head Presets UTAV","nexusFileVersion":"1.3","nexusFileUploadedAt":1757700256,"pakFileName":"Netherseam - Head Presets UTAV.pak","nexusFileId":102606,"metaUuid":"ed58ae6b-70b1-4837-bb48-0fd35612efc5"}
+{"nexusFileName":"Netherseam - Head Presets UTAV","nexusFileVersion":"1.4","nexusFileUploadedAt":1788538234,"pakFileName":"Netherseam - Head Presets UTAV.pak","nexusFileId":129686,"metaUuid":"ed58ae6b-70b1-4837-bb48-0fd35612efc5"},
+{"nexusFileName":"Netherseam - Head Presets EotB","nexusFileVersion":"1.4","nexusFileUploadedAt":1788538265,"pakFileName":"Netherseam - Head Presets EotB.pak","nexusFileId":129687,"metaUuid":"ed58ae6b-70b1-4837-bb48-0fd35612efc5"},
+{"nexusFileName":"Netherseam - Head Preset CCO","nexusFileVersion":"1.4","nexusFileUploadedAt":1788538294,"pakFileName":"Netherseam - Head Presets CCO.pak","nexusFileId":129688,"metaUuid":null},
+{"nexusFileName":"Netherseam - Head Presets UTAV EotB","nexusFileVersion":"1.4","nexusFileUploadedAt":1788538324,"pakFileName":"Netherseam - Head Presets UTAV EotB.pak","nexusFileId":129689,"metaUuid":"ed58ae6b-70b1-4837-bb48-0fd35612efc5"},
+{"nexusFileName":"Netherseam - Head Presets CCO EotB","nexusFileVersion":"1.4","nexusFileUploadedAt":1788538352,"pakFileName":"Netherseam - Head Presets CCO EotB.pak","nexusFileId":129690,"metaUuid":"ed58ae6b-70b1-4837-bb48-0fd35612efc5"},
+{"nexusFileName":"Netherseam - Head Presets","nexusFileVersion":"1.4","nexusFileUploadedAt":1788538380,"pakFileName":"Netherseam - Head Presets.pak","nexusFileId":129691,"metaUuid":"ed58ae6b-70b1-4837-bb48-0fd35612efc5"}
 ]},
 "17083":{"nexusModName":"Phalar Aluve Revised","nexusUploadedBy":"Alradium","nexusModId":17083,"paks":[
 {"nexusFileName":"PhalarAluveRevised_33c70698-eafb-e525-482a-8fa403b","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1749531029,"pakFileName":"PhalarAluveRevised_33c70698-eafb-e525-482a-8fa403bf3e38.pak","nexusFileId":95503,"metaUuid":null}
@@ -66395,7 +66395,7 @@
 {"nexusFileName":"Cooking Recipes","nexusFileVersion":"1.5","nexusFileUploadedAt":1783955487,"pakFileName":"CookingRecipes_b8ba240d-c945-abc2-3fdc-3e675c67a3d7.pak","nexusFileId":125547,"metaUuid":"b8ba240d-c945-abc2-3fdc-3e675c67a3d7"}
 ]},
 "23703":{"nexusModName":"The Weaver Class - Write Your Own Spells","nexusUploadedBy":"MiyuunDev","nexusModId":23703,"paks":[
-{"nexusFileName":"The Weaver Class - 1.3.3 ALPHA","nexusFileVersion":"1.3.3","nexusFileUploadedAt":1788199505,"pakFileName":"WeaverTisserand.pak","nexusFileId":129461,"metaUuid":"bc43c834-0569-4dcd-847b-4aabf46560c6"}
+{"nexusFileName":"The Weaver Class - 1.4.0 ALPHA","nexusFileVersion":"1.4.0","nexusFileUploadedAt":1788539271,"pakFileName":"WeaverTisserand.pak","nexusFileId":129692,"metaUuid":"bc43c834-0569-4dcd-847b-4aabf46560c6"}
 ]},
 "23705":{"nexusModName":"Kurenai Kage - Crimson Shadow Katana","nexusUploadedBy":"ForKiramay","nexusModId":23705,"paks":[
 {"nexusFileName":"Kurenai Kage","nexusFileVersion":"1.0.0.3","nexusFileUploadedAt":1783183879,"pakFileName":"ShadowKatana_c5d996d0-5958-742d-14d6-d6e8c9307e7d.pak","nexusFileId":124872,"metaUuid":"c5d996d0-5958-742d-14d6-d6e8c9307e7d"}
@@ -69478,4 +69478,7 @@
 ]},
 "24801":{"nexusModName":"AegisClass-CHS","nexusUploadedBy":"namelessman10086","nexusModId":24801,"paks":[
 {"nexusFileName":"AegisClass CHS","nexusFileVersion":"1","nexusFileUploadedAt":1788532371,"pakFileName":"AegisClass-CHS.pak","nexusFileId":129674,"metaUuid":null}
+]},
+"24803":{"nexusModName":"Oath of Conquest Paladin Subclass - Traditional Chinese and Simplified Chinese Translation","nexusUploadedBy":"MaxStoKe","nexusModId":24803,"paks":[
+{"nexusFileName":"OathofConquest CHT CHS","nexusFileVersion":"3.4","nexusFileUploadedAt":1788537999,"pakFileName":"OathofConquest_CHT_CHS.pak","nexusFileId":129685,"metaUuid":null}
 ]}}
