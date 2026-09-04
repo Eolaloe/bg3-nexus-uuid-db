@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-09-04T17:52:17.532700+00:00","total_mods":17494},
+{"_meta":{"last_run":"2026-09-04T18:52:38.567281+00:00","total_mods":17495},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -17520,7 +17520,7 @@
 {"nexusFileName":"Featsextra CH Standalone localization Pak","nexusFileVersion":"1.1.11.3","nexusFileUploadedAt":1742283591,"pakFileName":"_FeatsextraStandalone.pak","nexusFileId":87452,"metaUuid":null}
 ]},
 "5552":{"nexusModName":"Absolute Wrath","nexusUploadedBy":"Grimpreacher","nexusModId":5552,"paks":[
-{"nexusFileName":"Absolute Wrath","nexusFileVersion":"3.1","nexusFileUploadedAt":1788378072,"pakFileName":"AbsoluteWrath.pak","nexusFileId":129558,"metaUuid":"9010c099-c1e7-4ea8-8990-a883d6814975"}
+{"nexusFileName":"Absolute Wrath","nexusFileVersion":"3.1.1","nexusFileUploadedAt":1788546956,"pakFileName":"AbsoluteWrath.pak","nexusFileId":129703,"metaUuid":"9010c099-c1e7-4ea8-8990-a883d6814975"}
 ]},
 "5554":{"nexusModName":"Learn Brutal-Improved Critical","nexusUploadedBy":"BitterPast","nexusModId":5554,"paks":[
 {"nexusFileName":"Learn Brutal and Improved Critical","nexusFileVersion":"1.0.1","nexusFileUploadedAt":1706657229,"pakFileName":"LearnBrutalImprovedCritical.pak","nexusFileId":42521,"metaUuid":"150b4bf4-d065-40bc-b747-9384b01da16b"},
@@ -67565,7 +67565,7 @@
 {"nexusFileName":"Allwizard Cf177c22 463a 7a2a E Etgn","nexusFileVersion":"1","nexusFileUploadedAt":1785131614,"pakFileName":"AllWizard_cf177c22-463a-7a2a-e12a-99ad3014387a.pak","nexusFileId":126583,"metaUuid":"cf177c22-463a-7a2a-e12a-99ad3014387a"}
 ]},
 "24107":{"nexusModName":"Ultimate Cheat Tool","nexusUploadedBy":"Tiberie","nexusModId":24107,"paks":[
-{"nexusFileName":"UltimateCheatTool","nexusFileVersion":"1.2.1","nexusFileUploadedAt":1787251166,"pakFileName":"UltimateCheatTool.pak","nexusFileId":128562,"metaUuid":"83743a2a-a284-4fd1-9b8e-848a8054f220"}
+{"nexusFileName":"UltimateCheatTool","nexusFileVersion":"1.3.0","nexusFileUploadedAt":1788547410,"pakFileName":"UltimateCheatTool.pak","nexusFileId":129704,"metaUuid":"83743a2a-a284-4fd1-9b8e-848a8054f220"}
 ]},
 "24109":{"nexusModName":"Cursed Loading Screens","nexusUploadedBy":"HyperspaceTowel","nexusModId":24109,"paks":[
 {"nexusFileName":"HT_CursedLoadingScreens","nexusFileVersion":"1.0.1.1","nexusFileUploadedAt":1785552758,"pakFileName":"HT_MemeLoadingScreens_f210b92e-436e-3234-ddee-b30d9bcadeb8.pak","nexusFileId":127001,"metaUuid":"f210b92e-436e-3234-ddee-b30d9bcadeb8"}
@@ -67772,7 +67772,7 @@
 {"nexusFileName":"The Winding Way - Fey Labyrinth Mini Map","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1785579539,"pakFileName":"MGNTN_FeyLabyrinthMiniMap.pak","nexusFileId":127030,"metaUuid":"8fb09895-d74b-4717-b42a-48442201d403"}
 ]},
 "24215":{"nexusModName":"Vile Shapes","nexusUploadedBy":"Eyezzikk","nexusModId":24215,"paks":[
-{"nexusFileName":"VileShapes","nexusFileVersion":"1.01","nexusFileUploadedAt":1788520598,"pakFileName":"VileShapes_eb4075db-3b42-6593-4ae0-15bdda759070.pak","nexusFileId":129666,"metaUuid":"eb4075db-3b42-6593-4ae0-15bdda759070"}
+{"nexusFileName":"VileShapes","nexusFileVersion":"1.011","nexusFileUploadedAt":1788546432,"pakFileName":"VileShapes_eb4075db-3b42-6593-4ae0-15bdda759070.pak","nexusFileId":129702,"metaUuid":"eb4075db-3b42-6593-4ae0-15bdda759070"}
 ]},
 "24217":{"nexusModName":"Cavaleiro Feiticeiro PT-BR","nexusUploadedBy":"Linkzynn","nexusModId":24217,"paks":[
 {"nexusFileName":"Cavaleiro Feiticeiro Pt Br","nexusFileVersion":"2.0.0.7","nexusFileUploadedAt":1785586813,"pakFileName":"Weave_Bound_b3e71ef9-2d27-fdb4-dfb3-df552c151ac7.pak","nexusFileId":127035,"metaUuid":null}
@@ -69482,6 +69482,9 @@
 "24801":{"nexusModName":"AegisClass-CHS","nexusUploadedBy":"namelessman10086","nexusModId":24801,"paks":[
 {"nexusFileName":"AegisClass CHS","nexusFileVersion":"1","nexusFileUploadedAt":1788532371,"pakFileName":"AegisClass-CHS.pak","nexusFileId":129674,"metaUuid":null}
 ]},
+"24802":{"nexusModName":"Aberrant Mind Sorcerer Subclass - Traditional Chinese and Simplified Chinese Translation","nexusUploadedBy":"MaxStoKe","nexusModId":24802,"paks":[
+{"nexusFileName":"AberrantMind_CHT_CHS","nexusFileVersion":"2.1","nexusFileUploadedAt":1788545044,"pakFileName":"AberrantMind_CHT_CHS.pak","nexusFileId":129701,"metaUuid":null}
+]},
 "24803":{"nexusModName":"Oath of Conquest Paladin Subclass - Traditional Chinese and Simplified Chinese Translation","nexusUploadedBy":"MaxStoKe","nexusModId":24803,"paks":[
-{"nexusFileName":"OathofConquest CHT CHS","nexusFileVersion":"3.4","nexusFileUploadedAt":1788537999,"pakFileName":"OathofConquest_CHT_CHS.pak","nexusFileId":129685,"metaUuid":null}
+{"nexusFileName":"OathofConquest_CHT_CHS","nexusFileVersion":"3.4","nexusFileUploadedAt":1788537999,"pakFileName":"OathofConquest_CHT_CHS.pak","nexusFileId":129685,"metaUuid":null}
 ]}}
