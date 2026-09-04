@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-09-04T03:52:12.902298+00:00","total_mods":17480},
+{"_meta":{"last_run":"2026-09-04T04:52:33.271107+00:00","total_mods":17480},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -19850,7 +19850,7 @@
 {"nexusFileName":"Randomized Equipment Loot - FULL","nexusFileVersion":"4.0","nexusFileUploadedAt":1733474876,"pakFileName":"RandomizedEquipmentLootFull_Vanilla.pak","nexusFileId":81194,"metaUuid":"81e9810d-504e-4ba3-8b2a-34b28656610e"}
 ]},
 "6329":{"nexusModName":"Dark Consort Outfit","nexusUploadedBy":"almasy87","nexusModId":6329,"paks":[
-{"nexusFileName":"Dark Consort Outfit (Necklace on head slot)","nexusFileVersion":"4","nexusFileUploadedAt":1736992297,"pakFileName":"DarkConsortOutfit.pak","nexusFileId":84131,"metaUuid":null},
+{"nexusFileName":"Dark Consort Outfit (Necklace on head slot)","nexusFileVersion":"4","nexusFileUploadedAt":1736992297,"pakFileName":"DarkConsortOutfit.pak","nexusFileId":84131,"metaUuid":"cb8e5845-a592-46ce-b820-7fe0ee0c6fb9"},
 {"nexusFileName":"Dark Consort Outfit","nexusFileVersion":"4.1","nexusFileUploadedAt":1744415511,"pakFileName":"DarkConsortOutfit.pak","nexusFileId":88689,"metaUuid":"cb8e5845-a592-46ce-b820-7fe0ee0c6fb9"}
 ]},
 "6330":{"nexusModName":"Rebalance Level6 Spells Francais","nexusUploadedBy":"Solmyr56","nexusModId":6330,"paks":[
@@ -34465,9 +34465,12 @@
 {"nexusFileName":"Cambion_Wings(Merchants)","nexusFileVersion":"1.1","nexusFileUploadedAt":1751469516,"pakFileName":"Cambion_Wings.pak","nexusFileId":97182,"metaUuid":"6e6024c2-6797-4a68-b30e-5a41046b757d"}
 ]},
 "12122":{"nexusModName":"Celestial Threads","nexusUploadedBy":"arideyya","nexusModId":12122,"paks":[
+{"nexusFileName":"Amelie's Moonlight Gown (Ballerina)","nexusFileVersion":"1.0","nexusFileUploadedAt":1726165918,"pakFileName":"AmeliesMoonlightGown Thinner.pak","nexusFileId":70711,"metaUuid":null},
 {"nexusFileName":"Asuras Allure (No Skirt or Straps)","nexusFileVersion":"1.0","nexusFileUploadedAt":1727278629,"pakFileName":"AsurasAllureNoStraps.pak","nexusFileId":72665,"metaUuid":"1def457e-cd00-4d17-9c7c-745efa780a6f"},
 {"nexusFileName":"Mars Attire - Only Bodice No Skirt","nexusFileVersion":"1.1","nexusFileUploadedAt":1733807519,"pakFileName":"MarsAttire NoSkirt.pak","nexusFileId":81471,"metaUuid":"74f815a9-99b4-453d-a9d6-7e43de78cf98"},
 {"nexusFileName":"Bhaal's Bride Gown - No Armour","nexusFileVersion":"1.3","nexusFileUploadedAt":1734340953,"pakFileName":"BhaalsBrideGown No Armour.pak","nexusFileId":81980,"metaUuid":"6ef28bde-bb60-4bea-a37e-5a1a63bbbc95"},
+{"nexusFileName":"Asuras Allure BCB","nexusFileVersion":"1.1","nexusFileUploadedAt":1736320077,"pakFileName":"AsurasAllure BCB.pak","nexusFileId":83653,"metaUuid":null},
+{"nexusFileName":"Asuras Allure BCB (No straps)","nexusFileVersion":"1.1","nexusFileUploadedAt":1736320154,"pakFileName":"AsurasAllureNoStraps BCB.pak","nexusFileId":83654,"metaUuid":null},
 {"nexusFileName":"Celestial Threads AIO","nexusFileVersion":"2.0","nexusFileUploadedAt":1739524730,"pakFileName":"CelestialThreads.pak","nexusFileId":85816,"metaUuid":"6481d93e-f260-490a-92fa-a5555aa3ee60"}
 ]},
 "12123":{"nexusModName":"Simple Sorting Bags_Ukrainian Translation","nexusUploadedBy":"Xseede","nexusModId":12123,"paks":[
@@ -44954,7 +44957,7 @@
 "16158":{"nexusModName":"Shadar-Kai with Vemperen Heads","nexusUploadedBy":"ZaraysMods","nexusModId":16158,"paks":[
 {"nexusFileName":"Shadarkai with Vemperen Heads","nexusFileVersion":"1.0","nexusFileUploadedAt":1745799874,"pakFileName":"Shadarkai_with_Vemperen_Heads.pak","nexusFileId":90921,"metaUuid":"c2992ca5-9a85-4f44-b457-231bdea3cb5e"}
 ]},
-"16161":{"nexusModName":"Lovely Dresses","nexusUploadedBy":"badwitch69","nexusModId":16161,"paks":[
+"16161":{"nexusModName":"Lovely Dresses","nexusUploadedBy":"deleted209684172","nexusModId":16161,"paks":[
 {"nexusFileName":"BW_Lovely_Dresses","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1745792750,"pakFileName":"BW_Lovely_Dresses_4cecbeb1-b06d-2260-3f03-05123555a26f.pak","nexusFileId":90907,"metaUuid":"4cecbeb1-b06d-2260-3f03-05123555a26f"}
 ]},
 "16162":{"nexusModName":"Alyssa CC Head Preset by cedastarions","nexusUploadedBy":"cedastarions","nexusModId":16162,"paks":[
