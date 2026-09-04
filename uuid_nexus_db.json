@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-09-04T07:52:35.457065+00:00","total_mods":17482},
+{"_meta":{"last_run":"2026-09-04T08:52:26.682844+00:00","total_mods":17484},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -61745,7 +61745,8 @@
 {"nexusFileName":"Dynamic Camp Supply Cost 1.0.0","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1773498599,"pakFileName":"Dynamic Camp Supply Cost.pak","nexusFileId":116726,"metaUuid":"6b8a9298-e0bc-402c-b8e9-5c1a5fa556a1"}
 ]},
 "21885":{"nexusModName":"Gale's Cursed Arm","nexusUploadedBy":"OneEyeAskew","nexusModId":21885,"paks":[
-{"nexusFileName":"Gale's Cursed Arm","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1774126182,"pakFileName":"GaleCursedArm.pak","nexusFileId":117233,"metaUuid":"8bf7ac5c-29f0-4774-b5f3-51b6f2677c91"}
+{"nexusFileName":"Gale's Cursed Arm","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1774126182,"pakFileName":"GaleCursedArm.pak","nexusFileId":117233,"metaUuid":"8bf7ac5c-29f0-4774-b5f3-51b6f2677c91"},
+{"nexusFileName":"Tav's Cursed Arm","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1774126394,"pakFileName":"TavCursedArm.pak","nexusFileId":117234,"metaUuid":null}
 ]},
 "21886":{"nexusModName":"Shadar-Kai Heads Patch","nexusUploadedBy":"ElviraRustamova","nexusModId":21886,"paks":[
 {"nexusFileName":"Shadar-Kai Vemperen Heads","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1773492500,"pakFileName":"ShadarKaiHeadsMod.pak","nexusFileId":116718,"metaUuid":"25506a77-eb74-4832-8589-7507558be45a"}
@@ -64710,8 +64711,8 @@
 "23036":{"nexusModName":"Mystical Flourish","nexusUploadedBy":"MadMicky10","nexusModId":23036,"paks":[
 {"nexusFileName":"MadMicky Mystical Flourish Poses","nexusFileVersion":"1","nexusFileUploadedAt":1780514330,"pakFileName":"Mystical_Flourish_Poses_f200d137-8b31-a4b7-3e6c-53a7437e9814.pak","nexusFileId":122707,"metaUuid":"f200d137-8b31-a4b7-3e6c-53a7437e9814"}
 ]},
-"23038":{"nexusModName":"Miam's Best Enemies Pose Pack (BT1xBT1 BT1xBT2 BT2xBT2 BT2xBT4 BT4xBT4)","nexusUploadedBy":"Miam158","nexusModId":23038,"paks":[
-{"nexusFileName":"Miam's Best Enemies Pose Pack","nexusFileVersion":"1.0.1.1","nexusFileUploadedAt":1785240006,"pakFileName":"miam_best_enemies_pose_pack_62ab7fb0-715d-753f-6a72-a98fabce4e78.pak","nexusFileId":126650,"metaUuid":"62ab7fb0-715d-753f-6a72-a98fabce4e78"}
+"23038":{"nexusModName":"Miam's Best Enemies Pose Pack","nexusUploadedBy":"Miam158","nexusModId":23038,"paks":[
+{"nexusFileName":"Miam's Best Enemies Pose Pack","nexusFileVersion":"1.1.0.0","nexusFileUploadedAt":1788508235,"pakFileName":"miam_best_enemies_pose_pack_62ab7fb0-715d-753f-6a72-a98fabce4e78.pak","nexusFileId":129650,"metaUuid":"62ab7fb0-715d-753f-6a72-a98fabce4e78"}
 ]},
 "23039":{"nexusModName":"Muscular Dragonborn Body Type 3 and 4 Private Parts patch","nexusUploadedBy":"AbrahamtheHeavy","nexusModId":23039,"paks":[
 {"nexusFileName":"MDGB Body Type 3 and 4 Private Parts patch","nexusFileVersion":"1.0.0.1","nexusFileUploadedAt":1779673754,"pakFileName":"MDGB_BT34_LPWFP_patch_65c69fe6-1992-b432-8cf4-d714bda4d1c6.pak","nexusFileId":122087,"metaUuid":"65c69fe6-1992-b432-8cf4-d714bda4d1c6"}
@@ -69329,8 +69330,8 @@
 ]},
 "24733":{"nexusModName":"Alucard's Legacy","nexusUploadedBy":"Heathcliff805","nexusModId":24733,"paks":[
 {"nexusFileName":"ResculptPersists 1.2","nexusFileVersion":"1","nexusFileUploadedAt":1788424975,"pakFileName":"ResculptPersists.pak","nexusFileId":129593,"metaUuid":null},
-{"nexusFileName":"AlucardsLegacy expanded","nexusFileVersion":"4","nexusFileUploadedAt":1788508029,"pakFileName":"AlucardsLegacy.pak","nexusFileId":129648,"metaUuid":"a1c4d200-1e9a-4b77-9f31-6d2c8be51f01"},
-{"nexusFileName":"SummonHotbarMemory ","nexusFileVersion":"2","nexusFileUploadedAt":1788508143,"pakFileName":"SummonHotbarMemory.pak","nexusFileId":129649,"metaUuid":"b7e51a90-3c42-4d18-9f6b-2a7c5e10d833"}
+{"nexusFileName":"SummonHotbarMemory ","nexusFileVersion":"2","nexusFileUploadedAt":1788508143,"pakFileName":"SummonHotbarMemory.pak","nexusFileId":129649,"metaUuid":"b7e51a90-3c42-4d18-9f6b-2a7c5e10d833"},
+{"nexusFileName":"AlucardsLegacy expanded","nexusFileVersion":"5","nexusFileUploadedAt":1788508833,"pakFileName":"AlucardsLegacy.pak","nexusFileId":129651,"metaUuid":"a1c4d200-1e9a-4b77-9f31-6d2c8be51f01"}
 ]},
 "24734":{"nexusModName":"Mizora Joins Tweaks","nexusUploadedBy":"CosmicBovine","nexusModId":24734,"paks":[
 {"nexusFileName":"MizoraJoinsPatch","nexusFileVersion":"1","nexusFileUploadedAt":1788228502,"pakFileName":"MizoraJoinsPatch.pak","nexusFileId":129473,"metaUuid":"c0053edf-a2a1-4dd4-8449-6cbc96b30c88"}
@@ -69447,4 +69448,10 @@
 ]},
 "24792":{"nexusModName":"Night Domain Cleric Subclass (Russian)","nexusUploadedBy":"North3n","nexusModId":24792,"paks":[
 {"nexusFileName":"NightDomain Russian","nexusFileVersion":"1.1","nexusFileUploadedAt":1788507099,"pakFileName":"NightDomain_0e809008-995f-6d2b-a4bc-3ef61618d398_Russian_reviewed.pak","nexusFileId":129647,"metaUuid":null}
+]},
+"24793":{"nexusModName":"College of Bae'qeshel - (Lolth Drow) Bard Subclass (Russian)","nexusUploadedBy":"North3n","nexusModId":24793,"paks":[
+{"nexusFileName":"College of Baeqeshel Russian","nexusFileVersion":"1.0.0.9","nexusFileUploadedAt":1788509275,"pakFileName":"CollegeofBaeqeshel_e522f77b-13b1-b45e-1c3b-da639a06b711_Russian_reviewed.pak","nexusFileId":129652,"metaUuid":null}
+]},
+"24794":{"nexusModName":"Houndmaster Fighter Subclass (Russian)","nexusUploadedBy":"North3n","nexusModId":24794,"paks":[
+{"nexusFileName":"Houndmaster Russian Reviewed","nexusFileVersion":"1.0","nexusFileUploadedAt":1788510244,"pakFileName":"Houndmaster_73e36653-7090-6d27-284b-e2bc0f3e0604_Russian_reviewed.pak","nexusFileId":129653,"metaUuid":null}
 ]}}
