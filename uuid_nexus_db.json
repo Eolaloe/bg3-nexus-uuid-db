@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-09-04T08:52:26.682844+00:00","total_mods":17484},
+{"_meta":{"last_run":"2026-09-04T09:52:33.378921+00:00","total_mods":17486},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -616,12 +616,12 @@
 {"nexusFileName":"AstarionFancyBlackUndies","nexusFileVersion":"1","nexusFileUploadedAt":1680408006,"pakFileName":"AstarionFancyBlackUndies.pak","nexusFileId":4339,"metaUuid":null}
 ]},
 "457":{"nexusModName":"Tutorial Chest Summoning","nexusUploadedBy":"wesslen","nexusModId":457,"paks":[
-{"nexusFileName":"Tutorial Chest Summoning","nexusFileVersion":"2.10.2","nexusFileUploadedAt":1779123083,"pakFileName":"TutorialChestSummoning.pak","nexusFileId":121589,"metaUuid":"505c630c-79fa-49b6-9f21-29a5f2322c2d"},
-{"nexusFileName":"Tutorial Chest Summoning - Uninstaller","nexusFileVersion":"2.10.2","nexusFileUploadedAt":1779123106,"pakFileName":"TutorialChestSummoning.pak","nexusFileId":121590,"metaUuid":null},
+{"nexusFileName":"Tutorial Chest Summoning - Uninstaller","nexusFileVersion":"2.10.2","nexusFileUploadedAt":1779123106,"pakFileName":"TutorialChestSummoning.pak","nexusFileId":121590,"metaUuid":"505c630c-79fa-49b6-9f21-29a5f2322c2d"},
 {"nexusFileName":"Tutorial Chest Summoning - Temporary","nexusFileVersion":"2.10.2","nexusFileUploadedAt":1779123136,"pakFileName":"TutorialChestSummoning.pak","nexusFileId":121592,"metaUuid":"505c630c-79fa-49b6-9f21-29a5f2322c2d"},
-{"nexusFileName":"Tutorial Chest Summoning - No Hide","nexusFileVersion":"2.10.2","nexusFileUploadedAt":1779123160,"pakFileName":"TutorialChestSummoning.pak","nexusFileId":121593,"metaUuid":"505c630c-79fa-49b6-9f21-29a5f2322c2d"},
 {"nexusFileName":"Tutorial Chest Summoning - Scriptless","nexusFileVersion":"2.10.2","nexusFileUploadedAt":1779123180,"pakFileName":"TutorialChestSummoning.pak","nexusFileId":121595,"metaUuid":"505c630c-79fa-49b6-9f21-29a5f2322c2d"},
-{"nexusFileName":"Tutorial Chest Summoning - Scriptless No Hide","nexusFileVersion":"2.10.2","nexusFileUploadedAt":1779123193,"pakFileName":"TutorialChestSummoning.pak","nexusFileId":121596,"metaUuid":"505c630c-79fa-49b6-9f21-29a5f2322c2d"}
+{"nexusFileName":"Tutorial Chest Summoning - Scriptless No Hide","nexusFileVersion":"2.10.2","nexusFileUploadedAt":1779123193,"pakFileName":"TutorialChestSummoning.pak","nexusFileId":121596,"metaUuid":"505c630c-79fa-49b6-9f21-29a5f2322c2d"},
+{"nexusFileName":"Tutorial Chest Summoning - No Hide","nexusFileVersion":"2.11","nexusFileUploadedAt":1788514415,"pakFileName":"TutorialChestSummoning.pak","nexusFileId":129655,"metaUuid":"505c630c-79fa-49b6-9f21-29a5f2322c2d"},
+{"nexusFileName":"Tutorial Chest Summoning","nexusFileVersion":"2.11","nexusFileUploadedAt":1788514435,"pakFileName":"TutorialChestSummoning.pak","nexusFileId":129656,"metaUuid":"505c630c-79fa-49b6-9f21-29a5f2322c2d"}
 ]},
 "463":{"nexusModName":"Resurrect NPCs","nexusUploadedBy":"havsglimt","nexusModId":463,"paks":[
 {"nexusFileName":"Resurrect NPCs","nexusFileVersion":"1.3","nexusFileUploadedAt":1717428056,"pakFileName":"ResurrectNPCs.pak","nexusFileId":59784,"metaUuid":"1e60f514-6e1c-44b9-98a8-786abd946f8f"}
@@ -69454,4 +69454,10 @@
 ]},
 "24794":{"nexusModName":"Houndmaster Fighter Subclass (Russian)","nexusUploadedBy":"North3n","nexusModId":24794,"paks":[
 {"nexusFileName":"Houndmaster Russian Reviewed","nexusFileVersion":"1.0","nexusFileUploadedAt":1788510244,"pakFileName":"Houndmaster_73e36653-7090-6d27-284b-e2bc0f3e0604_Russian_reviewed.pak","nexusFileId":129653,"metaUuid":null}
+]},
+"24795":{"nexusModName":"Penance Domain Cleric Subclass (Russian)","nexusUploadedBy":"North3n","nexusModId":24795,"paks":[
+{"nexusFileName":"Penance Domain Russian Reviewed","nexusFileVersion":"1.2","nexusFileUploadedAt":1788512337,"pakFileName":"PenanceDomain_7d25fecb-14a8-0f82-cfcd-ce37f712856e_Russian_reviewed.pak","nexusFileId":129654,"metaUuid":null}
+]},
+"24796":{"nexusModName":"Scion Of The Three - Rogue Subclass (RUS)","nexusUploadedBy":"North3n","nexusModId":24796,"paks":[
+{"nexusFileName":"Scion Of The Three Russian","nexusFileVersion":"1.1.0.1","nexusFileUploadedAt":1788515246,"pakFileName":"ScionOfTheThree_bea74574-57da-e902-25ed-e5875d88679f_Russian_reviewed.pak","nexusFileId":129657,"metaUuid":null}
 ]}}
