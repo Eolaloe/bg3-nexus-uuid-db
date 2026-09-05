@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-09-05T19:53:22.993743+00:00","total_mods":17516},
+{"_meta":{"last_run":"2026-09-05T20:53:55.149815+00:00","total_mods":17516},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -67384,10 +67384,10 @@
 "24048":{"nexusModName":"TealRabbit's Masculine Body 1 Races (TRM1R)","nexusUploadedBy":"tealrabbit19","nexusModId":24048,"paks":[
 {"nexusFileName":"TRM1 Races Transmasc Genitalia Patch","nexusFileVersion":"1","nexusFileUploadedAt":1784907487,"pakFileName":"tdicks for TRM1.pak","nexusFileId":126368,"metaUuid":null},
 {"nexusFileName":"TRM1 Races SGT's Pretty Boys Patch","nexusFileVersion":"1","nexusFileUploadedAt":1785009505,"pakFileName":"TRM1Races_SGTPrettyBoys_Patch.pak","nexusFileId":126486,"metaUuid":null},
-{"nexusFileName":"TRM1Races UTav Patch","nexusFileVersion":"1","nexusFileUploadedAt":1785191871,"pakFileName":"TRM1Races_UTAV_Patch.pak","nexusFileId":126615,"metaUuid":null},
 {"nexusFileName":"House of Hope Couture TRM1R","nexusFileVersion":"1","nexusFileUploadedAt":1787001491,"pakFileName":"House_of_Hope_Couture_TRM1R.pak","nexusFileId":128321,"metaUuid":null},
 {"nexusFileName":"TRM1 Races Medusae's Muses Patch","nexusFileVersion":"1","nexusFileUploadedAt":1787079273,"pakFileName":"MedusaesMusesTRM1RPatch.pak","nexusFileId":128374,"metaUuid":null},
-{"nexusFileName":"TRM1 Races","nexusFileVersion":"1.2.5","nexusFileUploadedAt":1788213112,"pakFileName":"TRM1_Races_97bca857-f004-3675-3e83-b57dbcf98572.pak","nexusFileId":129468,"metaUuid":"97bca857-f004-3675-3e83-b57dbcf98572"}
+{"nexusFileName":"TRM1 Races","nexusFileVersion":"1.2.5","nexusFileUploadedAt":1788213112,"pakFileName":"TRM1_Races_97bca857-f004-3675-3e83-b57dbcf98572.pak","nexusFileId":129468,"metaUuid":"97bca857-f004-3675-3e83-b57dbcf98572"},
+{"nexusFileName":"TRM1 Races UTav-KAVT Patch","nexusFileVersion":"2","nexusFileUploadedAt":1788640442,"pakFileName":"TRM1Races_UTAV_Patch.pak","nexusFileId":129817,"metaUuid":null}
 ]},
 "24050":{"nexusModName":"Team-Oriented Skill-Checked Feats and So On (BAMJO Feats)","nexusUploadedBy":"R6R6R","nexusModId":24050,"paks":[
 {"nexusFileName":"BAMJOFeats","nexusFileVersion":"1.1.2","nexusFileUploadedAt":1785003068,"pakFileName":"BAMJOFeats.pak","nexusFileId":126481,"metaUuid":"ce358962-8bae-4891-a171-f306b2fab092"}
@@ -67417,13 +67417,13 @@
 {"nexusFileName":"CBR Cambion and Gith Armor TRM1R","nexusFileVersion":"1","nexusFileUploadedAt":1786988036,"pakFileName":"CBR_Cambion_Gith_TRM1R.pak","nexusFileId":128310,"metaUuid":null},
 {"nexusFileName":"Old Wizard Robe TRM1R","nexusFileVersion":"1","nexusFileUploadedAt":1787491882,"pakFileName":"OldWizardRobe_TRM1R.pak","nexusFileId":128831,"metaUuid":null},
 {"nexusFileName":"Gothyanki Gear TRM1R","nexusFileVersion":"2","nexusFileUploadedAt":1787500493,"pakFileName":"jerinski_gothyanki-gear_TRM1R.pak","nexusFileId":128850,"metaUuid":null},
-{"nexusFileName":"OWY Night Silk Brocade TRM1R","nexusFileVersion":"2","nexusFileUploadedAt":1787501008,"pakFileName":"OWYDoesOutfits_NightSilkBrocade_TRM1R.pak","nexusFileId":128851,"metaUuid":null},
 {"nexusFileName":"Agile Armor TRM1R","nexusFileVersion":"1","nexusFileUploadedAt":1787745754,"pakFileName":"AgileArmor_TRM1R.pak","nexusFileId":129054,"metaUuid":null},
 {"nexusFileName":"She Who Guides TRM1R","nexusFileVersion":"1","nexusFileUploadedAt":1787946732,"pakFileName":"SeluneClericMKII_TRM1R.pak","nexusFileId":129216,"metaUuid":null},
 {"nexusFileName":"CBR Battlemage Armor TRM1R","nexusFileVersion":"1.1","nexusFileUploadedAt":1787948892,"pakFileName":"CBR_Battlemage_TRM1R.pak","nexusFileId":129219,"metaUuid":null},
 {"nexusFileName":"Epilogue Camp Clothes TRM1R","nexusFileVersion":"1.1","nexusFileUploadedAt":1788029341,"pakFileName":"EpilogueCampClothes_TRM1R.pak","nexusFileId":129289,"metaUuid":null},
 {"nexusFileName":"Ember's Wardrobe TRM1R","nexusFileVersion":"1","nexusFileUploadedAt":1788216091,"pakFileName":"EmbersWardrobe_TRM1R.pak","nexusFileId":129470,"metaUuid":null},
-{"nexusFileName":"Rasaad's Robe TRM1R","nexusFileVersion":"2","nexusFileUploadedAt":1788265426,"pakFileName":"RasaadMonkOutfit_TRM1R.pak","nexusFileId":129486,"metaUuid":null}
+{"nexusFileName":"Rasaad's Robe TRM1R","nexusFileVersion":"2","nexusFileUploadedAt":1788265426,"pakFileName":"RasaadMonkOutfit_TRM1R.pak","nexusFileId":129486,"metaUuid":null},
+{"nexusFileName":"OWY Night Silk Brocade TRM1R","nexusFileVersion":"4","nexusFileUploadedAt":1788640307,"pakFileName":"OWYDoesOutfits_NightSilkBrocade_TRM1R.pak","nexusFileId":129816,"metaUuid":null}
 ]},
 "24060":{"nexusModName":"Quick Second Wind","nexusUploadedBy":"yoonmoonsik43","nexusModId":24060,"paks":[
 {"nexusFileName":"Quicksecondwind 11aabc80 36ad 3qmv","nexusFileVersion":"1","nexusFileUploadedAt":1784917946,"pakFileName":"QuickSecondWind_11aabc80-36ad-7197-0fd6-f66b6b5a0915.pak","nexusFileId":126385,"metaUuid":"11aabc80-36ad-7197-0fd6-f66b6b5a0915"}
