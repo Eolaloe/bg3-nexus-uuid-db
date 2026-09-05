@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-09-05T07:53:03.765498+00:00","total_mods":17498},
+{"_meta":{"last_run":"2026-09-05T08:52:57.537512+00:00","total_mods":17499},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -63636,7 +63636,7 @@
 ]},
 "22575":{"nexusModName":"Sword Sigil Sorcery Subclass","nexusUploadedBy":"Crystic","nexusModId":22575,"paks":[
 {"nexusFileName":"Sword Sigil Sorcerer Subclass DND 5.5e All In One","nexusFileVersion":"1.2.2.3","nexusFileUploadedAt":1779537256,"pakFileName":"Sword_Sigil_Sorcerer_debc8342-cac2-85a2-8e75-00e28cca48d1.pak","nexusFileId":121975,"metaUuid":"debc8342-cac2-85a2-8e75-00e28cca48d1"},
-{"nexusFileName":"Sword Sigil Sorcerer Subclass Standalone","nexusFileVersion":"1.2.2.4","nexusFileUploadedAt":1779537327,"pakFileName":"Sword_Sigil_Sorcerer_Standalone_7ff639ec-0ed8-dfe2-875d-b46f107a4977.pak","nexusFileId":121976,"metaUuid":"7ff639ec-0ed8-dfe2-875d-b46f107a4977"}
+{"nexusFileName":"Sword Sigil Sorcerer Subclass Standalone","nexusFileVersion":"1.3.0.0","nexusFileUploadedAt":1788595401,"pakFileName":"Sword_Sigil_Sorcerer_Standalone_7ff639ec-0ed8-dfe2-875d-b46f107a4977.pak","nexusFileId":129739,"metaUuid":"7ff639ec-0ed8-dfe2-875d-b46f107a4977"}
 ]},
 "22576":{"nexusModName":"Sword Sigil Sorcery Subclass for Korean","nexusUploadedBy":"Eolaloe","nexusModId":22576,"paks":[
 {"nexusFileName":"1. Sword Sigil Sorcery Subclass (Alone) for Korean","nexusFileVersion":"1.2.2.4","nexusFileUploadedAt":1779762967,"pakFileName":"Sword_Sigil_Sorcerer_Standalone_kr.pak","nexusFileId":122154,"metaUuid":null},
@@ -69495,4 +69495,7 @@
 ]},
 "24809":{"nexusModName":"Conquerors of Faerun","nexusUploadedBy":"nexuspaladin","nexusModId":24809,"paks":[
 {"nexusFileName":"ConquerorsOfFaerun","nexusFileVersion":"1","nexusFileUploadedAt":1788579057,"pakFileName":"ConquerorsOfFaerun.pak","nexusFileId":129728,"metaUuid":null}
+]},
+"24811":{"nexusModName":"Master of the wind","nexusUploadedBy":"justakidelcor","nexusModId":24811,"paks":[
+{"nexusFileName":"Master Of The Wind","nexusFileVersion":"1.4.1","nexusFileUploadedAt":1788594673,"pakFileName":"Master of the wind.pak","nexusFileId":129738,"metaUuid":null}
 ]}}
