@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-09-05T18:53:47.179339+00:00","total_mods":17515},
+{"_meta":{"last_run":"2026-09-05T19:53:22.993743+00:00","total_mods":17516},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -315,7 +315,12 @@
 "279":{"nexusModName":"Expansion Level 13-20 (Configurable)","nexusUploadedBy":"DiZ91891","nexusModId":279,"paks":[
 {"nexusFileName":"Bladesinger","nexusFileVersion":"2.1.0.0","nexusFileUploadedAt":1744924772,"pakFileName":"Bladesinger.pak","nexusFileId":89421,"metaUuid":"4b3027c0-d841-4c04-a015-6270592ec140"},
 {"nexusFileName":"Expansion Optional Features","nexusFileVersion":"1.00","nexusFileUploadedAt":1785636404,"pakFileName":"ExpansionOptionalFeatures.pak","nexusFileId":127076,"metaUuid":null},
-{"nexusFileName":"Expansion","nexusFileVersion":"1.7.3.11","nexusFileUploadedAt":1787373567,"pakFileName":"Expansion.pak","nexusFileId":128649,"metaUuid":"a2c4b0fc-e745-41df-81b7-fa53950d86a0"}
+{"nexusFileName":"Expansion","nexusFileVersion":"1.7.3.11","nexusFileUploadedAt":1787373567,"pakFileName":"Expansion.pak","nexusFileId":128649,"metaUuid":"a2c4b0fc-e745-41df-81b7-fa53950d86a0"},
+{"nexusFileName":"Extra Feats","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1788634989,"pakFileName":"ExpansionExtraFeats.pak","nexusFileId":129796,"metaUuid":null},
+{"nexusFileName":"Extra Feats","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1788634989,"pakFileName":"ExpansionExtraFeats_Second.pak","nexusFileId":129796,"metaUuid":null},
+{"nexusFileName":"Extra Feats","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1788634989,"pakFileName":"ExpansionExtraFeats_SecondOnly.pak","nexusFileId":129796,"metaUuid":null},
+{"nexusFileName":"Extra Feats","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1788634989,"pakFileName":"ExpansionExtraFeats_SecondThirdOnly.pak","nexusFileId":129796,"metaUuid":null},
+{"nexusFileName":"Extra Feats","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1788634989,"pakFileName":"ExpansionExtraFeats_Third.pak","nexusFileId":129796,"metaUuid":null}
 ]},
 "280":{"nexusModName":"Origin Unlocker and Warlock Fireball - TEST","nexusUploadedBy":"Gryffindor777","nexusModId":280,"paks":[
 {"nexusFileName":"ORIGIN UNLOCKER and WARLOCK FIREBALL","nexusFileVersion":"1","nexusFileUploadedAt":1636912832,"pakFileName":"Gustav.pak","nexusFileId":2180,"metaUuid":null},
@@ -60885,8 +60890,7 @@
 {"nexusFileName":"Barrel Tweaks for Japanese","nexusFileVersion":"1.0.1.10-1","nexusFileUploadedAt":1779841909,"pakFileName":"BarrelTweaks_jp.pak","nexusFileId":122246,"metaUuid":null}
 ]},
 "21602":{"nexusModName":"Kikyo's Wilderness Camp Overhaul","nexusUploadedBy":"Kikyo99","nexusModId":21602,"paks":[
-{"nexusFileName":"Kikyo's Wilderness Camp - Interactable Lanterns","nexusFileVersion":"2.8","nexusFileUploadedAt":1776295759,"pakFileName":"Kikyos_Wilderness_Camp_5ef4f614-31ea-0c0f-b6b3-634d7a1d3217.pak","nexusFileId":119105,"metaUuid":"5ef4f614-31ea-0c0f-b6b3-634d7a1d3217"},
-{"nexusFileName":"Kikyo's Wilderness Camp Overhaul","nexusFileVersion":"2.8","nexusFileUploadedAt":1776295813,"pakFileName":"Kikyos_Wilderness_Camp_5ef4f614-31ea-0c0f-b6b3-634d7a1d3217.pak","nexusFileId":119106,"metaUuid":"5ef4f614-31ea-0c0f-b6b3-634d7a1d3217"}
+{"nexusFileName":"Kikyo's Wilderness Camp (V 3.0.0.54)","nexusFileVersion":"3.0","nexusFileUploadedAt":1788635047,"pakFileName":"Kikyos_Wilderness_Camp_5ef4f614-31ea-0c0f-b6b3-634d7a1d3217.pak","nexusFileId":129797,"metaUuid":"5ef4f614-31ea-0c0f-b6b3-634d7a1d3217"}
 ]},
 "21603":{"nexusModName":"Conjure Treasure Chest","nexusUploadedBy":"swissfred","nexusModId":21603,"paks":[
 {"nexusFileName":"Conjure Treasure Chest","nexusFileVersion":"2.0.8.4","nexusFileUploadedAt":1772275267,"pakFileName":"ConjureTreasureChest_02490c18-626b-f5c2-2a14-f23e567a7be1.pak","nexusFileId":115768,"metaUuid":"02490c18-626b-f5c2-2a14-f23e567a7be1"}
@@ -61362,14 +61366,20 @@
 {"nexusFileName":"Lucky Clover Domain Cleric 1.0","nexusFileVersion":"1.0","nexusFileUploadedAt":1772820056,"pakFileName":"LuckyCloverDomain_2135ff31-9b18-5aeb-a9df-db73a3ef9204.pak","nexusFileId":116209,"metaUuid":"2135ff31-9b18-5aeb-a9df-db73a3ef9204"}
 ]},
 "21763":{"nexusModName":"Kikyo's Companion Tent Overhauls","nexusUploadedBy":"Kikyo99","nexusModId":21763,"paks":[
-{"nexusFileName":"Kikyo's Tent Remake - Karlach","nexusFileVersion":"1.0","nexusFileUploadedAt":1772828434,"pakFileName":"Kikyos_Tent_Remake_DB_Karlach_b7d14d1a-ef6b-ae11-c507-a34279dbe5f4.pak","nexusFileId":116221,"metaUuid":"b7d14d1a-ef6b-ae11-c507-a34279dbe5f4"},
-{"nexusFileName":"Kikyo's Tent Remake - Wyll","nexusFileVersion":"1.0","nexusFileUploadedAt":1772828472,"pakFileName":"Kikyos_Camp_Remake_Wyll_9abf0d85-6636-d867-bdcc-5ad2d2ad3be5.pak","nexusFileId":116222,"metaUuid":"9abf0d85-6636-d867-bdcc-5ad2d2ad3be5"},
-{"nexusFileName":"Kikyo's Tent Remake - Lae'zel","nexusFileVersion":"1.0","nexusFileUploadedAt":1772828507,"pakFileName":"Kikyos_Tent_Remake_Laezel_Alt_a69bddec-4f46-a75d-c931-53bc865a4e66.pak","nexusFileId":116223,"metaUuid":"a69bddec-4f46-a75d-c931-53bc865a4e66"},
-{"nexusFileName":"Kikyo's Tent Remake - Astarion","nexusFileVersion":"1.0","nexusFileUploadedAt":1772828550,"pakFileName":"Kikyos_Tent_Remake_Astarion_fa0044bc-083b-daee-57b2-60a6e22d5b29.pak","nexusFileId":116224,"metaUuid":"fa0044bc-083b-daee-57b2-60a6e22d5b29"},
-{"nexusFileName":"Kikyo's Tent Remake - Lae'zel (Alt Whetstone)","nexusFileVersion":"1.0","nexusFileUploadedAt":1773529641,"pakFileName":"Kikyos_Tent_Remake_Laezel_Alt_a69bddec-4f46-a75d-c931-53bc865a4e66.pak","nexusFileId":116759,"metaUuid":"a69bddec-4f46-a75d-c931-53bc865a4e66"},
-{"nexusFileName":"Kikyo's Tent Remake - Gale","nexusFileVersion":"1.0","nexusFileUploadedAt":1776295562,"pakFileName":"Kikyos_Tent_Remake_Gale_dae76f38-708e-91e0-88a9-2493e74b483d.pak","nexusFileId":119104,"metaUuid":"dae76f38-708e-91e0-88a9-2493e74b483d"},
-{"nexusFileName":"Kikyo's Tent Remake - Shadowheart","nexusFileVersion":"1.0","nexusFileUploadedAt":1776620562,"pakFileName":"Kikyos_Tent_Remake_Shadowheart_f1f5d1d4-6b7c-d482-32a4-7959c05ccd61.pak","nexusFileId":119477,"metaUuid":"f1f5d1d4-6b7c-d482-32a4-7959c05ccd61"},
-{"nexusFileName":"Kikyo's Tent Remake - Wyll (Alt Version)","nexusFileVersion":"1","nexusFileUploadedAt":1777310041,"pakFileName":"Kikyos_Tent_Remake_Wyll_Alt_8007f9f1-d4e2-2d24-552a-b8774db95878.pak","nexusFileId":120016,"metaUuid":"8007f9f1-d4e2-2d24-552a-b8774db95878"}
+{"nexusFileName":"Kikyo's Tent Remake - Wyll (Alt Version)","nexusFileVersion":"1.4","nexusFileUploadedAt":1788636248,"pakFileName":"Kikyos_Tent_Remake_Wyll_Alt_8007f9f1-d4e2-2d24-552a-b8774db95878.pak","nexusFileId":129799,"metaUuid":"8007f9f1-d4e2-2d24-552a-b8774db95878"},
+{"nexusFileName":"Kikyo's Tent Remake - Shadowheart","nexusFileVersion":"1.4","nexusFileUploadedAt":1788636317,"pakFileName":"Kikyos_Tent_Remake_Shadowheart_f1f5d1d4-6b7c-d482-32a4-7959c05ccd61.pak","nexusFileId":129800,"metaUuid":"f1f5d1d4-6b7c-d482-32a4-7959c05ccd61"},
+{"nexusFileName":"Kikyo's Tent Remake - Gale","nexusFileVersion":"1.4","nexusFileUploadedAt":1788636357,"pakFileName":"Kikyos_Tent_Remake_Gale_dae76f38-708e-91e0-88a9-2493e74b483d.pak","nexusFileId":129802,"metaUuid":"dae76f38-708e-91e0-88a9-2493e74b483d"},
+{"nexusFileName":"Kikyo's Tent Remake - Astarion","nexusFileVersion":"1.4","nexusFileUploadedAt":1788636445,"pakFileName":"Kikyos_Tent_Remake_Astarion_fa0044bc-083b-daee-57b2-60a6e22d5b29.pak","nexusFileId":129803,"metaUuid":"fa0044bc-083b-daee-57b2-60a6e22d5b29"},
+{"nexusFileName":"Kikyo's Tent Remake - Lae'zel","nexusFileVersion":"1.4","nexusFileUploadedAt":1788636505,"pakFileName":"Kikyos_Tent_Remake_Laezel_Alt_a69bddec-4f46-a75d-c931-53bc865a4e66.pak","nexusFileId":129804,"metaUuid":"a69bddec-4f46-a75d-c931-53bc865a4e66"},
+{"nexusFileName":"Kikyo's Tent Remake - Wyll","nexusFileVersion":"1.4","nexusFileUploadedAt":1788636562,"pakFileName":"Kikyos_Camp_Remake_Wyll_9abf0d85-6636-d867-bdcc-5ad2d2ad3be5.pak","nexusFileId":129805,"metaUuid":"9abf0d85-6636-d867-bdcc-5ad2d2ad3be5"},
+{"nexusFileName":"Kikyo's Tent Remake - Karlach","nexusFileVersion":"1.4","nexusFileUploadedAt":1788636631,"pakFileName":"Kikyos_Tent_Remake_DB_Karlach_b7d14d1a-ef6b-ae11-c507-a34279dbe5f4.pak","nexusFileId":129807,"metaUuid":"b7d14d1a-ef6b-ae11-c507-a34279dbe5f4"},
+{"nexusFileName":"Kikyos Tent Remake Astarion - No Compatibility","nexusFileVersion":"1.4","nexusFileUploadedAt":1788636862,"pakFileName":"Kikyos_Tent_Remake_Astarion_fa0044bc-083b-daee-57b2-60a6e22d5b29.pak","nexusFileId":129808,"metaUuid":"fa0044bc-083b-daee-57b2-60a6e22d5b29"},
+{"nexusFileName":"Kikyos Tent Remake Karlach - No Compatibility","nexusFileVersion":"1.4","nexusFileUploadedAt":1788636976,"pakFileName":"Kikyos_Tent_Remake_DB_Karlach_b7d14d1a-ef6b-ae11-c507-a34279dbe5f4.pak","nexusFileId":129809,"metaUuid":"b7d14d1a-ef6b-ae11-c507-a34279dbe5f4"},
+{"nexusFileName":"Kikyos Tent Remake Gale - No Compatibility","nexusFileVersion":"1.4","nexusFileUploadedAt":1788637033,"pakFileName":"Kikyos_Tent_Remake_Gale_dae76f38-708e-91e0-88a9-2493e74b483d.pak","nexusFileId":129810,"metaUuid":"dae76f38-708e-91e0-88a9-2493e74b483d"},
+{"nexusFileName":"Kikyos Tent Remake Laezel - No Compatibility","nexusFileVersion":"1.4","nexusFileUploadedAt":1788637084,"pakFileName":"Kikyos_Tent_Remake_Laezel_Alt_a69bddec-4f46-a75d-c931-53bc865a4e66.pak","nexusFileId":129811,"metaUuid":"a69bddec-4f46-a75d-c931-53bc865a4e66"},
+{"nexusFileName":"Kikyos Tent Remake SH - No Compatibility","nexusFileVersion":"1.4","nexusFileUploadedAt":1788637133,"pakFileName":"Kikyos_Tent_Remake_Shadowheart_f1f5d1d4-6b7c-d482-32a4-7959c05ccd61.pak","nexusFileId":129812,"metaUuid":"f1f5d1d4-6b7c-d482-32a4-7959c05ccd61"},
+{"nexusFileName":"Kikyos Tent Remake Wyll - No Compatibility","nexusFileVersion":"1.4","nexusFileUploadedAt":1788637169,"pakFileName":"Kikyos_Camp_Remake_Wyll_9abf0d85-6636-d867-bdcc-5ad2d2ad3be5.pak","nexusFileId":129813,"metaUuid":"9abf0d85-6636-d867-bdcc-5ad2d2ad3be5"},
+{"nexusFileName":"Kikyos Tent Remake Wyll Alt - No Compatibility","nexusFileVersion":"1.4","nexusFileUploadedAt":1788637214,"pakFileName":"Kikyos_Tent_Remake_Wyll_Alt_8007f9f1-d4e2-2d24-552a-b8774db95878.pak","nexusFileId":129814,"metaUuid":"8007f9f1-d4e2-2d24-552a-b8774db95878"}
 ]},
 "21764":{"nexusModName":"Way of the Jungle - Monk Subclass","nexusUploadedBy":"TricaliburOG","nexusModId":21764,"paks":[
 {"nexusFileName":"WayOfTheJungle-MonkSubclass","nexusFileVersion":"3.0.1.15","nexusFileUploadedAt":1774562340,"pakFileName":"WayOfTheJungleV1_f157ab47-12c0-1a20-a3bd-cb056bd7d0b2.pak","nexusFileId":117532,"metaUuid":"f157ab47-12c0-1a20-a3bd-cb056bd7d0b2"}
@@ -63782,6 +63792,9 @@
 ]},
 "22633":{"nexusModName":"Vagabond Class","nexusUploadedBy":"AsBallaAsPossible","nexusModId":22633,"paks":[
 {"nexusFileName":"Vagabond","nexusFileVersion":"1.11.0.128","nexusFileUploadedAt":1779803659,"pakFileName":"Vagabond_29c0a0e0-3def-be94-ad3f-8bc612f8cb38.pak","nexusFileId":122194,"metaUuid":"29c0a0e0-3def-be94-ad3f-8bc612f8cb38"}
+]},
+"22634":{"nexusModName":"VP Hairstyles","nexusUploadedBy":"suro","nexusModId":22634,"paks":[
+{"nexusFileName":"VP Hairstyles","nexusFileVersion":"2","nexusFileUploadedAt":1777935299,"pakFileName":"suro_vphair.pak","nexusFileId":120548,"metaUuid":null}
 ]},
 "22635":{"nexusModName":"Huffman's Pugilist - A Streetfighting Class with Swagger to Spare","nexusUploadedBy":"TheWailingBard","nexusModId":22635,"paks":[
 {"nexusFileName":"The Pugilist","nexusFileVersion":"1.0.0.19","nexusFileUploadedAt":1782163827,"pakFileName":"SterlingVerminPugilist_e7adb940-58a2-3d57-a98a-87038eb76ffd.pak","nexusFileId":124124,"metaUuid":"7d38a87b-0117-bfc7-d9ac-3915a8d08baa"},
@@ -67560,7 +67573,7 @@
 {"nexusFileName":"CombatModifiers","nexusFileVersion":"2","nexusFileUploadedAt":1788577235,"pakFileName":"CombatModifiers.pak","nexusFileId":129727,"metaUuid":null}
 ]},
 "24103":{"nexusModName":"Steal My Heart and Let Love In","nexusUploadedBy":"SilverHawkeSings","nexusModId":24103,"paks":[
-{"nexusFileName":"Steal My Heart Pose Pack","nexusFileVersion":"1","nexusFileUploadedAt":1786045313,"pakFileName":"StealMyHeart_4ffede51-1daa-6ce2-9dd0-d66bb78df343.pak","nexusFileId":127456,"metaUuid":"4ffede51-1daa-6ce2-9dd0-d66bb78df343"}
+{"nexusFileName":"Steal My Heart Pose Pack","nexusFileVersion":"2","nexusFileUploadedAt":1788637449,"pakFileName":"StealMyHeart_4ffede51-1daa-6ce2-9dd0-d66bb78df343.pak","nexusFileId":129815,"metaUuid":"4ffede51-1daa-6ce2-9dd0-d66bb78df343"}
 ]},
 "24104":{"nexusModName":"Aegis Fang (New Concept Verison)","nexusUploadedBy":"haytur","nexusModId":24104,"paks":[
 {"nexusFileName":"AegisFang","nexusFileVersion":"1.1","nexusFileUploadedAt":1785380718,"pakFileName":"AegisFang.pak","nexusFileId":126803,"metaUuid":"cf57b0ea-fd13-cdc4-3e08-c0ae63d299e9"}
@@ -68741,7 +68754,7 @@
 {"nexusFileName":"GontrMael","nexusFileVersion":"1","nexusFileUploadedAt":1787066235,"pakFileName":"GontrMael.pak","nexusFileId":128361,"metaUuid":null}
 ]},
 "24498":{"nexusModName":"Nightsilk Brocade Outfit","nexusUploadedBy":"ObsessedWhyYes","nexusModId":24498,"paks":[
-{"nexusFileName":"OWY Nightsilk Brocade","nexusFileVersion":"3","nexusFileUploadedAt":1787582369,"pakFileName":"OWYDoesOutfits_NightSilkBrocade_69be4462-cdea-be96-a824-99d4ecf70fd5.pak","nexusFileId":128931,"metaUuid":"69be4462-cdea-be96-a824-99d4ecf70fd5"}
+{"nexusFileName":"OWY Nightsilk Brocade","nexusFileVersion":"4","nexusFileUploadedAt":1788635481,"pakFileName":"OWYDoesOutfits_NightSilkBrocade_69be4462-cdea-be96-a824-99d4ecf70fd5.pak","nexusFileId":129798,"metaUuid":"69be4462-cdea-be96-a824-99d4ecf70fd5"}
 ]},
 "24499":{"nexusModName":"Shadow Blade On Weapon CHS","nexusUploadedBy":"158534276","nexusModId":24499,"paks":[
 {"nexusFileName":"UMI ShadowBlade Change","nexusFileVersion":"2","nexusFileUploadedAt":1787107210,"pakFileName":"UMI_ShadowBlade_Change.pak","nexusFileId":128433,"metaUuid":"98fa2fc5-15da-7f66-b629-7c851acc4a9f"}
@@ -69318,7 +69331,8 @@
 {"nexusFileName":"Symphony of a Vampire (Russian Localization)","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1788171309,"pakFileName":"VampiricTree_RU.pak","nexusFileId":129423,"metaUuid":null}
 ]},
 "24726":{"nexusModName":"Dynamic Vanilla Hotbar","nexusUploadedBy":"nyilas7","nexusModId":24726,"paks":[
-{"nexusFileName":"Dynamic Vanilla Hotbar","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1788429200,"pakFileName":"DynamicVanillaHotbar.pak","nexusFileId":129595,"metaUuid":"3f92226f-8cce-4df2-b358-46573518acfc"}
+{"nexusFileName":"Dynamic Vanilla Hotbar","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1788429200,"pakFileName":"DynamicVanillaHotbar.pak","nexusFileId":129595,"metaUuid":"3f92226f-8cce-4df2-b358-46573518acfc"},
+{"nexusFileName":"Dynamic Vanilla Hotbar - No AC","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1788636346,"pakFileName":"DynamicVanillaHotbarNoAC.pak","nexusFileId":129801,"metaUuid":null}
 ]},
 "24727":{"nexusModName":"Blood Sorcery - A Sorcerer subclass - TURKISH TRANSLATE","nexusUploadedBy":"Mrtbskn","nexusModId":24727,"paks":[
 {"nexusFileName":"Blood SorceryTurkish_Translate","nexusFileVersion":"1","nexusFileUploadedAt":1788188075,"pakFileName":"BloodMagicSpell_5b702441-7a33-9cb9-30c1-e64bd9ec89c3.pak","nexusFileId":129447,"metaUuid":null}
@@ -69339,7 +69353,7 @@
 "24733":{"nexusModName":"Alucard's Legacy","nexusUploadedBy":"Heathcliff805","nexusModId":24733,"paks":[
 {"nexusFileName":"ResculptPersists 1.2","nexusFileVersion":"1","nexusFileUploadedAt":1788424975,"pakFileName":"ResculptPersists.pak","nexusFileId":129593,"metaUuid":null},
 {"nexusFileName":"SummonHotbarMemory ","nexusFileVersion":"2","nexusFileUploadedAt":1788508143,"pakFileName":"SummonHotbarMemory.pak","nexusFileId":129649,"metaUuid":"b7e51a90-3c42-4d18-9f6b-2a7c5e10d833"},
-{"nexusFileName":"AlucardsLegacy expanded v2","nexusFileVersion":"12","nexusFileUploadedAt":1788627076,"pakFileName":"AlucardsLegacy.pak","nexusFileId":129774,"metaUuid":"a1c4d200-1e9a-4b77-9f31-6d2c8be51f01"}
+{"nexusFileName":"AlucardsLegacy expanded v2","nexusFileVersion":"14","nexusFileUploadedAt":1788636578,"pakFileName":"AlucardsLegacy.pak","nexusFileId":129806,"metaUuid":"a1c4d200-1e9a-4b77-9f31-6d2c8be51f01"}
 ]},
 "24734":{"nexusModName":"Mizora Joins Tweaks","nexusUploadedBy":"CosmicBovine","nexusModId":24734,"paks":[
 {"nexusFileName":"MizoraJoinsPatch","nexusFileVersion":"1","nexusFileUploadedAt":1788228502,"pakFileName":"MizoraJoinsPatch.pak","nexusFileId":129473,"metaUuid":"c0053edf-a2a1-4dd4-8449-6cbc96b30c88"}
