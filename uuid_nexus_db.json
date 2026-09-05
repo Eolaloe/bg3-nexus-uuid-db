@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-09-05T21:53:42.620573+00:00","total_mods":17516},
+{"_meta":{"last_run":"2026-09-05T22:53:32.315635+00:00","total_mods":17516},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -65352,8 +65352,8 @@
 {"nexusFileName":"Githtara","nexusFileVersion":"1.0.0.3","nexusFileUploadedAt":1780657829,"pakFileName":"Githtara_d77324b3-d576-c2fa-4b07-a1c010edcd88.pak","nexusFileId":122842,"metaUuid":null}
 ]},
 "23218":{"nexusModName":"One Levelled Spell Per Turn","nexusUploadedBy":"Nzx","nexusModId":23218,"paks":[
-{"nexusFileName":"One Levelled Spell Per Turn - 2024","nexusFileVersion":"1.1.3","nexusFileUploadedAt":1785508343,"pakFileName":"One Levelled Spell Per Turn [2024].pak","nexusFileId":126917,"metaUuid":null},
-{"nexusFileName":"One Levelled Spell Per Turn - 2014 RAI","nexusFileVersion":"1.1.3","nexusFileUploadedAt":1785508353,"pakFileName":"One Levelled Spell Per Turn.pak","nexusFileId":126918,"metaUuid":"da0ff8c8-4028-4ceb-b918-ca530cd31900"}
+{"nexusFileName":"One Levelled Spell Per Turn - 2024","nexusFileVersion":"1.1.4","nexusFileUploadedAt":1788645571,"pakFileName":"One Levelled Spell Per Turn [2024].pak","nexusFileId":129822,"metaUuid":null},
+{"nexusFileName":"One Levelled Spell Per Turn - 2014 RAI","nexusFileVersion":"1.1.4","nexusFileUploadedAt":1788645584,"pakFileName":"One Levelled Spell Per Turn.pak","nexusFileId":129823,"metaUuid":"da0ff8c8-4028-4ceb-b918-ca530cd31900"}
 ]},
 "23219":{"nexusModName":"Toggleable Dire Raven Darkness","nexusUploadedBy":"koboldJuno","nexusModId":23219,"paks":[
 {"nexusFileName":"Toggleable Dire Raven Fly","nexusFileVersion":"1.0","nexusFileUploadedAt":1780670821,"pakFileName":"ToggleableDireRavenFly.pak","nexusFileId":122851,"metaUuid":"cf3502c4-d6de-49bf-8daa-61c5b17c8bf6"}
@@ -68748,7 +68748,8 @@
 {"nexusFileName":"DragonClassRu","nexusFileVersion":"1.0.0.1","nexusFileUploadedAt":1787217960,"pakFileName":"DragonClassRu.pak","nexusFileId":128518,"metaUuid":null}
 ]},
 "24494":{"nexusModName":"Edith - Head Preset","nexusUploadedBy":"manuliparoni","nexusModId":24494,"paks":[
-{"nexusFileName":"Edith Head Preset C007baaf 540 4axi","nexusFileVersion":"1","nexusFileUploadedAt":1787054632,"pakFileName":"Edith_Head_Preset_c007baaf-540a-f6f5-b139-e5923b4b2b0c.pak","nexusFileId":128357,"metaUuid":"c007baaf-540a-f6f5-b139-e5923b4b2b0c"}
+{"nexusFileName":"Edith Head Preset","nexusFileVersion":"1.1","nexusFileUploadedAt":1788645364,"pakFileName":"Edith_Head_Preset_c007baaf-540a-f6f5-b139-e5923b4b2b0c.pak","nexusFileId":129821,"metaUuid":"c007baaf-540a-f6f5-b139-e5923b4b2b0c"},
+{"nexusFileName":"Edith Head Preset EOTB patch","nexusFileVersion":"1.1","nexusFileUploadedAt":1788645844,"pakFileName":"Edith_Head_Preset_EOTB.pak","nexusFileId":129824,"metaUuid":null}
 ]},
 "24497":{"nexusModName":"Enhanced Gontr Mael","nexusUploadedBy":"158534276","nexusModId":24497,"paks":[
 {"nexusFileName":"GontrMael","nexusFileVersion":"1","nexusFileUploadedAt":1787066235,"pakFileName":"GontrMael.pak","nexusFileId":128361,"metaUuid":null}
@@ -69248,7 +69249,7 @@
 {"nexusFileName":"Astarion FINAL","nexusFileVersion":"1","nexusFileUploadedAt":1788027313,"pakFileName":"Astarion_FINAL.pak","nexusFileId":129284,"metaUuid":"8e309005-2c4f-2a84-454c-483ac2f7b316"}
 ]},
 "24685":{"nexusModName":"Symphony of a Vampire - Vampirism Overhaul","nexusUploadedBy":"luiznunes","nexusModId":24685,"paks":[
-{"nexusFileName":"Vampiric Tree 75d2d721 1e37 D9 7axh","nexusFileVersion":"1.0.0.39","nexusFileUploadedAt":1788028946,"pakFileName":"vampiric_tree_75d2d721-1e37-d98f-9e4e-dc330c33ee10.pak","nexusFileId":129286,"metaUuid":"75d2d721-1e37-d98f-9e4e-dc330c33ee10"}
+{"nexusFileName":"Vampiric Tree 75d2d721 1e37 D9 7axh","nexusFileVersion":"1.1.0.56","nexusFileUploadedAt":1788647583,"pakFileName":"vampiric_tree_75d2d721-1e37-d98f-9e4e-dc330c33ee10.pak","nexusFileId":129825,"metaUuid":"75d2d721-1e37-d98f-9e4e-dc330c33ee10"}
 ]},
 "24686":{"nexusModName":"Involved Warlock Patrons - Russian Translation","nexusUploadedBy":"SNKmod777","nexusModId":24686,"paks":[
 {"nexusFileName":"Involved Patrons RU","nexusFileVersion":"2.2.0.0","nexusFileUploadedAt":1788042475,"pakFileName":"Involved_Patrons_RU.pak","nexusFileId":129301,"metaUuid":null}
