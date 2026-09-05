@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-09-05T09:52:40.195047+00:00","total_mods":17501},
+{"_meta":{"last_run":"2026-09-05T10:52:40.323908+00:00","total_mods":17507},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -66709,7 +66709,7 @@
 "23814":{"nexusModName":"Defensive Duelist Reaction Fix","nexusUploadedBy":"KaiJai","nexusModId":23814,"paks":[
 {"nexusFileName":"DefensiveDuelistReactionFix","nexusFileVersion":"0.1.1.0","nexusFileUploadedAt":1783924194,"pakFileName":"DefensiveDuelistReactionFix.pak","nexusFileId":125522,"metaUuid":"e79fb484-8cab-408b-bdcc-e0effcbca8e7"}
 ]},
-"23815":{"nexusModName":"Dual Wielding Begone (Toggle Dual Wielding Visibility)","nexusUploadedBy":"Cainhurtz","nexusModId":23815,"paks":[
+"23815":{"nexusModName":"Dual Wielding Begone (Invisible Dual Wielding Toggle)","nexusUploadedBy":"Cainhurtz","nexusModId":23815,"paks":[
 {"nexusFileName":"Dual Wielding Begone (Toggled)","nexusFileVersion":"9","nexusFileUploadedAt":1787495933,"pakFileName":"Fluck_Dual_Wielding.pak","nexusFileId":128838,"metaUuid":"3ab0115d-dbd6-4174-ba74-127260d87e9c"}
 ]},
 "23816":{"nexusModName":"Vox Machina (Pikes Holy Shield and Mace)","nexusUploadedBy":"haytur","nexusModId":23816,"paks":[
@@ -66751,7 +66751,7 @@
 {"nexusFileName":"Better UI AiO Patch","nexusFileVersion":"1.1.0.0","nexusFileUploadedAt":1788404517,"pakFileName":"SharedBags_BTAIOPatch.pak","nexusFileId":129584,"metaUuid":"135b278b-c4f4-4351-8356-83d868a3bb40"},
 {"nexusFileName":"Shared Bags for Your Party","nexusFileVersion":"1.1.0.0","nexusFileUploadedAt":1788404928,"pakFileName":"SharedBags.pak","nexusFileId":129585,"metaUuid":"b68a904f-fb57-4a64-a4bb-1e7cf264862f"}
 ]},
-"23823":{"nexusModName":"Shields Begone (Toggle Shield Visibility)","nexusUploadedBy":"Cainhurtz","nexusModId":23823,"paks":[
+"23823":{"nexusModName":"Shields Begone (Invisible Shield Toggle)","nexusUploadedBy":"Cainhurtz","nexusModId":23823,"paks":[
 {"nexusFileName":"Shields Begone (Toggled)","nexusFileVersion":"10","nexusFileUploadedAt":1787495971,"pakFileName":"Fluck_Shields.pak","nexusFileId":128839,"metaUuid":"69615e25-b334-5f90-9732-f21dd2ea7f34"}
 ]},
 "23824":{"nexusModName":"Shadow from Grenpoli - bt2 outfit","nexusUploadedBy":"Mojra414","nexusModId":23824,"paks":[
@@ -69478,6 +69478,9 @@
 "24798":{"nexusModName":"Winter Walker Ranger Subclass (Russian)","nexusUploadedBy":"North3n","nexusModId":24798,"paks":[
 {"nexusFileName":"Winter Walker Russian","nexusFileVersion":"1.2","nexusFileUploadedAt":1788517212,"pakFileName":"WinterWalker_09e190c8-d449-b653-69fc-252bcad61e45_Russian_reviewed.pak","nexusFileId":129661,"metaUuid":null}
 ]},
+"24799":{"nexusModName":"Starless Head Presets","nexusUploadedBy":"starlesstides","nexusModId":24799,"paks":[
+{"nexusFileName":"Starless Head Presets","nexusFileVersion":"2","nexusFileUploadedAt":1788552899,"pakFileName":"StarlessHeadPresets_ff22171c-c84f-59c3-1aef-a48b72e5dd56.pak","nexusFileId":129718,"metaUuid":null}
+]},
 "24800":{"nexusModName":"Sub-Dom Relationship Dynamics - Emi-SD","nexusUploadedBy":"EmiEmiko","nexusModId":24800,"paks":[
 {"nexusFileName":"Emi-SD","nexusFileVersion":"1","nexusFileUploadedAt":1788534631,"pakFileName":"Emi-SD.pak","nexusFileId":129680,"metaUuid":"af470284-819a-437f-91f8-275ce8306967"}
 ]},
@@ -69504,4 +69507,19 @@
 ]},
 "24814":{"nexusModName":"Marksman - A Gunslinger class for Traditional Chinese","nexusUploadedBy":"outlawerin1896","nexusModId":24814,"paks":[
 {"nexusFileName":"Marksman Class CHT","nexusFileVersion":"1.2.1.0","nexusFileUploadedAt":1788601342,"pakFileName":"Marksman_Class_CHT.pak","nexusFileId":129742,"metaUuid":null}
+]},
+"24816":{"nexusModName":"Maradis Immersive Firearms Traditional Chinese","nexusUploadedBy":"outlawerin1896","nexusModId":24816,"paks":[
+{"nexusFileName":"Maradi's Immersive Firearms CHT","nexusFileVersion":"2.6.0.0","nexusFileUploadedAt":1788602143,"pakFileName":"Maradi_s_Immersive_Firearms_CHT.pak","nexusFileId":129743,"metaUuid":null}
+]},
+"24819":{"nexusModName":"Magical Double-Bladed Scimitar Traditional Chinese","nexusUploadedBy":"outlawerin1896","nexusModId":24819,"paks":[
+{"nexusFileName":"MagicalDoubleScimitars CHT","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1788603065,"pakFileName":"MagicalDoubleScimitars_CHT.pak","nexusFileId":129744,"metaUuid":null}
+]},
+"24820":{"nexusModName":"Justicar - Rogue Subclass (Russian)","nexusUploadedBy":"North3n","nexusModId":24820,"paks":[
+{"nexusFileName":"Justicar Russian ","nexusFileVersion":"1.5.0","nexusFileUploadedAt":1788604959,"pakFileName":"Justicar_Russian_reviewed.pak","nexusFileId":129745,"metaUuid":null}
+]},
+"24821":{"nexusModName":"Favored Soul - Sorcerer Subclass (Russian)","nexusUploadedBy":"North3n","nexusModId":24821,"paks":[
+{"nexusFileName":"Favored Soul Russian","nexusFileVersion":"1.4.0","nexusFileUploadedAt":1788605256,"pakFileName":"Favored Soul_Russian_reviewed.pak","nexusFileId":129746,"metaUuid":null}
+]},
+"24822":{"nexusModName":"Witch Knight - Fighter Subclass (Russian)","nexusUploadedBy":"North3n","nexusModId":24822,"paks":[
+{"nexusFileName":"Witch Knight Russian","nexusFileVersion":"1.8.0","nexusFileUploadedAt":1788605487,"pakFileName":"Witch Knight_Russian_reviewed.pak","nexusFileId":129747,"metaUuid":null}
 ]}}
