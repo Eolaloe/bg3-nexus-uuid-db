@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-09-05T10:52:40.323908+00:00","total_mods":17507},
+{"_meta":{"last_run":"2026-09-05T11:52:47.503159+00:00","total_mods":17509},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -66578,7 +66578,7 @@
 {"nexusFileName":"CSUK Loremaster E5ES","nexusFileVersion":"1","nexusFileUploadedAt":1784981079,"pakFileName":"CSUK_Loremaster.pak","nexusFileId":126448,"metaUuid":"1a13803e-7e33-4273-949e-00cfd779893d"}
 ]},
 "23772":{"nexusModName":"Difficulty Adjustment","nexusUploadedBy":"BaiYanYueQWQ","nexusModId":23772,"paks":[
-{"nexusFileName":"DifficultyAdjustment","nexusFileVersion":"1.6.2.1","nexusFileUploadedAt":1788583366,"pakFileName":"DifficultyAdjustment.pak","nexusFileId":129730,"metaUuid":"9c20e0b9-b5af-4675-936f-484993cb295a"}
+{"nexusFileName":"DifficultyAdjustment","nexusFileVersion":"1.6.2.2","nexusFileUploadedAt":1788606903,"pakFileName":"DifficultyAdjustment.pak","nexusFileId":129749,"metaUuid":"9c20e0b9-b5af-4675-936f-484993cb295a"}
 ]},
 "23773":{"nexusModName":"Ardeo's Jawbone - Forgotten Armoury II - Shortsword","nexusUploadedBy":"Lyniara","nexusModId":23773,"paks":[
 {"nexusFileName":"Ardeo's Jawbone","nexusFileVersion":"1.0.0.4","nexusFileUploadedAt":1783718067,"pakFileName":"LYRA_LYN_Ardeo_Jawbone_1.0.0.4.pak","nexusFileId":125371,"metaUuid":"25224e76-5de0-9336-beb9-dca7a261e3b1"},
@@ -67142,7 +67142,9 @@
 {"nexusFileName":"Grant Flight Ritual","nexusFileVersion":"1","nexusFileUploadedAt":1784576324,"pakFileName":"GrantFlightRitual_9787c81d-a3d7-e274-734f-64d7d3689210.pak","nexusFileId":126088,"metaUuid":"9787c81d-a3d7-e274-734f-64d7d3689210"}
 ]},
 "23972":{"nexusModName":"P4 Dragonborn Extras","nexusUploadedBy":"Padme4000","nexusModId":23972,"paks":[
-{"nexusFileName":"P4 Dragonborn Extras","nexusFileVersion":"1.0.0.1","nexusFileUploadedAt":1785533609,"pakFileName":"p4_dgb_extras_5c251e56-1284-1e68-36c8-fd35305e94f1.pak","nexusFileId":126955,"metaUuid":"5c251e56-1284-1e68-36c8-fd35305e94f1"}
+{"nexusFileName":"P4 Dragonborn Extras","nexusFileVersion":"1.0.0.1","nexusFileUploadedAt":1785533609,"pakFileName":"p4_dgb_extras_5c251e56-1284-1e68-36c8-fd35305e94f1.pak","nexusFileId":126955,"metaUuid":"5c251e56-1284-1e68-36c8-fd35305e94f1"},
+{"nexusFileName":"Dragonborn Extras Hair Or Beard Slot","nexusFileVersion":"1.0","nexusFileUploadedAt":1788607469,"pakFileName":"dgbextras_beard_1f170b24-7f8f-eb2f-9976-166fbf2fa455.pak","nexusFileId":129750,"metaUuid":null},
+{"nexusFileName":"Dragonborn Extras Hair Or Beard Slot","nexusFileVersion":"1.0","nexusFileUploadedAt":1788607469,"pakFileName":"dgbextras_hair_44b4648c-e875-6a46-2480-46586039aae0.pak","nexusFileId":129750,"metaUuid":null}
 ]},
 "23973":{"nexusModName":"Force Weapons","nexusUploadedBy":"Tyranno85","nexusModId":23973,"paks":[
 {"nexusFileName":"Force","nexusFileVersion":"V1.5.1","nexusFileUploadedAt":1786314737,"pakFileName":"Force_509053cc-ea81-b575-c221-7a6f54cc331e.pak","nexusFileId":127726,"metaUuid":"509053cc-ea81-b575-c221-7a6f54cc331e"}
@@ -69508,6 +69510,9 @@
 "24814":{"nexusModName":"Marksman - A Gunslinger class for Traditional Chinese","nexusUploadedBy":"outlawerin1896","nexusModId":24814,"paks":[
 {"nexusFileName":"Marksman Class CHT","nexusFileVersion":"1.2.1.0","nexusFileUploadedAt":1788601342,"pakFileName":"Marksman_Class_CHT.pak","nexusFileId":129742,"metaUuid":null}
 ]},
+"24815":{"nexusModName":"The Official ACME ECU Collection","nexusUploadedBy":"rainbow1411","nexusModId":24815,"paks":[
+{"nexusFileName":"AcmeECU Props","nexusFileVersion":"1","nexusFileUploadedAt":1788606185,"pakFileName":"AcmeECU_1d4a431f-9f4a-5a38-b10d-c6a323b6325d.pak","nexusFileId":129748,"metaUuid":null}
+]},
 "24816":{"nexusModName":"Maradis Immersive Firearms Traditional Chinese","nexusUploadedBy":"outlawerin1896","nexusModId":24816,"paks":[
 {"nexusFileName":"Maradi's Immersive Firearms CHT","nexusFileVersion":"2.6.0.0","nexusFileUploadedAt":1788602143,"pakFileName":"Maradi_s_Immersive_Firearms_CHT.pak","nexusFileId":129743,"metaUuid":null}
 ]},
@@ -69522,4 +69527,7 @@
 ]},
 "24822":{"nexusModName":"Witch Knight - Fighter Subclass (Russian)","nexusUploadedBy":"North3n","nexusModId":24822,"paks":[
 {"nexusFileName":"Witch Knight Russian","nexusFileVersion":"1.8.0","nexusFileUploadedAt":1788605487,"pakFileName":"Witch Knight_Russian_reviewed.pak","nexusFileId":129747,"metaUuid":null}
+]},
+"24823":{"nexusModName":"The Official ECU Collection","nexusUploadedBy":"rainbow1411","nexusModId":24823,"paks":[
+{"nexusFileName":"Official ECU Collection Poses","nexusFileVersion":"1","nexusFileUploadedAt":1788608361,"pakFileName":"Official_ECU_Collection_c2506431-62ab-b2cb-70ce-58d5c5846d27.pak","nexusFileId":129751,"metaUuid":null}
 ]}}
