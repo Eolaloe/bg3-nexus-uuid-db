@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-09-05T13:53:03.789064+00:00","total_mods":17509},
+{"_meta":{"last_run":"2026-09-05T14:52:50.805454+00:00","total_mods":17510},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -61477,7 +61477,7 @@
 {"nexusFileName":"D. Rebalance Feats Compatibility","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1781445565,"pakFileName":"TheGunslinger-RebalanceFeatsCompatibility.pak","nexusFileId":123546,"metaUuid":null},
 {"nexusFileName":"B. The Gunslinger Addon Revolver OffHand","nexusFileVersion":"2.0.0.6","nexusFileUploadedAt":1784352419,"pakFileName":"TheGunslingerOffHandAddon_db9c5c90-6f70-f07a-153e-d873fc5f803d.pak","nexusFileId":125916,"metaUuid":null},
 {"nexusFileName":"F. Spellslinger Wizard Subclass Add-On","nexusFileVersion":"1.0.0.1","nexusFileUploadedAt":1785666656,"pakFileName":"TheGunslinger_WizardAddOn_3eaab4ba-f1fc-9a6b-533a-5ae325b4a838.pak","nexusFileId":127106,"metaUuid":null},
-{"nexusFileName":"The Gunslinger Class (ENG-KOR)","nexusFileVersion":"3.0.0.16","nexusFileUploadedAt":1787996476,"pakFileName":"TheGunslinger_1f2b82d7-19c8-734b-5f43-05d57d3e7601.pak","nexusFileId":129255,"metaUuid":"1f2b82d7-19c8-734b-5f43-05d57d3e7601"}
+{"nexusFileName":"The Gunslinger Class (ENG-KOR)","nexusFileVersion":"3.0.0.17","nexusFileUploadedAt":1788618286,"pakFileName":"TheGunslinger_1f2b82d7-19c8-734b-5f43-05d57d3e7601.pak","nexusFileId":129760,"metaUuid":"1f2b82d7-19c8-734b-5f43-05d57d3e7601"}
 ]},
 "21796":{"nexusModName":"Em's Misc Head Collection","nexusUploadedBy":"emsthings","nexusModId":21796,"paks":[
 {"nexusFileName":"Em's Head Collection","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1772951131,"pakFileName":"Ems_Heads_41f62b28-72fa-cd43-2b54-e521a962a342.pak","nexusFileId":116314,"metaUuid":"41f62b28-72fa-cd43-2b54-e521a962a342"}
@@ -64523,8 +64523,8 @@
 "22965":{"nexusModName":"Emerald Lake - A Map for VP","nexusUploadedBy":"inkyplz","nexusModId":22965,"paks":[
 {"nexusFileName":"Emerald Lake","nexusFileVersion":"1.0.0.6","nexusFileUploadedAt":1779197391,"pakFileName":"Inky_Lake_6f80a1ed-25b1-0846-80c4-0afb25241007.pak","nexusFileId":121682,"metaUuid":"6f80a1ed-25b1-0846-80c4-0afb25241007"}
 ]},
-"22966":{"nexusModName":"Transformer Flute-CHS","nexusUploadedBy":"AgleafSdan","nexusModId":22966,"paks":[
-{"nexusFileName":"Transformer Flute CHS","nexusFileVersion":"2","nexusFileUploadedAt":1779899045,"pakFileName":"Transformer Flute-CHS.pak","nexusFileId":122283,"metaUuid":"de6479a8-857f-4997-af4d-3a616989d76a"}
+"22966":{"nexusModName":"Sexy Transform-CHS","nexusUploadedBy":"AgleafSdan","nexusModId":22966,"paks":[
+{"nexusFileName":"Sexy Transform CHS","nexusFileVersion":"3","nexusFileUploadedAt":1788618258,"pakFileName":"Sexy Transform-CHS.pak","nexusFileId":129759,"metaUuid":null}
 ]},
 "22967":{"nexusModName":"CombatBodysuit_AscendantOne_Artemis","nexusUploadedBy":"EvilRecluse","nexusModId":22967,"paks":[
 {"nexusFileName":"CombatBodysuit AscendantOne Artemis","nexusFileVersion":"2","nexusFileUploadedAt":1779610832,"pakFileName":"CombatBodysuit_AscendantOne_Artemis.pak","nexusFileId":122033,"metaUuid":"df660193-9ac8-44a0-ae6d-ffc282602f06"}
@@ -69339,7 +69339,7 @@
 "24733":{"nexusModName":"Alucard's Legacy","nexusUploadedBy":"Heathcliff805","nexusModId":24733,"paks":[
 {"nexusFileName":"ResculptPersists 1.2","nexusFileVersion":"1","nexusFileUploadedAt":1788424975,"pakFileName":"ResculptPersists.pak","nexusFileId":129593,"metaUuid":null},
 {"nexusFileName":"SummonHotbarMemory ","nexusFileVersion":"2","nexusFileUploadedAt":1788508143,"pakFileName":"SummonHotbarMemory.pak","nexusFileId":129649,"metaUuid":"b7e51a90-3c42-4d18-9f6b-2a7c5e10d833"},
-{"nexusFileName":"AlucardsLegacy expanded v2","nexusFileVersion":"7","nexusFileUploadedAt":1788615917,"pakFileName":"AlucardsLegacy.pak","nexusFileId":129758,"metaUuid":"a1c4d200-1e9a-4b77-9f31-6d2c8be51f01"}
+{"nexusFileName":"AlucardsLegacy expanded v2","nexusFileVersion":"8","nexusFileUploadedAt":1788619503,"pakFileName":"AlucardsLegacy.pak","nexusFileId":129761,"metaUuid":"a1c4d200-1e9a-4b77-9f31-6d2c8be51f01"}
 ]},
 "24734":{"nexusModName":"Mizora Joins Tweaks","nexusUploadedBy":"CosmicBovine","nexusModId":24734,"paks":[
 {"nexusFileName":"MizoraJoinsPatch","nexusFileVersion":"1","nexusFileUploadedAt":1788228502,"pakFileName":"MizoraJoinsPatch.pak","nexusFileId":129473,"metaUuid":"c0053edf-a2a1-4dd4-8449-6cbc96b30c88"}
@@ -69532,4 +69532,7 @@
 ]},
 "24823":{"nexusModName":"The Official ECU Collection","nexusUploadedBy":"rainbow1411","nexusModId":24823,"paks":[
 {"nexusFileName":"Official ECU Collection Poses","nexusFileVersion":"1","nexusFileUploadedAt":1788608361,"pakFileName":"Official_ECU_Collection_c2506431-62ab-b2cb-70ce-58d5c5846d27.pak","nexusFileId":129751,"metaUuid":null}
+]},
+"24825":{"nexusModName":"Sharess' Cuckfighter - Fighter Subclass","nexusUploadedBy":"mashnear","nexusModId":24825,"paks":[
+{"nexusFileName":"CbattleM V1AS","nexusFileVersion":"1","nexusFileUploadedAt":1788610990,"pakFileName":"CbattleM_V1AS_SharessCuckfighter_DART_AmiraCustomDialogueFix.pak","nexusFileId":129756,"metaUuid":null}
 ]}}
