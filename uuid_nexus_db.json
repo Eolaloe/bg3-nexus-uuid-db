@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-09-05T11:52:47.503159+00:00","total_mods":17509},
+{"_meta":{"last_run":"2026-09-05T12:52:51.271542+00:00","total_mods":17509},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -63498,8 +63498,8 @@
 "22518":{"nexusModName":"JWL Discordant Instruments for Patch 7 for Japanese","nexusUploadedBy":"Eolaloe","nexusModId":22518,"paks":[
 {"nexusFileName":"JWL Discordant Instruments for Japanese","nexusFileVersion":"1.5.1","nexusFileUploadedAt":1778609845,"pakFileName":"JWL_DiscordantInstruments_jp.pak","nexusFileId":121083,"metaUuid":null}
 ]},
-"22519":{"nexusModName":"Lacuna - Scythe","nexusUploadedBy":"Nevaty","nexusModId":22519,"paks":[
-{"nexusFileName":"Lacuna - Scythe","nexusFileVersion":"1.1","nexusFileUploadedAt":1776988994,"pakFileName":"DarknessEdge_fec82c3f-c4cb-e907-7cdb-dc4984cf6d95.pak","nexusFileId":119760,"metaUuid":"fec82c3f-c4cb-e907-7cdb-dc4984cf6d95"}
+"22519":{"nexusModName":"Darkness Edge - Scythe","nexusUploadedBy":"Nevaty","nexusModId":22519,"paks":[
+{"nexusFileName":"Darkness Edge - Scythe","nexusFileVersion":"1.1","nexusFileUploadedAt":1788609270,"pakFileName":"DarknessEdge_485867af-fcf3-b89f-f1f2-76afd9d1bcbe.pak","nexusFileId":129752,"metaUuid":null}
 ]},
 "22520":{"nexusModName":"Mizora's Milk (reward for killing Karlach","nexusUploadedBy":"mc1r","nexusModId":22520,"paks":[
 {"nexusFileName":"Mizora's Reward for killing Karlach","nexusFileVersion":"1","nexusFileUploadedAt":1776874211,"pakFileName":"KILL_KARLACH_d33e8b6a-885d-ea5f-3772-663e71562c29.pak","nexusFileId":119676,"metaUuid":"d33e8b6a-885d-ea5f-3772-663e71562c29"}
@@ -68953,7 +68953,9 @@
 ]},
 "24578":{"nexusModName":"Devil May cry 5 (DMC5) Nero Devil Breakers","nexusUploadedBy":"KraytClaw","nexusModId":24578,"paks":[
 {"nexusFileName":" NeroBreakers","nexusFileVersion":"1.0","nexusFileUploadedAt":1787445482,"pakFileName":"_NeroBreakers.pak","nexusFileId":128739,"metaUuid":"7813bcc9-8cb2-4370-a01c-81fc2980c6ae"},
-{"nexusFileName":"NeroBreakers NoProgression","nexusFileVersion":"1.0","nexusFileUploadedAt":1787445548,"pakFileName":"_NeroBreakers_NoProgression.pak","nexusFileId":128740,"metaUuid":"045fedb0-41b7-47e6-83f3-f2d4e665cf33"}
+{"nexusFileName":"NeroBreakers NoProgression","nexusFileVersion":"1.0","nexusFileUploadedAt":1787445548,"pakFileName":"_NeroBreakers_NoProgression.pak","nexusFileId":128740,"metaUuid":"045fedb0-41b7-47e6-83f3-f2d4e665cf33"},
+{"nexusFileName":"NeroBreakersDyable","nexusFileVersion":"1.0","nexusFileUploadedAt":1788609369,"pakFileName":"_NeroBreakersDyable.pak","nexusFileId":129753,"metaUuid":null},
+{"nexusFileName":"NeroBreakersDyable NoProgression","nexusFileVersion":"1.0","nexusFileUploadedAt":1788610605,"pakFileName":"_NeroBreakersDyable_NoProgression.pak","nexusFileId":129755,"metaUuid":null}
 ]},
 "24580":{"nexusModName":"Lowclass Degenerate - Rogue Subclass","nexusUploadedBy":"mashnear","nexusModId":24580,"paks":[
 {"nexusFileName":"LowclassDegenerate V2N","nexusFileVersion":"2","nexusFileUploadedAt":1788130282,"pakFileName":"LowclassDegenerate_V2O_FightStartIdentityDebounce.pak","nexusFileId":129393,"metaUuid":null}
@@ -69307,7 +69309,7 @@
 {"nexusFileName":"Appearance Edit Origins (Russian Localization)","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1788160476,"pakFileName":"AppearanceEditOrigins_RU.pak","nexusFileId":129420,"metaUuid":null}
 ]},
 "24723":{"nexusModName":"Heart of Valor","nexusUploadedBy":"swissfred","nexusModId":24723,"paks":[
-{"nexusFileName":"Heart of Valor","nexusFileVersion":"3.0.8.0","nexusFileUploadedAt":1788524352,"pakFileName":"HeartOfValor_9f021983-eaee-d868-3c66-020f327f4c9e.pak","nexusFileId":129668,"metaUuid":null}
+{"nexusFileName":"Heart of Valor","nexusFileVersion":"3.0.8.2","nexusFileUploadedAt":1788609519,"pakFileName":"HeartOfValor_9f021983-eaee-d868-3c66-020f327f4c9e.pak","nexusFileId":129754,"metaUuid":null}
 ]},
 "24724":{"nexusModName":"Mod Configuration Menu (Russian Localization)","nexusUploadedBy":"ganeuken","nexusModId":24724,"paks":[
 {"nexusFileName":"Mod Configuration Menu (Russian Localization)","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1788167962,"pakFileName":"ModConfigurationMenu_RU.pak","nexusFileId":129422,"metaUuid":null}
