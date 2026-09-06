@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-09-06T22:53:15.983382+00:00","total_mods":17527},
+{"_meta":{"last_run":"2026-09-06T23:52:58.833977+00:00","total_mods":17529},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -65336,7 +65336,7 @@
 ]},
 "23218":{"nexusModName":"One Levelled Spell Per Turn","nexusUploadedBy":"Nzx","nexusModId":23218,"paks":[
 {"nexusFileName":"One Levelled Spell Per Turn - 2024","nexusFileVersion":"1.1.4","nexusFileUploadedAt":1788645571,"pakFileName":"One Levelled Spell Per Turn [2024].pak","nexusFileId":129822,"metaUuid":null},
-{"nexusFileName":"One Levelled Spell Per Turn - 2014 RAI","nexusFileVersion":"1.1.4","nexusFileUploadedAt":1788645584,"pakFileName":"One Levelled Spell Per Turn.pak","nexusFileId":129823,"metaUuid":"da0ff8c8-4028-4ceb-b918-ca530cd31900"}
+{"nexusFileName":"One Levelled Spell Per Turn - 2014 RAI","nexusFileVersion":"1.1.5","nexusFileUploadedAt":1788738607,"pakFileName":"One Levelled Spell Per Turn.pak","nexusFileId":129913,"metaUuid":"da0ff8c8-4028-4ceb-b918-ca530cd31900"}
 ]},
 "23219":{"nexusModName":"Toggleable Dire Raven Darkness","nexusUploadedBy":"koboldJuno","nexusModId":23219,"paks":[
 {"nexusFileName":"Toggleable Dire Raven Fly","nexusFileVersion":"1.0","nexusFileUploadedAt":1780670821,"pakFileName":"ToggleableDireRavenFly.pak","nexusFileId":122851,"metaUuid":"cf3502c4-d6de-49bf-8daa-61c5b17c8bf6"}
@@ -69587,4 +69587,10 @@
 ]},
 "24852":{"nexusModName":"Elegy of the Beast - Werewolf Overhaul","nexusUploadedBy":"luiznunes","nexusModId":24852,"paks":[
 {"nexusFileName":"Lycanthrope Tree 805a7fb6 Cad3 5jkp","nexusFileVersion":"1.0.0.19","nexusFileUploadedAt":1788718306,"pakFileName":"lycanthrope_tree_805a7fb6-cad3-3d60-23b7-cf1f0e832aad.pak","nexusFileId":129895,"metaUuid":"805a7fb6-cad3-3d60-23b7-cf1f0e832aad"}
+]},
+"24856":{"nexusModName":"Truly Legendary Items","nexusUploadedBy":"somd3v","nexusModId":24856,"paks":[
+{"nexusFileName":"Truly Legendary Items","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1788735955,"pakFileName":"Legendary_ab52250f-4d4f-461d-ab55-c3ba421c0907.pak","nexusFileId":129910,"metaUuid":null}
+]},
+"24857":{"nexusModName":"Realistic Medieval Armor","nexusUploadedBy":"nexuspaladin","nexusModId":24857,"paks":[
+{"nexusFileName":"Realistic Medieval Armor","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1788738024,"pakFileName":"14th_Century_Plate_Armour.pak","nexusFileId":129912,"metaUuid":null}
 ]}}
