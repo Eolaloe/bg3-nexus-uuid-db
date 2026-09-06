@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-09-06T19:52:46.378020+00:00","total_mods":17527},
+{"_meta":{"last_run":"2026-09-06T20:53:10.527502+00:00","total_mods":17527},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -51507,7 +51507,7 @@
 {"nexusFileName":"UndeadDamageTweaks","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1757182832,"pakFileName":"UndeadDamage.pak","nexusFileId":102194,"metaUuid":null}
 ]},
 "18501":{"nexusModName":"Sarymsak's clothes and armour for monks - rogues - clerics of Ilmater","nexusUploadedBy":"sarymsak","nexusModId":18501,"paks":[
-{"nexusFileName":"Sarymsak's clothes and armour","nexusFileVersion":"5.0","nexusFileUploadedAt":1783247733,"pakFileName":"v5.0_Sarymsaks_clothing_296baa65-12b7-87d5-058c-dba0d403c17c.pak","nexusFileId":124934,"metaUuid":"296baa65-12b7-87d5-058c-dba0d403c17c"}
+{"nexusFileName":"Sarymsak's clothes and armour","nexusFileVersion":"5.1","nexusFileUploadedAt":1788724794,"pakFileName":"v5.1_Sarymsaks_clothing_296baa65-12b7-87d5-058c-dba0d403c17c.pak","nexusFileId":129902,"metaUuid":null}
 ]},
 "18503":{"nexusModName":"Better Races All in One (Half Elves at last)","nexusUploadedBy":"KiwiLifter","nexusModId":18503,"paks":[
 {"nexusFileName":"Better Races","nexusFileVersion":"2.0c","nexusFileUploadedAt":1770790133,"pakFileName":"BetterRaces.pak","nexusFileId":114578,"metaUuid":"60e763b3-87c9-407d-a8e2-8e865f4574ae"}
@@ -66745,7 +66745,7 @@
 {"nexusFileName":"Better Context Menu Patch","nexusFileVersion":"1.1.0.0","nexusFileUploadedAt":1788404485,"pakFileName":"SharedBags_BCMPatch.pak","nexusFileId":129582,"metaUuid":"fc63a4af-29d0-438b-bf28-101528e39512"},
 {"nexusFileName":"Better UI AiO Patch (x1.3)","nexusFileVersion":"1.1.0.0","nexusFileUploadedAt":1788404506,"pakFileName":"SharedBags_BTAIOPatch13.pak","nexusFileId":129583,"metaUuid":"b3debe79-b88c-431e-806c-1e89d0f9f4db"},
 {"nexusFileName":"Better UI AiO Patch","nexusFileVersion":"1.1.0.0","nexusFileUploadedAt":1788404517,"pakFileName":"SharedBags_BTAIOPatch.pak","nexusFileId":129584,"metaUuid":"135b278b-c4f4-4351-8356-83d868a3bb40"},
-{"nexusFileName":"Shared Bags for Your Party","nexusFileVersion":"1.1.0.0","nexusFileUploadedAt":1788404928,"pakFileName":"SharedBags.pak","nexusFileId":129585,"metaUuid":"b68a904f-fb57-4a64-a4bb-1e7cf264862f"}
+{"nexusFileName":"Shared Bags for Your Party","nexusFileVersion":"1.1.0.1","nexusFileUploadedAt":1788725284,"pakFileName":"SharedBags.pak","nexusFileId":129903,"metaUuid":"b68a904f-fb57-4a64-a4bb-1e7cf264862f"}
 ]},
 "23823":{"nexusModName":"Shields Begone (Invisible Shield Toggle)","nexusUploadedBy":"Cainhurtz","nexusModId":23823,"paks":[
 {"nexusFileName":"Shields Begone (Toggled)","nexusFileVersion":"11","nexusFileUploadedAt":1788700930,"pakFileName":"Fluck_Shields.pak","nexusFileId":129871,"metaUuid":"69615e25-b334-5f90-9732-f21dd2ea7f34"}
@@ -69360,7 +69360,7 @@
 {"nexusFileName":"The Murk Sunk Wilds","nexusFileVersion":"1.0.0.3","nexusFileUploadedAt":1788310708,"pakFileName":"Tinu_BogWitchHouse_Map_bac2ddff-bbcd-c945-e063-1ed559429da5.pak","nexusFileId":129519,"metaUuid":"bac2ddff-bbcd-c945-e063-1ed559429da5"}
 ]},
 "24751":{"nexusModName":"Power Word Ruin","nexusUploadedBy":"JThug","nexusModId":24751,"paks":[
-{"nexusFileName":"Power Word Ruin 1.1.0","nexusFileVersion":"1.1.0","nexusFileUploadedAt":1788418273,"pakFileName":"StarkPowerWordRuin.pak","nexusFileId":129589,"metaUuid":null}
+{"nexusFileName":"Power Word Ruin 1.2.0","nexusFileVersion":"1.2.0","nexusFileUploadedAt":1788724522,"pakFileName":"StarkPowerWordRuin.pak","nexusFileId":129901,"metaUuid":null}
 ]},
 "24752":{"nexusModName":"Level 9 Hotbar Slots CHS","nexusUploadedBy":"TacticalCheeseRELX","nexusModId":24752,"paks":[
 {"nexusFileName":"Level 9 Hotbar Slots CHS V1.0","nexusFileVersion":"1","nexusFileUploadedAt":1788314403,"pakFileName":"Level_9_Hotbar_Slots_CHS V1.0.pak","nexusFileId":129521,"metaUuid":null}
@@ -69532,7 +69532,8 @@
 ]},
 "24826":{"nexusModName":"Dwayne Johnson head","nexusUploadedBy":"Rafael5500","nexusModId":24826,"paks":[
 {"nexusFileName":"Dwayne Johnson Head","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1788620840,"pakFileName":"Dwayne_Johnson_head_53b3b53c-e1a7-01b8-aa0d-155861797118.pak","nexusFileId":129762,"metaUuid":"53b3b53c-e1a7-01b8-aa0d-155861797118"},
-{"nexusFileName":"Dwayne Johnson Head 1 0 1","nexusFileVersion":"1.0.1","nexusFileUploadedAt":1788706162,"pakFileName":"Dwayne_Johnson_head_53b3b53c-e1a7-01b8-aa0d-155861797118.pak","nexusFileId":129875,"metaUuid":"53b3b53c-e1a7-01b8-aa0d-155861797118"}
+{"nexusFileName":"Dwayne Johnson Head 1 0 1","nexusFileVersion":"1.0.1","nexusFileUploadedAt":1788706162,"pakFileName":"Dwayne_Johnson_head_53b3b53c-e1a7-01b8-aa0d-155861797118.pak","nexusFileId":129875,"metaUuid":"53b3b53c-e1a7-01b8-aa0d-155861797118"},
+{"nexusFileName":"Dwayne Johnson Head 1.0.2","nexusFileVersion":"1.0.2","nexusFileUploadedAt":1788725532,"pakFileName":"Dwayne_Johnson_head_53b3b53c-e1a7-01b8-aa0d-155861797118.pak","nexusFileId":129904,"metaUuid":"53b3b53c-e1a7-01b8-aa0d-155861797118"}
 ]},
 "24829":{"nexusModName":"Half-Illithid Veins Only","nexusUploadedBy":"wrenanigans","nexusModId":24829,"paks":[
 {"nexusFileName":"IllithidVeinsOnly","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1788626964,"pakFileName":"IllithidVeinsOnly.pak","nexusFileId":129773,"metaUuid":"5068eed9-3af7-400f-ba1c-1ed5a4101ba4"}
