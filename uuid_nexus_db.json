@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-09-06T03:53:04.117720+00:00","total_mods":17516},
+{"_meta":{"last_run":"2026-09-06T04:53:07.126659+00:00","total_mods":17517},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -22241,7 +22241,7 @@
 {"nexusFileName":"Traducao para o mod Better Hints and New Loading","nexusFileVersion":"E.g-1.0","nexusFileUploadedAt":1709278738,"pakFileName":"BetterHints - PT-BR.pak","nexusFileId":47414,"metaUuid":"9503937b-4de6-4889-8b9d-7958d4b0c0fd"}
 ]},
 "7348":{"nexusModName":"Mutant Class (Based on X-Men)","nexusUploadedBy":"somd3v","nexusModId":7348,"paks":[
-{"nexusFileName":"Mutant Class","nexusFileVersion":"3.0.0","nexusFileUploadedAt":1788649498,"pakFileName":"MutantClass_c9d17058-6c48-0af4-bd1e-94b15cd159d5.pak","nexusFileId":129826,"metaUuid":null}
+{"nexusFileName":"Mutant Class","nexusFileVersion":"3.0.1","nexusFileUploadedAt":1788668222,"pakFileName":"MutantClass_c9d17058-6c48-0af4-bd1e-94b15cd159d5.pak","nexusFileId":129835,"metaUuid":null}
 ]},
 "7350":{"nexusModName":"Treasure Goblins ITA","nexusUploadedBy":"Rahl81","nexusModId":7350,"paks":[
 {"nexusFileName":"Treasure Goblins ITA","nexusFileVersion":"1.5.1","nexusFileUploadedAt":1716039855,"pakFileName":"Treasure Goblins - ITA.pak","nexusFileId":57683,"metaUuid":null}
@@ -66357,7 +66357,7 @@
 {"nexusFileName":"Humanoid Equipment and Clothing","nexusFileVersion":"1.1.0","nexusFileUploadedAt":1784259560,"pakFileName":"ECC_Humanoid_5f2c3462-94d5-feeb-5f39-5cd0f7a76c5a.pak","nexusFileId":125802,"metaUuid":"5f2c3462-94d5-feeb-5f39-5cd0f7a76c5a"},
 {"nexusFileName":"Githyanki Equipment","nexusFileVersion":"1.1.2","nexusFileUploadedAt":1784452408,"pakFileName":"ECC_Githyanki_9fb63845-8b2d-314d-99a2-bd0c75199995.pak","nexusFileId":125992,"metaUuid":"9fb63845-8b2d-314d-99a2-bd0c75199995"},
 {"nexusFileName":"Flaming Fist Equipment","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1784613341,"pakFileName":"ECC_FlamingFist_65c74891-9078-8eec-e159-2d3a9b674b91.pak","nexusFileId":126114,"metaUuid":"65c74891-9078-8eec-e159-2d3a9b674b91"},
-{"nexusFileName":"Starting Equipment Selection","nexusFileVersion":"1.3.0","nexusFileUploadedAt":1786872934,"pakFileName":"ECC_a1e921ae-8aa2-655c-c399-cfd97ed46f4c.pak","nexusFileId":128202,"metaUuid":"a1e921ae-8aa2-655c-c399-cfd97ed46f4c"}
+{"nexusFileName":"Starting Equipment Selection","nexusFileVersion":"1.3.1","nexusFileUploadedAt":1788668069,"pakFileName":"ECC_a1e921ae-8aa2-655c-c399-cfd97ed46f4c.pak","nexusFileId":129833,"metaUuid":"a1e921ae-8aa2-655c-c399-cfd97ed46f4c"}
 ]},
 "23682":{"nexusModName":"Draconic Heritage - New Feat and Dragonborn Breath Weapon Tweaks","nexusUploadedBy":"aljoxo","nexusModId":23682,"paks":[
 {"nexusFileName":"Draconic Heritage","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1783070266,"pakFileName":"DraconicHeritageFeat_6717ff34-c605-60f2-a7d4-43af802463a2.pak","nexusFileId":124765,"metaUuid":"6717ff34-c605-60f2-a7d4-43af802463a2"}
@@ -69559,4 +69559,10 @@
 ]},
 "24834":{"nexusModName":"Midas's Golden Arsenal","nexusUploadedBy":"Prednoxx","nexusModId":24834,"paks":[
 {"nexusFileName":"MidasReleaseVersion","nexusFileVersion":"1","nexusFileUploadedAt":1788651877,"pakFileName":"MidasGoldenArsenal_103e49fc-e61c-42d5-a01c-d8c1aac650e6.pak","nexusFileId":129827,"metaUuid":null}
+]},
+"24836":{"nexusModName":"Prismatic Power - Counterbalance Mod for AMP's Hard Difficulty","nexusUploadedBy":"ecn06033","nexusModId":24836,"paks":[
+{"nexusFileName":"Prism Power","nexusFileVersion":"1","nexusFileUploadedAt":1788667782,"pakFileName":"Prism Power.pak","nexusFileId":129832,"metaUuid":null}
+]},
+"24837":{"nexusModName":"SummerBeach_TheFirstDescendant_FreynaDesertedIslandVacation","nexusUploadedBy":"EvilRecluse","nexusModId":24837,"paks":[
+{"nexusFileName":"TheFirstDescendant_FreynaDesertedIslandVacation","nexusFileVersion":"1","nexusFileUploadedAt":1788668092,"pakFileName":"SummerBeach_TheFirstDescendant_FreynaDesertedIslandVacation.pak","nexusFileId":129834,"metaUuid":null}
 ]}}
