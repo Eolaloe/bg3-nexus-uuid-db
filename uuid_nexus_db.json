@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-09-06T05:52:31.908321+00:00","total_mods":17518},
+{"_meta":{"last_run":"2026-09-06T06:52:35.925325+00:00","total_mods":17518},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -63258,7 +63258,7 @@
 {"nexusFileName":"Graveyard Scene Extended","nexusFileVersion":"1.0.0.2","nexusFileUploadedAt":1776272639,"pakFileName":"GraveyardSceneExtended_1.0.0.2.pak","nexusFileId":119087,"metaUuid":"3554b862-a39d-2569-3466-852f0eb143a6"}
 ]},
 "22448":{"nexusModName":"Gloves of Unified Sigils","nexusUploadedBy":"swissfred","nexusModId":22448,"paks":[
-{"nexusFileName":"Gloves of Unified Sigils","nexusFileVersion":"6.0.8.4","nexusFileUploadedAt":1780483153,"pakFileName":"GlovesOfUnifiedSigils_30cfb3c7-89d6-8cee-e9d7-4c365c20401f.pak","nexusFileId":122672,"metaUuid":"30cfb3c7-89d6-8cee-e9d7-4c365c20401f"}
+{"nexusFileName":"Gloves of Unified Sigils","nexusFileVersion":"6.0.8.6","nexusFileUploadedAt":1788676259,"pakFileName":"GlovesOfUnifiedSigils_30cfb3c7-89d6-8cee-e9d7-4c365c20401f.pak","nexusFileId":129839,"metaUuid":"30cfb3c7-89d6-8cee-e9d7-4c365c20401f"}
 ]},
 "22449":{"nexusModName":"Pack Rats","nexusUploadedBy":"VahnSmash","nexusModId":22449,"paks":[
 {"nexusFileName":"Pack Rats","nexusFileVersion":"1.8","nexusFileUploadedAt":1777833838,"pakFileName":"VSH_PackRat_a8d00b10-acb5-8b1b-b1be-31da9ce26850.pak","nexusFileId":120444,"metaUuid":"a8d00b10-acb5-8b1b-b1be-31da9ce26850"}
@@ -69548,8 +69548,11 @@
 "24831":{"nexusModName":"Modded Item Randomizer (MIR) (By SerpentineShel)","nexusUploadedBy":"SerpentineShel","nexusModId":24831,"paks":[
 {"nexusFileName":"MIR 1.0.1","nexusFileVersion":"1","nexusFileUploadedAt":1788628230,"pakFileName":"MIR.pak","nexusFileId":129775,"metaUuid":"9ed7bbe2-d0aa-4bfc-8d86-a59aae5910c7"}
 ]},
+"24832":{"nexusModName":"Opalescent Threads","nexusUploadedBy":"arideyya","nexusModId":24832,"paks":[
+{"nexusFileName":"Opalescent Threads","nexusFileVersion":"1","nexusFileUploadedAt":1788677159,"pakFileName":"Opalescent Threads.pak","nexusFileId":129840,"metaUuid":null}
+]},
 "24834":{"nexusModName":"Midas's Golden Arsenal","nexusUploadedBy":"Prednoxx","nexusModId":24834,"paks":[
-{"nexusFileName":"MidasReleaseVersion","nexusFileVersion":"1","nexusFileUploadedAt":1788651877,"pakFileName":"MidasGoldenArsenal_103e49fc-e61c-42d5-a01c-d8c1aac650e6.pak","nexusFileId":129827,"metaUuid":null}
+{"nexusFileName":"MidasReleaseVersion2","nexusFileVersion":"2","nexusFileUploadedAt":1788675351,"pakFileName":"MidasGoldenArsenal_103e49fc-e61c-42d5-a01c-d8c1aac650e6.pak","nexusFileId":129838,"metaUuid":null}
 ]},
 "24835":{"nexusModName":"Nightstar's Dark Ruin - A Rogue Subclass","nexusUploadedBy":"CarmillaNightstar","nexusModId":24835,"paks":[
 {"nexusFileName":"Nightstar's Dark Ruin v1.0.0","nexusFileVersion":"1","nexusFileUploadedAt":1788671993,"pakFileName":"NightstarSDarkRuin.pak","nexusFileId":129836,"metaUuid":null}
