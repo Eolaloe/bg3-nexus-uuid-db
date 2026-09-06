@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-09-06T15:54:08.972114+00:00","total_mods":17524},
+{"_meta":{"last_run":"2026-09-06T16:53:00.389844+00:00","total_mods":17525},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -63525,16 +63525,16 @@
 {"nexusFileName":"LightningVessel RU","nexusFileVersion":"1","nexusFileUploadedAt":1776982210,"pakFileName":"LightningVessel_RU.pak","nexusFileId":119747,"metaUuid":null}
 ]},
 "22537":{"nexusModName":"Devil May Cry 5 (DMC5) Dante Clothes","nexusUploadedBy":"KraytClaw","nexusModId":22537,"paks":[
-{"nexusFileName":"DanteClothes","nexusFileVersion":"1.3","nexusFileUploadedAt":1781518212,"pakFileName":"DanteClothes.pak","nexusFileId":123650,"metaUuid":"0485c004-18a3-418c-893f-6c62f2c953f0"},
-{"nexusFileName":"DanteClothesDyable","nexusFileVersion":"1.1","nexusFileUploadedAt":1786116302,"pakFileName":"DanteClothesDyable.pak","nexusFileId":127509,"metaUuid":"15f9665d-27f5-435e-ba64-cd633715ab0c"}
+{"nexusFileName":"DanteClothes","nexusFileVersion":"1.4","nexusFileUploadedAt":1788710060,"pakFileName":"DanteClothes.pak","nexusFileId":129887,"metaUuid":"0485c004-18a3-418c-893f-6c62f2c953f0"},
+{"nexusFileName":"DanteClothesDyable","nexusFileVersion":"1.2","nexusFileUploadedAt":1788710073,"pakFileName":"DanteClothesDyable.pak","nexusFileId":129888,"metaUuid":"15f9665d-27f5-435e-ba64-cd633715ab0c"}
 ]},
 "22538":{"nexusModName":"Devil May Cry 5 (DMC5) Vergil","nexusUploadedBy":"KraytClaw","nexusModId":22538,"paks":[
 {"nexusFileName":"VergilHair","nexusFileVersion":"1","nexusFileUploadedAt":1776987229,"pakFileName":"VergilHair.pak","nexusFileId":119754,"metaUuid":"882eef5f-cf8e-4161-9c71-29dd71416b7c"},
 {"nexusFileName":"VergilHead","nexusFileVersion":"1.2","nexusFileUploadedAt":1783349798,"pakFileName":"_VergilHead.pak","nexusFileId":125073,"metaUuid":"cc9dcfe1-9f34-4cf2-b7df-b184d637afa8"}
 ]},
 "22539":{"nexusModName":"Devil May Cry 5 (DMC5) Vergil Clothes","nexusUploadedBy":"KraytClaw","nexusModId":22539,"paks":[
-{"nexusFileName":"VergilClothes","nexusFileVersion":"1.3","nexusFileUploadedAt":1781518292,"pakFileName":"_VergilClothes.pak","nexusFileId":123651,"metaUuid":"18602479-a284-4e69-9348-105df5626779"},
-{"nexusFileName":"VergilClothesDyable","nexusFileVersion":"1.1","nexusFileUploadedAt":1786116259,"pakFileName":"_VergilClothesDyable.pak","nexusFileId":127508,"metaUuid":"f338913d-ea9c-4557-a490-9cc0ce000de1"}
+{"nexusFileName":"VergilClothes","nexusFileVersion":"1.4","nexusFileUploadedAt":1788710154,"pakFileName":"_VergilClothes.pak","nexusFileId":129889,"metaUuid":"18602479-a284-4e69-9348-105df5626779"},
+{"nexusFileName":"VergilClothesDyable","nexusFileVersion":"1.2","nexusFileUploadedAt":1788710170,"pakFileName":"_VergilClothesDyable.pak","nexusFileId":129890,"metaUuid":"f338913d-ea9c-4557-a490-9cc0ce000de1"}
 ]},
 "22540":{"nexusModName":"Devil May Cry 5 (DMC5) Dante","nexusUploadedBy":"KraytClaw","nexusModId":22540,"paks":[
 {"nexusFileName":"DanteHead","nexusFileVersion":"1.2","nexusFileUploadedAt":1783349643,"pakFileName":"DanteHead.pak","nexusFileId":125067,"metaUuid":null},
@@ -66755,7 +66755,7 @@
 ]},
 "23828":{"nexusModName":"Devil May Cry 5 (DMC5) Nero","nexusUploadedBy":"KraytClaw","nexusModId":23828,"paks":[
 {"nexusFileName":" NeroHead","nexusFileVersion":"1.1","nexusFileUploadedAt":1788709388,"pakFileName":"_NeroHead.pak","nexusFileId":129883,"metaUuid":null},
-{"nexusFileName":" NeroHair","nexusFileVersion":"1.2","nexusFileUploadedAt":1788709455,"pakFileName":"_NeroHair.pak","nexusFileId":129884,"metaUuid":null}
+{"nexusFileName":" NeroHair","nexusFileVersion":"1.2","nexusFileUploadedAt":1788710854,"pakFileName":"_NeroHair.pak","nexusFileId":129891,"metaUuid":null}
 ]},
 "23829":{"nexusModName":"Fate of Stelmane","nexusUploadedBy":"Nuage12","nexusModId":23829,"paks":[
 {"nexusFileName":"Emperor always show you fate of Stelmane","nexusFileVersion":"1","nexusFileUploadedAt":1783856118,"pakFileName":"empchm_37bc1ba1-37a3-dd7c-91c8-c91bd13abe34.pak","nexusFileId":125474,"metaUuid":"37bc1ba1-37a3-dd7c-91c8-c91bd13abe34"}
@@ -69577,4 +69577,7 @@
 ]},
 "24848":{"nexusModName":"Enia Head and CC Set","nexusUploadedBy":"HeartsWires","nexusModId":24848,"paks":[
 {"nexusFileName":"Enia CC Set ","nexusFileVersion":"1","nexusFileUploadedAt":1788706807,"pakFileName":"HW_EniaCCSet_c2b57116-9817-36c7-4bb3-fbe2756788e2.pak","nexusFileId":129876,"metaUuid":null}
+]},
+"24851":{"nexusModName":"War Rapier","nexusUploadedBy":"nexuspaladin","nexusModId":24851,"paks":[
+{"nexusFileName":"Reitschwert Rapier","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1788711927,"pakFileName":"Reitschwert_rapier.pak","nexusFileId":129892,"metaUuid":null}
 ]}}
