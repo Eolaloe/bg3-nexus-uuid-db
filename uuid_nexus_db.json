@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-09-06T13:53:03.150113+00:00","total_mods":17523},
+{"_meta":{"last_run":"2026-09-06T14:52:54.783005+00:00","total_mods":17524},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -32899,7 +32899,7 @@
 {"nexusFileName":"KaitieHeadPresetV2","nexusFileVersion":"2","nexusFileUploadedAt":1723458391,"pakFileName":"KC_HEAD_PRESET.pak","nexusFileId":66882,"metaUuid":"198b31ad-526c-4144-8750-ab3d91601dce"}
 ]},
 "11512":{"nexusModName":"Camp Caster Helper","nexusUploadedBy":"adriant1978","nexusModId":11512,"paks":[
-{"nexusFileName":"CampCasterHelper","nexusFileVersion":"1.0.2.1","nexusFileUploadedAt":1786310187,"pakFileName":"CampCasterHelper.pak","nexusFileId":127722,"metaUuid":"c6bcb7d5-af62-4a1d-9024-bcef087bc36e"}
+{"nexusFileName":"CampCasterHelper","nexusFileVersion":"1.0.2.2","nexusFileUploadedAt":1788702653,"pakFileName":"CampCasterHelper.pak","nexusFileId":129873,"metaUuid":"c6bcb7d5-af62-4a1d-9024-bcef087bc36e"}
 ]},
 "11514":{"nexusModName":"Some Alt textures for Paladin and Cleric Gear","nexusUploadedBy":"commanderstrawberry","nexusModId":11514,"paks":[
 {"nexusFileName":"PTW_Decals Helm 1","nexusFileVersion":"1","nexusFileUploadedAt":1723320197,"pakFileName":"PTW_Paladin_Decals_CSEdit.pak","nexusFileId":66742,"metaUuid":null},
@@ -69536,7 +69536,8 @@
 {"nexusFileName":"CbattleM V1AS","nexusFileVersion":"1","nexusFileUploadedAt":1788610990,"pakFileName":"CbattleM_V1AS_SharessCuckfighter_DART_AmiraCustomDialogueFix.pak","nexusFileId":129756,"metaUuid":null}
 ]},
 "24826":{"nexusModName":"Dwayne Johnson head","nexusUploadedBy":"Rafael5500","nexusModId":24826,"paks":[
-{"nexusFileName":"Dwayne Johnson Head","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1788620840,"pakFileName":"Dwayne_Johnson_head_53b3b53c-e1a7-01b8-aa0d-155861797118.pak","nexusFileId":129762,"metaUuid":"53b3b53c-e1a7-01b8-aa0d-155861797118"}
+{"nexusFileName":"Dwayne Johnson Head","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1788620840,"pakFileName":"Dwayne_Johnson_head_53b3b53c-e1a7-01b8-aa0d-155861797118.pak","nexusFileId":129762,"metaUuid":"53b3b53c-e1a7-01b8-aa0d-155861797118"},
+{"nexusFileName":"Dwayne Johnson Head 1 0 1","nexusFileVersion":"1.0.1","nexusFileUploadedAt":1788706162,"pakFileName":"Dwayne_Johnson_head_53b3b53c-e1a7-01b8-aa0d-155861797118.pak","nexusFileId":129875,"metaUuid":"53b3b53c-e1a7-01b8-aa0d-155861797118"}
 ]},
 "24829":{"nexusModName":"Half-Illithid Veins Only","nexusUploadedBy":"wrenanigans","nexusModId":24829,"paks":[
 {"nexusFileName":"IllithidVeinsOnly","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1788626964,"pakFileName":"IllithidVeinsOnly.pak","nexusFileId":129773,"metaUuid":"5068eed9-3af7-400f-ba1c-1ed5a4101ba4"}
@@ -69578,4 +69579,7 @@
 ]},
 "24843":{"nexusModName":"Automated Summons - Russian Translation","nexusUploadedBy":"SNKmod777","nexusModId":24843,"paks":[
 {"nexusFileName":"Automated Summons SE RU","nexusFileVersion":"1","nexusFileUploadedAt":1788693402,"pakFileName":"Automated Summons SE_RU.pak","nexusFileId":129861,"metaUuid":null}
+]},
+"24846":{"nexusModName":"Couronne des Plaies d'Or - Lathander Circlet","nexusUploadedBy":"BerrySemifreddo","nexusModId":24846,"paks":[
+{"nexusFileName":"Couronne des Plaies d'Or - MainFile","nexusFileVersion":"1.0.0.2","nexusFileUploadedAt":1788703382,"pakFileName":"CouronnedesPlaiesdOr_f04b4316-4add-6e23-bfa3-a6e4ff0cf60e.pak","nexusFileId":129874,"metaUuid":null}
 ]}}
