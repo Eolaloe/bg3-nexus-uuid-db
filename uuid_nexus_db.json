@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-09-06T09:53:25.535389+00:00","total_mods":17519},
+{"_meta":{"last_run":"2026-09-06T10:53:13.368033+00:00","total_mods":17521},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -26655,11 +26655,11 @@
 ]},
 "9095":{"nexusModName":"DIQ Patches - Treasure Tables and More","nexusUploadedBy":"BaldursGoonsack","nexusModId":9095,"paks":[
 {"nexusFileName":"No Cosmetics Patch","nexusFileVersion":"1.4.8.0","nexusFileUploadedAt":1787405214,"pakFileName":"DIQ Patches - Treasure Tables and More - No Cosmetics Patch.pak","nexusFileId":128695,"metaUuid":"dcf7b848-b0c2-4610-9572-9fb1251c2943"},
-{"nexusFileName":"Minthara Less Magic Items Patch","nexusFileVersion":"1.4.8.0","nexusFileUploadedAt":1787405232,"pakFileName":"DIQ Starting Equipment - Minthara Less Magic Items Patch.pak","nexusFileId":128696,"metaUuid":"ef0fa286-f414-4623-a74a-f54a94f457a1"},
 {"nexusFileName":"DIQ Miscellaneous Item Patches","nexusFileVersion":"1.4.8.0","nexusFileUploadedAt":1787405245,"pakFileName":"DIQ Miscellaneous Item Patches.pak","nexusFileId":128697,"metaUuid":"59f3141a-b60d-46e8-b0d0-dfc49166d698"},
-{"nexusFileName":"DIQ Clothing Patches","nexusFileVersion":"1.4.8.0","nexusFileUploadedAt":1787405255,"pakFileName":"DIQ Clothing Patches.pak","nexusFileId":128698,"metaUuid":"0a4b83d3-d7cc-4fd9-a7d9-eef91aff1b78"},
-{"nexusFileName":"DIQ Starting Equipment","nexusFileVersion":"1.4.8.0","nexusFileUploadedAt":1787405266,"pakFileName":"DIQ Starting Equipment.pak","nexusFileId":128699,"metaUuid":"719a427f-93f9-46ce-b5c8-9a9201112a52"},
-{"nexusFileName":"DIQ Patches - Treasure Tables and More","nexusFileVersion":"1.4.8.0","nexusFileUploadedAt":1787405279,"pakFileName":"DIQ Patches - Treasure Tables and More.pak","nexusFileId":128700,"metaUuid":"54362e18-d28c-4f97-9000-aea2414e4579"}
+{"nexusFileName":"DIQ Patches - Treasure Tables and More","nexusFileVersion":"1.4.8.0","nexusFileUploadedAt":1787405279,"pakFileName":"DIQ Patches - Treasure Tables and More.pak","nexusFileId":128700,"metaUuid":"54362e18-d28c-4f97-9000-aea2414e4579"},
+{"nexusFileName":"Minthara Less Magic Items Patch","nexusFileVersion":"1.4.8.1","nexusFileUploadedAt":1788689856,"pakFileName":"DIQ Starting Equipment - Minthara Less Magic Items Patch.pak","nexusFileId":129856,"metaUuid":"ef0fa286-f414-4623-a74a-f54a94f457a1"},
+{"nexusFileName":"DIQ Starting Equipment","nexusFileVersion":"1.4.8.1","nexusFileUploadedAt":1788689876,"pakFileName":"DIQ Starting Equipment.pak","nexusFileId":129857,"metaUuid":"719a427f-93f9-46ce-b5c8-9a9201112a52"},
+{"nexusFileName":"DIQ Clothing Patches","nexusFileVersion":"1.4.8.1","nexusFileUploadedAt":1788689892,"pakFileName":"DIQ Clothing Patches.pak","nexusFileId":129858,"metaUuid":"0a4b83d3-d7cc-4fd9-a7d9-eef91aff1b78"}
 ]},
 "9096":{"nexusModName":"Bonus Action Recast","nexusUploadedBy":"Awesomepotamus","nexusModId":9096,"paks":[
 {"nexusFileName":"Bonus Action Recast","nexusFileVersion":"1.0","nexusFileUploadedAt":1714458828,"pakFileName":"BonusActionRecast.pak","nexusFileId":55389,"metaUuid":"c7935eef-7ffa-46a7-abd2-c4ed0e16621f"}
@@ -53311,7 +53311,7 @@
 {"nexusFileName":"Eye and Hand of Vecna CHS","nexusFileVersion":"1.5.1.8","nexusFileUploadedAt":1760191448,"pakFileName":"Eye and Hand of Vecna CHS.pak","nexusFileId":104913,"metaUuid":null}
 ]},
 "19126":{"nexusModName":"Astarion's New Look","nexusUploadedBy":"Khloii1","nexusModId":19126,"paks":[
-{"nexusFileName":"Astarion's New Look","nexusFileVersion":"2.0","nexusFileUploadedAt":1767798207,"pakFileName":"Astarion_New_Look_1a0fdda9-8c50-f563-5431-2953fdb1b455.pak","nexusFileId":111465,"metaUuid":"1a0fdda9-8c50-f563-5431-2953fdb1b455"}
+{"nexusFileName":"Astarion's New Look","nexusFileVersion":"3.0","nexusFileUploadedAt":1788689035,"pakFileName":"Astarion_New_Look_1a0fdda9-8c50-f563-5431-2953fdb1b455.pak","nexusFileId":129855,"metaUuid":"1a0fdda9-8c50-f563-5431-2953fdb1b455"}
 ]},
 "19127":{"nexusModName":"Bruxa and Banshee abilities ring","nexusUploadedBy":"cayssac","nexusModId":19127,"paks":[
 {"nexusFileName":"Bruxa and Banshee Abilities Ring (  RED SLAYER )","nexusFileVersion":"1.0","nexusFileUploadedAt":1762890248,"pakFileName":"BRUXA RING REDSLAYER.pak","nexusFileId":107220,"metaUuid":null},
@@ -69567,4 +69567,10 @@
 ]},
 "24839":{"nexusModName":"Nightstar's Dark Ruin - A Rogue Subclass(Russian)","nexusUploadedBy":"North3n","nexusModId":24839,"paks":[
 {"nexusFileName":"NightstarSDarkRuin Russian","nexusFileVersion":"1","nexusFileUploadedAt":1788682424,"pakFileName":"NightstarSDarkRuin_Russian_reviewed.pak","nexusFileId":129842,"metaUuid":null}
+]},
+"24841":{"nexusModName":"Necromancy Reanimated - Russian Translation (1.43.00)","nexusUploadedBy":"SNKmod777","nexusModId":24841,"paks":[
+{"nexusFileName":"Necromancy Reanimated RU","nexusFileVersion":"1","nexusFileUploadedAt":1788690263,"pakFileName":"Necromancy Reanimated_RU.pak","nexusFileId":129859,"metaUuid":null}
+]},
+"24842":{"nexusModName":"Grand Dream","nexusUploadedBy":"gobanaoblin","nexusModId":24842,"paks":[
+{"nexusFileName":"Grand Dream","nexusFileVersion":"1","nexusFileUploadedAt":1788691326,"pakFileName":"CC_GrandDream_38306264-31e6-dfdb-a98a-428ee370de23.pak","nexusFileId":129860,"metaUuid":null}
 ]}}
