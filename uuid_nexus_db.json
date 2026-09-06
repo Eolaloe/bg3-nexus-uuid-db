@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-09-06T17:53:12.758679+00:00","total_mods":17525},
+{"_meta":{"last_run":"2026-09-06T18:53:35.764037+00:00","total_mods":17527},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -58264,6 +58264,9 @@
 "20677":{"nexusModName":"Duelist Class - Maelle's 'Class' from Expedition 33_CHS","nexusUploadedBy":"hxby458","nexusModId":20677,"paks":[
 {"nexusFileName":"Duelist Class_CHS","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1768303575,"pakFileName":"DuelistClass_CHS.pak","nexusFileId":112088,"metaUuid":null}
 ]},
+"20678":{"nexusModName":"BG3SX - Sex Framework RUS 2.0.2","nexusUploadedBy":"fullhame","nexusModId":20678,"paks":[
+{"nexusFileName":"BG3SX_ADDONS_RUS","nexusFileVersion":"2.0.2","nexusFileUploadedAt":1788717355,"pakFileName":"BG3SX_ADDONS_RUS.pak","nexusFileId":129894,"metaUuid":null}
+]},
 "20681":{"nexusModName":"Legendary Action Armaments (Rings and Amulets) for Korean","nexusUploadedBy":"Eolaloe","nexusModId":20681,"paks":[
 {"nexusFileName":"Legendary Action Armaments for Korean","nexusFileVersion":"2.8.0.0-1","nexusFileUploadedAt":1778178612,"pakFileName":"Legendary_Armaments_kr.pak","nexusFileId":120697,"metaUuid":null}
 ]},
@@ -69222,7 +69225,7 @@
 {"nexusFileName":"Astarion FINAL","nexusFileVersion":"1","nexusFileUploadedAt":1788027313,"pakFileName":"Astarion_FINAL.pak","nexusFileId":129284,"metaUuid":"8e309005-2c4f-2a84-454c-483ac2f7b316"}
 ]},
 "24685":{"nexusModName":"Symphony of a Vampire - Vampirism Overhaul","nexusUploadedBy":"luiznunes","nexusModId":24685,"paks":[
-{"nexusFileName":"Vampiric Tree 75d2d721 1e37 D9 7axh","nexusFileVersion":"1.1.0.56","nexusFileUploadedAt":1788647583,"pakFileName":"vampiric_tree_75d2d721-1e37-d98f-9e4e-dc330c33ee10.pak","nexusFileId":129825,"metaUuid":"75d2d721-1e37-d98f-9e4e-dc330c33ee10"}
+{"nexusFileName":"Vampiric Tree 75d2d721 1e37 D9 7axh","nexusFileVersion":"1.1.1.58","nexusFileUploadedAt":1788718371,"pakFileName":"vampiric_tree_75d2d721-1e37-d98f-9e4e-dc330c33ee10.pak","nexusFileId":129896,"metaUuid":"75d2d721-1e37-d98f-9e4e-dc330c33ee10"}
 ]},
 "24686":{"nexusModName":"Involved Warlock Patrons - Russian Translation","nexusUploadedBy":"SNKmod777","nexusModId":24686,"paks":[
 {"nexusFileName":"Involved Patrons RU","nexusFileVersion":"2.2.0.0","nexusFileUploadedAt":1788042475,"pakFileName":"Involved_Patrons_RU.pak","nexusFileId":129301,"metaUuid":null}
@@ -69580,4 +69583,7 @@
 ]},
 "24851":{"nexusModName":"War Rapier","nexusUploadedBy":"nexuspaladin","nexusModId":24851,"paks":[
 {"nexusFileName":"Reitschwert Rapier","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1788711927,"pakFileName":"Reitschwert_rapier.pak","nexusFileId":129892,"metaUuid":null}
+]},
+"24852":{"nexusModName":"Elegy of the Beast - Werewolf Overhaul","nexusUploadedBy":"luiznunes","nexusModId":24852,"paks":[
+{"nexusFileName":"Lycanthrope Tree 805a7fb6 Cad3 5jkp","nexusFileVersion":"1.0.0.19","nexusFileUploadedAt":1788718306,"pakFileName":"lycanthrope_tree_805a7fb6-cad3-3d60-23b7-cf1f0e832aad.pak","nexusFileId":129895,"metaUuid":null}
 ]}}
