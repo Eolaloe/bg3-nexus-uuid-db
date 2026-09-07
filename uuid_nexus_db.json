@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-09-07T16:52:45.558247+00:00","total_mods":17539},
+{"_meta":{"last_run":"2026-09-07T17:52:30.177780+00:00","total_mods":17540},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -64766,7 +64766,8 @@
 "23058":{"nexusModName":"Akm Tiefling Body","nexusUploadedBy":"Akumu22","nexusModId":23058,"paks":[
 {"nexusFileName":"FIX - STAV Tail Tats","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1786023194,"pakFileName":"Akm Tiefling Body - STAV Tail FIX.pak","nexusFileId":127442,"metaUuid":null},
 {"nexusFileName":"Akm Tiefling Body - BT1 Only","nexusFileVersion":"2.0.1.1","nexusFileUploadedAt":1786887403,"pakFileName":"Akm Tiefling Body.pak","nexusFileId":128213,"metaUuid":"4420c433-718f-4749-8e5d-1da521a84b19"},
-{"nexusFileName":"Akm Tiefling Body","nexusFileVersion":"2.1.2.0","nexusFileUploadedAt":1787671118,"pakFileName":"Akm Tiefling Body.pak","nexusFileId":128979,"metaUuid":"4420c433-718f-4749-8e5d-1da521a84b19"}
+{"nexusFileName":"Akm Tiefling Body - BT1 and BT3 Only","nexusFileVersion":"2.1.2.0","nexusFileUploadedAt":1787671118,"pakFileName":"Akm Tiefling Body.pak","nexusFileId":128979,"metaUuid":"4420c433-718f-4749-8e5d-1da521a84b19"},
+{"nexusFileName":"Akm Tiefling Body","nexusFileVersion":"3.0.0.0","nexusFileUploadedAt":1788802639,"pakFileName":"Akm Tiefling Body.pak","nexusFileId":129982,"metaUuid":"4420c433-718f-4749-8e5d-1da521a84b19"}
 ]},
 "23059":{"nexusModName":"Flora Dress and Long Nature Hair","nexusUploadedBy":"Lyniara","nexusModId":23059,"paks":[
 {"nexusFileName":"Flora Dress","nexusFileVersion":"1","nexusFileUploadedAt":1779744844,"pakFileName":"LynFloraDress.pak","nexusFileId":122131,"metaUuid":"a7c4ef09-4ca7-428a-950d-85c4c74573b9"},
@@ -67403,7 +67404,8 @@
 {"nexusFileName":"Epilogue Camp Clothes TRM1R","nexusFileVersion":"1.1","nexusFileUploadedAt":1788029341,"pakFileName":"EpilogueCampClothes_TRM1R.pak","nexusFileId":129289,"metaUuid":null},
 {"nexusFileName":"Ember's Wardrobe TRM1R","nexusFileVersion":"1","nexusFileUploadedAt":1788216091,"pakFileName":"EmbersWardrobe_TRM1R.pak","nexusFileId":129470,"metaUuid":null},
 {"nexusFileName":"Rasaad's Robe TRM1R","nexusFileVersion":"2","nexusFileUploadedAt":1788265426,"pakFileName":"RasaadMonkOutfit_TRM1R.pak","nexusFileId":129486,"metaUuid":null},
-{"nexusFileName":"OWY Night Silk Brocade TRM1R","nexusFileVersion":"4","nexusFileUploadedAt":1788640307,"pakFileName":"OWYDoesOutfits_NightSilkBrocade_TRM1R.pak","nexusFileId":129816,"metaUuid":null}
+{"nexusFileName":"OWY Night Silk Brocade TRM1R","nexusFileVersion":"4","nexusFileUploadedAt":1788640307,"pakFileName":"OWYDoesOutfits_NightSilkBrocade_TRM1R.pak","nexusFileId":129816,"metaUuid":null},
+{"nexusFileName":"Lathander's Armory TRM1R","nexusFileVersion":"1","nexusFileUploadedAt":1788800500,"pakFileName":"LathanderArmory_TRM1R.pak","nexusFileId":129980,"metaUuid":null}
 ]},
 "24060":{"nexusModName":"Quick Second Wind","nexusUploadedBy":"yoonmoonsik43","nexusModId":24060,"paks":[
 {"nexusFileName":"Quicksecondwind 11aabc80 36ad 3qmv","nexusFileVersion":"1","nexusFileUploadedAt":1784917946,"pakFileName":"QuickSecondWind_11aabc80-36ad-7197-0fd6-f66b6b5a0915.pak","nexusFileId":126385,"metaUuid":"11aabc80-36ad-7197-0fd6-f66b6b5a0915"}
@@ -69630,4 +69632,7 @@
 ]},
 "24869":{"nexusModName":"Simple Haste Rework","nexusUploadedBy":"Cainhurtz","nexusModId":24869,"paks":[
 {"nexusFileName":"HasteRework","nexusFileVersion":"1","nexusFileUploadedAt":1788789468,"pakFileName":"HasteRework.pak","nexusFileId":129967,"metaUuid":null}
+]},
+"24873":{"nexusModName":"Zenin Path - A Jujutsu Kaisen Class(Russian)","nexusUploadedBy":"North3n","nexusModId":24873,"paks":[
+{"nexusFileName":"ZeninPath Russian","nexusFileVersion":"1.0.0.13","nexusFileUploadedAt":1788802518,"pakFileName":"ZeninPath_9f626018-ce4a-e2f1-8311-99a180ecf46b_Russian_reviewed.pak","nexusFileId":129981,"metaUuid":null}
 ]}}
