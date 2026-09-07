@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-09-07T21:52:23.551748+00:00","total_mods":17543},
+{"_meta":{"last_run":"2026-09-07T22:52:51.486994+00:00","total_mods":17543},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -45544,8 +45544,8 @@
 {"nexusFileName":"Clawstep - Dragonborn body - Digitigrade legs","nexusFileVersion":"1.0.0.41","nexusFileUploadedAt":1761535981,"pakFileName":"DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a.pak","nexusFileId":106089,"metaUuid":"533a435e-8c13-bc21-7cfc-48c3a322e29a"},
 {"nexusFileName":"Clawstep Lazy Armor Patch","nexusFileVersion":"1.0.0.10","nexusFileUploadedAt":1785364564,"pakFileName":"ZZZ_Lazy_Armor_Patcher_c072eaf2-13e1-abb3-10e2-3b58483eb770.pak","nexusFileId":126789,"metaUuid":"c072eaf2-13e1-abb3-10e2-3b58483eb770"},
 {"nexusFileName":"Clawstep Lazy Armor Patch - Breast","nexusFileVersion":"1.0.0.5","nexusFileUploadedAt":1785369958,"pakFileName":"ZZZ_Lazy_Armor_Patcher_BRST_a913a8a0-ce9c-2f8f-af29-e1ba302de852.pak","nexusFileId":126798,"metaUuid":"a913a8a0-ce9c-2f8f-af29-e1ba302de852"},
-{"nexusFileName":"Clawstep Lazy Armor Patch - Akm","nexusFileVersion":"1.0.0.4","nexusFileUploadedAt":1787599830,"pakFileName":"ZZZ_Lazy_Armor_Patcher_Akm_6fe607d6-0989-995e-d952-98927df6b931.pak","nexusFileId":128943,"metaUuid":"6fe607d6-0989-995e-d952-98927df6b931"},
-{"nexusFileName":"Clawstep Lazy Armor Patch - Akm - Breast","nexusFileVersion":"1.0.0.4","nexusFileUploadedAt":1787601585,"pakFileName":"ZZZ_Lazy_Armor_Patcher_Akm_BRST_976f7aa0-562d-54cb-4d33-8117f5593ad9.pak","nexusFileId":128947,"metaUuid":"976f7aa0-562d-54cb-4d33-8117f5593ad9"}
+{"nexusFileName":"Clawstep Lazy Armor Patch - Akm - Breast","nexusFileVersion":"1.0.0.4","nexusFileUploadedAt":1787601585,"pakFileName":"ZZZ_Lazy_Armor_Patcher_Akm_BRST_976f7aa0-562d-54cb-4d33-8117f5593ad9.pak","nexusFileId":128947,"metaUuid":"976f7aa0-562d-54cb-4d33-8117f5593ad9"},
+{"nexusFileName":"Clawstep Lazy Armor Patch - Akm","nexusFileVersion":"1.0.0.6","nexusFileUploadedAt":1788821184,"pakFileName":"ZZZ_Lazy_Armor_Patcher_Akm_6fe607d6-0989-995e-d952-98927df6b931.pak","nexusFileId":129991,"metaUuid":"6fe607d6-0989-995e-d952-98927df6b931"}
 ]},
 "16385":{"nexusModName":"Character Tag Ring CHS","nexusUploadedBy":"LaundryDragonmaidOfficial","nexusModId":16385,"paks":[
 {"nexusFileName":"character_tag_ringCHS","nexusFileVersion":"1.0.2.0","nexusFileUploadedAt":1749723942,"pakFileName":"character_tag_ringCHS.pak","nexusFileId":95689,"metaUuid":null}
@@ -66111,13 +66111,13 @@
 {"nexusFileName":"Dexterity Jump BG3SS","nexusFileVersion":"1","nexusFileUploadedAt":1782585987,"pakFileName":"Dexterity_Jump_BG3SS.pak","nexusFileId":124411,"metaUuid":null}
 ]},
 "23592":{"nexusModName":"Compendium of Poses","nexusUploadedBy":"gobanaoblin","nexusModId":23592,"paks":[
-{"nexusFileName":"Child of Bhaal","nexusFileVersion":"2","nexusFileUploadedAt":1782767527,"pakFileName":"PP_ChildBhaal_6170b196-a292-fd5c-30fc-038f9de3ac70.pak","nexusFileId":124553,"metaUuid":"63d63dd5-f55f-13d7-d754-f2af16472a95"},
-{"nexusFileName":"Quiet Moment","nexusFileVersion":"2","nexusFileUploadedAt":1782767541,"pakFileName":"PP_QuietMoment_636cb6aa-0fb7-1937-47f8-c84b6a058e41.pak","nexusFileId":124554,"metaUuid":"63d63dd5-f55f-13d7-d754-f2af16472a95"},
-{"nexusFileName":"Hush by Goblin (NSFW)","nexusFileVersion":"2","nexusFileUploadedAt":1782767589,"pakFileName":"PP_Hush_f222a5a7-bf00-f3cb-1b85-6281c5b45f33.pak","nexusFileId":124556,"metaUuid":"63d63dd5-f55f-13d7-d754-f2af16472a95"},
-{"nexusFileName":"Long Rest by Goblin (NSFW)","nexusFileVersion":"1","nexusFileUploadedAt":1782767612,"pakFileName":"PP_LongRest_b24a6276-1f60-a362-6e5a-bbf89184bd76.pak","nexusFileId":124557,"metaUuid":"63d63dd5-f55f-13d7-d754-f2af16472a95"},
-{"nexusFileName":"Faces by Goblin","nexusFileVersion":"2","nexusFileUploadedAt":1782808454,"pakFileName":"PP_Faces_27b8c7a5-eba8-d3c8-4a30-d891e32a4792.pak","nexusFileId":124577,"metaUuid":"63d63dd5-f55f-13d7-d754-f2af16472a95"},
-{"nexusFileName":"Still Motion","nexusFileVersion":"3","nexusFileUploadedAt":1783893160,"pakFileName":"PP_StillMotion_258a8b5d-e538-277c-0f7a-f67c29828ab3.pak","nexusFileId":125502,"metaUuid":"63d63dd5-f55f-13d7-d754-f2af16472a95"},
-{"nexusFileName":"Eternal by Goblin","nexusFileVersion":"3","nexusFileUploadedAt":1783966165,"pakFileName":"PP_Eternal_24f742cc-908f-86ad-aef1-e46833c25d11.pak","nexusFileId":125564,"metaUuid":"63d63dd5-f55f-13d7-d754-f2af16472a95"},
+{"nexusFileName":"Child of Bhaal","nexusFileVersion":"2","nexusFileUploadedAt":1782767527,"pakFileName":"PP_ChildBhaal_6170b196-a292-fd5c-30fc-038f9de3ac70.pak","nexusFileId":124553,"metaUuid":"6170b196-a292-fd5c-30fc-038f9de3ac70"},
+{"nexusFileName":"Quiet Moment","nexusFileVersion":"2","nexusFileUploadedAt":1782767541,"pakFileName":"PP_QuietMoment_636cb6aa-0fb7-1937-47f8-c84b6a058e41.pak","nexusFileId":124554,"metaUuid":"6170b196-a292-fd5c-30fc-038f9de3ac70"},
+{"nexusFileName":"Hush by Goblin (NSFW)","nexusFileVersion":"2","nexusFileUploadedAt":1782767589,"pakFileName":"PP_Hush_f222a5a7-bf00-f3cb-1b85-6281c5b45f33.pak","nexusFileId":124556,"metaUuid":"6170b196-a292-fd5c-30fc-038f9de3ac70"},
+{"nexusFileName":"Long Rest by Goblin (NSFW)","nexusFileVersion":"1","nexusFileUploadedAt":1782767612,"pakFileName":"PP_LongRest_b24a6276-1f60-a362-6e5a-bbf89184bd76.pak","nexusFileId":124557,"metaUuid":"6170b196-a292-fd5c-30fc-038f9de3ac70"},
+{"nexusFileName":"Faces by Goblin","nexusFileVersion":"2","nexusFileUploadedAt":1782808454,"pakFileName":"PP_Faces_27b8c7a5-eba8-d3c8-4a30-d891e32a4792.pak","nexusFileId":124577,"metaUuid":"6170b196-a292-fd5c-30fc-038f9de3ac70"},
+{"nexusFileName":"Still Motion","nexusFileVersion":"3","nexusFileUploadedAt":1783893160,"pakFileName":"PP_StillMotion_258a8b5d-e538-277c-0f7a-f67c29828ab3.pak","nexusFileId":125502,"metaUuid":"6170b196-a292-fd5c-30fc-038f9de3ac70"},
+{"nexusFileName":"Eternal by Goblin","nexusFileVersion":"3","nexusFileUploadedAt":1783966165,"pakFileName":"PP_Eternal_24f742cc-908f-86ad-aef1-e46833c25d11.pak","nexusFileId":125564,"metaUuid":"6170b196-a292-fd5c-30fc-038f9de3ac70"},
 {"nexusFileName":"All-In-One Download","nexusFileVersion":"5","nexusFileUploadedAt":1785868927,"pakFileName":"PP_ChildBhaal_6170b196-a292-fd5c-30fc-038f9de3ac70.pak","nexusFileId":127320,"metaUuid":"6170b196-a292-fd5c-30fc-038f9de3ac70"},
 {"nexusFileName":"All-In-One Download","nexusFileVersion":"5","nexusFileUploadedAt":1785868927,"pakFileName":"PP_Eternal_24f742cc-908f-86ad-aef1-e46833c25d11.pak","nexusFileId":127320,"metaUuid":"6170b196-a292-fd5c-30fc-038f9de3ac70"},
 {"nexusFileName":"All-In-One Download","nexusFileVersion":"5","nexusFileUploadedAt":1785868927,"pakFileName":"PP_Faces_27b8c7a5-eba8-d3c8-4a30-d891e32a4792.pak","nexusFileId":127320,"metaUuid":"6170b196-a292-fd5c-30fc-038f9de3ac70"},
