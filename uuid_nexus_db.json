@@ -490,7 +490,7 @@
 "377":{"nexusModName":"UnlockLevelCurve - Level 13-20 I PATCH 8","nexusUploadedBy":"nitram166","nexusModId":377,"paks":[
 {"nexusFileName":"UnlockLevelCurve_Patch_5eSpells_Improvement Patch7","nexusFileVersion":"2.0.0.24","nexusFileUploadedAt":1721672526,"pakFileName":"UnlockLevelCurve_Patch_5eSpells_Improvement.pak","nexusFileId":64849,"metaUuid":"4d00bc91-f3cb-430a-b86f-a59a6af2171e"},
 {"nexusFileName":"UnlockLevelCurve_Patch_5eSpells_Improvement_Lv2","nexusFileVersion":"2.0.0.24","nexusFileUploadedAt":1721672548,"pakFileName":"UnlockLevelCurve_Patch_5eSpells_Improvement_Lv2.pak","nexusFileId":64850,"metaUuid":"7510d1f6-adb7-404a-9911-c82427f31653"},
-{"nexusFileName":"UnlockLevelCurve_Patch_XP_Instant","nexusFileVersion":"2.0.0.24","nexusFileUploadedAt":1721672620,"pakFileName":"UnlockLevelCurve_Patch_XP_Instant.pak","nexusFileId":64853,"metaUuid":null},
+{"nexusFileName":"UnlockLevelCurve_Patch_XP_Instant","nexusFileVersion":"2.0.0.24","nexusFileUploadedAt":1721672620,"pakFileName":"UnlockLevelCurve_Patch_XP_Instant.pak","nexusFileId":64853,"metaUuid":"79b1cd5d-fb64-49af-baa5-724bab61e0a0"},
 {"nexusFileName":"UnlockLevelCurve_Patch_XP_NewScale","nexusFileVersion":"2.0.0.24","nexusFileUploadedAt":1721672647,"pakFileName":"UnlockLevelCurve_Patch_XP_NewScale.pak","nexusFileId":64854,"metaUuid":"fefc5f4b-2921-472f-ba0c-c380af9f7525"},
 {"nexusFileName":"UnlockLevelCurve_Patch_XP_x0.5","nexusFileVersion":"2.0.0.24","nexusFileUploadedAt":1721672677,"pakFileName":"UnlockLevelCurve_Patch_XP_x0.5.pak","nexusFileId":64855,"metaUuid":"e53ae4b5-a922-47ef-b69d-d55c5745a65b"},
 {"nexusFileName":"UnlockLevelCurve_Patch_XP_x0.75","nexusFileVersion":"2.0.0.24","nexusFileUploadedAt":1721672700,"pakFileName":"UnlockLevelCurve_Patch_XP_x0.75.pak","nexusFileId":64856,"metaUuid":"67312075-1339-43fb-8295-80181fe1e81f"},
@@ -2932,7 +2932,7 @@
 {"nexusFileName":"Hexblade - Archfey Tag","nexusFileVersion":"1.9.7","nexusFileUploadedAt":1704484575,"pakFileName":"Hexblade.pak","nexusFileId":38223,"metaUuid":null},
 {"nexusFileName":"Hexblade - Fiend Tag","nexusFileVersion":"1.9.7","nexusFileUploadedAt":1704484613,"pakFileName":"Hexblade.pak","nexusFileId":38224,"metaUuid":"e1eb6d1a-5922-4964-bfd7-c971e71e351a"},
 {"nexusFileName":"Hexblade - Great Old One Tag","nexusFileVersion":"1.9.7","nexusFileUploadedAt":1704484640,"pakFileName":"Hexblade.pak","nexusFileId":38225,"metaUuid":"e1eb6d1a-5922-4964-bfd7-c971e71e351a"},
-{"nexusFileName":"Hexblade - No Patron Tag","nexusFileVersion":"1.9.7","nexusFileUploadedAt":1704484668,"pakFileName":"Hexblade.pak","nexusFileId":38226,"metaUuid":null}
+{"nexusFileName":"Hexblade - No Patron Tag","nexusFileVersion":"1.9.7","nexusFileUploadedAt":1704484668,"pakFileName":"Hexblade.pak","nexusFileId":38226,"metaUuid":"e1eb6d1a-5922-4964-bfd7-c971e71e351a"}
 ]},
 "1101":{"nexusModName":"Finesse Javelins","nexusUploadedBy":"Digineaux","nexusModId":1101,"paks":[
 {"nexusFileName":"Finesse Javelins","nexusFileVersion":"0.1","nexusFileUploadedAt":1692346784,"pakFileName":"Finesse Javelins.pak","nexusFileId":8205,"metaUuid":null}
@@ -7883,7 +7883,7 @@
 {"nexusFileName":"EquipmentLibrary","nexusFileVersion":"1.2","nexusFileUploadedAt":1696701547,"pakFileName":"EquipmentLibrary.pak","nexusFileId":21172,"metaUuid":"94bd1d83-cbb2-418a-b6b1-161243c954b6"}
 ]},
 "2400":{"nexusModName":"Reclaim or break your oath spells (Paladin-Oathbreaker)","nexusUploadedBy":"yakuzadeso","nexusModId":2400,"paks":[
-{"nexusFileName":"oath spells","nexusFileVersion":"1.0.0.5","nexusFileUploadedAt":1699184479,"pakFileName":"Oath_Spells.pak","nexusFileId":26947,"metaUuid":null},
+{"nexusFileName":"oath spells","nexusFileVersion":"1.0.0.5","nexusFileUploadedAt":1699184479,"pakFileName":"Oath_Spells.pak","nexusFileId":26947,"metaUuid":"4f418af6-82e1-491d-8fbf-9e61357a2c21"},
 {"nexusFileName":"oath spells spellbook","nexusFileVersion":"1.0.0.5","nexusFileUploadedAt":1700085220,"pakFileName":"Oath_Spells_Spellbook.pak","nexusFileId":28663,"metaUuid":"32ff2392-6ab4-4286-b4d6-2a7229bd5450"}
 ]},
 "2405":{"nexusModName":"Ninja-to and Katana sets","nexusUploadedBy":"blackninjato2","nexusModId":2405,"paks":[
@@ -12306,9 +12306,9 @@
 {"nexusFileName":"Dyes of Faerun - CHT and CHS","nexusFileVersion":"1.0","nexusFileUploadedAt":1698849758,"pakFileName":"Dyes of Faerun_CHT.pak","nexusFileId":26221,"metaUuid":null}
 ]},
 "3887":{"nexusModName":"Abyss's Dyes","nexusUploadedBy":"abyssartwork","nexusModId":3887,"paks":[
-{"nexusFileName":"Abyss Nature Dyes - Bundle","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1700326337,"pakFileName":"Abyss_Nature_Dyes_Bundle.pak","nexusFileId":29063,"metaUuid":null},
-{"nexusFileName":"Abyss Food Dyes - Bundle","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1700326414,"pakFileName":"Abyss_Food_Dyes_Bundle.pak","nexusFileId":29064,"metaUuid":null},
-{"nexusFileName":"Abyss Pop Culture Dyes - Bundle","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1700326519,"pakFileName":"Abyss_PopCulture_Dyes_Bundle.pak","nexusFileId":29065,"metaUuid":null},
+{"nexusFileName":"Abyss Nature Dyes - Bundle","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1700326337,"pakFileName":"Abyss_Nature_Dyes_Bundle.pak","nexusFileId":29063,"metaUuid":"8be6f1bd-3f17-431c-95fd-d51099c0f772"},
+{"nexusFileName":"Abyss Food Dyes - Bundle","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1700326414,"pakFileName":"Abyss_Food_Dyes_Bundle.pak","nexusFileId":29064,"metaUuid":"493ab405-7c96-4c4e-9a2c-586f737584a2"},
+{"nexusFileName":"Abyss Pop Culture Dyes - Bundle","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1700326519,"pakFileName":"Abyss_PopCulture_Dyes_Bundle.pak","nexusFileId":29065,"metaUuid":"80316b04-7bc8-41e1-a1d6-c3d9fda5b529"},
 {"nexusFileName":"Abyss All Dyes - Bundle","nexusFileVersion":"1.0.0.4","nexusFileUploadedAt":1704747661,"pakFileName":"Abyss_All_Dyes_Bundle.pak","nexusFileId":38823,"metaUuid":"6c7320b0-e179-49f4-bb2e-82410c34262c"}
 ]},
 "3888":{"nexusModName":"VFX Library by Shivero (Part 1)","nexusUploadedBy":"Shivero","nexusModId":3888,"paks":[
@@ -13485,7 +13485,7 @@
 {"nexusFileName":"Level 30 Blank","nexusFileVersion":"1.3.1","nexusFileUploadedAt":1746200776,"pakFileName":"Level 30 Blank.pak","nexusFileId":91436,"metaUuid":"5fad0ed5-0807-490b-86b2-ac3659cdcded"},
 {"nexusFileName":"Level 30 - Enhanced","nexusFileVersion":"1.3.0","nexusFileUploadedAt":1746200826,"pakFileName":"Level 30 - Enhanced.pak","nexusFileId":91437,"metaUuid":"a4f237a1-4529-4a98-b72e-afa4ed2a357a"},
 {"nexusFileName":"Level 30 - Enhanced - Easy","nexusFileVersion":"1.3.1.0","nexusFileUploadedAt":1751818922,"pakFileName":"Level 30 - Enhanced.pak","nexusFileId":97497,"metaUuid":null},
-{"nexusFileName":"Level 30 - Enhanced - No Feats","nexusFileVersion":"1.3.1.1","nexusFileUploadedAt":1763977717,"pakFileName":"Level 30 - Enhanced - No Feats.pak","nexusFileId":108023,"metaUuid":null},
+{"nexusFileName":"Level 30 - Enhanced - No Feats","nexusFileVersion":"1.3.1.1","nexusFileUploadedAt":1763977717,"pakFileName":"Level 30 - Enhanced - No Feats.pak","nexusFileId":108023,"metaUuid":"513eba3e-5ef7-4d20-bb83-3c710bc0cb50"},
 {"nexusFileName":"Level 60 - Enhanced","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1767786268,"pakFileName":"Level 60 - Enhanced.pak","nexusFileId":111426,"metaUuid":null},
 {"nexusFileName":"Level 30 - Enhanced - Upgraded Spells","nexusFileVersion":"1.5.0.1","nexusFileUploadedAt":1769325452,"pakFileName":"Level 30 - Enhanced - Upgraded Spells.pak","nexusFileId":113202,"metaUuid":"83781aed-9b17-4fcb-8f41-0f86d2c84ecd"}
 ]},
@@ -16792,7 +16792,7 @@
 {"nexusFileName":"ArcHammer.zip","nexusFileVersion":"1.2","nexusFileUploadedAt":1704127320,"pakFileName":"ArcHammer.pak","nexusFileId":37449,"metaUuid":null}
 ]},
 "5321":{"nexusModName":"Baldur's Gay 3","nexusUploadedBy":"Laureeeeeeeeeeeeeeen","nexusModId":5321,"paks":[
-{"nexusFileName":"Baldur's Gay 3 - PAK","nexusFileVersion":"1.1","nexusFileUploadedAt":1709684324,"pakFileName":"BaldursGay3.pak","nexusFileId":48386,"metaUuid":null}
+{"nexusFileName":"Baldur's Gay 3 - PAK","nexusFileVersion":"1.1","nexusFileUploadedAt":1709684324,"pakFileName":"BaldursGay3.pak","nexusFileId":48386,"metaUuid":"7f88798e-2765-4b01-92f0-db855af9d598"}
 ]},
 "5325":{"nexusModName":"Rebalance - Level 3 Spells","nexusUploadedBy":"Syrchalis","nexusModId":5325,"paks":[
 {"nexusFileName":"Rebalance - Level 3 Spells","nexusFileVersion":"1.1.6","nexusFileUploadedAt":1750615762,"pakFileName":"Rebalance_Lvl3_Spells.pak","nexusFileId":96445,"metaUuid":"294024e1-0872-43c1-bddc-7a37a42b60fa"}
@@ -22206,8 +22206,8 @@
 "7329":{"nexusModName":"Psychotter's Goth Dyes","nexusUploadedBy":"Psychotter","nexusModId":7329,"paks":[
 {"nexusFileName":"Psychotter's Goth Dyes - Dark - Vendor - Tutorial","nexusFileVersion":"2","nexusFileUploadedAt":1783360898,"pakFileName":"Psychotter's Goth Dyes - Dark Metal Version - Vendors & Tutorial.pak","nexusFileId":125106,"metaUuid":"278aafb1-e408-4f47-af04-3f27dc5157a1"},
 {"nexusFileName":"Psychotter's Goth Dyes - Silver - Vendors Tutorial","nexusFileVersion":"2","nexusFileUploadedAt":1783360938,"pakFileName":"Psychotter's Goth Dyes - Silver  Metal Version - Vendors & Tutorial.pak","nexusFileId":125107,"metaUuid":"5036992b-bd02-4c07-9b7f-332e3045b942"},
-{"nexusFileName":"Psychotter's Goth Dyes - Dark - Tutorial Only","nexusFileVersion":"2","nexusFileUploadedAt":1783361009,"pakFileName":"Psychotter's Goth Dyes - Dark Metal Version - Tutorial Only.pak","nexusFileId":125108,"metaUuid":null},
-{"nexusFileName":"Psychotter's Goth Dyes - Silver - Tutorial Only","nexusFileVersion":"2","nexusFileUploadedAt":1783361109,"pakFileName":"Psychotter's Goth Dyes - Silver  Metal Version - Tutorial Only.pak","nexusFileId":125109,"metaUuid":null},
+{"nexusFileName":"Psychotter's Goth Dyes - Dark - Tutorial Only","nexusFileVersion":"2","nexusFileUploadedAt":1783361009,"pakFileName":"Psychotter's Goth Dyes - Dark Metal Version - Tutorial Only.pak","nexusFileId":125108,"metaUuid":"278aafb1-e408-4f47-af04-3f27dc5157a1"},
+{"nexusFileName":"Psychotter's Goth Dyes - Silver - Tutorial Only","nexusFileVersion":"2","nexusFileUploadedAt":1783361109,"pakFileName":"Psychotter's Goth Dyes - Silver  Metal Version - Tutorial Only.pak","nexusFileId":125109,"metaUuid":"5036992b-bd02-4c07-9b7f-332e3045b942"},
 {"nexusFileName":"Psychotter's Goth Dyes - Gold - Vendors Tutorial","nexusFileVersion":"2","nexusFileUploadedAt":1783361201,"pakFileName":"Psychotter's Goth Dyes - Gold Metal Version - Vendors & Tutorial.pak","nexusFileId":125110,"metaUuid":"3fdfef5e-4270-4a15-af64-56450aca5a52"},
 {"nexusFileName":"Psychotter's Goth Dyes - Gold - Tutorial Only","nexusFileVersion":"2","nexusFileUploadedAt":1783361228,"pakFileName":"Psychotter's Goth Dyes - Gold Metal Version - Tutorial Only.pak","nexusFileId":125111,"metaUuid":"3fdfef5e-4270-4a15-af64-56450aca5a52"}
 ]},
@@ -28663,7 +28663,7 @@
 {"nexusFileName":"The Skimperor (Skirt only)","nexusFileVersion":"1","nexusFileUploadedAt":1717109313,"pakFileName":"Skimperor.pak","nexusFileId":59391,"metaUuid":null},
 {"nexusFileName":"The Skimperor (Always Bare)","nexusFileVersion":"1","nexusFileUploadedAt":1717109379,"pakFileName":"Skimperor.pak","nexusFileId":59392,"metaUuid":null},
 {"nexusFileName":"The Skimperor (Dream Guardian)","nexusFileVersion":"1","nexusFileUploadedAt":1717632809,"pakFileName":"Skimperor.pak","nexusFileId":60134,"metaUuid":"dd561127-5190-4f85-9bba-5b6d5fb256df"},
-{"nexusFileName":"The Skimperor","nexusFileVersion":"2","nexusFileUploadedAt":1740347688,"pakFileName":"Skimperor Astral Plane.pak","nexusFileId":86228,"metaUuid":null}
+{"nexusFileName":"The Skimperor","nexusFileVersion":"2","nexusFileUploadedAt":1740347688,"pakFileName":"Skimperor Astral Plane.pak","nexusFileId":86228,"metaUuid":"dd561127-5190-4f85-9bba-5b6d5fb256df"}
 ]},
 "9892":{"nexusModName":"Playable Dhampir - Spanish","nexusUploadedBy":"Gonzy42","nexusModId":9892,"paks":[
 {"nexusFileName":"Playable Dhampir - Spanish","nexusFileVersion":"1.1.1","nexusFileUploadedAt":1716848697,"pakFileName":"Transient_Guests_Are_WeES.pak","nexusFileId":59017,"metaUuid":null}
@@ -37810,7 +37810,7 @@
 {"nexusFileName":"Frost Knight armor by ren","nexusFileVersion":"1.0","nexusFileUploadedAt":1730037179,"pakFileName":"FrostKnight.pak","nexusFileId":76978,"metaUuid":"404282f3-2eb6-4b4f-82e6-7878b63c9e67"}
 ]},
 "13424":{"nexusModName":"Jax' Companion Edits - Halsin","nexusUploadedBy":"jawstarion","nexusModId":13424,"paks":[
-{"nexusFileName":"Jax' Companion Edits - Halsin","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1730041129,"pakFileName":"JAX_Halsin.pak","nexusFileId":76983,"metaUuid":null},
+{"nexusFileName":"Jax' Companion Edits - Halsin","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1730041129,"pakFileName":"JAX_Halsin.pak","nexusFileId":76983,"metaUuid":"275b76b2-8a68-477d-a326-5cf5da90b045"},
 {"nexusFileName":"Jax' Companion Edits - Halsin (No Beard)","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1730048982,"pakFileName":"JAX_Halsin_Beardless.pak","nexusFileId":76989,"metaUuid":null}
 ]},
 "13425":{"nexusModName":"Critfisher Ring","nexusUploadedBy":"Cordelliia","nexusModId":13425,"paks":[
@@ -38764,7 +38764,7 @@
 "13731":{"nexusModName":"MK11 Shao Kahn armor","nexusUploadedBy":"Lordcobra12","nexusModId":13731,"paks":[
 {"nexusFileName":"Shao Kahn Warhammer","nexusFileVersion":"1.0","nexusFileUploadedAt":1732636384,"pakFileName":"Shao-Kahn_Warhammer.pak","nexusFileId":80175,"metaUuid":null},
 {"nexusFileName":"Shao Kahn Warhammer (Teleport once per short rest)","nexusFileVersion":"1.0","nexusFileUploadedAt":1732916234,"pakFileName":"Shao-Kahn_Warhammer.pak","nexusFileId":80479,"metaUuid":null},
-{"nexusFileName":"MK11 Shao Kahn Armor","nexusFileVersion":"1.0","nexusFileUploadedAt":1734310095,"pakFileName":"MK11 Shao Kahn.pak","nexusFileId":81943,"metaUuid":null}
+{"nexusFileName":"MK11 Shao Kahn Armor","nexusFileVersion":"1.0","nexusFileUploadedAt":1734310095,"pakFileName":"MK11 Shao Kahn.pak","nexusFileId":81943,"metaUuid":"dbc28b0d-6e03-48cb-a006-ea31ca2d062c"}
 ]},
 "13732":{"nexusModName":"DrKekyll_GrapplingFrameworkCHS","nexusUploadedBy":"shenshengxuweiduo","nexusModId":13732,"paks":[
 {"nexusFileName":"DrKekyll_GrapplingFrameworkCHS","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1731313758,"pakFileName":"DrKekyll_GrapplingFrameworkCHS.pak","nexusFileId":78528,"metaUuid":null}
@@ -40899,7 +40899,7 @@
 {"nexusFileName":"Option 3b - HELP Commans is Useful Now","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1735758287,"pakFileName":"Bonus_Third_Without.pak","nexusFileId":83217,"metaUuid":null},
 {"nexusFileName":"Option 3c - HELP Commans is Useful Now","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1735758321,"pakFileName":"Bonus_Half_Without.pak","nexusFileId":83218,"metaUuid":null},
 {"nexusFileName":"Option 3d - HELP Commans is Useful Now","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1735758351,"pakFileName":"Bonus_Full_Without.pak","nexusFileId":83219,"metaUuid":null},
-{"nexusFileName":"Option 4a - HELP Commans is Useful Now","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1735758428,"pakFileName":"Bonus_Quarter_With.pak","nexusFileId":83220,"metaUuid":null},
+{"nexusFileName":"Option 4a - HELP Commans is Useful Now","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1735758428,"pakFileName":"Bonus_Quarter_With.pak","nexusFileId":83220,"metaUuid":"dc042fc2-d860-43d6-806c-3e9fd3f4b641"},
 {"nexusFileName":"Option 4b - HELP Commans is Useful Now","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1735758462,"pakFileName":"Bonus_Third_With.pak","nexusFileId":83221,"metaUuid":"dc042fc2-d860-43d6-806c-3e9fd3f4b641"},
 {"nexusFileName":"Option 4c - HELP Commans is Useful Now","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1735758488,"pakFileName":"Bonus_Half_With.pak","nexusFileId":83222,"metaUuid":null},
 {"nexusFileName":"Option 4d - HELP Commans is Useful Now","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1735758514,"pakFileName":"Bonus_Full_With.pak","nexusFileId":83223,"metaUuid":null},
@@ -41032,7 +41032,7 @@
 {"nexusFileName":"Glut's Ring Controlled Followers_KOR","nexusFileVersion":"0.1.1.0","nexusFileUploadedAt":1779155660,"pakFileName":"GlutRing_Companion_KOR.pak","nexusFileId":121628,"metaUuid":"5ca30028-f4d0-4d20-8810-612e13e133ac"}
 ]},
 "14574":{"nexusModName":"Bloodrager Spell Pack","nexusUploadedBy":"VahnSmash","nexusModId":14574,"paks":[
-{"nexusFileName":"Bloodrager Spell Pack","nexusFileVersion":"1.0.0.11","nexusFileUploadedAt":1753027047,"pakFileName":"bloodragerspells_c4583d8b-ebe8-b1bf-c28f-e00f0941f712.pak","nexusFileId":98605,"metaUuid":null}
+{"nexusFileName":"Bloodrager Spell Pack","nexusFileVersion":"1.0.0.11","nexusFileUploadedAt":1753027047,"pakFileName":"bloodragerspells_c4583d8b-ebe8-b1bf-c28f-e00f0941f712.pak","nexusFileId":98605,"metaUuid":"c4583d8b-ebe8-b1bf-c28f-e00f0941f712"}
 ]},
 "14575":{"nexusModName":"Faithful and Faithless - No Mandatory Choice of God_KOR","nexusUploadedBy":"Ahdarugo","nexusModId":14575,"paks":[
 {"nexusFileName":"Faithful and Faithless_KOR","nexusFileVersion":"1.0.0.3","nexusFileUploadedAt":1777135843,"pakFileName":"FaithfulFaithless_KOR.pak","nexusFileId":119837,"metaUuid":null}
@@ -68251,7 +68251,7 @@
 "24423":{"nexusModName":"PHB2024(ish) Feats Overhaul","nexusUploadedBy":"aljoxo","nexusModId":24423,"paks":[
 {"nexusFileName":"PHB2024 Feat Overhaul - War Caster","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1786831337,"pakFileName":"PHB2024FeatOverhaul - UAWarCaster.pak","nexusFileId":128175,"metaUuid":null},
 {"nexusFileName":"PHB2024 Feat Overhaul - Weapon Masteries DnD 5R","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1786831588,"pakFileName":"PHB2024FeatOverhaul - Weapon Masteries DnD 5R.pak","nexusFileId":128176,"metaUuid":null},
-{"nexusFileName":"PHB2024 Feat Overhaul","nexusFileVersion":"1.0.3","nexusFileUploadedAt":1787187366,"pakFileName":"PHB2024FeatOverhaul.pak","nexusFileId":128505,"metaUuid":null}
+{"nexusFileName":"PHB2024 Feat Overhaul","nexusFileVersion":"1.0.3","nexusFileUploadedAt":1787187366,"pakFileName":"PHB2024FeatOverhaul.pak","nexusFileId":128505,"metaUuid":"71ed9285-2716-4c20-a287-96bac7bebe63"}
 ]},
 "24426":{"nexusModName":"Sanctus Signum - Outfit Ensemble","nexusUploadedBy":"BerrySemifreddo","nexusModId":24426,"paks":[
 {"nexusFileName":"Sanctus Signum - MainFile","nexusFileVersion":"1.0.0.6","nexusFileUploadedAt":1786750786,"pakFileName":"SanctusSignumRobe_9170f5dc-b973-d7ad-59ef-757fe1cc67c3.pak","nexusFileId":128092,"metaUuid":"9170f5dc-b973-d7ad-59ef-757fe1cc67c3"}
@@ -69553,7 +69553,7 @@
 {"nexusFileName":"MIR 1.0.1","nexusFileVersion":"1","nexusFileUploadedAt":1788628230,"pakFileName":"MIR.pak","nexusFileId":129775,"metaUuid":"9ed7bbe2-d0aa-4bfc-8d86-a59aae5910c7"}
 ]},
 "24832":{"nexusModName":"Opalescent Threads","nexusUploadedBy":"arideyya","nexusModId":24832,"paks":[
-{"nexusFileName":"Opalescent Threads","nexusFileVersion":"1","nexusFileUploadedAt":1788677159,"pakFileName":"Opalescent Threads.pak","nexusFileId":129840,"metaUuid":null},
+{"nexusFileName":"Opalescent Threads","nexusFileVersion":"1","nexusFileUploadedAt":1788677159,"pakFileName":"Opalescent Threads.pak","nexusFileId":129840,"metaUuid":"6a7acb44-cda7-47f2-aece-e33ac297a1fe"},
 {"nexusFileName":"Verite - TMTS Version","nexusFileVersion":"1","nexusFileUploadedAt":1788687605,"pakFileName":"Verite TMTS.pak","nexusFileId":129852,"metaUuid":null},
 {"nexusFileName":"Verite - Sylus BT2 Compatible","nexusFileVersion":"1","nexusFileUploadedAt":1788687695,"pakFileName":"Verite - Slim BT2.pak","nexusFileId":129853,"metaUuid":null}
 ]},
