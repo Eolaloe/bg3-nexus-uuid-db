@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-09-07T13:53:11.557563+00:00","total_mods":17536},
+{"_meta":{"last_run":"2026-09-07T14:52:34.525834+00:00","total_mods":17539},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -63594,7 +63594,7 @@
 "22557":{"nexusModName":"Adventuring and Expansion of rest System","nexusUploadedBy":"JustAnotherHomoSapien","nexusModId":22557,"paks":[
 {"nexusFileName":"Apcs RestSystem No Supply Packs Version","nexusFileVersion":"4.25","nexusFileUploadedAt":1788780341,"pakFileName":"apcs_RestSystem - No Supply Packs Version.pak","nexusFileId":129956,"metaUuid":null},
 {"nexusFileName":"Apcs RestSystem","nexusFileVersion":"4.25","nexusFileUploadedAt":1788780556,"pakFileName":"apcs_RestSystem.pak","nexusFileId":129957,"metaUuid":null},
-{"nexusFileName":"Apcs RestSystem   Naked Start","nexusFileVersion":"4.25","nexusFileUploadedAt":1788780634,"pakFileName":"apcs_RestSystem - Naked Start.pak","nexusFileId":129958,"metaUuid":null}
+{"nexusFileName":"Apcs RestSystem   Naked Start","nexusFileVersion":"4.25","nexusFileUploadedAt":1788789843,"pakFileName":"apcs_RestSystem - Naked Start.pak","nexusFileId":129968,"metaUuid":null}
 ]},
 "22558":{"nexusModName":"Ultimate Tactical AI Companions","nexusUploadedBy":"Vercadi","nexusModId":22558,"paks":[
 {"nexusFileName":"Ultimate Tactical AI Companions v1.1.3","nexusFileVersion":"1.1.3","nexusFileUploadedAt":1779117839,"pakFileName":"UTAC.pak","nexusFileId":121582,"metaUuid":"300fb883-8af8-4be9-a101-171b56698dc5"}
@@ -69206,6 +69206,12 @@
 "24680":{"nexusModName":"Dynamic ExtraEncounters CHS","nexusUploadedBy":"mzldyt","nexusModId":24680,"paks":[
 {"nexusFileName":"DynamicExtraEncounters CH","nexusFileVersion":"1.0.0.26","nexusFileUploadedAt":1788009242,"pakFileName":"DynamicExtraEncounters_CH.pak","nexusFileId":129265,"metaUuid":null}
 ]},
+"24681":{"nexusModName":"Reduce Spell Range","nexusUploadedBy":"Cainhurtz","nexusModId":24681,"paks":[
+{"nexusFileName":"Reduced Bow Range","nexusFileVersion":"1","nexusFileUploadedAt":1788015262,"pakFileName":"ReducedBowRange.pak","nexusFileId":129267,"metaUuid":null},
+{"nexusFileName":"Reduced Crossbow Range","nexusFileVersion":"1","nexusFileUploadedAt":1788015341,"pakFileName":"ReducedCrossbowRange.pak","nexusFileId":129268,"metaUuid":null},
+{"nexusFileName":"Reduced Spell Range - 30 ft","nexusFileVersion":"1","nexusFileUploadedAt":1788015490,"pakFileName":"ReducedSpellRange30.pak","nexusFileId":129269,"metaUuid":null},
+{"nexusFileName":"Reduced Spell Range - 45 ft","nexusFileVersion":"1","nexusFileUploadedAt":1788015513,"pakFileName":"ReducedSpellRange45.pak","nexusFileId":129270,"metaUuid":null}
+]},
 "24682":{"nexusModName":"Know Your Roll","nexusUploadedBy":"Aliencow1338","nexusModId":24682,"paks":[
 {"nexusFileName":"KnowYourRoll","nexusFileVersion":"1.0.1","nexusFileUploadedAt":1788589129,"pakFileName":"KnowYourRoll.pak","nexusFileId":129734,"metaUuid":"41210bf5-af86-41dc-9d2f-6d8a655386e5"}
 ]},
@@ -69532,6 +69538,9 @@
 {"nexusFileName":"Dwayne Johnson Head 1 0 1","nexusFileVersion":"1.0.1","nexusFileUploadedAt":1788706162,"pakFileName":"Dwayne_Johnson_head_53b3b53c-e1a7-01b8-aa0d-155861797118.pak","nexusFileId":129875,"metaUuid":"53b3b53c-e1a7-01b8-aa0d-155861797118"},
 {"nexusFileName":"Dwayne Johnson Head 1.0.2","nexusFileVersion":"1.0.2","nexusFileUploadedAt":1788725532,"pakFileName":"Dwayne_Johnson_head_53b3b53c-e1a7-01b8-aa0d-155861797118.pak","nexusFileId":129904,"metaUuid":"53b3b53c-e1a7-01b8-aa0d-155861797118"}
 ]},
+"24828":{"nexusModName":"Heavy Hand Crossbows","nexusUploadedBy":"Cainhurtz","nexusModId":24828,"paks":[
+{"nexusFileName":"Heavy Hand Crossbows","nexusFileVersion":"1","nexusFileUploadedAt":1788623556,"pakFileName":"HandXBowNerf.pak","nexusFileId":129766,"metaUuid":null}
+]},
 "24829":{"nexusModName":"Half-Illithid Veins Only","nexusUploadedBy":"wrenanigans","nexusModId":24829,"paks":[
 {"nexusFileName":"IllithidVeinsOnly","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1788626964,"pakFileName":"IllithidVeinsOnly.pak","nexusFileId":129773,"metaUuid":"5068eed9-3af7-400f-ba1c-1ed5a4101ba4"}
 ]},
@@ -69611,11 +69620,14 @@
 {"nexusFileName":"Elegy of the Beast (Russian Localization)","nexusFileVersion":"1.0.0.19","nexusFileUploadedAt":1788763021,"pakFileName":"Lycanthrope_Tree_RU.pak","nexusFileId":129946,"metaUuid":null}
 ]},
 "24864":{"nexusModName":"Concentration Redux","nexusUploadedBy":"NihilXD","nexusModId":24864,"paks":[
-{"nexusFileName":"Concentration Redux","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1788767712,"pakFileName":"ConcentrationRedux_5ca2dda8-eedc-41be-95f0-50747d552d10.pak","nexusFileId":129948,"metaUuid":null}
+{"nexusFileName":"Concentration Redux","nexusFileVersion":"1.0.2","nexusFileUploadedAt":1788791885,"pakFileName":"ConcentrationRedux_5ca2dda8-eedc-41be-95f0-50747d552d10.pak","nexusFileId":129971,"metaUuid":null}
 ]},
 "24867":{"nexusModName":"Midas's Golden Arsenal-CHS","nexusUploadedBy":"namelessman10086","nexusModId":24867,"paks":[
 {"nexusFileName":"MidasGoldenArsenal CHS","nexusFileVersion":"1","nexusFileUploadedAt":1788784083,"pakFileName":"MidasGoldenArsenal-CHS.pak","nexusFileId":129961,"metaUuid":null}
 ]},
 "24868":{"nexusModName":"God Slayer Class Redux-CHS","nexusUploadedBy":"namelessman10086","nexusModId":24868,"paks":[
 {"nexusFileName":"Godslayer CHS","nexusFileVersion":"1","nexusFileUploadedAt":1788786465,"pakFileName":"Godslayer-CHS.pak","nexusFileId":129963,"metaUuid":null}
+]},
+"24869":{"nexusModName":"Simple Haste Rework","nexusUploadedBy":"Cainhurtz","nexusModId":24869,"paks":[
+{"nexusFileName":"HasteRework","nexusFileVersion":"1","nexusFileUploadedAt":1788789468,"pakFileName":"HasteRework.pak","nexusFileId":129967,"metaUuid":null}
 ]}}
