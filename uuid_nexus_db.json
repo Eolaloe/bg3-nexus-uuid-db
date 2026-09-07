@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-09-07T10:52:33.439109+00:00","total_mods":17533},
+{"_meta":{"last_run":"2026-09-07T11:53:15.608086+00:00","total_mods":17533},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -63592,7 +63592,9 @@
 {"nexusFileName":"ShadarKai ES","nexusFileVersion":"1","nexusFileUploadedAt":1777110901,"pakFileName":"ShadarKai_ES.pak","nexusFileId":119823,"metaUuid":null}
 ]},
 "22557":{"nexusModName":"Adventuring and Expansion of rest System","nexusUploadedBy":"JustAnotherHomoSapien","nexusModId":22557,"paks":[
-{"nexusFileName":"Apcs RestSystem","nexusFileVersion":"4","nexusFileUploadedAt":1788338941,"pakFileName":"apcs_RestSystem.pak","nexusFileId":129541,"metaUuid":null}
+{"nexusFileName":"Apcs RestSystem No Supply Packs Version","nexusFileVersion":"4.25","nexusFileUploadedAt":1788780341,"pakFileName":"apcs_RestSystem - No Supply Packs Version.pak","nexusFileId":129956,"metaUuid":null},
+{"nexusFileName":"Apcs RestSystem","nexusFileVersion":"4.25","nexusFileUploadedAt":1788780556,"pakFileName":"apcs_RestSystem.pak","nexusFileId":129957,"metaUuid":null},
+{"nexusFileName":"Apcs RestSystem   Naked Start","nexusFileVersion":"4.25","nexusFileUploadedAt":1788780634,"pakFileName":"apcs_RestSystem - Naked Start.pak","nexusFileId":129958,"metaUuid":null}
 ]},
 "22558":{"nexusModName":"Ultimate Tactical AI Companions","nexusUploadedBy":"Vercadi","nexusModId":22558,"paks":[
 {"nexusFileName":"Ultimate Tactical AI Companions v1.1.3","nexusFileVersion":"1.1.3","nexusFileUploadedAt":1779117839,"pakFileName":"UTAC.pak","nexusFileId":121582,"metaUuid":"300fb883-8af8-4be9-a101-171b56698dc5"}
@@ -67364,7 +67366,8 @@
 {"nexusFileName":"House of Hope Couture TRM1R","nexusFileVersion":"1","nexusFileUploadedAt":1787001491,"pakFileName":"House_of_Hope_Couture_TRM1R.pak","nexusFileId":128321,"metaUuid":null},
 {"nexusFileName":"TRM1 Races Medusae's Muses Patch","nexusFileVersion":"1","nexusFileUploadedAt":1787079273,"pakFileName":"MedusaesMusesTRM1RPatch.pak","nexusFileId":128374,"metaUuid":null},
 {"nexusFileName":"TRM1 Races UTav-KAVT Patch","nexusFileVersion":"2","nexusFileUploadedAt":1788640442,"pakFileName":"TRM1Races_UTAV_Patch.pak","nexusFileId":129817,"metaUuid":null},
-{"nexusFileName":"TRM1 Races","nexusFileVersion":"1.3","nexusFileUploadedAt":1788715264,"pakFileName":"TRM1_Races_97bca857-f004-3675-3e83-b57dbcf98572.pak","nexusFileId":129893,"metaUuid":"97bca857-f004-3675-3e83-b57dbcf98572"}
+{"nexusFileName":"TRM1 Races","nexusFileVersion":"1.3","nexusFileUploadedAt":1788715264,"pakFileName":"TRM1_Races_97bca857-f004-3675-3e83-b57dbcf98572.pak","nexusFileId":129893,"metaUuid":"97bca857-f004-3675-3e83-b57dbcf98572"},
+{"nexusFileName":"TRM1 Lae'zel","nexusFileVersion":"1","nexusFileUploadedAt":1788779895,"pakFileName":"TRM1_Laezel.pak","nexusFileId":129954,"metaUuid":null}
 ]},
 "24050":{"nexusModName":"Team-Oriented Skill-Checked Feats and So On (BAMJO Feats)","nexusUploadedBy":"R6R6R","nexusModId":24050,"paks":[
 {"nexusFileName":"BAMJOFeats","nexusFileVersion":"1.1.2","nexusFileUploadedAt":1785003068,"pakFileName":"BAMJOFeats.pak","nexusFileId":126481,"metaUuid":"ce358962-8bae-4891-a171-f306b2fab092"}
@@ -67880,7 +67883,7 @@
 {"nexusFileName":"TrueWildMagic 1.1.2","nexusFileVersion":"1.1.2","nexusFileUploadedAt":1787151392,"pakFileName":"TrueWildMagic-1.1.2.pak","nexusFileId":128465,"metaUuid":null}
 ]},
 "24273":{"nexusModName":"Apostasy (Clothing - Ayuro Collab)","nexusUploadedBy":"onyx","nexusModId":24273,"paks":[
-{"nexusFileName":"ONYX - Apostasy","nexusFileVersion":"1","nexusFileUploadedAt":1786008907,"pakFileName":"ONYX_Apostasy_8d85816b-da6c-f582-adb4-2e8e3f873beb.pak","nexusFileId":127427,"metaUuid":"8d85816b-da6c-f582-adb4-2e8e3f873beb"}
+{"nexusFileName":"ONYX - Apostasy","nexusFileVersion":"2","nexusFileUploadedAt":1788781445,"pakFileName":"ONYX_Apostasy_8d85816b-da6c-f582-adb4-2e8e3f873beb.pak","nexusFileId":129959,"metaUuid":"8d85816b-da6c-f582-adb4-2e8e3f873beb"}
 ]},
 "24276":{"nexusModName":"TRM1 Modded Races Patches","nexusUploadedBy":"tealrabbit19","nexusModId":24276,"paks":[
 {"nexusFileName":"ASTRL Elves UniqueTav TRM1","nexusFileVersion":"1","nexusFileUploadedAt":1785885863,"pakFileName":"ASTRLelves_UniqueTav_TRM1.pak","nexusFileId":127338,"metaUuid":null},
