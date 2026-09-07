@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-09-07T17:52:30.177780+00:00","total_mods":17540},
+{"_meta":{"last_run":"2026-09-07T18:53:04.039768+00:00","total_mods":17543},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -64767,7 +64767,7 @@
 {"nexusFileName":"FIX - STAV Tail Tats","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1786023194,"pakFileName":"Akm Tiefling Body - STAV Tail FIX.pak","nexusFileId":127442,"metaUuid":null},
 {"nexusFileName":"Akm Tiefling Body - BT1 Only","nexusFileVersion":"2.0.1.1","nexusFileUploadedAt":1786887403,"pakFileName":"Akm Tiefling Body.pak","nexusFileId":128213,"metaUuid":"4420c433-718f-4749-8e5d-1da521a84b19"},
 {"nexusFileName":"Akm Tiefling Body - BT1 and BT3 Only","nexusFileVersion":"2.1.2.0","nexusFileUploadedAt":1787671118,"pakFileName":"Akm Tiefling Body.pak","nexusFileId":128979,"metaUuid":"4420c433-718f-4749-8e5d-1da521a84b19"},
-{"nexusFileName":"Akm Tiefling Body","nexusFileVersion":"3.0.0.0","nexusFileUploadedAt":1788802639,"pakFileName":"Akm Tiefling Body.pak","nexusFileId":129982,"metaUuid":"4420c433-718f-4749-8e5d-1da521a84b19"}
+{"nexusFileName":"Akm Tiefling Body","nexusFileVersion":"3.0.0.1","nexusFileUploadedAt":1788806743,"pakFileName":"Akm Tiefling Body.pak","nexusFileId":129986,"metaUuid":"4420c433-718f-4749-8e5d-1da521a84b19"}
 ]},
 "23059":{"nexusModName":"Flora Dress and Long Nature Hair","nexusUploadedBy":"Lyniara","nexusModId":23059,"paks":[
 {"nexusFileName":"Flora Dress","nexusFileVersion":"1","nexusFileUploadedAt":1779744844,"pakFileName":"LynFloraDress.pak","nexusFileId":122131,"metaUuid":"a7c4ef09-4ca7-428a-950d-85c4c74573b9"},
@@ -69557,6 +69557,9 @@
 {"nexusFileName":"Verite - TMTS Version","nexusFileVersion":"1","nexusFileUploadedAt":1788687605,"pakFileName":"Verite TMTS.pak","nexusFileId":129852,"metaUuid":null},
 {"nexusFileName":"Verite - Sylus BT2 Compatible","nexusFileVersion":"1","nexusFileUploadedAt":1788687695,"pakFileName":"Verite - Slim BT2.pak","nexusFileId":129853,"metaUuid":null}
 ]},
+"24833":{"nexusModName":"FleshForge - Body Selector - MDGB - Muscular Dragonborn","nexusUploadedBy":"AkELkA","nexusModId":24833,"paks":[
+{"nexusFileName":"FleshForge - Body Selector - MDGB","nexusFileVersion":"1.0.0.10","nexusFileUploadedAt":1788742425,"pakFileName":"Expanded_DGB_Body_Selector_A_6620355d-4b3f-50c3-ec07-80fddcdd7db0.pak","nexusFileId":129915,"metaUuid":null}
+]},
 "24834":{"nexusModName":"Midas's Golden Arsenal","nexusUploadedBy":"Prednoxx","nexusModId":24834,"paks":[
 {"nexusFileName":"MidasReleaseVersion2","nexusFileVersion":"2","nexusFileUploadedAt":1788675351,"pakFileName":"MidasGoldenArsenal_103e49fc-e61c-42d5-a01c-d8c1aac650e6.pak","nexusFileId":129838,"metaUuid":null}
 ]},
@@ -69590,6 +69593,12 @@
 "24848":{"nexusModName":"Enia Head and CC Set","nexusUploadedBy":"HeartsWires","nexusModId":24848,"paks":[
 {"nexusFileName":"Enia CC Set ","nexusFileVersion":"1","nexusFileUploadedAt":1788706807,"pakFileName":"HW_EniaCCSet_c2b57116-9817-36c7-4bb3-fbe2756788e2.pak","nexusFileId":129876,"metaUuid":null}
 ]},
+"24849":{"nexusModName":"Echoes Of Nostalgia","nexusUploadedBy":"gobanaoblin","nexusModId":24849,"paks":[
+{"nexusFileName":"Echoes Of Nostalgia","nexusFileVersion":"1","nexusFileUploadedAt":1788804165,"pakFileName":"CC_EchoesOfNostalgia_f73616b1-9649-3bf3-1359-80e6d64aa660.pak","nexusFileId":129983,"metaUuid":null}
+]},
+"24850":{"nexusModName":"Tag-Driven Equipment Race","nexusUploadedBy":"Volitio","nexusModId":24850,"paks":[
+{"nexusFileName":"Tag-Driven Equipment Race","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1788739366,"pakFileName":"TagDrivenEquipmentRace.pak","nexusFileId":129914,"metaUuid":null}
+]},
 "24851":{"nexusModName":"War Rapier","nexusUploadedBy":"nexuspaladin","nexusModId":24851,"paks":[
 {"nexusFileName":"Reitschwert Rapier","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1788711927,"pakFileName":"Reitschwert_rapier.pak","nexusFileId":129892,"metaUuid":"073bedc5-0d2a-4771-943b-6cd26910c6e4"}
 ]},
@@ -69622,7 +69631,7 @@
 {"nexusFileName":"Elegy of the Beast (Russian Localization)","nexusFileVersion":"1.0.0.19","nexusFileUploadedAt":1788763021,"pakFileName":"Lycanthrope_Tree_RU.pak","nexusFileId":129946,"metaUuid":null}
 ]},
 "24864":{"nexusModName":"Concentration Redux","nexusUploadedBy":"NihilXD","nexusModId":24864,"paks":[
-{"nexusFileName":"Concentration Redux","nexusFileVersion":"1.0.2","nexusFileUploadedAt":1788791885,"pakFileName":"ConcentrationRedux_5ca2dda8-eedc-41be-95f0-50747d552d10.pak","nexusFileId":129971,"metaUuid":null}
+{"nexusFileName":"Concentration Redux","nexusFileVersion":"1.0.4","nexusFileUploadedAt":1788805728,"pakFileName":"ConcentrationRedux_5ca2dda8-eedc-41be-95f0-50747d552d10.pak","nexusFileId":129985,"metaUuid":null}
 ]},
 "24867":{"nexusModName":"Midas's Golden Arsenal-CHS","nexusUploadedBy":"namelessman10086","nexusModId":24867,"paks":[
 {"nexusFileName":"MidasGoldenArsenal CHS","nexusFileVersion":"1","nexusFileUploadedAt":1788784083,"pakFileName":"MidasGoldenArsenal-CHS.pak","nexusFileId":129961,"metaUuid":null}
