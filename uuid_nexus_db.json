@@ -314,13 +314,13 @@
 ]},
 "279":{"nexusModName":"Expansion Level 13-20 (Configurable)","nexusUploadedBy":"DiZ91891","nexusModId":279,"paks":[
 {"nexusFileName":"Bladesinger","nexusFileVersion":"2.1.0.0","nexusFileUploadedAt":1744924772,"pakFileName":"Bladesinger.pak","nexusFileId":89421,"metaUuid":"4b3027c0-d841-4c04-a015-6270592ec140"},
-{"nexusFileName":"Expansion Optional Features","nexusFileVersion":"1.00","nexusFileUploadedAt":1785636404,"pakFileName":"ExpansionOptionalFeatures.pak","nexusFileId":127076,"metaUuid":null},
+{"nexusFileName":"Expansion Optional Features","nexusFileVersion":"1.00","nexusFileUploadedAt":1785636404,"pakFileName":"ExpansionOptionalFeatures.pak","nexusFileId":127076,"metaUuid":"7c88d9c5-c30a-4e2a-adfc-55d6a927c8d7"},
 {"nexusFileName":"Expansion","nexusFileVersion":"1.7.3.11","nexusFileUploadedAt":1787373567,"pakFileName":"Expansion.pak","nexusFileId":128649,"metaUuid":"a2c4b0fc-e745-41df-81b7-fa53950d86a0"},
-{"nexusFileName":"Extra Feats","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1788634989,"pakFileName":"ExpansionExtraFeats.pak","nexusFileId":129796,"metaUuid":null},
-{"nexusFileName":"Extra Feats","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1788634989,"pakFileName":"ExpansionExtraFeats_Second.pak","nexusFileId":129796,"metaUuid":null},
-{"nexusFileName":"Extra Feats","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1788634989,"pakFileName":"ExpansionExtraFeats_SecondOnly.pak","nexusFileId":129796,"metaUuid":null},
-{"nexusFileName":"Extra Feats","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1788634989,"pakFileName":"ExpansionExtraFeats_SecondThirdOnly.pak","nexusFileId":129796,"metaUuid":null},
-{"nexusFileName":"Extra Feats","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1788634989,"pakFileName":"ExpansionExtraFeats_Third.pak","nexusFileId":129796,"metaUuid":null}
+{"nexusFileName":"Extra Feats","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1788634989,"pakFileName":"ExpansionExtraFeats.pak","nexusFileId":129796,"metaUuid":"0868ff46-5f9c-417a-8fa9-d8fba190faf1"},
+{"nexusFileName":"Extra Feats","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1788634989,"pakFileName":"ExpansionExtraFeats_Second.pak","nexusFileId":129796,"metaUuid":"0868ff46-5f9c-417a-8fa9-d8fba190faf1"},
+{"nexusFileName":"Extra Feats","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1788634989,"pakFileName":"ExpansionExtraFeats_SecondOnly.pak","nexusFileId":129796,"metaUuid":"0868ff46-5f9c-417a-8fa9-d8fba190faf1"},
+{"nexusFileName":"Extra Feats","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1788634989,"pakFileName":"ExpansionExtraFeats_SecondThirdOnly.pak","nexusFileId":129796,"metaUuid":"0868ff46-5f9c-417a-8fa9-d8fba190faf1"},
+{"nexusFileName":"Extra Feats","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1788634989,"pakFileName":"ExpansionExtraFeats_Third.pak","nexusFileId":129796,"metaUuid":"0868ff46-5f9c-417a-8fa9-d8fba190faf1"}
 ]},
 "280":{"nexusModName":"Origin Unlocker and Warlock Fireball - TEST","nexusUploadedBy":"Gryffindor777","nexusModId":280,"paks":[
 {"nexusFileName":"ORIGIN UNLOCKER and WARLOCK FIREBALL","nexusFileVersion":"1","nexusFileUploadedAt":1636912832,"pakFileName":"Gustav.pak","nexusFileId":2180,"metaUuid":null},
@@ -8404,7 +8404,7 @@
 ]},
 "2528":{"nexusModName":"Extra Bonus or Action Resources Feats","nexusUploadedBy":"Null993","nexusModId":2528,"paks":[
 {"nexusFileName":"Extra Bonus or Action Resources -With Asi","nexusFileVersion":"1.1","nexusFileUploadedAt":1695910037,"pakFileName":"ExtraRes.pak","nexusFileId":19172,"metaUuid":"e04596a4-7620-4273-9cde-58ed5f605b70"},
-{"nexusFileName":"Extra Bonus or Action Resources - No Asi","nexusFileVersion":"1.1","nexusFileUploadedAt":1745228856,"pakFileName":"ImmuneDestroyer_18d4f621-8905-3558-f4d8-24c194757759.pak","nexusFileId":90062,"metaUuid":null}
+{"nexusFileName":"Extra Bonus or Action Resources - No Asi","nexusFileVersion":"1.1","nexusFileUploadedAt":1745228856,"pakFileName":"ImmuneDestroyer_18d4f621-8905-3558-f4d8-24c194757759.pak","nexusFileId":90062,"metaUuid":"18d4f621-8905-3558-f4d8-24c194757759"}
 ]},
 "2529":{"nexusModName":"Kitty Party - Displacer Beast Summon","nexusUploadedBy":"Lynstence","nexusModId":2529,"paks":[
 {"nexusFileName":"DisplacerSummon Vanilla","nexusFileVersion":"2.0.0","nexusFileUploadedAt":1727882243,"pakFileName":"DisplacerSummon.pak","nexusFileId":73603,"metaUuid":null},
@@ -22945,7 +22945,7 @@
 {"nexusFileName":"Red Eldritch Blast (New)","nexusFileVersion":"1.0.3","nexusFileUploadedAt":1717590348,"pakFileName":"EldritchBlastRed.pak","nexusFileId":60011,"metaUuid":null}
 ]},
 "7702":{"nexusModName":"Selectable Starting Cantrip for Drow and Half-Drow","nexusUploadedBy":"jonhinkerton","nexusModId":7702,"paks":[
-{"nexusFileName":"DrowCantripSelect.zip","nexusFileVersion":"1.1","nexusFileUploadedAt":1710346479,"pakFileName":"DrowCantripSelect.pak","nexusFileId":49815,"metaUuid":null}
+{"nexusFileName":"DrowCantripSelect.zip","nexusFileVersion":"1.1","nexusFileUploadedAt":1710346479,"pakFileName":"DrowCantripSelect.pak","nexusFileId":49815,"metaUuid":"3b21d537-4544-4b19-8b39-877aaedc6495"}
 ]},
 "7703":{"nexusModName":"Abdirak","nexusUploadedBy":"Elmvick","nexusModId":7703,"paks":[
 {"nexusFileName":"Abdirak","nexusFileVersion":"1.1","nexusFileUploadedAt":1711460274,"pakFileName":"Abdirak.pak","nexusFileId":51515,"metaUuid":null}
@@ -29804,7 +29804,7 @@
 {"nexusFileName":"GoldDigger Scroll Spanish","nexusFileVersion":"5.0.0","nexusFileUploadedAt":1718474490,"pakFileName":"GoldDiggerEs.pak","nexusFileId":61091,"metaUuid":null}
 ]},
 "10343":{"nexusModName":"Rathgor - Reforged  head - Dark Urge Dragonborn CC","nexusUploadedBy":"AkELkA","nexusModId":10343,"paks":[
-{"nexusFileName":"Rathgor - Reforged head - Dark Urge Dragonborn CC","nexusFileVersion":"1.0.0.14","nexusFileUploadedAt":1775066447,"pakFileName":"Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c.pak","nexusFileId":117965,"metaUuid":"008279bb-2960-475c-b260-3f5a07ac3bdf"},
+{"nexusFileName":"Rathgor - Reforged head - Dark Urge Dragonborn CC","nexusFileVersion":"1.0.0.14","nexusFileUploadedAt":1775066447,"pakFileName":"Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c.pak","nexusFileId":117965,"metaUuid":"56bee93d-ecd1-4680-cca1-44ee52514b9c"},
 {"nexusFileName":"EotB Patch Rathgor","nexusFileVersion":"1.0.0.5","nexusFileUploadedAt":1777544662,"pakFileName":"EotB_Patch_Rathgor.pak","nexusFileId":120224,"metaUuid":"008279bb-2960-475c-b260-3f5a07ac3bdf"}
 ]},
 "10344":{"nexusModName":"Oath of the Raven Queen - Paladin Subclass","nexusUploadedBy":"bluejoe1","nexusModId":10344,"paks":[
@@ -30955,7 +30955,7 @@
 {"nexusFileName":"Claws_Of_Flint_and_Steel","nexusFileVersion":"1.1.0.1","nexusFileUploadedAt":1720250832,"pakFileName":"ClawFlintSteel.pak","nexusFileId":63227,"metaUuid":"f3ac6676-5841-40b4-bcbf-9de982746721"}
 ]},
 "10761":{"nexusModName":"Pearl - Seadragon - Dragonborn CC","nexusUploadedBy":"AkELkA","nexusModId":10761,"paks":[
-{"nexusFileName":"Pearl - Seadragon - Dragonborn CC","nexusFileVersion":"1.0.0.14","nexusFileUploadedAt":1776158782,"pakFileName":"Pearl-Seadragon_415363fd-bef0-5376-658c-2540fd8e37b7.pak","nexusFileId":118923,"metaUuid":"c6f94a28-dc8f-4040-89a4-8521b838f9a5"},
+{"nexusFileName":"Pearl - Seadragon - Dragonborn CC","nexusFileVersion":"1.0.0.14","nexusFileUploadedAt":1776158782,"pakFileName":"Pearl-Seadragon_415363fd-bef0-5376-658c-2540fd8e37b7.pak","nexusFileId":118923,"metaUuid":"415363fd-bef0-5376-658c-2540fd8e37b7"},
 {"nexusFileName":"EotB Patch Pearl","nexusFileVersion":"1.0.0.5","nexusFileUploadedAt":1777544539,"pakFileName":"EotB_Patch_Pearl.pak","nexusFileId":120223,"metaUuid":"c6f94a28-dc8f-4040-89a4-8521b838f9a5"}
 ]},
 "10763":{"nexusModName":"ArcaneRings(CHS)","nexusUploadedBy":"SXISL","nexusModId":10763,"paks":[
@@ -31245,7 +31245,7 @@
 {"nexusFileName":"Mystra's Blessing Enhanced - CHS","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1720581665,"pakFileName":"Mystra's Blessing Enhanced_ZH_HANS.pak","nexusFileId":63593,"metaUuid":null}
 ]},
 "10869":{"nexusModName":"Devouring and Digesting","nexusUploadedBy":"SquidpadDnD","nexusModId":10869,"paks":[
-{"nexusFileName":"DevouringAndDigesting","nexusFileVersion":"v0.4.2.0","nexusFileUploadedAt":1721156634,"pakFileName":"DevouringAndDigesting.pak","nexusFileId":64187,"metaUuid":null}
+{"nexusFileName":"DevouringAndDigesting","nexusFileVersion":"v0.4.2.0","nexusFileUploadedAt":1721156634,"pakFileName":"DevouringAndDigesting.pak","nexusFileId":64187,"metaUuid":"c8e61d7e-9871-4548-a861-a8fced3ac4bd"}
 ]},
 "10871":{"nexusModName":"The Dawn Maiden Outfit By REN - PTBR","nexusUploadedBy":"kaironn2","nexusModId":10871,"paks":[
 {"nexusFileName":"The Dawn Maiden Outfit - PTBR","nexusFileVersion":"1.0","nexusFileUploadedAt":1720584379,"pakFileName":"DawnMaiden_ptbr.pak","nexusFileId":63598,"metaUuid":null}
@@ -49080,7 +49080,7 @@
 {"nexusFileName":"Goon's Rogue Overhaul","nexusFileVersion":"2.1.0.1","nexusFileUploadedAt":1786885774,"pakFileName":"Goon's Rogue Overhaul.pak","nexusFileId":128210,"metaUuid":"08ed24ce-1dd1-4515-96b7-ef22e7205e0b"}
 ]},
 "17613":{"nexusModName":"Notable Dream Guardians Vol. 2","nexusUploadedBy":"TheCobaltCactus","nexusModId":17613,"paks":[
-{"nexusFileName":"Notable Dream Guardians Vol. 2","nexusFileVersion":"1.0.0.2","nexusFileUploadedAt":1752630004,"pakFileName":"notable_guardians_2_f4732d93-9bd1-07ea-701a-0b159587eb84.pak","nexusFileId":98204,"metaUuid":null}
+{"nexusFileName":"Notable Dream Guardians Vol. 2","nexusFileVersion":"1.0.0.2","nexusFileUploadedAt":1752630004,"pakFileName":"notable_guardians_2_f4732d93-9bd1-07ea-701a-0b159587eb84.pak","nexusFileId":98204,"metaUuid":"f4732d93-9bd1-07ea-701a-0b159587eb84"}
 ]},
 "17614":{"nexusModName":"Auntie Ethel Edits - Lady of the Swamp RU","nexusUploadedBy":"FaneMajere","nexusModId":17614,"paks":[
 {"nexusFileName":"Auntie Ethel RU","nexusFileVersion":"1","nexusFileUploadedAt":1752651052,"pakFileName":"AuntieEthelRedone_c56b3143-1ca9-8194-ede9-f151aa65916d.pak","nexusFileId":98222,"metaUuid":null}
@@ -66596,7 +66596,7 @@
 {"nexusFileName":"A-03. Twilight Flourish - Attack - AP - Tag - Cd6s","nexusFileVersion":"2.0.0-A-03","nexusFileUploadedAt":1787771161,"pakFileName":"Twilight Flourish - Lunar True Strike 2024 - A-03.pak","nexusFileId":129076,"metaUuid":null},
 {"nexusFileName":"A-04. Twilight Flourish - Attack - AP - Tag - Rd8s","nexusFileVersion":"2.0.0-A-04","nexusFileUploadedAt":1787771179,"pakFileName":"Twilight Flourish - Lunar True Strike 2024 - A-04.pak","nexusFileId":129077,"metaUuid":null},
 {"nexusFileName":"A-05. Twilight Flourish - Attack - AP - Tag - Rd6s","nexusFileVersion":"2.0.0-A-05","nexusFileUploadedAt":1787771197,"pakFileName":"Twilight Flourish - Lunar True Strike 2024 - A-05.pak","nexusFileId":129078,"metaUuid":null},
-{"nexusFileName":"Twilight Flourish - All Caster Addon - A to D","nexusFileVersion":"2.0.0","nexusFileUploadedAt":1787771227,"pakFileName":"Twilight Flourish - Lunar True Strike 2024 - All Caster Addon [A-D].pak","nexusFileId":129079,"metaUuid":null},
+{"nexusFileName":"Twilight Flourish - All Caster Addon - A to D","nexusFileVersion":"2.0.0","nexusFileUploadedAt":1787771227,"pakFileName":"Twilight Flourish - Lunar True Strike 2024 - All Caster Addon [A-D].pak","nexusFileId":129079,"metaUuid":"1fd9a17b-3659-4a18-aa59-ea27f0dbd2de"},
 {"nexusFileName":"Twilight Flourish - All Caster Addon - E to H","nexusFileVersion":"2.0.0","nexusFileUploadedAt":1787771254,"pakFileName":"Twilight Flourish - Lunar True Strike 2024 - All Caster Addon [E-H].pak","nexusFileId":129080,"metaUuid":"4ff10d24-fbae-42d5-a537-1007a94391cc"},
 {"nexusFileName":"B-01. Twilight Flourish - Attack - BA - Tag - Bd4s","nexusFileVersion":"2.0.0-B-01","nexusFileUploadedAt":1787771274,"pakFileName":"Twilight Flourish - Lunar True Strike 2024 - B-01.pak","nexusFileId":129081,"metaUuid":"9f46e3ac-1415-4688-ad11-112c25bc82ca"},
 {"nexusFileName":"B-02. Twilight Flourish - Attack - BA - Tag - Cd8s","nexusFileVersion":"2.0.0-B-02","nexusFileUploadedAt":1787771295,"pakFileName":"Twilight Flourish - Lunar True Strike 2024 - B-02.pak","nexusFileId":129082,"metaUuid":"691016bc-4b64-4788-b9f0-63e86f6dc151"},
@@ -68687,7 +68687,7 @@
 {"nexusFileName":"Eos Amulet - Critical Attacks Only","nexusFileVersion":"1","nexusFileUploadedAt":1786994593,"pakFileName":"Eos_Amulet.pak","nexusFileId":128315,"metaUuid":null}
 ]},
 "24482":{"nexusModName":"God Slayer (Godslayer) Class Redux","nexusUploadedBy":"pitris90","nexusModId":24482,"paks":[
-{"nexusFileName":"GodSlayer Redux - Standalone","nexusFileVersion":"3.1","nexusFileUploadedAt":1788387337,"pakFileName":"Unpacked_Godslayer.pak","nexusFileId":129560,"metaUuid":"2a979984-4e6e-879d-5852-172bffffa255"}
+{"nexusFileName":"GodSlayer Redux - Standalone","nexusFileVersion":"3.1","nexusFileUploadedAt":1788387337,"pakFileName":"Unpacked_Godslayer.pak","nexusFileId":129560,"metaUuid":"3d85dba1-7bb3-cea5-184d-38bf483401b1"}
 ]},
 "24483":{"nexusModName":"Clothing Size Tags","nexusUploadedBy":"julesberry","nexusModId":24483,"paks":[
 {"nexusFileName":"Clothing Size Tags","nexusFileVersion":"1.0.1.0","nexusFileUploadedAt":1787853130,"pakFileName":"ClothingSizes.pak","nexusFileId":129166,"metaUuid":"e9a40076-5606-4288-93ff-9fb296411364"}
@@ -69589,7 +69589,7 @@
 {"nexusFileName":"Lycanthrope Tree 805a7fb6 Cad3 5jkp","nexusFileVersion":"1.0.0.19","nexusFileUploadedAt":1788718306,"pakFileName":"lycanthrope_tree_805a7fb6-cad3-3d60-23b7-cf1f0e832aad.pak","nexusFileId":129895,"metaUuid":"805a7fb6-cad3-3d60-23b7-cf1f0e832aad"}
 ]},
 "24853":{"nexusModName":"Touch Grass - A Map for VP","nexusUploadedBy":"inkyplz","nexusModId":24853,"paks":[
-{"nexusFileName":"Go On... Touch Grass","nexusFileVersion":"1.0.0.6","nexusFileUploadedAt":1788737832,"pakFileName":"Echo&Inky_GoOnTouchGrass_0d72d39e-262b-8215-d520-655fa8235dea.pak","nexusFileId":129911,"metaUuid":null}
+{"nexusFileName":"Go On... Touch Grass","nexusFileVersion":"1.0.0.6","nexusFileUploadedAt":1788737832,"pakFileName":"Echo&Inky_GoOnTouchGrass_0d72d39e-262b-8215-d520-655fa8235dea.pak","nexusFileId":129911,"metaUuid":"0d72d39e-262b-8215-d520-655fa8235dea"}
 ]},
 "24856":{"nexusModName":"Truly Legendary Items","nexusUploadedBy":"somd3v","nexusModId":24856,"paks":[
 {"nexusFileName":"Truly Legendary Items","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1788735955,"pakFileName":"Legendary_ab52250f-4d4f-461d-ab55-c3ba421c0907.pak","nexusFileId":129910,"metaUuid":null}
