@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-09-08T15:52:25.041637+00:00","total_mods":17546},
+{"_meta":{"last_run":"2026-09-08T16:52:28.284251+00:00","total_mods":17547},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -48884,6 +48884,7 @@
 {"nexusFileName":"JWL Discordant Instruments for Patch 7CHS","nexusFileVersion":"1.4.0.0","nexusFileUploadedAt":1755473565,"pakFileName":"JWL_DiscordantInstrumentsCHS.pak","nexusFileId":100897,"metaUuid":null}
 ]},
 "17548":{"nexusModName":"Immersive Lewd Loading Hints","nexusUploadedBy":"reyqune","nexusModId":17548,"paks":[
+{"nexusFileName":"Immersive Lewd Loading Hints - General version","nexusFileVersion":"2","nexusFileUploadedAt":1758696785,"pakFileName":"LewdHint.pak","nexusFileId":103550,"metaUuid":"faec902c-8519-72f7-0a7e-7f6185eb5015"},
 {"nexusFileName":"Immersive Lewd Loading Hints - female version","nexusFileVersion":"3","nexusFileUploadedAt":1768148272,"pakFileName":"LewdHint.pak","nexusFileId":111913,"metaUuid":"faec902c-8519-72f7-0a7e-7f6185eb5015"}
 ]},
 "17551":{"nexusModName":"Ranger Starting Armor Tweaks","nexusUploadedBy":"EmeraldTechno","nexusModId":17551,"paks":[
@@ -68998,7 +68999,7 @@
 {"nexusFileName":"MGNTN WyllNewGreetings TraduzioneITA","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1787498274,"pakFileName":"MGNTN_WyllNewGreetings_TraduzioneITA.pak","nexusFileId":128844,"metaUuid":null}
 ]},
 "24600":{"nexusModName":"Neera's Wild Dress - Sorcerer robe outfit (BG1 BG2)","nexusUploadedBy":"commanderstrawberry","nexusModId":24600,"paks":[
-{"nexusFileName":"NeeraSorcOutfit","nexusFileVersion":"1.1","nexusFileUploadedAt":1788002487,"pakFileName":"NeeraSorcOutfit.pak","nexusFileId":129261,"metaUuid":"b60857bd-0dc2-42cd-a5e1-a3a639f105d8"}
+{"nexusFileName":"NeeraSorcOutfit","nexusFileVersion":"1.2","nexusFileUploadedAt":1788884584,"pakFileName":"NeeraSorcOutfit.pak","nexusFileId":130034,"metaUuid":"b60857bd-0dc2-42cd-a5e1-a3a639f105d8"}
 ]},
 "24601":{"nexusModName":"Mizora Edits - Wyll's Scourge","nexusUploadedBy":"PoisonValentineXIII","nexusModId":24601,"paks":[
 {"nexusFileName":"Mizora Edits - Blue Robe Edition (First Variant)","nexusFileVersion":"1.0.0.3","nexusFileUploadedAt":1787512279,"pakFileName":"MizoraElementalistBlue_c5d555d0-f75e-5dfd-9fbb-4e369a37eb75.pak","nexusFileId":128864,"metaUuid":null},
@@ -69566,6 +69567,9 @@
 "24839":{"nexusModName":"Nightstar's Dark Ruin - A Rogue Subclass(Russian)","nexusUploadedBy":"North3n","nexusModId":24839,"paks":[
 {"nexusFileName":"NightstarSDarkRuin V1.0.1 Russian","nexusFileVersion":"2","nexusFileUploadedAt":1788697805,"pakFileName":"NightstarSDarkRuin_Russian_reviewed.pak","nexusFileId":129865,"metaUuid":null}
 ]},
+"24840":{"nexusModName":"Body Type Selector Update","nexusUploadedBy":"FortisEstVeritas","nexusModId":24840,"paks":[
+{"nexusFileName":"Body Type Selector Update","nexusFileVersion":"1.1","nexusFileUploadedAt":1788693904,"pakFileName":"Body Type Selector Update.pak","nexusFileId":129862,"metaUuid":null}
+]},
 "24841":{"nexusModName":"Necromancy Reanimated - Russian Translation (1.43.00)","nexusUploadedBy":"SNKmod777","nexusModId":24841,"paks":[
 {"nexusFileName":"Necromancy Reanimated RU","nexusFileVersion":"1","nexusFileUploadedAt":1788690263,"pakFileName":"Necromancy Reanimated_RU.pak","nexusFileId":129859,"metaUuid":null}
 ]},
@@ -69651,4 +69655,7 @@
 ]},
 "24887":{"nexusModName":"Princess Alisa's Ice Arsenal-CHS","nexusUploadedBy":"namelessman10086","nexusModId":24887,"paks":[
 {"nexusFileName":"IceGreatswordTest CHS","nexusFileVersion":"1","nexusFileUploadedAt":1788865759,"pakFileName":"IceGreatswordTest-CHS.pak","nexusFileId":130023,"metaUuid":null}
+]},
+"24889":{"nexusModName":"True Third-Person Camera-CHS","nexusUploadedBy":"AgleafSdan","nexusModId":24889,"paks":[
+{"nexusFileName":"True Third Person Camera CHS","nexusFileVersion":"1","nexusFileUploadedAt":1788885822,"pakFileName":"True Third-Person Camera-CHS.pak","nexusFileId":130036,"metaUuid":null}
 ]}}
