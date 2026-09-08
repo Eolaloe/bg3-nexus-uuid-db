@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-09-08T14:52:39.297046+00:00","total_mods":17546},
+{"_meta":{"last_run":"2026-09-08T15:52:25.041637+00:00","total_mods":17546},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -64759,8 +64759,8 @@
 ]},
 "23058":{"nexusModName":"Akm Tiefling Body","nexusUploadedBy":"Akumu22","nexusModId":23058,"paks":[
 {"nexusFileName":"FIX - STAV Tail Tats","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1786023194,"pakFileName":"Akm Tiefling Body - STAV Tail FIX.pak","nexusFileId":127442,"metaUuid":null},
-{"nexusFileName":"Akm Tiefling Body - BT1 Only","nexusFileVersion":"2.0.1.1","nexusFileUploadedAt":1786887403,"pakFileName":"Akm Tiefling Body.pak","nexusFileId":128213,"metaUuid":"4420c433-718f-4749-8e5d-1da521a84b19"},
-{"nexusFileName":"Akm Tiefling Body - BT1 and BT3 Only","nexusFileVersion":"2.1.2.0","nexusFileUploadedAt":1787671118,"pakFileName":"Akm Tiefling Body.pak","nexusFileId":128979,"metaUuid":"4420c433-718f-4749-8e5d-1da521a84b19"},
+{"nexusFileName":"Akm Tiefling Body - BT1 Only","nexusFileVersion":"2.0.1.1","nexusFileUploadedAt":1786887403,"pakFileName":"Akm Tiefling Body.pak","nexusFileId":128213,"metaUuid":"2c07a81c-9577-4bf5-8420-314f002a2390"},
+{"nexusFileName":"Akm Tiefling Body - BT1 and BT3 Only","nexusFileVersion":"2.1.2.0","nexusFileUploadedAt":1787671118,"pakFileName":"Akm Tiefling Body.pak","nexusFileId":128979,"metaUuid":"2c07a81c-9577-4bf5-8420-314f002a2390"},
 {"nexusFileName":"Akm Tiefling Body","nexusFileVersion":"3.0.0.1","nexusFileUploadedAt":1788806743,"pakFileName":"Akm Tiefling Body.pak","nexusFileId":129986,"metaUuid":"2c07a81c-9577-4bf5-8420-314f002a2390"}
 ]},
 "23059":{"nexusModName":"Flora Dress and Long Nature Hair","nexusUploadedBy":"Lyniara","nexusModId":23059,"paks":[
@@ -66817,7 +66817,8 @@
 {"nexusFileName":"TransmutedSpell Nexus V1.3.14","nexusFileVersion":"1.3.14","nexusFileUploadedAt":1787857773,"pakFileName":"StarkMeiProbe.pak","nexusFileId":129175,"metaUuid":"237c3b40-47b7-5b29-bf12-a098e35c6aac"},
 {"nexusFileName":"TransmutedSpell Nexus V1.3.14","nexusFileVersion":"1.3.14","nexusFileUploadedAt":1787857773,"pakFileName":"TransmutedSpell.pak","nexusFileId":129175,"metaUuid":"3aef6cce-fc3a-583c-beb1-19f52c1435e1"},
 {"nexusFileName":"TransmutedMagic Nexus Extended V1.3.16","nexusFileVersion":"1.3.16","nexusFileUploadedAt":1788124489,"pakFileName":"StarkMeiProbe.pak","nexusFileId":129390,"metaUuid":"237c3b40-47b7-5b29-bf12-a098e35c6aac"},
-{"nexusFileName":"TransmutedMagic Nexus Extended V1.3.16","nexusFileVersion":"1.3.16","nexusFileUploadedAt":1788124489,"pakFileName":"TransmutedMagic.pak","nexusFileId":129390,"metaUuid":"237c3b40-47b7-5b29-bf12-a098e35c6aac"}
+{"nexusFileName":"TransmutedMagic Nexus Extended V1.3.16","nexusFileVersion":"1.3.16","nexusFileUploadedAt":1788124489,"pakFileName":"TransmutedMagic.pak","nexusFileId":129390,"metaUuid":"237c3b40-47b7-5b29-bf12-a098e35c6aac"},
+{"nexusFileName":"No Sorcery Point Cost - optional add-on","nexusFileVersion":"1.0","nexusFileUploadedAt":1788882424,"pakFileName":"TransmutedSpellNoCost.pak","nexusFileId":130032,"metaUuid":null}
 ]},
 "23850":{"nexusModName":"Shar Origin","nexusUploadedBy":"TheCobaltCactus","nexusModId":23850,"paks":[
 {"nexusFileName":"Shar Origin","nexusFileVersion":"1.0.0.3","nexusFileUploadedAt":1783983463,"pakFileName":"Origin_Shar_New_cfd7d1ab-73b4-bcd5-052f-b0b18d907f48.pak","nexusFileId":125577,"metaUuid":"cfd7d1ab-73b4-bcd5-052f-b0b18d907f48"}
@@ -69621,7 +69622,7 @@
 {"nexusFileName":"Elegy of the Beast (Russian Localization)","nexusFileVersion":"1.0.0.19","nexusFileUploadedAt":1788763021,"pakFileName":"Lycanthrope_Tree_RU.pak","nexusFileId":129946,"metaUuid":null}
 ]},
 "24864":{"nexusModName":"Concentration Redux","nexusUploadedBy":"NihilXD","nexusModId":24864,"paks":[
-{"nexusFileName":"Concentration Redux","nexusFileVersion":"1.1.0","nexusFileUploadedAt":1788867031,"pakFileName":"ConcentrationRedux_5ca2dda8-eedc-41be-95f0-50747d552d10.pak","nexusFileId":130026,"metaUuid":null}
+{"nexusFileName":"Concentration Redux","nexusFileVersion":"1.1.1","nexusFileUploadedAt":1788882691,"pakFileName":"ConcentrationRedux_5ca2dda8-eedc-41be-95f0-50747d552d10.pak","nexusFileId":130033,"metaUuid":null}
 ]},
 "24867":{"nexusModName":"Midas's Golden Arsenal-CHS","nexusUploadedBy":"namelessman10086","nexusModId":24867,"paks":[
 {"nexusFileName":"MidasGoldenArsenal CHS","nexusFileVersion":"1","nexusFileUploadedAt":1788784083,"pakFileName":"MidasGoldenArsenal-CHS.pak","nexusFileId":129961,"metaUuid":null}
