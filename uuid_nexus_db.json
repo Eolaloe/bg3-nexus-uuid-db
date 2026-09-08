@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-09-08T22:52:03.489515+00:00","total_mods":17554},
+{"_meta":{"last_run":"2026-09-08T23:51:27.389727+00:00","total_mods":17555},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -69653,7 +69653,7 @@
 "24887":{"nexusModName":"Princess Alisa's Ice Arsenal-CHS","nexusUploadedBy":"namelessman10086","nexusModId":24887,"paks":[
 {"nexusFileName":"IceGreatswordTest CHS","nexusFileVersion":"1","nexusFileUploadedAt":1788865759,"pakFileName":"IceGreatswordTest-CHS.pak","nexusFileId":130023,"metaUuid":null}
 ]},
-"24888":{"nexusModName":"Sensible Visible Shields","nexusUploadedBy":"joow92","nexusModId":24888,"paks":[
+"24888":{"nexusModName":"Sensible Visible Shields (Patch 8)","nexusUploadedBy":"joow92","nexusModId":24888,"paks":[
 {"nexusFileName":"SensibleVisibleShields","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1788888135,"pakFileName":"SensibleVisibleShields.pak","nexusFileId":130038,"metaUuid":null}
 ]},
 "24889":{"nexusModName":"True Third-Person Camera-CHS","nexusUploadedBy":"AgleafSdan","nexusModId":24889,"paks":[
@@ -69679,6 +69679,9 @@
 "24895":{"nexusModName":"True First-Person Camera for BG3 Exploration","nexusUploadedBy":"proteusproject","nexusModId":24895,"paks":[
 {"nexusFileName":"FirstPersonExplorer 0.7.0 Alpha Vortex","nexusFileVersion":"1","nexusFileUploadedAt":1788900261,"pakFileName":"FirstPersonExplorer_0.7.0-alpha.pak","nexusFileId":130059,"metaUuid":null}
 ]},
-"24896":{"nexusModName":"Light Mage","nexusUploadedBy":"RathOfAshardalon","nexusModId":24896,"paks":[
+"24896":{"nexusModName":"Light Mage","nexusUploadedBy":"Rathallon","nexusModId":24896,"paks":[
 {"nexusFileName":"Light Mage","nexusFileVersion":"13.17.22.55","nexusFileUploadedAt":1788907246,"pakFileName":"Light_Mage_fb843627-0383-11f9-2647-b2aef48d2ec3.pak","nexusFileId":130064,"metaUuid":null}
+]},
+"24897":{"nexusModName":"Colour Me Rath","nexusUploadedBy":"Rathallon","nexusModId":24897,"paks":[
+{"nexusFileName":"Colour Me Rath 9bd1fbb0 4ef2 8 6b4o","nexusFileVersion":"1","nexusFileUploadedAt":1788908206,"pakFileName":"Colour_Me_Rath_9bd1fbb0-4ef2-868c-153a-725e9cb13e90.pak","nexusFileId":130065,"metaUuid":null}
 ]}}
