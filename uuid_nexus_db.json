@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-09-08T03:52:40.695816+00:00","total_mods":17541},
+{"_meta":{"last_run":"2026-09-08T04:52:13.859921+00:00","total_mods":17541},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -210,8 +210,8 @@
 {"nexusFileName":"featsextra_Addon_Valdacil","nexusFileVersion":"1.0","nexusFileUploadedAt":1714990479,"pakFileName":"featsextra_Addon_Valdacil.pak","nexusFileId":56114,"metaUuid":"c82b41d6-a774-4d9c-af7b-5038aa7dbf9d"},
 {"nexusFileName":"featsextra_ORDERFEATS","nexusFileVersion":"1.0","nexusFileUploadedAt":1741335121,"pakFileName":"featsextra_ORDERFEATS.pak","nexusFileId":86827,"metaUuid":"b6eb4bf3-cf5d-42f0-8946-79794c18d5b6"},
 {"nexusFileName":"featsextra_Limit","nexusFileVersion":"1.0","nexusFileUploadedAt":1749011474,"pakFileName":"featsextra_Limit.pak","nexusFileId":95033,"metaUuid":"5c1a2f89-fc53-4b20-b154-ffce743788f2"},
-{"nexusFileName":"featsextra","nexusFileVersion":"1.71","nexusFileUploadedAt":1770683601,"pakFileName":"featsextra.pak","nexusFileId":114490,"metaUuid":"0c036a05-f3e4-4422-87bd-eadadf96c161"},
-{"nexusFileName":"featsextra plus2 stats for all feats","nexusFileVersion":"1.58","nexusFileUploadedAt":1787717558,"pakFileName":"featsextra_ADDON.pak","nexusFileId":129012,"metaUuid":"0c036a05-f3e4-4422-87bd-eadadf96c161"}
+{"nexusFileName":"featsextra plus2 stats for all feats","nexusFileVersion":"1.58","nexusFileUploadedAt":1787717558,"pakFileName":"featsextra_ADDON.pak","nexusFileId":129012,"metaUuid":"0c036a05-f3e4-4422-87bd-eadadf96c161"},
+{"nexusFileName":"featsextra","nexusFileVersion":"1.72","nexusFileUploadedAt":1788840245,"pakFileName":"featsextra.pak","nexusFileId":130007,"metaUuid":"0c036a05-f3e4-4422-87bd-eadadf96c161"}
 ]},
 "189":{"nexusModName":"Rogues Extra","nexusUploadedBy":"lostsoulman","nexusModId":189,"paks":[
 {"nexusFileName":"roguesextra","nexusFileVersion":"1.29","nexusFileUploadedAt":1751788855,"pakFileName":"roguesextra.pak","nexusFileId":97457,"metaUuid":"b986a6b0-6755-496c-8ea8-0fbee6b66026"}
@@ -2893,7 +2893,7 @@
 ]},
 "1087":{"nexusModName":"Arcanist Feat","nexusUploadedBy":"actualsailorcat","nexusModId":1087,"paks":[
 {"nexusFileName":"Arcanist Feat","nexusFileVersion":"1.01.05","nexusFileUploadedAt":1755108858,"pakFileName":"Arcanist Feat.pak","nexusFileId":100545,"metaUuid":null},
-{"nexusFileName":"Arcanist Feat SE","nexusFileVersion":"2.01.00","nexusFileUploadedAt":1786234678,"pakFileName":"Arcanist Feat SE.pak","nexusFileId":127653,"metaUuid":"10648c86-4837-498e-9a82-bc77f16e518c"}
+{"nexusFileName":"Arcanist Feat SE","nexusFileVersion":"2.01.01","nexusFileUploadedAt":1788842654,"pakFileName":"Arcanist Feat SE.pak","nexusFileId":130010,"metaUuid":"10648c86-4837-498e-9a82-bc77f16e518c"}
 ]},
 "1089":{"nexusModName":"No Difficulty","nexusUploadedBy":"nodifficulty","nexusModId":1089,"paks":[
 {"nexusFileName":"No Difficulty","nexusFileVersion":"1.0","nexusFileUploadedAt":1692378105,"pakFileName":"NoDifficulty.pak","nexusFileId":8287,"metaUuid":null},
@@ -47990,7 +47990,7 @@
 {"nexusFileName":"NPC Spell Slot Fixer","nexusFileVersion":"1.0","nexusFileUploadedAt":1750792892,"pakFileName":"NPCResourceFixer.pak","nexusFileId":96535,"metaUuid":"db037d01-188b-458f-8458-a5b5e448197d"}
 ]},
 "17273":{"nexusModName":"Haarlep Unleashed 2 - BG3SX Edition","nexusUploadedBy":"MegaMatt8","nexusModId":17273,"paks":[
-{"nexusFileName":"Haarlep Unleashed BG3SX","nexusFileVersion":"4.1.0.0","nexusFileUploadedAt":1787880205,"pakFileName":"HaarlepUnleashedBG3SX.pak","nexusFileId":129186,"metaUuid":"85a85b03-5dd1-458e-8de9-f70808dda834"}
+{"nexusFileName":"Haarlep Unleashed BG3SX","nexusFileVersion":"4.6.1.0","nexusFileUploadedAt":1788842409,"pakFileName":"HaarlepUnleashedBG3SX.pak","nexusFileId":130009,"metaUuid":"85a85b03-5dd1-458e-8de9-f70808dda834"}
 ]},
 "17274":{"nexusModName":"Compatibility patch - Cataclysmic and Winterblight for Home Brew Comprehensive Reworks","nexusUploadedBy":"deleted110041273","nexusModId":17274,"paks":[
 {"nexusFileName":"HB patch for Cataclysmic and Winterblight","nexusFileVersion":"1.0","nexusFileUploadedAt":1750817940,"pakFileName":"Fire N Frost.pak","nexusFileId":96564,"metaUuid":null}
@@ -69604,7 +69604,7 @@
 {"nexusFileName":"Lest - Custom Head for Tav","nexusFileVersion":"1.0","nexusFileUploadedAt":1788781448,"pakFileName":"Lest_Head_1fc4e24b-b3b7-6118-4bd8-fc332a5db065.pak","nexusFileId":129960,"metaUuid":null}
 ]},
 "24856":{"nexusModName":"Truly Legendary Items","nexusUploadedBy":"somd3v","nexusModId":24856,"paks":[
-{"nexusFileName":"Truly Legendary Items","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1788735955,"pakFileName":"Legendary_ab52250f-4d4f-461d-ab55-c3ba421c0907.pak","nexusFileId":129910,"metaUuid":null}
+{"nexusFileName":"Truly Legendary Items","nexusFileVersion":"1.0.1","nexusFileUploadedAt":1788841630,"pakFileName":"Legendary_ab52250f-4d4f-461d-ab55-c3ba421c0907.pak","nexusFileId":130008,"metaUuid":null}
 ]},
 "24857":{"nexusModName":"Realistic Medieval Armor","nexusUploadedBy":"nexuspaladin","nexusModId":24857,"paks":[
 {"nexusFileName":"Realistic Medieval Armor","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1788738024,"pakFileName":"14th_Century_Plate_Armour.pak","nexusFileId":129912,"metaUuid":null}
