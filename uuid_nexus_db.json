@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-09-09T02:51:42.931278+00:00","total_mods":17559},
+{"_meta":{"last_run":"2026-09-09T03:52:05.533678+00:00","total_mods":17561},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -26560,7 +26560,7 @@
 {"nexusFileName":"Addon - Randomized Loot","nexusFileVersion":"2.0.0","nexusFileUploadedAt":1777412085,"pakFileName":"HomeBrew - Comprehensive Reworks (Addon - Randomized Loot).pak","nexusFileId":120106,"metaUuid":"74a00bb6-b29e-497d-8410-2307ceb876fe"},
 {"nexusFileName":"Misc - Modded Subclasses","nexusFileVersion":"8.3.1","nexusFileUploadedAt":1777412098,"pakFileName":"HomeBrew - Comprehensive Reworks (Misc - Modded Subclasses).pak","nexusFileId":120107,"metaUuid":"cf1fd434-de12-40ed-9bb0-4a5a3de48973"},
 {"nexusFileName":"Easier Difficulty - Mythic Difficulty Reduced","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1783594414,"pakFileName":"Home Brew - Comprehensive Reworks (Easier Difficulty - Mythic Difficulty Reduced).pak","nexusFileId":125264,"metaUuid":"135c0255-9690-4377-957d-2b40187f74a2"},
-{"nexusFileName":"HomeBrew   Comprehensive Reworks","nexusFileVersion":"9.1.7","nexusFileUploadedAt":1788389352,"pakFileName":"HomeBrew - Comprehensive Reworks.pak","nexusFileId":129567,"metaUuid":"486d1526-3505-4b09-9790-0f6a60f5ac0f"}
+{"nexusFileName":"HomeBrew   Comprehensive Reworks","nexusFileVersion":"9.1.8","nexusFileUploadedAt":1788924462,"pakFileName":"HomeBrew - Comprehensive Reworks.pak","nexusFileId":130079,"metaUuid":"486d1526-3505-4b09-9790-0f6a60f5ac0f"}
 ]},
 "9053":{"nexusModName":"Planetouched - Homebrew Race","nexusUploadedBy":"0Lyra","nexusModId":9053,"paks":[
 {"nexusFileName":"Planetouched - Main","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1715369676,"pakFileName":"Planetouched_Race.pak","nexusFileId":56628,"metaUuid":"fc59491b-4bc3-4822-8597-7ed1b84064c5"},
@@ -66806,11 +66806,11 @@
 {"nexusFileName":"Main file","nexusFileVersion":"1","nexusFileUploadedAt":1784069598,"pakFileName":"gortflash_80d47f66-036b-e1a5-b3d8-44b178f6a0f7.pak","nexusFileId":125658,"metaUuid":"80d47f66-036b-e1a5-b3d8-44b178f6a0f7"}
 ]},
 "23848":{"nexusModName":"Transmuted Spell - a Metamagic for Every Element","nexusUploadedBy":"JThug","nexusModId":23848,"paks":[
-{"nexusFileName":"TransmutedMagic Nexus Extended V1.3.16","nexusFileVersion":"1.3.16","nexusFileUploadedAt":1788124489,"pakFileName":"StarkMeiProbe.pak","nexusFileId":129390,"metaUuid":"237c3b40-47b7-5b29-bf12-a098e35c6aac"},
-{"nexusFileName":"TransmutedMagic Nexus Extended V1.3.16","nexusFileVersion":"1.3.16","nexusFileUploadedAt":1788124489,"pakFileName":"TransmutedMagic.pak","nexusFileId":129390,"metaUuid":"237c3b40-47b7-5b29-bf12-a098e35c6aac"},
 {"nexusFileName":"No Sorcery Point Cost - optional add-on","nexusFileVersion":"1.0","nexusFileUploadedAt":1788882424,"pakFileName":"TransmutedSpellNoCost.pak","nexusFileId":130032,"metaUuid":null},
 {"nexusFileName":"TransmutedSpell Nexus V1.3.15","nexusFileVersion":"1.3.15","nexusFileUploadedAt":1788912030,"pakFileName":"StarkMeiProbe.pak","nexusFileId":130067,"metaUuid":"237c3b40-47b7-5b29-bf12-a098e35c6aac"},
-{"nexusFileName":"TransmutedSpell Nexus V1.3.15","nexusFileVersion":"1.3.15","nexusFileUploadedAt":1788912030,"pakFileName":"TransmutedSpell.pak","nexusFileId":130067,"metaUuid":"3aef6cce-fc3a-583c-beb1-19f52c1435e1"}
+{"nexusFileName":"TransmutedSpell Nexus V1.3.15","nexusFileVersion":"1.3.15","nexusFileUploadedAt":1788912030,"pakFileName":"TransmutedSpell.pak","nexusFileId":130067,"metaUuid":"3aef6cce-fc3a-583c-beb1-19f52c1435e1"},
+{"nexusFileName":"TransmutedMagic Nexus Extended V1.3.17","nexusFileVersion":"1.3.17","nexusFileUploadedAt":1788924210,"pakFileName":"StarkMeiProbe.pak","nexusFileId":130078,"metaUuid":"237c3b40-47b7-5b29-bf12-a098e35c6aac"},
+{"nexusFileName":"TransmutedMagic Nexus Extended V1.3.17","nexusFileVersion":"1.3.17","nexusFileUploadedAt":1788924210,"pakFileName":"TransmutedMagic.pak","nexusFileId":130078,"metaUuid":"237c3b40-47b7-5b29-bf12-a098e35c6aac"}
 ]},
 "23850":{"nexusModName":"Shar Origin","nexusUploadedBy":"TheCobaltCactus","nexusModId":23850,"paks":[
 {"nexusFileName":"Shar Origin","nexusFileVersion":"1.0.0.5","nexusFileUploadedAt":1788899021,"pakFileName":"Origin_Shar_New_cfd7d1ab-73b4-bcd5-052f-b0b18d907f48.pak","nexusFileId":130056,"metaUuid":"cfd7d1ab-73b4-bcd5-052f-b0b18d907f48"}
@@ -69696,5 +69696,11 @@
 {"nexusFileName":"InfernalBloodlineSorcerer","nexusFileVersion":"1","nexusFileUploadedAt":1788921008,"pakFileName":"InfernalBloodlineSorcerer_24260b4b-e133-68dd-ba78-6f0bc7ee17d6.pak","nexusFileId":130074,"metaUuid":null}
 ]},
 "24901":{"nexusModName":"Battle Master Armor Redux","nexusUploadedBy":"MaxStrengthWizard","nexusModId":24901,"paks":[
-{"nexusFileName":"Battle Master Armor Redux","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1788920282,"pakFileName":"BattleMaster.pak","nexusFileId":130073,"metaUuid":null}
+{"nexusFileName":"Battle Master Armor Redux","nexusFileVersion":"1.1.0","nexusFileUploadedAt":1788923623,"pakFileName":"BattleMaster.pak","nexusFileId":130077,"metaUuid":null}
+]},
+"24902":{"nexusModName":"Skies of Faerun","nexusUploadedBy":"wildrabbet","nexusModId":24902,"paks":[
+{"nexusFileName":"RabbetSkiesofFaerun 1.28.1","nexusFileVersion":"1","nexusFileUploadedAt":1788922152,"pakFileName":"RabbetSkiesofFaerun.pak","nexusFileId":130075,"metaUuid":null}
+]},
+"24904":{"nexusModName":"Baldur's Gate 3 Limba Romana","nexusUploadedBy":"xFaLL3NighTx","nexusModId":24904,"paks":[
+{"nexusFileName":"Baldur'S Gate 3","nexusFileVersion":"1","nexusFileUploadedAt":1788925824,"pakFileName":"English.pak","nexusFileId":130080,"metaUuid":null}
 ]}}
