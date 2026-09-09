@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-09-08T23:51:27.389727+00:00","total_mods":17555},
+{"_meta":{"last_run":"2026-09-09T00:51:31.615547+00:00","total_mods":17556},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -63616,8 +63616,8 @@
 {"nexusFileName":"Pyromancer Sorcerer Subclass_KOR","nexusFileVersion":"1.0.0.2","nexusFileUploadedAt":1777212054,"pakFileName":"PyromancerSorcererSubclass_KOR_621e29ba-3079-8b52-a4d4-373074ea36a8.pak","nexusFileId":119929,"metaUuid":null}
 ]},
 "22575":{"nexusModName":"Sword Sigil Sorcery Subclass","nexusUploadedBy":"Crystic","nexusModId":22575,"paks":[
-{"nexusFileName":"Sword Sigil Sorcerer Subclass Standalone","nexusFileVersion":"1.3.0.0","nexusFileUploadedAt":1788595401,"pakFileName":"Sword_Sigil_Sorcerer_Standalone_7ff639ec-0ed8-dfe2-875d-b46f107a4977.pak","nexusFileId":129739,"metaUuid":"7ff639ec-0ed8-dfe2-875d-b46f107a4977"},
-{"nexusFileName":"Sword Sigil Sorcerer Subclass DND 5.5e All In One","nexusFileVersion":"1.3.0.0","nexusFileUploadedAt":1788662070,"pakFileName":"Sword_Sigil_Sorcerer_debc8342-cac2-85a2-8e75-00e28cca48d1.pak","nexusFileId":129830,"metaUuid":"debc8342-cac2-85a2-8e75-00e28cca48d1"}
+{"nexusFileName":"Sword Sigil Sorcerer Subclass DND 5.5e All In One","nexusFileVersion":"1.3.1.1","nexusFileUploadedAt":1788913378,"pakFileName":"Sword_Sigil_Sorcerer_debc8342-cac2-85a2-8e75-00e28cca48d1.pak","nexusFileId":130068,"metaUuid":"debc8342-cac2-85a2-8e75-00e28cca48d1"},
+{"nexusFileName":"Sword Sigil Sorcerer Subclass Standalone","nexusFileVersion":"1.3.1.1","nexusFileUploadedAt":1788913402,"pakFileName":"Sword_Sigil_Sorcerer_Standalone_7ff639ec-0ed8-dfe2-875d-b46f107a4977.pak","nexusFileId":130069,"metaUuid":"7ff639ec-0ed8-dfe2-875d-b46f107a4977"}
 ]},
 "22576":{"nexusModName":"Sword Sigil Sorcery Subclass for Korean","nexusUploadedBy":"Eolaloe","nexusModId":22576,"paks":[
 {"nexusFileName":"1. Sword Sigil Sorcery Subclass (Alone) for Korean","nexusFileVersion":"1.3.0.0","nexusFileUploadedAt":1788685074,"pakFileName":"Sword_Sigil_Sorcerer_Standalone_kr.pak","nexusFileId":129844,"metaUuid":null},
@@ -66806,11 +66806,11 @@
 {"nexusFileName":"Main file","nexusFileVersion":"1","nexusFileUploadedAt":1784069598,"pakFileName":"gortflash_80d47f66-036b-e1a5-b3d8-44b178f6a0f7.pak","nexusFileId":125658,"metaUuid":"80d47f66-036b-e1a5-b3d8-44b178f6a0f7"}
 ]},
 "23848":{"nexusModName":"Transmuted Spell - a Metamagic for Every Element","nexusUploadedBy":"JThug","nexusModId":23848,"paks":[
-{"nexusFileName":"TransmutedSpell Nexus V1.3.14","nexusFileVersion":"1.3.14","nexusFileUploadedAt":1787857773,"pakFileName":"StarkMeiProbe.pak","nexusFileId":129175,"metaUuid":"237c3b40-47b7-5b29-bf12-a098e35c6aac"},
-{"nexusFileName":"TransmutedSpell Nexus V1.3.14","nexusFileVersion":"1.3.14","nexusFileUploadedAt":1787857773,"pakFileName":"TransmutedSpell.pak","nexusFileId":129175,"metaUuid":"3aef6cce-fc3a-583c-beb1-19f52c1435e1"},
 {"nexusFileName":"TransmutedMagic Nexus Extended V1.3.16","nexusFileVersion":"1.3.16","nexusFileUploadedAt":1788124489,"pakFileName":"StarkMeiProbe.pak","nexusFileId":129390,"metaUuid":"237c3b40-47b7-5b29-bf12-a098e35c6aac"},
 {"nexusFileName":"TransmutedMagic Nexus Extended V1.3.16","nexusFileVersion":"1.3.16","nexusFileUploadedAt":1788124489,"pakFileName":"TransmutedMagic.pak","nexusFileId":129390,"metaUuid":"237c3b40-47b7-5b29-bf12-a098e35c6aac"},
-{"nexusFileName":"No Sorcery Point Cost - optional add-on","nexusFileVersion":"1.0","nexusFileUploadedAt":1788882424,"pakFileName":"TransmutedSpellNoCost.pak","nexusFileId":130032,"metaUuid":null}
+{"nexusFileName":"No Sorcery Point Cost - optional add-on","nexusFileVersion":"1.0","nexusFileUploadedAt":1788882424,"pakFileName":"TransmutedSpellNoCost.pak","nexusFileId":130032,"metaUuid":null},
+{"nexusFileName":"TransmutedSpell Nexus V1.3.15","nexusFileVersion":"1.3.15","nexusFileUploadedAt":1788912030,"pakFileName":"StarkMeiProbe.pak","nexusFileId":130067,"metaUuid":"237c3b40-47b7-5b29-bf12-a098e35c6aac"},
+{"nexusFileName":"TransmutedSpell Nexus V1.3.15","nexusFileVersion":"1.3.15","nexusFileUploadedAt":1788912030,"pakFileName":"TransmutedSpell.pak","nexusFileId":130067,"metaUuid":"3aef6cce-fc3a-583c-beb1-19f52c1435e1"}
 ]},
 "23850":{"nexusModName":"Shar Origin","nexusUploadedBy":"TheCobaltCactus","nexusModId":23850,"paks":[
 {"nexusFileName":"Shar Origin","nexusFileVersion":"1.0.0.5","nexusFileUploadedAt":1788899021,"pakFileName":"Origin_Shar_New_cfd7d1ab-73b4-bcd5-052f-b0b18d907f48.pak","nexusFileId":130056,"metaUuid":"cfd7d1ab-73b4-bcd5-052f-b0b18d907f48"}
@@ -67797,8 +67797,8 @@
 {"nexusFileName":"DnD 5.5e All In One BEYOND Turkce","nexusFileVersion":"1","nexusFileUploadedAt":1785699520,"pakFileName":"DnD-5.5e-All-in-One-BEYOND-Turkce-v1.0.0.pak","nexusFileId":127156,"metaUuid":null}
 ]},
 "24237":{"nexusModName":"Metamagic Plus","nexusUploadedBy":"Crystic","nexusModId":24237,"paks":[
-{"nexusFileName":"Metamagic Plus","nexusFileVersion":"1","nexusFileUploadedAt":1785703061,"pakFileName":"Metamagic_DND_2024_f704bd8b-9ba7-4be0-f6f0-d22da1716a26.pak","nexusFileId":127158,"metaUuid":"f704bd8b-9ba7-4be0-f6f0-d22da1716a26"},
-{"nexusFileName":"Font of Magic 2024","nexusFileVersion":"1","nexusFileUploadedAt":1786126281,"pakFileName":"FontOfMagic2024_905cf5e7-24d9-ad12-c9a8-56da605a7cc8.pak","nexusFileId":127517,"metaUuid":"905cf5e7-24d9-ad12-c9a8-56da605a7cc8"}
+{"nexusFileName":"Font of Magic 2024","nexusFileVersion":"1","nexusFileUploadedAt":1786126281,"pakFileName":"FontOfMagic2024_905cf5e7-24d9-ad12-c9a8-56da605a7cc8.pak","nexusFileId":127517,"metaUuid":"905cf5e7-24d9-ad12-c9a8-56da605a7cc8"},
+{"nexusFileName":"Metamagic Plus","nexusFileVersion":"1.0.1.0","nexusFileUploadedAt":1788913514,"pakFileName":"Metamagic_DND_2024_f704bd8b-9ba7-4be0-f6f0-d22da1716a26.pak","nexusFileId":130070,"metaUuid":"f704bd8b-9ba7-4be0-f6f0-d22da1716a26"}
 ]},
 "24238":{"nexusModName":"Matador de Deuses Pt-Br","nexusUploadedBy":"Linkzynn","nexusModId":24238,"paks":[
 {"nexusFileName":"Matador De Deuses PT BR","nexusFileVersion":"1","nexusFileUploadedAt":1785709952,"pakFileName":"GodSlayer PT-BR.pak","nexusFileId":127163,"metaUuid":null}
@@ -69627,6 +69627,9 @@
 ]},
 "24869":{"nexusModName":"Simple Haste Rework","nexusUploadedBy":"Cainhurtz","nexusModId":24869,"paks":[
 {"nexusFileName":"HasteRework","nexusFileVersion":"1","nexusFileUploadedAt":1788789468,"pakFileName":"HasteRework.pak","nexusFileId":129967,"metaUuid":null}
+]},
+"24872":{"nexusModName":"Moon's Vera Head","nexusUploadedBy":"AdrasteaMoon","nexusModId":24872,"paks":[
+{"nexusFileName":"Main File","nexusFileVersion":"1","nexusFileUploadedAt":1788909692,"pakFileName":"Vera.pak","nexusFileId":130066,"metaUuid":null}
 ]},
 "24873":{"nexusModName":"Zenin Path - A Jujutsu Kaisen Class(Russian)","nexusUploadedBy":"North3n","nexusModId":24873,"paks":[
 {"nexusFileName":"ZeninPath Russian","nexusFileVersion":"1.0.0.13","nexusFileUploadedAt":1788802518,"pakFileName":"ZeninPath_9f626018-ce4a-e2f1-8311-99a180ecf46b_Russian_reviewed.pak","nexusFileId":129981,"metaUuid":null}
