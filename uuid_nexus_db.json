@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-09-09T15:52:04.938131+00:00","total_mods":17567},
+{"_meta":{"last_run":"2026-09-09T16:51:55.827244+00:00","total_mods":17567},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -2893,7 +2893,7 @@
 ]},
 "1087":{"nexusModName":"Arcanist Feat","nexusUploadedBy":"actualsailorcat","nexusModId":1087,"paks":[
 {"nexusFileName":"Arcanist Feat","nexusFileVersion":"1.01.05","nexusFileUploadedAt":1755108858,"pakFileName":"Arcanist Feat.pak","nexusFileId":100545,"metaUuid":null},
-{"nexusFileName":"Arcanist Feat SE","nexusFileVersion":"2.01.01","nexusFileUploadedAt":1788842654,"pakFileName":"Arcanist Feat SE.pak","nexusFileId":130010,"metaUuid":"10648c86-4837-498e-9a82-bc77f16e518c"}
+{"nexusFileName":"Arcanist Feat SE","nexusFileVersion":"2.01.02","nexusFileUploadedAt":1788970764,"pakFileName":"Arcanist Feat SE.pak","nexusFileId":130107,"metaUuid":"10648c86-4837-498e-9a82-bc77f16e518c"}
 ]},
 "1089":{"nexusModName":"No Difficulty","nexusUploadedBy":"nodifficulty","nexusModId":1089,"paks":[
 {"nexusFileName":"No Difficulty","nexusFileVersion":"1.0","nexusFileUploadedAt":1692378105,"pakFileName":"NoDifficulty.pak","nexusFileId":8287,"metaUuid":null},
@@ -38694,10 +38694,10 @@
 {"nexusFileName":"zSkystryke468's Cleric Subclasses Compat. Patch","nexusFileVersion":"3.5.4","nexusFileUploadedAt":1742017608,"pakFileName":"ClericsSubclassesCompatibilityPatchskystryke468.pak","nexusFileId":87270,"metaUuid":null},
 {"nexusFileName":"zXarara's Cleric Subclasses Compatibility Patch","nexusFileVersion":"3.5.4","nexusFileUploadedAt":1742017629,"pakFileName":"ClericsSubclassesCompatibilityPatchxarara.pak","nexusFileId":87271,"metaUuid":"a81ed49a-6bc7-4d32-b66b-9a5efe3bf4c3"},
 {"nexusFileName":"Sumradagnoth's 5e Cleric Subclasses Patch","nexusFileVersion":"4.6","nexusFileUploadedAt":1748464632,"pakFileName":"ClericsSubclassesCompatibilityPatchSumradagnoth.pak","nexusFileId":94331,"metaUuid":"dd9343ae-a5a4-4a72-b5dd-38f22e4ecbc0"},
-{"nexusFileName":"Cleric and Domains PHB2024 - 5e Spells Patch","nexusFileVersion":"4.7.2","nexusFileUploadedAt":1759281204,"pakFileName":"ClericPHB2024 5e Spells Patch.pak","nexusFileId":104048,"metaUuid":"8f9efb0c-24a9-430d-9d20-815ddde27354"},
 {"nexusFileName":"zHavsglimt's Night Domain Compat Patch","nexusFileVersion":"4.7.7","nexusFileUploadedAt":1780110233,"pakFileName":"ClericsSubclassesCompatibilityPatchNightHavsglimt.pak","nexusFileId":122435,"metaUuid":"893cae49-022a-4348-b969-79912e72da04"},
 {"nexusFileName":"zGIGeorge95's Frost Domain Compatibility Patch","nexusFileVersion":"4.8.1.1","nexusFileUploadedAt":1783486871,"pakFileName":"ClericsSubclassesCompatibilityPatchFrostDomain.pak","nexusFileId":125214,"metaUuid":null},
-{"nexusFileName":"Cleric and Domains PHB2024","nexusFileVersion":"4.8.2","nexusFileUploadedAt":1787822171,"pakFileName":"ClericPHB2024_da651763-2d3f-9c93-1fe7-1dac207cf6ba.pak","nexusFileId":129142,"metaUuid":"da651763-2d3f-9c93-1fe7-1dac207cf6ba"}
+{"nexusFileName":"Cleric and Domains PHB2024","nexusFileVersion":"4.8.3","nexusFileUploadedAt":1788969772,"pakFileName":"ClericPHB2024_da651763-2d3f-9c93-1fe7-1dac207cf6ba.pak","nexusFileId":130103,"metaUuid":"da651763-2d3f-9c93-1fe7-1dac207cf6ba"},
+{"nexusFileName":"Cleric and Domains PHB2024 - 5e Spells Patch","nexusFileVersion":"4.8.3","nexusFileUploadedAt":1788969799,"pakFileName":"ClericPHB2024 5e Spells Patch.pak","nexusFileId":130104,"metaUuid":"8f9efb0c-24a9-430d-9d20-815ddde27354"}
 ]},
 "13703":{"nexusModName":"Path of the Skull Collector - Tutorial Chest","nexusUploadedBy":"almontys","nexusModId":13703,"paks":[
 {"nexusFileName":"Path of the Skull Collector - Tutorial Chest","nexusFileVersion":"1.1","nexusFileUploadedAt":1731222278,"pakFileName":"SkullCollectorTT_6cac6565-6488-3b77-37a5-f5a997130f23.pak","nexusFileId":78412,"metaUuid":"6cac6565-6488-3b77-37a5-f5a997130f23"}
@@ -63885,7 +63885,7 @@
 {"nexusFileName":"Warlock PHB2024 -  Counterspell Patch","nexusFileVersion":"5.0.2","nexusFileUploadedAt":1784166229,"pakFileName":"Warlock PHB2024 - Counterspell Patch.pak","nexusFileId":125756,"metaUuid":"e5ee3170-eb9c-47fe-b140-7c593f7a5096"},
 {"nexusFileName":"Warlock PHB2024 - ScriptExtender Patch","nexusFileVersion":"5.2.3","nexusFileUploadedAt":1785432895,"pakFileName":"Warlock PHB2024 - ScriptExtender Patch.pak","nexusFileId":126851,"metaUuid":"15b1f301-4560-49d3-b553-c67c2e6ff410"},
 {"nexusFileName":"Warlock PHB2024 - RAW Patch","nexusFileVersion":"5.3.2","nexusFileUploadedAt":1786790973,"pakFileName":"Warlock PHB2024 - RAW Patch.pak","nexusFileId":128123,"metaUuid":null},
-{"nexusFileName":"Warlock and Patrons DnD 5R PHB2024","nexusFileVersion":"5.3.6","nexusFileUploadedAt":1787731043,"pakFileName":"WarlockAndPatronsPHB2024_b2f266ab-d569-8fee-1f69-f3f44741bfdf.pak","nexusFileId":129031,"metaUuid":"b2f266ab-d569-8fee-1f69-f3f44741bfdf"}
+{"nexusFileName":"Warlock and Patrons DnD 5R PHB2024","nexusFileVersion":"5.3.7","nexusFileUploadedAt":1788970335,"pakFileName":"WarlockAndPatronsPHB2024_b2f266ab-d569-8fee-1f69-f3f44741bfdf.pak","nexusFileId":130106,"metaUuid":"b2f266ab-d569-8fee-1f69-f3f44741bfdf"}
 ]},
 "22678":{"nexusModName":"Moon Knight  - Reithwin Governor's Armor","nexusUploadedBy":"marten9","nexusModId":22678,"paks":[
 {"nexusFileName":"Moon Knight 1.3","nexusFileVersion":"1.3","nexusFileUploadedAt":1778134002,"pakFileName":"Light_Justiciar_57dfb5d1-4fbd-8a82-1e87-08e7559111f3.pak","nexusFileId":120670,"metaUuid":"57dfb5d1-4fbd-8a82-1e87-08e7559111f3"}
@@ -64754,9 +64754,7 @@
 ]},
 "23058":{"nexusModName":"Akm Tiefling Body","nexusUploadedBy":"Akumu22","nexusModId":23058,"paks":[
 {"nexusFileName":"FIX - STAV Tail Tats","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1786023194,"pakFileName":"Akm Tiefling Body - STAV Tail FIX.pak","nexusFileId":127442,"metaUuid":null},
-{"nexusFileName":"Akm Tiefling Body - BT1 Only","nexusFileVersion":"2.0.1.1","nexusFileUploadedAt":1786887403,"pakFileName":"Akm Tiefling Body.pak","nexusFileId":128213,"metaUuid":"2c07a81c-9577-4bf5-8420-314f002a2390"},
-{"nexusFileName":"Akm Tiefling Body - BT1 and BT3 Only","nexusFileVersion":"2.1.2.0","nexusFileUploadedAt":1787671118,"pakFileName":"Akm Tiefling Body.pak","nexusFileId":128979,"metaUuid":"2c07a81c-9577-4bf5-8420-314f002a2390"},
-{"nexusFileName":"Akm Tiefling Body","nexusFileVersion":"3.0.0.1","nexusFileUploadedAt":1788806743,"pakFileName":"Akm Tiefling Body.pak","nexusFileId":129986,"metaUuid":"2c07a81c-9577-4bf5-8420-314f002a2390"}
+{"nexusFileName":"Akm Tiefling Body","nexusFileVersion":"3.0.1.0","nexusFileUploadedAt":1788969333,"pakFileName":"Akm Tiefling Body.pak","nexusFileId":130102,"metaUuid":"2c07a81c-9577-4bf5-8420-314f002a2390"}
 ]},
 "23059":{"nexusModName":"Flora Dress and Long Nature Hair","nexusUploadedBy":"Lyniara","nexusModId":23059,"paks":[
 {"nexusFileName":"Flora Dress","nexusFileVersion":"1","nexusFileUploadedAt":1779744844,"pakFileName":"LynFloraDress.pak","nexusFileId":122131,"metaUuid":"a7c4ef09-4ca7-428a-950d-85c4c74573b9"},
@@ -67779,7 +67777,7 @@
 {"nexusFileName":"SisterCollection_ElturelNobles","nexusFileVersion":"1.0.0.3","nexusFileUploadedAt":1785645499,"pakFileName":"SisterCollection_ElturelNobles_382de083-56be-ffb3-8ccc-6f0322ecfea0.pak","nexusFileId":127087,"metaUuid":"382de083-56be-ffb3-8ccc-6f0322ecfea0"}
 ]},
 "24230":{"nexusModName":"Requiem for the Absolute - Dynamic Encounters - CHS","nexusUploadedBy":"ngqx264","nexusModId":24230,"paks":[
-{"nexusFileName":"Requiem For The Absolute CHS","nexusFileVersion":"1.0.0.3","nexusFileUploadedAt":1786268446,"pakFileName":"Requiem_for_the_Absolute_Dynamic_Encounters_Overhaul_CHS.pak","nexusFileId":127673,"metaUuid":null}
+{"nexusFileName":"Requiem For The Absolute CHS","nexusFileVersion":"1.0.0.4","nexusFileUploadedAt":1788970093,"pakFileName":"Requiem_for_the_Absolute_Dynamic_Encounters_Overhaul_CHS.pak","nexusFileId":130105,"metaUuid":null}
 ]},
 "24231":{"nexusModName":"Bloodvine Clothes CHS","nexusUploadedBy":"pzymox","nexusModId":24231,"paks":[
 {"nexusFileName":"Bloodvine CHS","nexusFileVersion":"1","nexusFileUploadedAt":1785663322,"pakFileName":"bloodvine-CHS.pak","nexusFileId":127097,"metaUuid":null}
@@ -67998,7 +67996,7 @@
 {"nexusFileName":"Weave Woven Visages 5c3fcecb 2 A5ya","nexusFileVersion":"1.0.0.1","nexusFileUploadedAt":1786174673,"pakFileName":"Weave_Woven_Visages_5c3fcecb-26e2-05dc-982e-d1afbecd734a.pak","nexusFileId":127586,"metaUuid":"5c3fcecb-26e2-05dc-982e-d1afbecd734a"}
 ]},
 "24327":{"nexusModName":"Absolute Wrath CHS","nexusUploadedBy":"ngqx264","nexusModId":24327,"paks":[
-{"nexusFileName":"AbsoluteWrath CHS","nexusFileVersion":"3.0","nexusFileUploadedAt":1786166748,"pakFileName":"AbsoluteWrath_CHS.pak","nexusFileId":127582,"metaUuid":null}
+{"nexusFileName":"AbsoluteWrath CHS","nexusFileVersion":"3.1.1","nexusFileUploadedAt":1788970946,"pakFileName":"AbsoluteWrath_CHS.pak","nexusFileId":130108,"metaUuid":null}
 ]},
 "24329":{"nexusModName":"Hellfire Greataxe Fix","nexusUploadedBy":"Pyrexo","nexusModId":24329,"paks":[
 {"nexusFileName":"Hellfire Greataxe Fix","nexusFileVersion":"1.01","nexusFileUploadedAt":1786205734,"pakFileName":"Hellfire Greataxe Fix.pak","nexusFileId":127610,"metaUuid":"e5d603f3-247c-4114-8b96-c26c300f1655"}
@@ -69709,6 +69707,9 @@
 ]},
 "24904":{"nexusModName":"Baldur's Gate 3 Limba Romana","nexusUploadedBy":"xFaLL3NighTx","nexusModId":24904,"paks":[
 {"nexusFileName":"Baldur'S Gate 3","nexusFileVersion":"1","nexusFileUploadedAt":1788925824,"pakFileName":"English.pak","nexusFileId":130080,"metaUuid":null}
+]},
+"24905":{"nexusModName":"Touch Grass Poses - for Frolicking through Fields","nexusUploadedBy":"lycanicorn","nexusModId":24905,"paks":[
+{"nexusFileName":"Touch That Grass","nexusFileVersion":"1","nexusFileUploadedAt":1788958491,"pakFileName":"houndtouchgrass_ebb06db6-ba20-d0bd-6412-c2f618ad2b8c.pak","nexusFileId":130093,"metaUuid":null}
 ]},
 "24906":{"nexusModName":"Beyond-Mortal Relics","nexusUploadedBy":"riftplower","nexusModId":24906,"paks":[
 {"nexusFileName":"BeyondMortalRelics","nexusFileVersion":"1","nexusFileUploadedAt":1788960565,"pakFileName":"BeyondMortalRelics.pak","nexusFileId":130095,"metaUuid":null}
