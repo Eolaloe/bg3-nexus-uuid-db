@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-09-09T23:52:23.366664+00:00","total_mods":17569},
+{"_meta":{"last_run":"2026-09-10T00:52:31.866497+00:00","total_mods":17570},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -66175,7 +66175,7 @@
 {"nexusFileName":"WotD Aasimar ITA","nexusFileVersion":"1.0.1.0","nexusFileUploadedAt":1786287296,"pakFileName":"WotD-Aasimar ITA.pak","nexusFileId":127698,"metaUuid":null}
 ]},
 "23615":{"nexusModName":"UNDERTALE - Paladin - Oath of Determination","nexusUploadedBy":"Wexyll","nexusModId":23615,"paks":[
-{"nexusFileName":"Oath Of Determination","nexusFileVersion":"1","nexusFileUploadedAt":1782676598,"pakFileName":"OathOfDetermination.pak","nexusFileId":124499,"metaUuid":"eb0269ea-f741-4e8a-8e1b-13f0c76a4e69"}
+{"nexusFileName":"Oath Of Determination","nexusFileVersion":"2","nexusFileUploadedAt":1789000306,"pakFileName":"Oath of Determination.pak","nexusFileId":130138,"metaUuid":null}
 ]},
 "23618":{"nexusModName":"Triumph Poses","nexusUploadedBy":"HastursQueen","nexusModId":23618,"paks":[
 {"nexusFileName":"TriumphPoses","nexusFileVersion":"1","nexusFileUploadedAt":1782696743,"pakFileName":"TriumphPoses.pak","nexusFileId":124511,"metaUuid":"be2a7ea1-5de6-bbd3-6e45-ac4f93ae356c"}
@@ -69727,4 +69727,8 @@
 ]},
 "24911":{"nexusModName":"Stand Still Tav - A CC Mod","nexusUploadedBy":"lumadaire","nexusModId":24911,"paks":[
 {"nexusFileName":"Stand Still Tav","nexusFileVersion":"1.0","nexusFileUploadedAt":1788992350,"pakFileName":"Stand_Still_Tav_418d4e5e-95f0-fbb9-edbe-c8e917788666.pak","nexusFileId":130129,"metaUuid":null}
+]},
+"24912":{"nexusModName":"Small Hunter buff (Colossus Slayer tweak and access to all Fighting Styles)","nexusUploadedBy":"Chlamydia1","nexusModId":24912,"paks":[
+{"nexusFileName":"Ranger More Fighting Styles","nexusFileVersion":"1","nexusFileUploadedAt":1789000621,"pakFileName":"Ranger More Fighting Styles.pak","nexusFileId":130139,"metaUuid":null},
+{"nexusFileName":"Colossus Slayer Buffed","nexusFileVersion":"1","nexusFileUploadedAt":1789000651,"pakFileName":"Colossus Slayer Buffed.pak","nexusFileId":130140,"metaUuid":null}
 ]}}
