@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-09-10T19:52:32.093481+00:00","total_mods":17579},
+{"_meta":{"last_run":"2026-09-10T20:52:54.310783+00:00","total_mods":17581},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -3400,7 +3400,7 @@
 "1258":{"nexusModName":"Valkrana's Spellbook - 17 New Necromancy Spells","nexusUploadedBy":"actualsailorcat","nexusModId":1258,"paks":[
 {"nexusFileName":"Valkrana's Impart Undeath Feat","nexusFileVersion":"1.01.00","nexusFileUploadedAt":1772167964,"pakFileName":"Valkrana's Impart Undeath Feat.pak","nexusFileId":115684,"metaUuid":"3d311d0d-a184-420e-b4d4-849b23d4a2d5"},
 {"nexusFileName":"Valkrana's Spellbook Limited Lists","nexusFileVersion":"1.00.03","nexusFileUploadedAt":1782860700,"pakFileName":"Valkrana's Spellbook Limited Lists.pak","nexusFileId":124614,"metaUuid":"84ccf67f-ba0d-4413-bb30-a14051f5fd02"},
-{"nexusFileName":"Valkrana's Spellbook","nexusFileVersion":"3.01.04","nexusFileUploadedAt":1788367238,"pakFileName":"Valkrana's Spellbook.pak","nexusFileId":129554,"metaUuid":"9deeb371-f01e-41b4-b20e-c5eee0751b12"}
+{"nexusFileName":"Valkrana's Spellbook","nexusFileVersion":"3.01.05","nexusFileUploadedAt":1789072277,"pakFileName":"Valkrana's Spellbook.pak","nexusFileId":130208,"metaUuid":"9deeb371-f01e-41b4-b20e-c5eee0751b12"}
 ]},
 "1259":{"nexusModName":"Great Old One Dice","nexusUploadedBy":"WingedAsarath","nexusModId":1259,"paks":[
 {"nexusFileName":"Great Old One Dice","nexusFileVersion":"1.1","nexusFileUploadedAt":1692634131,"pakFileName":"GreatOldOneDice.pak","nexusFileId":9187,"metaUuid":null}
@@ -31408,7 +31408,7 @@
 "10922":{"nexusModName":"Automated Summons","nexusUploadedBy":"actualsailorcat","nexusModId":10922,"paks":[
 {"nexusFileName":"Automated Summons SE Swarms","nexusFileVersion":"1.00.19","nexusFileUploadedAt":1757778288,"pakFileName":"Automated Summons SE Swarms.pak","nexusFileId":102678,"metaUuid":"c2d7b6b1-e329-4ce1-a609-2364f873c201"},
 {"nexusFileName":"Automated Summons","nexusFileVersion":"1.00.20","nexusFileUploadedAt":1783616745,"pakFileName":"Automated Summons.pak","nexusFileId":125288,"metaUuid":"89ad7046-e391-41c9-8670-f1b070c4c408"},
-{"nexusFileName":"Automated Summons SE","nexusFileVersion":"1.01.05","nexusFileUploadedAt":1788537781,"pakFileName":"Automated Summons SE.pak","nexusFileId":129683,"metaUuid":"7b5ed0e6-94fe-40e8-842d-f65f4ed25f05"}
+{"nexusFileName":"Automated Summons SE","nexusFileVersion":"1.01.06","nexusFileUploadedAt":1789071845,"pakFileName":"Automated Summons SE.pak","nexusFileId":130206,"metaUuid":"7b5ed0e6-94fe-40e8-842d-f65f4ed25f05"}
 ]},
 "10924":{"nexusModName":"5e Reckless Attack","nexusUploadedBy":"sumradagnoth8","nexusModId":10924,"paks":[
 {"nexusFileName":"RecklessAttack5e.zip","nexusFileVersion":"1.0.2.1","nexusFileUploadedAt":1731431036,"pakFileName":"RecklessAttack5e.pak","nexusFileId":78682,"metaUuid":"776e25bb-6128-479d-8923-089146901e46"},
@@ -69762,4 +69762,10 @@
 ]},
 "24927":{"nexusModName":"Metamagic Extended - Traditional Chinese and Simplified Chinese Translation","nexusUploadedBy":"MaxStoKe","nexusModId":24927,"paks":[
 {"nexusFileName":"MetamagicExtended CHT CHS","nexusFileVersion":"5.0.0.4","nexusFileUploadedAt":1789067530,"pakFileName":"MetamagicExtended_CHT_CHS.pak","nexusFileId":130198,"metaUuid":null}
+]},
+"24929":{"nexusModName":"Shaman Class - From WoW RU","nexusUploadedBy":"ASG1928","nexusModId":24929,"paks":[
+{"nexusFileName":"ShamanClass 2.1 RU","nexusFileVersion":"1","nexusFileUploadedAt":1789069947,"pakFileName":"EnchshammyclassRU_36e3cdce-f181-4b87-9bdc-21d65a9b118f.pak","nexusFileId":130202,"metaUuid":null}
+]},
+"24932":{"nexusModName":"Arcane Ranger","nexusUploadedBy":"lazyphantom13","nexusModId":24932,"paks":[
+{"nexusFileName":"ArcaneRanger","nexusFileVersion":"1","nexusFileUploadedAt":1789072463,"pakFileName":"ArcaneRanger_b749f1d2-eeef-f9dc-db23-b6d1a53402dd.pak","nexusFileId":130209,"metaUuid":null}
 ]}}
