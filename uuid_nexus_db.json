@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-09-10T10:52:39.570096+00:00","total_mods":17573},
+{"_meta":{"last_run":"2026-09-10T11:52:42.988526+00:00","total_mods":17574},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -11632,10 +11632,10 @@
 {"nexusFileName":"chauntway.zip","nexusFileVersion":"1.08","nexusFileUploadedAt":1725491203,"pakFileName":"chauntway.pak","nexusFileId":68760,"metaUuid":"d0766f1b-3e74-4442-ba79-8ed733e22976"}
 ]},
 "3606":{"nexusModName":"Increased Alcohol Duration","nexusUploadedBy":"Bonanzzza","nexusModId":3606,"paks":[
-{"nexusFileName":"10 turn alcohol duration","nexusFileVersion":"1.1","nexusFileUploadedAt":1698310203,"pakFileName":"10 turn alcohol duration.pak","nexusFileId":25190,"metaUuid":null},
-{"nexusFileName":"30 turn alcohol duration","nexusFileVersion":"1.1","nexusFileUploadedAt":1698310246,"pakFileName":"30 turn alcohol duration.pak","nexusFileId":25191,"metaUuid":null},
-{"nexusFileName":"600 turn alcohol duration","nexusFileVersion":"1.1","nexusFileUploadedAt":1698310289,"pakFileName":"600 turn alcohol duration.pak","nexusFileId":25192,"metaUuid":null},
-{"nexusFileName":"Stacking duration","nexusFileVersion":"1.1","nexusFileUploadedAt":1698459091,"pakFileName":"stacking alcohol duration.pak","nexusFileId":25525,"metaUuid":null}
+{"nexusFileName":"Stacking duration","nexusFileVersion":"1.2","nexusFileUploadedAt":1789037743,"pakFileName":"StackingAlcoholDuration.pak","nexusFileId":130164,"metaUuid":null},
+{"nexusFileName":"10 turn alcohol duration","nexusFileVersion":"1.2","nexusFileUploadedAt":1789037807,"pakFileName":"10TurnAlcoholDuration.pak","nexusFileId":130165,"metaUuid":null},
+{"nexusFileName":"600 turn alcohol duration","nexusFileVersion":"1.2","nexusFileUploadedAt":1789038407,"pakFileName":"600TurnAlcoholDuration.pak","nexusFileId":130167,"metaUuid":null},
+{"nexusFileName":"30 turn alcohol duration","nexusFileVersion":"1.2","nexusFileUploadedAt":1789038627,"pakFileName":"30TurnAlcoholDuration.pak","nexusFileId":130169,"metaUuid":null}
 ]},
 "3607":{"nexusModName":"Umberlee's Nets (Russian Translation)","nexusUploadedBy":"BlackRaven31","nexusModId":3607,"paks":[
 {"nexusFileName":"UmberleesNets(Russian)","nexusFileVersion":"2","nexusFileUploadedAt":1698800503,"pakFileName":"UmberleeNetsRussian.pak","nexusFileId":26180,"metaUuid":null}
@@ -42251,7 +42251,8 @@
 {"nexusFileName":"FeatsOverhaul HitDicePatch","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1779231272,"pakFileName":"FeatsOverhaul_HitDicePatch.pak","nexusFileId":121718,"metaUuid":"19edd084-c1bd-4042-a9f1-61a7817448d1"},
 {"nexusFileName":"FeatsOverhaul DualWielderPatch","nexusFileVersion":"1.0.2","nexusFileUploadedAt":1780003994,"pakFileName":"FeatsOverhaul_DualWielderPatch.pak","nexusFileId":122374,"metaUuid":"f1f0cb96-009b-40fa-b309-fcd26124bcb9"},
 {"nexusFileName":"FeatsOverhaul RangedWeaponsRebalancePatch","nexusFileVersion":"1.0.1","nexusFileUploadedAt":1784642162,"pakFileName":"FeatsOverhaul_RangedWeaponsRebalancePatch.pak","nexusFileId":126140,"metaUuid":"0a8a9f67-ac60-4cb1-8acb-1976c66b085d"},
-{"nexusFileName":"FeatsOverhaul","nexusFileVersion":"1.5.16","nexusFileUploadedAt":1788536941,"pakFileName":"FeatsOverhaul.pak","nexusFileId":129682,"metaUuid":"c2f1a230-8c0c-481b-9ab2-987e27d7db05"}
+{"nexusFileName":"FeatsOverhaul","nexusFileVersion":"1.5.16","nexusFileUploadedAt":1788536941,"pakFileName":"FeatsOverhaul.pak","nexusFileId":129682,"metaUuid":"c2f1a230-8c0c-481b-9ab2-987e27d7db05"},
+{"nexusFileName":"FeatsOverhaul TavernBrawlerPatch","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1789038433,"pakFileName":"FeatsOverhaul_TavernBrawlerPatch.pak","nexusFileId":130168,"metaUuid":null}
 ]},
 "15045":{"nexusModName":"5e Ranger Subclasses Combined_KOR","nexusUploadedBy":"Ahdarugo","nexusModId":15045,"paks":[
 {"nexusFileName":"5e Ranger Subclasses Combined_KOR","nexusFileVersion":"2.0.0.3","nexusFileUploadedAt":1770134218,"pakFileName":"ranger__6473a445-3c30-7721-47ce-966e72fab1fd.pak","nexusFileId":114048,"metaUuid":"6473a445-3c30-7721-47ce-966e72fab1fd"}
@@ -69739,4 +69740,7 @@
 ]},
 "24921":{"nexusModName":"Waypoints Expanded (Russian Translate)","nexusUploadedBy":"SexSux","nexusModId":24921,"paks":[
 {"nexusFileName":"Waypoints RUS","nexusFileVersion":"1.0.0.73","nexusFileUploadedAt":1789030868,"pakFileName":"waypoints_RUS.pak","nexusFileId":130162,"metaUuid":null}
+]},
+"24922":{"nexusModName":"Echo Knight Fighter Subclass - Traditional Chinese and Simplified Chinese Translation","nexusUploadedBy":"MaxStoKe","nexusModId":24922,"paks":[
+{"nexusFileName":"EchoKnight CHT CHS","nexusFileVersion":"1.5.8","nexusFileUploadedAt":1789040278,"pakFileName":"EchoKnight_CHT_CHS.pak","nexusFileId":130170,"metaUuid":null}
 ]}}
