@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-09-10T12:53:08.321950+00:00","total_mods":17574},
+{"_meta":{"last_run":"2026-09-10T13:53:20.565437+00:00","total_mods":17576},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -44108,7 +44108,7 @@
 {"nexusFileName":"Sorcerer Dialog Tag","nexusFileVersion":"1","nexusFileUploadedAt":1746455010,"pakFileName":"AVisSorcerer_cc40f4d6-40f9-0a74-c8db-6068dd3ab833.pak","nexusFileId":91847,"metaUuid":"cc40f4d6-40f9-0a74-c8db-6068dd3ab833"},
 {"nexusFileName":"Feat at Level 2 addon","nexusFileVersion":"1","nexusFileUploadedAt":1767716155,"pakFileName":"AVLv2Feat_a5e2f1ca-afe7-0b68-bed8-846d5007cd3b.pak","nexusFileId":111319,"metaUuid":null},
 {"nexusFileName":"Additional Feat Selection","nexusFileVersion":"1","nexusFileUploadedAt":1771522227,"pakFileName":"ArcaneVanguardFeats_1a980b2e-2094-3ac5-1f88-b0994df8feef.pak","nexusFileId":115150,"metaUuid":"1a980b2e-2094-3ac5-1f88-b0994df8feef"},
-{"nexusFileName":"Arcane Vanguard","nexusFileVersion":"1.5.6.140","nexusFileUploadedAt":1775656125,"pakFileName":"MysticWarden_0c01af3c-671c-8cfa-a4e6-cad1cb237a85.pak","nexusFileId":118458,"metaUuid":"0c01af3c-671c-8cfa-a4e6-cad1cb237a85"}
+{"nexusFileName":"Arcane Vanguard","nexusFileVersion":"1.5.6.141","nexusFileUploadedAt":1789046360,"pakFileName":"MysticWarden_0c01af3c-671c-8cfa-a4e6-cad1cb237a85.pak","nexusFileId":130172,"metaUuid":"0c01af3c-671c-8cfa-a4e6-cad1cb237a85"}
 ]},
 "15836":{"nexusModName":"Petite Body and Cute Outfits","nexusUploadedBy":"Sindae","nexusModId":15836,"paks":[
 {"nexusFileName":"PetiteUtav","nexusFileVersion":"1.0","nexusFileUploadedAt":1744875255,"pakFileName":"ThinUTav.pak","nexusFileId":89338,"metaUuid":null},
@@ -61033,7 +61033,7 @@
 {"nexusFileName":"Domestic Fluff - Part I","nexusFileVersion":"1.0.0.5","nexusFileUploadedAt":1772220683,"pakFileName":"DomesticFluff_7075cec6-c90c-3f7c-3afa-35fe7cafac70.pak","nexusFileId":115728,"metaUuid":"7075cec6-c90c-3f7c-3afa-35fe7cafac70"}
 ]},
 "21666":{"nexusModName":"Party Manager","nexusUploadedBy":"swissfred","nexusModId":21666,"paks":[
-{"nexusFileName":"Party Manager","nexusFileVersion":"4.3.8.4","nexusFileUploadedAt":1788762997,"pakFileName":"PartyManager_e1ca354c-de73-4860-44b3-a24f426cc6f9.pak","nexusFileId":129945,"metaUuid":"e1ca354c-de73-4860-44b3-a24f426cc6f9"}
+{"nexusFileName":"Party Manager","nexusFileVersion":"4.3.8.8","nexusFileUploadedAt":1789045967,"pakFileName":"PartyManager_e1ca354c-de73-4860-44b3-a24f426cc6f9.pak","nexusFileId":130171,"metaUuid":"e1ca354c-de73-4860-44b3-a24f426cc6f9"}
 ]},
 "21667":{"nexusModName":"Party Manager for Korean","nexusUploadedBy":"Eolaloe","nexusModId":21667,"paks":[
 {"nexusFileName":"Party Manager for Korean","nexusFileVersion":"4.3.8.0","nexusFileUploadedAt":1777291213,"pakFileName":"PartyManager_kr.pak","nexusFileId":119999,"metaUuid":null}
@@ -69729,6 +69729,10 @@
 {"nexusFileName":"Ranger More Fighting Styles","nexusFileVersion":"1","nexusFileUploadedAt":1789000621,"pakFileName":"Ranger More Fighting Styles.pak","nexusFileId":130139,"metaUuid":null},
 {"nexusFileName":"Colossus Slayer Buffed","nexusFileVersion":"1","nexusFileUploadedAt":1789000651,"pakFileName":"Colossus Slayer Buffed.pak","nexusFileId":130140,"metaUuid":null}
 ]},
+"24914":{"nexusModName":"Zenin Path - A Jujutsu Kaisen Class CHS","nexusUploadedBy":"AkkoDiana","nexusModId":24914,"paks":[
+{"nexusFileName":"ZeninPath CHS","nexusFileVersion":"1","nexusFileUploadedAt":1789046425,"pakFileName":"ZeninPath_ZH_7138b85d-cc35-5da1-937f-f811b7031440.pak","nexusFileId":130173,"metaUuid":null},
+{"nexusFileName":"ZeninPath Back Slash fix","nexusFileVersion":"1","nexusFileUploadedAt":1789046730,"pakFileName":"ZeninPath_BackSlashDualFix_f00699a3-de37-4af0-a831-e133582a5b64.pak","nexusFileId":130174,"metaUuid":null}
+]},
 "24916":{"nexusModName":"Mizora Wears Armor (For More Origins)","nexusUploadedBy":"LieutCrunch","nexusModId":24916,"paks":[
 {"nexusFileName":"MizoraWearsArmor","nexusFileVersion":"1","nexusFileUploadedAt":1789001573,"pakFileName":"MizoraWearsArmor_33e1ff10-a353-e79e-c92a-43701cfeeba4.pak","nexusFileId":130141,"metaUuid":null}
 ]},
@@ -69743,4 +69747,7 @@
 ]},
 "24922":{"nexusModName":"Echo Knight Fighter Subclass - Traditional Chinese and Simplified Chinese Translation","nexusUploadedBy":"MaxStoKe","nexusModId":24922,"paks":[
 {"nexusFileName":"EchoKnight CHT CHS","nexusFileVersion":"1.5.8","nexusFileUploadedAt":1789040278,"pakFileName":"EchoKnight_CHT_CHS.pak","nexusFileId":130170,"metaUuid":null}
+]},
+"24923":{"nexusModName":"Fantastical Multiverse - Traditional Chinese and Simplified Chinese Translation","nexusUploadedBy":"MaxStoKe","nexusModId":24923,"paks":[
+{"nexusFileName":"FantasticalMultiverse CHT CHS","nexusFileVersion":"1.9.5.5","nexusFileUploadedAt":1789047719,"pakFileName":"FantasticalMultiverse_CHT_CHS.pak","nexusFileId":130175,"metaUuid":null}
 ]}}
