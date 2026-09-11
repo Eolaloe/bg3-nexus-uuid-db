@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-09-11T18:52:27.988961+00:00","total_mods":17593},
+{"_meta":{"last_run":"2026-09-11T19:52:28.503662+00:00","total_mods":17596},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -28896,8 +28896,8 @@
 {"nexusFileName":"A Candle In The Dark - Custom Companion - Part 3","nexusFileVersion":"1.1.0.1","nexusFileUploadedAt":1782098318,"pakFileName":"MGNTN_JasonCompanionPt3.pak","nexusFileId":124055,"metaUuid":"9978eded-312f-4656-9a0b-bc6fe8d9615c"},
 {"nexusFileName":"Jason Skill Proficiencies Patch","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1782098486,"pakFileName":"MGNTN_JasonDefaultSkillsPatch.pak","nexusFileId":124056,"metaUuid":"951fc302-521f-4eb1-902f-3ab0a111f8b8"},
 {"nexusFileName":"Give Me My Title Patch for Jason","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1782098636,"pakFileName":"KJMMGNTN_JasonGiveMeMyTitlePatch.pak","nexusFileId":124057,"metaUuid":"53023745-e092-497a-9b18-d220ba6ed830"},
-{"nexusFileName":"A Candle In The Dark - Custom Companion - Part 2","nexusFileVersion":"1.2.0.0","nexusFileUploadedAt":1785543139,"pakFileName":"MGNTN_JasonCompanionPt2.pak","nexusFileId":126988,"metaUuid":"659571cb-e6f1-4c1a-9ab0-cc40a5d28463"},
-{"nexusFileName":"A Candle In The Dark - Custom Companion - Part 1","nexusFileVersion":"1.2.0.0","nexusFileUploadedAt":1785543265,"pakFileName":"MGNTN_JasonCompanionPt1.pak","nexusFileId":126989,"metaUuid":"2396f116-b622-4940-96bf-083b120e2a30"}
+{"nexusFileName":"A Candle In The Dark - Custom Companion - Part 1","nexusFileVersion":"1.3.0.0","nexusFileUploadedAt":1789155465,"pakFileName":"MGNTN_JasonCompanionPt1.pak","nexusFileId":130299,"metaUuid":"2396f116-b622-4940-96bf-083b120e2a30"},
+{"nexusFileName":"A Candle In The Dark - Custom Companion - Part 2","nexusFileVersion":"1.3.0.0","nexusFileUploadedAt":1789155542,"pakFileName":"MGNTN_JasonCompanionPt2.pak","nexusFileId":130300,"metaUuid":"659571cb-e6f1-4c1a-9ab0-cc40a5d28463"}
 ]},
 "10002":{"nexusModName":"Ponytail Hairstyles","nexusUploadedBy":"Cerberry","nexusModId":10002,"paks":[
 {"nexusFileName":"Ponytails","nexusFileVersion":"1.1.1.0","nexusFileUploadedAt":1727298956,"pakFileName":"CBR_Ponytails.pak","nexusFileId":72705,"metaUuid":"143878ab-a689-493c-8816-686103d889bd"}
@@ -69696,7 +69696,7 @@
 {"nexusFileName":"Yet Another Party","nexusFileVersion":"1.0","nexusFileUploadedAt":1788898377,"pakFileName":"Yet Another Party.pak","nexusFileId":130049,"metaUuid":"2799067d-d379-4367-b135-ddb45e0d96cb"}
 ]},
 "24895":{"nexusModName":"True First-Person Camera for BG3 Exploration","nexusUploadedBy":"proteusproject","nexusModId":24895,"paks":[
-{"nexusFileName":"FirstPersonExplorer Main - targeting fixed","nexusFileVersion":"3","nexusFileUploadedAt":1789115479,"pakFileName":"FirstPersonExplorer_0.7.6.1_Public_Release_Main.pak","nexusFileId":130259,"metaUuid":null}
+{"nexusFileName":"FirstPersonExplorer Main - targeting fixed","nexusFileVersion":"4","nexusFileUploadedAt":1789155905,"pakFileName":"FirstPersonExplorer_0.7.6.2_Public_Release_Main.pak","nexusFileId":130302,"metaUuid":null}
 ]},
 "24896":{"nexusModName":"Light Mage","nexusUploadedBy":"Rathallon","nexusModId":24896,"paks":[
 {"nexusFileName":"Light Mage","nexusFileVersion":"13.17.22.55","nexusFileUploadedAt":1788907246,"pakFileName":"Light_Mage_fb843627-0383-11f9-2647-b2aef48d2ec3.pak","nexusFileId":130064,"metaUuid":null}
@@ -69806,6 +69806,17 @@
 "24945":{"nexusModName":"Draco's Fantasy Gunslinger_KOR","nexusUploadedBy":"Ahdarugo","nexusModId":24945,"paks":[
 {"nexusFileName":"Draco's Fantasy Gunslinger_KOR","nexusFileVersion":"25","nexusFileUploadedAt":1789136290,"pakFileName":"DracoFantasyGunslinger_KOR_70e2fc1b-9632-9bab-2bbe-6abced4dca2e.pak","nexusFileId":130282,"metaUuid":null}
 ]},
+"24947":{"nexusModName":"Abdel-be-Gone","nexusUploadedBy":"Deathstruck","nexusModId":24947,"paks":[
+{"nexusFileName":"Abdel Be Gone","nexusFileVersion":"1","nexusFileUploadedAt":1789152116,"pakFileName":"AbdelBeGone.pak","nexusFileId":130295,"metaUuid":null}
+]},
 "24948":{"nexusModName":"SummerBeach_TheFirstDescendant_FreynaOasisParty","nexusUploadedBy":"EvilRecluse","nexusModId":24948,"paks":[
 {"nexusFileName":"SummerBeach TheFirstDescendant FreynaOasisParty","nexusFileVersion":"1","nexusFileUploadedAt":1789141020,"pakFileName":"SummerBeach_TheFirstDescendant_FreynaOasisParty.pak","nexusFileId":130288,"metaUuid":"3587f614-f90f-47b3-821e-534a8abeb6c8"}
+]},
+"24950":{"nexusModName":"Krynnspace - Deities and Passives","nexusUploadedBy":"aemonar","nexusModId":24950,"paks":[
+{"nexusFileName":"Krynnspace - Deities And Passives - Main File","nexusFileVersion":"1.0.2.6","nexusFileUploadedAt":1789155048,"pakFileName":"KrynnspaceDeitiesAndPassives_656c71ee-e7a1-a922-a701-5bacf3da3f86.pak","nexusFileId":130296,"metaUuid":null},
+{"nexusFileName":"KDEI - Lore Accurate Tag Map - Krynn to Faerun","nexusFileVersion":"1.0.0.4","nexusFileUploadedAt":1789155357,"pakFileName":"KDEI_VanillaDeity_LoreAcc_d7044d8a-2c8f-23c8-5378-b23b38721669.pak","nexusFileId":130297,"metaUuid":null},
+{"nexusFileName":"KDEI - My Flavour Tag Map - Krynn to Faerun","nexusFileVersion":"1.0.0.4","nexusFileUploadedAt":1789155408,"pakFileName":"KDEI_VanillaDeityTagAddOn_a26e1eb7-1444-6e85-5019-e455b7e214de.pak","nexusFileId":130298,"metaUuid":null}
+]},
+"24951":{"nexusModName":"Krynnspace - Core Library","nexusUploadedBy":"aemonar","nexusModId":24951,"paks":[
+{"nexusFileName":"KrynnspaceCoreLibrary V1.0.0.12","nexusFileVersion":"1.0.0.12","nexusFileUploadedAt":1789155756,"pakFileName":"KrynnspaceCoreLibrary_d1b9e7a3-3e13-4a52-2369-fa81c6737b86.pak","nexusFileId":130301,"metaUuid":null}
 ]}}
