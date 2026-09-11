@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-09-11T08:51:54.768409+00:00","total_mods":17585},
+{"_meta":{"last_run":"2026-09-11T09:52:08.020941+00:00","total_mods":17586},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -69692,7 +69692,7 @@
 {"nexusFileName":"Yet Another Party","nexusFileVersion":"1.0","nexusFileUploadedAt":1788898377,"pakFileName":"Yet Another Party.pak","nexusFileId":130049,"metaUuid":"2799067d-d379-4367-b135-ddb45e0d96cb"}
 ]},
 "24895":{"nexusModName":"True First-Person Camera for BG3 Exploration","nexusUploadedBy":"proteusproject","nexusModId":24895,"paks":[
-{"nexusFileName":"FirstPersonExplorer Main - targetting fixed","nexusFileVersion":"3","nexusFileUploadedAt":1789115479,"pakFileName":"FirstPersonExplorer_0.7.6.1_Public_Release_Main.pak","nexusFileId":130259,"metaUuid":null}
+{"nexusFileName":"FirstPersonExplorer Main - targeting fixed","nexusFileVersion":"3","nexusFileUploadedAt":1789115479,"pakFileName":"FirstPersonExplorer_0.7.6.1_Public_Release_Main.pak","nexusFileId":130259,"metaUuid":null}
 ]},
 "24896":{"nexusModName":"Light Mage","nexusUploadedBy":"Rathallon","nexusModId":24896,"paks":[
 {"nexusFileName":"Light Mage","nexusFileVersion":"13.17.22.55","nexusFileUploadedAt":1788907246,"pakFileName":"Light_Mage_fb843627-0383-11f9-2647-b2aef48d2ec3.pak","nexusFileId":130064,"metaUuid":null}
@@ -69780,4 +69780,7 @@
 ]},
 "24938":{"nexusModName":"Land Druid Myrmidon Arts","nexusUploadedBy":"qhrals8","nexusModId":24938,"paks":[
 {"nexusFileName":"Land Druid Myrmidon Arts","nexusFileVersion":"1","nexusFileUploadedAt":1789095317,"pakFileName":"Land Druid Myrmidon Arts.pak","nexusFileId":130243,"metaUuid":"747098a0-c81b-b038-fc06-6f795b34164d"}
+]},
+"24940":{"nexusModName":"camp buff status ring ringofdapmeup","nexusUploadedBy":"PielordMiniman","nexusModId":24940,"paks":[
+{"nexusFileName":"Plringofdapmeup","nexusFileVersion":"1","nexusFileUploadedAt":1789117048,"pakFileName":"plringofdapmeup_74cc8918-68de-207a-d141-d6f67ad798f7.pak","nexusFileId":130261,"metaUuid":null}
 ]}}
