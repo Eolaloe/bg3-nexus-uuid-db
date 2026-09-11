@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-09-11T19:52:28.503662+00:00","total_mods":17596},
+{"_meta":{"last_run":"2026-09-11T20:52:50.165270+00:00","total_mods":17596},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -69407,7 +69407,7 @@
 {"nexusFileName":"Visible Shields - Universal","nexusFileVersion":"1.0.1.2","nexusFileUploadedAt":1788941658,"pakFileName":"VisibleShieldsU.pak","nexusFileId":130088,"metaUuid":"8cc00893-60a1-4240-88fb-f0bf87b95e74"}
 ]},
 "24767":{"nexusModName":"Manuli's Head Collection","nexusUploadedBy":"manuliparoni","nexusModId":24767,"paks":[
-{"nexusFileName":"Manulis Head Collection","nexusFileVersion":"1.1","nexusFileUploadedAt":1788730165,"pakFileName":"Manulis_Head_Collection.pak","nexusFileId":129909,"metaUuid":"1343d62b-870b-4094-a324-d94254540eae"}
+{"nexusFileName":"Manulis Head Collection","nexusFileVersion":"1.2","nexusFileUploadedAt":1789159156,"pakFileName":"Manulis_Head_Collection.pak","nexusFileId":130304,"metaUuid":"1343d62b-870b-4094-a324-d94254540eae"}
 ]},
 "24774":{"nexusModName":"Astarion Vampire Bite Plus","nexusUploadedBy":"swissfred","nexusModId":24774,"paks":[
 {"nexusFileName":"Astarion Vampire Bite Plus","nexusFileVersion":"2.0.8.2","nexusFileUploadedAt":1788586188,"pakFileName":"AstarionVampireBitePlus_e09243e0-782e-892b-ae40-2449e9319994.pak","nexusFileId":129733,"metaUuid":"e09243e0-782e-892b-ae40-2449e9319994"}
@@ -69774,7 +69774,7 @@
 {"nexusFileName":"ShamanClass 2.1 RU","nexusFileVersion":"1","nexusFileUploadedAt":1789069947,"pakFileName":"EnchshammyclassRU_36e3cdce-f181-4b87-9bdc-21d65a9b118f.pak","nexusFileId":130202,"metaUuid":null}
 ]},
 "24932":{"nexusModName":"Arcane Ranger","nexusUploadedBy":"lazyphantom13","nexusModId":24932,"paks":[
-{"nexusFileName":"ArcaneRanger","nexusFileVersion":"3","nexusFileUploadedAt":1789144070,"pakFileName":"ArcaneRanger_b749f1d2-eeef-f9dc-db23-b6d1a53402dd.pak","nexusFileId":130291,"metaUuid":null}
+{"nexusFileName":"ArcaneRanger","nexusFileVersion":"4","nexusFileUploadedAt":1789159218,"pakFileName":"ArcaneRanger_b749f1d2-eeef-f9dc-db23-b6d1a53402dd.pak","nexusFileId":130305,"metaUuid":null}
 ]},
 "24933":{"nexusModName":"Honour Save Enabler","nexusUploadedBy":"Sai","nexusModId":24933,"paks":[
 {"nexusFileName":"Honour Save Enabler","nexusFileVersion":"1.0","nexusFileUploadedAt":1789081805,"pakFileName":"Honour Save Enabler.pak","nexusFileId":130215,"metaUuid":null}
@@ -69809,11 +69809,14 @@
 "24948":{"nexusModName":"SummerBeach_TheFirstDescendant_FreynaOasisParty","nexusUploadedBy":"EvilRecluse","nexusModId":24948,"paks":[
 {"nexusFileName":"SummerBeach TheFirstDescendant FreynaOasisParty","nexusFileVersion":"1","nexusFileUploadedAt":1789141020,"pakFileName":"SummerBeach_TheFirstDescendant_FreynaOasisParty.pak","nexusFileId":130288,"metaUuid":"3587f614-f90f-47b3-821e-534a8abeb6c8"}
 ]},
-"24950":{"nexusModName":"Krynnspace - Deities and Passives","nexusUploadedBy":"aemonar","nexusModId":24950,"paks":[
+"24950":{"nexusModName":"Krynnspace - Deities and Passives","nexusUploadedBy":"Thorvin01","nexusModId":24950,"paks":[
 {"nexusFileName":"Krynnspace - Deities And Passives - Main File","nexusFileVersion":"1.0.2.6","nexusFileUploadedAt":1789155048,"pakFileName":"KrynnspaceDeitiesAndPassives_656c71ee-e7a1-a922-a701-5bacf3da3f86.pak","nexusFileId":130296,"metaUuid":null},
 {"nexusFileName":"KDEI - Lore Accurate Tag Map - Krynn to Faerun","nexusFileVersion":"1.0.0.4","nexusFileUploadedAt":1789155357,"pakFileName":"KDEI_VanillaDeity_LoreAcc_d7044d8a-2c8f-23c8-5378-b23b38721669.pak","nexusFileId":130297,"metaUuid":null},
 {"nexusFileName":"KDEI - My Flavour Tag Map - Krynn to Faerun","nexusFileVersion":"1.0.0.4","nexusFileUploadedAt":1789155408,"pakFileName":"KDEI_VanillaDeityTagAddOn_a26e1eb7-1444-6e85-5019-e455b7e214de.pak","nexusFileId":130298,"metaUuid":null}
 ]},
-"24951":{"nexusModName":"Krynnspace - Core Library","nexusUploadedBy":"aemonar","nexusModId":24951,"paks":[
+"24951":{"nexusModName":"Krynnspace - Core Library","nexusUploadedBy":"Thorvin01","nexusModId":24951,"paks":[
 {"nexusFileName":"KrynnspaceCoreLibrary V1.0.0.12","nexusFileVersion":"1.0.0.12","nexusFileUploadedAt":1789155756,"pakFileName":"KrynnspaceCoreLibrary_d1b9e7a3-3e13-4a52-2369-fa81c6737b86.pak","nexusFileId":130301,"metaUuid":null}
+]},
+"24953":{"nexusModName":"Krynnspace - Deity Weapons and Relics of Krynn","nexusUploadedBy":"Thorvin01","nexusModId":24953,"paks":[
+{"nexusFileName":"Krynnspace - Deity Weapons and Relics of Krynn","nexusFileVersion":"1.0.2.80","nexusFileUploadedAt":1789157556,"pakFileName":"KrynnspaceNamedWeapons_8ead49b0-4ed2-a08b-0b88-fd3ea58559a3.pak","nexusFileId":130303,"metaUuid":null}
 ]}}
