@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-09-11T09:52:08.020941+00:00","total_mods":17586},
+{"_meta":{"last_run":"2026-09-11T10:52:22.100163+00:00","total_mods":17587},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -26652,11 +26652,11 @@
 ]},
 "9095":{"nexusModName":"DIQ Patches - Treasure Tables and More","nexusUploadedBy":"BaldursGoonsack","nexusModId":9095,"paks":[
 {"nexusFileName":"No Cosmetics Patch","nexusFileVersion":"1.4.8.0","nexusFileUploadedAt":1787405214,"pakFileName":"DIQ Patches - Treasure Tables and More - No Cosmetics Patch.pak","nexusFileId":128695,"metaUuid":"dcf7b848-b0c2-4610-9572-9fb1251c2943"},
-{"nexusFileName":"DIQ Miscellaneous Item Patches","nexusFileVersion":"1.4.8.0","nexusFileUploadedAt":1787405245,"pakFileName":"DIQ Miscellaneous Item Patches.pak","nexusFileId":128697,"metaUuid":"59f3141a-b60d-46e8-b0d0-dfc49166d698"},
 {"nexusFileName":"DIQ Patches - Treasure Tables and More","nexusFileVersion":"1.4.8.0","nexusFileUploadedAt":1787405279,"pakFileName":"DIQ Patches - Treasure Tables and More.pak","nexusFileId":128700,"metaUuid":"54362e18-d28c-4f97-9000-aea2414e4579"},
 {"nexusFileName":"Minthara Less Magic Items Patch","nexusFileVersion":"1.4.8.1","nexusFileUploadedAt":1788689856,"pakFileName":"DIQ Starting Equipment - Minthara Less Magic Items Patch.pak","nexusFileId":129856,"metaUuid":"ef0fa286-f414-4623-a74a-f54a94f457a1"},
 {"nexusFileName":"DIQ Starting Equipment","nexusFileVersion":"1.4.8.1","nexusFileUploadedAt":1788689876,"pakFileName":"DIQ Starting Equipment.pak","nexusFileId":129857,"metaUuid":"719a427f-93f9-46ce-b5c8-9a9201112a52"},
-{"nexusFileName":"DIQ Clothing Patches","nexusFileVersion":"1.4.8.1","nexusFileUploadedAt":1788689892,"pakFileName":"DIQ Clothing Patches.pak","nexusFileId":129858,"metaUuid":"0a4b83d3-d7cc-4fd9-a7d9-eef91aff1b78"}
+{"nexusFileName":"DIQ Clothing Patches","nexusFileVersion":"1.4.8.1","nexusFileUploadedAt":1788689892,"pakFileName":"DIQ Clothing Patches.pak","nexusFileId":129858,"metaUuid":"0a4b83d3-d7cc-4fd9-a7d9-eef91aff1b78"},
+{"nexusFileName":"DIQ Miscellaneous Item Patches","nexusFileVersion":"1.4.8.2","nexusFileUploadedAt":1789121819,"pakFileName":"DIQ Miscellaneous Item Patches.pak","nexusFileId":130268,"metaUuid":"59f3141a-b60d-46e8-b0d0-dfc49166d698"}
 ]},
 "9096":{"nexusModName":"Bonus Action Recast","nexusUploadedBy":"Awesomepotamus","nexusModId":9096,"paks":[
 {"nexusFileName":"Bonus Action Recast","nexusFileVersion":"1.0","nexusFileUploadedAt":1714458828,"pakFileName":"BonusActionRecast.pak","nexusFileId":55389,"metaUuid":"c7935eef-7ffa-46a7-abd2-c4ed0e16621f"}
@@ -46293,7 +46293,7 @@
 {"nexusFileName":"Script Fix","nexusFileVersion":"1.0.0.5","nexusFileUploadedAt":1748066185,"pakFileName":"ScriptFix.pak","nexusFileId":93893,"metaUuid":null}
 ]},
 "16665":{"nexusModName":"Skip Intro","nexusUploadedBy":"Sai","nexusModId":16665,"paks":[
-{"nexusFileName":"Skip Intro","nexusFileVersion":"1.0.4","nexusFileUploadedAt":1789075584,"pakFileName":"Skip Intro.pak","nexusFileId":130212,"metaUuid":"54f21e4c-1c36-4f04-8ddd-87c49bdb5490"}
+{"nexusFileName":"Skip Intro","nexusFileVersion":"1.0.4","nexusFileUploadedAt":1789121137,"pakFileName":"Skip Intro.pak","nexusFileId":130266,"metaUuid":"54f21e4c-1c36-4f04-8ddd-87c49bdb5490"}
 ]},
 "16666":{"nexusModName":"Path of Bloody Regret Barbarian Subclass - PTBR","nexusUploadedBy":"deleted54215902","nexusModId":16666,"paks":[
 {"nexusFileName":"Path of Bloody Regret Barbarian Subclass - PTBR","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1747581568,"pakFileName":"Hellion_PTBR.pak","nexusFileId":93334,"metaUuid":null}
@@ -69150,7 +69150,7 @@
 {"nexusFileName":"Catkin_Specialist V1.0.2","nexusFileVersion":"1.0.2","nexusFileUploadedAt":1788141550,"pakFileName":"CatkinSpecialist_8112703d-ba2c-e46b-7c4c-5760f8e58aa4.pak","nexusFileId":129399,"metaUuid":"8112703d-ba2c-e46b-7c4c-5760f8e58aa4"}
 ]},
 "24667":{"nexusModName":"Permanent Buffs","nexusUploadedBy":"Sai","nexusModId":24667,"paks":[
-{"nexusFileName":"Permanent Buffs","nexusFileVersion":"1.5","nexusFileUploadedAt":1788131100,"pakFileName":"Permanent Buffs.pak","nexusFileId":129395,"metaUuid":"9fed344c-fe38-4982-9613-9f7b5df3e119"}
+{"nexusFileName":"Permanent Buffs","nexusFileVersion":"1.6","nexusFileUploadedAt":1789120235,"pakFileName":"Permanent Buffs.pak","nexusFileId":130262,"metaUuid":"9fed344c-fe38-4982-9613-9f7b5df3e119"}
 ]},
 "24669":{"nexusModName":"Clawstep Mod Refits","nexusUploadedBy":"tealrabbit19","nexusModId":24669,"paks":[
 {"nexusFileName":"CBR Battlemage Clawstep","nexusFileVersion":"1","nexusFileUploadedAt":1787948145,"pakFileName":"CBR_Battlemage_Clawstep.pak","nexusFileId":129218,"metaUuid":"5372a417-4b58-4997-b663-a95d49ac9a5f"},
@@ -69181,7 +69181,7 @@
 {"nexusFileName":"PHPRobin E870033d 7c9d E902 8706 977022c78caf","nexusFileVersion":"1.0","nexusFileUploadedAt":1788000188,"pakFileName":"PHPRobin_e870033d-7c9d-e902-8706-977022c78caf.pak","nexusFileId":129259,"metaUuid":"e870033d-7c9d-e902-8706-977022c78caf"}
 ]},
 "24677":{"nexusModName":"Half-Orc Half-Drow","nexusUploadedBy":"Sai","nexusModId":24677,"paks":[
-{"nexusFileName":"Half-Orc Half-Drow","nexusFileVersion":"1.3","nexusFileUploadedAt":1789074299,"pakFileName":"Half-Orc Half-Drow.pak","nexusFileId":130210,"metaUuid":"2009eb1a-1d10-4ccd-8183-c9e56a495d92"}
+{"nexusFileName":"Half-Orc Half-Drow","nexusFileVersion":"1.4","nexusFileUploadedAt":1789120971,"pakFileName":"Half-Orc Half-Drow.pak","nexusFileId":130264,"metaUuid":"2009eb1a-1d10-4ccd-8183-c9e56a495d92"}
 ]},
 "24678":{"nexusModName":"Mizora Joins the Party - Turkish Translation","nexusUploadedBy":"tarikagl1","nexusModId":24678,"paks":[
 {"nexusFileName":"MizoraJoinsTheParty TR","nexusFileVersion":"1.00.00","nexusFileUploadedAt":1788006365,"pakFileName":"MizoraJoinsTheParty_TR.pak","nexusFileId":129262,"metaUuid":null}
@@ -69605,7 +69605,7 @@
 {"nexusFileName":"Realistic Medieval Armor","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1788738024,"pakFileName":"14th_Century_Plate_Armour.pak","nexusFileId":129912,"metaUuid":null}
 ]},
 "24858":{"nexusModName":"Yet Another UI","nexusUploadedBy":"Sai","nexusModId":24858,"paks":[
-{"nexusFileName":"Yet Another UI","nexusFileVersion":"1.0","nexusFileUploadedAt":1789059174,"pakFileName":"Yet Another UI.pak","nexusFileId":130194,"metaUuid":"368dc49c-018b-4374-90b8-90e2d92223d7"}
+{"nexusFileName":"Yet Another UI","nexusFileVersion":"1.1","nexusFileUploadedAt":1789120541,"pakFileName":"Yet Another UI.pak","nexusFileId":130263,"metaUuid":"368dc49c-018b-4374-90b8-90e2d92223d7"}
 ]},
 "24859":{"nexusModName":"Create Spell Slot and Create Sorcery Points No Animation","nexusUploadedBy":"einnasyl","nexusModId":24859,"paks":[
 {"nexusFileName":"Create Spell Slot and Sorcery Points No Animation","nexusFileVersion":"1","nexusFileUploadedAt":1788747613,"pakFileName":"Create_Spell_Slot_and_Create_Sorcery_Points_No_Animation_v1.0.1.pak","nexusFileId":129918,"metaUuid":null}
@@ -69779,8 +69779,11 @@
 {"nexusFileName":"Honour Save Enabler","nexusFileVersion":"1.0","nexusFileUploadedAt":1789081805,"pakFileName":"Honour Save Enabler.pak","nexusFileId":130215,"metaUuid":null}
 ]},
 "24938":{"nexusModName":"Land Druid Myrmidon Arts","nexusUploadedBy":"qhrals8","nexusModId":24938,"paks":[
-{"nexusFileName":"Land Druid Myrmidon Arts","nexusFileVersion":"1","nexusFileUploadedAt":1789095317,"pakFileName":"Land Druid Myrmidon Arts.pak","nexusFileId":130243,"metaUuid":"747098a0-c81b-b038-fc06-6f795b34164d"}
+{"nexusFileName":"Land Druid Myrmidon Arts","nexusFileVersion":"2","nexusFileUploadedAt":1789121192,"pakFileName":"Land Druid Myrmidon Arts1.1v.pak","nexusFileId":130267,"metaUuid":null}
 ]},
 "24940":{"nexusModName":"camp buff status ring ringofdapmeup","nexusUploadedBy":"PielordMiniman","nexusModId":24940,"paks":[
 {"nexusFileName":"Plringofdapmeup","nexusFileVersion":"1","nexusFileUploadedAt":1789117048,"pakFileName":"plringofdapmeup_74cc8918-68de-207a-d141-d6f67ad798f7.pak","nexusFileId":130261,"metaUuid":null}
+]},
+"24941":{"nexusModName":"Homebrew Genasi - Race Mod patch 9","nexusUploadedBy":"Yeetbot300","nexusModId":24941,"paks":[
+{"nexusFileName":"Homebrew Genasi   Race Mod","nexusFileVersion":"1","nexusFileUploadedAt":1789121106,"pakFileName":"Homebrew Genasi - Race Mod.pak","nexusFileId":130265,"metaUuid":null}
 ]}}
