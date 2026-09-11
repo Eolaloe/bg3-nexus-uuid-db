@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-09-11T21:51:56.668305+00:00","total_mods":17599},
+{"_meta":{"last_run":"2026-09-11T22:51:49.951059+00:00","total_mods":17598},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -46312,7 +46312,7 @@
 ]},
 "16671":{"nexusModName":"Illithid Powers Consolidated (compatible with IPO2)","nexusUploadedBy":"Mueffel","nexusModId":16671,"paks":[
 {"nexusFileName":"Illithid Powers Consolidated","nexusFileVersion":"2.0.3","nexusFileUploadedAt":1780152390,"pakFileName":"Illithid Powers_consolidated.pak","nexusFileId":122471,"metaUuid":"98e63500-487d-417c-bc95-165ba4b39540"},
-{"nexusFileName":"Early Access Illithid Powers Consolidated","nexusFileVersion":"1.2.0","nexusFileUploadedAt":1788949789,"pakFileName":"EarlyAccess Illithid Powers_consolidated.pak","nexusFileId":130091,"metaUuid":"16f297de-7080-4e41-ad8e-2e1d57f30b77"}
+{"nexusFileName":"Early Access Illithid Powers Consolidated","nexusFileVersion":"1.3.0","nexusFileUploadedAt":1789164625,"pakFileName":"EarlyAccess Illithid Powers_consolidated.pak","nexusFileId":130315,"metaUuid":"16f297de-7080-4e41-ad8e-2e1d57f30b77"}
 ]},
 "16672":{"nexusModName":"Freedom of Religion","nexusUploadedBy":"deleted3792625","nexusModId":16672,"paks":[
 {"nexusFileName":"FreedomOfReligion","nexusFileVersion":"1.0.0.2","nexusFileUploadedAt":1748493427,"pakFileName":"FreedomOfReligion_4d9fdd9d-ad7c-4bde-bd62-3eb5fa8b8227.pak","nexusFileId":94378,"metaUuid":"4d9fdd9d-ad7c-4bde-bd62-3eb5fa8b8227"}
@@ -64193,7 +64193,7 @@
 {"nexusFileName":"Witchbolt","nexusFileVersion":"1","nexusFileUploadedAt":1778481961,"pakFileName":"WitchBolt_d0821f7e-9056-d946-11b6-f0ee9ba52491.pak","nexusFileId":120949,"metaUuid":"d0821f7e-9056-d946-11b6-f0ee9ba52491"}
 ]},
 "22798":{"nexusModName":"Cloud and Vision Overhaul - Mechanics and Spells Reworked (including Hunger of Hadar)","nexusUploadedBy":"Mueffel","nexusModId":22798,"paks":[
-{"nexusFileName":"Cloud and Vision Overhaul","nexusFileVersion":"2.0.0","nexusFileUploadedAt":1782556580,"pakFileName":"Cloud and Vision Overhaul.pak","nexusFileId":124369,"metaUuid":"9c8ab20a-9a07-4f2b-95de-1be6207cc20f"}
+{"nexusFileName":"Cloud and Vision Overhaul","nexusFileVersion":"2.1.0","nexusFileUploadedAt":1789164785,"pakFileName":"Cloud and Vision Overhaul.pak","nexusFileId":130316,"metaUuid":"9c8ab20a-9a07-4f2b-95de-1be6207cc20f"}
 ]},
 "22800":{"nexusModName":"Pride 'n Prejudice - Maps for VP","nexusUploadedBy":"inkyplz","nexusModId":22800,"paks":[
 {"nexusFileName":"Pride 'n Prejudice Map Sets","nexusFileVersion":"1.0.0.14","nexusFileUploadedAt":1778507798,"pakFileName":"PPJ_f6b487fe-87db-f0e6-6166-86a10366f290.pak","nexusFileId":120973,"metaUuid":"f6b487fe-87db-f0e6-6166-86a10366f290"}
@@ -66809,10 +66809,10 @@
 ]},
 "23848":{"nexusModName":"Transmuted Spell - a Metamagic for Every Element","nexusUploadedBy":"JThug","nexusModId":23848,"paks":[
 {"nexusFileName":"No Sorcery Point Cost - optional add-on","nexusFileVersion":"1.0","nexusFileUploadedAt":1788882424,"pakFileName":"TransmutedSpellNoCost.pak","nexusFileId":130032,"metaUuid":null},
-{"nexusFileName":"TransmutedSpell Nexus V1.3.15","nexusFileVersion":"1.3.15","nexusFileUploadedAt":1788912030,"pakFileName":"StarkMeiProbe.pak","nexusFileId":130067,"metaUuid":"237c3b40-47b7-5b29-bf12-a098e35c6aac"},
-{"nexusFileName":"TransmutedSpell Nexus V1.3.15","nexusFileVersion":"1.3.15","nexusFileUploadedAt":1788912030,"pakFileName":"TransmutedSpell.pak","nexusFileId":130067,"metaUuid":"3aef6cce-fc3a-583c-beb1-19f52c1435e1"},
-{"nexusFileName":"TransmutedMagic Nexus Extended V1.3.17","nexusFileVersion":"1.3.17","nexusFileUploadedAt":1788924210,"pakFileName":"StarkMeiProbe.pak","nexusFileId":130078,"metaUuid":"237c3b40-47b7-5b29-bf12-a098e35c6aac"},
-{"nexusFileName":"TransmutedMagic Nexus Extended V1.3.17","nexusFileVersion":"1.3.17","nexusFileUploadedAt":1788924210,"pakFileName":"TransmutedMagic.pak","nexusFileId":130078,"metaUuid":"237c3b40-47b7-5b29-bf12-a098e35c6aac"}
+{"nexusFileName":"TransmutedMagic Nexus Extended V1.3.18","nexusFileVersion":"1.3.18","nexusFileUploadedAt":1789166948,"pakFileName":"StarkMeiProbe.pak","nexusFileId":130317,"metaUuid":"237c3b40-47b7-5b29-bf12-a098e35c6aac"},
+{"nexusFileName":"TransmutedMagic Nexus Extended V1.3.18","nexusFileVersion":"1.3.18","nexusFileUploadedAt":1789166948,"pakFileName":"TransmutedMagic.pak","nexusFileId":130317,"metaUuid":"237c3b40-47b7-5b29-bf12-a098e35c6aac"},
+{"nexusFileName":"TransmutedSpell Nexus V1.3.16","nexusFileVersion":"1.3.16","nexusFileUploadedAt":1789166965,"pakFileName":"StarkMeiProbe.pak","nexusFileId":130318,"metaUuid":"237c3b40-47b7-5b29-bf12-a098e35c6aac"},
+{"nexusFileName":"TransmutedSpell Nexus V1.3.16","nexusFileVersion":"1.3.16","nexusFileUploadedAt":1789166965,"pakFileName":"TransmutedSpell.pak","nexusFileId":130318,"metaUuid":"3aef6cce-fc3a-583c-beb1-19f52c1435e1"}
 ]},
 "23850":{"nexusModName":"Shar Origin","nexusUploadedBy":"TheCobaltCactus","nexusModId":23850,"paks":[
 {"nexusFileName":"Shar Origin","nexusFileVersion":"1.0.0.5","nexusFileUploadedAt":1788899021,"pakFileName":"Origin_Shar_New_cfd7d1ab-73b4-bcd5-052f-b0b18d907f48.pak","nexusFileId":130056,"metaUuid":"cfd7d1ab-73b4-bcd5-052f-b0b18d907f48"}
@@ -67126,8 +67126,7 @@
 {"nexusFileName":"Dragonborn Extras Hair Or Beard Slot","nexusFileVersion":"1.0","nexusFileUploadedAt":1788607469,"pakFileName":"dgbextras_hair_44b4648c-e875-6a46-2480-46586039aae0.pak","nexusFileId":129750,"metaUuid":null}
 ]},
 "23973":{"nexusModName":"Force Weapons","nexusUploadedBy":"Tyranno85","nexusModId":23973,"paks":[
-{"nexusFileName":"Force","nexusFileVersion":"V1.5.1","nexusFileUploadedAt":1786314737,"pakFileName":"Force_509053cc-ea81-b575-c221-7a6f54cc331e.pak","nexusFileId":127726,"metaUuid":"509053cc-ea81-b575-c221-7a6f54cc331e"},
-{"nexusFileName":"Force 509053cc Ea81 B575 C221 7a6f54cc331e","nexusFileVersion":"2","nexusFileUploadedAt":1789163158,"pakFileName":"Force_509053cc-ea81-b575-c221-7a6f54cc331e.pak","nexusFileId":130310,"metaUuid":"509053cc-ea81-b575-c221-7a6f54cc331e"}
+{"nexusFileName":"Force 509053cc Ea81 B575 C221 7a6f54cc331e","nexusFileVersion":"V2.0","nexusFileUploadedAt":1789164335,"pakFileName":"Force_509053cc-ea81-b575-c221-7a6f54cc331e.pak","nexusFileId":130314,"metaUuid":"509053cc-ea81-b575-c221-7a6f54cc331e"}
 ]},
 "23974":{"nexusModName":"Echoes in the Sand Poses","nexusUploadedBy":"MadMicky10","nexusModId":23974,"paks":[
 {"nexusFileName":"MadMicky Echos In The Sand Poses","nexusFileVersion":"1","nexusFileUploadedAt":1784585318,"pakFileName":"Echos_in_the_Sand__876823ba-2984-96ef-aee2-3bfc0f833b1f.pak","nexusFileId":126101,"metaUuid":"876823ba-2984-96ef-aee2-3bfc0f833b1f"}
