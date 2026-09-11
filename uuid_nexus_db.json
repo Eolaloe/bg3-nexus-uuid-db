@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-09-11T14:52:15.023190+00:00","total_mods":17591},
+{"_meta":{"last_run":"2026-09-11T15:52:34.704849+00:00","total_mods":17593},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -42458,7 +42458,7 @@
 "15126":{"nexusModName":"Goon's (Gear and) Throwing Overhaul","nexusUploadedBy":"BaldursGoonsack","nexusModId":15126,"paks":[
 {"nexusFileName":"Church of Shar by AzazeL Patch","nexusFileVersion":"1.10.0.0","nexusFileUploadedAt":1768773352,"pakFileName":"Goon's Gear and Throwing Overhaul - Church of Shar by AzazeL Patch.pak","nexusFileId":112547,"metaUuid":"a8b8a084-0b76-4d42-9e5f-c571c54504a3"},
 {"nexusFileName":"Orin the Red by AzazeL Patch","nexusFileVersion":"1.10.0.0","nexusFileUploadedAt":1768773551,"pakFileName":"Goon's Gear and Throwing Overhaul - Orin the Red by AzazeL Patch.pak","nexusFileId":112548,"metaUuid":"e6900546-919a-448b-88f3-03f822c2db92"},
-{"nexusFileName":"Goon's Gear and Throwing Overhaul","nexusFileVersion":"1.12.2.0","nexusFileUploadedAt":1781451628,"pakFileName":"Goon's Gear and Throwing Overhaul.pak","nexusFileId":123562,"metaUuid":"30d3cc83-87a9-4efc-8b32-885c10f82132"}
+{"nexusFileName":"Goon's Gear and Throwing Overhaul","nexusFileVersion":"1.13.0.0","nexusFileUploadedAt":1789138731,"pakFileName":"Goon's Gear and Throwing Overhaul.pak","nexusFileId":130286,"metaUuid":"30d3cc83-87a9-4efc-8b32-885c10f82132"}
 ]},
 "15127":{"nexusModName":"Spawn Astarion - Epilogue Edits Spanish","nexusUploadedBy":"CKaho","nexusModId":15127,"paks":[
 {"nexusFileName":"Spawn Astarion - Epilogue Edits Spanish","nexusFileVersion":"1.0.0.1","nexusFileUploadedAt":1740622139,"pakFileName":"HT_SpawnAstarionEpilogue - Spanish.pak","nexusFileId":86414,"metaUuid":null}
@@ -50124,7 +50124,7 @@
 {"nexusFileName":"RuojoSpellAdjustment_c7c87963-d945-3e98-f641-88860","nexusFileVersion":"1.0.1.2","nexusFileUploadedAt":1788709005,"pakFileName":"RuojoSpellAdjustment_c7c87963-d945-3e98-f641-88860a782dcd.pak","nexusFileId":129881,"metaUuid":"c7c87963-d945-3e98-f641-88860a782dcd"}
 ]},
 "18004":{"nexusModName":"FaerunColors - German Translation","nexusUploadedBy":"verdanndi","nexusModId":18004,"paks":[
-{"nexusFileName":"FaerunColors - German Translation","nexusFileVersion":"1.0.0.1","nexusFileUploadedAt":1763658709,"pakFileName":"Faerûn Colors German.pak","nexusFileId":107816,"metaUuid":null}
+{"nexusFileName":"FaerunColors - German Translation","nexusFileVersion":"1.0.3.0","nexusFileUploadedAt":1789141370,"pakFileName":"Faerûn Colors German.pak","nexusFileId":130289,"metaUuid":null}
 ]},
 "18007":{"nexusModName":"Der Auslander - German Sniper","nexusUploadedBy":"JaegerWasTaken","nexusModId":18007,"paks":[
 {"nexusFileName":"Sniper's Coat","nexusFileVersion":"2","nexusFileUploadedAt":1782962406,"pakFileName":"Auslander_8d3fe171-132a-688c-b832-f01bda5af6f9.pak","nexusFileId":124701,"metaUuid":null}
@@ -69782,6 +69782,9 @@
 "24933":{"nexusModName":"Honour Save Enabler","nexusUploadedBy":"Sai","nexusModId":24933,"paks":[
 {"nexusFileName":"Honour Save Enabler","nexusFileVersion":"1.0","nexusFileUploadedAt":1789081805,"pakFileName":"Honour Save Enabler.pak","nexusFileId":130215,"metaUuid":null}
 ]},
+"24934":{"nexusModName":"Throwable Underwear","nexusUploadedBy":"sarymsak","nexusModId":24934,"paks":[
+{"nexusFileName":"Throwable Underwear","nexusFileVersion":"1.0","nexusFileUploadedAt":1789137330,"pakFileName":"SAR_Throwable-Underwear_a6fd07ad-a83f-ceaf-df36-f47030b1e18c.pak","nexusFileId":130284,"metaUuid":null}
+]},
 "24938":{"nexusModName":"Land Druid Myrmidon Arts","nexusUploadedBy":"qhrals8","nexusModId":24938,"paks":[
 {"nexusFileName":"Land Druid Myrmidon Arts","nexusFileVersion":"2","nexusFileUploadedAt":1789121192,"pakFileName":"Land Druid Myrmidon Arts1.1v.pak","nexusFileId":130267,"metaUuid":null}
 ]},
@@ -69802,4 +69805,7 @@
 ]},
 "24945":{"nexusModName":"Draco's Fantasy Gunslinger_KOR","nexusUploadedBy":"Ahdarugo","nexusModId":24945,"paks":[
 {"nexusFileName":"Draco's Fantasy Gunslinger_KOR","nexusFileVersion":"25","nexusFileUploadedAt":1789136290,"pakFileName":"DracoFantasyGunslinger_KOR_70e2fc1b-9632-9bab-2bbe-6abced4dca2e.pak","nexusFileId":130282,"metaUuid":null}
+]},
+"24948":{"nexusModName":"SummerBeach_TheFirstDescendant_FreynaOasisParty","nexusUploadedBy":"EvilRecluse","nexusModId":24948,"paks":[
+{"nexusFileName":"SummerBeach TheFirstDescendant FreynaOasisParty","nexusFileVersion":"1","nexusFileUploadedAt":1789141020,"pakFileName":"SummerBeach_TheFirstDescendant_FreynaOasisParty.pak","nexusFileId":130288,"metaUuid":null}
 ]}}
