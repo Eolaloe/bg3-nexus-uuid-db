@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-09-11T03:52:19.068840+00:00","total_mods":17583},
+{"_meta":{"last_run":"2026-09-11T04:52:00.170224+00:00","total_mods":17584},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -9070,11 +9070,11 @@
 ]},
 "2786":{"nexusModName":"Mystic Class","nexusUploadedBy":"Xhevo","nexusModId":2786,"paks":[
 {"nexusFileName":"Mystic Double Resources","nexusFileVersion":"1.0.0.1","nexusFileUploadedAt":1726173245,"pakFileName":"MysticDoubleResources_7637d00e-c6a1-7a6e-62f0-a98700c745a2.pak","nexusFileId":70728,"metaUuid":"7637d00e-c6a1-7a6e-62f0-a98700c745a2"},
-{"nexusFileName":"Mystic Class","nexusFileVersion":"4.4.0.1","nexusFileUploadedAt":1788982155,"pakFileName":"MysticClass_93c6116d-631a-cdc4-c0d3-37c568de4b76.pak","nexusFileId":130120,"metaUuid":"93c6116d-631a-cdc4-c0d3-37c568de4b76"},
-{"nexusFileName":"Mystic Expansion","nexusFileVersion":"1.7.0.19","nexusFileUploadedAt":1788982345,"pakFileName":"MysticExpansion_c86cc191-c41e-cfcd-af57-bf1f1e29d76a.pak","nexusFileId":130121,"metaUuid":"c86cc191-c41e-cfcd-af57-bf1f1e29d76a"},
 {"nexusFileName":"Mystic Feat Every Level","nexusFileVersion":"1.1.0.2","nexusFileUploadedAt":1788982549,"pakFileName":"MysticFeatEvery1Level_effd1ad1-2df1-c5af-6fdf-63697e81082f.pak","nexusFileId":130122,"metaUuid":null},
 {"nexusFileName":"Mystic Feat Every 2 Levels","nexusFileVersion":"1.1.0.2","nexusFileUploadedAt":1788982566,"pakFileName":"MysticFeatEvery2Levels_04435390-fb79-b93a-7b57-fe0de938d775.pak","nexusFileId":130123,"metaUuid":"04435390-fb79-b93a-7b57-fe0de938d775"},
-{"nexusFileName":"Double Resources for Mystic Class-CF","nexusFileVersion":"2.5","nexusFileUploadedAt":1788982826,"pakFileName":"MysticDoublePsiPoints.pak","nexusFileId":130124,"metaUuid":"814f4bf4-4f61-4860-bd8e-a10e763cce5a"}
+{"nexusFileName":"Double Resources for Mystic Class-CF","nexusFileVersion":"2.5","nexusFileUploadedAt":1788982826,"pakFileName":"MysticDoublePsiPoints.pak","nexusFileId":130124,"metaUuid":"814f4bf4-4f61-4860-bd8e-a10e763cce5a"},
+{"nexusFileName":"Mystic Class","nexusFileVersion":"4.4.0.2","nexusFileUploadedAt":1789100827,"pakFileName":"MysticClass_93c6116d-631a-cdc4-c0d3-37c568de4b76.pak","nexusFileId":130252,"metaUuid":"93c6116d-631a-cdc4-c0d3-37c568de4b76"},
+{"nexusFileName":"Mystic Expansion","nexusFileVersion":"1.7.0.20","nexusFileUploadedAt":1789100895,"pakFileName":"MysticExpansion_c86cc191-c41e-cfcd-af57-bf1f1e29d76a.pak","nexusFileId":130253,"metaUuid":"c86cc191-c41e-cfcd-af57-bf1f1e29d76a"}
 ]},
 "2790":{"nexusModName":"Better Topbar","nexusUploadedBy":"Caites","nexusModId":2790,"paks":[
 {"nexusFileName":"Better Topbar 16 to 10","nexusFileVersion":"1.2.9","nexusFileUploadedAt":1744745136,"pakFileName":"BetterTopbaronesixten_86777f82-576a-bd65-85af-35dd1fed5362.pak","nexusFileId":88964,"metaUuid":"86777f82-576a-bd65-85af-35dd1fed5362"},
@@ -54173,6 +54173,9 @@
 "19474":{"nexusModName":"Axi and Cay's Meme Poses","nexusUploadedBy":"axianaa","nexusModId":19474,"paks":[
 {"nexusFileName":"Axi and Cay's Meme Poses","nexusFileVersion":"1.0.0.8","nexusFileUploadedAt":1781311197,"pakFileName":"AxiCayMeme_0e29e2a5-40ae-b2d6-1183-ea322dd7f544.pak","nexusFileId":123453,"metaUuid":"0e29e2a5-40ae-b2d6-1183-ea322dd7f544"}
 ]},
+"19476":{"nexusModName":"mermaid corset - BT1","nexusUploadedBy":"clloudiie","nexusModId":19476,"paks":[
+{"nexusFileName":"Mermaid Corset","nexusFileVersion":"2","nexusFileUploadedAt":1789098750,"pakFileName":"CLD_Marid_3b6817e4-b1b1-673d-a114-109380a74b64.pak","nexusFileId":130249,"metaUuid":null}
+]},
 "19477":{"nexusModName":"The Anvil","nexusUploadedBy":"UniqueVessel","nexusModId":19477,"paks":[
 {"nexusFileName":"The Anvil","nexusFileVersion":"1.0.0.33","nexusFileUploadedAt":1763395900,"pakFileName":"TheAnvilKnight_7f40ba68-8e85-c416-91c9-2fae96989d76.pak","nexusFileId":107628,"metaUuid":"7f40ba68-8e85-c416-91c9-2fae96989d76"}
 ]},
@@ -57791,7 +57794,7 @@
 {"nexusFileName":"Ultimate Cut Content Restoration Mod for Korean","nexusFileVersion":"1.8.3.16","nexusFileUploadedAt":1789098565,"pakFileName":"Ultimate Cut Content Restoration Mod_kr.pak","nexusFileId":130247,"metaUuid":"b310481f-242d-43de-9dea-7b0babfd2e3d"}
 ]},
 "20536":{"nexusModName":"Ultimate Cut Content Restoration Mod for Japanese","nexusUploadedBy":"Eolaloe","nexusModId":20536,"paks":[
-{"nexusFileName":"Ultimate Cut Content Restoration Mod for Japanese","nexusFileVersion":"1.7.1.13","nexusFileUploadedAt":1773073092,"pakFileName":"Ultimate Cut Content Restoration Mod_jp.pak","nexusFileId":116383,"metaUuid":null}
+{"nexusFileName":"Ultimate Cut Content Restoration Mod for Japanese","nexusFileVersion":"1.8.3.16","nexusFileUploadedAt":1789098685,"pakFileName":"Ultimate Cut Content Restoration Mod_jp.pak","nexusFileId":130248,"metaUuid":null}
 ]},
 "20537":{"nexusModName":"New Game Plus (NGP) for Korean","nexusUploadedBy":"Eolaloe","nexusModId":20537,"paks":[
 {"nexusFileName":"New Game Plus (NGP) for Korean","nexusFileVersion":"1.06","nexusFileUploadedAt":1785826852,"pakFileName":"NGP_kr.pak","nexusFileId":127279,"metaUuid":"10c0886c-6e7b-4d4a-a6fa-1865ea539d33"}
@@ -61370,7 +61373,7 @@
 {"nexusFileName":"Conjure Elemental Totems","nexusFileVersion":"1.63","nexusFileUploadedAt":1774802516,"pakFileName":"Conjure_Elemental_Totems_e16c29c1-1311-2cd2-fb80-dd0959023f0b.pak","nexusFileId":117724,"metaUuid":"e16c29c1-1311-2cd2-fb80-dd0959023f0b"}
 ]},
 "21772":{"nexusModName":"Volitio's Mod Configuration Menu (MCM) for Korean","nexusUploadedBy":"Eolaloe","nexusModId":21772,"paks":[
-{"nexusFileName":"Mod Configuration Menu (MCM) for Korean","nexusFileVersion":"1.40.1","nexusFileUploadedAt":1772884738,"pakFileName":"Mod Configuration Menu_kr.pak","nexusFileId":116256,"metaUuid":null}
+{"nexusFileName":"Mod Configuration Menu (MCM) for Korean","nexusFileVersion":"1.41.0","nexusFileUploadedAt":1789098792,"pakFileName":"Mod Configuration Menu_kr.pak","nexusFileId":130250,"metaUuid":null}
 ]},
 "21773":{"nexusModName":"Way of the Jungle - Monk Subclass_KOR","nexusUploadedBy":"Ahdarugo","nexusModId":21773,"paks":[
 {"nexusFileName":"Way of the Jungle - Monk Subclass_KOR","nexusFileVersion":"1.0","nexusFileUploadedAt":1772886833,"pakFileName":"WayOfTheJungle_KOR_ab791096-53b6-dbbd-23cd-792ad9677c05.pak","nexusFileId":116257,"metaUuid":null}
@@ -66430,7 +66433,7 @@
 {"nexusFileName":"Zi'ra Head Hair","nexusFileVersion":"1","nexusFileUploadedAt":1783265148,"pakFileName":"ZiraHeadHair.pak","nexusFileId":124957,"metaUuid":"2c5269d5-ea5a-464e-8188-bfa3dbc0e19e"}
 ]},
 "23725":{"nexusModName":"True Consequences (Anti savescum)","nexusUploadedBy":"Volitio","nexusModId":23725,"paks":[
-{"nexusFileName":"True Consequences (Anti Savescum) 1.0.0","nexusFileVersion":"2.0.0","nexusFileUploadedAt":1786304926,"pakFileName":"True Consequences (Anti-Savescum).pak","nexusFileId":127719,"metaUuid":"27b34069-dadb-4e4f-8dc1-71e0421c98de"}
+{"nexusFileName":"True Consequences (Anti Savescum)","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1789099115,"pakFileName":"True Consequences (Anti-Savescum).pak","nexusFileId":130251,"metaUuid":"27b34069-dadb-4e4f-8dc1-71e0421c98de"}
 ]},
 "23726":{"nexusModName":"Aylin and Isobel Join the Party PTBR","nexusUploadedBy":"INinu","nexusModId":23726,"paks":[
 {"nexusFileName":"Aylin and Isobel Join the Party PTBR","nexusFileVersion":"1.0.1.5","nexusFileUploadedAt":1783275130,"pakFileName":"ww_aylinisobeljoinparty_ptbr_713f3afb-1fb8-dbda-b4b4-7ab2c431ce04.pak","nexusFileId":124965,"metaUuid":null}
