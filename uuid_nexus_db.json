@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-09-11T20:52:50.165270+00:00","total_mods":17596},
+{"_meta":{"last_run":"2026-09-11T21:51:56.668305+00:00","total_mods":17599},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -67126,7 +67126,8 @@
 {"nexusFileName":"Dragonborn Extras Hair Or Beard Slot","nexusFileVersion":"1.0","nexusFileUploadedAt":1788607469,"pakFileName":"dgbextras_hair_44b4648c-e875-6a46-2480-46586039aae0.pak","nexusFileId":129750,"metaUuid":null}
 ]},
 "23973":{"nexusModName":"Force Weapons","nexusUploadedBy":"Tyranno85","nexusModId":23973,"paks":[
-{"nexusFileName":"Force","nexusFileVersion":"V1.5.1","nexusFileUploadedAt":1786314737,"pakFileName":"Force_509053cc-ea81-b575-c221-7a6f54cc331e.pak","nexusFileId":127726,"metaUuid":"509053cc-ea81-b575-c221-7a6f54cc331e"}
+{"nexusFileName":"Force","nexusFileVersion":"V1.5.1","nexusFileUploadedAt":1786314737,"pakFileName":"Force_509053cc-ea81-b575-c221-7a6f54cc331e.pak","nexusFileId":127726,"metaUuid":"509053cc-ea81-b575-c221-7a6f54cc331e"},
+{"nexusFileName":"Force 509053cc Ea81 B575 C221 7a6f54cc331e","nexusFileVersion":"2","nexusFileUploadedAt":1789163158,"pakFileName":"Force_509053cc-ea81-b575-c221-7a6f54cc331e.pak","nexusFileId":130310,"metaUuid":"509053cc-ea81-b575-c221-7a6f54cc331e"}
 ]},
 "23974":{"nexusModName":"Echoes in the Sand Poses","nexusUploadedBy":"MadMicky10","nexusModId":23974,"paks":[
 {"nexusFileName":"MadMicky Echos In The Sand Poses","nexusFileVersion":"1","nexusFileUploadedAt":1784585318,"pakFileName":"Echos_in_the_Sand__876823ba-2984-96ef-aee2-3bfc0f833b1f.pak","nexusFileId":126101,"metaUuid":"876823ba-2984-96ef-aee2-3bfc0f833b1f"}
@@ -69804,10 +69805,13 @@
 {"nexusFileName":"Draco's Fantasy Gunslinger_KOR","nexusFileVersion":"25","nexusFileUploadedAt":1789136290,"pakFileName":"DracoFantasyGunslinger_KOR_70e2fc1b-9632-9bab-2bbe-6abced4dca2e.pak","nexusFileId":130282,"metaUuid":null}
 ]},
 "24947":{"nexusModName":"Abdel-be-Gone","nexusUploadedBy":"Deathstruck","nexusModId":24947,"paks":[
-{"nexusFileName":"Abdel Be Gone","nexusFileVersion":"1","nexusFileUploadedAt":1789152116,"pakFileName":"AbdelBeGone.pak","nexusFileId":130295,"metaUuid":null}
+{"nexusFileName":"Abdel Be Gone - Fixed","nexusFileVersion":"1.1.","nexusFileUploadedAt":1789163345,"pakFileName":"AbdelBeGone.pak","nexusFileId":130311,"metaUuid":null}
 ]},
 "24948":{"nexusModName":"SummerBeach_TheFirstDescendant_FreynaOasisParty","nexusUploadedBy":"EvilRecluse","nexusModId":24948,"paks":[
 {"nexusFileName":"SummerBeach TheFirstDescendant FreynaOasisParty","nexusFileVersion":"1","nexusFileUploadedAt":1789141020,"pakFileName":"SummerBeach_TheFirstDescendant_FreynaOasisParty.pak","nexusFileId":130288,"metaUuid":"3587f614-f90f-47b3-821e-534a8abeb6c8"}
+]},
+"24949":{"nexusModName":"Simple Wheat Field Map","nexusUploadedBy":"Dajniela","nexusModId":24949,"paks":[
+{"nexusFileName":"Wheat Field Map","nexusFileVersion":"1","nexusFileUploadedAt":1789161231,"pakFileName":"Wheat_Field_f7810595-a4ef-7074-ce88-9f9942019155.pak","nexusFileId":130307,"metaUuid":null}
 ]},
 "24950":{"nexusModName":"Krynnspace - Deities and Passives","nexusUploadedBy":"Thorvin01","nexusModId":24950,"paks":[
 {"nexusFileName":"Krynnspace - Deities And Passives - Main File","nexusFileVersion":"1.0.2.6","nexusFileUploadedAt":1789155048,"pakFileName":"KrynnspaceDeitiesAndPassives_656c71ee-e7a1-a922-a701-5bacf3da3f86.pak","nexusFileId":130296,"metaUuid":null},
@@ -69817,6 +69821,12 @@
 "24951":{"nexusModName":"Krynnspace - Core Library","nexusUploadedBy":"Thorvin01","nexusModId":24951,"paks":[
 {"nexusFileName":"KrynnspaceCoreLibrary V1.0.0.12","nexusFileVersion":"1.0.0.12","nexusFileUploadedAt":1789155756,"pakFileName":"KrynnspaceCoreLibrary_d1b9e7a3-3e13-4a52-2369-fa81c6737b86.pak","nexusFileId":130301,"metaUuid":null}
 ]},
+"24952":{"nexusModName":"Obelia is triggered","nexusUploadedBy":"Jek1466","nexusModId":24952,"paks":[
+{"nexusFileName":"Obelia Is Triggered","nexusFileVersion":"1","nexusFileUploadedAt":1789161586,"pakFileName":"Obelia is triggered.pak","nexusFileId":130308,"metaUuid":null}
+]},
 "24953":{"nexusModName":"Krynnspace - Deity Weapons and Relics of Krynn","nexusUploadedBy":"Thorvin01","nexusModId":24953,"paks":[
 {"nexusFileName":"Krynnspace - Deity Weapons and Relics of Krynn","nexusFileVersion":"1.0.2.80","nexusFileUploadedAt":1789157556,"pakFileName":"KrynnspaceNamedWeapons_8ead49b0-4ed2-a08b-0b88-fd3ea58559a3.pak","nexusFileId":130303,"metaUuid":null}
+]},
+"24955":{"nexusModName":"Combat Stance Toggler","nexusUploadedBy":"Rattatatoskr","nexusModId":24955,"paks":[
+{"nexusFileName":"CombatStanceToggle Party V6","nexusFileVersion":"1","nexusFileUploadedAt":1789162084,"pakFileName":"CombatStanceToggle_Party_v6_Source.pak","nexusFileId":130309,"metaUuid":null}
 ]}}
