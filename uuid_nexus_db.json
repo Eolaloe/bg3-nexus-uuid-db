@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-09-11T13:52:28.117317+00:00","total_mods":17588},
+{"_meta":{"last_run":"2026-09-11T14:52:15.023190+00:00","total_mods":17591},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -69637,7 +69637,7 @@
 {"nexusFileName":"HasteRework","nexusFileVersion":"1","nexusFileUploadedAt":1788789468,"pakFileName":"HasteRework.pak","nexusFileId":129967,"metaUuid":null}
 ]},
 "24871":{"nexusModName":"Enhanced Succubus Gameplay","nexusUploadedBy":"mmcgeach","nexusModId":24871,"paks":[
-{"nexusFileName":"ESGSuccubusClass","nexusFileVersion":"3","nexusFileUploadedAt":1789036402,"pakFileName":"ESGSuccubusClass.pak","nexusFileId":130163,"metaUuid":null}
+{"nexusFileName":"ESGSuccubusClass","nexusFileVersion":"4","nexusFileUploadedAt":1789136342,"pakFileName":"ESGSuccubusClass.pak","nexusFileId":130283,"metaUuid":null}
 ]},
 "24872":{"nexusModName":"Moon's Vera Head","nexusUploadedBy":"AdrasteaMoon","nexusModId":24872,"paks":[
 {"nexusFileName":"Main File","nexusFileVersion":"1","nexusFileUploadedAt":1788909692,"pakFileName":"Vera.pak","nexusFileId":130066,"metaUuid":null}
@@ -69793,4 +69793,13 @@
 ]},
 "24942":{"nexusModName":"Absolute Wrath for Korean","nexusUploadedBy":"Eolaloe","nexusModId":24942,"paks":[
 {"nexusFileName":"Absolute Wrath for Korean","nexusFileVersion":"3.1.1","nexusFileUploadedAt":1789125687,"pakFileName":"AbsoluteWrath_kr.pak","nexusFileId":130271,"metaUuid":null}
+]},
+"24943":{"nexusModName":"Companion Reserve","nexusUploadedBy":"Wallyrage","nexusModId":24943,"paks":[
+{"nexusFileName":"CompanionReserveEN","nexusFileVersion":"1.0.3","nexusFileUploadedAt":1789135404,"pakFileName":"CompanionReserve-1.0.3-English.pak","nexusFileId":130280,"metaUuid":null}
+]},
+"24944":{"nexusModName":"Companion Reserve - PTBR","nexusUploadedBy":"Wallyrage","nexusModId":24944,"paks":[
+{"nexusFileName":"CompanionReserveBR","nexusFileVersion":"1.0.3","nexusFileUploadedAt":1789136202,"pakFileName":"CompanionReserve-1.0.3.pak","nexusFileId":130281,"metaUuid":null}
+]},
+"24945":{"nexusModName":"Draco's Fantasy Gunslinger_KOR","nexusUploadedBy":"Ahdarugo","nexusModId":24945,"paks":[
+{"nexusFileName":"Draco's Fantasy Gunslinger_KOR","nexusFileVersion":"25","nexusFileUploadedAt":1789136290,"pakFileName":"DracoFantasyGunslinger_KOR_70e2fc1b-9632-9bab-2bbe-6abced4dca2e.pak","nexusFileId":130282,"metaUuid":null}
 ]}}
