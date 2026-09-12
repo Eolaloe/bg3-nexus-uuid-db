@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-09-12T14:51:35.539904+00:00","total_mods":17606},
+{"_meta":{"last_run":"2026-09-12T15:52:02.990379+00:00","total_mods":17608},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -47198,9 +47198,7 @@
 {"nexusFileName":"Disable Critical Fails (Combined)","nexusFileVersion":"1.2.0.1","nexusFileUploadedAt":1749065199,"pakFileName":"Disable Critical Fail Combined.pak","nexusFileId":95070,"metaUuid":null}
 ]},
 "16985":{"nexusModName":"Jerinski's BT1 - BT3 Heads","nexusUploadedBy":"jerinski","nexusModId":16985,"paks":[
-{"nexusFileName":"BT1 - BT3 Heads","nexusFileVersion":"1.0.3.31","nexusFileUploadedAt":1758041826,"pakFileName":"jerinski_bt1_heads_835d0854-2998-616e-255c-840387a67d86.pak","nexusFileId":102944,"metaUuid":"835d0854-2998-616e-255c-840387a67d86"},
-{"nexusFileName":"Patch for Eyes of the Beholder","nexusFileVersion":"1.0.3.31","nexusFileUploadedAt":1758041864,"pakFileName":"jerinski_fem-heads-EOTB-patch.pak","nexusFileId":102945,"metaUuid":"cba3c55b-a0d5-42f6-b0e6-9588655bf994"},
-{"nexusFileName":"Patch for Kazstra Virtual Tav - Unique Tav","nexusFileVersion":"1.0.3.31","nexusFileUploadedAt":1758041894,"pakFileName":"jerinski_fem-heads-UT-patch.pak","nexusFileId":102946,"metaUuid":"181522ee-6f03-2621-0d88-75272ed5c0d8"}
+{"nexusFileName":"BT1 - BT3 Heads","nexusFileVersion":"1.0.4.39","nexusFileUploadedAt":1789226941,"pakFileName":"jerinski_bt1_heads_835d0854-2998-616e-255c-840387a67d86.pak","nexusFileId":130360,"metaUuid":"835d0854-2998-616e-255c-840387a67d86"}
 ]},
 "16986":{"nexusModName":"Serious Halfling Ladies","nexusUploadedBy":"SashRG","nexusModId":16986,"paks":[
 {"nexusFileName":"Serious Halfling Ladies","nexusFileVersion":"1.1","nexusFileUploadedAt":1749131513,"pakFileName":"Serious Halfling Ladies.pak","nexusFileId":95118,"metaUuid":"632f9bef-6ffa-451d-9227-76273c8960e4"}
@@ -66100,18 +66098,20 @@
 {"nexusFileName":"Still Motion","nexusFileVersion":"3","nexusFileUploadedAt":1783893160,"pakFileName":"PP_StillMotion_258a8b5d-e538-277c-0f7a-f67c29828ab3.pak","nexusFileId":125502,"metaUuid":"6170b196-a292-fd5c-30fc-038f9de3ac70"},
 {"nexusFileName":"Eternal","nexusFileVersion":"3","nexusFileUploadedAt":1783966165,"pakFileName":"PP_Eternal_24f742cc-908f-86ad-aef1-e46833c25d11.pak","nexusFileId":125564,"metaUuid":"6170b196-a292-fd5c-30fc-038f9de3ac70"},
 {"nexusFileName":"Silhouettes by Goblin","nexusFileVersion":"3","nexusFileUploadedAt":1785869345,"pakFileName":"PP_Silhouettes_63d63dd5-f55f-13d7-d754-f2af16472a95.pak","nexusFileId":127323,"metaUuid":"6170b196-a292-fd5c-30fc-038f9de3ac70"},
-{"nexusFileName":"All-In-One Download","nexusFileVersion":"6","nexusFileUploadedAt":1789126259,"pakFileName":"PP_AsLongAsYoureMine_23eb52ad-d0c5-875b-60bb-53b65bf76d26.pak","nexusFileId":130272,"metaUuid":"6170b196-a292-fd5c-30fc-038f9de3ac70"},
-{"nexusFileName":"All-In-One Download","nexusFileVersion":"6","nexusFileUploadedAt":1789126259,"pakFileName":"PP_ChildBhaal_6170b196-a292-fd5c-30fc-038f9de3ac70.pak","nexusFileId":130272,"metaUuid":"6170b196-a292-fd5c-30fc-038f9de3ac70"},
-{"nexusFileName":"All-In-One Download","nexusFileVersion":"6","nexusFileUploadedAt":1789126259,"pakFileName":"PP_Eternal_24f742cc-908f-86ad-aef1-e46833c25d11.pak","nexusFileId":130272,"metaUuid":"6170b196-a292-fd5c-30fc-038f9de3ac70"},
-{"nexusFileName":"All-In-One Download","nexusFileVersion":"6","nexusFileUploadedAt":1789126259,"pakFileName":"PP_Faces_27b8c7a5-eba8-d3c8-4a30-d891e32a4792.pak","nexusFileId":130272,"metaUuid":"6170b196-a292-fd5c-30fc-038f9de3ac70"},
-{"nexusFileName":"All-In-One Download","nexusFileVersion":"6","nexusFileUploadedAt":1789126259,"pakFileName":"PP_Hush_f222a5a7-bf00-f3cb-1b85-6281c5b45f33.pak","nexusFileId":130272,"metaUuid":"6170b196-a292-fd5c-30fc-038f9de3ac70"},
-{"nexusFileName":"All-In-One Download","nexusFileVersion":"6","nexusFileUploadedAt":1789126259,"pakFileName":"PP_LongRest_b24a6276-1f60-a362-6e5a-bbf89184bd76.pak","nexusFileId":130272,"metaUuid":"6170b196-a292-fd5c-30fc-038f9de3ac70"},
-{"nexusFileName":"All-In-One Download","nexusFileVersion":"6","nexusFileUploadedAt":1789126259,"pakFileName":"PP_Midsommar_0a8e9c2a-2f51-68e3-f6bf-d3b89368134f.pak","nexusFileId":130272,"metaUuid":"6170b196-a292-fd5c-30fc-038f9de3ac70"},
-{"nexusFileName":"All-In-One Download","nexusFileVersion":"6","nexusFileUploadedAt":1789126259,"pakFileName":"PP_QuietMoment_636cb6aa-0fb7-1937-47f8-c84b6a058e41.pak","nexusFileId":130272,"metaUuid":"6170b196-a292-fd5c-30fc-038f9de3ac70"},
-{"nexusFileName":"All-In-One Download","nexusFileVersion":"6","nexusFileUploadedAt":1789126259,"pakFileName":"PP_Silhouettes_63d63dd5-f55f-13d7-d754-f2af16472a95.pak","nexusFileId":130272,"metaUuid":"6170b196-a292-fd5c-30fc-038f9de3ac70"},
-{"nexusFileName":"All-In-One Download","nexusFileVersion":"6","nexusFileUploadedAt":1789126259,"pakFileName":"PP_StillMotion_258a8b5d-e538-277c-0f7a-f67c29828ab3.pak","nexusFileId":130272,"metaUuid":"6170b196-a292-fd5c-30fc-038f9de3ac70"},
 {"nexusFileName":"Midsommar","nexusFileVersion":"1","nexusFileUploadedAt":1789126274,"pakFileName":"PP_Midsommar_0a8e9c2a-2f51-68e3-f6bf-d3b89368134f.pak","nexusFileId":130273,"metaUuid":"6170b196-a292-fd5c-30fc-038f9de3ac70"},
-{"nexusFileName":"As Long As You're Mine","nexusFileVersion":"1","nexusFileUploadedAt":1789126297,"pakFileName":"PP_AsLongAsYoureMine_23eb52ad-d0c5-875b-60bb-53b65bf76d26.pak","nexusFileId":130274,"metaUuid":"6170b196-a292-fd5c-30fc-038f9de3ac70"}
+{"nexusFileName":"As Long As You're Mine","nexusFileVersion":"1","nexusFileUploadedAt":1789126297,"pakFileName":"PP_AsLongAsYoureMine_23eb52ad-d0c5-875b-60bb-53b65bf76d26.pak","nexusFileId":130274,"metaUuid":"6170b196-a292-fd5c-30fc-038f9de3ac70"},
+{"nexusFileName":"All-In-One Download","nexusFileVersion":"7","nexusFileUploadedAt":1789226402,"pakFileName":"DeathIsYourGift_402474a9-74d4-990b-be7f-23e0749d6962.pak","nexusFileId":130358,"metaUuid":null},
+{"nexusFileName":"All-In-One Download","nexusFileVersion":"7","nexusFileUploadedAt":1789226402,"pakFileName":"PP_AsLongAsYoureMine_23eb52ad-d0c5-875b-60bb-53b65bf76d26.pak","nexusFileId":130358,"metaUuid":"6170b196-a292-fd5c-30fc-038f9de3ac70"},
+{"nexusFileName":"All-In-One Download","nexusFileVersion":"7","nexusFileUploadedAt":1789226402,"pakFileName":"PP_ChildBhaal_6170b196-a292-fd5c-30fc-038f9de3ac70.pak","nexusFileId":130358,"metaUuid":"6170b196-a292-fd5c-30fc-038f9de3ac70"},
+{"nexusFileName":"All-In-One Download","nexusFileVersion":"7","nexusFileUploadedAt":1789226402,"pakFileName":"PP_Eternal_24f742cc-908f-86ad-aef1-e46833c25d11.pak","nexusFileId":130358,"metaUuid":"6170b196-a292-fd5c-30fc-038f9de3ac70"},
+{"nexusFileName":"All-In-One Download","nexusFileVersion":"7","nexusFileUploadedAt":1789226402,"pakFileName":"PP_Faces_27b8c7a5-eba8-d3c8-4a30-d891e32a4792.pak","nexusFileId":130358,"metaUuid":"6170b196-a292-fd5c-30fc-038f9de3ac70"},
+{"nexusFileName":"All-In-One Download","nexusFileVersion":"7","nexusFileUploadedAt":1789226402,"pakFileName":"PP_Hush_f222a5a7-bf00-f3cb-1b85-6281c5b45f33.pak","nexusFileId":130358,"metaUuid":"6170b196-a292-fd5c-30fc-038f9de3ac70"},
+{"nexusFileName":"All-In-One Download","nexusFileVersion":"7","nexusFileUploadedAt":1789226402,"pakFileName":"PP_LongRest_b24a6276-1f60-a362-6e5a-bbf89184bd76.pak","nexusFileId":130358,"metaUuid":"6170b196-a292-fd5c-30fc-038f9de3ac70"},
+{"nexusFileName":"All-In-One Download","nexusFileVersion":"7","nexusFileUploadedAt":1789226402,"pakFileName":"PP_Midsommar_0a8e9c2a-2f51-68e3-f6bf-d3b89368134f.pak","nexusFileId":130358,"metaUuid":"6170b196-a292-fd5c-30fc-038f9de3ac70"},
+{"nexusFileName":"All-In-One Download","nexusFileVersion":"7","nexusFileUploadedAt":1789226402,"pakFileName":"PP_QuietMoment_636cb6aa-0fb7-1937-47f8-c84b6a058e41.pak","nexusFileId":130358,"metaUuid":"6170b196-a292-fd5c-30fc-038f9de3ac70"},
+{"nexusFileName":"All-In-One Download","nexusFileVersion":"7","nexusFileUploadedAt":1789226402,"pakFileName":"PP_Silhouettes_63d63dd5-f55f-13d7-d754-f2af16472a95.pak","nexusFileId":130358,"metaUuid":"6170b196-a292-fd5c-30fc-038f9de3ac70"},
+{"nexusFileName":"All-In-One Download","nexusFileVersion":"7","nexusFileUploadedAt":1789226402,"pakFileName":"PP_StillMotion_258a8b5d-e538-277c-0f7a-f67c29828ab3.pak","nexusFileId":130358,"metaUuid":"6170b196-a292-fd5c-30fc-038f9de3ac70"},
+{"nexusFileName":"All-In-One Download","nexusFileVersion":"7","nexusFileUploadedAt":1789226402,"pakFileName":"Volos_Guide_to_Couple_Poses_b7ba0edd-0375-fd37-6061-871c6b89a00f.pak","nexusFileId":130358,"metaUuid":null}
 ]},
 "23593":{"nexusModName":"Grasping Vine PHB2024","nexusUploadedBy":"chizfreak","nexusModId":23593,"paks":[
 {"nexusFileName":"Grasping Vine PHB2024","nexusFileVersion":"2.3.1","nexusFileUploadedAt":1782847504,"pakFileName":"GraspingVinePHB2024_e487afef-2b10-2edb-fb14-87053412c73f.pak","nexusFileId":124609,"metaUuid":"e487afef-2b10-2edb-fb14-87053412c73f"}
@@ -69154,7 +69154,7 @@
 {"nexusFileName":"Catkin_Specialist V1.0.2","nexusFileVersion":"1.0.2","nexusFileUploadedAt":1788141550,"pakFileName":"CatkinSpecialist_8112703d-ba2c-e46b-7c4c-5760f8e58aa4.pak","nexusFileId":129399,"metaUuid":"8112703d-ba2c-e46b-7c4c-5760f8e58aa4"}
 ]},
 "24667":{"nexusModName":"Permanent Buffs","nexusUploadedBy":"Sai","nexusModId":24667,"paks":[
-{"nexusFileName":"Permanent Buffs","nexusFileVersion":"1.7","nexusFileUploadedAt":1789204263,"pakFileName":"Permanent Buffs.pak","nexusFileId":130340,"metaUuid":"9fed344c-fe38-4982-9613-9f7b5df3e119"}
+{"nexusFileName":"Permanent Buffs","nexusFileVersion":"1.8","nexusFileUploadedAt":1789225197,"pakFileName":"Permanent Buffs.pak","nexusFileId":130355,"metaUuid":"9fed344c-fe38-4982-9613-9f7b5df3e119"}
 ]},
 "24669":{"nexusModName":"Clawstep Mod Refits","nexusUploadedBy":"tealrabbit19","nexusModId":24669,"paks":[
 {"nexusFileName":"CBR Battlemage Clawstep","nexusFileVersion":"1","nexusFileUploadedAt":1787948145,"pakFileName":"CBR_Battlemage_Clawstep.pak","nexusFileId":129218,"metaUuid":"5372a417-4b58-4997-b663-a95d49ac9a5f"},
@@ -69780,7 +69780,7 @@
 {"nexusFileName":"Land Druid Myrmidon Arts","nexusFileVersion":"2","nexusFileUploadedAt":1789121192,"pakFileName":"Land Druid Myrmidon Arts1.1v.pak","nexusFileId":130267,"metaUuid":null}
 ]},
 "24939":{"nexusModName":"Tamer Class (Based on Pokemon and Witcher)","nexusUploadedBy":"somd3v","nexusModId":24939,"paks":[
-{"nexusFileName":"Tamer Class","nexusFileVersion":"1.0.0-beta","nexusFileUploadedAt":1789183235,"pakFileName":"Tamer_879f63cc-b071-5068-851f-7af1900707f9.pak","nexusFileId":130323,"metaUuid":null}
+{"nexusFileName":"Tamer Class","nexusFileVersion":"1.0.0-beta","nexusFileUploadedAt":1789226937,"pakFileName":"Tamer_879f63cc-b071-5068-851f-7af1900707f9.pak","nexusFileId":130359,"metaUuid":null}
 ]},
 "24940":{"nexusModName":"camp buff status ring ringofdapmeup","nexusUploadedBy":"PielordMiniman","nexusModId":24940,"paks":[
 {"nexusFileName":"Plringofdapmeup","nexusFileVersion":"1","nexusFileUploadedAt":1789117048,"pakFileName":"plringofdapmeup_74cc8918-68de-207a-d141-d6f67ad798f7.pak","nexusFileId":130261,"metaUuid":null}
@@ -69848,4 +69848,11 @@
 ]},
 "24963":{"nexusModName":"Sleep (2024)","nexusUploadedBy":"wesslen","nexusModId":24963,"paks":[
 {"nexusFileName":"Sleep (2024)","nexusFileVersion":"1.0","nexusFileUploadedAt":1789222258,"pakFileName":"DSleep.pak","nexusFileId":130353,"metaUuid":null}
+]},
+"24964":{"nexusModName":"Rose Rhythm Outfits","nexusUploadedBy":"ObsessedWhyYes","nexusModId":24964,"paks":[
+{"nexusFileName":"OWY Rose Rhythm Ensemble","nexusFileVersion":"1","nexusFileUploadedAt":1789227476,"pakFileName":"OWYDoesOutfits_RoseRhythm_c169a14b-9969-ff6c-ac13-9edd8c3aaf96.pak","nexusFileId":130362,"metaUuid":null},
+{"nexusFileName":"OWY and Meep Rose Rhythm Dress","nexusFileVersion":"1","nexusFileUploadedAt":1789227590,"pakFileName":"OWY_MEEP_RoseRhythmDress_acbffea9-eb97-77c0-0300-6b79fe43af5d.pak","nexusFileId":130363,"metaUuid":null}
+]},
+"24965":{"nexusModName":"Pact and Power - Warlock Equipment - Russian Translation 1.0.0.13","nexusUploadedBy":"SNKmod777","nexusModId":24965,"paks":[
+{"nexusFileName":"PP Warlock Equipment RU","nexusFileVersion":"1.0.0.2","nexusFileUploadedAt":1789225389,"pakFileName":"PP_Warlock_Equipment_RU.pak","nexusFileId":130356,"metaUuid":null}
 ]}}
