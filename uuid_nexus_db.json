@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-09-12T19:52:24.277793+00:00","total_mods":17610},
+{"_meta":{"last_run":"2026-09-12T20:52:10.603389+00:00","total_mods":17611},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -26557,7 +26557,7 @@
 {"nexusFileName":"Addon - Randomized Loot","nexusFileVersion":"2.0.0","nexusFileUploadedAt":1777412085,"pakFileName":"HomeBrew - Comprehensive Reworks (Addon - Randomized Loot).pak","nexusFileId":120106,"metaUuid":"74a00bb6-b29e-497d-8410-2307ceb876fe"},
 {"nexusFileName":"Misc - Modded Subclasses","nexusFileVersion":"8.3.1","nexusFileUploadedAt":1777412098,"pakFileName":"HomeBrew - Comprehensive Reworks (Misc - Modded Subclasses).pak","nexusFileId":120107,"metaUuid":"cf1fd434-de12-40ed-9bb0-4a5a3de48973"},
 {"nexusFileName":"Easier Difficulty - Mythic Difficulty Reduced","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1783594414,"pakFileName":"Home Brew - Comprehensive Reworks (Easier Difficulty - Mythic Difficulty Reduced).pak","nexusFileId":125264,"metaUuid":"135c0255-9690-4377-957d-2b40187f74a2"},
-{"nexusFileName":"HomeBrew   Comprehensive Reworks","nexusFileVersion":"9.1.9","nexusFileUploadedAt":1788994621,"pakFileName":"HomeBrew - Comprehensive Reworks.pak","nexusFileId":130130,"metaUuid":"486d1526-3505-4b09-9790-0f6a60f5ac0f"}
+{"nexusFileName":"HomeBrew   Comprehensive Reworks","nexusFileVersion":"9.2.0","nexusFileUploadedAt":1789245164,"pakFileName":"HomeBrew - Comprehensive Reworks.pak","nexusFileId":130397,"metaUuid":"486d1526-3505-4b09-9790-0f6a60f5ac0f"}
 ]},
 "9053":{"nexusModName":"Planetouched - Homebrew Race","nexusUploadedBy":"0Lyra","nexusModId":9053,"paks":[
 {"nexusFileName":"Planetouched - Main","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1715369676,"pakFileName":"Planetouched_Race.pak","nexusFileId":56628,"metaUuid":"fc59491b-4bc3-4822-8597-7ed1b84064c5"},
@@ -69273,10 +69273,10 @@
 {"nexusFileName":"CHAR's Dyeable Bhaalist Daggers","nexusFileVersion":"1","nexusFileUploadedAt":1788139521,"pakFileName":"CHAR_DyeableBhaalistDaggers_5b5d4845-c3bc-38c5-7e40-a974ed2e273c.pak","nexusFileId":129396,"metaUuid":"5b5d4845-c3bc-38c5-7e40-a974ed2e273c"}
 ]},
 "24716":{"nexusModName":"Genital Selection Menu","nexusUploadedBy":"VinTheMan","nexusModId":24716,"paks":[
-{"nexusFileName":"Genital Icon Photobooth","nexusFileVersion":"1.0","nexusFileUploadedAt":1788144046,"pakFileName":"GenitalIconPhotobooth_6b354df6-2fa3-6f52-2e9d-67da5a9e4dce.pak","nexusFileId":129402,"metaUuid":null},
 {"nexusFileName":"Genital Selection Menu","nexusFileVersion":"1.0.1.4","nexusFileUploadedAt":1788896431,"pakFileName":"GenitalSelectionMenu_ac2b94ba-1f18-4667-d9a5-5d3d88810f70.pak","nexusFileId":130046,"metaUuid":"ac2b94ba-1f18-4667-d9a5-5d3d88810f70"},
 {"nexusFileName":"GenitalSelectionMenu With KaiLimeUI","nexusFileVersion":"1.0.1.4","nexusFileUploadedAt":1788975306,"pakFileName":"GenitalSelectionMenu_With_KaiLimeUI.pak","nexusFileId":130118,"metaUuid":"f8d4326f-99cb-4883-a327-cbf971fce6ad"},
-{"nexusFileName":"HybridUI With GenitalselectionMenu","nexusFileVersion":"1.0.1.4","nexusFileUploadedAt":1789068463,"pakFileName":"HybridUI_with_GenitalSelectionMenu_09160ae2-b55a-9c6e-b992-be88ea543708.pak","nexusFileId":130200,"metaUuid":null}
+{"nexusFileName":"HybridUI With GenitalselectionMenu","nexusFileVersion":"1.0.1.4","nexusFileUploadedAt":1789068463,"pakFileName":"HybridUI_with_GenitalSelectionMenu_09160ae2-b55a-9c6e-b992-be88ea543708.pak","nexusFileId":130200,"metaUuid":null},
+{"nexusFileName":"Genital Icon Photobooth","nexusFileVersion":"1.1","nexusFileUploadedAt":1789245572,"pakFileName":"GenitalIconPhotobooth_6b354df6-2fa3-6f52-2e9d-67da5a9e4dce.pak","nexusFileId":130398,"metaUuid":null}
 ]},
 "24718":{"nexusModName":"Mizora Joins the Party (Russian Localization)","nexusUploadedBy":"ganeuken","nexusModId":24718,"paks":[
 {"nexusFileName":"Mizora Joins The Party (Russian Localization)","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1788154790,"pakFileName":"MizoraJoinsTheParty_RU.pak","nexusFileId":129415,"metaUuid":null}
@@ -69518,7 +69518,8 @@
 {"nexusFileName":"Official ECU Collection Poses","nexusFileVersion":"1","nexusFileUploadedAt":1788608361,"pakFileName":"Official_ECU_Collection_c2506431-62ab-b2cb-70ce-58d5c5846d27.pak","nexusFileId":129751,"metaUuid":null}
 ]},
 "24825":{"nexusModName":"Sharess' Cuckfighter - Fighter Subclass","nexusUploadedBy":"mashnear","nexusModId":24825,"paks":[
-{"nexusFileName":"CbattleM V1AS","nexusFileVersion":"1","nexusFileUploadedAt":1788610990,"pakFileName":"CbattleM_V1AS_SharessCuckfighter_DART_AmiraCustomDialogueFix.pak","nexusFileId":129756,"metaUuid":null}
+{"nexusFileName":"CbattleM V1AS","nexusFileVersion":"1","nexusFileUploadedAt":1788610990,"pakFileName":"CbattleM_V1AS_SharessCuckfighter_DART_AmiraCustomDialogueFix.pak","nexusFileId":129756,"metaUuid":null},
+{"nexusFileName":"CBattle Enhanced Undressed SCF V1BG 2.0 ","nexusFileVersion":"2.0","nexusFileUploadedAt":1789243819,"pakFileName":"CbattleM_V1BG_TEST_SharessUndress_SharedPulse_LegacyDetachSafety.pak","nexusFileId":130395,"metaUuid":null}
 ]},
 "24826":{"nexusModName":"Dwayne Johnson head","nexusUploadedBy":"Rafael5500","nexusModId":24826,"paks":[
 {"nexusFileName":"Dwayne Johnson Head","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1788620840,"pakFileName":"Dwayne_Johnson_head_53b3b53c-e1a7-01b8-aa0d-155861797118.pak","nexusFileId":129762,"metaUuid":"53b3b53c-e1a7-01b8-aa0d-155861797118"},
@@ -69861,4 +69862,7 @@
 ]},
 "24969":{"nexusModName":"Varrl Evolved","nexusUploadedBy":"Exaen","nexusModId":24969,"paks":[
 {"nexusFileName":"VarrlEvolved","nexusFileVersion":"1.0.2.0","nexusFileUploadedAt":1789239645,"pakFileName":"VarrlEvolved_5d00eab7-f156-dd9c-ae68-1692b112f4e9.pak","nexusFileId":130380,"metaUuid":null}
+]},
+"24970":{"nexusModName":"Harmonic Hairstyles","nexusUploadedBy":"lumadaire","nexusModId":24970,"paks":[
+{"nexusFileName":"Harmonic Hairstyles","nexusFileVersion":"1.0","nexusFileUploadedAt":1789244800,"pakFileName":"Harmonic_Hairstyles_7f168cee-2efb-a1ac-1eb0-49487309cb14.pak","nexusFileId":130396,"metaUuid":null}
 ]}}
