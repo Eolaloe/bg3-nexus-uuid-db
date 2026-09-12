@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-09-12T09:52:02.058614+00:00","total_mods":17605},
+{"_meta":{"last_run":"2026-09-12T10:51:36.348336+00:00","total_mods":17605},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -66110,8 +66110,8 @@
 {"nexusFileName":"All-In-One Download","nexusFileVersion":"6","nexusFileUploadedAt":1789126259,"pakFileName":"PP_QuietMoment_636cb6aa-0fb7-1937-47f8-c84b6a058e41.pak","nexusFileId":130272,"metaUuid":"6170b196-a292-fd5c-30fc-038f9de3ac70"},
 {"nexusFileName":"All-In-One Download","nexusFileVersion":"6","nexusFileUploadedAt":1789126259,"pakFileName":"PP_Silhouettes_63d63dd5-f55f-13d7-d754-f2af16472a95.pak","nexusFileId":130272,"metaUuid":"6170b196-a292-fd5c-30fc-038f9de3ac70"},
 {"nexusFileName":"All-In-One Download","nexusFileVersion":"6","nexusFileUploadedAt":1789126259,"pakFileName":"PP_StillMotion_258a8b5d-e538-277c-0f7a-f67c29828ab3.pak","nexusFileId":130272,"metaUuid":"6170b196-a292-fd5c-30fc-038f9de3ac70"},
-{"nexusFileName":"Midsommar","nexusFileVersion":"1","nexusFileUploadedAt":1789126274,"pakFileName":"PP_Midsommar_0a8e9c2a-2f51-68e3-f6bf-d3b89368134f.pak","nexusFileId":130273,"metaUuid":null},
-{"nexusFileName":"As Long As You're Mine","nexusFileVersion":"1","nexusFileUploadedAt":1789126297,"pakFileName":"PP_AsLongAsYoureMine_23eb52ad-d0c5-875b-60bb-53b65bf76d26.pak","nexusFileId":130274,"metaUuid":null}
+{"nexusFileName":"Midsommar","nexusFileVersion":"1","nexusFileUploadedAt":1789126274,"pakFileName":"PP_Midsommar_0a8e9c2a-2f51-68e3-f6bf-d3b89368134f.pak","nexusFileId":130273,"metaUuid":"6170b196-a292-fd5c-30fc-038f9de3ac70"},
+{"nexusFileName":"As Long As You're Mine","nexusFileVersion":"1","nexusFileUploadedAt":1789126297,"pakFileName":"PP_AsLongAsYoureMine_23eb52ad-d0c5-875b-60bb-53b65bf76d26.pak","nexusFileId":130274,"metaUuid":"6170b196-a292-fd5c-30fc-038f9de3ac70"}
 ]},
 "23593":{"nexusModName":"Grasping Vine PHB2024","nexusUploadedBy":"chizfreak","nexusModId":23593,"paks":[
 {"nexusFileName":"Grasping Vine PHB2024","nexusFileVersion":"2.3.1","nexusFileUploadedAt":1782847504,"pakFileName":"GraspingVinePHB2024_e487afef-2b10-2edb-fb14-87053412c73f.pak","nexusFileId":124609,"metaUuid":"e487afef-2b10-2edb-fb14-87053412c73f"}
@@ -69686,7 +69686,7 @@
 "24894":{"nexusModName":"Yet Another Party","nexusUploadedBy":"Sai","nexusModId":24894,"paks":[
 {"nexusFileName":"Yet Another Party","nexusFileVersion":"1.0","nexusFileUploadedAt":1788898377,"pakFileName":"Yet Another Party.pak","nexusFileId":130049,"metaUuid":"2799067d-d379-4367-b135-ddb45e0d96cb"}
 ]},
-"24895":{"nexusModName":"True First-Person Camera for BG3 Exploration","nexusUploadedBy":"proteusproject","nexusModId":24895,"paks":[
+"24895":{"nexusModName":"First Person Explorer (FPE) True First-Person Camera for BG3 Exploration","nexusUploadedBy":"proteusproject","nexusModId":24895,"paks":[
 {"nexusFileName":"0.7.6.3 Public Release -- Main Mod","nexusFileVersion":"5","nexusFileUploadedAt":1789205595,"pakFileName":"FirstPersonExplorer_0.7.6.3_Public_Release_Main.pak","nexusFileId":130342,"metaUuid":null}
 ]},
 "24896":{"nexusModName":"Light Mage","nexusUploadedBy":"Rathallon","nexusModId":24896,"paks":[
@@ -69801,7 +69801,9 @@
 {"nexusFileName":"Draco's Fantasy Gunslinger_KOR","nexusFileVersion":"25","nexusFileUploadedAt":1789136290,"pakFileName":"DracoFantasyGunslinger_KOR_70e2fc1b-9632-9bab-2bbe-6abced4dca2e.pak","nexusFileId":130282,"metaUuid":null}
 ]},
 "24947":{"nexusModName":"Abdel-be-Gone","nexusUploadedBy":"Deathstruck","nexusModId":24947,"paks":[
-{"nexusFileName":"Abdel Be Gone - Fixed","nexusFileVersion":"1.1.","nexusFileUploadedAt":1789163345,"pakFileName":"AbdelBeGone.pak","nexusFileId":130311,"metaUuid":null}
+{"nexusFileName":"AbdelBeGone - Neutral","nexusFileVersion":"1.2","nexusFileUploadedAt":1789207878,"pakFileName":"AbdelBeGone.pak","nexusFileId":130346,"metaUuid":null},
+{"nexusFileName":"AbdelBeGone - Female","nexusFileVersion":"1.2","nexusFileUploadedAt":1789207899,"pakFileName":"AbdelBeGone.pak","nexusFileId":130347,"metaUuid":null},
+{"nexusFileName":"AbdelBeGone - Male","nexusFileVersion":"1.2","nexusFileUploadedAt":1789207922,"pakFileName":"AbdelBeGone.pak","nexusFileId":130348,"metaUuid":null}
 ]},
 "24948":{"nexusModName":"SummerBeach_TheFirstDescendant_FreynaOasisParty","nexusUploadedBy":"EvilRecluse","nexusModId":24948,"paks":[
 {"nexusFileName":"SummerBeach TheFirstDescendant FreynaOasisParty","nexusFileVersion":"1","nexusFileUploadedAt":1789141020,"pakFileName":"SummerBeach_TheFirstDescendant_FreynaOasisParty.pak","nexusFileId":130288,"metaUuid":"3587f614-f90f-47b3-821e-534a8abeb6c8"}
