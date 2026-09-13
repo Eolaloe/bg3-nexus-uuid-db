@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-09-13T05:52:01.707319+00:00","total_mods":17619},
+{"_meta":{"last_run":"2026-09-13T06:52:19.303642+00:00","total_mods":17620},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -60650,7 +60650,7 @@
 {"nexusFileName":"Astra's Load Order Dividers","nexusFileVersion":"1.0","nexusFileUploadedAt":1771826564,"pakFileName":"ASTRL_Dividers_World_Items.pak","nexusFileId":115445,"metaUuid":"1efb75d3-4108-4b6c-9fe7-427797327ec4"},
 {"nexusFileName":"Astra's Load Order Dividers","nexusFileVersion":"1.0","nexusFileUploadedAt":1771826564,"pakFileName":"ASTRL_Dividers_World_Other.pak","nexusFileId":115445,"metaUuid":"1efb75d3-4108-4b6c-9fe7-427797327ec4"},
 {"nexusFileName":"Astra's Load Order Dividers","nexusFileVersion":"1.0","nexusFileUploadedAt":1771826564,"pakFileName":"ASTRL_Dividers_World_TutorialChestMover.pak","nexusFileId":115445,"metaUuid":"1efb75d3-4108-4b6c-9fe7-427797327ec4"},
-{"nexusFileName":"Astra's Load Order Dividers - Races","nexusFileVersion":"1.0","nexusFileUploadedAt":1771826643,"pakFileName":"ASTRL_Dividers_Races_Subraces.pak","nexusFileId":115448,"metaUuid":null},
+{"nexusFileName":"Astra's Load Order Dividers - Races","nexusFileVersion":"1.0","nexusFileUploadedAt":1771826643,"pakFileName":"ASTRL_Dividers_Races_Subraces.pak","nexusFileId":115448,"metaUuid":"1efb75d3-4108-4b6c-9fe7-427797327ec4"},
 {"nexusFileName":"Astra's Load Order Dividers - Races","nexusFileVersion":"1.0","nexusFileUploadedAt":1771826643,"pakFileName":"ASTRL_Dividers_Races_Subraces_Dragonborn.pak","nexusFileId":115448,"metaUuid":"620139c4-55ce-4d4e-8781-65b64b53a19a"},
 {"nexusFileName":"Astra's Load Order Dividers - Races","nexusFileVersion":"1.0","nexusFileUploadedAt":1771826643,"pakFileName":"ASTRL_Dividers_Races_Subraces_Drow.pak","nexusFileId":115448,"metaUuid":"c81b6472-8d2c-4fde-8d53-2e48d6de9ae2"},
 {"nexusFileName":"Astra's Load Order Dividers - Races","nexusFileVersion":"1.0","nexusFileUploadedAt":1771826643,"pakFileName":"ASTRL_Dividers_Races_Subraces_Dwarf.pak","nexusFileId":115448,"metaUuid":"336326c7-1efe-40fe-9675-e18a02ca97eb"},
@@ -65695,7 +65695,7 @@
 {"nexusFileName":"In This Moment Poses By LifeofaSin","nexusFileVersion":"1","nexusFileUploadedAt":1781470168,"pakFileName":"In This Moment Poses By LifeofaSin.pak","nexusFileId":123578,"metaUuid":"7e5827cb-54f1-6222-3462-ba056be89b92"}
 ]},
 "23385":{"nexusModName":"Summon Enhanced - MCM","nexusUploadedBy":"BaiYanYueQWQ","nexusModId":23385,"paks":[
-{"nexusFileName":"SummonEnhanced","nexusFileVersion":"2.9.4.2","nexusFileUploadedAt":1789024497,"pakFileName":"SummonEnhanced.pak","nexusFileId":130156,"metaUuid":"6a465714-dc81-41c0-9a95-e81165789ad2"}
+{"nexusFileName":"SummonEnhanced","nexusFileVersion":"2.9.5.0","nexusFileUploadedAt":1789280132,"pakFileName":"DifficultyAdjustment.pak","nexusFileId":130421,"metaUuid":null}
 ]},
 "23386":{"nexusModName":"Sun Blade - Crashfix CN EN","nexusUploadedBy":"91wangsir","nexusModId":23386,"paks":[
 {"nexusFileName":"Sun Blade   Crashfix CN EN","nexusFileVersion":"1","nexusFileUploadedAt":1781480470,"pakFileName":"Sun Blade - Crashfix CN EN.pak","nexusFileId":123592,"metaUuid":"2f1b75f5-838c-40ab-aa76-3e5f89c5ace6"}
@@ -66559,7 +66559,7 @@
 {"nexusFileName":"CSUK Loremaster E5ES","nexusFileVersion":"1","nexusFileUploadedAt":1784981079,"pakFileName":"CSUK_Loremaster.pak","nexusFileId":126448,"metaUuid":"1a13803e-7e33-4273-949e-00cfd779893d"}
 ]},
 "23772":{"nexusModName":"Difficulty Adjustment","nexusUploadedBy":"BaiYanYueQWQ","nexusModId":23772,"paks":[
-{"nexusFileName":"DifficultyAdjustment","nexusFileVersion":"1.6.3.1","nexusFileUploadedAt":1789024592,"pakFileName":"DifficultyAdjustment.pak","nexusFileId":130157,"metaUuid":"9c20e0b9-b5af-4675-936f-484993cb295a"}
+{"nexusFileName":"DifficultyAdjustment","nexusFileVersion":"1.6.3.2","nexusFileUploadedAt":1789280022,"pakFileName":"DifficultyAdjustment.pak","nexusFileId":130420,"metaUuid":"9c20e0b9-b5af-4675-936f-484993cb295a"}
 ]},
 "23773":{"nexusModName":"Ardeo's Jawbone - Forgotten Armoury II - Shortsword","nexusUploadedBy":"Lyniara","nexusModId":23773,"paks":[
 {"nexusFileName":"Ardeo's Jawbone","nexusFileVersion":"1.0.0.4","nexusFileUploadedAt":1783718067,"pakFileName":"LYRA_LYN_Ardeo_Jawbone_1.0.0.4.pak","nexusFileId":125371,"metaUuid":"25224e76-5de0-9336-beb9-dca7a261e3b1"},
@@ -69890,4 +69890,7 @@
 ]},
 "24983":{"nexusModName":"Irrisio Malitiosa","nexusUploadedBy":"nexuspaladin","nexusModId":24983,"paks":[
 {"nexusFileName":"IrrisioMalitiosa","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1789272535,"pakFileName":"IrrisioMalitiosa.pak","nexusFileId":130419,"metaUuid":null}
+]},
+"24985":{"nexusModName":"Exaen Evolved Series KOREAN PACK","nexusUploadedBy":"Ahdarugo","nexusModId":24985,"paks":[
+{"nexusFileName":"Evolved Series KOREAN PACK","nexusFileVersion":"1.0.0.1","nexusFileUploadedAt":1789280678,"pakFileName":"ExaenEvolved_KOR_a774005d-ed8e-105a-8e8c-9dbe07b20ea9.pak","nexusFileId":130422,"metaUuid":null}
 ]}}
