@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-09-13T14:52:28.616001+00:00","total_mods":17620},
+{"_meta":{"last_run":"2026-09-13T15:52:59.970614+00:00","total_mods":17623},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -68981,7 +68981,7 @@
 {"nexusFileName":"High Priestess to the Lambent Flame","nexusFileVersion":"2","nexusFileUploadedAt":1787914061,"pakFileName":"Nadinia_8a3bb273-4904-3d87-9f9a-80b4ac7a85ff.pak","nexusFileId":129198,"metaUuid":"8a3bb273-4904-3d87-9f9a-80b4ac7a85ff"}
 ]},
 "24598":{"nexusModName":"New Greetings For Wyll (Wyll Cinematic Universe Mod 5) Traduzione ITA","nexusUploadedBy":"EveeLaverne","nexusModId":24598,"paks":[
-{"nexusFileName":"MGNTN WyllNewGreetings TraduzioneITA","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1787498274,"pakFileName":"MGNTN_WyllNewGreetings_TraduzioneITA.pak","nexusFileId":128844,"metaUuid":null}
+{"nexusFileName":"MGNTN_WyllNewGreetings_TraduzioneITA","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1787498274,"pakFileName":"MGNTN_WyllNewGreetings_TraduzioneITA.pak","nexusFileId":128844,"metaUuid":null}
 ]},
 "24600":{"nexusModName":"Neera's Wild Dress - Sorcerer robe outfit (BG1 BG2)","nexusUploadedBy":"commanderstrawberry","nexusModId":24600,"paks":[
 {"nexusFileName":"NeeraSorcOutfit","nexusFileVersion":"1.2","nexusFileUploadedAt":1788884584,"pakFileName":"NeeraSorcOutfit.pak","nexusFileId":130034,"metaUuid":"b60857bd-0dc2-42cd-a5e1-a3a639f105d8"}
@@ -69845,8 +69845,11 @@
 "24965":{"nexusModName":"Pact and Power - Warlock Equipment - Russian Translation 1.0.0.13","nexusUploadedBy":"SNKmod777","nexusModId":24965,"paks":[
 {"nexusFileName":"PP Warlock Equipment RU","nexusFileVersion":"1.0.0.3","nexusFileUploadedAt":1789231381,"pakFileName":"PP_Warlock_Equipment_RU.pak","nexusFileId":130369,"metaUuid":null}
 ]},
+"24966":{"nexusModName":"Solo Poses - Miscellaneous Edition","nexusUploadedBy":"lycanicorn","nexusModId":24966,"paks":[
+{"nexusFileName":"Solo Poses   Misc Edition","nexusFileVersion":"1","nexusFileUploadedAt":1789294019,"pakFileName":"houndsolomisc_bb213737-99fd-1799-a3cc-c2587c450e00.pak","nexusFileId":130434,"metaUuid":null}
+]},
 "24967":{"nexusModName":"Yet Another AI","nexusUploadedBy":"Sai","nexusModId":24967,"paks":[
-{"nexusFileName":"Yet Another AI","nexusFileVersion":"1.3","nexusFileUploadedAt":1789293232,"pakFileName":"Yet Another AI.pak","nexusFileId":130433,"metaUuid":null}
+{"nexusFileName":"Yet Another AI","nexusFileVersion":"1.4","nexusFileUploadedAt":1789313844,"pakFileName":"Yet Another AI.pak","nexusFileId":130453,"metaUuid":null}
 ]},
 "24969":{"nexusModName":"Varrl Evolved","nexusUploadedBy":"Exaen","nexusModId":24969,"paks":[
 {"nexusFileName":"VarrlEvolved","nexusFileVersion":"1.0.2.0","nexusFileUploadedAt":1789239645,"pakFileName":"VarrlEvolved_5d00eab7-f156-dd9c-ae68-1692b112f4e9.pak","nexusFileId":130380,"metaUuid":null}
@@ -69893,4 +69896,10 @@
 ]},
 "24988":{"nexusModName":"Arabic Localization","nexusUploadedBy":"ThraggViltm","nexusModId":24988,"paks":[
 {"nexusFileName":"Baldurs Gate 3 AR","nexusFileVersion":"1","nexusFileUploadedAt":1789308111,"pakFileName":"Thragg AR.pak","nexusFileId":130447,"metaUuid":null}
+]},
+"24992":{"nexusModName":"Gortash Facelift - Portrait Update","nexusUploadedBy":"Sai","nexusModId":24992,"paks":[
+{"nexusFileName":"Gortash Facelift - Portrait Update","nexusFileVersion":"1.0","nexusFileUploadedAt":1789310854,"pakFileName":"Gortash Facelift - Portrait Update.pak","nexusFileId":130449,"metaUuid":null}
+]},
+"24993":{"nexusModName":"A Beautiful Webbing - Act 3 - Minthara Romance Scenes Traduzione ITA","nexusUploadedBy":"EveeLaverne","nexusModId":24993,"paks":[
+{"nexusFileName":"HT_MintharaAct3Romance_TraduzioneITA","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1789312350,"pakFileName":"HT_MintharaAct3Romance_TraduzioneITA.pak","nexusFileId":130452,"metaUuid":null}
 ]}}
