@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-09-14T15:52:08.993816+00:00","total_mods":17624},
+{"_meta":{"last_run":"2026-09-14T16:52:32.664932+00:00","total_mods":17629},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -65546,7 +65546,7 @@
 ]},
 "23318":{"nexusModName":"Sights of the Seelie Overhaul","nexusUploadedBy":"MaxStrengthWizard","nexusModId":23318,"paks":[
 {"nexusFileName":"Seelie Buff Patch","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1781180268,"pakFileName":"Seelie Buff Patch.pak","nexusFileId":123326,"metaUuid":null},
-{"nexusFileName":"Sights Of The Seelie Overhaul","nexusFileVersion":"1.5.5","nexusFileUploadedAt":1789048304,"pakFileName":"Sights of the Seelie Overhaul.pak","nexusFileId":130176,"metaUuid":"d240b4c0-1d1c-4d15-b99b-a9b83924159d"}
+{"nexusFileName":"Sights Of The Seelie Overhaul","nexusFileVersion":"1.7.8","nexusFileUploadedAt":1789401943,"pakFileName":"Sights of the Seelie Overhaul.pak","nexusFileId":130516,"metaUuid":"d240b4c0-1d1c-4d15-b99b-a9b83924159d"}
 ]},
 "23319":{"nexusModName":"Bloody Demonic Equipment Reimagined - Bugfix Rebalance CN EN","nexusUploadedBy":"91wangsir","nexusModId":23319,"paks":[
 {"nexusFileName":"Bloody Demonic Equipment Bugfix Rebalance CN EN","nexusFileVersion":"1.9","nexusFileUploadedAt":1781691333,"pakFileName":"Bloody Demonic Equipment Reimagined - Bugfix Rebalance CN EN.pak","nexusFileId":123748,"metaUuid":"9b6785eb-ab2c-4c01-9ccb-7ede96c13d42"}
@@ -69897,6 +69897,9 @@
 "25002":{"nexusModName":"Jack's RAW BG3 All-in-One","nexusUploadedBy":"Revanchist16","nexusModId":25002,"paks":[
 {"nexusFileName":"JacksRawBG3","nexusFileVersion":"2","nexusFileUploadedAt":1789346843,"pakFileName":"JacksRawBG3.pak","nexusFileId":130485,"metaUuid":null}
 ]},
+"25005":{"nexusModName":"BETWEEN TWO FIRES POSE PACK (BT2xBT1xBT2) by badgrlsblog","nexusUploadedBy":"badgrlsblog","nexusModId":25005,"paks":[
+{"nexusFileName":"bgb Caught Between Two Fires Pose Pack","nexusFileVersion":"1","nexusFileUploadedAt":1789402391,"pakFileName":"bgb_CaughtBetweenTwoFires_pose_pack_56d5197d-acf7-fb6b-af17-ade052671ebf.pak","nexusFileId":130518,"metaUuid":null}
+]},
 "25008":{"nexusModName":"Events","nexusUploadedBy":"Sai","nexusModId":25008,"paks":[
 {"nexusFileName":"Events","nexusFileVersion":"1.0","nexusFileUploadedAt":1789385601,"pakFileName":"Events.pak","nexusFileId":130502,"metaUuid":null}
 ]},
@@ -69905,4 +69908,17 @@
 ]},
 "25010":{"nexusModName":"As A Treat","nexusUploadedBy":"rainbow1411","nexusModId":25010,"paks":[
 {"nexusFileName":"As A Treat ","nexusFileVersion":"1","nexusFileUploadedAt":1789391242,"pakFileName":"As_A_Treat_71b19258-4407-1311-6054-bcf0c65a7f98.pak","nexusFileId":130505,"metaUuid":null}
+]},
+"25012":{"nexusModName":"Isobel's New Look Revamp","nexusUploadedBy":"Khloii1","nexusModId":25012,"paks":[
+{"nexusFileName":"Isobel's New Look Revamp (White Version)","nexusFileVersion":"1.0","nexusFileUploadedAt":1789401611,"pakFileName":"IsobelNewLook_Revamped_a9754eed-d798-6cea-4658-afb2b1b2696e.pak","nexusFileId":130513,"metaUuid":null},
+{"nexusFileName":"Isobel's New Look Revamp (Black Version)","nexusFileVersion":"1.0","nexusFileUploadedAt":1789402175,"pakFileName":"IsobelNewLook_Revamped_a9754eed-d798-6cea-4658-afb2b1b2696e.pak","nexusFileId":130517,"metaUuid":null}
+]},
+"25013":{"nexusModName":"Blushing Beauties - A Head Pack","nexusUploadedBy":"Minukis","nexusModId":25013,"paks":[
+{"nexusFileName":"Blushing Beauties","nexusFileVersion":"1","nexusFileUploadedAt":1789402951,"pakFileName":"[Minukis] Blushing Beauties - Head Pack.pak","nexusFileId":130519,"metaUuid":null}
+]},
+"25014":{"nexusModName":"Dialogue Lighting Control","nexusUploadedBy":"anatolek","nexusModId":25014,"paks":[
+{"nexusFileName":"CutsceneLightsOff","nexusFileVersion":"0.3","nexusFileUploadedAt":1789401761,"pakFileName":"CutsceneLightsOff.pak","nexusFileId":130514,"metaUuid":null}
+]},
+"25015":{"nexusModName":"Wild Magic Rage Reborn","nexusUploadedBy":"Aliencow1338","nexusModId":25015,"paks":[
+{"nexusFileName":"WildMagicRageReborn","nexusFileVersion":"1","nexusFileUploadedAt":1789401908,"pakFileName":"WildMagicRageReborn.pak","nexusFileId":130515,"metaUuid":null}
 ]}}
