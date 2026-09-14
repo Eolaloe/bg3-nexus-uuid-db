@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-09-13T23:51:49.495765+00:00","total_mods":17627},
+{"_meta":{"last_run":"2026-09-14T00:52:24.103400+00:00","total_mods":17628},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -26551,6 +26551,7 @@
 "9052":{"nexusModName":"HomeBrew - Comprehensive Reworks","nexusUploadedBy":"HaVeNII7","nexusModId":9052,"paks":[
 {"nexusFileName":"Easier Difficulty - Level Cap Increased","nexusFileVersion":"2.0.0","nexusFileUploadedAt":1777412011,"pakFileName":"HomeBrew - Comprehensive Reworks (Easier Difficulty - Level Cap Increased).pak","nexusFileId":120100,"metaUuid":"17596796-4083-49ae-9b77-6ba379682ce3"},
 {"nexusFileName":"Harder Difficulty - Slower Level Curve","nexusFileVersion":"2.0.0","nexusFileUploadedAt":1777412029,"pakFileName":"HomeBrew - Comprehensive Reworks (Harder Difficulty - Slower Level Curve).pak","nexusFileId":120101,"metaUuid":"d66a5df0-2854-4f8a-bc2b-6b33f47e84c6"},
+{"nexusFileName":"Vanilla Values - Attunement Removal","nexusFileVersion":"2.0.0","nexusFileUploadedAt":1777412042,"pakFileName":"HomeBrew - Comprehensive Reworks (Vanilla Values - Attunement Removal).pak","nexusFileId":120102,"metaUuid":null},
 {"nexusFileName":"Vanilla Values - Inspiration","nexusFileVersion":"2.0.0","nexusFileUploadedAt":1777412054,"pakFileName":"HomeBrew - Comprehensive Reworks (Vanilla Values - Inspiration).pak","nexusFileId":120103,"metaUuid":"3f95bd7a-ba73-45ba-a04e-8533df47e3c1"},
 {"nexusFileName":"Addon - Hidden Dialogue Tags","nexusFileVersion":"2.0.0","nexusFileUploadedAt":1777412064,"pakFileName":"HomeBrew - Comprehensive Reworks (Addon - Hidden Dialogue Tags).pak","nexusFileId":120104,"metaUuid":"69dc3c10-f92c-482f-a761-807ce1473042"},
 {"nexusFileName":"Addon - Fade's Randomized Loot","nexusFileVersion":"2.0.0","nexusFileUploadedAt":1777412075,"pakFileName":"HomeBrew - Comprehensive Reworks (Addon - Fades Randomized Loot).pak","nexusFileId":120105,"metaUuid":"74a00bb6-b29e-497d-8410-2307ceb876fe"},
@@ -41403,7 +41404,7 @@
 {"nexusFileName":"Human Forge","nexusFileVersion":"1.7","nexusFileUploadedAt":1745889249,"pakFileName":"HumanForge_v1.6.pak","nexusFileId":91040,"metaUuid":"b93bdeb7-3897-4616-9442-f4cf620d53e2"}
 ]},
 "14717":{"nexusModName":"Armory - Auto-Transmog Vanity Outfit Manager","nexusUploadedBy":"osirisofinternet","nexusModId":14717,"paks":[
-{"nexusFileName":"Armory","nexusFileVersion":"1.8.8","nexusFileUploadedAt":1789326816,"pakFileName":"Armory.pak","nexusFileId":130469,"metaUuid":"b1f292a4-f484-4631-8c58-532b53fd1c11"}
+{"nexusFileName":"Armory","nexusFileVersion":"1.8.9","nexusFileUploadedAt":1789345245,"pakFileName":"Armory.pak","nexusFileId":130483,"metaUuid":"b1f292a4-f484-4631-8c58-532b53fd1c11"}
 ]},
 "14718":{"nexusModName":"Soaring Ambition - Ascended Fiend Wings_CHS","nexusUploadedBy":"332659","nexusModId":14718,"paks":[
 {"nexusFileName":"Soaring Ambition - Ascended Fiend Wings_CHS","nexusFileVersion":"1.0.0.59","nexusFileUploadedAt":1737339499,"pakFileName":"AscendedWings_CHS.pak","nexusFileId":84371,"metaUuid":null}
@@ -67314,8 +67315,8 @@
 {"nexusFileName":"Vulnerability Nerf (25)","nexusFileVersion":"1","nexusFileUploadedAt":1785280974,"pakFileName":"VulnerabilityNerf.pak","nexusFileId":126707,"metaUuid":null}
 ]},
 "24041":{"nexusModName":"Dragonborn XL penis","nexusUploadedBy":"benben1205","nexusModId":24041,"paks":[
-{"nexusFileName":"T2DGB Penis","nexusFileVersion":"1.0.0.1","nexusFileUploadedAt":1784869606,"pakFileName":"DGBPenis_a18f4947-42c5-ac95-3997-f7f6d67c2a1e.pak","nexusFileId":126347,"metaUuid":"a18f4947-42c5-ac95-3997-f7f6d67c2a1e"},
-{"nexusFileName":"T4DGB Penis","nexusFileVersion":"1.0.0.1","nexusFileUploadedAt":1784869644,"pakFileName":"MDGBPenis_28945a03-2e10-4279-df99-20232c0a633f.pak","nexusFileId":126348,"metaUuid":"28945a03-2e10-4279-df99-20232c0a633f"}
+{"nexusFileName":"T2DGB Penis","nexusFileVersion":"1.0.0.2","nexusFileUploadedAt":1789344794,"pakFileName":"DGBPenis_a18f4947-42c5-ac95-3997-f7f6d67c2a1e.pak","nexusFileId":130481,"metaUuid":"a18f4947-42c5-ac95-3997-f7f6d67c2a1e"},
+{"nexusFileName":"T4DGB Penis","nexusFileVersion":"1.0.0.2","nexusFileUploadedAt":1789344820,"pakFileName":"MDGBPenis_28945a03-2e10-4279-df99-20232c0a633f.pak","nexusFileId":130482,"metaUuid":"28945a03-2e10-4279-df99-20232c0a633f"}
 ]},
 "24042":{"nexusModName":"Quick Precision Attack","nexusUploadedBy":"yoonmoonsik43","nexusModId":24042,"paks":[
 {"nexusFileName":"Quickprecisionattack 1313e70b 2kep","nexusFileVersion":"1","nexusFileUploadedAt":1784874935,"pakFileName":"QuickPrecisionAttack_1313e70b-54c1-15de-d112-eb9aa8906c77.pak","nexusFileId":126350,"metaUuid":"1313e70b-54c1-15de-d112-eb9aa8906c77"}
@@ -69916,4 +69917,7 @@
 ]},
 "25000":{"nexusModName":"Yet Another Cooldown","nexusUploadedBy":"Sai","nexusModId":25000,"paks":[
 {"nexusFileName":"Yet Another Cooldown","nexusFileVersion":"1.0","nexusFileUploadedAt":1789334290,"pakFileName":"Yet Another Cooldown.pak","nexusFileId":130476,"metaUuid":null}
+]},
+"25002":{"nexusModName":"Jack's RAW BG3","nexusUploadedBy":"Revanchist16","nexusModId":25002,"paks":[
+{"nexusFileName":"JacksRawBG3","nexusFileVersion":"2","nexusFileUploadedAt":1789346843,"pakFileName":"JacksRawBG3.pak","nexusFileId":130485,"metaUuid":null}
 ]}}
