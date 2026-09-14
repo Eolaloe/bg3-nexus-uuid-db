@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-09-14T19:52:28.222495+00:00","total_mods":17633},
+{"_meta":{"last_run":"2026-09-14T20:52:09.963081+00:00","total_mods":17634},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -52195,7 +52195,7 @@
 {"nexusFileName":"Daughter of Selune_Weapon and Armor_KOR","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1758340967,"pakFileName":"Daughter_of_Selune_Armor_and_Weapon_KOR.pak","nexusFileId":103226,"metaUuid":null}
 ]},
 "18761":{"nexusModName":"Gortash's New Look","nexusUploadedBy":"Khloii1","nexusModId":18761,"paks":[
-{"nexusFileName":"Gortash's New Look","nexusFileVersion":"1.3","nexusFileUploadedAt":1765554185,"pakFileName":"Gortash_New_Look_eda2f910-f3aa-713b-4241-077a112c67e2.pak","nexusFileId":109498,"metaUuid":"eda2f910-f3aa-713b-4241-077a112c67e2"}
+{"nexusFileName":"Gortash's New Look","nexusFileVersion":"2.0","nexusFileUploadedAt":1789416918,"pakFileName":"Gortash_New_Look_eda2f910-f3aa-713b-4241-077a112c67e2.pak","nexusFileId":130530,"metaUuid":"eda2f910-f3aa-713b-4241-077a112c67e2"}
 ]},
 "18762":{"nexusModName":"Enable Honour Ruleset","nexusUploadedBy":"Giacogiac","nexusModId":18762,"paks":[
 {"nexusFileName":"Enable Honour Ruleset","nexusFileVersion":"1.0.2","nexusFileUploadedAt":1760378040,"pakFileName":"EnableHonourRuleset_e039ec06-6730-7e3b-fbaa-d9bccb904cb5.pak","nexusFileId":105072,"metaUuid":"e039ec06-6730-7e3b-fbaa-d9bccb904cb5"}
@@ -69591,7 +69591,7 @@
 {"nexusFileName":"HasteRework","nexusFileVersion":"1","nexusFileUploadedAt":1788789468,"pakFileName":"HasteRework.pak","nexusFileId":129967,"metaUuid":null}
 ]},
 "24871":{"nexusModName":"Enhanced Succubus Gameplay","nexusUploadedBy":"mmcgeach","nexusModId":24871,"paks":[
-{"nexusFileName":"ESGSuccubusClass","nexusFileVersion":"4","nexusFileUploadedAt":1789136342,"pakFileName":"ESGSuccubusClass.pak","nexusFileId":130283,"metaUuid":null}
+{"nexusFileName":"ESGSuccubusClass","nexusFileVersion":"5","nexusFileUploadedAt":1789417862,"pakFileName":"ESGSuccubusClass.pak","nexusFileId":130531,"metaUuid":null}
 ]},
 "24872":{"nexusModName":"Moon's Vera Head","nexusUploadedBy":"AdrasteaMoon","nexusModId":24872,"paks":[
 {"nexusFileName":"Main File","nexusFileVersion":"1","nexusFileUploadedAt":1788909692,"pakFileName":"Vera.pak","nexusFileId":130066,"metaUuid":null}
@@ -69934,4 +69934,7 @@
 ]},
 "25018":{"nexusModName":"Fade's Assorted Treasure Expansion - FATE - PTBR","nexusUploadedBy":"Wallyrage","nexusModId":25018,"paks":[
 {"nexusFileName":"FadeExp PTBR","nexusFileVersion":"1","nexusFileUploadedAt":1789411388,"pakFileName":"FATE_PTBR_9a7302de-e6c7-4ef0-9df7-f2bf8cf7e48a.pak","nexusFileId":130527,"metaUuid":null}
+]},
+"25019":{"nexusModName":"Free Buffs","nexusUploadedBy":"Sai","nexusModId":25019,"paks":[
+{"nexusFileName":"Free Buffs","nexusFileVersion":"1.0","nexusFileUploadedAt":1789416040,"pakFileName":"Free Buffs.pak","nexusFileId":130529,"metaUuid":null}
 ]}}
