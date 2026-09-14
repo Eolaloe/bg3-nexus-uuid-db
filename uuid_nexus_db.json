@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-09-14T22:51:48.600857+00:00","total_mods":17634},
+{"_meta":{"last_run":"2026-09-14T23:51:48.003297+00:00","total_mods":17635},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -58555,9 +58555,7 @@
 {"nexusFileName":"Rebalance - Level 1 Spells for Japanese","nexusFileVersion":"1.0.16","nexusFileUploadedAt":1779337810,"pakFileName":"Rebalance_Lvl1_Spells_jp.pak","nexusFileId":121811,"metaUuid":null}
 ]},
 "20819":{"nexusModName":"Overlove (BT2) (BT1)","nexusUploadedBy":"Marymeeee","nexusModId":20819,"paks":[
-{"nexusFileName":"Overlove","nexusFileVersion":"1","nexusFileUploadedAt":1768946950,"pakFileName":"Overlove_258f8c94-874a-1c21-d7e6-c99be5135db1.pak","nexusFileId":112757,"metaUuid":null},
-{"nexusFileName":"Overlove BT1","nexusFileVersion":"1","nexusFileUploadedAt":1769540643,"pakFileName":"OverloveBT1_56b196bc-33ad-07af-a79d-c74ea3404c0d.pak","nexusFileId":113392,"metaUuid":"56b196bc-33ad-07af-a79d-c74ea3404c0d"},
-{"nexusFileName":"Overlove AIO","nexusFileVersion":"1","nexusFileUploadedAt":1769540670,"pakFileName":"OverloveAIO_661338a6-112a-4ef5-c086-7413e3071b5b.pak","nexusFileId":113393,"metaUuid":"661338a6-112a-4ef5-c086-7413e3071b5b"}
+{"nexusFileName":"Overlove ","nexusFileVersion":"1","nexusFileUploadedAt":1789429182,"pakFileName":"OverloveAIO_661338a6-112a-4ef5-c086-7413e3071b5b.pak","nexusFileId":130539,"metaUuid":"661338a6-112a-4ef5-c086-7413e3071b5b"}
 ]},
 "20820":{"nexusModName":"Ambient AI","nexusUploadedBy":"ExcelsiorOne","nexusModId":20820,"paks":[
 {"nexusFileName":"Ambient AI","nexusFileVersion":"1.0.1.0","nexusFileUploadedAt":1769830271,"pakFileName":"AmbientAI.pak","nexusFileId":113673,"metaUuid":"7d2e1b4a-9c8f-4a1d-b5e2-6f3a9c8b1d4e"}
@@ -68236,7 +68234,7 @@
 {"nexusFileName":"SEConsoleCommandAtlas","nexusFileVersion":"1.1.0.0","nexusFileUploadedAt":1788995998,"pakFileName":"SEConsoleCommandAtlas.pak","nexusFileId":130132,"metaUuid":"c8534231-db17-4c1c-ae43-f7d7e9032c19"}
 ]},
 "24448":{"nexusModName":"Necromancy Reanimated Remove Toggles","nexusUploadedBy":"Sai","nexusModId":24448,"paks":[
-{"nexusFileName":"NR RemoveToggles","nexusFileVersion":"1","nexusFileUploadedAt":1786820369,"pakFileName":"NR_RemoveToggles.pak","nexusFileId":128158,"metaUuid":"9c423e21-3b07-4450-a05f-57c058e7b273"}
+{"nexusFileName":"NR RemoveToggles","nexusFileVersion":"1.0","nexusFileUploadedAt":1786820369,"pakFileName":"NR_RemoveToggles.pak","nexusFileId":128158,"metaUuid":"9c423e21-3b07-4450-a05f-57c058e7b273"}
 ]},
 "24449":{"nexusModName":"Cheater's Menu","nexusUploadedBy":"ForKiramay","nexusModId":24449,"paks":[
 {"nexusFileName":"Cheater's Menu","nexusFileVersion":"1.0.0.58","nexusFileUploadedAt":1788031995,"pakFileName":"CheatersMenu_7f91aeca-b731-cd89-05f7-3c0b56cb6d92.pak","nexusFileId":129294,"metaUuid":"7f91aeca-b731-cd89-05f7-3c0b56cb6d92"}
@@ -69884,13 +69882,13 @@
 {"nexusFileName":"Yet Another Cooldown","nexusFileVersion":"1.0","nexusFileUploadedAt":1789334290,"pakFileName":"Yet Another Cooldown.pak","nexusFileId":130476,"metaUuid":null}
 ]},
 "25002":{"nexusModName":"Jack's RAW BG3 All-in-One","nexusUploadedBy":"Revanchist16","nexusModId":25002,"paks":[
-{"nexusFileName":"JacksRawBG3","nexusFileVersion":"3","nexusFileUploadedAt":1789407640,"pakFileName":"JacksRawBG3.pak","nexusFileId":130520,"metaUuid":null}
+{"nexusFileName":"JacksRawBG3","nexusFileVersion":"2","nexusFileUploadedAt":1789346843,"pakFileName":"JacksRawBG3.pak","nexusFileId":130485,"metaUuid":null}
 ]},
 "25005":{"nexusModName":"BETWEEN TWO FIRES POSE PACK (BT2xBT1xBT2) by badgrlsblog","nexusUploadedBy":"badgrlsblog","nexusModId":25005,"paks":[
 {"nexusFileName":"bgb Caught Between Two Fires Pose Pack","nexusFileVersion":"1","nexusFileUploadedAt":1789402391,"pakFileName":"bgb_CaughtBetweenTwoFires_pose_pack_56d5197d-acf7-fb6b-af17-ade052671ebf.pak","nexusFileId":130518,"metaUuid":"56d5197d-acf7-fb6b-af17-ade052671ebf"}
 ]},
 "25008":{"nexusModName":"Events","nexusUploadedBy":"Sai","nexusModId":25008,"paks":[
-{"nexusFileName":"Events","nexusFileVersion":"1.0","nexusFileUploadedAt":1789385601,"pakFileName":"Events.pak","nexusFileId":130502,"metaUuid":"5170ec05-4c4d-48ce-a3a8-6440c47c4e50"}
+{"nexusFileName":"Events","nexusFileVersion":"1.1","nexusFileUploadedAt":1789429853,"pakFileName":"Events.pak","nexusFileId":130540,"metaUuid":"5170ec05-4c4d-48ce-a3a8-6440c47c4e50"}
 ]},
 "25009":{"nexusModName":"Expansion_CHS","nexusUploadedBy":"everywherewind","nexusModId":25009,"paks":[
 {"nexusFileName":"Expansion Chs 123d920e 78f0 97 6p0u","nexusFileVersion":"1","nexusFileUploadedAt":1789386354,"pakFileName":"Expansion_CHS_123d920e-78f0-97c9-fab8-3140a0d15ff4.pak","nexusFileId":130503,"metaUuid":null}
@@ -69928,4 +69926,7 @@
 ]},
 "25020":{"nexusModName":"The Elder - PTBR","nexusUploadedBy":"BarovZx","nexusModId":25020,"paks":[
 {"nexusFileName":"The Elder PTBR","nexusFileVersion":"14.09.2026","nexusFileUploadedAt":1789419840,"pakFileName":"The Elder PTBR.pak","nexusFileId":130532,"metaUuid":null}
+]},
+"25023":{"nexusModName":"Gortash Facelift - Portrait Update","nexusUploadedBy":"Sai","nexusModId":25023,"paks":[
+{"nexusFileName":"Gortash Facelift - Portrait Update","nexusFileVersion":"1.0","nexusFileUploadedAt":1789427312,"pakFileName":"Gortash Facelift - Portrait Update.pak","nexusFileId":130538,"metaUuid":null}
 ]}}
