@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-09-15T21:51:47.371456+00:00","total_mods":17640},
+{"_meta":{"last_run":"2026-09-15T22:51:56.677421+00:00","total_mods":17644},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -69877,6 +69877,12 @@
 "24998":{"nexusModName":"Party Dice Skins","nexusUploadedBy":"Volitio","nexusModId":24998,"paks":[
 {"nexusFileName":"Party Dice Skins","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1789333446,"pakFileName":"Party Dice Skins.pak","nexusFileId":130475,"metaUuid":"cf313701-de97-43c5-9cfb-d33fb63bbecb"}
 ]},
+"25000":{"nexusModName":"Yet Another Cooldown","nexusUploadedBy":"Sai","nexusModId":25000,"paks":[
+{"nexusFileName":"Yet Another Cooldown","nexusFileVersion":"1.1","nexusFileUploadedAt":1789511681,"pakFileName":"Yet Another Cooldown.pak","nexusFileId":130615,"metaUuid":null}
+]},
+"25001":{"nexusModName":"PolyamoryFixes - Traditional Chinese and Simplified Chinese Translation","nexusUploadedBy":"MaxStoKe","nexusModId":25001,"paks":[
+{"nexusFileName":"PolyamoryFixes CHT CHS","nexusFileVersion":"3.0.0.24","nexusFileUploadedAt":1789511077,"pakFileName":"PolyamoryFixes_CHT_CHS.pak","nexusFileId":130614,"metaUuid":null}
+]},
 "25002":{"nexusModName":"Jack's RAW BG3 All-in-One","nexusUploadedBy":"Revanchist16","nexusModId":25002,"paks":[
 {"nexusFileName":"JacksRawBG3","nexusFileVersion":"2","nexusFileUploadedAt":1789346843,"pakFileName":"JacksRawBG3.pak","nexusFileId":130485,"metaUuid":null}
 ]},
@@ -69947,4 +69953,10 @@
 "25046":{"nexusModName":"The Prophet of Nature - Halsin Edit","nexusUploadedBy":"SweetGenerousThing","nexusModId":25046,"paks":[
 {"nexusFileName":"SGT_Prophet Of Nature - Halsin Edit","nexusFileVersion":"1","nexusFileUploadedAt":1789505730,"pakFileName":"SGT_HalsinEdit_d4e23104-9f7f-d1c6-bf8b-7e61a2026b44.pak","nexusFileId":130602,"metaUuid":null},
 {"nexusFileName":"SGT_Prophet Of Nature - Halsin Portrait","nexusFileVersion":"1","nexusFileUploadedAt":1789505782,"pakFileName":"Prophet of Nature - Halsin Portrait.pak","nexusFileId":130603,"metaUuid":null}
+]},
+"25048":{"nexusModName":"Progression Preview - PTBR","nexusUploadedBy":"ExPeerT","nexusModId":25048,"paks":[
+{"nexusFileName":"ProgressionPreview PTBR","nexusFileVersion":"1.3.0.2","nexusFileUploadedAt":1789509167,"pakFileName":"ProgressionPreview_PTBR.pak","nexusFileId":130607,"metaUuid":null}
+]},
+"25049":{"nexusModName":"Expanded Spell Slots","nexusUploadedBy":"thekcpiper","nexusModId":25049,"paks":[
+{"nexusFileName":"SpellSlotScaler V2.0.1","nexusFileVersion":"1","nexusFileUploadedAt":1789510347,"pakFileName":"DynamicSpellScaler.pak","nexusFileId":130608,"metaUuid":null}
 ]}}
