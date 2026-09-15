@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-09-15T14:52:21.024604+00:00","total_mods":17635},
+{"_meta":{"last_run":"2026-09-15T15:52:06.975401+00:00","total_mods":17637},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -40480,7 +40480,8 @@
 "14364":{"nexusModName":"Lighty Lights and Photo Mode stuff","nexusUploadedBy":"rakor","nexusModId":14364,"paks":[
 {"nexusFileName":"PushingPpose","nexusFileVersion":"daniela","nexusFileUploadedAt":1776178849,"pakFileName":"pushingPpose.pak","nexusFileId":118961,"metaUuid":"0d6d6972-2dbe-9d97-6883-f8b2d206e0e2"},
 {"nexusFileName":"Gobos and garbage","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1787161306,"pakFileName":"LightyLights_Gobos.pak","nexusFileId":128474,"metaUuid":"0231f0ea-5af8-26bf-9e8a-6ab6618c7b3b"},
-{"nexusFileName":"Dani Lighty Lights","nexusFileVersion":"1.10.2","nexusFileUploadedAt":1787233424,"pakFileName":"LighterLightyLights_6aa50183-bce4-576e-749f-3a2c60233b09.pak","nexusFileId":128541,"metaUuid":"6aa50183-bce4-576e-749f-3a2c60233b09"}
+{"nexusFileName":"Dani Lighty Lights","nexusFileVersion":"1.10.2","nexusFileUploadedAt":1787233424,"pakFileName":"LighterLightyLights_6aa50183-bce4-576e-749f-3a2c60233b09.pak","nexusFileId":128541,"metaUuid":"6aa50183-bce4-576e-749f-3a2c60233b09"},
+{"nexusFileName":"Light Probes Pak","nexusFileVersion":"1.0.1","nexusFileUploadedAt":1789484819,"pakFileName":"LightProbes.pak","nexusFileId":130588,"metaUuid":null}
 ]},
 "14365":{"nexusModName":"Deepspace Collection - vol. 1","nexusUploadedBy":"OneEyeAskew","nexusModId":14365,"paks":[
 {"nexusFileName":"Deepspace Collection - vol. 1","nexusFileVersion":"1.0.1","nexusFileUploadedAt":1735068058,"pakFileName":"LaDsv1.pak","nexusFileId":82678,"metaUuid":"215234f9-bc28-44a1-b2dc-fce03181a9ec"}
@@ -53025,7 +53026,7 @@
 {"nexusFileName":"Displacer Beast - once per Short Rest","nexusFileVersion":"1.0","nexusFileUploadedAt":1759888331,"pakFileName":"DisplacerBeast_SR.pak","nexusFileId":104578,"metaUuid":"02282546-76ae-4c24-9d1b-3e06afa54478"}
 ]},
 "19053":{"nexusModName":"A Candle In The Dark-CHS","nexusUploadedBy":"AgleafSdan","nexusModId":19053,"paks":[
-{"nexusFileName":"A Candle In The Dark-CHS","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1759900282,"pakFileName":"A Candle In The Dark-CHS.pak","nexusFileId":104590,"metaUuid":null}
+{"nexusFileName":"A Candle In The Dark-CHS","nexusFileVersion":"1.1.0.0","nexusFileUploadedAt":1789487267,"pakFileName":"A Candle In The Dark-CHS.pak","nexusFileId":130591,"metaUuid":null}
 ]},
 "19054":{"nexusModName":"Blood Hunter Class_KOR","nexusUploadedBy":"Ahdarugo","nexusModId":19054,"paks":[
 {"nexusFileName":"Blood Hunter Class_KOR","nexusFileVersion":"1.0.0.1","nexusFileUploadedAt":1762010178,"pakFileName":"BloodHunter_KOR_6d34c229-7449-9237-5da7-e726e50877ee.pak","nexusFileId":106525,"metaUuid":"6d34c229-7449-9237-5da7-e726e50877ee"}
@@ -69930,4 +69931,10 @@
 ]},
 "25037":{"nexusModName":"Pact of the Blade and Hexblade QoL (Off-hand and Ranged binding) Russian Translate","nexusUploadedBy":"SexSux","nexusModId":25037,"paks":[
 {"nexusFileName":"Pact Of The Blade And Hexblade QoL RUS","nexusFileVersion":"1.0.0.2","nexusFileUploadedAt":1789465977,"pakFileName":"Pact of The Blade and Hexblade QoL_RUS.pak","nexusFileId":130555,"metaUuid":null}
+]},
+"25039":{"nexusModName":"Spiritmaster - A Ranger Summoner Subclass Ru","nexusUploadedBy":"Vergizius","nexusModId":25039,"paks":[
+{"nexusFileName":"SpiritmasterRu","nexusFileVersion":"1.0.1.1","nexusFileUploadedAt":1789486469,"pakFileName":"SpiritmasterRu.pak","nexusFileId":130589,"metaUuid":null}
+]},
+"25041":{"nexusModName":"Amour Dress","nexusUploadedBy":"lumadaire","nexusModId":25041,"paks":[
+{"nexusFileName":"Amour Dress","nexusFileVersion":"1.0","nexusFileUploadedAt":1789486753,"pakFileName":"LMDR_Amour_Dress_2e83bb96-4734-363b-ffd4-2af2e006ba8f.pak","nexusFileId":130590,"metaUuid":null}
 ]}}
