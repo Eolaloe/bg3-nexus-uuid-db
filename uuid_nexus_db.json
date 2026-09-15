@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-09-15T13:52:39.397534+00:00","total_mods":17634},
+{"_meta":{"last_run":"2026-09-15T14:52:21.024604+00:00","total_mods":17635},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -24044,6 +24044,9 @@
 ]},
 "8200":{"nexusModName":"Pirates and Rebels Korean Translation (KR)","nexusUploadedBy":"goodtoast","nexusModId":8200,"paks":[
 {"nexusFileName":"CBR_Pirates_Rebels KR","nexusFileVersion":"1.5","nexusFileUploadedAt":1728054647,"pakFileName":"CBR_Pirates_Rebels KR.pak","nexusFileId":73934,"metaUuid":null}
+]},
+"8202":{"nexusModName":"Do'Urden's Faerunian Field Guide to Flora and Fauna - An Alchemy Scavenging System","nexusUploadedBy":"parksinjunn","nexusModId":8202,"paks":[
+{"nexusFileName":"Dourdens Guide","nexusFileVersion":"1.0","nexusFileUploadedAt":1711143793,"pakFileName":"DourdensGuide.pak","nexusFileId":51084,"metaUuid":null}
 ]},
 "8205":{"nexusModName":"RingsExpanded - Cheat_PTBR","nexusUploadedBy":"jefak47M","nexusModId":8205,"paks":[
 {"nexusFileName":"RingsExpanded - Cheat_PTBR","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1711154729,"pakFileName":"RingsExpanded - Cheat_PTBR.pak","nexusFileId":51107,"metaUuid":null}
@@ -68099,7 +68102,7 @@
 {"nexusFileName":"Pandora Vampiric Version","nexusFileVersion":"1","nexusFileUploadedAt":1787262781,"pakFileName":"Pandora Vampiric Version By Goblin.pak","nexusFileId":128577,"metaUuid":"7fa9b172-9140-4648-9819-4da2d4b1456f"}
 ]},
 "24398":{"nexusModName":"Fade's Augmentation Runes","nexusUploadedBy":"GraphicFade","nexusModId":24398,"paks":[
-{"nexusFileName":"Fade's Augmentation Runes","nexusFileVersion":"1.0.0.3","nexusFileUploadedAt":1787374998,"pakFileName":"FAR_5e1efd5c-5e82-2c2a-6e9e-e070d141262d.pak","nexusFileId":128651,"metaUuid":"5e1efd5c-5e82-2c2a-6e9e-e070d141262d"}
+{"nexusFileName":"Fade's Augmentation Runes","nexusFileVersion":"1.0.0.4","nexusFileUploadedAt":1789483610,"pakFileName":"FAR_5e1efd5c-5e82-2c2a-6e9e-e070d141262d.pak","nexusFileId":130587,"metaUuid":"5e1efd5c-5e82-2c2a-6e9e-e070d141262d"}
 ]},
 "24399":{"nexusModName":"Stuffy Mcbears - Junk to Precious Minerals and Art Converter","nexusUploadedBy":"FerionLegacy","nexusModId":24399,"paks":[
 {"nexusFileName":"StuffyMcBears V1.0.0","nexusFileVersion":"1","nexusFileUploadedAt":1786566095,"pakFileName":"StuffyMcBears_v1.0.0.pak","nexusFileId":127939,"metaUuid":null}
