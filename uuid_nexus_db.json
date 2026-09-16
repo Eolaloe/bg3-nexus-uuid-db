@@ -1363,7 +1363,7 @@
 "642":{"nexusModName":"Necromancy Reanimated (Formerly Animate Dead Plus Plus)","nexusUploadedBy":"actualsailorcat","nexusModId":642,"paks":[
 {"nexusFileName":"Fix - Submod of ADPP and VS","nexusFileVersion":"1.00.05","nexusFileUploadedAt":1733459446,"pakFileName":"ADPPnVS Submod Fix.pak","nexusFileId":81184,"metaUuid":"a9fbfcea-ff68-4884-85cb-90c6086cce25"},
 {"nexusFileName":"Spell List Addon","nexusFileVersion":"1.06.01","nexusFileUploadedAt":1788489782,"pakFileName":"NR - Spell List Addon.pak","nexusFileId":129643,"metaUuid":"7ea10fb3-ccd0-44dd-bda6-7e2fc8628fb7"},
-{"nexusFileName":"Corpse Requirement Toggle SE","nexusFileVersion":"1.00.01","nexusFileUploadedAt":1788537967,"pakFileName":"NR - Corpse Conservation Bill.pak","nexusFileId":129684,"metaUuid":null},
+{"nexusFileName":"Corpse Requirement Toggle SE","nexusFileVersion":"1.00.01","nexusFileUploadedAt":1788537967,"pakFileName":"NR - Corpse Conservation Bill.pak","nexusFileId":129684,"metaUuid":"59ea2a6c-8667-4f84-af3a-e3b83c20e592"},
 {"nexusFileName":"Necromancy Reanimated","nexusFileVersion":"1.44.00","nexusFileUploadedAt":1789523515,"pakFileName":"Necromancy Reanimated.pak","nexusFileId":130622,"metaUuid":"f323b958-b845-4c79-b139-d39570658fbb"}
 ]},
 "644":{"nexusModName":"Approval Tweaks","nexusUploadedBy":"Koriik","nexusModId":644,"paks":[
@@ -10308,7 +10308,7 @@
 {"nexusFileName":"Restorable Inspiration Points - Max value - E","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1696965920,"pakFileName":"Restorable Inspiration Points - Max value.pak","nexusFileId":21934,"metaUuid":null},
 {"nexusFileName":"Restorable Inspiration Points - Max value - F","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1696965936,"pakFileName":"Restorable Inspiration Points - Max value.pak","nexusFileId":21935,"metaUuid":null},
 {"nexusFileName":"Restorable Inspiration Points - Max value - G","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1696965954,"pakFileName":"Restorable Inspiration Points - Max value.pak","nexusFileId":21936,"metaUuid":null},
-{"nexusFileName":"Restorable Inspiration Points - C","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1696969942,"pakFileName":"Restorable Inspiration Points.pak","nexusFileId":21942,"metaUuid":null}
+{"nexusFileName":"Restorable Inspiration Points - C","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1696969942,"pakFileName":"Restorable Inspiration Points.pak","nexusFileId":21942,"metaUuid":"0a095a30-19d7-40c2-adec-68e8919e5315"}
 ]},
 "3155":{"nexusModName":"Wizard Traditions - Runesmith French translate","nexusUploadedBy":"fenrules","nexusModId":3155,"paks":[
 {"nexusFileName":"FFT_WizardTraditions_RunesmithFr.pak","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1696971284,"pakFileName":"FFT_WizardTraditions_RunesmithFr.pak","nexusFileId":21943,"metaUuid":null}
@@ -24046,7 +24046,7 @@
 {"nexusFileName":"CBR_Pirates_Rebels KR","nexusFileVersion":"1.5","nexusFileUploadedAt":1728054647,"pakFileName":"CBR_Pirates_Rebels KR.pak","nexusFileId":73934,"metaUuid":null}
 ]},
 "8202":{"nexusModName":"Do'Urden's Faerunian Field Guide to Flora and Fauna - An Alchemy Scavenging System","nexusUploadedBy":"parksinjunn","nexusModId":8202,"paks":[
-{"nexusFileName":"Dourdens Guide","nexusFileVersion":"1.0","nexusFileUploadedAt":1711143793,"pakFileName":"DourdensGuide.pak","nexusFileId":51084,"metaUuid":null}
+{"nexusFileName":"Dourdens Guide","nexusFileVersion":"1.0","nexusFileUploadedAt":1711143793,"pakFileName":"DourdensGuide.pak","nexusFileId":51084,"metaUuid":"e6f77ea6-2fd8-4dfa-bee6-40a0a89b9b90"}
 ]},
 "8205":{"nexusModName":"RingsExpanded - Cheat_PTBR","nexusUploadedBy":"jefak47M","nexusModId":8205,"paks":[
 {"nexusFileName":"RingsExpanded - Cheat_PTBR","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1711154729,"pakFileName":"RingsExpanded - Cheat_PTBR.pak","nexusFileId":51107,"metaUuid":null}
@@ -25472,7 +25472,7 @@
 ]},
 "8618":{"nexusModName":"Buff Collection you may Missed","nexusUploadedBy":"MegaCoolBlood","nexusModId":8618,"paks":[
 {"nexusFileName":"Main File","nexusFileVersion":"7.0","nexusFileUploadedAt":1721288791,"pakFileName":"Buff_Container.pak","nexusFileId":64328,"metaUuid":"a970fef6-503e-4d49-8e62-c44faf4a0b4c"},
-{"nexusFileName":"No Spell Added","nexusFileVersion":"7.0","nexusFileUploadedAt":1721288826,"pakFileName":"Buff_Container_noAddOnLoad.pak","nexusFileId":64329,"metaUuid":null}
+{"nexusFileName":"No Spell Added","nexusFileVersion":"7.0","nexusFileUploadedAt":1721288826,"pakFileName":"Buff_Container_noAddOnLoad.pak","nexusFileId":64329,"metaUuid":"a970fef6-503e-4d49-8e62-c44faf4a0b4c"}
 ]},
 "8619":{"nexusModName":"Simple Sorting Bags - Korean Translation","nexusUploadedBy":"bk0n9","nexusModId":8619,"paks":[
 {"nexusFileName":"Simple Sorting Bags - Korean Translation","nexusFileVersion":"1.4.4-KR-1.0","nexusFileUploadedAt":1712592321,"pakFileName":"SimpleSortingBags-KR.pak","nexusFileId":53096,"metaUuid":null}
@@ -27586,7 +27586,7 @@
 "9478":{"nexusModName":"Infernal Fury Shout","nexusUploadedBy":"Belinn","nexusModId":9478,"paks":[
 {"nexusFileName":"Infernal Fury Shout_Special","nexusFileVersion":"1.0","nexusFileUploadedAt":1715750522,"pakFileName":"InfernalFuryShout.pak","nexusFileId":57202,"metaUuid":"2edd2b53-236b-4a4b-bc64-ada89c2ada40"},
 {"nexusFileName":"Infernal Fury Shout_Rage","nexusFileVersion":"1.0","nexusFileUploadedAt":1715750618,"pakFileName":"InfernalFuryShout.pak","nexusFileId":57203,"metaUuid":null},
-{"nexusFileName":"Infernal Fury Shout_Both","nexusFileVersion":"1.0","nexusFileUploadedAt":1715750759,"pakFileName":"InfernalFuryShout.pak","nexusFileId":57204,"metaUuid":null},
+{"nexusFileName":"Infernal Fury Shout_Both","nexusFileVersion":"1.0","nexusFileUploadedAt":1715750759,"pakFileName":"InfernalFuryShout.pak","nexusFileId":57204,"metaUuid":"2edd2b53-236b-4a4b-bc64-ada89c2ada40"},
 {"nexusFileName":"Infernal Fury Tweak_Hellfire","nexusFileVersion":"1.0","nexusFileUploadedAt":1715750839,"pakFileName":"InfernalFuryTweak.pak","nexusFileId":57205,"metaUuid":null},
 {"nexusFileName":"Infernal Fury Tweak_Fire Immune","nexusFileVersion":"1.0","nexusFileUploadedAt":1715750983,"pakFileName":"InfernalFuryTweak.pak","nexusFileId":57206,"metaUuid":null},
 {"nexusFileName":"Infernal Fury Tweak_Both","nexusFileVersion":"1.0","nexusFileUploadedAt":1715751152,"pakFileName":"InfernalFuryTweak.pak","nexusFileId":57207,"metaUuid":"3c06429d-3f0c-4f18-ae3e-677008ace235"}
@@ -61322,7 +61322,7 @@
 {"nexusFileName":"Conjure Elemental Totems","nexusFileVersion":"1.63","nexusFileUploadedAt":1774802516,"pakFileName":"Conjure_Elemental_Totems_e16c29c1-1311-2cd2-fb80-dd0959023f0b.pak","nexusFileId":117724,"metaUuid":"e16c29c1-1311-2cd2-fb80-dd0959023f0b"}
 ]},
 "21772":{"nexusModName":"Volitio's Mod Configuration Menu (MCM) for Korean","nexusUploadedBy":"Eolaloe","nexusModId":21772,"paks":[
-{"nexusFileName":"Mod Configuration Menu (MCM) for Korean","nexusFileVersion":"1.41.0","nexusFileUploadedAt":1789098792,"pakFileName":"Mod Configuration Menu_kr.pak","nexusFileId":130250,"metaUuid":null}
+{"nexusFileName":"Mod Configuration Menu (MCM) for Korean","nexusFileVersion":"1.41.0","nexusFileUploadedAt":1789098792,"pakFileName":"Mod Configuration Menu_kr.pak","nexusFileId":130250,"metaUuid":"95477381-d324-48fe-9756-e673e5d45a2e"}
 ]},
 "21773":{"nexusModName":"Way of the Jungle - Monk Subclass_KOR","nexusUploadedBy":"Ahdarugo","nexusModId":21773,"paks":[
 {"nexusFileName":"Way of the Jungle - Monk Subclass_KOR","nexusFileVersion":"1.0","nexusFileUploadedAt":1772886833,"pakFileName":"WayOfTheJungle_KOR_ab791096-53b6-dbbd-23cd-792ad9677c05.pak","nexusFileId":116257,"metaUuid":null}
@@ -66756,7 +66756,7 @@
 {"nexusFileName":"Main file","nexusFileVersion":"1","nexusFileUploadedAt":1784069598,"pakFileName":"gortflash_80d47f66-036b-e1a5-b3d8-44b178f6a0f7.pak","nexusFileId":125658,"metaUuid":"80d47f66-036b-e1a5-b3d8-44b178f6a0f7"}
 ]},
 "23848":{"nexusModName":"Transmuted Spell - a Metamagic for Every Element","nexusUploadedBy":"JThug","nexusModId":23848,"paks":[
-{"nexusFileName":"No Sorcery Point Cost - optional add-on","nexusFileVersion":"1.0","nexusFileUploadedAt":1788882424,"pakFileName":"TransmutedSpellNoCost.pak","nexusFileId":130032,"metaUuid":null},
+{"nexusFileName":"No Sorcery Point Cost - optional add-on","nexusFileVersion":"1.0","nexusFileUploadedAt":1788882424,"pakFileName":"TransmutedSpellNoCost.pak","nexusFileId":130032,"metaUuid":"c0e4656a-5ba2-51fa-a400-37f2d32b89e9"},
 {"nexusFileName":"TransmutedMagic Nexus Extended V1.3.18","nexusFileVersion":"1.3.18","nexusFileUploadedAt":1789166948,"pakFileName":"StarkMeiProbe.pak","nexusFileId":130317,"metaUuid":"237c3b40-47b7-5b29-bf12-a098e35c6aac"},
 {"nexusFileName":"TransmutedMagic Nexus Extended V1.3.18","nexusFileVersion":"1.3.18","nexusFileUploadedAt":1789166948,"pakFileName":"TransmutedMagic.pak","nexusFileId":130317,"metaUuid":"237c3b40-47b7-5b29-bf12-a098e35c6aac"},
 {"nexusFileName":"TransmutedSpell Nexus V1.3.16","nexusFileVersion":"1.3.16","nexusFileUploadedAt":1789166965,"pakFileName":"StarkMeiProbe.pak","nexusFileId":130318,"metaUuid":"237c3b40-47b7-5b29-bf12-a098e35c6aac"},
@@ -69108,8 +69108,8 @@
 "24669":{"nexusModName":"Clawstep Mod Refits","nexusUploadedBy":"tealrabbit19","nexusModId":24669,"paks":[
 {"nexusFileName":"CBR Battlemage Clawstep","nexusFileVersion":"1","nexusFileUploadedAt":1787948145,"pakFileName":"CBR_Battlemage_Clawstep.pak","nexusFileId":129218,"metaUuid":"5372a417-4b58-4997-b663-a95d49ac9a5f"},
 {"nexusFileName":"New Legendary Gear Clawstep","nexusFileVersion":"1","nexusFileUploadedAt":1788035331,"pakFileName":"NewLegndaryGear_Clawstep.pak","nexusFileId":129296,"metaUuid":"f0b49338-77fb-4753-a31c-ea19bcca0a39"},
-{"nexusFileName":"Agile Armor Clawstep","nexusFileVersion":"1","nexusFileUploadedAt":1788350151,"pakFileName":"AgileArmor_Clawstep.pak","nexusFileId":129548,"metaUuid":null},
-{"nexusFileName":"OWY Rose Rhythm Clawstep","nexusFileVersion":"1","nexusFileUploadedAt":1789320924,"pakFileName":"OWYDoesOutfits_RoseRhythm_Clawstep.pak","nexusFileId":130462,"metaUuid":null}
+{"nexusFileName":"Agile Armor Clawstep","nexusFileVersion":"1","nexusFileUploadedAt":1788350151,"pakFileName":"AgileArmor_Clawstep.pak","nexusFileId":129548,"metaUuid":"e50e9a50-df90-43c7-8e0d-b14bbd5e978b"},
+{"nexusFileName":"OWY Rose Rhythm Clawstep","nexusFileVersion":"1","nexusFileUploadedAt":1789320924,"pakFileName":"OWYDoesOutfits_RoseRhythm_Clawstep.pak","nexusFileId":130462,"metaUuid":"ea191d59-5ef2-41ba-918a-dc1e9b2d9095"}
 ]},
 "24670":{"nexusModName":"Dynamic Extra Encounters - Russian Translation","nexusUploadedBy":"SNKmod777","nexusModId":24670,"paks":[
 {"nexusFileName":"Dynamic Extra Encounters RU","nexusFileVersion":"1.0.0.31","nexusFileUploadedAt":1788991113,"pakFileName":"DynamicExtraEncounters_RU.pak","nexusFileId":130128,"metaUuid":null}
@@ -69269,7 +69269,7 @@
 {"nexusFileName":"Final Line For Dark Urge","nexusFileVersion":"1","nexusFileUploadedAt":1788220671,"pakFileName":"FinalLineForDurge.pak","nexusFileId":129472,"metaUuid":"50f7e0ef-d815-47d8-a4d1-3a3b6f0037ad"}
 ]},
 "24733":{"nexusModName":"Alucard's Legacy","nexusUploadedBy":"Heathcliff805","nexusModId":24733,"paks":[
-{"nexusFileName":"ResculptPersists 1.2","nexusFileVersion":"1","nexusFileUploadedAt":1788424975,"pakFileName":"ResculptPersists.pak","nexusFileId":129593,"metaUuid":null},
+{"nexusFileName":"ResculptPersists 1.2","nexusFileVersion":"1","nexusFileUploadedAt":1788424975,"pakFileName":"ResculptPersists.pak","nexusFileId":129593,"metaUuid":"c4a7f318-5b26-4e70-8d19-6f3ba204ce75"},
 {"nexusFileName":"SummonHotbarMemory ","nexusFileVersion":"2","nexusFileUploadedAt":1788508143,"pakFileName":"SummonHotbarMemory.pak","nexusFileId":129649,"metaUuid":"b7e51a90-3c42-4d18-9f6b-2a7c5e10d833"},
 {"nexusFileName":"AlucardsLegacy expanded v2","nexusFileVersion":"18","nexusFileUploadedAt":1789253355,"pakFileName":"AlucardsLegacy.pak","nexusFileId":130405,"metaUuid":"a1c4d200-1e9a-4b77-9f31-6d2c8be51f01"}
 ]},
@@ -69934,19 +69934,19 @@
 {"nexusFileName":"Bububull hair pack 04","nexusFileVersion":"1","nexusFileUploadedAt":1789503688,"pakFileName":"Bububull_hairpack04.pak","nexusFileId":130601,"metaUuid":null}
 ]},
 "25041":{"nexusModName":"Amour Dress","nexusUploadedBy":"lumadaire","nexusModId":25041,"paks":[
-{"nexusFileName":"Amour Dress","nexusFileVersion":"1.0","nexusFileUploadedAt":1789486753,"pakFileName":"LMDR_Amour_Dress_2e83bb96-4734-363b-ffd4-2af2e006ba8f.pak","nexusFileId":130590,"metaUuid":null}
+{"nexusFileName":"Amour Dress","nexusFileVersion":"1.0","nexusFileUploadedAt":1789486753,"pakFileName":"LMDR_Amour_Dress_2e83bb96-4734-363b-ffd4-2af2e006ba8f.pak","nexusFileId":130590,"metaUuid":"2e83bb96-4734-363b-ffd4-2af2e006ba8f"}
 ]},
 "25043":{"nexusModName":"Wands and Weave - Wizard Equipment - Russian Translation 1.0.0.13","nexusUploadedBy":"SNKmod777","nexusModId":25043,"paks":[
 {"nexusFileName":"WW Wizard Equipment RU","nexusFileVersion":"1.0.0.1","nexusFileUploadedAt":1789503586,"pakFileName":"WW_Wizard_Equipment_RU.pak","nexusFileId":130600,"metaUuid":null}
 ]},
 "25044":{"nexusModName":"Lae'zel Died","nexusUploadedBy":"xJustAdam","nexusModId":25044,"paks":[
-{"nexusFileName":"Lae'zel Died","nexusFileVersion":"1","nexusFileUploadedAt":1789508120,"pakFileName":"Lae'zel Died.pak","nexusFileId":130605,"metaUuid":null}
+{"nexusFileName":"Lae'zel Died","nexusFileVersion":"1","nexusFileUploadedAt":1789508120,"pakFileName":"Lae'zel Died.pak","nexusFileId":130605,"metaUuid":"277378bf-2f8d-490e-a745-08de8efe0174"}
 ]},
 "25046":{"nexusModName":"The Prophet of Nature - Halsin Edit","nexusUploadedBy":"SweetGenerousThing","nexusModId":25046,"paks":[
-{"nexusFileName":"SGT_Prophet Of Nature - Halsin Edit","nexusFileVersion":"1","nexusFileUploadedAt":1789505730,"pakFileName":"SGT_HalsinEdit_d4e23104-9f7f-d1c6-bf8b-7e61a2026b44.pak","nexusFileId":130602,"metaUuid":null},
-{"nexusFileName":"SGT_Prophet Of Nature - Halsin Portrait","nexusFileVersion":"1","nexusFileUploadedAt":1789505782,"pakFileName":"Prophet of Nature - Halsin Portrait.pak","nexusFileId":130603,"metaUuid":null},
+{"nexusFileName":"SGT_Prophet Of Nature - Halsin Edit","nexusFileVersion":"1","nexusFileUploadedAt":1789505730,"pakFileName":"SGT_HalsinEdit_d4e23104-9f7f-d1c6-bf8b-7e61a2026b44.pak","nexusFileId":130602,"metaUuid":"d4e23104-9f7f-d1c6-bf8b-7e61a2026b44"},
+{"nexusFileName":"SGT_Prophet Of Nature - Halsin Portrait","nexusFileVersion":"1","nexusFileUploadedAt":1789505782,"pakFileName":"Prophet of Nature - Halsin Portrait.pak","nexusFileId":130603,"metaUuid":"5aabbdf3-95b6-4795-9e93-5950650729d2"},
 {"nexusFileName":"SGT_Prophet Of Nature - Hair Only","nexusFileVersion":"1","nexusFileUploadedAt":1789569925,"pakFileName":"SGT_HalsinEdit_HairOnly_13ff358c-b5db-2db1-80e4-041b86759ff5.pak","nexusFileId":130658,"metaUuid":null},
-{"nexusFileName":"SGT_Prophet Of Nature - Outfit Only","nexusFileVersion":"1","nexusFileUploadedAt":1789569974,"pakFileName":"SGT_HalsinEdit_d4e23104-9f7f-d1c6-bf8b-7e61a2026b44.pak","nexusFileId":130659,"metaUuid":null}
+{"nexusFileName":"SGT_Prophet Of Nature - Outfit Only","nexusFileVersion":"1","nexusFileUploadedAt":1789569974,"pakFileName":"SGT_HalsinEdit_d4e23104-9f7f-d1c6-bf8b-7e61a2026b44.pak","nexusFileId":130659,"metaUuid":"d4e23104-9f7f-d1c6-bf8b-7e61a2026b44"}
 ]},
 "25047":{"nexusModName":"Quick and Dirty - Rogue Outfits","nexusUploadedBy":"orionnix","nexusModId":25047,"paks":[
 {"nexusFileName":"QuickAndDirty - Base Armors","nexusFileVersion":"1","nexusFileUploadedAt":1789510671,"pakFileName":"QuickAndDirty_RogueAttire_Base.pak","nexusFileId":130610,"metaUuid":null},
@@ -69982,10 +69982,10 @@
 {"nexusFileName":"Wish Spell   ES","nexusFileVersion":"1.01.08","nexusFileUploadedAt":1789546604,"pakFileName":"Wish Spell - ES.pak","nexusFileId":130632,"metaUuid":null}
 ]},
 "25059":{"nexusModName":"Immersive Broodmother's Revenge","nexusUploadedBy":"xJustAdam","nexusModId":25059,"paks":[
-{"nexusFileName":"Immersive Broodmother's Revenge","nexusFileVersion":"1","nexusFileUploadedAt":1789562641,"pakFileName":"Immersive Broodmother's Revenge.pak","nexusFileId":130644,"metaUuid":null}
+{"nexusFileName":"Immersive Broodmother's Revenge","nexusFileVersion":"1","nexusFileUploadedAt":1789562641,"pakFileName":"Immersive Broodmother's Revenge.pak","nexusFileId":130644,"metaUuid":"2e1e9b79-8149-4d23-b717-dcd1a6e4a936"}
 ]},
 "25060":{"nexusModName":"Immersive Ravengard Armour","nexusUploadedBy":"xJustAdam","nexusModId":25060,"paks":[
-{"nexusFileName":"Immersive Ravengard Armour","nexusFileVersion":"1","nexusFileUploadedAt":1789562427,"pakFileName":"Immersive Ravengard Armour.pak","nexusFileId":130643,"metaUuid":null}
+{"nexusFileName":"Immersive Ravengard Armour","nexusFileVersion":"1","nexusFileUploadedAt":1789562427,"pakFileName":"Immersive Ravengard Armour.pak","nexusFileId":130643,"metaUuid":"db6dc8ac-89a2-44f7-90a9-e22d108b1bdc"}
 ]},
 "25061":{"nexusModName":"Enchanter's Legacy - Enchanting System","nexusUploadedBy":"luiznunes","nexusModId":25061,"paks":[
 {"nexusFileName":"Random Items F08fd07b 1f3d 380 6wps","nexusFileVersion":"1.0.0.17","nexusFileUploadedAt":1789562985,"pakFileName":"random_items_f08fd07b-1f3d-3800-99dc-824246de8fad.pak","nexusFileId":130645,"metaUuid":null}
