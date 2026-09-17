@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-09-17T19:51:51.886942+00:00","total_mods":17665},
+{"_meta":{"last_run":"2026-09-17T20:51:27.178390+00:00","total_mods":17666},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -69126,8 +69126,8 @@
 {"nexusFileName":"PHPRobin E870033d 7c9d E902 8706 977022c78caf","nexusFileVersion":"1.0","nexusFileUploadedAt":1788000188,"pakFileName":"PHPRobin_e870033d-7c9d-e902-8706-977022c78caf.pak","nexusFileId":129259,"metaUuid":"e870033d-7c9d-e902-8706-977022c78caf"}
 ]},
 "24677":{"nexusModName":"Half-Orc Half-Drow","nexusUploadedBy":"Sai","nexusModId":24677,"paks":[
-{"nexusFileName":"Half-Orc Half-Drow","nexusFileVersion":"1.4","nexusFileUploadedAt":1789120971,"pakFileName":"Half-Orc Half-Drow.pak","nexusFileId":130264,"metaUuid":"2009eb1a-1d10-4ccd-8183-c9e56a495d92"},
-{"nexusFileName":"Half-Orc Half-Drow - Drow BT3 And BT4 Update","nexusFileVersion":"1.0","nexusFileUploadedAt":1789636032,"pakFileName":"Half-Orc Half-Drow - Drow BT3 and BT4 Update.pak","nexusFileId":130702,"metaUuid":null}
+{"nexusFileName":"Half-Orc Half-Drow - Drow BT3 And BT4 Update","nexusFileVersion":"1.1","nexusFileUploadedAt":1789677733,"pakFileName":"Half-Orc Half-Drow - Drow BT3 and BT4 Update.pak","nexusFileId":130752,"metaUuid":null},
+{"nexusFileName":"Half-Orc Half-Drow","nexusFileVersion":"1.5","nexusFileUploadedAt":1789677824,"pakFileName":"Half-Orc Half-Drow.pak","nexusFileId":130753,"metaUuid":"2009eb1a-1d10-4ccd-8183-c9e56a495d92"}
 ]},
 "24678":{"nexusModName":"Mizora Joins the Party - Turkish Translation","nexusUploadedBy":"tarikagl1","nexusModId":24678,"paks":[
 {"nexusFileName":"MizoraJoinsTheParty TR","nexusFileVersion":"1.00.00","nexusFileUploadedAt":1788006365,"pakFileName":"MizoraJoinsTheParty_TR.pak","nexusFileId":129262,"metaUuid":null}
@@ -69777,7 +69777,7 @@
 {"nexusFileName":"Dawnstar'S Psychic Weapons   ES","nexusFileVersion":"1.0.0.19","nexusFileUploadedAt":1789200581,"pakFileName":"Dawnstar's Psychic Weapons - ES.pak","nexusFileId":130333,"metaUuid":null}
 ]},
 "24960":{"nexusModName":"Lichling Spells","nexusUploadedBy":"grandninjamasterren","nexusModId":24960,"paks":[
-{"nexusFileName":"Lichling Spells","nexusFileVersion":"1","nexusFileUploadedAt":1789202085,"pakFileName":"inflictminorwounds_bcb6ce38-2592-da75-ddcd-b3682e948b97.pak","nexusFileId":130334,"metaUuid":"bcb6ce38-2592-da75-ddcd-b3682e948b97"}
+{"nexusFileName":"Lichling Spells","nexusFileVersion":"2","nexusFileUploadedAt":1789675199,"pakFileName":"inflictminorwounds_bcb6ce38-2592-da75-ddcd-b3682e948b97.pak","nexusFileId":130749,"metaUuid":"bcb6ce38-2592-da75-ddcd-b3682e948b97"}
 ]},
 "24962":{"nexusModName":"Opalescent Threads - Spanish","nexusUploadedBy":"KaiserSands","nexusModId":24962,"paks":[
 {"nexusFileName":"Opalescent Threads   ES","nexusFileVersion":"1","nexusFileUploadedAt":1789203823,"pakFileName":"Opalescent Threads - ES.pak","nexusFileId":130338,"metaUuid":"c1946a12-d5e5-4215-90d0-fd3114d07876"}
@@ -69990,7 +69990,7 @@
 {"nexusFileName":"Chaomofeats","nexusFileVersion":"3","nexusFileUploadedAt":1789669828,"pakFileName":"chaomofeats.pak","nexusFileId":130745,"metaUuid":null}
 ]},
 "25067":{"nexusModName":"The Crowded Campfire","nexusUploadedBy":"Sai","nexusModId":25067,"paks":[
-{"nexusFileName":"The Crowded Campfire","nexusFileVersion":"1.2","nexusFileUploadedAt":1789654979,"pakFileName":"The Crowded Campfire.pak","nexusFileId":130725,"metaUuid":null}
+{"nexusFileName":"The Crowded Campfire","nexusFileVersion":"1.3","nexusFileUploadedAt":1789678194,"pakFileName":"The Crowded Campfire.pak","nexusFileId":130754,"metaUuid":null}
 ]},
 "25068":{"nexusModName":"Warlock - The Undead - Traditional Chinese and Simplified Chinese Translation","nexusUploadedBy":"MaxStoKe","nexusModId":25068,"paks":[
 {"nexusFileName":"WarlockUndead CHT CHS","nexusFileVersion":"2.16.0","nexusFileUploadedAt":1789602946,"pakFileName":"WarlockUndead_CHT_CHS.pak","nexusFileId":130687,"metaUuid":null}
@@ -70033,4 +70033,7 @@
 ]},
 "25087":{"nexusModName":"Oath of the Open Sea - Paladin Subclass - Traditional Chinese and Simplified Chinese Translation","nexusUploadedBy":"MaxStoKe","nexusModId":25087,"paks":[
 {"nexusFileName":"OathOfTheOpenSea CHT CHS V2","nexusFileVersion":"1.1.0.6","nexusFileUploadedAt":1789668308,"pakFileName":"OathOfTheOpenSea_CHT_CHS_v2.pak","nexusFileId":130744,"metaUuid":null}
+]},
+"25090":{"nexusModName":"Faith and Fortitude - Cleric Equipment - Russian Translation 1.0.0.23","nexusUploadedBy":"SNKmod777","nexusModId":25090,"paks":[
+{"nexusFileName":"FF Cleric Equipment RU","nexusFileVersion":"1.0.0.6","nexusFileUploadedAt":1789676805,"pakFileName":"FF_Cleric_Equipment_RU.pak","nexusFileId":130751,"metaUuid":null}
 ]}}
