@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-09-17T17:51:34.261078+00:00","total_mods":17664},
+{"_meta":{"last_run":"2026-09-17T18:51:34.241316+00:00","total_mods":17666},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -50026,7 +50026,7 @@
 {"nexusFileName":"GigaWomen (Full Bodytype 3 Replacer)","nexusFileVersion":"1.1.0","nexusFileUploadedAt":1754759097,"pakFileName":"GigaWomen.pak","nexusFileId":100240,"metaUuid":null}
 ]},
 "17976":{"nexusModName":"Display Status Immunities","nexusUploadedBy":"KowboyBebop","nexusModId":17976,"paks":[
-{"nexusFileName":"Display Status Immunities","nexusFileVersion":"1.5","nexusFileUploadedAt":1789075754,"pakFileName":"DisplayStatusImmunities.pak","nexusFileId":130213,"metaUuid":"b129fbc3-cd0c-4640-a49b-09b85b4403b3"}
+{"nexusFileName":"Display Status Immunities","nexusFileVersion":"1.6","nexusFileUploadedAt":1789670516,"pakFileName":"DisplayStatusImmunities.pak","nexusFileId":130746,"metaUuid":"b129fbc3-cd0c-4640-a49b-09b85b4403b3"}
 ]},
 "17978":{"nexusModName":"Blue Nimbus Scratch - Alternative Scratch Appearance","nexusUploadedBy":"Lynstence","nexusModId":17978,"paks":[
 {"nexusFileName":"BlueNimbusScratch","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1754270744,"pakFileName":"BlueNimbusScratch.pak","nexusFileId":99853,"metaUuid":null}
@@ -69169,7 +69169,7 @@
 ]},
 "24689":{"nexusModName":"Act Two Expansion - Custom Campaign","nexusUploadedBy":"SquallyDaBeanz","nexusModId":24689,"paks":[
 {"nexusFileName":"Act Two Expansion","nexusFileVersion":"0.8","nexusFileUploadedAt":1789617744,"pakFileName":"ActTwoExpansion_41ec643a-e2ad-e69d-52c2-920a6f4a98ad.pak","nexusFileId":130696,"metaUuid":"41ec643a-e2ad-e69d-52c2-920a6f4a98ad"},
-{"nexusFileName":"Act Two Expansion (QuickStart)","nexusFileVersion":"0.8","nexusFileUploadedAt":1789618087,"pakFileName":"ActTwoExpansion_41ec643a-e2ad-e69d-52c2-920a6f4a98ad.pak","nexusFileId":130697,"metaUuid":null}
+{"nexusFileName":"Act Two Expansion (QuickStart)","nexusFileVersion":"0.8","nexusFileUploadedAt":1789618087,"pakFileName":"ActTwoExpansion_41ec643a-e2ad-e69d-52c2-920a6f4a98ad.pak","nexusFileId":130697,"metaUuid":"41ec643a-e2ad-e69d-52c2-920a6f4a98ad"}
 ]},
 "24690":{"nexusModName":"CHAR's BloodThorn Daggers","nexusUploadedBy":"char","nexusModId":24690,"paks":[
 {"nexusFileName":"CHAR's BloodThorn Daggers","nexusFileVersion":"2","nexusFileUploadedAt":1788129048,"pakFileName":"CHAR_BloodThornDaggers_364544ed-f5f2-0a43-dab4-557db05752ae.pak","nexusFileId":129392,"metaUuid":"364544ed-f5f2-0a43-dab4-557db05752ae"}
@@ -69990,7 +69990,7 @@
 {"nexusFileName":"BB Ranger Equipment RU","nexusFileVersion":"1.0.0.2","nexusFileUploadedAt":1789578372,"pakFileName":"BB_Ranger_Equipment_RU.pak","nexusFileId":130671,"metaUuid":null}
 ]},
 "25065":{"nexusModName":"chaomo feats","nexusUploadedBy":"baigegegugugu","nexusModId":25065,"paks":[
-{"nexusFileName":"Chaomofeats","nexusFileVersion":"2","nexusFileUploadedAt":1789576367,"pakFileName":"chaomofeats.pak","nexusFileId":130669,"metaUuid":null}
+{"nexusFileName":"Chaomofeats","nexusFileVersion":"3","nexusFileUploadedAt":1789669828,"pakFileName":"chaomofeats.pak","nexusFileId":130745,"metaUuid":null}
 ]},
 "25067":{"nexusModName":"The Crowded Campfire","nexusUploadedBy":"Sai","nexusModId":25067,"paks":[
 {"nexusFileName":"The Crowded Campfire","nexusFileVersion":"1.2","nexusFileUploadedAt":1789654979,"pakFileName":"The Crowded Campfire.pak","nexusFileId":130725,"metaUuid":null}
@@ -70019,6 +70019,9 @@
 "25081":{"nexusModName":"Exaen's Varrl Evolved for Korean","nexusUploadedBy":"Eolaloe","nexusModId":25081,"paks":[
 {"nexusFileName":"Varrl Evolved for Korean","nexusFileVersion":"1.0.2.0","nexusFileUploadedAt":1789661505,"pakFileName":"VarrlEvolved_kr.pak","nexusFileId":130733,"metaUuid":null}
 ]},
+"25082":{"nexusModName":"Origin Banter Restored","nexusUploadedBy":"xJustAdam","nexusModId":25082,"paks":[
+{"nexusFileName":"Origin Banter Restored","nexusFileVersion":"1","nexusFileUploadedAt":1789664321,"pakFileName":"Origin Banter Restored.pak","nexusFileId":130741,"metaUuid":null}
+]},
 "25083":{"nexusModName":"Exaen's Varrl Evolved for Japanese","nexusUploadedBy":"Eolaloe","nexusModId":25083,"paks":[
 {"nexusFileName":"Varrl Evolved for Japanese","nexusFileVersion":"1.0.2.0","nexusFileUploadedAt":1789661642,"pakFileName":"VarrlEvolved_jp.pak","nexusFileId":130734,"metaUuid":null}
 ]},
@@ -70030,4 +70033,7 @@
 ]},
 "25086":{"nexusModName":"Oath of the Watchers - Paladin Subclass - Traditional Chinese and Simplified Chinese Translation","nexusUploadedBy":"MaxStoKe","nexusModId":25086,"paks":[
 {"nexusFileName":"OathOfTheWatchers CHT CHS V2","nexusFileVersion":"2.0.2.1","nexusFileUploadedAt":1789663115,"pakFileName":"OathOfTheWatchers_CHT_CHS_v2.pak","nexusFileId":130740,"metaUuid":null}
+]},
+"25087":{"nexusModName":"Oath of the Open Sea - Paladin Subclass - Traditional Chinese and Simplified Chinese Translation","nexusUploadedBy":"MaxStoKe","nexusModId":25087,"paks":[
+{"nexusFileName":"OathOfTheOpenSea CHT CHS V2","nexusFileVersion":"1.1.0.6","nexusFileUploadedAt":1789668308,"pakFileName":"OathOfTheOpenSea_CHT_CHS_v2.pak","nexusFileId":130744,"metaUuid":null}
 ]}}
