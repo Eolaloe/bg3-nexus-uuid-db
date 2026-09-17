@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-09-17T15:51:30.509269+00:00","total_mods":17659},
+{"_meta":{"last_run":"2026-09-17T16:51:37.398808+00:00","total_mods":17664},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -68681,7 +68681,7 @@
 {"nexusFileName":"Epilogue Clothing Storage System - G-d Gale Patch","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1787802764,"pakFileName":"MGNTN_PickEPIOutfits_GdGale.pak","nexusFileId":129135,"metaUuid":"621308d4-716a-4329-a528-0a8edbedb639"}
 ]},
 "24507":{"nexusModName":"Bhaal's Forgotten Son - Dark Urge Lore Expansion -","nexusUploadedBy":"RealYablo","nexusModId":24507,"paks":[
-{"nexusFileName":"Bhaal's Forgotten Son -1.1.0-","nexusFileVersion":"1.1.0","nexusFileUploadedAt":1789658677,"pakFileName":"hold_on_2ec64c1b-f0e2-d572-c5da-78e09a4ebc08.pak","nexusFileId":130729,"metaUuid":"2ec64c1b-f0e2-d572-c5da-78e09a4ebc08"}
+{"nexusFileName":"Bhaal's Forgotten Son -1.1.0-","nexusFileVersion":"1.1.0","nexusFileUploadedAt":1789661941,"pakFileName":"hold_on_2ec64c1b-f0e2-d572-c5da-78e09a4ebc08.pak","nexusFileId":130737,"metaUuid":"2ec64c1b-f0e2-d572-c5da-78e09a4ebc08"}
 ]},
 "24508":{"nexusModName":"Moon's Half Orcs","nexusUploadedBy":"AdrasteaMoon","nexusModId":24508,"paks":[
 {"nexusFileName":"Main File","nexusFileVersion":"1","nexusFileUploadedAt":1787099791,"pakFileName":"Moon's Orcs.pak","nexusFileId":128431,"metaUuid":"0ad3841f-672c-46cf-b1cf-044a8af97b0e"}
@@ -70015,4 +70015,19 @@
 ]},
 "25080":{"nexusModName":"Circle of Wildfire Druid Subclass - Traditional Chinese and Simplified Chinese Translation","nexusUploadedBy":"MaxStoKe","nexusModId":25080,"paks":[
 {"nexusFileName":"CircleofWildfire CHT CHS","nexusFileVersion":"1.3","nexusFileUploadedAt":1789657639,"pakFileName":"CircleofWildfire_CHT_CHS.pak","nexusFileId":130727,"metaUuid":null}
+]},
+"25081":{"nexusModName":"Exaen's Varrl Evolved for Korean","nexusUploadedBy":"Eolaloe","nexusModId":25081,"paks":[
+{"nexusFileName":"Varrl Evolved for Korean","nexusFileVersion":"1.0.2.0","nexusFileUploadedAt":1789661505,"pakFileName":"VarrlEvolved_kr.pak","nexusFileId":130733,"metaUuid":null}
+]},
+"25083":{"nexusModName":"Exaen's Varrl Evolved for Japanese","nexusUploadedBy":"Eolaloe","nexusModId":25083,"paks":[
+{"nexusFileName":"Varrl Evolved for Japanese","nexusFileVersion":"1.0.2.0","nexusFileUploadedAt":1789661642,"pakFileName":"VarrlEvolved_jp.pak","nexusFileId":130734,"metaUuid":null}
+]},
+"25084":{"nexusModName":"Circle of the Shepherd Druid Subclass - Traditional Chinese and Simplified Chinese Translation","nexusUploadedBy":"MaxStoKe","nexusModId":25084,"paks":[
+{"nexusFileName":"CircleoftheShepherd CHT CHS","nexusFileVersion":"1.3","nexusFileUploadedAt":1789662269,"pakFileName":"CircleoftheShepherd_CHT_CHS.pak","nexusFileId":130738,"metaUuid":null}
+]},
+"25085":{"nexusModName":"Circle of the Blighted Druid Subclass - Traditional Chinese and Simplified Chinese Translation","nexusUploadedBy":"MaxStoKe","nexusModId":25085,"paks":[
+{"nexusFileName":"CircleOfTheBlighted CHT CHS","nexusFileVersion":"1.1","nexusFileUploadedAt":1789662702,"pakFileName":"CircleOfTheBlighted_CHT_CHS.pak","nexusFileId":130739,"metaUuid":null}
+]},
+"25086":{"nexusModName":"Oath of the Watchers - Paladin Subclass - Traditional Chinese and Simplified Chinese Translation","nexusUploadedBy":"MaxStoKe","nexusModId":25086,"paks":[
+{"nexusFileName":"OathOfTheWatchers CHT CHS V2","nexusFileVersion":"2.0.2.1","nexusFileUploadedAt":1789663115,"pakFileName":"OathOfTheWatchers_CHT_CHS_v2.pak","nexusFileId":130740,"metaUuid":null}
 ]}}
