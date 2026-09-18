@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-09-18T13:52:00.846781+00:00","total_mods":17689},
+{"_meta":{"last_run":"2026-09-18T14:52:28.794623+00:00","total_mods":17690},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -55997,7 +55997,7 @@
 {"nexusFileName":"cadystieflingposes","nexusFileVersion":"1.0.0.7","nexusFileUploadedAt":1764669160,"pakFileName":"tiefposes_2fcf2d22-c06a-25fd-be53-f73a46e9099e.pak","nexusFileId":108655,"metaUuid":"2fcf2d22-c06a-25fd-be53-f73a46e9099e"}
 ]},
 "19908":{"nexusModName":"DnD 5.5e All-in-One BEYOND for Chinese","nexusUploadedBy":"pom0328tw","nexusModId":19908,"paks":[
-{"nexusFileName":"Dnd2024CHSCHT","nexusFileVersion":"2.10.2","nexusFileUploadedAt":1788527018,"pakFileName":"dnd2024CHSCHT.pak","nexusFileId":129670,"metaUuid":"577d1a0d-1421-441b-b563-060e7b564a00"}
+{"nexusFileName":"Dnd2024CHSCHT","nexusFileVersion":"2.10.3","nexusFileUploadedAt":1789740760,"pakFileName":"dnd2024CHSCHT.pak","nexusFileId":130797,"metaUuid":"577d1a0d-1421-441b-b563-060e7b564a00"}
 ]},
 "19909":{"nexusModName":"Zorn - a pretty boy head preset for HRC","nexusUploadedBy":"Midsommarnacht","nexusModId":19909,"paks":[
 {"nexusFileName":"Zorn - EOTB","nexusFileVersion":"1.2.1","nexusFileUploadedAt":1764847572,"pakFileName":"♡a pretty orc head mod♡ -EOTB.pak","nexusFileId":108841,"metaUuid":"89831804-d62b-4328-80f7-e8783cab2306"},
@@ -69140,7 +69140,8 @@
 {"nexusFileName":"SGT_Taste Of Poison - Vanilla Face","nexusFileVersion":"1","nexusFileUploadedAt":1788184694,"pakFileName":"SGT_TasteOfPoison_109503d1-750a-378f-febb-3145eac4f9df.pak","nexusFileId":129437,"metaUuid":"109503d1-750a-378f-febb-3145eac4f9df"},
 {"nexusFileName":"SGT_Taste Of Poison  - Minthara Edit - Alt","nexusFileVersion":"1","nexusFileUploadedAt":1788184722,"pakFileName":"SGT_TasteOfPoison_109503d1-750a-378f-febb-3145eac4f9df.pak","nexusFileId":129439,"metaUuid":"109503d1-750a-378f-febb-3145eac4f9df"},
 {"nexusFileName":"SGT_Taste Of Poison -  Armor","nexusFileVersion":"1","nexusFileUploadedAt":1788190190,"pakFileName":"SGT_TasteOfPoison_Armor_8cdc9656-8523-4e2b-9aa2-8e09fe1424c1.pak","nexusFileId":129452,"metaUuid":"8cdc9656-8523-4e2b-9aa2-8e09fe1424c1"},
-{"nexusFileName":"SGT_Taste Of Poison - Vanilla Armor","nexusFileVersion":"1","nexusFileUploadedAt":1788973423,"pakFileName":"SGT_TasteOfPoison_109503d1-750a-378f-febb-3145eac4f9df.pak","nexusFileId":130110,"metaUuid":"109503d1-750a-378f-febb-3145eac4f9df"}
+{"nexusFileName":"SGT_Taste Of Poison - Vanilla Armor","nexusFileVersion":"1","nexusFileUploadedAt":1788973423,"pakFileName":"SGT_TasteOfPoison_109503d1-750a-378f-febb-3145eac4f9df.pak","nexusFileId":130110,"metaUuid":"109503d1-750a-378f-febb-3145eac4f9df"},
+{"nexusFileName":"SGT_Taste Of Poison - Hair Only","nexusFileVersion":"1.0.1","nexusFileUploadedAt":1789739654,"pakFileName":"SGT_TasteOfPoison_HairOnly_76b5ecb0-ab30-aef1-5d76-4e4618059426.pak","nexusFileId":130794,"metaUuid":null}
 ]},
 "24684":{"nexusModName":"Astarions armor in the scene with Casador.","nexusUploadedBy":"Deni34","nexusModId":24684,"paks":[
 {"nexusFileName":"Astarion FINAL","nexusFileVersion":"1","nexusFileUploadedAt":1788027313,"pakFileName":"Astarion_FINAL.pak","nexusFileId":129284,"metaUuid":"8e309005-2c4f-2a84-454c-483ac2f7b316"}
@@ -69619,7 +69620,9 @@
 {"nexusFileName":"SGT_Pride Of The Gate - Portrait (Arms Of Hadar)","nexusFileVersion":"1","nexusFileUploadedAt":1788898986,"pakFileName":"Pride of the Gate - Wyll Portraits (Arms of Hadar).pak","nexusFileId":130055,"metaUuid":null},
 {"nexusFileName":"SGT_Pride Of The Gate  - Hairs For CC","nexusFileVersion":"1.0.3","nexusFileUploadedAt":1789055029,"pakFileName":"SGT_PrideOfTheGate_Hairs_78720657-3217-5f3e-f8ac-8c28c83f5fdc.pak","nexusFileId":130182,"metaUuid":"78720657-3217-5f3e-f8ac-8c28c83f5fdc"},
 {"nexusFileName":"SGT_Pride Of The Gate - Hair Only (Arms Of Hadar)","nexusFileVersion":"1","nexusFileUploadedAt":1789055078,"pakFileName":"SGT_PrideOfTheGate_HairOnly_61f66bf5-c479-f9e2-c4fa-dd6cfd6dc661.pak","nexusFileId":130183,"metaUuid":null},
-{"nexusFileName":"SGT_Pride Of The Gate - Hair Only (Eldritch Blast)","nexusFileVersion":"1","nexusFileUploadedAt":1789055108,"pakFileName":"SGT_PrideOfTheGate_HairOnly_61f66bf5-c479-f9e2-c4fa-dd6cfd6dc661.pak","nexusFileId":130184,"metaUuid":null}
+{"nexusFileName":"SGT_Pride Of The Gate - Hair Only (Eldritch Blast)","nexusFileVersion":"1","nexusFileUploadedAt":1789055108,"pakFileName":"SGT_PrideOfTheGate_HairOnly_61f66bf5-c479-f9e2-c4fa-dd6cfd6dc661.pak","nexusFileId":130184,"metaUuid":null},
+{"nexusFileName":"Pride Of The Gate - Outfit Only (Eldritch Blast)","nexusFileVersion":"1","nexusFileUploadedAt":1789742268,"pakFileName":"SGT_WyllEdit_742d433f-b526-78fe-5d0f-a3a8760cc6d7.pak","nexusFileId":130798,"metaUuid":"742d433f-b526-78fe-5d0f-a3a8760cc6d7"},
+{"nexusFileName":"Pride Of The Gate - Outfit Only (Arms Of Hadar)","nexusFileVersion":"1","nexusFileUploadedAt":1789742295,"pakFileName":"SGT_WyllEdit_742d433f-b526-78fe-5d0f-a3a8760cc6d7.pak","nexusFileId":130799,"metaUuid":"742d433f-b526-78fe-5d0f-a3a8760cc6d7"}
 ]},
 "24894":{"nexusModName":"Yet Another Party","nexusUploadedBy":"Sai","nexusModId":24894,"paks":[
 {"nexusFileName":"Yet Another Party","nexusFileVersion":"1.3","nexusFileUploadedAt":1789734696,"pakFileName":"Yet Another Party.pak","nexusFileId":130793,"metaUuid":"2799067d-d379-4367-b135-ddb45e0d96cb"}
@@ -70122,4 +70125,9 @@
 ]},
 "25098":{"nexusModName":"The Sunless Citadel - Custom Campaign","nexusUploadedBy":"Batilfly","nexusModId":25098,"paks":[
 {"nexusFileName":"The Sunless Citadel 1.0","nexusFileVersion":"1","nexusFileUploadedAt":1789724594,"pakFileName":"SunlessCitadel_e73d46a6-51be-0a9d-ef18-865c73e53a94.pak","nexusFileId":130782,"metaUuid":"e73d46a6-51be-0a9d-ef18-865c73e53a94"}
+]},
+"25101":{"nexusModName":"FaerunColors.chs","nexusUploadedBy":"uulucky","nexusModId":25101,"paks":[
+{"nexusFileName":"FaerunColors","nexusFileVersion":"1","nexusFileUploadedAt":1789739699,"pakFileName":"FaerunColors.pak","nexusFileId":130795,"metaUuid":null},
+{"nexusFileName":"FaerunColors","nexusFileVersion":"1","nexusFileUploadedAt":1789739699,"pakFileName":"FaerunColors_CHS.pak","nexusFileId":130795,"metaUuid":null},
+{"nexusFileName":"FaerunColors CHS","nexusFileVersion":"1","nexusFileUploadedAt":1789739722,"pakFileName":"FaerunColors_CHS.pak","nexusFileId":130796,"metaUuid":null}
 ]}}
