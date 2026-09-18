@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-09-18T04:51:48.510497+00:00","total_mods":17674},
+{"_meta":{"last_run":"2026-09-18T05:52:03.140379+00:00","total_mods":17686},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -69694,7 +69694,7 @@
 {"nexusFileName":"Misa Scytche 1","nexusFileVersion":"1","nexusFileUploadedAt":1789028946,"pakFileName":"DesolateScythe_a0198685-e05c-443b-abac-ee3c60376b07.pak","nexusFileId":130160,"metaUuid":"a0198685-e05c-443b-abac-ee3c60376b07"}
 ]},
 "24921":{"nexusModName":"Waypoints Expanded (Russian Translate)","nexusUploadedBy":"SexSux","nexusModId":24921,"paks":[
-{"nexusFileName":"Waypoints (Russian Translate)","nexusFileVersion":"1.0.0.73","nexusFileUploadedAt":1789706686,"pakFileName":"Waypoints_400daab4-2ffe-436d-dcad-5e5312430f17_RUS.pak","nexusFileId":130768,"metaUuid":null}
+{"nexusFileName":"Waypoints (Russian Translate)","nexusFileVersion":"1.0.0.73","nexusFileUploadedAt":1789707603,"pakFileName":"Waypoints_400daab4-2ffe-436d-dcad-5e5312430f17_RUS.pak","nexusFileId":130770,"metaUuid":null}
 ]},
 "24922":{"nexusModName":"Echo Knight Fighter Subclass - Traditional Chinese and Simplified Chinese Translation","nexusUploadedBy":"MaxStoKe","nexusModId":24922,"paks":[
 {"nexusFileName":"EchoKnight CHT CHS","nexusFileVersion":"1.5.8","nexusFileUploadedAt":1789560644,"pakFileName":"EchoKnight_CHT_CHS.pak","nexusFileId":130640,"metaUuid":null}
@@ -69781,6 +69781,9 @@
 ]},
 "24960":{"nexusModName":"Lichling Spells","nexusUploadedBy":"grandninjamasterren","nexusModId":24960,"paks":[
 {"nexusFileName":"Lichling Spells","nexusFileVersion":"2","nexusFileUploadedAt":1789675199,"pakFileName":"inflictminorwounds_bcb6ce38-2592-da75-ddcd-b3682e948b97.pak","nexusFileId":130749,"metaUuid":"bcb6ce38-2592-da75-ddcd-b3682e948b97"}
+]},
+"24961":{"nexusModName":"Cosmetic slots (Russian Translate)","nexusUploadedBy":"SexSux","nexusModId":24961,"paks":[
+{"nexusFileName":"Cosmetic slots (Russian Translate)","nexusFileVersion":"0.9.1.0","nexusFileUploadedAt":1789709122,"pakFileName":"Fallen_Tmog_RUS.pak","nexusFileId":130772,"metaUuid":null}
 ]},
 "24962":{"nexusModName":"Opalescent Threads - Spanish","nexusUploadedBy":"KaiserSands","nexusModId":24962,"paks":[
 {"nexusFileName":"Opalescent Threads   ES","nexusFileVersion":"1","nexusFileUploadedAt":1789203823,"pakFileName":"Opalescent Threads - ES.pak","nexusFileId":130338,"metaUuid":"c1946a12-d5e5-4215-90d0-fd3114d07876"}
@@ -69913,10 +69916,60 @@
 "25023":{"nexusModName":"Gortash Facelift - Portrait Update","nexusUploadedBy":"Sai","nexusModId":25023,"paks":[
 {"nexusFileName":"Gortash Facelift - Portrait Update","nexusFileVersion":"1.0","nexusFileUploadedAt":1789427312,"pakFileName":"Gortash Facelift - Portrait Update.pak","nexusFileId":130538,"metaUuid":null}
 ]},
+"25025":{"nexusModName":"Alternate Starting Gear for Astarion","nexusUploadedBy":"AntifaLafel","nexusModId":25025,"paks":[
+{"nexusFileName":"Alternate Starting Gear for Astarion V1","nexusFileVersion":"1","nexusFileUploadedAt":1789464050,"pakFileName":"AntifaLafel_AlternateSE_Astarion_24034df5-0d03-8d5a-4a50-a8715e595fea.pak","nexusFileId":130552,"metaUuid":null},
+{"nexusFileName":"Alternate Starting Gear for Astarion V2","nexusFileVersion":"1","nexusFileUploadedAt":1789464157,"pakFileName":"AntifaLafel_AlternateSE_Astarion2_f988b1eb-e9a9-b247-399d-49a3a6789c6c.pak","nexusFileId":130553,"metaUuid":null},
+{"nexusFileName":"Alternate Starting Gear for Astarion V3","nexusFileVersion":"1","nexusFileUploadedAt":1789464197,"pakFileName":"AntifaLafel_AlternateSE_Astarion3_0ebea4fb-d5aa-edcf-4dd2-9dc7d1e39ea5.pak","nexusFileId":130554,"metaUuid":null}
+]},
+"25026":{"nexusModName":"Alternate Starting Gear for Gale","nexusUploadedBy":"AntifaLafel","nexusModId":25026,"paks":[
+{"nexusFileName":"Alternate Starting Gear for Gale V3","nexusFileVersion":"1","nexusFileUploadedAt":1789466076,"pakFileName":"AntifaLafel_AlternateSE_Gale3_ad61a670-d8c7-565e-44d2-3a25fe49f2de.pak","nexusFileId":130556,"metaUuid":null},
+{"nexusFileName":"Alternate Starting Gear for Gale V2","nexusFileVersion":"1","nexusFileUploadedAt":1789466109,"pakFileName":"AntifaLafel_AlternateSE_Gale2_d6965db9-a8b5-cd00-8a29-53973cbd9f09.pak","nexusFileId":130557,"metaUuid":null},
+{"nexusFileName":"Alternate Starting Gear for Gale V1","nexusFileVersion":"1","nexusFileUploadedAt":1789466140,"pakFileName":"AntifaLafel_AlternateSE_Gale_28f84b4d-5aab-1d09-f193-a2f8ae0669da.pak","nexusFileId":130558,"metaUuid":null}
+]},
+"25027":{"nexusModName":"Alternate Starting Gear for Halsin","nexusUploadedBy":"AntifaLafel","nexusModId":25027,"paks":[
+{"nexusFileName":"Alternate Starting Gear for Halsin V3","nexusFileVersion":"1","nexusFileUploadedAt":1789467404,"pakFileName":"AntifaLafel_AlternateSE_Halsin3_aeee169b-def6-10cf-ef95-a93739525d7e.pak","nexusFileId":130559,"metaUuid":null},
+{"nexusFileName":"Alternate Starting Gear for Halsin V2","nexusFileVersion":"1","nexusFileUploadedAt":1789467427,"pakFileName":"AntifaLafel_AlternateSE_Gale2_d6965db9-a8b5-cd00-8a29-53973cbd9f09.pak","nexusFileId":130560,"metaUuid":null},
+{"nexusFileName":"Alternate Starting Gear for Halsin V1","nexusFileVersion":"1","nexusFileUploadedAt":1789467453,"pakFileName":"AntifaLafel_AlternateSE_Halsin_6cbc4045-0f67-1e7d-a4f9-80a81f63f3ec.pak","nexusFileId":130561,"metaUuid":null}
+]},
+"25029":{"nexusModName":"Alternate Starting Gear for Karlach","nexusUploadedBy":"AntifaLafel","nexusModId":25029,"paks":[
+{"nexusFileName":"Alternate Starting Gear for Karlach V3","nexusFileVersion":"1","nexusFileUploadedAt":1789467705,"pakFileName":"AntifaLafel_AlternateSE_Karlach3_40c9fcf4-658f-f9ed-9d03-245fc0097591.pak","nexusFileId":130565,"metaUuid":null},
+{"nexusFileName":"Alternate Starting Gear for Karlach V2","nexusFileVersion":"1","nexusFileUploadedAt":1789467726,"pakFileName":"AntifaLafel_AlternateSE_Karlach2_0c5c3841-cca8-9249-df35-a91a358da0fb.pak","nexusFileId":130566,"metaUuid":null},
+{"nexusFileName":"Alternate Starting Gear for Karlach V1","nexusFileVersion":"1","nexusFileUploadedAt":1789467748,"pakFileName":"AntifaLafel_AlternateSE_Karlach_bfb4e494-2225-5c5c-fb81-e77adf607606.pak","nexusFileId":130567,"metaUuid":null}
+]},
+"25030":{"nexusModName":"Alternate Starting Gear for Jaheira","nexusUploadedBy":"AntifaLafel","nexusModId":25030,"paks":[
+{"nexusFileName":"Alternate Starting Gear for Jaheira V3","nexusFileVersion":"1","nexusFileUploadedAt":1789467551,"pakFileName":"AntifaLafel_AlternateSE_Jaheira3_801f0fd9-605b-fdf1-1375-dc5b46603ca1.pak","nexusFileId":130562,"metaUuid":null},
+{"nexusFileName":"Alternate Starting Gear for Jaheira V2","nexusFileVersion":"1","nexusFileUploadedAt":1789467573,"pakFileName":"AntifaLafel_AlternateSE_Jaheira2_5f70f969-6c8c-21dc-8cbc-efe85d3a29ad.pak","nexusFileId":130563,"metaUuid":null},
+{"nexusFileName":"Alternate Starting Gear for Jaheira V1","nexusFileVersion":"1","nexusFileUploadedAt":1789467594,"pakFileName":"AntifaLafel_AlternateSE_Jaheira_c21fc16a-b1d1-301a-9d3a-4bb4f95915e6.pak","nexusFileId":130564,"metaUuid":null}
+]},
+"25031":{"nexusModName":"Alternate Starting Gear for Lae'zel","nexusUploadedBy":"AntifaLafel","nexusModId":25031,"paks":[
+{"nexusFileName":"Alternate Starting Gear for Lae'zel V3","nexusFileVersion":"1","nexusFileUploadedAt":1789468081,"pakFileName":"AntifaLafel_AlternateSE_Laezel3_32eeb672-56a9-69e0-55f2-c77fc3107b19.pak","nexusFileId":130568,"metaUuid":null},
+{"nexusFileName":"Alternate Starting Gear for Lae'zel V2","nexusFileVersion":"1","nexusFileUploadedAt":1789468103,"pakFileName":"AntifaLafel_AlternateSE_Laezel2_89449e6d-6f16-9648-14da-455914bb22f6.pak","nexusFileId":130570,"metaUuid":null},
+{"nexusFileName":"Alternate Starting Gear for Lae'zel V1","nexusFileVersion":"1","nexusFileUploadedAt":1789468134,"pakFileName":"AntifaLafel_AlternateSE_Laezel_f452f539-4b16-efdb-a100-3d529140dee0.pak","nexusFileId":130571,"metaUuid":null}
+]},
+"25032":{"nexusModName":"Alternate Starting Gear for Minsc","nexusUploadedBy":"AntifaLafel","nexusModId":25032,"paks":[
+{"nexusFileName":"Alternate Starting Gear for Minsc V3","nexusFileVersion":"1","nexusFileUploadedAt":1789468206,"pakFileName":"AntifaLafel_AlternateSE_Minsc3_93597cd3-0d64-9374-ea5b-cd678f671fbb.pak","nexusFileId":130572,"metaUuid":null},
+{"nexusFileName":"Alternate Starting Gear for Minsc V2","nexusFileVersion":"1","nexusFileUploadedAt":1789468230,"pakFileName":"AntifaLafel_AlternateSE_Minsc2_6aac901c-efa9-2f01-94d6-a9aa9d7a48c6.pak","nexusFileId":130573,"metaUuid":null},
+{"nexusFileName":"Alternate Starting Gear for Minsc V1","nexusFileVersion":"1","nexusFileUploadedAt":1789468260,"pakFileName":"AntifaLafel_AlternateSE_Minsc_ee2ef9b6-4b0e-bfbd-e07e-15c74016c540.pak","nexusFileId":130574,"metaUuid":null}
+]},
+"25033":{"nexusModName":"Alternate Starting Gear for Minthara","nexusUploadedBy":"AntifaLafel","nexusModId":25033,"paks":[
+{"nexusFileName":"Alternate Starting Gear for Minthara V3","nexusFileVersion":"1","nexusFileUploadedAt":1789468368,"pakFileName":"AntifaLafel_AlternateSE_Minthara3_2e9fb068-0dd5-6a15-c6dd-86cfbc0837d0.pak","nexusFileId":130575,"metaUuid":null},
+{"nexusFileName":"Alternate Starting Gear for Minthara V2","nexusFileVersion":"1","nexusFileUploadedAt":1789468389,"pakFileName":"AntifaLafel_AlternateSE_Minthara2_883f9372-dd23-3f00-d6b2-5c42ea492a91.pak","nexusFileId":130576,"metaUuid":null},
+{"nexusFileName":"Alternate Starting Gear for Minthara V1","nexusFileVersion":"1","nexusFileUploadedAt":1789468413,"pakFileName":"AntifaLafel_AlternateSE_Minthara_001593be-453a-b533-3a9c-285c5157feac.pak","nexusFileId":130577,"metaUuid":null}
+]},
+"25034":{"nexusModName":"Alternate Starting Gear for Shadowheart","nexusUploadedBy":"AntifaLafel","nexusModId":25034,"paks":[
+{"nexusFileName":"Alternate Starting Gear for Shadowheart V3","nexusFileVersion":"1","nexusFileUploadedAt":1789468461,"pakFileName":"AntifaLafel_AlternateSE_Shadowheart3_7bf8bfff-b0a0-9053-b2a3-2b97280ae8a4.pak","nexusFileId":130578,"metaUuid":null},
+{"nexusFileName":"Alternate Starting Gear for Shadowheart V2","nexusFileVersion":"1","nexusFileUploadedAt":1789468484,"pakFileName":"AntifaLafel_AlternateSE_Shadowheart2_09d8d0d2-6baa-a897-5cfc-bdabe54769a8.pak","nexusFileId":130579,"metaUuid":null},
+{"nexusFileName":"Alternate Starting Gear for Shadowheart V1","nexusFileVersion":"1","nexusFileUploadedAt":1789468506,"pakFileName":"AntifaLafel_AlternateSE_Shadowheart_a840664f-6133-9c73-7945-5928b0028cfe.pak","nexusFileId":130580,"metaUuid":null}
+]},
+"25035":{"nexusModName":"Alternate Starting Gear for Wyll","nexusUploadedBy":"AntifaLafel","nexusModId":25035,"paks":[
+{"nexusFileName":"Alternate Starting Gear for Wyll V3","nexusFileVersion":"1","nexusFileUploadedAt":1789468569,"pakFileName":"AntifaLafel_AlternateSE_Wyll3_0ef4be6b-604b-55c8-05c3-a6f89e3a0fb1.pak","nexusFileId":130581,"metaUuid":null},
+{"nexusFileName":"Alternate Starting Gear for Wyll V2","nexusFileVersion":"1","nexusFileUploadedAt":1789468627,"pakFileName":"AntifaLafel_AlternateSE_Wyll2_76858989-294f-3c47-ebb0-495e6a50fb80.pak","nexusFileId":130582,"metaUuid":null},
+{"nexusFileName":"Alternate Starting Gear for Wyll V1","nexusFileVersion":"1","nexusFileUploadedAt":1789468650,"pakFileName":"AntifaLafel_AlternateSE_Wyll_d5533352-2a0d-6d06-a4f1-1cc144d4d25a.pak","nexusFileId":130583,"metaUuid":null}
+]},
 "25036":{"nexusModName":"Spider's Pride Duo Set - Spanish","nexusUploadedBy":"KaiserSands","nexusModId":25036,"paks":[
 {"nexusFileName":"Spider'S Pride Duo Set - ES","nexusFileVersion":"1","nexusFileUploadedAt":1789460425,"pakFileName":"Spider's Pride Duo Set-ES.pak","nexusFileId":130549,"metaUuid":null}
 ]},
-"25037":{"nexusModName":"Pact of the Blade and Hexblade QoL (Off-hand and Ranged binding) Russian Translate","nexusUploadedBy":"SexSux","nexusModId":25037,"paks":[
+"25037":{"nexusModName":"Pact of the Blade and Hexblade QoL (Off-hand and Ranged binding) (Russian Translate)","nexusUploadedBy":"SexSux","nexusModId":25037,"paks":[
 {"nexusFileName":"Pact Of The Blade And Hexblade QoL (Rus)","nexusFileVersion":"1.0.0.2","nexusFileUploadedAt":1789706773,"pakFileName":"Pact of The Blade and Hexblade QoL_RUS.pak","nexusFileId":130769,"metaUuid":null}
 ]},
 "25039":{"nexusModName":"Spiritmaster - A Ranger Summoner Subclass Ru","nexusUploadedBy":"Vergizius","nexusModId":25039,"paks":[
@@ -70060,4 +70113,7 @@
 ]},
 "25095":{"nexusModName":"Demonbreaker Caliver - PTBR (2026)","nexusUploadedBy":"BarovZx","nexusModId":25095,"paks":[
 {"nexusFileName":"Bussiana Grande PTBR","nexusFileVersion":"11.01.2026","nexusFileUploadedAt":1789700062,"pakFileName":"Bussiana Grande PTBR.pak","nexusFileId":130765,"metaUuid":null}
+]},
+"25096":{"nexusModName":"Gamma Elixir - Become a Giant at Will","nexusUploadedBy":"KarsusCodex","nexusModId":25096,"paks":[
+{"nexusFileName":"GammaElixir","nexusFileVersion":"1","nexusFileUploadedAt":1789707968,"pakFileName":"GammaElixir.pak","nexusFileId":130771,"metaUuid":null}
 ]}}
