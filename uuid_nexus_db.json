@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-09-18T22:52:11.151531+00:00","total_mods":17699},
+{"_meta":{"last_run":"2026-09-18T23:52:23.143319+00:00","total_mods":17700},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -36031,7 +36031,7 @@
 ]},
 "12727":{"nexusModName":"DnD 5.5e All-in-One BEYOND","nexusUploadedBy":"yoonmoonsik43","nexusModId":12727,"paks":[
 {"nexusFileName":"dnd2024 - V3 Legacy","nexusFileVersion":"3.4.6.4","nexusFileUploadedAt":1771945305,"pakFileName":"DnD2024_897914ef-5c96-053c-44af-0be823f895fe.pak","nexusFileId":115523,"metaUuid":"897914ef-5c96-053c-44af-0be823f895fe"},
-{"nexusFileName":"DnD 5.5e All-in-One BEYOND","nexusFileVersion":"4.12.13.8","nexusFileUploadedAt":1789695453,"pakFileName":"DnD2024_897914ef-5c96-053c-44af-0be823f895fe.pak","nexusFileId":130761,"metaUuid":"897914ef-5c96-053c-44af-0be823f895fe"}
+{"nexusFileName":"DnD 5.5e All-in-One BEYOND","nexusFileVersion":"4.12.13.9","nexusFileUploadedAt":1789775424,"pakFileName":"DnD2024_897914ef-5c96-053c-44af-0be823f895fe.pak","nexusFileId":130852,"metaUuid":"897914ef-5c96-053c-44af-0be823f895fe"}
 ]},
 "12728":{"nexusModName":"Origin-Themed Headwear KR","nexusUploadedBy":"Soorawang","nexusModId":12728,"paks":[
 {"nexusFileName":"Origin-Themed Headwear KR","nexusFileVersion":"1.0","nexusFileUploadedAt":1727930331,"pakFileName":"OriginHeadwear_kr.pak","nexusFileId":73692,"metaUuid":null}
@@ -48274,7 +48274,7 @@
 {"nexusFileName":"Holomod Part 1 -Myth-","nexusFileVersion":"1.1","nexusFileUploadedAt":1751333789,"pakFileName":"Holomod_Part_1_5435e7a6-06ac-87d3-e69c-b4e0dba1be49.pak","nexusFileId":97058,"metaUuid":"5435e7a6-06ac-87d3-e69c-b4e0dba1be49"}
 ]},
 "17344":{"nexusModName":"Priestess Gut Gonna Knock You Out","nexusUploadedBy":"whatsontheflip","nexusModId":17344,"paks":[
-{"nexusFileName":"Priestess Gut Gonna Knock You Out","nexusFileVersion":"1.0.0.5","nexusFileUploadedAt":1776033640,"pakFileName":"Priestess_Gut_Elf_Bedtime_f604d2bb-fcab-8534-030c-b36f665939a5.pak","nexusFileId":118809,"metaUuid":"f604d2bb-fcab-8534-030c-b36f665939a5"}
+{"nexusFileName":"Priestess Gut Gonna Knock You Out","nexusFileVersion":"1.1.0.3","nexusFileUploadedAt":1789772537,"pakFileName":"Priestess_Gut_Elf_Bedtime_f604d2bb-fcab-8534-030c-b36f665939a5.pak","nexusFileId":130848,"metaUuid":"f604d2bb-fcab-8534-030c-b36f665939a5"}
 ]},
 "17345":{"nexusModName":"Warlock Mystic Arcanum - Planar Ally","nexusUploadedBy":"RandoRuda","nexusModId":17345,"paks":[
 {"nexusFileName":"Warlock Mystic Arcanum - Planar Ally","nexusFileVersion":"1.0.0.1","nexusFileUploadedAt":1751356877,"pakFileName":"Warlock-PlanarAlly_a34597dd-98bf-3c60-2f63-2aac7472956a.pak","nexusFileId":97074,"metaUuid":"a34597dd-98bf-3c60-2f63-2aac7472956a"}
@@ -68258,6 +68258,9 @@
 "24468":{"nexusModName":"Book of Sorcerers - 5e Sorcerer Subclasses (PT-BR)","nexusUploadedBy":"Firetoga","nexusModId":24468,"paks":[
 {"nexusFileName":"Book Of Sorcerers (PT-BR)","nexusFileVersion":"1.0.1.13","nexusFileUploadedAt":1786932192,"pakFileName":"Book of Sorcerers (PT-BR).pak","nexusFileId":128247,"metaUuid":null}
 ]},
+"24470":{"nexusModName":"Aurora Soul - Sorcerer Subclass","nexusUploadedBy":"GIGeorge95","nexusModId":24470,"paks":[
+{"nexusFileName":"Aurora Soul Sorcerer","nexusFileVersion":"1.0.0.87","nexusFileUploadedAt":1789767534,"pakFileName":"AuroraSorcerer_c661d9f8-66a6-a6f5-27f8-7b0564ce2c3d.pak","nexusFileId":130843,"metaUuid":null}
+]},
 "24471":{"nexusModName":"Water Myrmidon Healing Vapours - Wet Status Restored","nexusUploadedBy":"qhrals8","nexusModId":24471,"paks":[
 {"nexusFileName":"HealingVapors","nexusFileVersion":"1","nexusFileUploadedAt":1786948101,"pakFileName":"HealingVapors.pak","nexusFileId":128251,"metaUuid":"845baf6a-1ee6-d718-f121-6ff134ea7c2b"}
 ]},
@@ -69086,7 +69089,7 @@
 {"nexusFileName":"Catkin_Specialist V1.0.2","nexusFileVersion":"1.0.2","nexusFileUploadedAt":1788141550,"pakFileName":"CatkinSpecialist_8112703d-ba2c-e46b-7c4c-5760f8e58aa4.pak","nexusFileId":129399,"metaUuid":"8112703d-ba2c-e46b-7c4c-5760f8e58aa4"}
 ]},
 "24667":{"nexusModName":"Permanent Buffs","nexusUploadedBy":"Sai","nexusModId":24667,"paks":[
-{"nexusFileName":"Permanent Buffs","nexusFileVersion":"1.13","nexusFileUploadedAt":1789752523,"pakFileName":"Permanent Buffs.pak","nexusFileId":130818,"metaUuid":"9fed344c-fe38-4982-9613-9f7b5df3e119"}
+{"nexusFileName":"Permanent Buffs","nexusFileVersion":"1.14","nexusFileUploadedAt":1789774566,"pakFileName":"Permanent Buffs.pak","nexusFileId":130851,"metaUuid":"9fed344c-fe38-4982-9613-9f7b5df3e119"}
 ]},
 "24669":{"nexusModName":"Clawstep Mod Refits","nexusUploadedBy":"tealrabbit19","nexusModId":24669,"paks":[
 {"nexusFileName":"CBR Battlemage Clawstep","nexusFileVersion":"1","nexusFileUploadedAt":1787948145,"pakFileName":"CBR_Battlemage_Clawstep.pak","nexusFileId":129218,"metaUuid":"5372a417-4b58-4997-b663-a95d49ac9a5f"},
@@ -69799,7 +69802,7 @@
 {"nexusFileName":"Solo Poses   Misc Edition","nexusFileVersion":"1","nexusFileUploadedAt":1789294019,"pakFileName":"houndsolomisc_bb213737-99fd-1799-a3cc-c2587c450e00.pak","nexusFileId":130434,"metaUuid":"bb213737-99fd-1799-a3cc-c2587c450e00"}
 ]},
 "24967":{"nexusModName":"Yet Another AI","nexusUploadedBy":"Sai","nexusModId":24967,"paks":[
-{"nexusFileName":"Yet Another AI","nexusFileVersion":"1.7","nexusFileUploadedAt":1789574818,"pakFileName":"Yet Another AI.pak","nexusFileId":130664,"metaUuid":"f7ca0a31-0d01-4da6-ad87-a82a3c541321"}
+{"nexusFileName":"Yet Another AI","nexusFileVersion":"1.8","nexusFileUploadedAt":1789774376,"pakFileName":"Yet Another AI.pak","nexusFileId":130849,"metaUuid":"f7ca0a31-0d01-4da6-ad87-a82a3c541321"}
 ]},
 "24969":{"nexusModName":"Varrl Evolved","nexusUploadedBy":"Exaen","nexusModId":24969,"paks":[
 {"nexusFileName":"VarrlEvolved","nexusFileVersion":"1.0.2.0","nexusFileUploadedAt":1789239645,"pakFileName":"VarrlEvolved_5d00eab7-f156-dd9c-ae68-1692b112f4e9.pak","nexusFileId":130380,"metaUuid":"5d00eab7-f156-dd9c-ae68-1692b112f4e9"}
@@ -69878,7 +69881,7 @@
 {"nexusFileName":"bgb Caught Between Two Fires Pose Pack","nexusFileVersion":"1","nexusFileUploadedAt":1789402391,"pakFileName":"bgb_CaughtBetweenTwoFires_pose_pack_56d5197d-acf7-fb6b-af17-ade052671ebf.pak","nexusFileId":130518,"metaUuid":"56d5197d-acf7-fb6b-af17-ade052671ebf"}
 ]},
 "25008":{"nexusModName":"Events","nexusUploadedBy":"Sai","nexusModId":25008,"paks":[
-{"nexusFileName":"Events","nexusFileVersion":"1.2","nexusFileUploadedAt":1789638308,"pakFileName":"Events.pak","nexusFileId":130704,"metaUuid":"5170ec05-4c4d-48ce-a3a8-6440c47c4e50"}
+{"nexusFileName":"Events","nexusFileVersion":"1.3","nexusFileUploadedAt":1789774483,"pakFileName":"Events.pak","nexusFileId":130850,"metaUuid":"5170ec05-4c4d-48ce-a3a8-6440c47c4e50"}
 ]},
 "25009":{"nexusModName":"Expansion_CHS","nexusUploadedBy":"everywherewind","nexusModId":25009,"paks":[
 {"nexusFileName":"Expansion Chs 123d920e 78f0 97 6p0u","nexusFileVersion":"1","nexusFileUploadedAt":1789386354,"pakFileName":"Expansion_CHS_123d920e-78f0-97c9-fab8-3140a0d15ff4.pak","nexusFileId":130503,"metaUuid":null}
