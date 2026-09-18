@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-09-18T05:52:03.140379+00:00","total_mods":17686},
+{"_meta":{"last_run":"2026-09-18T06:51:44.394767+00:00","total_mods":17687},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -69224,7 +69224,8 @@
 {"nexusFileName":"GenitalSelectionMenu With KaiLimeUI","nexusFileVersion":"1.0.1.4","nexusFileUploadedAt":1788975306,"pakFileName":"GenitalSelectionMenu_With_KaiLimeUI.pak","nexusFileId":130118,"metaUuid":"f8d4326f-99cb-4883-a327-cbf971fce6ad"},
 {"nexusFileName":"HybridUI With GenitalselectionMenu","nexusFileVersion":"1.0.1.4","nexusFileUploadedAt":1789068463,"pakFileName":"HybridUI_with_GenitalSelectionMenu_09160ae2-b55a-9c6e-b992-be88ea543708.pak","nexusFileId":130200,"metaUuid":"09160ae2-b55a-9c6e-b992-be88ea543708"},
 {"nexusFileName":"Genital Icon Photobooth","nexusFileVersion":"1.1","nexusFileUploadedAt":1789305915,"pakFileName":"GenitalIconPhotobooth_6b354df6-2fa3-6f52-2e9d-67da5a9e4dce.pak","nexusFileId":130446,"metaUuid":null},
-{"nexusFileName":"GenitalSelectionMenu With YetAnotherUI","nexusFileVersion":"1.0.1.4","nexusFileUploadedAt":1789517686,"pakFileName":"GenitalSelectionMenu_With_YetAnotherUI.pak","nexusFileId":130618,"metaUuid":null}
+{"nexusFileName":"GenitalSelectionMenu With YetAnotherUI","nexusFileVersion":"1.0.1.4","nexusFileUploadedAt":1789517686,"pakFileName":"GenitalSelectionMenu_With_YetAnotherUI.pak","nexusFileId":130618,"metaUuid":null},
+{"nexusFileName":"GenitalSelectionMenu With UnofficialPlusUI","nexusFileVersion":"1.0.1.4","nexusFileUploadedAt":1789713022,"pakFileName":"GenitalSelectionMenu_With_UnofficialPlusUI.pak","nexusFileId":130775,"metaUuid":null}
 ]},
 "24718":{"nexusModName":"Mizora Joins the Party (Russian Localization)","nexusUploadedBy":"ganeuken","nexusModId":24718,"paks":[
 {"nexusFileName":"Mizora Joins The Party (Russian Localization)","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1788154790,"pakFileName":"MizoraJoinsTheParty_RU.pak","nexusFileId":129415,"metaUuid":null}
@@ -69776,6 +69777,9 @@
 "24957":{"nexusModName":"Homebrew Blade Cantrips - Spanish","nexusUploadedBy":"KaiserSands","nexusModId":24957,"paks":[
 {"nexusFileName":"Homebrew Blade Cantrips   ES","nexusFileVersion":"1","nexusFileUploadedAt":1789183331,"pakFileName":"Homebrew Blade Cantrips - ES.pak","nexusFileId":130324,"metaUuid":null}
 ]},
+"24958":{"nexusModName":"Mantle of Blood - A Bhaal-Themed Cloak (Russian Translate)","nexusUploadedBy":"SexSux","nexusModId":24958,"paks":[
+{"nexusFileName":"MantleOfBlood (Russian Translate)","nexusFileVersion":"1.0.0.16","nexusFileUploadedAt":1789711631,"pakFileName":"MantleOfBlood_1.0.0.16_RUS.pak","nexusFileId":130774,"metaUuid":null}
+]},
 "24959":{"nexusModName":"Dawnstar's Psychic Weapons - Spanish","nexusUploadedBy":"KaiserSands","nexusModId":24959,"paks":[
 {"nexusFileName":"Dawnstar'S Psychic Weapons   ES","nexusFileVersion":"1.0.0.19","nexusFileUploadedAt":1789200581,"pakFileName":"Dawnstar's Psychic Weapons - ES.pak","nexusFileId":130333,"metaUuid":null}
 ]},
@@ -69928,8 +69932,8 @@
 ]},
 "25027":{"nexusModName":"Alternate Starting Gear for Halsin","nexusUploadedBy":"AntifaLafel","nexusModId":25027,"paks":[
 {"nexusFileName":"Alternate Starting Gear for Halsin V3","nexusFileVersion":"1","nexusFileUploadedAt":1789467404,"pakFileName":"AntifaLafel_AlternateSE_Halsin3_aeee169b-def6-10cf-ef95-a93739525d7e.pak","nexusFileId":130559,"metaUuid":null},
-{"nexusFileName":"Alternate Starting Gear for Halsin V2","nexusFileVersion":"1","nexusFileUploadedAt":1789467427,"pakFileName":"AntifaLafel_AlternateSE_Gale2_d6965db9-a8b5-cd00-8a29-53973cbd9f09.pak","nexusFileId":130560,"metaUuid":null},
-{"nexusFileName":"Alternate Starting Gear for Halsin V1","nexusFileVersion":"1","nexusFileUploadedAt":1789467453,"pakFileName":"AntifaLafel_AlternateSE_Halsin_6cbc4045-0f67-1e7d-a4f9-80a81f63f3ec.pak","nexusFileId":130561,"metaUuid":null}
+{"nexusFileName":"Alternate Starting Gear for Halsin V1","nexusFileVersion":"1","nexusFileUploadedAt":1789467453,"pakFileName":"AntifaLafel_AlternateSE_Halsin_6cbc4045-0f67-1e7d-a4f9-80a81f63f3ec.pak","nexusFileId":130561,"metaUuid":null},
+{"nexusFileName":"Alternate Starting Gear for Halsin V2","nexusFileVersion":"2","nexusFileUploadedAt":1789711350,"pakFileName":"AntifaLafel_AlternateSE_Halsin2_106bef34-e52f-d601-5cd4-093a655b09f3.pak","nexusFileId":130773,"metaUuid":null}
 ]},
 "25029":{"nexusModName":"Alternate Starting Gear for Karlach","nexusUploadedBy":"AntifaLafel","nexusModId":25029,"paks":[
 {"nexusFileName":"Alternate Starting Gear for Karlach V3","nexusFileVersion":"1","nexusFileUploadedAt":1789467705,"pakFileName":"AntifaLafel_AlternateSE_Karlach3_40c9fcf4-658f-f9ed-9d03-245fc0097591.pak","nexusFileId":130565,"metaUuid":null},
