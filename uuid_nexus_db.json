@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-09-18T16:52:44.606696+00:00","total_mods":17693},
+{"_meta":{"last_run":"2026-09-18T17:53:02.016757+00:00","total_mods":17693},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -54288,8 +54288,9 @@
 ]},
 "19530":{"nexusModName":"Zethino Love Test Buff Fix","nexusUploadedBy":"magnetuning","nexusModId":19530,"paks":[
 {"nexusFileName":"Zethino Love Test Buff Fix - Retroactive Passive","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1762711506,"pakFileName":"MGNTN_LoveTestBuffFix_Retroactive.pak","nexusFileId":107064,"metaUuid":"f8bddaf2-ae7d-4121-b11d-c4b8ef43652d"},
-{"nexusFileName":"Zethino Love Test Buff Fix - Permanent Passive","nexusFileVersion":"1.0.1.0","nexusFileUploadedAt":1778207662,"pakFileName":"MGNTN_LoveTestBuffFix_Permanent.pak","nexusFileId":120713,"metaUuid":"87afc522-63dd-424f-a4e0-d56aef9768d5"},
-{"nexusFileName":"Zethino Love Test Buff Fix - Status","nexusFileVersion":"1.0.1.0","nexusFileUploadedAt":1778207707,"pakFileName":"MGNTN_LoveTestBuffFix.pak","nexusFileId":120714,"metaUuid":"5f593a3f-0374-42d8-a5c6-e07e3ae36f07"}
+{"nexusFileName":"Zethino Love Test Buff Fix - Permanent Passive","nexusFileVersion":"1.0.2.0","nexusFileUploadedAt":1789753110,"pakFileName":"MGNTN_LoveTestBuffFix_Permanent.pak","nexusFileId":130820,"metaUuid":"87afc522-63dd-424f-a4e0-d56aef9768d5"},
+{"nexusFileName":"Zethino Love Test Buff Fix - Status","nexusFileVersion":"1.0.2.0","nexusFileUploadedAt":1789753126,"pakFileName":"MGNTN_LoveTestBuffFix.pak","nexusFileId":130821,"metaUuid":"5f593a3f-0374-42d8-a5c6-e07e3ae36f07"},
+{"nexusFileName":"Zethino Love Test Buff Fix - Disable Overhead","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1789753267,"pakFileName":"MGNTN_LoveTestBuffFix_DisableOverhead.pak","nexusFileId":130822,"metaUuid":null}
 ]},
 "19531":{"nexusModName":"Goth Shadowheart","nexusUploadedBy":"Khloii1","nexusModId":19531,"paks":[
 {"nexusFileName":"Goth Shadowheart","nexusFileVersion":"2.2","nexusFileUploadedAt":1769010837,"pakFileName":"Goth_Shadowheart_9a4e49c0-511e-7055-31cd-5885a2ca1746.pak","nexusFileId":112829,"metaUuid":"9a4e49c0-511e-7055-31cd-5885a2ca1746"}
@@ -69085,7 +69086,7 @@
 {"nexusFileName":"Catkin_Specialist V1.0.2","nexusFileVersion":"1.0.2","nexusFileUploadedAt":1788141550,"pakFileName":"CatkinSpecialist_8112703d-ba2c-e46b-7c4c-5760f8e58aa4.pak","nexusFileId":129399,"metaUuid":"8112703d-ba2c-e46b-7c4c-5760f8e58aa4"}
 ]},
 "24667":{"nexusModName":"Permanent Buffs","nexusUploadedBy":"Sai","nexusModId":24667,"paks":[
-{"nexusFileName":"Permanent Buffs","nexusFileVersion":"1.12","nexusFileUploadedAt":1789734350,"pakFileName":"Permanent Buffs.pak","nexusFileId":130792,"metaUuid":"9fed344c-fe38-4982-9613-9f7b5df3e119"}
+{"nexusFileName":"Permanent Buffs","nexusFileVersion":"1.13","nexusFileUploadedAt":1789752523,"pakFileName":"Permanent Buffs.pak","nexusFileId":130818,"metaUuid":"9fed344c-fe38-4982-9613-9f7b5df3e119"}
 ]},
 "24669":{"nexusModName":"Clawstep Mod Refits","nexusUploadedBy":"tealrabbit19","nexusModId":24669,"paks":[
 {"nexusFileName":"CBR Battlemage Clawstep","nexusFileVersion":"1","nexusFileUploadedAt":1787948145,"pakFileName":"CBR_Battlemage_Clawstep.pak","nexusFileId":129218,"metaUuid":"5372a417-4b58-4997-b663-a95d49ac9a5f"},
@@ -69567,7 +69568,7 @@
 {"nexusFileName":"HasteRework","nexusFileVersion":"1","nexusFileUploadedAt":1788789468,"pakFileName":"HasteRework.pak","nexusFileId":129967,"metaUuid":null}
 ]},
 "24871":{"nexusModName":"Enhanced Succubus Gameplay","nexusUploadedBy":"mmcgeach","nexusModId":24871,"paks":[
-{"nexusFileName":"ESGSuccubusClass","nexusFileVersion":"10","nexusFileUploadedAt":1789569286,"pakFileName":"ESGSuccubusClass.pak","nexusFileId":130656,"metaUuid":null}
+{"nexusFileName":"ESGSuccubusClass","nexusFileVersion":"11","nexusFileUploadedAt":1789753030,"pakFileName":"ESGSuccubusClass.pak","nexusFileId":130819,"metaUuid":null}
 ]},
 "24872":{"nexusModName":"Moon's Vera Head","nexusUploadedBy":"AdrasteaMoon","nexusModId":24872,"paks":[
 {"nexusFileName":"Main File","nexusFileVersion":"1","nexusFileUploadedAt":1788909692,"pakFileName":"Vera.pak","nexusFileId":130066,"metaUuid":null}
@@ -70043,7 +70044,7 @@
 {"nexusFileName":"BB Ranger Equipment RU","nexusFileVersion":"1.0.0.2","nexusFileUploadedAt":1789578372,"pakFileName":"BB_Ranger_Equipment_RU.pak","nexusFileId":130671,"metaUuid":null}
 ]},
 "25065":{"nexusModName":"chaomo feats","nexusUploadedBy":"baigegegugugu","nexusModId":25065,"paks":[
-{"nexusFileName":"Chaomofeats","nexusFileVersion":"5","nexusFileUploadedAt":1789748201,"pakFileName":"chaomofeats.pak","nexusFileId":130806,"metaUuid":null}
+{"nexusFileName":"Chaomofeats","nexusFileVersion":"6","nexusFileUploadedAt":1789751168,"pakFileName":"chaomofeats.pak","nexusFileId":130811,"metaUuid":null}
 ]},
 "25067":{"nexusModName":"The Crowded Campfire","nexusUploadedBy":"Sai","nexusModId":25067,"paks":[
 {"nexusFileName":"The Crowded Campfire","nexusFileVersion":"1.3","nexusFileUploadedAt":1789678194,"pakFileName":"The Crowded Campfire.pak","nexusFileId":130754,"metaUuid":"8e848a53-b78e-479d-82cd-4c4215b726aa"}
