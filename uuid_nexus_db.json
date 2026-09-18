@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-09-18T06:51:44.394767+00:00","total_mods":17687},
+{"_meta":{"last_run":"2026-09-18T07:52:16.010704+00:00","total_mods":17687},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -28233,8 +28233,8 @@
 {"nexusFileName":"VBB Unique Tav","nexusFileVersion":"1.4","nexusFileUploadedAt":1720048043,"pakFileName":"VBBUniqueTav.pak","nexusFileId":62975,"metaUuid":"79eee857-75bd-4a4e-86ae-c7009dcd70de"},
 {"nexusFileName":"Veiny Boobs","nexusFileVersion":"1.0","nexusFileUploadedAt":1722651958,"pakFileName":"VBBVeinyBoobs.pak","nexusFileId":66105,"metaUuid":null},
 {"nexusFileName":"Bold Veiny Boobs","nexusFileVersion":"1.0","nexusFileUploadedAt":1722651998,"pakFileName":"VBBVeinyBoobsBold.pak","nexusFileId":66106,"metaUuid":null},
-{"nexusFileName":"Various Beautiful NPCs","nexusFileVersion":"1.2n","nexusFileUploadedAt":1777495004,"pakFileName":"VariousBeautifulNPCs.pak","nexusFileId":120196,"metaUuid":"46bad696-a407-4fe4-8476-42613e18c2c8"},
-{"nexusFileName":"Various Beautiful Bodies","nexusFileVersion":"1.19","nexusFileUploadedAt":1785696254,"pakFileName":"VariousBeautifulBodies.pak","nexusFileId":127150,"metaUuid":"4f8f872e-4c3f-414f-b9f9-9c35a349204d"}
+{"nexusFileName":"Various Beautiful Bodies","nexusFileVersion":"1.20","nexusFileUploadedAt":1789715934,"pakFileName":"VariousBeautifulBodies.pak","nexusFileId":130776,"metaUuid":"4f8f872e-4c3f-414f-b9f9-9c35a349204d"},
+{"nexusFileName":"Various Beautiful NPCs","nexusFileVersion":"1.3n","nexusFileUploadedAt":1789715955,"pakFileName":"VariousBeautifulNPCs.pak","nexusFileId":130777,"metaUuid":"46bad696-a407-4fe4-8476-42613e18c2c8"}
 ]},
 "9721":{"nexusModName":"Drow Weaponry - Rapiers (RU)","nexusUploadedBy":"insalatadicetrioli","nexusModId":9721,"paks":[
 {"nexusFileName":"Drow Weaponry - Rapiers (RU)","nexusFileVersion":"1.3","nexusFileUploadedAt":1724066214,"pakFileName":"DrowWeaponry_Rapiers_RU.pak","nexusFileId":67527,"metaUuid":null}
@@ -69699,6 +69699,9 @@
 "24923":{"nexusModName":"Fantastical Multiverse - Traditional Chinese and Simplified Chinese Translation","nexusUploadedBy":"MaxStoKe","nexusModId":24923,"paks":[
 {"nexusFileName":"FantasticalMultiverse CHT CHS","nexusFileVersion":"1.9.5.5","nexusFileUploadedAt":1789564068,"pakFileName":"FantasticalMultiverse_CHT_CHS.pak","nexusFileId":130647,"metaUuid":null}
 ]},
+"24926":{"nexusModName":"Half-Orc Half-Drow (Russian Translate)","nexusUploadedBy":"SexSux","nexusModId":24926,"paks":[
+{"nexusFileName":"Half Orc Half Drow RUS","nexusFileVersion":"1.5","nexusFileUploadedAt":1789716753,"pakFileName":"Half-Orc Half-Drow_RUS.pak","nexusFileId":130778,"metaUuid":null}
+]},
 "24927":{"nexusModName":"Metamagic Extended - Traditional Chinese and Simplified Chinese Translation","nexusUploadedBy":"MaxStoKe","nexusModId":24927,"paks":[
 {"nexusFileName":"MetamagicExtended CHT CHS","nexusFileVersion":"5.0.0.4","nexusFileUploadedAt":1789559935,"pakFileName":"MetamagicExtended_CHT_CHS.pak","nexusFileId":130639,"metaUuid":null}
 ]},
@@ -69744,8 +69747,8 @@
 ]},
 "24947":{"nexusModName":"Abdel-be-Gone","nexusUploadedBy":"Deathstruck","nexusModId":24947,"paks":[
 {"nexusFileName":"AbdelBeGone - Neutral","nexusFileVersion":"1.2","nexusFileUploadedAt":1789207878,"pakFileName":"AbdelBeGone.pak","nexusFileId":130346,"metaUuid":"5b5e7567-bd90-4f88-9a54-a635d3abec49"},
-{"nexusFileName":"AbdelBeGone - Female","nexusFileVersion":"1.2","nexusFileUploadedAt":1789207899,"pakFileName":"AbdelBeGone.pak","nexusFileId":130347,"metaUuid":null},
-{"nexusFileName":"AbdelBeGone - Male","nexusFileVersion":"1.2","nexusFileUploadedAt":1789207922,"pakFileName":"AbdelBeGone.pak","nexusFileId":130348,"metaUuid":null}
+{"nexusFileName":"AbdelBeGone - Female","nexusFileVersion":"1.2","nexusFileUploadedAt":1789207899,"pakFileName":"AbdelBeGone.pak","nexusFileId":130347,"metaUuid":"5b5e7567-bd90-4f88-9a54-a635d3abec49"},
+{"nexusFileName":"AbdelBeGone - Male","nexusFileVersion":"1.2","nexusFileUploadedAt":1789207922,"pakFileName":"AbdelBeGone.pak","nexusFileId":130348,"metaUuid":"5b5e7567-bd90-4f88-9a54-a635d3abec49"}
 ]},
 "24948":{"nexusModName":"SummerBeach_TheFirstDescendant_FreynaOasisParty","nexusUploadedBy":"EvilRecluse","nexusModId":24948,"paks":[
 {"nexusFileName":"SummerBeach TheFirstDescendant FreynaOasisParty","nexusFileVersion":"1","nexusFileUploadedAt":1789141020,"pakFileName":"SummerBeach_TheFirstDescendant_FreynaOasisParty.pak","nexusFileId":130288,"metaUuid":"3587f614-f90f-47b3-821e-534a8abeb6c8"}
