@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-09-18T07:52:16.010704+00:00","total_mods":17687},
+{"_meta":{"last_run":"2026-09-18T08:52:13.044636+00:00","total_mods":17687},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -66258,7 +66258,7 @@
 {"nexusFileName":"Humanoid Equipment and Clothing","nexusFileVersion":"1.1.0","nexusFileUploadedAt":1784259560,"pakFileName":"ECC_Humanoid_5f2c3462-94d5-feeb-5f39-5cd0f7a76c5a.pak","nexusFileId":125802,"metaUuid":"5f2c3462-94d5-feeb-5f39-5cd0f7a76c5a"},
 {"nexusFileName":"Githyanki Equipment","nexusFileVersion":"1.1.2","nexusFileUploadedAt":1784452408,"pakFileName":"ECC_Githyanki_9fb63845-8b2d-314d-99a2-bd0c75199995.pak","nexusFileId":125992,"metaUuid":"9fb63845-8b2d-314d-99a2-bd0c75199995"},
 {"nexusFileName":"Flaming Fist Equipment","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1784613341,"pakFileName":"ECC_FlamingFist_65c74891-9078-8eec-e159-2d3a9b674b91.pak","nexusFileId":126114,"metaUuid":"65c74891-9078-8eec-e159-2d3a9b674b91"},
-{"nexusFileName":"Starting Equipment Selection","nexusFileVersion":"1.4.0","nexusFileUploadedAt":1789627808,"pakFileName":"ECC_a1e921ae-8aa2-655c-c399-cfd97ed46f4c.pak","nexusFileId":130698,"metaUuid":"a1e921ae-8aa2-655c-c399-cfd97ed46f4c"}
+{"nexusFileName":"Starting Equipment Selection","nexusFileVersion":"1.5.0","nexusFileUploadedAt":1789719253,"pakFileName":"ECC_a1e921ae-8aa2-655c-c399-cfd97ed46f4c.pak","nexusFileId":130780,"metaUuid":"a1e921ae-8aa2-655c-c399-cfd97ed46f4c"}
 ]},
 "23682":{"nexusModName":"Draconic Heritage - New Feat and Dragonborn Breath Weapon Tweaks","nexusUploadedBy":"aljoxo","nexusModId":23682,"paks":[
 {"nexusFileName":"Draconic Heritage","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1783070266,"pakFileName":"DraconicHeritageFeat_6717ff34-c605-60f2-a7d4-43af802463a2.pak","nexusFileId":124765,"metaUuid":"6717ff34-c605-60f2-a7d4-43af802463a2"}
@@ -69145,8 +69145,7 @@
 {"nexusFileName":"SGT_Taste Of Poison - Vanilla Face","nexusFileVersion":"1","nexusFileUploadedAt":1788184694,"pakFileName":"SGT_TasteOfPoison_109503d1-750a-378f-febb-3145eac4f9df.pak","nexusFileId":129437,"metaUuid":"109503d1-750a-378f-febb-3145eac4f9df"},
 {"nexusFileName":"SGT_Taste Of Poison  - Minthara Edit - Alt","nexusFileVersion":"1","nexusFileUploadedAt":1788184722,"pakFileName":"SGT_TasteOfPoison_109503d1-750a-378f-febb-3145eac4f9df.pak","nexusFileId":129439,"metaUuid":"109503d1-750a-378f-febb-3145eac4f9df"},
 {"nexusFileName":"SGT_Taste Of Poison -  Armor","nexusFileVersion":"1","nexusFileUploadedAt":1788190190,"pakFileName":"SGT_TasteOfPoison_Armor_8cdc9656-8523-4e2b-9aa2-8e09fe1424c1.pak","nexusFileId":129452,"metaUuid":"8cdc9656-8523-4e2b-9aa2-8e09fe1424c1"},
-{"nexusFileName":"SGT_Taste Of Poison - Vanilla Armor","nexusFileVersion":"1","nexusFileUploadedAt":1788973423,"pakFileName":"SGT_TasteOfPoison_109503d1-750a-378f-febb-3145eac4f9df.pak","nexusFileId":130110,"metaUuid":"109503d1-750a-378f-febb-3145eac4f9df"},
-{"nexusFileName":"SGT_Taste Of Poison - Hair Only","nexusFileVersion":"1","nexusFileUploadedAt":1789654887,"pakFileName":"SGT_TasteOfPoison_HairOnly_f9b584fc-489c-5b5e-4ff1-406616d7eb4a.pak","nexusFileId":130724,"metaUuid":null}
+{"nexusFileName":"SGT_Taste Of Poison - Vanilla Armor","nexusFileVersion":"1","nexusFileUploadedAt":1788973423,"pakFileName":"SGT_TasteOfPoison_109503d1-750a-378f-febb-3145eac4f9df.pak","nexusFileId":130110,"metaUuid":"109503d1-750a-378f-febb-3145eac4f9df"}
 ]},
 "24684":{"nexusModName":"Astarions armor in the scene with Casador.","nexusUploadedBy":"Deni34","nexusModId":24684,"paks":[
 {"nexusFileName":"Astarion FINAL","nexusFileVersion":"1","nexusFileUploadedAt":1788027313,"pakFileName":"Astarion_FINAL.pak","nexusFileId":129284,"metaUuid":"8e309005-2c4f-2a84-454c-483ac2f7b316"}
@@ -69544,7 +69543,7 @@
 {"nexusFileName":"RealisticMedievalArmors","nexusFileVersion":"1.0.1a","nexusFileUploadedAt":1789593421,"pakFileName":"RealisticMedievalArmors.pak","nexusFileId":130683,"metaUuid":null}
 ]},
 "24858":{"nexusModName":"Yet Another UI","nexusUploadedBy":"Sai","nexusModId":24858,"paks":[
-{"nexusFileName":"Yet Another UI","nexusFileVersion":"1.2","nexusFileUploadedAt":1789296406,"pakFileName":"Yet Another UI.pak","nexusFileId":130435,"metaUuid":"368dc49c-018b-4374-90b8-90e2d92223d7"}
+{"nexusFileName":"Yet Another UI","nexusFileVersion":"1.3","nexusFileUploadedAt":1789719192,"pakFileName":"Yet Another UI.pak","nexusFileId":130779,"metaUuid":"368dc49c-018b-4374-90b8-90e2d92223d7"}
 ]},
 "24859":{"nexusModName":"Create Spell Slot and Create Sorcery Points No Animation","nexusUploadedBy":"einnasyl","nexusModId":24859,"paks":[
 {"nexusFileName":"Create Spell Slot and Sorcery Points No Animation","nexusFileVersion":"1","nexusFileUploadedAt":1788747613,"pakFileName":"Create_Spell_Slot_and_Create_Sorcery_Points_No_Animation_v1.0.1.pak","nexusFileId":129918,"metaUuid":null}
