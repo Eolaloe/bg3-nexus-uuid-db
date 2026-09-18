@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-09-18T09:52:02.000427+00:00","total_mods":17688},
+{"_meta":{"last_run":"2026-09-18T10:52:07.261912+00:00","total_mods":17689},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -54113,7 +54113,7 @@
 {"nexusFileName":"NPC Revamp - Part 3","nexusFileVersion":"1.0","nexusFileUploadedAt":1761939808,"pakFileName":"NPC_Revamp_various_18050baf-3d51-ca60-3c2f-a1ff5f51fe88.pak","nexusFileId":106454,"metaUuid":"18050baf-3d51-ca60-3c2f-a1ff5f51fe88"}
 ]},
 "19472":{"nexusModName":"Flind Evolved","nexusUploadedBy":"Exaen","nexusModId":19472,"paks":[
-{"nexusFileName":"FlindEvolved","nexusFileVersion":"2.0.1.0","nexusFileUploadedAt":1781365713,"pakFileName":"FlindEvolved_4de3b7a4-cdb7-68c7-a223-74261907682c.pak","nexusFileId":123488,"metaUuid":"4de3b7a4-cdb7-68c7-a223-74261907682c"}
+{"nexusFileName":"FlindEvolved","nexusFileVersion":"2.1.0.0","nexusFileUploadedAt":1789728267,"pakFileName":"FlindEvolved_4de3b7a4-cdb7-68c7-a223-74261907682c.pak","nexusFileId":130783,"metaUuid":"4de3b7a4-cdb7-68c7-a223-74261907682c"}
 ]},
 "19473":{"nexusModName":"Axi and Cay's Hand-Holding Poses","nexusUploadedBy":"axianaa","nexusModId":19473,"paks":[
 {"nexusFileName":"Axi and Cay's Hand-Holding Poses","nexusFileVersion":"1.0.0.18","nexusFileUploadedAt":1781311069,"pakFileName":"AxiCayHH_4d894d8a-13d3-7fdb-d8c7-5093bd44670b.pak","nexusFileId":123451,"metaUuid":"4d894d8a-13d3-7fdb-d8c7-5093bd44670b"}
@@ -70058,6 +70058,9 @@
 "25073":{"nexusModName":"LichClass-PortedfromPathfinderWrathoftheRighteous","nexusUploadedBy":"fangyunchunzi","nexusModId":25073,"paks":[
 {"nexusFileName":"LichClass","nexusFileVersion":"1.01","nexusFileUploadedAt":1789678589,"pakFileName":"LichClass.pak","nexusFileId":130755,"metaUuid":null}
 ]},
+"25075":{"nexusModName":"Bloodweave Head Preset","nexusUploadedBy":"starlesstides","nexusModId":25075,"paks":[
+{"nexusFileName":"Bloodweave Head Preset","nexusFileVersion":"1","nexusFileUploadedAt":1789650381,"pakFileName":"Starless_Bloodweave_HeadPreset_e78f4334-b999-f0cf-c9d8-d143c9ff7230.pak","nexusFileId":130712,"metaUuid":null}
+]},
 "25076":{"nexusModName":"Sai's Secret Stash","nexusUploadedBy":"Sai","nexusModId":25076,"paks":[
 {"nexusFileName":"Sai's Secret Stash","nexusFileVersion":"1.0","nexusFileUploadedAt":1789641882,"pakFileName":"Sai's Secret Stash.pak","nexusFileId":130707,"metaUuid":"4bcad6f8-b79e-4527-9078-fef89338a80b"}
 ]},
@@ -70117,4 +70120,7 @@
 ]},
 "25097":{"nexusModName":"SummerBeach_TheFirstDescendant_GleyDesertedIslandVacation","nexusUploadedBy":"EvilRecluse","nexusModId":25097,"paks":[
 {"nexusFileName":"TheFirstDescendant GleyDesertedIslandVacation","nexusFileVersion":"1","nexusFileUploadedAt":1789722224,"pakFileName":"SummerBeach_TheFirstDescendant_GleyDesertedIslandVacation.pak","nexusFileId":130781,"metaUuid":null}
+]},
+"25098":{"nexusModName":"The Sunless Citadel - Custom Campaign","nexusUploadedBy":"Batilfly","nexusModId":25098,"paks":[
+{"nexusFileName":"The Sunless Citadel 1.0","nexusFileVersion":"1","nexusFileUploadedAt":1789724594,"pakFileName":"SunlessCitadel_e73d46a6-51be-0a9d-ef18-865c73e53a94.pak","nexusFileId":130782,"metaUuid":null}
 ]}}
