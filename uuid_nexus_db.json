@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-09-19T13:52:20.636311+00:00","total_mods":17700},
+{"_meta":{"last_run":"2026-09-19T14:52:25.490938+00:00","total_mods":17702},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -61375,7 +61375,7 @@
 {"nexusFileName":"B. The Gunslinger Addon Revolver OffHand","nexusFileVersion":"2.0.0.6","nexusFileUploadedAt":1784352419,"pakFileName":"TheGunslingerOffHandAddon_db9c5c90-6f70-f07a-153e-d873fc5f803d.pak","nexusFileId":125916,"metaUuid":null},
 {"nexusFileName":"F. Spellslinger Wizard Subclass Add-On","nexusFileVersion":"1.0.0.1","nexusFileUploadedAt":1785666656,"pakFileName":"TheGunslinger_WizardAddOn_3eaab4ba-f1fc-9a6b-533a-5ae325b4a838.pak","nexusFileId":127106,"metaUuid":null},
 {"nexusFileName":"A. The Gunslinger Extra Feats Every 2 Levels","nexusFileVersion":"3.0.0.1","nexusFileUploadedAt":1789242421,"pakFileName":"TheGunslinge_ExtraFeats2Levels_1043510a-69e0-f71d-6eb0-a89c2be1d13a.pak","nexusFileId":130391,"metaUuid":"1043510a-69e0-f71d-6eb0-a89c2be1d13a"},
-{"nexusFileName":"The Gunslinger Class (ENG-KOR)","nexusFileVersion":"3.1.0.5","nexusFileUploadedAt":1789573171,"pakFileName":"TheGunslinger_1f2b82d7-19c8-734b-5f43-05d57d3e7601.pak","nexusFileId":130663,"metaUuid":"1f2b82d7-19c8-734b-5f43-05d57d3e7601"}
+{"nexusFileName":"The Gunslinger Class (ENG-KOR)","nexusFileVersion":"3.2.0.2","nexusFileUploadedAt":1789826302,"pakFileName":"TheGunslinger_1f2b82d7-19c8-734b-5f43-05d57d3e7601.pak","nexusFileId":130890,"metaUuid":"1f2b82d7-19c8-734b-5f43-05d57d3e7601"}
 ]},
 "21796":{"nexusModName":"Em's Misc Head Collection","nexusUploadedBy":"emsthings","nexusModId":21796,"paks":[
 {"nexusFileName":"Em's Head Collection","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1772951131,"pakFileName":"Ems_Heads_41f62b28-72fa-cd43-2b54-e521a962a342.pak","nexusFileId":116314,"metaUuid":"41f62b28-72fa-cd43-2b54-e521a962a342"}
@@ -69073,7 +69073,7 @@
 {"nexusFileName":"Catkin_Specialist V1.0.2","nexusFileVersion":"1.0.2","nexusFileUploadedAt":1788141550,"pakFileName":"CatkinSpecialist_8112703d-ba2c-e46b-7c4c-5760f8e58aa4.pak","nexusFileId":129399,"metaUuid":"8112703d-ba2c-e46b-7c4c-5760f8e58aa4"}
 ]},
 "24667":{"nexusModName":"Permanent Buffs","nexusUploadedBy":"Sai","nexusModId":24667,"paks":[
-{"nexusFileName":"Permanent Buffs","nexusFileVersion":"1.15","nexusFileUploadedAt":1789809524,"pakFileName":"Permanent Buffs.pak","nexusFileId":130882,"metaUuid":"9fed344c-fe38-4982-9613-9f7b5df3e119"}
+{"nexusFileName":"Permanent Buffs","nexusFileVersion":"1.16","nexusFileUploadedAt":1789828512,"pakFileName":"Permanent Buffs.pak","nexusFileId":130892,"metaUuid":"9fed344c-fe38-4982-9613-9f7b5df3e119"}
 ]},
 "24669":{"nexusModName":"Clawstep Mod Refits","nexusUploadedBy":"tealrabbit19","nexusModId":24669,"paks":[
 {"nexusFileName":"CBR Battlemage Clawstep","nexusFileVersion":"1","nexusFileUploadedAt":1787948145,"pakFileName":"CBR_Battlemage_Clawstep.pak","nexusFileId":129218,"metaUuid":"5372a417-4b58-4997-b663-a95d49ac9a5f"},
@@ -70114,6 +70114,9 @@
 "25098":{"nexusModName":"The Sunless Citadel - Custom Campaign","nexusUploadedBy":"Batilfly","nexusModId":25098,"paks":[
 {"nexusFileName":"The Sunless Citadel 1.0","nexusFileVersion":"1","nexusFileUploadedAt":1789724594,"pakFileName":"SunlessCitadel_e73d46a6-51be-0a9d-ef18-865c73e53a94.pak","nexusFileId":130782,"metaUuid":"e73d46a6-51be-0a9d-ef18-865c73e53a94"}
 ]},
+"25100":{"nexusModName":"Oath of the Hells - Ukrainian Localization","nexusUploadedBy":"N1k0M","nexusModId":25100,"paks":[
+{"nexusFileName":"OathOfTheHell UKR Localization","nexusFileVersion":"1","nexusFileUploadedAt":1789827053,"pakFileName":"OathOfTheHell_UKR_Localization.pak","nexusFileId":130891,"metaUuid":null}
+]},
 "25101":{"nexusModName":"FaerunColors.chs","nexusUploadedBy":"uulucky","nexusModId":25101,"paks":[
 {"nexusFileName":"FaerunColors","nexusFileVersion":"1","nexusFileUploadedAt":1789739699,"pakFileName":"FaerunColors.pak","nexusFileId":130795,"metaUuid":null},
 {"nexusFileName":"FaerunColors","nexusFileVersion":"1","nexusFileUploadedAt":1789739699,"pakFileName":"FaerunColors_CHS.pak","nexusFileId":130795,"metaUuid":null},
@@ -70162,4 +70165,7 @@
 ]},
 "25122":{"nexusModName":"Create 9 spell slots","nexusUploadedBy":"Pir922195467","nexusModId":25122,"paks":[
 {"nexusFileName":"Create 9 Spell Slots","nexusFileVersion":"1","nexusFileUploadedAt":1789809290,"pakFileName":"Create 9 spell slots.pak","nexusFileId":130881,"metaUuid":"82d1ac34-1f38-e2ca-56fe-917fc4a23346"}
+]},
+"25123":{"nexusModName":"Morinth's Bodysuit","nexusUploadedBy":"Mojra414","nexusModId":25123,"paks":[
+{"nexusFileName":"Me2mrnthbodysuit","nexusFileVersion":"1","nexusFileUploadedAt":1789824159,"pakFileName":"ME2MRNTHBodysuit_f68102cd-c19f-fc54-2869-2c20fa4b4e14.pak","nexusFileId":130887,"metaUuid":null}
 ]}}
