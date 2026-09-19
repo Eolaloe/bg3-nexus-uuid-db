@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-09-19T18:52:18.895137+00:00","total_mods":17707},
+{"_meta":{"last_run":"2026-09-19T19:52:24.782235+00:00","total_mods":17710},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -59170,7 +59170,7 @@
 {"nexusFileName":"Features from DnD 5E Spelljammer for Japanese","nexusFileVersion":"1.1.1","nexusFileUploadedAt":1785952441,"pakFileName":"spjammer_dnd5e_voiced_jp.pak","nexusFileId":127381,"metaUuid":null}
 ]},
 "21045":{"nexusModName":"Rise of the Goldmembers (New Content - All in One) for Korean","nexusUploadedBy":"Eolaloe","nexusModId":21045,"paks":[
-{"nexusFileName":"Rise of the Goldmembers for Korean","nexusFileVersion":"1.2.0.44","nexusFileUploadedAt":1776934783,"pakFileName":"BestMod_kr.pak","nexusFileId":119706,"metaUuid":null}
+{"nexusFileName":"Rise of the Goldmembers for Korean","nexusFileVersion":"1.2.0.50","nexusFileUploadedAt":1789845638,"pakFileName":"BestMod_kr.pak","nexusFileId":130916,"metaUuid":null}
 ]},
 "21048":{"nexusModName":"Configurable movement speed - MCM compatible for Korean","nexusUploadedBy":"Eolaloe","nexusModId":21048,"paks":[
 {"nexusFileName":"Configurable movement speed for Korean","nexusFileVersion":"4.2.0.1","nexusFileUploadedAt":1769532126,"pakFileName":"Configurable_Run_Speed_kr.pak","nexusFileId":113375,"metaUuid":"e82624c6-217d-49cf-a819-734f8274c1ea"}
@@ -70183,4 +70183,16 @@
 ]},
 "25129":{"nexusModName":"Mantle of Majesty - Short Rest Cooldown","nexusUploadedBy":"SNKmod777","nexusModId":25129,"paks":[
 {"nexusFileName":"Mantle Of Majesty Short Rest","nexusFileVersion":"1.0.0.2","nexusFileUploadedAt":1789841595,"pakFileName":"MantleOfMajesty_ShortRest.pak","nexusFileId":130911,"metaUuid":null}
+]},
+"25130":{"nexusModName":"The Bloody Star -  Astarion Edit","nexusUploadedBy":"SweetGenerousThing","nexusModId":25130,"paks":[
+{"nexusFileName":"SGT_Bloody Star - Astarion Edit","nexusFileVersion":"1","nexusFileUploadedAt":1789845883,"pakFileName":"SGT_AstarionEdit_d73a76d5-d34e-a008-180d-6531df87b849.pak","nexusFileId":130917,"metaUuid":null},
+{"nexusFileName":"SGT_Bloody Star - Astarion Portrait","nexusFileVersion":"1","nexusFileUploadedAt":1789845920,"pakFileName":"Bloody Star - Astarion Portrait.pak","nexusFileId":130918,"metaUuid":null},
+{"nexusFileName":"SGT_Bloody Star - Vanilla Hair","nexusFileVersion":"1","nexusFileUploadedAt":1789845943,"pakFileName":"SGT_AstarionEdit_d73a76d5-d34e-a008-180d-6531df87b849.pak","nexusFileId":130919,"metaUuid":null},
+{"nexusFileName":"SGT_Bloody Star - Hair Only","nexusFileVersion":"1","nexusFileUploadedAt":1789845970,"pakFileName":"SGT_AstarionEdit_HairOnly_9468cfdc-83f3-83c0-f483-f3d5e6fd21c1.pak","nexusFileId":130920,"metaUuid":null}
+]},
+"25131":{"nexusModName":"A Dream of Silence ReVamped-CHS_CHT","nexusUploadedBy":"AgleafSdan","nexusModId":25131,"paks":[
+{"nexusFileName":"ADOS reVamped CHS CHT","nexusFileVersion":"1","nexusFileUploadedAt":1789845575,"pakFileName":"ADOSreVamped Act3_beta-CHS&CHT.pak","nexusFileId":130914,"metaUuid":null}
+]},
+"25132":{"nexusModName":"Aurora Soul - Sorcerer Subclass - Spanish","nexusUploadedBy":"KaiserSands","nexusModId":25132,"paks":[
+{"nexusFileName":"Aurora Soul   Sorcerer Subclass -  ES","nexusFileVersion":"1.0.0.87","nexusFileUploadedAt":1789845623,"pakFileName":"Aurora Soul - Sorcerer Subclass - ES.pak","nexusFileId":130915,"metaUuid":null}
 ]}}
