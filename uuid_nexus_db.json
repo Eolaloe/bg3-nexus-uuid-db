@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-09-19T15:51:55.581901+00:00","total_mods":17702},
+{"_meta":{"last_run":"2026-09-19T16:52:38.972061+00:00","total_mods":17704},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -58046,10 +58046,10 @@
 {"nexusFileName":"Monarch Needle","nexusFileVersion":"1.2","nexusFileUploadedAt":1786423006,"pakFileName":"Monarchs_Needle.pak","nexusFileId":127830,"metaUuid":"b7f5e723-36ed-348a-b8af-5aa4c3b5fafb"}
 ]},
 "20634":{"nexusModName":"Heroes of Faerun Spells for Korean","nexusUploadedBy":"Eolaloe","nexusModId":20634,"paks":[
-{"nexusFileName":"Heroes of Faerun Spells for Korean","nexusFileVersion":"2.2.0.1","nexusFileUploadedAt":1777039951,"pakFileName":"spellfireFlareHOF_kr.pak","nexusFileId":119789,"metaUuid":null}
+{"nexusFileName":"Heroes of Faerun Spells for Korean","nexusFileVersion":"3.1.0.1","nexusFileUploadedAt":1789834047,"pakFileName":"spellfireFlareHOF_kr.pak","nexusFileId":130903,"metaUuid":null}
 ]},
 "20635":{"nexusModName":"Heroes of Faerun Spells for Japanese","nexusUploadedBy":"Eolaloe","nexusModId":20635,"paks":[
-{"nexusFileName":"Heroes of Faerun Spells for Japanese","nexusFileVersion":"2.2.0.1","nexusFileUploadedAt":1777039980,"pakFileName":"spellfireFlareHOF_jp.pak","nexusFileId":119790,"metaUuid":null}
+{"nexusFileName":"Heroes of Faerun Spells for Japanese","nexusFileVersion":"3.1.0.1","nexusFileUploadedAt":1789834089,"pakFileName":"spellfireFlareHOF_jp.pak","nexusFileId":130904,"metaUuid":null}
 ]},
 "20636":{"nexusModName":"Always on Display Hotbar Icons Detail (AODHID) for Heroes of Faerun Spells","nexusUploadedBy":"Eolaloe","nexusModId":20636,"paks":[
 {"nexusFileName":"Heroes of Faerun Spells_Ver.a","nexusFileVersion":"2.0.0.1","nexusFileUploadedAt":1768126730,"pakFileName":"AOD_Hotbar_Icons_Detail_HOF_A_7087dbd2-0cce-7ceb-942c-a1f6a1fba975.pak","nexusFileId":111886,"metaUuid":"7087dbd2-0cce-7ceb-942c-a1f6a1fba975"},
@@ -69105,8 +69105,8 @@
 {"nexusFileName":"PHPRobin E870033d 7c9d E902 8706 977022c78caf","nexusFileVersion":"1.0","nexusFileUploadedAt":1788000188,"pakFileName":"PHPRobin_e870033d-7c9d-e902-8706-977022c78caf.pak","nexusFileId":129259,"metaUuid":"e870033d-7c9d-e902-8706-977022c78caf"}
 ]},
 "24677":{"nexusModName":"Half-Orc Half-Drow","nexusUploadedBy":"Sai","nexusModId":24677,"paks":[
-{"nexusFileName":"Half-Orc Half-Drow","nexusFileVersion":"1.6","nexusFileUploadedAt":1789814068,"pakFileName":"Half-Orc Half-Drow.pak","nexusFileId":130884,"metaUuid":"2009eb1a-1d10-4ccd-8183-c9e56a495d92"},
-{"nexusFileName":"Half-Orc Half-Drow - Drow BT3 And BT4 Update","nexusFileVersion":"1.6","nexusFileUploadedAt":1789814078,"pakFileName":"Half-Orc Half-Drow - Drow BT3 and BT4 Update.pak","nexusFileId":130885,"metaUuid":null}
+{"nexusFileName":"Half-Orc Half-Drow","nexusFileVersion":"1.7","nexusFileUploadedAt":1789833822,"pakFileName":"Half-Orc Half-Drow.pak","nexusFileId":130901,"metaUuid":"2009eb1a-1d10-4ccd-8183-c9e56a495d92"},
+{"nexusFileName":"Half-Orc Half-Drow - Drow BT3 And BT4 Update","nexusFileVersion":"1.7","nexusFileUploadedAt":1789833835,"pakFileName":"Half-Orc Half-Drow - Drow BT3 and BT4 Update.pak","nexusFileId":130902,"metaUuid":null}
 ]},
 "24678":{"nexusModName":"Mizora Joins the Party - Turkish Translation","nexusUploadedBy":"tarikagl1","nexusModId":24678,"paks":[
 {"nexusFileName":"MizoraJoinsTheParty TR","nexusFileVersion":"1.00.00","nexusFileUploadedAt":1788006365,"pakFileName":"MizoraJoinsTheParty_TR.pak","nexusFileId":129262,"metaUuid":null}
@@ -70168,4 +70168,10 @@
 ]},
 "25123":{"nexusModName":"Morinth's Bodysuit","nexusUploadedBy":"Mojra414","nexusModId":25123,"paks":[
 {"nexusFileName":"Me2mrnthbodysuit","nexusFileVersion":"1","nexusFileUploadedAt":1789824159,"pakFileName":"ME2MRNTHBodysuit_f68102cd-c19f-fc54-2869-2c20fa4b4e14.pak","nexusFileId":130887,"metaUuid":null}
+]},
+"25126":{"nexusModName":"Cinematic Lighting Control","nexusUploadedBy":"anatolek","nexusModId":25126,"paks":[
+{"nexusFileName":"CutsceneLightsOff","nexusFileVersion":"1","nexusFileUploadedAt":1789833406,"pakFileName":"CutsceneLightsOff.pak","nexusFileId":130900,"metaUuid":null}
+]},
+"25127":{"nexusModName":"Dynamic Ability Editor","nexusUploadedBy":"anatolek","nexusModId":25127,"paks":[
+{"nexusFileName":"UniversalSpellWeaponTweaks V1.0.0 Universal","nexusFileVersion":"1","nexusFileUploadedAt":1789834540,"pakFileName":"UniversalSpellWeaponTweaks_v1.0.0_Universal.pak","nexusFileId":130905,"metaUuid":null}
 ]}}
