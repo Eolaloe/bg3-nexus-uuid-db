@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-09-19T04:52:20.129914+00:00","total_mods":17700},
+{"_meta":{"last_run":"2026-09-19T05:52:16.258587+00:00","total_mods":17702},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -61731,7 +61731,7 @@
 {"nexusFileName":"PreventOathbreaking","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1775611594,"pakFileName":"PreventOathbreaking.pak","nexusFileId":118405,"metaUuid":"8ccdf62a-68e4-4c7b-a1e1-16af3bd0624d"}
 ]},
 "21918":{"nexusModName":"Valkrana'sAIOCHS","nexusUploadedBy":"yangyangmeiiii","nexusModId":21918,"paks":[
-{"nexusFileName":"Valkrana'sAIOCHS","nexusFileVersion":"1.10.10.0","nexusFileUploadedAt":1773747348,"pakFileName":"Valkrana'sAIOCHS.pak","nexusFileId":116905,"metaUuid":null}
+{"nexusFileName":"Valkrana'sAIOCHS","nexusFileVersion":"3.01.05","nexusFileUploadedAt":1789794315,"pakFileName":"Valkrana'sAIOCHS.pak","nexusFileId":130856,"metaUuid":null}
 ]},
 "21920":{"nexusModName":"One Feels So Exposed - a Raphael redressing mod","nexusUploadedBy":"Nikjima","nexusModId":21920,"paks":[
 {"nexusFileName":"One Feels So Exposed - a Raphael redressing mod","nexusFileVersion":"1.0.0.21","nexusFileUploadedAt":1773777580,"pakFileName":"OneFeelsSoExposed_7bee0096-c677-e823-d450-b9f4afaf86c4.pak","nexusFileId":116915,"metaUuid":null}
@@ -66251,7 +66251,7 @@
 {"nexusFileName":"Humanoid Equipment and Clothing","nexusFileVersion":"1.1.0","nexusFileUploadedAt":1784259560,"pakFileName":"ECC_Humanoid_5f2c3462-94d5-feeb-5f39-5cd0f7a76c5a.pak","nexusFileId":125802,"metaUuid":"5f2c3462-94d5-feeb-5f39-5cd0f7a76c5a"},
 {"nexusFileName":"Githyanki Equipment","nexusFileVersion":"1.1.2","nexusFileUploadedAt":1784452408,"pakFileName":"ECC_Githyanki_9fb63845-8b2d-314d-99a2-bd0c75199995.pak","nexusFileId":125992,"metaUuid":"9fb63845-8b2d-314d-99a2-bd0c75199995"},
 {"nexusFileName":"Flaming Fist Equipment","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1784613341,"pakFileName":"ECC_FlamingFist_65c74891-9078-8eec-e159-2d3a9b674b91.pak","nexusFileId":126114,"metaUuid":"65c74891-9078-8eec-e159-2d3a9b674b91"},
-{"nexusFileName":"Starting Equipment Selection","nexusFileVersion":"1.5.0","nexusFileUploadedAt":1789719253,"pakFileName":"ECC_a1e921ae-8aa2-655c-c399-cfd97ed46f4c.pak","nexusFileId":130780,"metaUuid":"a1e921ae-8aa2-655c-c399-cfd97ed46f4c"}
+{"nexusFileName":"Starting Equipment Selection","nexusFileVersion":"1.5.1","nexusFileUploadedAt":1789796980,"pakFileName":"ECC_a1e921ae-8aa2-655c-c399-cfd97ed46f4c.pak","nexusFileId":130859,"metaUuid":"a1e921ae-8aa2-655c-c399-cfd97ed46f4c"}
 ]},
 "23682":{"nexusModName":"Draconic Heritage - New Feat and Dragonborn Breath Weapon Tweaks","nexusUploadedBy":"aljoxo","nexusModId":23682,"paks":[
 {"nexusFileName":"Draconic Heritage","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1783070266,"pakFileName":"DraconicHeritageFeat_6717ff34-c605-60f2-a7d4-43af802463a2.pak","nexusFileId":124765,"metaUuid":"6717ff34-c605-60f2-a7d4-43af802463a2"}
@@ -70163,4 +70163,10 @@
 ]},
 "25115":{"nexusModName":"Enemy Level and Role Scaling - Patch 8","nexusUploadedBy":"jmj348484","nexusModId":25115,"paks":[
 {"nexusFileName":"EnemyLevelRoleScaling P8 V1.0","nexusFileVersion":"1.0","nexusFileUploadedAt":1789782895,"pakFileName":"EnemyLevelRoleScaling_P8.pak","nexusFileId":130854,"metaUuid":null}
+]},
+"25117":{"nexusModName":"Volitio's Partial Respec for Korean","nexusUploadedBy":"Eolaloe","nexusModId":25117,"paks":[
+{"nexusFileName":"Partial Respec for Korean","nexusFileVersion":"1.0.1","nexusFileUploadedAt":1789796001,"pakFileName":"Partial Respec_kr.pak","nexusFileId":130857,"metaUuid":null}
+]},
+"25118":{"nexusModName":"Volitio's Partial Respec for Japanese","nexusUploadedBy":"Eolaloe","nexusModId":25118,"paks":[
+{"nexusFileName":"Partial Respec for Japanese","nexusFileVersion":"1.0.1","nexusFileUploadedAt":1789796032,"pakFileName":"Partial Respec_jp.pak","nexusFileId":130858,"metaUuid":null}
 ]}}
