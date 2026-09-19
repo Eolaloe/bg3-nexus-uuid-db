@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-09-19T16:52:38.972061+00:00","total_mods":17704},
+{"_meta":{"last_run":"2026-09-19T17:52:28.237675+00:00","total_mods":17706},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -30711,7 +30711,7 @@
 {"nexusFileName":"Umberlee Retouched","nexusFileVersion":"1.2","nexusFileUploadedAt":1727329593,"pakFileName":"UmberleeRetouched.pak","nexusFileId":72759,"metaUuid":"5b70ac59-d6c5-40d2-8389-a11e79392864"}
 ]},
 "10684":{"nexusModName":"Planewalker's Barbershop - Undercut Hair","nexusUploadedBy":"jerinski","nexusModId":10684,"paks":[
-{"nexusFileName":"Planewalker's Barbershop","nexusFileVersion":"1.0.2","nexusFileUploadedAt":1785162109,"pakFileName":"jerinski_c2077-hairs_ba5afe33-adc7-4af3-a636-5c7e85d3e5f3.pak","nexusFileId":126596,"metaUuid":"ba5afe33-adc7-4af3-a636-5c7e85d3e5f3"}
+{"nexusFileName":"Planewalker's Barbershop","nexusFileVersion":"1.0.3","nexusFileUploadedAt":1789840079,"pakFileName":"jerinski_c2077-hairs_ba5afe33-adc7-4af3-a636-5c7e85d3e5f3.pak","nexusFileId":130910,"metaUuid":"ba5afe33-adc7-4af3-a636-5c7e85d3e5f3"}
 ]},
 "10685":{"nexusModName":"Nope's Rings to Dazzle","nexusUploadedBy":"lesleynopes","nexusModId":10685,"paks":[
 {"nexusFileName":"Rings to Dazzle","nexusFileVersion":"1.2","nexusFileUploadedAt":1727370903,"pakFileName":"Rings_to_Dazzle.pak","nexusFileId":72809,"metaUuid":null},
@@ -60666,7 +60666,7 @@
 {"nexusFileName":"BG3-YAML","nexusFileVersion":"1.1.0.0","nexusFileUploadedAt":1771535035,"pakFileName":"YAML.pak","nexusFileId":115164,"metaUuid":null}
 ]},
 "21558":{"nexusModName":"BG3 - Chocolate Edition for Korean","nexusUploadedBy":"Eolaloe","nexusModId":21558,"paks":[
-{"nexusFileName":"BG3 - Chocolate Edition for Korean","nexusFileVersion":"3.0.0.114","nexusFileUploadedAt":1778430469,"pakFileName":"VanillaPlus_kr.pak","nexusFileId":120901,"metaUuid":null}
+{"nexusFileName":"BG3 - Chocolate Edition for Korean","nexusFileVersion":"4.0.0.142","nexusFileUploadedAt":1789839489,"pakFileName":"VanillaPlus_kr.pak","nexusFileId":130909,"metaUuid":null}
 ]},
 "21559":{"nexusModName":"Enemies Reworked (Combat and faction overhaul) for Korean","nexusUploadedBy":"Eolaloe","nexusModId":21559,"paks":[
 {"nexusFileName":"Enemies Reworked for Korean","nexusFileVersion":"2.0.0.11-1","nexusFileUploadedAt":1780296812,"pakFileName":"Enemies_full_rework_kr.pak","nexusFileId":122558,"metaUuid":"0cc65366-5210-421c-be31-3a386832e212"}
@@ -70027,6 +70027,9 @@
 "25061":{"nexusModName":"Enchanter's Legacy - Enchanting System","nexusUploadedBy":"luiznunes","nexusModId":25061,"paks":[
 {"nexusFileName":"Random Items F08fd07b 1f3d 380 6wps","nexusFileVersion":"1.0.0.17","nexusFileUploadedAt":1789562985,"pakFileName":"random_items_f08fd07b-1f3d-3800-99dc-824246de8fad.pak","nexusFileId":130645,"metaUuid":"f08fd07b-1f3d-3800-99dc-824246de8fad"}
 ]},
+"25062":{"nexusModName":"More Camp Idles For Gale and Lae'zel","nexusUploadedBy":"koboldJuno","nexusModId":25062,"paks":[
+{"nexusFileName":"More Camp Idles for Gale and Lae'zel","nexusFileVersion":"1.0","nexusFileUploadedAt":1789838660,"pakFileName":"MoreCampIdlesGaleLaezel.pak","nexusFileId":130907,"metaUuid":null}
+]},
 "25064":{"nexusModName":"Beast and Bow - Ranger Equipment - Russian Translation 1.0.0.18","nexusUploadedBy":"SNKmod777","nexusModId":25064,"paks":[
 {"nexusFileName":"BB Ranger Equipment RU","nexusFileVersion":"1.0.0.2","nexusFileUploadedAt":1789578372,"pakFileName":"BB_Ranger_Equipment_RU.pak","nexusFileId":130671,"metaUuid":null}
 ]},
@@ -70174,4 +70177,7 @@
 ]},
 "25127":{"nexusModName":"Dynamic Ability Editor","nexusUploadedBy":"anatolek","nexusModId":25127,"paks":[
 {"nexusFileName":"UniversalSpellWeaponTweaks V1.0.0 Universal","nexusFileVersion":"1","nexusFileUploadedAt":1789834540,"pakFileName":"UniversalSpellWeaponTweaks_v1.0.0_Universal.pak","nexusFileId":130905,"metaUuid":null}
+]},
+"25128":{"nexusModName":"Act Two Expansion Custom Campaign CHS-R","nexusUploadedBy":"Medic0007","nexusModId":25128,"paks":[
+{"nexusFileName":"Act Two Expansion CHS-Retranslation v1.0.0","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1789838689,"pakFileName":"ActTwoExpansionCHS-Retrans.pak","nexusFileId":130908,"metaUuid":null}
 ]}}
