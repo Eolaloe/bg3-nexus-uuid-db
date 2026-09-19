@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-09-19T19:52:24.782235+00:00","total_mods":17710},
+{"_meta":{"last_run":"2026-09-19T20:52:35.822694+00:00","total_mods":17711},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -47106,7 +47106,7 @@
 {"nexusFileName":"Viconia Drops Her Outfit","nexusFileVersion":"1.0","nexusFileUploadedAt":1748805771,"pakFileName":"Viconia Drops Her Outfit.pak","nexusFileId":94813,"metaUuid":"06ddb0cf-4d14-4c5d-ae09-6e7c69730cc2"}
 ]},
 "16961":{"nexusModName":"Dawnstar's Telekinetic Spells - Spanish","nexusUploadedBy":"KaiserSands","nexusModId":16961,"paks":[
-{"nexusFileName":"Dawnstar's Telekinetic Spells - ES","nexusFileVersion":"1.0.0.39","nexusFileUploadedAt":1748808366,"pakFileName":"Dawnstar's Telekinetic Spells - ES.pak","nexusFileId":94815,"metaUuid":null}
+{"nexusFileName":"Dawnstar's Telekinetic Spells - ES","nexusFileVersion":"1.0.0.39","nexusFileUploadedAt":1789850365,"pakFileName":"Dawnstar's Telekinetic Spells - ES.pak","nexusFileId":130924,"metaUuid":null}
 ]},
 "16962":{"nexusModName":"Home Brew - Comprehensive Reworks - Simplified Chinese Translation","nexusUploadedBy":"Sakurasrb","nexusModId":16962,"paks":[
 {"nexusFileName":"Vanilla Values - Inspiration","nexusFileVersion":"1.1.0","nexusFileUploadedAt":1748809036,"pakFileName":"Home Brew - Vanilla Inspiration Values.pak","nexusFileId":94818,"metaUuid":null},
@@ -68201,8 +68201,8 @@
 {"nexusFileName":"Early Access Dream Visitor Restored for Korean","nexusFileVersion":"1.0.1.1","nexusFileUploadedAt":1786824207,"pakFileName":"HT_EA_Daisy_kr.pak","nexusFileId":128164,"metaUuid":null}
 ]},
 "24453":{"nexusModName":"Move With World Map","nexusUploadedBy":"Kenyann","nexusModId":24453,"paks":[
-{"nexusFileName":"MoveWithWorldMap ","nexusFileVersion":"1.0.9","nexusFileUploadedAt":1787492782,"pakFileName":"MoveWithWorldMap.pak","nexusFileId":128834,"metaUuid":"21b7486e-1b0c-4d07-9028-c3d47602c9fa"},
-{"nexusFileName":"MoveWithWorldMap ","nexusFileVersion":"1.0.9","nexusFileUploadedAt":1787492782,"pakFileName":"MoveWithWorldMapUI.pak","nexusFileId":128834,"metaUuid":"21b7486e-1b0c-4d07-9028-c3d47602c9fa"}
+{"nexusFileName":"MoveWithWorldMap ","nexusFileVersion":"1.1.0","nexusFileUploadedAt":1789850266,"pakFileName":"MoveWithWorldMap.pak","nexusFileId":130923,"metaUuid":"21b7486e-1b0c-4d07-9028-c3d47602c9fa"},
+{"nexusFileName":"MoveWithWorldMap ","nexusFileVersion":"1.1.0","nexusFileUploadedAt":1789850266,"pakFileName":"MoveWithWorldMapUI.pak","nexusFileId":130923,"metaUuid":"21b7486e-1b0c-4d07-9028-c3d47602c9fa"}
 ]},
 "24454":{"nexusModName":"Lae'zel's Cage Trap Fixed","nexusUploadedBy":"NecroticFlame","nexusModId":24454,"paks":[
 {"nexusFileName":"Cage Trap Fixed","nexusFileVersion":"1.0.3","nexusFileUploadedAt":1787800147,"pakFileName":"CageTrapFixed_e0314fc8-37e6-142c-53f9-770467e6d02a.pak","nexusFileId":129133,"metaUuid":"e0314fc8-37e6-142c-53f9-770467e6d02a"}
@@ -70187,4 +70187,11 @@
 ]},
 "25132":{"nexusModName":"Aurora Soul - Sorcerer Subclass - Spanish","nexusUploadedBy":"KaiserSands","nexusModId":25132,"paks":[
 {"nexusFileName":"Aurora Soul   Sorcerer Subclass -  ES","nexusFileVersion":"1.0.0.87","nexusFileUploadedAt":1789845623,"pakFileName":"Aurora Soul - Sorcerer Subclass - ES.pak","nexusFileId":130915,"metaUuid":null}
+]},
+"25133":{"nexusModName":"Clive Rosefield Head","nexusUploadedBy":"Jackhannibal","nexusModId":25133,"paks":[
+{"nexusFileName":"Clive.Pak","nexusFileVersion":"1","nexusFileUploadedAt":1789847884,"pakFileName":"._clive.pak","nexusFileId":130922,"metaUuid":null},
+{"nexusFileName":"Clive.Pak","nexusFileVersion":"1","nexusFileUploadedAt":1789847884,"pakFileName":"clive.pak","nexusFileId":130922,"metaUuid":null}
+]},
+"25134":{"nexusModName":"Shion's Oni Arsenal - Gorikimaru and Oni Sovereign - Spanish","nexusUploadedBy":"KaiserSands","nexusModId":25134,"paks":[
+{"nexusFileName":"Shion'S Oni Arsenal   ES","nexusFileVersion":"1","nexusFileUploadedAt":1789847746,"pakFileName":"Shion's Oni Arsenal - ES.pak","nexusFileId":130921,"metaUuid":null}
 ]}}
