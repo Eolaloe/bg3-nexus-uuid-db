@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-09-19T22:52:22.461175+00:00","total_mods":17712},
+{"_meta":{"last_run":"2026-09-19T23:52:23.984930+00:00","total_mods":17712},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -69097,8 +69097,8 @@
 {"nexusFileName":"PHPRobin E870033d 7c9d E902 8706 977022c78caf","nexusFileVersion":"1.0","nexusFileUploadedAt":1788000188,"pakFileName":"PHPRobin_e870033d-7c9d-e902-8706-977022c78caf.pak","nexusFileId":129259,"metaUuid":"e870033d-7c9d-e902-8706-977022c78caf"}
 ]},
 "24677":{"nexusModName":"Half-Orc Half-Drow","nexusUploadedBy":"Sai","nexusModId":24677,"paks":[
-{"nexusFileName":"Half-Orc Half-Drow","nexusFileVersion":"1.7","nexusFileUploadedAt":1789833822,"pakFileName":"Half-Orc Half-Drow.pak","nexusFileId":130901,"metaUuid":"2009eb1a-1d10-4ccd-8183-c9e56a495d92"},
-{"nexusFileName":"Half-Orc Half-Drow - Drow BT3 And BT4 Update","nexusFileVersion":"1.7","nexusFileUploadedAt":1789833835,"pakFileName":"Half-Orc Half-Drow - Drow BT3 and BT4 Update.pak","nexusFileId":130902,"metaUuid":null}
+{"nexusFileName":"Half-Orc Half-Drow","nexusFileVersion":"1.8","nexusFileUploadedAt":1789861173,"pakFileName":"Half-Orc Half-Drow.pak","nexusFileId":130937,"metaUuid":"2009eb1a-1d10-4ccd-8183-c9e56a495d92"},
+{"nexusFileName":"Half-Orc Half-Drow - Half-Elf BT3 and BT4 Update","nexusFileVersion":"1.8","nexusFileUploadedAt":1789861182,"pakFileName":"Half-Orc Half-Drow - Half-Elf BT3 and BT4 Update.pak","nexusFileId":130938,"metaUuid":null}
 ]},
 "24678":{"nexusModName":"Mizora Joins the Party - Turkish Translation","nexusUploadedBy":"tarikagl1","nexusModId":24678,"paks":[
 {"nexusFileName":"MizoraJoinsTheParty TR","nexusFileVersion":"1.00.00","nexusFileUploadedAt":1788006365,"pakFileName":"MizoraJoinsTheParty_TR.pak","nexusFileId":129262,"metaUuid":null}
@@ -69195,8 +69195,8 @@
 {"nexusFileName":"GenitalSelectionMenu With KaiLimeUI","nexusFileVersion":"1.0.1.4","nexusFileUploadedAt":1788975306,"pakFileName":"GenitalSelectionMenu_With_KaiLimeUI.pak","nexusFileId":130118,"metaUuid":"f8d4326f-99cb-4883-a327-cbf971fce6ad"},
 {"nexusFileName":"HybridUI With GenitalselectionMenu","nexusFileVersion":"1.0.1.4","nexusFileUploadedAt":1789068463,"pakFileName":"HybridUI_with_GenitalSelectionMenu_09160ae2-b55a-9c6e-b992-be88ea543708.pak","nexusFileId":130200,"metaUuid":"09160ae2-b55a-9c6e-b992-be88ea543708"},
 {"nexusFileName":"Genital Icon Photobooth","nexusFileVersion":"1.1","nexusFileUploadedAt":1789305915,"pakFileName":"GenitalIconPhotobooth_6b354df6-2fa3-6f52-2e9d-67da5a9e4dce.pak","nexusFileId":130446,"metaUuid":null},
-{"nexusFileName":"GenitalSelectionMenu With YetAnotherUI","nexusFileVersion":"1.0.1.4","nexusFileUploadedAt":1789517686,"pakFileName":"GenitalSelectionMenu_With_YetAnotherUI.pak","nexusFileId":130618,"metaUuid":null},
-{"nexusFileName":"GenitalSelectionMenu With UnofficialPlusUI","nexusFileVersion":"1.0.1.4","nexusFileUploadedAt":1789713022,"pakFileName":"GenitalSelectionMenu_With_UnofficialPlusUI.pak","nexusFileId":130775,"metaUuid":null}
+{"nexusFileName":"GenitalSelectionMenu With UnofficialPlusUI","nexusFileVersion":"1.0.1.4","nexusFileUploadedAt":1789713022,"pakFileName":"GenitalSelectionMenu_With_UnofficialPlusUI.pak","nexusFileId":130775,"metaUuid":null},
+{"nexusFileName":"GenitalSelectionMenu With YetAnotherUI","nexusFileVersion":"1.0.2.0","nexusFileUploadedAt":1789860544,"pakFileName":"GenitalSelectionMenu_With_YetAnotherUI.pak","nexusFileId":130936,"metaUuid":null}
 ]},
 "24718":{"nexusModName":"Mizora Joins the Party (Russian Localization)","nexusUploadedBy":"ganeuken","nexusModId":24718,"paks":[
 {"nexusFileName":"Mizora Joins The Party (Russian Localization)","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1788154790,"pakFileName":"MizoraJoinsTheParty_RU.pak","nexusFileId":129415,"metaUuid":null}
@@ -70147,7 +70147,8 @@
 {"nexusFileName":"White Glint PTBR","nexusFileVersion":"23.02.2026","nexusFileUploadedAt":1789763301,"pakFileName":"White Glint PTBR.pak","nexusFileId":130837,"metaUuid":null}
 ]},
 "25115":{"nexusModName":"Enemy Level and Role Scaling - Patch 8","nexusUploadedBy":"jmj348484","nexusModId":25115,"paks":[
-{"nexusFileName":"EnemyLevelRoleScaling P8 V1.0","nexusFileVersion":"1.0","nexusFileUploadedAt":1789782895,"pakFileName":"EnemyLevelRoleScaling_P8.pak","nexusFileId":130854,"metaUuid":null}
+{"nexusFileName":"EnemyLevelRoleScaling P8 V1.0","nexusFileVersion":"1.0","nexusFileUploadedAt":1789782895,"pakFileName":"EnemyLevelRoleScaling_P8.pak","nexusFileId":130854,"metaUuid":null},
+{"nexusFileName":"Enemy Level Role Scaling - No XP","nexusFileVersion":"1.0","nexusFileUploadedAt":1789859512,"pakFileName":"EnemyLevelRoleScaling_P8_NoXP.pak","nexusFileId":130933,"metaUuid":null}
 ]},
 "25117":{"nexusModName":"Volitio's Partial Respec for Korean","nexusUploadedBy":"Eolaloe","nexusModId":25117,"paks":[
 {"nexusFileName":"Partial Respec for Korean","nexusFileVersion":"1.0.1","nexusFileUploadedAt":1789796001,"pakFileName":"Partial Respec_kr.pak","nexusFileId":130857,"metaUuid":null}
