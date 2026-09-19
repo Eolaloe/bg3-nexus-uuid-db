@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-09-19T07:52:07.254465+00:00","total_mods":17702},
+{"_meta":{"last_run":"2026-09-19T08:53:05.292721+00:00","total_mods":17703},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -63626,7 +63626,7 @@
 {"nexusFileName":"Branded Minthara","nexusFileVersion":"1","nexusFileUploadedAt":1777401505,"pakFileName":"BrandedMinthara_015ec171-e4bd-aa07-4805-b17ead2aae1f.pak","nexusFileId":120083,"metaUuid":"015ec171-e4bd-aa07-4805-b17ead2aae1f"}
 ]},
 "22612":{"nexusModName":"Githyanki Phrases in-dialogue translations - WIP","nexusUploadedBy":"koboldJuno","nexusModId":22612,"paks":[
-{"nexusFileName":"Githyanki Translations","nexusFileVersion":"1.1","nexusFileUploadedAt":1777458125,"pakFileName":"GithyankiTranslations.pak","nexusFileId":120170,"metaUuid":"25ae3d6e-a12f-4b4f-8019-5444f25b26ba"}
+{"nexusFileName":"Githyanki Translations","nexusFileVersion":"1.2","nexusFileUploadedAt":1789805053,"pakFileName":"GithyankiTranslations.pak","nexusFileId":130875,"metaUuid":"25ae3d6e-a12f-4b4f-8019-5444f25b26ba"}
 ]},
 "22613":{"nexusModName":"Shadowheart's New Starting Gear","nexusUploadedBy":"HyperspaceTowel","nexusModId":22613,"paks":[
 {"nexusFileName":"HT_ShadowheartStartingGear","nexusFileVersion":"1.0.0.14","nexusFileUploadedAt":1781486368,"pakFileName":"HT_ShadowheartStartingGear_b4f54b7d-244f-1053-f806-0336cfed838b.pak","nexusFileId":123610,"metaUuid":"b4f54b7d-244f-1053-f806-0336cfed838b"}
@@ -66248,10 +66248,10 @@
 "23680":{"nexusModName":"Starting Equipment Selection","nexusUploadedBy":"NecroticFlame","nexusModId":23680,"paks":[
 {"nexusFileName":"Drow Equipment & Clothing","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1783403033,"pakFileName":"ECC_Drow_b0f12c3a-ea1c-3e15-3f16-2fe463d2963b.pak","nexusFileId":125148,"metaUuid":"b0f12c3a-ea1c-3e15-3f16-2fe463d2963b"},
 {"nexusFileName":"Absolute Equipment and Clothing","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1783671258,"pakFileName":"ECC_Absolute_f3ef7850-1c69-23b7-737a-55b866f40584.pak","nexusFileId":125328,"metaUuid":"f3ef7850-1c69-23b7-737a-55b866f40584"},
-{"nexusFileName":"Humanoid Equipment and Clothing","nexusFileVersion":"1.1.0","nexusFileUploadedAt":1784259560,"pakFileName":"ECC_Humanoid_5f2c3462-94d5-feeb-5f39-5cd0f7a76c5a.pak","nexusFileId":125802,"metaUuid":"5f2c3462-94d5-feeb-5f39-5cd0f7a76c5a"},
-{"nexusFileName":"Githyanki Equipment","nexusFileVersion":"1.1.2","nexusFileUploadedAt":1784452408,"pakFileName":"ECC_Githyanki_9fb63845-8b2d-314d-99a2-bd0c75199995.pak","nexusFileId":125992,"metaUuid":"9fb63845-8b2d-314d-99a2-bd0c75199995"},
 {"nexusFileName":"Flaming Fist Equipment","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1784613341,"pakFileName":"ECC_FlamingFist_65c74891-9078-8eec-e159-2d3a9b674b91.pak","nexusFileId":126114,"metaUuid":"65c74891-9078-8eec-e159-2d3a9b674b91"},
-{"nexusFileName":"Starting Equipment Selection","nexusFileVersion":"1.5.1","nexusFileUploadedAt":1789796980,"pakFileName":"ECC_a1e921ae-8aa2-655c-c399-cfd97ed46f4c.pak","nexusFileId":130859,"metaUuid":"a1e921ae-8aa2-655c-c399-cfd97ed46f4c"}
+{"nexusFileName":"Starting Equipment Selection","nexusFileVersion":"1.5.1","nexusFileUploadedAt":1789796980,"pakFileName":"ECC_a1e921ae-8aa2-655c-c399-cfd97ed46f4c.pak","nexusFileId":130859,"metaUuid":"a1e921ae-8aa2-655c-c399-cfd97ed46f4c"},
+{"nexusFileName":"Humanoid Equipment and Clothing","nexusFileVersion":"1.1.1","nexusFileUploadedAt":1789805843,"pakFileName":"ECC_Humanoid_5f2c3462-94d5-feeb-5f39-5cd0f7a76c5a.pak","nexusFileId":130876,"metaUuid":"5f2c3462-94d5-feeb-5f39-5cd0f7a76c5a"},
+{"nexusFileName":"Githyanki Equipment","nexusFileVersion":"1.2.0","nexusFileUploadedAt":1789807605,"pakFileName":"ECC_Githyanki_9fb63845-8b2d-314d-99a2-bd0c75199995.pak","nexusFileId":130879,"metaUuid":"9fb63845-8b2d-314d-99a2-bd0c75199995"}
 ]},
 "23682":{"nexusModName":"Draconic Heritage - New Feat and Dragonborn Breath Weapon Tweaks","nexusUploadedBy":"aljoxo","nexusModId":23682,"paks":[
 {"nexusFileName":"Draconic Heritage","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1783070266,"pakFileName":"DraconicHeritageFeat_6717ff34-c605-60f2-a7d4-43af802463a2.pak","nexusFileId":124765,"metaUuid":"6717ff34-c605-60f2-a7d4-43af802463a2"}
@@ -67032,7 +67032,7 @@
 {"nexusFileName":"Npcs Have Subclasses Chs 3c1ba 0fwh","nexusFileVersion":"1","nexusFileUploadedAt":1784548605,"pakFileName":"NPCs_have_Subclasses_CHS_3c1baa36-d2d4-8c39-0046-5028c409d406.pak","nexusFileId":126073,"metaUuid":null}
 ]},
 "23963":{"nexusModName":"Eyes of the Hoarder - Rule-based Auto-Loot","nexusUploadedBy":"MiahNelah","nexusModId":23963,"paks":[
-{"nexusFileName":"EyesOfTheHoarder","nexusFileVersion":"3.2.3.0","nexusFileUploadedAt":1789478887,"pakFileName":"EyesOfTheHoarder-3.2.3.0.pak","nexusFileId":130586,"metaUuid":"0292cb8a-600a-4c29-9f22-dd9b32ef6758"}
+{"nexusFileName":"EyesOfTheHoarder","nexusFileVersion":"3.2.4.0","nexusFileUploadedAt":1789806115,"pakFileName":"EyesOfTheHoarder-3.2.4.0.pak","nexusFileId":130878,"metaUuid":null}
 ]},
 "23965":{"nexusModName":"CombatBodysuit_TheFirstDescendant_ViessaUltimate","nexusUploadedBy":"EvilRecluse","nexusModId":23965,"paks":[
 {"nexusFileName":"CombatBodysuit TheFirstDescendant ViessaUltimate","nexusFileVersion":"1","nexusFileUploadedAt":1784536547,"pakFileName":"CombatBodysuit_TheFirstDescendant_ViessaUltimate.pak","nexusFileId":126059,"metaUuid":"5efb9354-9532-471e-8ae5-1aeae515f6cf"}
@@ -70059,7 +70059,7 @@
 {"nexusFileName":"His Majesty's Clothes","nexusFileVersion":"1","nexusFileUploadedAt":1789630216,"pakFileName":"hismajestysclothes_f1b1912a-f937-ce0c-1b99-4e2a41f8604b.pak","nexusFileId":130699,"metaUuid":"f1b1912a-f937-ce0c-1b99-4e2a41f8604b"}
 ]},
 "25073":{"nexusModName":"LichClass-PortedfromPathfinderWrathoftheRighteous","nexusUploadedBy":"fangyunchunzi","nexusModId":25073,"paks":[
-{"nexusFileName":"LichClass","nexusFileVersion":"1.01","nexusFileUploadedAt":1789678589,"pakFileName":"LichClass.pak","nexusFileId":130755,"metaUuid":null}
+{"nexusFileName":"LichClass","nexusFileVersion":"1.1","nexusFileUploadedAt":1789804424,"pakFileName":"LichClass.pak","nexusFileId":130874,"metaUuid":null}
 ]},
 "25075":{"nexusModName":"Bloodweave Head Preset","nexusUploadedBy":"starlesstides","nexusModId":25075,"paks":[
 {"nexusFileName":"Bloodweave Head Preset","nexusFileVersion":"1","nexusFileUploadedAt":1789650381,"pakFileName":"Starless_Bloodweave_HeadPreset_e78f4334-b999-f0cf-c9d8-d143c9ff7230.pak","nexusFileId":130712,"metaUuid":"e78f4334-b999-f0cf-c9d8-d143c9ff7230"}
@@ -70169,4 +70169,7 @@
 ]},
 "25118":{"nexusModName":"Volitio's Partial Respec for Japanese","nexusUploadedBy":"Eolaloe","nexusModId":25118,"paks":[
 {"nexusFileName":"Partial Respec for Japanese","nexusFileVersion":"1.0.1","nexusFileUploadedAt":1789796032,"pakFileName":"Partial Respec_jp.pak","nexusFileId":130858,"metaUuid":null}
+]},
+"25121":{"nexusModName":"SummerBeach_TheFirstDescendant_GleySummerParadise","nexusUploadedBy":"EvilRecluse","nexusModId":25121,"paks":[
+{"nexusFileName":"SummerBeach TheFirstDescendant GleySummerParadise","nexusFileVersion":"1","nexusFileUploadedAt":1789807740,"pakFileName":"SummerBeach_TheFirstDescendant_GleySummerParadise.pak","nexusFileId":130880,"metaUuid":null}
 ]}}
