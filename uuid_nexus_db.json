@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-09-20T18:52:38.183335+00:00","total_mods":17721},
+{"_meta":{"last_run":"2026-09-20T19:52:30.182576+00:00","total_mods":17724},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -69603,8 +69603,8 @@
 {"nexusFileName":"Yet Another Party","nexusFileVersion":"1.3","nexusFileUploadedAt":1789734696,"pakFileName":"Yet Another Party.pak","nexusFileId":130793,"metaUuid":"2799067d-d379-4367-b135-ddb45e0d96cb"}
 ]},
 "24895":{"nexusModName":"True First-Person Camera for BG3 Exploration AND Combat","nexusUploadedBy":"proteusproject","nexusModId":24895,"paks":[
-{"nexusFileName":"0.7.6.6 Public Release -- Main Mod","nexusFileVersion":"0.7.6.6","nexusFileUploadedAt":1789335268,"pakFileName":"FirstPersonExplorer_0.7.6.6_Public_Release_Main.pak","nexusFileId":130477,"metaUuid":"f2ce5698-135a-4bb2-b58b-b7e946a83c08"},
-{"nexusFileName":"FirstPersonExplorer Combat 0.1.6","nexusFileVersion":"1","nexusFileUploadedAt":1789928120,"pakFileName":"FirstPersonExplorer_Combat_0.1.6_Main.pak","nexusFileId":130994,"metaUuid":null}
+{"nexusFileName":"0.7.6.6 Exploration Only","nexusFileVersion":"0.7.6.6","nexusFileUploadedAt":1789335268,"pakFileName":"FirstPersonExplorer_0.7.6.6_Public_Release_Main.pak","nexusFileId":130477,"metaUuid":"f2ce5698-135a-4bb2-b58b-b7e946a83c08"},
+{"nexusFileName":"First Person Exploration and Combat 0.1.6","nexusFileVersion":"1","nexusFileUploadedAt":1789928120,"pakFileName":"FirstPersonExplorer_Combat_0.1.6_Main.pak","nexusFileId":130994,"metaUuid":null}
 ]},
 "24896":{"nexusModName":"Light Mage","nexusUploadedBy":"Rathallon","nexusModId":24896,"paks":[
 {"nexusFileName":"Light Mage","nexusFileVersion":"13.17.22.56","nexusFileUploadedAt":1789689732,"pakFileName":"Light_Mage_fb843627-0383-11f9-2647-b2aef48d2ec3.pak","nexusFileId":130759,"metaUuid":"fb843627-0383-11f9-2647-b2aef48d2ec3"}
@@ -70134,7 +70134,7 @@
 {"nexusFileName":"TheBloodCountess V1.0.0","nexusFileVersion":"1","nexusFileUploadedAt":1789764517,"pakFileName":"TheBloodCountess.pak","nexusFileId":130840,"metaUuid":"b7c1e2a4-3f6d-4a91-8c25-1de40f77a913"}
 ]},
 "25112":{"nexusModName":"Shotgun - Crossbore - PTBR","nexusUploadedBy":"BarovZx","nexusModId":25112,"paks":[
-{"nexusFileName":"Crossbore PTBR","nexusFileVersion":"11.01.2026","nexusFileUploadedAt":1789761228,"pakFileName":"Crossbore PTBR.pak","nexusFileId":130835,"metaUuid":null}
+{"nexusFileName":"Crossbore PTBR 2.0","nexusFileVersion":"11.01.2027","nexusFileUploadedAt":1789932892,"pakFileName":"Crossbore PTBR.pak","nexusFileId":130998,"metaUuid":null}
 ]},
 "25113":{"nexusModName":"Veil and Venom - Rogue Equipment - Russian Translation","nexusUploadedBy":"SNKmod777","nexusModId":25113,"paks":[
 {"nexusFileName":"VV Rogue Equipment RU","nexusFileVersion":"1.0.0.5","nexusFileUploadedAt":1789762976,"pakFileName":"VV_Rogue_Equipment_RU.pak","nexusFileId":130836,"metaUuid":null}
@@ -70177,7 +70177,8 @@
 {"nexusFileName":"SGT_Bloody Star - Astarion Edit","nexusFileVersion":"1","nexusFileUploadedAt":1789845883,"pakFileName":"SGT_AstarionEdit_d73a76d5-d34e-a008-180d-6531df87b849.pak","nexusFileId":130917,"metaUuid":null},
 {"nexusFileName":"SGT_Bloody Star - Astarion Portrait","nexusFileVersion":"1","nexusFileUploadedAt":1789845920,"pakFileName":"Bloody Star - Astarion Portrait.pak","nexusFileId":130918,"metaUuid":"4da15e37-9039-427a-bace-f019154049be"},
 {"nexusFileName":"SGT_Bloody Star - Vanilla Hair","nexusFileVersion":"1","nexusFileUploadedAt":1789845943,"pakFileName":"SGT_AstarionEdit_d73a76d5-d34e-a008-180d-6531df87b849.pak","nexusFileId":130919,"metaUuid":null},
-{"nexusFileName":"SGT_Bloody Star - Hair Only","nexusFileVersion":"1","nexusFileUploadedAt":1789845970,"pakFileName":"SGT_AstarionEdit_HairOnly_9468cfdc-83f3-83c0-f483-f3d5e6fd21c1.pak","nexusFileId":130920,"metaUuid":null}
+{"nexusFileName":"SGT_Bloody Star - Hair Only","nexusFileVersion":"1","nexusFileUploadedAt":1789845970,"pakFileName":"SGT_AstarionEdit_HairOnly_9468cfdc-83f3-83c0-f483-f3d5e6fd21c1.pak","nexusFileId":130920,"metaUuid":null},
+{"nexusFileName":"SGT_Bloody Star - Hairstyle For CC","nexusFileVersion":"1","nexusFileUploadedAt":1789932955,"pakFileName":"SGT_BloodyStar - Hairstyle for CC.pak","nexusFileId":130999,"metaUuid":null}
 ]},
 "25131":{"nexusModName":"A Dream of Silence ReVamped-CHS_CHT","nexusUploadedBy":"AgleafSdan","nexusModId":25131,"paks":[
 {"nexusFileName":"ADOS reVamped CHS CHT","nexusFileVersion":"2","nexusFileUploadedAt":1789911441,"pakFileName":"ADOSreVamped Act3_beta-CHS&CHT.pak","nexusFileId":130972,"metaUuid":null}
@@ -70224,4 +70225,13 @@
 ]},
 "25153":{"nexusModName":"Pirates and Rebels-CHS","nexusUploadedBy":"shrimp1958","nexusModId":25153,"paks":[
 {"nexusFileName":"CBR Pirates Rebels Chs","nexusFileVersion":"1","nexusFileUploadedAt":1789928391,"pakFileName":"CBR_Pirates_Rebels-chs.pak","nexusFileId":130995,"metaUuid":null}
+]},
+"25154":{"nexusModName":"Lunar Spells for Paladins and Clerics-CHS","nexusUploadedBy":"shrimp1958","nexusModId":25154,"paks":[
+{"nexusFileName":"LunarSpellsForPaladinandCleric Chs","nexusFileVersion":"1","nexusFileUploadedAt":1789931228,"pakFileName":"LunarSpellsForPaladinandCleric-chs.pak","nexusFileId":130996,"metaUuid":null}
+]},
+"25155":{"nexusModName":"Francesca's Journal CHS","nexusUploadedBy":"shrimp1958","nexusModId":25155,"paks":[
+{"nexusFileName":"MGNTN FrancescasJournal Chs","nexusFileVersion":"1","nexusFileUploadedAt":1789931685,"pakFileName":"MGNTN_FrancescasJournal-chs.pak","nexusFileId":130997,"metaUuid":null}
+]},
+"25156":{"nexusModName":"The Dogs That Went to Hell - PTBR","nexusUploadedBy":"BarovZx","nexusModId":25156,"paks":[
+{"nexusFileName":"The Dogs That Went To Hell PTBR","nexusFileVersion":"11.01.2026","nexusFileUploadedAt":1789933581,"pakFileName":"The Dogs That Went To Hell PTBR.pak","nexusFileId":131000,"metaUuid":null}
 ]}}
