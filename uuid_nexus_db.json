@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-09-20T16:52:37.400794+00:00","total_mods":17718},
+{"_meta":{"last_run":"2026-09-20T17:52:50.141034+00:00","total_mods":17719},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -28397,8 +28397,8 @@
 {"nexusFileName":"DIQ Dialogue Patches","nexusFileVersion":"1.4.5.0","nexusFileUploadedAt":1774855695,"pakFileName":"DIQ Dialogue Patches.pak","nexusFileId":117784,"metaUuid":"5bbffb35-97f5-4576-8d1d-af43fb123c4c"},
 {"nexusFileName":"Goon's Druid Overhaul","nexusFileVersion":"0.5.1.1","nexusFileUploadedAt":1777016129,"pakFileName":"Goon's Druid Overhaul.pak","nexusFileId":119780,"metaUuid":"c534d6d5-7c82-4154-bea8-d1c45f11b1bc"},
 {"nexusFileName":"JWL Discordant Instruments Enhanced Revamped","nexusFileVersion":"1.6.2.0","nexusFileUploadedAt":1787906314,"pakFileName":"JWL Discordant Instruments.pak","nexusFileId":129195,"metaUuid":"a0fc73a0-26ae-4e73-962c-ab850cb9625e"},
-{"nexusFileName":"DIQ Misc Patches","nexusFileVersion":"1.4.8.0","nexusFileUploadedAt":1789242477,"pakFileName":"DIQ Misc Patches.pak","nexusFileId":130393,"metaUuid":"4c628a1a-34d9-4362-8459-2c2bb3b8e5fb"},
-{"nexusFileName":"DIQ Misc Patches - Overrides","nexusFileVersion":"1.4.8.0","nexusFileUploadedAt":1789242490,"pakFileName":"DIQ Misc Patches - Overrides.pak","nexusFileId":130394,"metaUuid":"4cee820f-03e8-465f-b65c-0a9fa8272b29"}
+{"nexusFileName":"DIQ Misc Patches - Overrides","nexusFileVersion":"1.4.8.0","nexusFileUploadedAt":1789242490,"pakFileName":"DIQ Misc Patches - Overrides.pak","nexusFileId":130394,"metaUuid":"4cee820f-03e8-465f-b65c-0a9fa8272b29"},
+{"nexusFileName":"DIQ Misc Patches","nexusFileVersion":"1.4.8.1","nexusFileUploadedAt":1789924703,"pakFileName":"DIQ Misc Patches.pak","nexusFileId":130987,"metaUuid":"4c628a1a-34d9-4362-8459-2c2bb3b8e5fb"}
 ]},
 "9786":{"nexusModName":"Half-Dragon-CHS","nexusUploadedBy":"Nefelibata426","nexusModId":9786,"paks":[
 {"nexusFileName":"HalfDragon-CHS","nexusFileVersion":"2.1.0.0","nexusFileUploadedAt":1716603680,"pakFileName":"HalfDragonCHS.pak","nexusFileId":58597,"metaUuid":null},
@@ -60426,7 +60426,7 @@
 {"nexusFileName":"Amir and Kamal - CCO and EOTB version","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1772478764,"pakFileName":"AmirAndKamal - CCO - EOTB.pak","nexusFileId":115935,"metaUuid":null}
 ]},
 "21523":{"nexusModName":"Dinner With Strahd - A Curse of Strahd Story Mod for Korean","nexusUploadedBy":"Eolaloe","nexusModId":21523,"paks":[
-{"nexusFileName":"Dinner With Strahd - A Curse of Strahd for Korean","nexusFileVersion":"1.1.2","nexusFileUploadedAt":1772486495,"pakFileName":"PlayingAround2_kr.pak","nexusFileId":115945,"metaUuid":"1c636852-4b5b-46f4-ab8f-f24e5b897a3e"}
+{"nexusFileName":"Dinner With Strahd - A Curse of Strahd for Korean","nexusFileVersion":"1.2","nexusFileUploadedAt":1789924413,"pakFileName":"PlayingAround2_kr.pak","nexusFileId":130986,"metaUuid":"1c636852-4b5b-46f4-ab8f-f24e5b897a3e"}
 ]},
 "21524":{"nexusModName":"Unnerfed Origins for Japanese","nexusUploadedBy":"Eolaloe","nexusModId":21524,"paks":[
 {"nexusFileName":"Unnerfed Origins for Japanese","nexusFileVersion":"2.3","nexusFileUploadedAt":1777374830,"pakFileName":"UnnerfedOrigins_jp.pak","nexusFileId":120059,"metaUuid":null}
@@ -70164,7 +70164,7 @@
 {"nexusFileName":"CutsceneLightsOff","nexusFileVersion":"1","nexusFileUploadedAt":1789833406,"pakFileName":"CutsceneLightsOff.pak","nexusFileId":130900,"metaUuid":"1fb632b1-9b11-4a80-8316-ad9b88b9b594"}
 ]},
 "25127":{"nexusModName":"Dynamic Spell Editor","nexusUploadedBy":"anatolek","nexusModId":25127,"paks":[
-{"nexusFileName":"UniversalSpellWeaponTweaks V1.2","nexusFileVersion":"1.2","nexusFileUploadedAt":1789914210,"pakFileName":"UniversalSpellWeaponTweaks_v1.5.4.pak","nexusFileId":130978,"metaUuid":null}
+{"nexusFileName":"UniversalSpellWeaponTweaks V1.3","nexusFileVersion":"1.3","nexusFileUploadedAt":1789925360,"pakFileName":"UniversalSpellWeaponTweaks_v1.3.pak","nexusFileId":130989,"metaUuid":null}
 ]},
 "25128":{"nexusModName":"Act Two Expansion Custom Campaign CHS-R","nexusUploadedBy":"Medic0007","nexusModId":25128,"paks":[
 {"nexusFileName":"Act Two Expansion CHS-Retranslation v1.0.0","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1789838689,"pakFileName":"ActTwoExpansionCHS-Retrans.pak","nexusFileId":130908,"metaUuid":null}
@@ -70209,8 +70209,11 @@
 "25146":{"nexusModName":"Snapshots_CHS","nexusUploadedBy":"uulucky","nexusModId":25146,"paks":[
 {"nexusFileName":"Snapshots CHS","nexusFileVersion":"1","nexusFileUploadedAt":1789914183,"pakFileName":"Snapshots_CHS.pak","nexusFileId":130977,"metaUuid":null}
 ]},
+"25147":{"nexusModName":"Myrmidon's Armor-CHS","nexusUploadedBy":"shrimp1958","nexusModId":25147,"paks":[
+{"nexusFileName":"MyrmidonsArmor   Main File Chs","nexusFileVersion":"3","nexusFileUploadedAt":1789926673,"pakFileName":"MyrmidonsArmor_chs_zh.pak","nexusFileId":130991,"metaUuid":null}
+]},
 "25148":{"nexusModName":"Early Access Nautiloid-CHS","nexusUploadedBy":"shrimp1958","nexusModId":25148,"paks":[
-{"nexusFileName":"Early Access Nautiloid Chs","nexusFileVersion":"1","nexusFileUploadedAt":1789916847,"pakFileName":"Early Access Nautiloid-chs.pak","nexusFileId":130981,"metaUuid":null}
+{"nexusFileName":"Early Access Nautiloid Chs","nexusFileVersion":"2","nexusFileUploadedAt":1789925004,"pakFileName":"EarlyAccessAvernusTutorial-chs_zh.pak","nexusFileId":130988,"metaUuid":null}
 ]},
 "25149":{"nexusModName":"Wyll's New Look - Russian Translation","nexusUploadedBy":"SNKmod777","nexusModId":25149,"paks":[
 {"nexusFileName":"Wyll New Look RU","nexusFileVersion":"1.0.0.1","nexusFileUploadedAt":1789919662,"pakFileName":"Wyll_New_Look_RU.pak","nexusFileId":130984,"metaUuid":null}
