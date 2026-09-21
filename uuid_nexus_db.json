@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-09-21T15:52:35.657067+00:00","total_mods":17737},
+{"_meta":{"last_run":"2026-09-21T16:52:43.955411+00:00","total_mods":17739},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -6432,8 +6432,7 @@
 {"nexusFileName":"Overhaul Support version","nexusFileVersion":"1.21","nexusFileUploadedAt":1693993096,"pakFileName":"WildShape Passive Fix Overhaul.pak","nexusFileId":13663,"metaUuid":"176a8f23-8a35-4bf9-9c46-cc6fb91f9f58"}
 ]},
 "1893":{"nexusModName":"Better Trade Menu","nexusUploadedBy":"Caites","nexusModId":1893,"paks":[
-{"nexusFileName":"Better Trade Menu (16 to 10)","nexusFileVersion":"1.3.4","nexusFileUploadedAt":1725518797,"pakFileName":"BetterTradeMenuOneSixOneZero_2f257120-cf76-a498-2f61-665bae766f5f.pak","nexusFileId":68788,"metaUuid":"2f257120-cf76-a498-2f61-665bae766f5f"},
-{"nexusFileName":"Better Trade Menu (16 to 9)","nexusFileVersion":"1.3.4","nexusFileUploadedAt":1725518827,"pakFileName":"BetterTradeMenu_1ae4224b-23fc-dafe-06e4-fb251d1919bd.pak","nexusFileId":68789,"metaUuid":"1ae4224b-23fc-dafe-06e4-fb251d1919bd"}
+{"nexusFileName":"Better Trade Menu","nexusFileVersion":"1.4.0","nexusFileUploadedAt":1790008082,"pakFileName":"BetterTradeMenu_1ae4224b-23fc-dafe-06e4-fb251d1919bd.pak","nexusFileId":131058,"metaUuid":"1ae4224b-23fc-dafe-06e4-fb251d1919bd"}
 ]},
 "1894":{"nexusModName":"Fantastical Multiverse Portuguese Translation","nexusUploadedBy":"kakaichi","nexusModId":1894,"paks":[
 {"nexusFileName":"Fantastical Multiverse PTBR","nexusFileVersion":"1.0.1","nexusFileUploadedAt":1694009234,"pakFileName":"FantasticalMultiversePTBR.pak","nexusFileId":13697,"metaUuid":null}
@@ -70253,6 +70252,9 @@
 "25176":{"nexusModName":"Aurora Soul Sorcerer Turkish Translation","nexusUploadedBy":"tarikagl1","nexusModId":25176,"paks":[
 {"nexusFileName":"AuroraSorcerer TR","nexusFileVersion":"1.00.00","nexusFileUploadedAt":1789977135,"pakFileName":"AuroraSorcerer_TR.pak","nexusFileId":131025,"metaUuid":null}
 ]},
+"25177":{"nexusModName":"Trials Ascension","nexusUploadedBy":"Jama4","nexusModId":25177,"paks":[
+{"nexusFileName":"TrialsAscension 2.3.4.27 NEXUS READY V2","nexusFileVersion":"2.3.4.27","nexusFileUploadedAt":1790007631,"pakFileName":"CombatMod.pak","nexusFileId":131057,"metaUuid":null}
+]},
 "25178":{"nexusModName":"Ciri - Emotional YouNarrator","nexusUploadedBy":"ToxicDrake","nexusModId":25178,"paks":[
 {"nexusFileName":"EMO Ciri YouN","nexusFileVersion":"1","nexusFileUploadedAt":1789990705,"pakFileName":"EMO_Ciri_YouN.pak","nexusFileId":131035,"metaUuid":null}
 ]},
@@ -70267,6 +70269,9 @@
 ]},
 "25183":{"nexusModName":"Equipment Loadouts MCM","nexusUploadedBy":"iBeardBros","nexusModId":25183,"paks":[
 {"nexusFileName":"EquipmentLoadoutsMCM","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1789996491,"pakFileName":"EquipmentLoadoutsMCM.pak","nexusFileId":131042,"metaUuid":null}
+]},
+"25186":{"nexusModName":"Dinner With Strahd - A Curse of Strahd Story Mod - Deutsch","nexusUploadedBy":"Myndo","nexusModId":25186,"paks":[
+{"nexusFileName":"Dinner With Strahd - German Translation","nexusFileVersion":"1.2","nexusFileUploadedAt":1790007350,"pakFileName":"PlayingAround2_GermanTranslation.pak","nexusFileId":131055,"metaUuid":null}
 ]},
 "25188":{"nexusModName":"Skip Difficulty Selection","nexusUploadedBy":"Volitio","nexusModId":25188,"paks":[
 {"nexusFileName":"SkipDifficultySelection","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1790005065,"pakFileName":"SkipDifficultySelection.pak","nexusFileId":131051,"metaUuid":null}
