@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-09-21T07:52:19.567829+00:00","total_mods":17728},
+{"_meta":{"last_run":"2026-09-21T08:52:15.166578+00:00","total_mods":17729},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -12923,7 +12923,8 @@
 {"nexusFileName":"Transgender Wyll","nexusFileVersion":"1.1","nexusFileUploadedAt":1715106504,"pakFileName":"TransgenderWyll.pak","nexusFileId":56269,"metaUuid":null}
 ]},
 "4113":{"nexusModName":"Nimi Narrator","nexusUploadedBy":"ToxicDrake","nexusModId":4113,"paks":[
-{"nexusFileName":"Nimi Narrator","nexusFileVersion":"2","nexusFileUploadedAt":1756183538,"pakFileName":"Nimi Narrator.pak","nexusFileId":101472,"metaUuid":null}
+{"nexusFileName":"Nimi Narrator","nexusFileVersion":"2","nexusFileUploadedAt":1756183538,"pakFileName":"Nimi Narrator.pak","nexusFileId":101472,"metaUuid":null},
+{"nexusFileName":"EMO Nimi Narrator","nexusFileVersion":"3","nexusFileUploadedAt":1789979920,"pakFileName":"EMO_Nimi_Narrator.pak","nexusFileId":131026,"metaUuid":null}
 ]},
 "4115":{"nexusModName":"Transgender Astarion","nexusUploadedBy":"Aether","nexusModId":4115,"paks":[
 {"nexusFileName":"Transgender Astarion","nexusFileVersion":"1.0","nexusFileUploadedAt":1699630121,"pakFileName":"TransgenderAstarion.pak","nexusFileId":27720,"metaUuid":null}
@@ -66207,11 +66208,11 @@
 ]},
 "23680":{"nexusModName":"Starting Equipment Selection","nexusUploadedBy":"NecroticFlame","nexusModId":23680,"paks":[
 {"nexusFileName":"Starting Equipment Selection","nexusFileVersion":"1.5.1","nexusFileUploadedAt":1789796980,"pakFileName":"ECC_a1e921ae-8aa2-655c-c399-cfd97ed46f4c.pak","nexusFileId":130859,"metaUuid":"a1e921ae-8aa2-655c-c399-cfd97ed46f4c"},
-{"nexusFileName":"Humanoid Equipment and Clothing","nexusFileVersion":"1.1.1","nexusFileUploadedAt":1789805843,"pakFileName":"ECC_Humanoid_5f2c3462-94d5-feeb-5f39-5cd0f7a76c5a.pak","nexusFileId":130876,"metaUuid":"5f2c3462-94d5-feeb-5f39-5cd0f7a76c5a"},
 {"nexusFileName":"Absolute Equipment and Clothing","nexusFileVersion":"1.2.0","nexusFileUploadedAt":1789881918,"pakFileName":"ECC_Absolute_f3ef7850-1c69-23b7-737a-55b866f40584.pak","nexusFileId":130951,"metaUuid":"f3ef7850-1c69-23b7-737a-55b866f40584"},
 {"nexusFileName":"Flaming Fist Equipment","nexusFileVersion":"1.0.1","nexusFileUploadedAt":1789886000,"pakFileName":"ECC_FlamingFist_65c74891-9078-8eec-e159-2d3a9b674b91.pak","nexusFileId":130953,"metaUuid":"65c74891-9078-8eec-e159-2d3a9b674b91"},
 {"nexusFileName":"Githyanki Equipment","nexusFileVersion":"1.2.1","nexusFileUploadedAt":1789968892,"pakFileName":"ECC_Githyanki_9fb63845-8b2d-314d-99a2-bd0c75199995.pak","nexusFileId":131021,"metaUuid":"9fb63845-8b2d-314d-99a2-bd0c75199995"},
-{"nexusFileName":"Drow Equipment and Clothing","nexusFileVersion":"1.0.1","nexusFileUploadedAt":1789969159,"pakFileName":"ECC_Drow_b0f12c3a-ea1c-3e15-3f16-2fe463d2963b.pak","nexusFileId":131022,"metaUuid":"b0f12c3a-ea1c-3e15-3f16-2fe463d2963b"}
+{"nexusFileName":"Drow Equipment and Clothing","nexusFileVersion":"1.0.1","nexusFileUploadedAt":1789969159,"pakFileName":"ECC_Drow_b0f12c3a-ea1c-3e15-3f16-2fe463d2963b.pak","nexusFileId":131022,"metaUuid":"b0f12c3a-ea1c-3e15-3f16-2fe463d2963b"},
+{"nexusFileName":"Humanoid Equipment and Clothing","nexusFileVersion":"1.1.2","nexusFileUploadedAt":1789980119,"pakFileName":"ECC_Humanoid_5f2c3462-94d5-feeb-5f39-5cd0f7a76c5a.pak","nexusFileId":131027,"metaUuid":"5f2c3462-94d5-feeb-5f39-5cd0f7a76c5a"}
 ]},
 "23682":{"nexusModName":"Draconic Heritage - New Feat and Dragonborn Breath Weapon Tweaks","nexusUploadedBy":"aljoxo","nexusModId":23682,"paks":[
 {"nexusFileName":"Draconic Heritage","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1783070266,"pakFileName":"DraconicHeritageFeat_6717ff34-c605-60f2-a7d4-43af802463a2.pak","nexusFileId":124765,"metaUuid":"6717ff34-c605-60f2-a7d4-43af802463a2"}
@@ -70244,4 +70245,7 @@
 ]},
 "25174":{"nexusModName":"Finished Business","nexusUploadedBy":"actualsailorcat","nexusModId":25174,"paks":[
 {"nexusFileName":"Finished Business","nexusFileVersion":"1.00.00","nexusFileUploadedAt":1789965154,"pakFileName":"Finished Business.pak","nexusFileId":131018,"metaUuid":null}
+]},
+"25176":{"nexusModName":"Aurora Soul Sorcerer Turkish Translation","nexusUploadedBy":"tarikagl1","nexusModId":25176,"paks":[
+{"nexusFileName":"AuroraSorcerer TR","nexusFileVersion":"1.00.00","nexusFileUploadedAt":1789977135,"pakFileName":"AuroraSorcerer_TR.pak","nexusFileId":131025,"metaUuid":null}
 ]}}
