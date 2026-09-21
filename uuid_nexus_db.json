@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-09-21T18:52:26.057566+00:00","total_mods":17745},
+{"_meta":{"last_run":"2026-09-21T19:52:35.428098+00:00","total_mods":17748},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -69426,7 +69426,7 @@
 {"nexusFileName":"DivineSacredFlame","nexusFileVersion":"1.0.2","nexusFileUploadedAt":1788701953,"pakFileName":"DivineSacredFlame.pak","nexusFileId":129872,"metaUuid":"8f3c1a9e-72b4-4e28-9d51-12c8b09f4e62"}
 ]},
 "24831":{"nexusModName":"Modded Item Randomizer (MIR) (By SerpentineShel)","nexusUploadedBy":"SerpentineShel","nexusModId":24831,"paks":[
-{"nexusFileName":"MIR 1.0.1","nexusFileVersion":"1","nexusFileUploadedAt":1788628230,"pakFileName":"MIR.pak","nexusFileId":129775,"metaUuid":"9ed7bbe2-d0aa-4bfc-8d86-a59aae5910c7"}
+{"nexusFileName":"MIR 1.1.1","nexusFileVersion":"1","nexusFileUploadedAt":1790018842,"pakFileName":"MIR.pak","nexusFileId":131085,"metaUuid":"9ed7bbe2-d0aa-4bfc-8d86-a59aae5910c7"}
 ]},
 "24832":{"nexusModName":"Opalescent Threads","nexusUploadedBy":"arideyya","nexusModId":24832,"paks":[
 {"nexusFileName":"Opalescent Threads","nexusFileVersion":"1","nexusFileUploadedAt":1788677159,"pakFileName":"Opalescent Threads.pak","nexusFileId":129840,"metaUuid":"6a7acb44-cda7-47f2-aece-e33ac297a1fe"},
@@ -70276,6 +70276,9 @@
 "25189":{"nexusModName":"Gunhalberd and Borepikes - PTBR","nexusUploadedBy":"BarovZx","nexusModId":25189,"paks":[
 {"nexusFileName":"Gunhalberd PTBR","nexusFileVersion":"11.01.2026","nexusFileUploadedAt":1790005360,"pakFileName":"Gunhalberd PTBR.pak","nexusFileId":131052,"metaUuid":null}
 ]},
+"25190":{"nexusModName":"Ring of the All-Father","nexusUploadedBy":"Athanatos173","nexusModId":25190,"paks":[
+{"nexusFileName":"Ring Of The All Father","nexusFileVersion":"1","nexusFileUploadedAt":1790009008,"pakFileName":"Ring_of_the_All_Father.pak","nexusFileId":131059,"metaUuid":null}
+]},
 "25191":{"nexusModName":"Origin Oddities - Bags and Bundles CHS","nexusUploadedBy":"shrimp1958","nexusModId":25191,"paks":[
 {"nexusFileName":"OO BagsAndBundles CHS","nexusFileVersion":"1","nexusFileUploadedAt":1790010818,"pakFileName":"OO_BagsAndBundles_CHS.pak","nexusFileId":131061,"metaUuid":null}
 ]},
@@ -70289,5 +70292,14 @@
 {"nexusFileName":"A Soul By The Stormshore Chs","nexusFileVersion":"4","nexusFileUploadedAt":1790015279,"pakFileName":"A Soul By The Stormshore-chs.pak","nexusFileId":131077,"metaUuid":null}
 ]},
 "25198":{"nexusModName":"Hotsprings Getaway CHS","nexusUploadedBy":"shrimp1958","nexusModId":25198,"paks":[
-{"nexusFileName":"Hotsprings Chs Zh","nexusFileVersion":"1","nexusFileUploadedAt":1790016423,"pakFileName":"Hotsprings-chs_zh.pak","nexusFileId":131079,"metaUuid":null}
+{"nexusFileName":"Hotsprings-Chs","nexusFileVersion":"1","nexusFileUploadedAt":1790016423,"pakFileName":"Hotsprings-chs_zh.pak","nexusFileId":131079,"metaUuid":null}
+]},
+"25199":{"nexusModName":"Deepspace Florals CHS","nexusUploadedBy":"shrimp1958","nexusModId":25199,"paks":[
+{"nexusFileName":"LaDsFlowers-Chs","nexusFileVersion":"2","nexusFileUploadedAt":1790017462,"pakFileName":"LaDsFlowers-chs_zh.pak","nexusFileId":131082,"metaUuid":null}
+]},
+"25201":{"nexusModName":"Harness Remixes CHS","nexusUploadedBy":"shrimp1958","nexusModId":25201,"paks":[
+{"nexusFileName":"HarnessRemixes-Chs","nexusFileVersion":"1","nexusFileUploadedAt":1790018546,"pakFileName":"HarnessRemixes-chs_zh.pak","nexusFileId":131084,"metaUuid":null}
+]},
+"25203":{"nexusModName":"Bath Before Bed CHS","nexusUploadedBy":"shrimp1958","nexusModId":25203,"paks":[
+{"nexusFileName":"BathBeforeBed-Chs","nexusFileVersion":"1","nexusFileUploadedAt":1790020183,"pakFileName":"BathBeforeBed_-chs.pak","nexusFileId":131089,"metaUuid":null}
 ]}}
