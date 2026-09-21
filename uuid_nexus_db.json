@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-09-21T13:52:23.726863+00:00","total_mods":17734},
+{"_meta":{"last_run":"2026-09-21T14:52:21.057835+00:00","total_mods":17735},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -68823,10 +68823,10 @@
 {"nexusFileName":"Goon'S Spell Overhaul CHS","nexusFileVersion":"1","nexusFileUploadedAt":1787647115,"pakFileName":"Goon Spell Overhaul CHS.pak","nexusFileId":128972,"metaUuid":"7881e8fb-f3e3-44a3-b925-6abe207044a7"}
 ]},
 "24578":{"nexusModName":"Devil May cry 5 (DMC5) Nero Devil Breakers","nexusUploadedBy":"KraytClaw","nexusModId":24578,"paks":[
-{"nexusFileName":" NeroBreakers","nexusFileVersion":"1.0","nexusFileUploadedAt":1787445482,"pakFileName":"_NeroBreakers.pak","nexusFileId":128739,"metaUuid":"7813bcc9-8cb2-4370-a01c-81fc2980c6ae"},
-{"nexusFileName":"NeroBreakers NoProgression","nexusFileVersion":"1.0","nexusFileUploadedAt":1787445548,"pakFileName":"_NeroBreakers_NoProgression.pak","nexusFileId":128740,"metaUuid":"045fedb0-41b7-47e6-83f3-f2d4e665cf33"},
 {"nexusFileName":"NeroBreakersDyable","nexusFileVersion":"1.0","nexusFileUploadedAt":1788609369,"pakFileName":"_NeroBreakersDyable.pak","nexusFileId":129753,"metaUuid":null},
-{"nexusFileName":"NeroBreakersDyable NoProgression","nexusFileVersion":"1.0","nexusFileUploadedAt":1788610605,"pakFileName":"_NeroBreakersDyable_NoProgression.pak","nexusFileId":129755,"metaUuid":null}
+{"nexusFileName":"NeroBreakersDyable NoProgression","nexusFileVersion":"1.0","nexusFileUploadedAt":1788610605,"pakFileName":"_NeroBreakersDyable_NoProgression.pak","nexusFileId":129755,"metaUuid":null},
+{"nexusFileName":" NeroBreakers","nexusFileVersion":"1.1","nexusFileUploadedAt":1790001974,"pakFileName":"_NeroBreakers.pak","nexusFileId":131045,"metaUuid":"7813bcc9-8cb2-4370-a01c-81fc2980c6ae"},
+{"nexusFileName":"NeroBreakers NoProgression","nexusFileVersion":"1.1","nexusFileUploadedAt":1790001989,"pakFileName":"_NeroBreakers_NoProgression.pak","nexusFileId":131046,"metaUuid":"045fedb0-41b7-47e6-83f3-f2d4e665cf33"}
 ]},
 "24580":{"nexusModName":"Lowclass Degenerate - Rogue Subclass","nexusUploadedBy":"mashnear","nexusModId":24580,"paks":[
 {"nexusFileName":"LowclassDegenerate V2N","nexusFileVersion":"2","nexusFileUploadedAt":1788130282,"pakFileName":"LowclassDegenerate_V2O_FightStartIdentityDebounce.pak","nexusFileId":129393,"metaUuid":null}
@@ -70146,6 +70146,9 @@
 "25123":{"nexusModName":"Morinth's Bodysuit","nexusUploadedBy":"Mojra414","nexusModId":25123,"paks":[
 {"nexusFileName":"Me2mrnthbodysuit_nonVT","nexusFileVersion":"2","nexusFileUploadedAt":1789983514,"pakFileName":"ME2MRNTHBodysuit_f68102cd-c19f-fc54-2869-2c20fa4b4e14.pak","nexusFileId":131029,"metaUuid":null}
 ]},
+"25124":{"nexusModName":"In-Game Mod Manager Search","nexusUploadedBy":"arctic0xygen","nexusModId":25124,"paks":[
+{"nexusFileName":"ModManagerSearch 1.1.0.1","nexusFileVersion":"1.1.0.1","nexusFileUploadedAt":1790000527,"pakFileName":"ModSearch.pak","nexusFileId":131043,"metaUuid":null}
+]},
 "25126":{"nexusModName":"Cinematic Lighting Control","nexusUploadedBy":"anatolek","nexusModId":25126,"paks":[
 {"nexusFileName":"CutsceneLightsOff","nexusFileVersion":"1","nexusFileUploadedAt":1789833406,"pakFileName":"CutsceneLightsOff.pak","nexusFileId":130900,"metaUuid":"1fb632b1-9b11-4a80-8316-ad9b88b9b594"}
 ]},
@@ -70245,7 +70248,7 @@
 {"nexusFileName":"ActTwoExpansion GermanTranslation","nexusFileVersion":"0.8","nexusFileUploadedAt":1789956176,"pakFileName":"ActTwoExpansion_GermanTranslation.pak","nexusFileId":131015,"metaUuid":null}
 ]},
 "25174":{"nexusModName":"Finished Business","nexusUploadedBy":"actualsailorcat","nexusModId":25174,"paks":[
-{"nexusFileName":"Finished Business","nexusFileVersion":"1.00.00","nexusFileUploadedAt":1789965154,"pakFileName":"Finished Business.pak","nexusFileId":131018,"metaUuid":"403981cf-2d44-462c-9ccf-c83e35a97a40"}
+{"nexusFileName":"Finished Business","nexusFileVersion":"1.00.01","nexusFileUploadedAt":1790001449,"pakFileName":"Finished Business.pak","nexusFileId":131044,"metaUuid":"403981cf-2d44-462c-9ccf-c83e35a97a40"}
 ]},
 "25176":{"nexusModName":"Aurora Soul Sorcerer Turkish Translation","nexusUploadedBy":"tarikagl1","nexusModId":25176,"paks":[
 {"nexusFileName":"AuroraSorcerer TR","nexusFileVersion":"1.00.00","nexusFileUploadedAt":1789977135,"pakFileName":"AuroraSorcerer_TR.pak","nexusFileId":131025,"metaUuid":null}
