@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-09-21T10:52:00.265505+00:00","total_mods":17728},
+{"_meta":{"last_run":"2026-09-21T11:52:20.538280+00:00","total_mods":17730},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -49328,7 +49328,7 @@
 {"nexusFileName":"Rebalance_Lvl3_Spells_Ru","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1753265267,"pakFileName":"Rebalance_Lvl3_Spells_Ru.pak","nexusFileId":98809,"metaUuid":null}
 ]},
 "17746":{"nexusModName":"Occultist Class (Blue Mage)","nexusUploadedBy":"wesslen","nexusModId":17746,"paks":[
-{"nexusFileName":"Occultist (Blue Mage)","nexusFileVersion":"1.7.1","nexusFileUploadedAt":1789204395,"pakFileName":"DBlueMage.pak","nexusFileId":130341,"metaUuid":"deba3096-24c5-4b6d-bd77-52c2e3661d21"}
+{"nexusFileName":"Occultist (Blue Mage)","nexusFileVersion":"1.7.2","nexusFileUploadedAt":1789988011,"pakFileName":"DBlueMage.pak","nexusFileId":131033,"metaUuid":"deba3096-24c5-4b6d-bd77-52c2e3661d21"}
 ]},
 "17748":{"nexusModName":"DreadOverlord9.10-KR NEXUS VER","nexusUploadedBy":"MshapedHairLoss","nexusModId":17748,"paks":[
 {"nexusFileName":"DreadOverlord9.10-KR NEXUS.VER","nexusFileVersion":"9.10.6.5","nexusFileUploadedAt":1754061060,"pakFileName":"DreadOverlord9.10-KR.pak","nexusFileId":99633,"metaUuid":null},
@@ -70246,4 +70246,10 @@
 ]},
 "25176":{"nexusModName":"Aurora Soul Sorcerer Turkish Translation","nexusUploadedBy":"tarikagl1","nexusModId":25176,"paks":[
 {"nexusFileName":"AuroraSorcerer TR","nexusFileVersion":"1.00.00","nexusFileUploadedAt":1789977135,"pakFileName":"AuroraSorcerer_TR.pak","nexusFileId":131025,"metaUuid":null}
+]},
+"25178":{"nexusModName":"Ciri - Emotional YouNarrator","nexusUploadedBy":"ToxicDrake","nexusModId":25178,"paks":[
+{"nexusFileName":"EMO Ciri YouN","nexusFileVersion":"1","nexusFileUploadedAt":1789990705,"pakFileName":"EMO_Ciri_YouN.pak","nexusFileId":131035,"metaUuid":null}
+]},
+"25179":{"nexusModName":"Might and Metal - Fighter Equipment - Russian Translation 1.0.0.15","nexusUploadedBy":"SNKmod777","nexusModId":25179,"paks":[
+{"nexusFileName":"MM Fighter Equipment RU","nexusFileVersion":"1.0.0.3","nexusFileUploadedAt":1789990254,"pakFileName":"MM_Fighter_Equipment_RU.pak","nexusFileId":131034,"metaUuid":null}
 ]}}
