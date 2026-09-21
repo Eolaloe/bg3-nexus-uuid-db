@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-09-21T19:52:35.428098+00:00","total_mods":17748},
+{"_meta":{"last_run":"2026-09-21T20:52:16.907088+00:00","total_mods":17750},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -68562,14 +68562,13 @@
 ]},
 "24484":{"nexusModName":"Desire demon dress","nexusUploadedBy":"orionnix","nexusModId":24484,"paks":[
 {"nexusFileName":"DesireDemon Hair","nexusFileVersion":"1","nexusFileUploadedAt":1787268116,"pakFileName":"DesireDemon_Hair.pak","nexusFileId":128585,"metaUuid":"6edc1580-ce64-f5e8-7ea7-e87339e6be1f"},
-{"nexusFileName":"DAO DesireDemon RefitAKM - BT1 only version","nexusFileVersion":"2","nexusFileUploadedAt":1787324927,"pakFileName":"DAO_DesireDemon_Robes_RefitAKM.pak","nexusFileId":128617,"metaUuid":null},
-{"nexusFileName":"DAO DesireDemon RefitAKM - BT1 and BT3 version","nexusFileVersion":"1","nexusFileUploadedAt":1787325020,"pakFileName":"DAO_DesireDemon_Robes_RefitAKM_V2.pak","nexusFileId":128618,"metaUuid":"7bbd7492-3771-b668-6730-bf725744aca5"},
 {"nexusFileName":"DAO DesireDemon RefitMidSize","nexusFileVersion":"1","nexusFileUploadedAt":1787353649,"pakFileName":"DAO_DesireDemon_Robes_RefitMidSize.pak","nexusFileId":128637,"metaUuid":null},
 {"nexusFileName":"DAO DesireDemon RefitSBBF","nexusFileVersion":"1","nexusFileUploadedAt":1787415501,"pakFileName":"DAO_DesireDemon_Robes_RefitSBBF.pak","nexusFileId":128704,"metaUuid":null},
 {"nexusFileName":"DAO DesireDemon RefitDulcetBoth Non-replacer","nexusFileVersion":"1","nexusFileUploadedAt":1787606475,"pakFileName":"DAO_DesireDemon_Robes_RefitDulcet_NRP.pak","nexusFileId":128953,"metaUuid":null},
 {"nexusFileName":"DAO DesireDemon RefitDulcetA Replacer","nexusFileVersion":"1","nexusFileUploadedAt":1787606591,"pakFileName":"DAO_DesireDemon_Robes_RefitDulcetA_RP.pak","nexusFileId":128954,"metaUuid":null},
 {"nexusFileName":"DAO DesireDemon RefitDulcetB Replacer","nexusFileVersion":"1","nexusFileUploadedAt":1787606624,"pakFileName":"DAO_DesireDemon_Robes_RefitDulcetB_RP.pak","nexusFileId":128955,"metaUuid":null},
-{"nexusFileName":"DAO DesireDemon V2","nexusFileVersion":"2","nexusFileUploadedAt":1787846594,"pakFileName":"DAO_DesireDemon_Robes.pak","nexusFileId":129158,"metaUuid":"c04da5d7-e7e5-c376-701b-c5ed0b432b91"}
+{"nexusFileName":"DAO DesireDemon V2","nexusFileVersion":"2","nexusFileUploadedAt":1787846594,"pakFileName":"DAO_DesireDemon_Robes.pak","nexusFileId":129158,"metaUuid":"c04da5d7-e7e5-c376-701b-c5ed0b432b91"},
+{"nexusFileName":"DesireDemon Refit AKM for V.3.0.1.2","nexusFileVersion":"1","nexusFileUploadedAt":1790021683,"pakFileName":"DAO_DesireDemon_Robes_RefitAKM.pak","nexusFileId":131091,"metaUuid":null}
 ]},
 "24485":{"nexusModName":"Brocade Be Gone - Customize Tav's Epilogue Wardrobe","nexusUploadedBy":"Seristina","nexusModId":24485,"paks":[
 {"nexusFileName":"EpilogueWardrobe","nexusFileVersion":"3","nexusFileUploadedAt":1787880448,"pakFileName":"EpilogueWardrobe_plus_underwear.pak","nexusFileId":129187,"metaUuid":"546e2002-b5d9-46b7-9807-15108ec6715c"},
@@ -70297,9 +70296,15 @@
 "25199":{"nexusModName":"Deepspace Florals CHS","nexusUploadedBy":"shrimp1958","nexusModId":25199,"paks":[
 {"nexusFileName":"LaDsFlowers-Chs","nexusFileVersion":"2","nexusFileUploadedAt":1790017462,"pakFileName":"LaDsFlowers-chs_zh.pak","nexusFileId":131082,"metaUuid":null}
 ]},
+"25200":{"nexusModName":"Blood of Lathander Simple Tweaks","nexusUploadedBy":"lovemachine44","nexusModId":25200,"paks":[
+{"nexusFileName":"Blood Of Lathander Simple Tweaks","nexusFileVersion":"1","nexusFileUploadedAt":1790021533,"pakFileName":"BloodOfLathander_Simple_Tweaks.pak","nexusFileId":131090,"metaUuid":null}
+]},
 "25201":{"nexusModName":"Harness Remixes CHS","nexusUploadedBy":"shrimp1958","nexusModId":25201,"paks":[
 {"nexusFileName":"HarnessRemixes-Chs","nexusFileVersion":"1","nexusFileUploadedAt":1790018546,"pakFileName":"HarnessRemixes-chs_zh.pak","nexusFileId":131084,"metaUuid":null}
 ]},
 "25203":{"nexusModName":"Bath Before Bed CHS","nexusUploadedBy":"shrimp1958","nexusModId":25203,"paks":[
 {"nexusFileName":"BathBeforeBed-Chs","nexusFileVersion":"1","nexusFileUploadedAt":1790020183,"pakFileName":"BathBeforeBed_-chs.pak","nexusFileId":131089,"metaUuid":null}
+]},
+"25204":{"nexusModName":"BG3 Mod Support for the Xbox App on PC","nexusUploadedBy":"titoreinaldo","nexusModId":25204,"paks":[
+{"nexusFileName":"BG3 Mod Support for PC 0.2.1","nexusFileVersion":"0.2.1","nexusFileUploadedAt":1790022865,"pakFileName":"BG3MCM.pak","nexusFileId":131092,"metaUuid":null}
 ]}}
