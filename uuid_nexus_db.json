@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-09-22T20:52:18.420070+00:00","total_mods":17763},
+{"_meta":{"last_run":"2026-09-22T21:52:05.199429+00:00","total_mods":17764},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -38261,7 +38261,7 @@
 "13602":{"nexusModName":"Shadowheart's Datamined Head for Tav","nexusUploadedBy":"insalatadicetrioli","nexusModId":13602,"paks":[
 {"nexusFileName":"SH Datamined Head for Tav","nexusFileVersion":"1.0","nexusFileUploadedAt":1730975850,"pakFileName":"DataminedSH_CC.pak","nexusFileId":78112,"metaUuid":"55fdcfa5-7e9d-4563-b54a-853233fd7819"}
 ]},
-"13605":{"nexusModName":"DLC Items Remastered","nexusUploadedBy":"ArtisanCorsair","nexusModId":13605,"paks":[
+"13605":{"nexusModName":"DLC Items Remastered","nexusUploadedBy":"RelicHunter","nexusModId":13605,"paks":[
 {"nexusFileName":"DLC Items Remastered","nexusFileVersion":"5","nexusFileUploadedAt":1732188859,"pakFileName":"DLC-ITEMS-REMASTERED_78cbf5b6-2d89-3b71-0591-b268e0b24968.pak","nexusFileId":79557,"metaUuid":"78cbf5b6-2d89-3b71-0591-b268e0b24968"}
 ]},
 "13607":{"nexusModName":"Really Shadowheart - Polish Translation","nexusUploadedBy":"Cayern","nexusModId":13607,"paks":[
@@ -43425,8 +43425,8 @@
 {"nexusFileName":"Ultimate NPC Stat Overhaul - Lab - Extras","nexusFileVersion":"3.2.1.0","nexusFileUploadedAt":1789798224,"pakFileName":"Ultimate NPC Stat Overhaul - Lab - Extras.pak","nexusFileId":130862,"metaUuid":"445cacd6-70b2-43ca-8f09-1836da616e8a"},
 {"nexusFileName":"Ultimate NPC Stat Overhaul - Lab","nexusFileVersion":"3.2.1.0","nexusFileUploadedAt":1789798237,"pakFileName":"Ultimate NPC Stat Overhaul - Lab.pak","nexusFileId":130863,"metaUuid":"61e8471b-4eda-4493-829d-e3c29ecc36c3"},
 {"nexusFileName":"Ultimate NPC Stat Overhaul - Core - Extras","nexusFileVersion":"3.2.1.0","nexusFileUploadedAt":1789798261,"pakFileName":"Ultimate NPC Stat Overhaul - Core - Extras.pak","nexusFileId":130864,"metaUuid":"e2863ee8-846a-4492-b8bb-f710e1a382ef"},
-{"nexusFileName":"Ultimate NPC Stat Overhaul - Core","nexusFileVersion":"3.2.1.0","nexusFileUploadedAt":1789798274,"pakFileName":"Ultimate NPC Stat Overhaul - Core.pak","nexusFileId":130865,"metaUuid":"a7b5810e-3ac1-4a8f-bcc9-d18d91de2505"},
-{"nexusFileName":"Ultimate NPC Stat Overhaul - CX - Icon Activation","nexusFileVersion":"3.2.1.0","nexusFileUploadedAt":1789798313,"pakFileName":"Ultimate NPC Stat Overhaul - CX - Icon Activation.pak","nexusFileId":130866,"metaUuid":null}
+{"nexusFileName":"Ultimate NPC Stat Overhaul - CX - Icon Activation","nexusFileVersion":"3.2.1.0","nexusFileUploadedAt":1789798313,"pakFileName":"Ultimate NPC Stat Overhaul - CX - Icon Activation.pak","nexusFileId":130866,"metaUuid":null},
+{"nexusFileName":"Ultimate NPC Stat Overhaul - Core","nexusFileVersion":"3.2.2.0","nexusFileUploadedAt":1790112455,"pakFileName":"Ultimate NPC Stat Overhaul - Core.pak","nexusFileId":131159,"metaUuid":"a7b5810e-3ac1-4a8f-bcc9-d18d91de2505"}
 ]},
 "15536":{"nexusModName":"Pact and Power PTBR 1.0.0.4","nexusUploadedBy":"kaironn2","nexusModId":15536,"paks":[
 {"nexusFileName":"Pact and Power PTBR 1.0.0.4","nexusFileVersion":"1.0.0.4","nexusFileUploadedAt":1745167800,"pakFileName":"pact_and_power_ptbr.pak","nexusFileId":89904,"metaUuid":"7a95bb0a-856e-48dc-bea5-2b9f188f92df"}
@@ -54975,8 +54975,8 @@
 "19790":{"nexusModName":"Cahoot's Absolute's Laboratory Config","nexusUploadedBy":"Cahooots","nexusModId":19790,"paks":[
 {"nexusFileName":"CahootLabConfig Dependencies 2","nexusFileVersion":"2.0.0","nexusFileUploadedAt":1783105253,"pakFileName":"CahootLabConfig_Dependencies_2.pak","nexusFileId":124807,"metaUuid":"40f67820-a2d1-4049-a121-66d74a4a35f2"},
 {"nexusFileName":"CahootLabConfig Dependencies 1","nexusFileVersion":"2.0.0","nexusFileUploadedAt":1783107377,"pakFileName":"CahootLabConfig_Dependencies_1.pak","nexusFileId":124809,"metaUuid":"0865ac2a-7ab7-4200-aec5-955ffccb5aa7"},
-{"nexusFileName":"Cahoot's Lab Config (4 Party)","nexusFileVersion":"2.1.1","nexusFileUploadedAt":1788092038,"pakFileName":"CahootLabConfig_4Party.pak","nexusFileId":129333,"metaUuid":"bed00e2c-7588-49fc-ac58-263619bcab5f"},
-{"nexusFileName":"Cahoot's Lab Config (5 Party)","nexusFileVersion":"2.1.1","nexusFileUploadedAt":1788092046,"pakFileName":"CahootLabConfig_5Party.pak","nexusFileId":129334,"metaUuid":"6fcd359f-9326-4502-ab3e-6a925629bb67"}
+{"nexusFileName":"Cahoot's Lab Config (5 Party)","nexusFileVersion":"2.1.2","nexusFileUploadedAt":1790112675,"pakFileName":"CahootLabConfig_5Party.pak","nexusFileId":131160,"metaUuid":"6fcd359f-9326-4502-ab3e-6a925629bb67"},
+{"nexusFileName":"Cahoot's Lab Config (4 Party)","nexusFileVersion":"2.1.2","nexusFileUploadedAt":1790112697,"pakFileName":"CahootLabConfig_4Party.pak","nexusFileId":131161,"metaUuid":"bed00e2c-7588-49fc-ac58-263619bcab5f"}
 ]},
 "19791":{"nexusModName":"Aufelle's Boudoir Pose Pack","nexusUploadedBy":"AufelleClauvellan","nexusModId":19791,"paks":[
 {"nexusFileName":"Aufelle's Boudoir Pose Pack","nexusFileVersion":"1.0.0.19","nexusFileUploadedAt":1764812751,"pakFileName":"AufBoudoirPosePack_6414c2f9-3ee7-9129-667a-dc195aa6ad53.pak","nexusFileId":108808,"metaUuid":"6414c2f9-3ee7-9129-667a-dc195aa6ad53"}
@@ -70351,4 +70351,7 @@
 ]},
 "25224":{"nexusModName":"Noxx's Arcane Forge","nexusUploadedBy":"Prednoxx","nexusModId":25224,"paks":[
 {"nexusFileName":"ArcaneForge1","nexusFileVersion":"1","nexusFileUploadedAt":1790108287,"pakFileName":"ArcaneForge_e627455e-3113-44e6-af0a-adc1f7fbfc98.pak","nexusFileId":131156,"metaUuid":null}
+]},
+"25226":{"nexusModName":"The Sunless Citadel - Custom Campaign - Deutsch","nexusUploadedBy":"Myndo","nexusModId":25226,"paks":[
+{"nexusFileName":"The Sunless Citadel - German Translation","nexusFileVersion":"1","nexusFileUploadedAt":1790112252,"pakFileName":"The Sunless Citadel - German Translation.pak","nexusFileId":131158,"metaUuid":null}
 ]}}
