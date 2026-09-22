@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-09-22T19:52:07.321907+00:00","total_mods":17761},
+{"_meta":{"last_run":"2026-09-22T20:52:18.420070+00:00","total_mods":17763},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -62869,6 +62869,9 @@
 "22355":{"nexusModName":"Mirror of Loss Fixes for Shadowheart","nexusUploadedBy":"koboldJuno","nexusModId":22355,"paks":[
 {"nexusFileName":"Shadowheart's Mirror Buff","nexusFileVersion":"1.0.0.1","nexusFileUploadedAt":1775709959,"pakFileName":"ShadMirrorBuff_dcf86ff3-0d21-d025-f451-e2fa7e86cefd.pak","nexusFileId":118509,"metaUuid":"dcf86ff3-0d21-d025-f451-e2fa7e86cefd"}
 ]},
+"22356":{"nexusModName":"Immersive Tooltip Icons","nexusUploadedBy":"lexo1000","nexusModId":22356,"paks":[
+{"nexusFileName":"Immersive Icons","nexusFileVersion":"1.0","nexusFileUploadedAt":1790107716,"pakFileName":"Immersive Icons.pak","nexusFileId":131155,"metaUuid":null}
+]},
 "22358":{"nexusModName":"INCENDIUM - Armor and Camp Clothing","nexusUploadedBy":"Naerys","nexusModId":22358,"paks":[
 {"nexusFileName":"NAERYS - Incendium","nexusFileVersion":"1.2","nexusFileUploadedAt":1775913470,"pakFileName":"NAERYS_Incendium_b00491f0-fa22-2674-289e-7f903ae1f846.pak","nexusFileId":118691,"metaUuid":"b00491f0-fa22-2674-289e-7f903ae1f846"},
 {"nexusFileName":"Incendium - less latex shiny","nexusFileVersion":"2","nexusFileUploadedAt":1786464234,"pakFileName":"NAERYS_Incendium_b00491f0-fa22-2674-289e-7f903ae1f846.pak","nexusFileId":127858,"metaUuid":"b00491f0-fa22-2674-289e-7f903ae1f846"}
@@ -65474,7 +65477,7 @@
 {"nexusFileName":"Mazzle Level Directory","nexusFileVersion":"1.2.0","nexusFileUploadedAt":1787452516,"pakFileName":"Mazzle_Level_Directory.pak","nexusFileId":128753,"metaUuid":"fbee705d-2adb-4e67-b7e7-09e34d71cf6a"}
 ]},
 "23323":{"nexusModName":"Wye Fey Potions","nexusUploadedBy":"Nzx","nexusModId":23323,"paks":[
-{"nexusFileName":"Wye Fey Potions","nexusFileVersion":"1.0.6","nexusFileUploadedAt":1785525141,"pakFileName":"Wye Fey Potions.pak","nexusFileId":126939,"metaUuid":"93aa6d3d-96d4-4323-9635-0165b3926aba"}
+{"nexusFileName":"Wye Fey Potions","nexusFileVersion":"1.0.7","nexusFileUploadedAt":1790109058,"pakFileName":"Wye Fey Potions.pak","nexusFileId":131157,"metaUuid":"93aa6d3d-96d4-4323-9635-0165b3926aba"}
 ]},
 "23324":{"nexusModName":"Artificer class and all subclasses_JP","nexusUploadedBy":"Akazonae36","nexusModId":23324,"paks":[
 {"nexusFileName":"Artificer JP","nexusFileVersion":"1","nexusFileUploadedAt":1781211558,"pakFileName":"Artificer_JP.pak","nexusFileId":123344,"metaUuid":null}
@@ -70345,4 +70348,7 @@
 ]},
 "25220":{"nexusModName":"Chaos and Control - Sorcerer Equipment - Russian Translation 1.0.0.16","nexusUploadedBy":"SNKmod777","nexusModId":25220,"paks":[
 {"nexusFileName":"CC Sorcerer Equipment RU","nexusFileVersion":"1.0.0.2","nexusFileUploadedAt":1790091256,"pakFileName":"CC_Sorcerer_Equipment_RU.pak","nexusFileId":131146,"metaUuid":null}
+]},
+"25224":{"nexusModName":"Noxx's Arcane Forge","nexusUploadedBy":"Prednoxx","nexusModId":25224,"paks":[
+{"nexusFileName":"ArcaneForge1","nexusFileVersion":"1","nexusFileUploadedAt":1790108287,"pakFileName":"ArcaneForge_e627455e-3113-44e6-af0a-adc1f7fbfc98.pak","nexusFileId":131156,"metaUuid":null}
 ]}}
