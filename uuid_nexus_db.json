@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-09-22T21:52:05.199429+00:00","total_mods":17764},
+{"_meta":{"last_run":"2026-09-22T22:51:52.204255+00:00","total_mods":17767},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -70343,6 +70343,9 @@
 "25215":{"nexusModName":"Bernard Evolved (Russian Translate)","nexusUploadedBy":"SexSux","nexusModId":25215,"paks":[
 {"nexusFileName":"BernardEvolved RUS","nexusFileVersion":"1.1.2.0","nexusFileUploadedAt":1790081892,"pakFileName":"BernardEvolved_cb93bf8a-cebc-cd54-7705-01d531e2341b_RUS.pak","nexusFileId":131137,"metaUuid":null}
 ]},
+"25216":{"nexusModName":"Adventurer's Ensemble","nexusUploadedBy":"gobanaoblin","nexusModId":25216,"paks":[
+{"nexusFileName":"Adventurer's Ensemble","nexusFileVersion":"1","nexusFileUploadedAt":1790114074,"pakFileName":"CC_AdventurersEnsemble_15aa1b94-7276-7b29-5f0c-051ce982df98.pak","nexusFileId":131162,"metaUuid":null}
+]},
 "25219":{"nexusModName":"5e Spells - Deutsch (2.4.3.0)","nexusUploadedBy":"Myndo","nexusModId":25219,"paks":[
 {"nexusFileName":"5eSpells - German Translation","nexusFileVersion":"2.4.3.0","nexusFileUploadedAt":1790084697,"pakFileName":"5eSpells - German Translation.pak","nexusFileId":131144,"metaUuid":null}
 ]},
@@ -70354,4 +70357,10 @@
 ]},
 "25226":{"nexusModName":"The Sunless Citadel - Custom Campaign - Deutsch","nexusUploadedBy":"Myndo","nexusModId":25226,"paks":[
 {"nexusFileName":"The Sunless Citadel - German Translation","nexusFileVersion":"1","nexusFileUploadedAt":1790112252,"pakFileName":"The Sunless Citadel - German Translation.pak","nexusFileId":131158,"metaUuid":null}
+]},
+"25227":{"nexusModName":"Oath and Order - Paladin Equipment - Russian Translation 1.0.0.13","nexusUploadedBy":"SNKmod777","nexusModId":25227,"paks":[
+{"nexusFileName":"OO Paladin Equipment RU","nexusFileVersion":"1.0.0.3","nexusFileUploadedAt":1790114849,"pakFileName":"OO_Paladin_Equipment_RU.pak","nexusFileId":131163,"metaUuid":null}
+]},
+"25228":{"nexusModName":"Combat Statistics","nexusUploadedBy":"kibihari","nexusModId":25228,"paks":[
+{"nexusFileName":"Combat Statistics","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1790117001,"pakFileName":"CombatStatistics.pak","nexusFileId":131164,"metaUuid":null}
 ]}}
