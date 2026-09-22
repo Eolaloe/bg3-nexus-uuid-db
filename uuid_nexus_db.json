@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-09-22T12:52:43.747537+00:00","total_mods":17760},
+{"_meta":{"last_run":"2026-09-22T13:52:38.392363+00:00","total_mods":17761},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -12488,7 +12488,7 @@
 "3939":{"nexusModName":"Echo Knight Fighter Subclass","nexusUploadedBy":"wesslen","nexusModId":3939,"paks":[
 {"nexusFileName":"RAW Level Progression","nexusFileVersion":"1.0.1","nexusFileUploadedAt":1699465105,"pakFileName":"DEchoKnightRAW.pak","nexusFileId":27420,"metaUuid":"ecc0c754-0135-4236-96f2-87d53981d1de"},
 {"nexusFileName":"No Chromatic Aberration","nexusFileVersion":"1.2.13.1","nexusFileUploadedAt":1705778955,"pakFileName":"DEchoKnightNoChroma.pak","nexusFileId":40953,"metaUuid":"1c87a78c-07fc-4db6-a195-2ecd92bbc3b1"},
-{"nexusFileName":"Echo Knight","nexusFileVersion":"1.5.8","nexusFileUploadedAt":1784394928,"pakFileName":"DEchoKnight.pak","nexusFileId":125945,"metaUuid":"ecc0c754-0911-462e-8983-dcffe56c4d8d"}
+{"nexusFileName":"Echo Knight","nexusFileVersion":"1.6","nexusFileUploadedAt":1790082392,"pakFileName":"DEchoKnight.pak","nexusFileId":131141,"metaUuid":"ecc0c754-0911-462e-8983-dcffe56c4d8d"}
 ]},
 "3940":{"nexusModName":"Object Character Support","nexusUploadedBy":"wesslen","nexusModId":3940,"paks":[
 {"nexusFileName":"Object Character Support","nexusFileVersion":"1.2.3","nexusFileUploadedAt":1789203842,"pakFileName":"ObjectCharacterSupport.pak","nexusFileId":130339,"metaUuid":"0c50deb2-303c-4e00-9bc7-a60a347d6593"}
@@ -16756,7 +16756,7 @@
 {"nexusFileName":"DavesLegendaryWeapons CHS","nexusFileVersion":"1.3.2","nexusFileUploadedAt":1703347181,"pakFileName":"Dave's Legendary Weapons.pak","nexusFileId":35873,"metaUuid":null}
 ]},
 "5311":{"nexusModName":"UA6 Invoke Duplicity","nexusUploadedBy":"wesslen","nexusModId":5311,"paks":[
-{"nexusFileName":"UA Invoke Duplicity","nexusFileVersion":"1.4.4","nexusFileUploadedAt":1776964944,"pakFileName":"UAInvokeDuplicity.pak","nexusFileId":119730,"metaUuid":"a970f777-0368-4803-a0d3-085b96e2d4fe"}
+{"nexusFileName":"UA Invoke Duplicity","nexusFileVersion":"1.5","nexusFileUploadedAt":1790082733,"pakFileName":"UAInvokeDuplicity.pak","nexusFileId":131142,"metaUuid":"a970f777-0368-4803-a0d3-085b96e2d4fe"}
 ]},
 "5312":{"nexusModName":"Vanilla Equipment Overhaul","nexusUploadedBy":"StuddMuffinn101","nexusModId":5312,"paks":[
 {"nexusFileName":"Vanilla Weapon Overhaul JWL Soul Smithing Compat","nexusFileVersion":"1.02","nexusFileUploadedAt":1720997387,"pakFileName":"Vanilla Weapon Overhaul-JWL Crafting Compatability.pak","nexusFileId":64042,"metaUuid":null},
@@ -70284,7 +70284,7 @@
 {"nexusFileName":"Gunhalberd PTBR","nexusFileVersion":"11.01.2026","nexusFileUploadedAt":1790005360,"pakFileName":"Gunhalberd PTBR.pak","nexusFileId":131052,"metaUuid":null}
 ]},
 "25190":{"nexusModName":"Ring of the All-Father","nexusUploadedBy":"Athanatos173","nexusModId":25190,"paks":[
-{"nexusFileName":"Ring Of The All Father","nexusFileVersion":"1","nexusFileUploadedAt":1790009008,"pakFileName":"Ring_of_the_All_Father.pak","nexusFileId":131059,"metaUuid":"4b14f5f4-8c25-4dc8-80e0-65b6cfbb512f"}
+{"nexusFileName":"Ring Of The All Father","nexusFileVersion":"1.2","nexusFileUploadedAt":1790084053,"pakFileName":"Ring_of_the_All_FatherV1.2.pak","nexusFileId":131143,"metaUuid":null}
 ]},
 "25191":{"nexusModName":"Origin Oddities - Bags and Bundles CHS","nexusUploadedBy":"shrimp1958","nexusModId":25191,"paks":[
 {"nexusFileName":"OO BagsAndBundles CHS","nexusFileVersion":"1","nexusFileUploadedAt":1790010818,"pakFileName":"OO_BagsAndBundles_CHS.pak","nexusFileId":131061,"metaUuid":null}
@@ -70329,17 +70329,20 @@
 {"nexusFileName":"Alleryel's Library","nexusFileVersion":"1","nexusFileUploadedAt":1790037384,"pakFileName":"Alleryel_Library_fa47fae6-1514-b3bd-a7f2-6c46e206bb00.pak","nexusFileId":131104,"metaUuid":null}
 ]},
 "25211":{"nexusModName":"The Prophet of Nature - Halsin Edit (Russian Translate)","nexusUploadedBy":"SexSux","nexusModId":25211,"paks":[
-{"nexusFileName":"SGT_Prophet Of Nature - Halsin Edit (RUS)","nexusFileVersion":"1","nexusFileUploadedAt":1790051336,"pakFileName":"SGT_HalsinEdit_d4e23104-9f7f-d1c6-bf8b-7e61a2026b44_RUS.pak","nexusFileId":131116,"metaUuid":null}
+{"nexusFileName":"SGT_Prophet Of Nature - Halsin Edit (RUS)","nexusFileVersion":"1","nexusFileUploadedAt":1790082011,"pakFileName":"SGT_HalsinEdit_d4e23104-9f7f-d1c6-bf8b-7e61a2026b44_RUS.pak","nexusFileId":131140,"metaUuid":null}
 ]},
 "25212":{"nexusModName":"Taste of Poison - Minthara Edit (Russian Translate)","nexusUploadedBy":"SexSux","nexusModId":25212,"paks":[
-{"nexusFileName":"SGT_Taste Of Poison - Minthara Edit (RUS)","nexusFileVersion":"1","nexusFileUploadedAt":1790052571,"pakFileName":"SGT_TasteOfPoison_109503d1-750a-378f-febb-3145eac4f9df_RUS.pak","nexusFileId":131118,"metaUuid":null}
+{"nexusFileName":"SGT_Taste Of Poison - Minthara Edit (RUS)","nexusFileVersion":"1","nexusFileUploadedAt":1790081979,"pakFileName":"SGT_TasteOfPoison_109503d1-750a-378f-febb-3145eac4f9df_RUS.pak","nexusFileId":131139,"metaUuid":null}
 ]},
 "25213":{"nexusModName":"Casanova - Fighter Subclass","nexusUploadedBy":"mashnear","nexusModId":25213,"paks":[
 {"nexusFileName":"Casanova V4O FINAL","nexusFileVersion":"1","nexusFileUploadedAt":1790057031,"pakFileName":"Casanova_V4O_FINAL_THINNER_BORDER_BIGGER_SUBCLASS_ICON.pak","nexusFileId":131120,"metaUuid":null}
 ]},
 "25214":{"nexusModName":"Flind Evolved (Russian Translate)","nexusUploadedBy":"SexSux","nexusModId":25214,"paks":[
-{"nexusFileName":"Flind Evolved RUS","nexusFileVersion":"2.1.0.0","nexusFileUploadedAt":1790062743,"pakFileName":"FlindEvolved_4de3b7a4-cdb7-68c7-a223-74261907682c_RUS.pak","nexusFileId":131121,"metaUuid":null}
+{"nexusFileName":"Flind Evolved RUS","nexusFileVersion":"2.1.0.0","nexusFileUploadedAt":1790081937,"pakFileName":"FlindEvolved_4de3b7a4-cdb7-68c7-a223-74261907682c_RUS.pak","nexusFileId":131138,"metaUuid":null}
 ]},
 "25215":{"nexusModName":"Bernard Evolved (Russian Translate)","nexusUploadedBy":"SexSux","nexusModId":25215,"paks":[
-{"nexusFileName":"BernardEvolved RUS","nexusFileVersion":"1.1.2.0","nexusFileUploadedAt":1790066317,"pakFileName":"BernardEvolved_cb93bf8a-cebc-cd54-7705-01d531e2341b_RUS.pak","nexusFileId":131122,"metaUuid":null}
+{"nexusFileName":"BernardEvolved RUS","nexusFileVersion":"1.1.2.0","nexusFileUploadedAt":1790081892,"pakFileName":"BernardEvolved_cb93bf8a-cebc-cd54-7705-01d531e2341b_RUS.pak","nexusFileId":131137,"metaUuid":null}
+]},
+"25219":{"nexusModName":"5e Spells - Deutsch (2.4.3.0)","nexusUploadedBy":"Myndo","nexusModId":25219,"paks":[
+{"nexusFileName":"5eSpells - German Translation","nexusFileVersion":"2.4.3.0","nexusFileUploadedAt":1790084697,"pakFileName":"5eSpells - German Translation.pak","nexusFileId":131144,"metaUuid":null}
 ]}}
