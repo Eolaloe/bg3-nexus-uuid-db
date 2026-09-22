@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-09-22T01:58:42.508763+00:00","total_mods":17752},
+{"_meta":{"last_run":"2026-09-22T02:52:09.677456+00:00","total_mods":17752},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -18017,6 +18017,7 @@
 {"nexusFileName":"Rebalance - Nerfs (Resonance Stone)","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1748635243,"pakFileName":"Rebalance_Nerfs_ResonanceStone.pak","nexusFileId":94576,"metaUuid":"fd7409dc-7657-4153-8a92-e426a9c1db8c"},
 {"nexusFileName":"Rebalance - Nerfs (Spells)","nexusFileVersion":"1.0.2","nexusFileUploadedAt":1750615924,"pakFileName":"Rebalance_Nerfs_Spells.pak","nexusFileId":96447,"metaUuid":null},
 {"nexusFileName":"Rebalance - Nerfs (Feats)","nexusFileVersion":"1.0.1","nexusFileUploadedAt":1779055447,"pakFileName":"Rebalance_Nerfs_Feats.pak","nexusFileId":121501,"metaUuid":null},
+{"nexusFileName":"Rebalance - Nerfs","nexusFileVersion":"1.0.8","nexusFileUploadedAt":1779061844,"pakFileName":"Rebalance_Nerfs.pak","nexusFileId":121513,"metaUuid":null},
 {"nexusFileName":"Rebalance - Nerfs (Common Effects)","nexusFileVersion":"1.0.4","nexusFileUploadedAt":1779061855,"pakFileName":"Rebalance_Nerfs_CommonEffects.pak","nexusFileId":121514,"metaUuid":"48b7cea7-8537-49bb-af98-6368279aa841"}
 ]},
 "5713":{"nexusModName":"Combat HP Bonus","nexusUploadedBy":"BitterPast","nexusModId":5713,"paks":[
@@ -42683,6 +42684,8 @@
 {"nexusFileName":"Goon d100 Wild Magic","nexusFileVersion":"4.1","nexusFileUploadedAt":1741320221,"pakFileName":"Wild Magic D100 Patches.pak","nexusFileId":86823,"metaUuid":null},
 {"nexusFileName":"Lore Friendly Listo Load Screen Tips","nexusFileVersion":"6.1","nexusFileUploadedAt":1750295726,"pakFileName":"AjaxLoreHints.pak","nexusFileId":96193,"metaUuid":null},
 {"nexusFileName":"ListoSkillIssUI","nexusFileVersion":"1.0","nexusFileUploadedAt":1763251192,"pakFileName":"ListoSkillIssue.pak","nexusFileId":107538,"metaUuid":null},
+{"nexusFileName":"secret mod","nexusFileVersion":"112","nexusFileUploadedAt":1778555462,"pakFileName":"Paragon.pak","nexusFileId":121019,"metaUuid":null},
+{"nexusFileName":"secret mod","nexusFileVersion":"112","nexusFileUploadedAt":1778555462,"pakFileName":"ValorAndVirtue.pak","nexusFileId":121019,"metaUuid":null},
 {"nexusFileName":"Listo Tweaks and Patches","nexusFileVersion":"10.4","nexusFileUploadedAt":1790039764,"pakFileName":"ListoPatches.pak","nexusFileId":131106,"metaUuid":null}
 ]},
 "15238":{"nexusModName":"Nazatur's Tadpoles Rebalance","nexusUploadedBy":"Nazatur","nexusModId":15238,"paks":[
@@ -44198,6 +44201,7 @@
 {"nexusFileName":"Combat and Spells - Spells Lvl 6","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1745012803,"pakFileName":"Combat and Spells - Lvl 6.pak","nexusFileId":89599,"metaUuid":null}
 ]},
 "15876":{"nexusModName":"Bladesinger DnD 5R PHB2024 Changes","nexusUploadedBy":"chizfreak","nexusModId":15876,"paks":[
+{"nexusFileName":"BDnD5R - Song of Victory at Level 14","nexusFileVersion":"1.2.2","nexusFileUploadedAt":1747871136,"pakFileName":"Bladesinger DnD 5R Song Of Victory at 14.pak","nexusFileId":93700,"metaUuid":null},
 {"nexusFileName":"BDnD 5R - RAW Patch","nexusFileVersion":"2.4.5","nexusFileUploadedAt":1777207771,"pakFileName":"Bladesinger DnD 5R RAW Patch.pak","nexusFileId":119921,"metaUuid":"b8299881-946b-472b-88a1-14b19b8d235a"},
 {"nexusFileName":"Bladesinger DnD 5R Changes","nexusFileVersion":"2.5.0","nexusFileUploadedAt":1790016139,"pakFileName":"BladesingerDnD5R_3d8f18cf-0fd6-e2d8-54af-a7af42256dc4.pak","nexusFileId":131078,"metaUuid":"3d8f18cf-0fd6-e2d8-54af-a7af42256dc4"}
 ]},
@@ -44684,6 +44688,7 @@
 {"nexusFileName":"Sit This One Out 2 CHS","nexusFileVersion":"2.3.0.5","nexusFileUploadedAt":1746753624,"pakFileName":"Sit This One Out 2 CHS.pak","nexusFileId":92220,"metaUuid":null}
 ]},
 "16065":{"nexusModName":"Paladin and Oaths DnD 5R PHB2024","nexusUploadedBy":"chizfreak","nexusModId":16065,"paks":[
+{"nexusFileName":"Paladin and Oaths DnD 5R PHB2024 - Level 20 Patch","nexusFileVersion":"2.6.3","nexusFileUploadedAt":1755563245,"pakFileName":"PaladinPHB2024 Level 20 Patch.pak","nexusFileId":100970,"metaUuid":null},
 {"nexusFileName":"PPHB2024 - 5e Spells Patch","nexusFileVersion":"4.0.0","nexusFileUploadedAt":1762069510,"pakFileName":"PaladinPHB2024 5e Spells Patch.pak","nexusFileId":106577,"metaUuid":"36f5a133-f226-4d59-be6b-bb7245f63e52"},
 {"nexusFileName":"zDivine Smite - No Bonus Action Cost","nexusFileVersion":"6.1.0","nexusFileUploadedAt":1777157461,"pakFileName":"PaladinPHB2024 Smite No BA Cost.pak","nexusFileId":119867,"metaUuid":"45af5b6f-c492-4ce4-93d1-dbd54cfa65d0"},
 {"nexusFileName":"PPHB2024 - Summon Undead Patch","nexusFileVersion":"6.2.3","nexusFileUploadedAt":1784222015,"pakFileName":"PaladinPHB2024 Summon Undead Patch.pak","nexusFileId":125780,"metaUuid":"75a8fbbc-46fd-4cec-ae5e-cbedd5a79b1e"},
@@ -49092,7 +49097,7 @@
 {"nexusFileName":"Main file","nexusFileVersion":"1.0","nexusFileUploadedAt":1752869168,"pakFileName":"mystr_0bdef285-1340-af87-5078-ec1a6d373c78.pak","nexusFileId":98442,"metaUuid":"0bdef285-1340-af87-5078-ec1a6d373c78"}
 ]},
 "17664":{"nexusModName":"B52's Finesse Weaponry","nexusUploadedBy":"B52NAKAMURA","nexusModId":17664,"paks":[
-{"nexusFileName":"B52's Finesse Weaponry","nexusFileVersion":"3.1.1.0","nexusFileUploadedAt":1788644046,"pakFileName":"FinesseBlugeonWeapons_75888327-a943-6566-6499-de2145c7ad32.pak","nexusFileId":129820,"metaUuid":"75888327-a943-6566-6499-de2145c7ad32"}
+{"nexusFileName":"B52's Finesse Weaponry","nexusFileVersion":"3.1.1.1","nexusFileUploadedAt":1790043014,"pakFileName":"FinesseBlugeonWeapons_75888327-a943-6566-6499-de2145c7ad32.pak","nexusFileId":131111,"metaUuid":"75888327-a943-6566-6499-de2145c7ad32"}
 ]},
 "17665":{"nexusModName":"Barcus Wroot Edit - The Unfortunate Gnome's New Threads","nexusUploadedBy":"PoisonValentineXIII","nexusModId":17665,"paks":[
 {"nexusFileName":"Barcus Wroot - TUG New Threads - Black","nexusFileVersion":"1.0.0.2","nexusFileUploadedAt":1752956784,"pakFileName":"BarcusWrootNewThreads_8ebb3957-569e-2991-c97e-586b47465ce4.pak","nexusFileId":98534,"metaUuid":"8ebb3957-569e-2991-c97e-586b47465ce4"},
@@ -50044,7 +50049,7 @@
 {"nexusFileName":"Better Haflings","nexusFileVersion":"1.2","nexusFileUploadedAt":1755939915,"pakFileName":"BetterHalflings1.1.pak","nexusFileId":101271,"metaUuid":"3ffc6749-1dd9-491a-b9b8-e6e4e3bfe120"}
 ]},
 "18003":{"nexusModName":"Ruojo Spell Adjustment","nexusUploadedBy":"Ruojo","nexusModId":18003,"paks":[
-{"nexusFileName":"RuojoSpellAdjustment_c7c87963-d945-3e98-f641-88860","nexusFileVersion":"1.0.1.2","nexusFileUploadedAt":1788709005,"pakFileName":"RuojoSpellAdjustment_c7c87963-d945-3e98-f641-88860a782dcd.pak","nexusFileId":129881,"metaUuid":"c7c87963-d945-3e98-f641-88860a782dcd"}
+{"nexusFileName":"RuojoSpellAdjustment_c7c87963-d945-3e98-f641-88860","nexusFileVersion":"1.0.1.3","nexusFileUploadedAt":1790043942,"pakFileName":"RuojoSpellAdjustment_c7c87963-d945-3e98-f641-88860a782dcd.pak","nexusFileId":131112,"metaUuid":"c7c87963-d945-3e98-f641-88860a782dcd"}
 ]},
 "18004":{"nexusModName":"FaerunColors - German Translation","nexusUploadedBy":"verdanndi","nexusModId":18004,"paks":[
 {"nexusFileName":"FaerunColors - German Translation","nexusFileVersion":"1.0.3.0","nexusFileUploadedAt":1789141370,"pakFileName":"Faerûn Colors German.pak","nexusFileId":130289,"metaUuid":null}
@@ -54053,6 +54058,7 @@
 {"nexusFileName":"Eyevans Ghoulish Goods - PAK","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1761948880,"pakFileName":"MGNTN_HalloweenMerchant.pak","nexusFileId":106464,"metaUuid":"8a10d361-b4cd-48c8-96aa-38f750965429"}
 ]},
 "19469":{"nexusModName":"Paimon Narrator","nexusUploadedBy":"ToxicDrake","nexusModId":19469,"paks":[
+{"nexusFileName":"Paimon_Narrator (speed x1.00)","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1762034960,"pakFileName":"Paimon_Narrator.pak","nexusFileId":106551,"metaUuid":null},
 {"nexusFileName":"Paimon_Narrator (speed x0.95)","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1762107484,"pakFileName":"Paimon_Narrator.pak","nexusFileId":106603,"metaUuid":null},
 {"nexusFileName":"EMO Paimon YouNarrator","nexusFileVersion":"3","nexusFileUploadedAt":1789985236,"pakFileName":"EMO_Paimon_YouNarrator.pak","nexusFileId":131030,"metaUuid":null}
 ]},
@@ -56621,9 +56627,11 @@
 {"nexusFileName":"LN Copper Dyes 2 - Vivids","nexusFileVersion":"1.0.0.1","nexusFileUploadedAt":1765904566,"pakFileName":"LN Copper Dyes 2 - Vivids.pak","nexusFileId":109727,"metaUuid":"af8bd610-734a-6db4-4b72-041d9c4ec6ee"}
 ]},
 "20158":{"nexusModName":"Stray Kids Comeback - Head Presets","nexusUploadedBy":"VespertilioArt","nexusModId":20158,"paks":[
+{"nexusFileName":"Stray Kids - Regular Version","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1767708099,"pakFileName":"StrayKids_Comeback.pak","nexusFileId":111295,"metaUuid":null},
 {"nexusFileName":"Stray Kids - UTAV Version","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1767709055,"pakFileName":"StrayKids_Comeback - UTAV.pak","nexusFileId":111297,"metaUuid":"747439b8-9b1b-4022-8af2-e5e424d64e32"},
 {"nexusFileName":"Stray Kids - EOTB Version","nexusFileVersion":"1.0.1.0","nexusFileUploadedAt":1768076586,"pakFileName":"StrayKids_Comeback - EOTB.pak","nexusFileId":111801,"metaUuid":null},
 {"nexusFileName":"Stray Kids - UTAV EOTB Version","nexusFileVersion":"1.0.1.0","nexusFileUploadedAt":1768076675,"pakFileName":"StrayKids_Comeback - UTAV - EOTB.pak","nexusFileId":111802,"metaUuid":"747439b8-9b1b-4022-8af2-e5e424d64e32"},
+{"nexusFileName":"Stray Kids - CCO EOTB Version","nexusFileVersion":"1.1.0.0","nexusFileUploadedAt":1773479862,"pakFileName":"StrayKids_Comeback - CCO - EOTB.pak","nexusFileId":116714,"metaUuid":null},
 {"nexusFileName":"Stray Kids - CCO Version","nexusFileVersion":"1.1.0.0","nexusFileUploadedAt":1773479913,"pakFileName":"StrayKids_Comeback - CCO.pak","nexusFileId":116715,"metaUuid":"747439b8-9b1b-4022-8af2-e5e424d64e32"}
 ]},
 "20159":{"nexusModName":"Faerun Fashionistas Mega Pose Patch","nexusUploadedBy":"axianaa","nexusModId":20159,"paks":[
@@ -61335,7 +61343,7 @@
 {"nexusFileName":"B. The Gunslinger Addon Revolver OffHand","nexusFileVersion":"2.0.0.6","nexusFileUploadedAt":1784352419,"pakFileName":"TheGunslingerOffHandAddon_db9c5c90-6f70-f07a-153e-d873fc5f803d.pak","nexusFileId":125916,"metaUuid":null},
 {"nexusFileName":"F. Spellslinger Wizard Subclass Add-On","nexusFileVersion":"1.0.0.1","nexusFileUploadedAt":1785666656,"pakFileName":"TheGunslinger_WizardAddOn_3eaab4ba-f1fc-9a6b-533a-5ae325b4a838.pak","nexusFileId":127106,"metaUuid":null},
 {"nexusFileName":"A. The Gunslinger Extra Feats Every 2 Levels","nexusFileVersion":"3.0.0.1","nexusFileUploadedAt":1789242421,"pakFileName":"TheGunslinge_ExtraFeats2Levels_1043510a-69e0-f71d-6eb0-a89c2be1d13a.pak","nexusFileId":130391,"metaUuid":"1043510a-69e0-f71d-6eb0-a89c2be1d13a"},
-{"nexusFileName":"The Gunslinger Class (ENG-KOR)","nexusFileVersion":"3.2.0.2","nexusFileUploadedAt":1789826302,"pakFileName":"TheGunslinger_1f2b82d7-19c8-734b-5f43-05d57d3e7601.pak","nexusFileId":130890,"metaUuid":"1f2b82d7-19c8-734b-5f43-05d57d3e7601"}
+{"nexusFileName":"The Gunslinger Class (ENG-KOR)","nexusFileVersion":"3.2.0.4","nexusFileUploadedAt":1790044708,"pakFileName":"TheGunslinger_1f2b82d7-19c8-734b-5f43-05d57d3e7601.pak","nexusFileId":131113,"metaUuid":"1f2b82d7-19c8-734b-5f43-05d57d3e7601"}
 ]},
 "21796":{"nexusModName":"Em's Misc Head Collection","nexusUploadedBy":"emsthings","nexusModId":21796,"paks":[
 {"nexusFileName":"Em's Head Collection","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1772951131,"pakFileName":"Ems_Heads_41f62b28-72fa-cd43-2b54-e521a962a342.pak","nexusFileId":116314,"metaUuid":"41f62b28-72fa-cd43-2b54-e521a962a342"}
@@ -69530,7 +69538,7 @@
 {"nexusFileName":"Spiritbinder (Alternative)","nexusFileVersion":"1.2.1","nexusFileUploadedAt":1789133490,"pakFileName":"Spiritbinder.pak","nexusFileId":130278,"metaUuid":null}
 ]},
 "24883":{"nexusModName":"Home Brew - Comprehensive Reworks (CHT) - Sugizoious Edition","nexusUploadedBy":"sugizoious","nexusModId":24883,"paks":[
-{"nexusFileName":"HomeBrewComprehensiveReworksCHT sugizoious","nexusFileVersion":"9.2.3","nexusFileUploadedAt":1789917356,"pakFileName":"HomeBrewComprehensiveReworksCHS-Hierot.pak","nexusFileId":130982,"metaUuid":null}
+{"nexusFileName":"HomeBrewComprehensiveReworksCHT Sugizoious","nexusFileVersion":"9.2.3.1","nexusFileUploadedAt":1790042323,"pakFileName":"HomeBrewComprehensiveReworksCHT-sugizoious.pak","nexusFileId":131110,"metaUuid":null}
 ]},
 "24884":{"nexusModName":"Godslayer - Standalone Class for Baldurs Gate 3","nexusUploadedBy":"ISKLL","nexusModId":24884,"paks":[
 {"nexusFileName":"GodSlayer By ISKLL","nexusFileVersion":"1.0.0.32","nexusFileUploadedAt":1788866119,"pakFileName":"ISKL_Godslayer.pak","nexusFileId":130024,"metaUuid":null}
