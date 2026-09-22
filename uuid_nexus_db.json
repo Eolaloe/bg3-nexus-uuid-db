@@ -2469,7 +2469,7 @@
 {"nexusFileName":"Orin's Outfit and Recruitment","nexusFileVersion":"2.0","nexusFileUploadedAt":1692392366,"pakFileName":"OrinOutfit.pak","nexusFileId":8376,"metaUuid":null}
 ]},
 "974":{"nexusModName":"Trickery Domain Overhaul","nexusUploadedBy":"AdamMasher","nexusModId":974,"paks":[
-{"nexusFileName":"TrickerySubclassChanges","nexusFileVersion":"1.5.1","nexusFileUploadedAt":1707048413,"pakFileName":"Trickery.pak","nexusFileId":43127,"metaUuid":null},
+{"nexusFileName":"TrickerySubclassChanges","nexusFileVersion":"1.5.1","nexusFileUploadedAt":1707048413,"pakFileName":"Trickery.pak","nexusFileId":43127,"metaUuid":"1ac46ab0-82b7-40db-bf60-fc2ed534f5b8"},
 {"nexusFileName":"TrickerySubclassChanges-VanillaDS","nexusFileVersion":"1.5.1","nexusFileUploadedAt":1719432613,"pakFileName":"TrickeryVanillaDS.pak","nexusFileId":62305,"metaUuid":null}
 ]},
 "975":{"nexusModName":"Pale_justice","nexusUploadedBy":"Funshiki416","nexusModId":975,"paks":[
@@ -2713,7 +2713,7 @@
 {"nexusFileName":"O3 Vanilla Damage","nexusFileVersion":"Any","nexusFileUploadedAt":1693965895,"pakFileName":"BetterDualWieldingVaniDmg.pak","nexusFileId":13613,"metaUuid":"f5e1948b-4206-494f-b630-934cfc8b89c7"},
 {"nexusFileName":"O1 Spellblade","nexusFileVersion":"3.x","nexusFileUploadedAt":1694889128,"pakFileName":"BetterDualWieldingSpellBlade.pak","nexusFileId":16352,"metaUuid":"3d48010b-98c8-4975-ab04-2868cab0a7a3"},
 {"nexusFileName":"BetterDualWielding Artificer Compatibility","nexusFileVersion":"3.x","nexusFileUploadedAt":1706558938,"pakFileName":"BetterDualWieldingArtificer.pak","nexusFileId":42358,"metaUuid":"1e065197-9191-49ab-8581-3aeb55f4793e"},
-{"nexusFileName":"O7 Vanilla Ranged Mechanic","nexusFileVersion":"3.2","nexusFileUploadedAt":1714999152,"pakFileName":"BetterDualWieldingVanillaRanged.pak","nexusFileId":56128,"metaUuid":null},
+{"nexusFileName":"O7 Vanilla Ranged Mechanic","nexusFileVersion":"3.2","nexusFileUploadedAt":1714999152,"pakFileName":"BetterDualWieldingVanillaRanged.pak","nexusFileId":56128,"metaUuid":"c4b61fcc-5450-49da-a2c1-6b24acdd4dd1"},
 {"nexusFileName":"BetterDualWielding","nexusFileVersion":"3.2.1","nexusFileUploadedAt":1715084458,"pakFileName":"BetterDualWielding.pak","nexusFileId":56228,"metaUuid":"c4b61fcc-5450-49da-a2c1-6b24acdd4dd9"}
 ]},
 "1031":{"nexusModName":"Sleep and Color Spary Tweak For TacticianPlus","nexusUploadedBy":"LelouchLan","nexusModId":1031,"paks":[
@@ -32716,8 +32716,8 @@
 {"nexusFileName":"The Leg Thing - PAK","nexusFileVersion":"1.0.1.1","nexusFileUploadedAt":1745379778,"pakFileName":"MGNTN_TheLegThing.pak","nexusFileId":90315,"metaUuid":"5b653bb7-9b30-405f-a828-41ec71c8d87e"}
 ]},
 "11461":{"nexusModName":"Veenab Library","nexusUploadedBy":"Veenab","nexusModId":11461,"paks":[
-{"nexusFileName":"VBT Resource(3.5.3.1)","nexusFileVersion":"3.5.3.1","nexusFileUploadedAt":1777462124,"pakFileName":"VBT_Resource.pak","nexusFileId":120172,"metaUuid":"c11543b5-10b6-3be8-7322-d8fc739b32d4"},
-{"nexusFileName":"VBT Resource(3.5.3.1)","nexusFileVersion":"3.5.3.1","nexusFileUploadedAt":1777462124,"pakFileName":"VBT_Toolkit_c11543b5-10b6-3be8-7322-d8fc739b32d4.pak","nexusFileId":120172,"metaUuid":"c11543b5-10b6-3be8-7322-d8fc739b32d4"}
+{"nexusFileName":"VBT Resource(3.5.3.1)","nexusFileVersion":"3.5.3.1","nexusFileUploadedAt":1777462124,"pakFileName":"VBT_Resource.pak","nexusFileId":120172,"metaUuid":"02b17e3e-869e-4df4-8416-0e7296017764"},
+{"nexusFileName":"VBT Resource(3.5.3.1)","nexusFileVersion":"3.5.3.1","nexusFileUploadedAt":1777462124,"pakFileName":"VBT_Toolkit_c11543b5-10b6-3be8-7322-d8fc739b32d4.pak","nexusFileId":120172,"metaUuid":"02b17e3e-869e-4df4-8416-0e7296017764"}
 ]},
 "11462":{"nexusModName":"5e Samurai - Russian Translation","nexusUploadedBy":"Hecctus","nexusModId":11462,"paks":[
 {"nexusFileName":"5e Samurai RU","nexusFileVersion":"1.1.2.0","nexusFileUploadedAt":1726841449,"pakFileName":"Samurai5e_RU.pak","nexusFileId":71914,"metaUuid":null}
@@ -34686,7 +34686,7 @@
 {"nexusFileName":"CombatExtender _UA","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1726505479,"pakFileName":"CombatExtender _UA.pak","nexusFileId":71463,"metaUuid":null}
 ]},
 "12237":{"nexusModName":"Darker Underdark","nexusUploadedBy":"StANTo","nexusModId":12237,"paks":[
-{"nexusFileName":"Darker Underdark 240928 Update","nexusFileVersion":"1.0.0.18","nexusFileUploadedAt":1727487429,"pakFileName":"DarkerUnderdark.pak","nexusFileId":73015,"metaUuid":"f5e9f9c3-b2a6-0577-8bd2-c6b90a5630a1"},
+{"nexusFileName":"Darker Underdark 240928 Update","nexusFileVersion":"1.0.0.18","nexusFileUploadedAt":1727487429,"pakFileName":"DarkerUnderdark.pak","nexusFileId":73015,"metaUuid":"8fedcccc-c098-88d7-c0e8-4c72c1701185"},
 {"nexusFileName":"Darker Grymforge Initial Release","nexusFileVersion":"1.0.0.1","nexusFileUploadedAt":1732157206,"pakFileName":"DarkerGrymforge_1001.pak","nexusFileId":79526,"metaUuid":"f5e9f9c3-b2a6-0577-8bd2-c6b90a5630a1"}
 ]},
 "12239":{"nexusModName":"Liliana","nexusUploadedBy":"MissNamaera","nexusModId":12239,"paks":[
@@ -70146,7 +70146,7 @@
 {"nexusFileName":"CutsceneLightsOff","nexusFileVersion":"1","nexusFileUploadedAt":1789833406,"pakFileName":"CutsceneLightsOff.pak","nexusFileId":130900,"metaUuid":"1fb632b1-9b11-4a80-8316-ad9b88b9b594"}
 ]},
 "25127":{"nexusModName":"Dynamic Spell Editor","nexusUploadedBy":"anatolek","nexusModId":25127,"paks":[
-{"nexusFileName":"UniversalSpellWeaponTweaks V1.4","nexusFileVersion":"1.4","nexusFileUploadedAt":1790025072,"pakFileName":"UniversalSpellWeaponTweaks_v1.4.pak","nexusFileId":131093,"metaUuid":null}
+{"nexusFileName":"UniversalSpellWeaponTweaks V1.4","nexusFileVersion":"1.4","nexusFileUploadedAt":1790025072,"pakFileName":"UniversalSpellWeaponTweaks_v1.4.pak","nexusFileId":131093,"metaUuid":"8e9ae2bd-08e5-4cb1-b38a-6b76581ea5b5"}
 ]},
 "25129":{"nexusModName":"Mantle of Majesty - Short Rest Cooldown","nexusUploadedBy":"SNKmod777","nexusModId":25129,"paks":[
 {"nexusFileName":"Mantle Of Majesty Short Rest","nexusFileVersion":"1.0.0.2","nexusFileUploadedAt":1789841595,"pakFileName":"MantleOfMajesty_ShortRest.pak","nexusFileId":130911,"metaUuid":null}
