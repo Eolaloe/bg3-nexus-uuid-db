@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-09-23T12:52:44.274140+00:00","total_mods":17772},
+{"_meta":{"last_run":"2026-09-23T13:52:57.268197+00:00","total_mods":17774},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -49385,7 +49385,8 @@
 {"nexusFileName":"The Magus - Mystra's Spells Add-On","nexusFileVersion":"1.0.0.3","nexusFileUploadedAt":1754234698,"pakFileName":"SterlingVerminMagusMystrasSpells_75075685-0fc2-2742-8ba1-96b4623235da.pak","nexusFileId":99811,"metaUuid":"75075685-0fc2-2742-8ba1-96b4623235da"},
 {"nexusFileName":"The Magus - Intelligent Magi","nexusFileVersion":"1.0.0.1","nexusFileUploadedAt":1756083652,"pakFileName":"SterlingVerminMagusIntelligentMagi_b9c465e6-22dd-d138-e7af-827c8228008b.pak","nexusFileId":101403,"metaUuid":null},
 {"nexusFileName":"The Magus","nexusFileVersion":"1.0.0.15","nexusFileUploadedAt":1779593614,"pakFileName":"SterlingVerminMagus_4e1c7f00-234b-8779-36f5-394c1dde4591.pak","nexusFileId":122022,"metaUuid":"4e1c7f00-234b-8779-36f5-394c1dde4591"},
-{"nexusFileName":"The Magus - Extra Attack Cantrips","nexusFileVersion":"1.0.0.1","nexusFileUploadedAt":1779676697,"pakFileName":"SterlingVerminMagusExtraAttackCantrips_51812939-f0fa-2968-9b33-1d4af68b9576.pak","nexusFileId":122089,"metaUuid":null}
+{"nexusFileName":"The Magus - Extra Attack Cantrips","nexusFileVersion":"1.0.0.1","nexusFileUploadedAt":1779676697,"pakFileName":"SterlingVerminMagusExtraAttackCantrips_51812939-f0fa-2968-9b33-1d4af68b9576.pak","nexusFileId":122089,"metaUuid":null},
+{"nexusFileName":"The Magus - No Bladesinger Animations","nexusFileVersion":"1.0.0.1","nexusFileUploadedAt":1790171368,"pakFileName":"SterlingVerminMagusNoBladesingerAnims_0d5fee6d-0539-c9ca-9e81-97ea7158017f.pak","nexusFileId":131226,"metaUuid":null}
 ]},
 "17766":{"nexusModName":"No More Sorcerous Sundries Magic Show","nexusUploadedBy":"magnetuning","nexusModId":17766,"paks":[
 {"nexusFileName":"No More Sorcerous Sundries Magic Show - PAK","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1753389862,"pakFileName":"MGNTN_MagicShowYeeter.pak","nexusFileId":98918,"metaUuid":"bd707281-78cc-4ca7-8842-b496b84001bc"}
@@ -70381,4 +70382,13 @@
 ]},
 "25233":{"nexusModName":"Wind ring","nexusUploadedBy":"justakidelcor","nexusModId":25233,"paks":[
 {"nexusFileName":"Wind Ring","nexusFileVersion":"1.1","nexusFileUploadedAt":1790166379,"pakFileName":"Wind Ring.pak","nexusFileId":131219,"metaUuid":null}
+]},
+"25235":{"nexusModName":"Magus Selectus - Gale Edit","nexusUploadedBy":"SweetGenerousThing","nexusModId":25235,"paks":[
+{"nexusFileName":"SGT_Magus Selectus - Gale Edit","nexusFileVersion":"1","nexusFileUploadedAt":1790168298,"pakFileName":"SGT_GaleEdit_2b2df18b-ad91-79fb-882c-2c1813f0a313.pak","nexusFileId":131221,"metaUuid":null},
+{"nexusFileName":"SGT_Magus Selectus - Gale Portrait","nexusFileVersion":"1","nexusFileUploadedAt":1790168325,"pakFileName":"SGT_Magus Selectus - Gale Portrait.pak","nexusFileId":131222,"metaUuid":null},
+{"nexusFileName":"SGT_Magus Selectus - Vanilla Hair","nexusFileVersion":"1","nexusFileUploadedAt":1790168450,"pakFileName":"SGT_GaleEdit_2b2df18b-ad91-79fb-882c-2c1813f0a313.pak","nexusFileId":131223,"metaUuid":null},
+{"nexusFileName":"SGT_Magus Selectus - Hair Only","nexusFileVersion":"1","nexusFileUploadedAt":1790168486,"pakFileName":"SGT_GaleEdit_HairOnly_461bd123-f0e3-1aa4-7df5-e7324233874a.pak","nexusFileId":131224,"metaUuid":null}
+]},
+"25236":{"nexusModName":"The Pride of the Gate - Wyll Edits (Russian Translate)","nexusUploadedBy":"SexSux","nexusModId":25236,"paks":[
+{"nexusFileName":"SGT WyllEdit (RUS)","nexusFileVersion":"1","nexusFileUploadedAt":1790170996,"pakFileName":"SGT_WyllEdit_742d433f-b526-78fe-5d0f-a3a8760cc6d7_RUS.pak","nexusFileId":131225,"metaUuid":null}
 ]}}
