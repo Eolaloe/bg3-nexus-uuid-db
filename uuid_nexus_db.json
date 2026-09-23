@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-09-22T23:51:59.738370+00:00","total_mods":17767},
+{"_meta":{"last_run":"2026-09-23T00:52:15.797745+00:00","total_mods":17767},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -16443,7 +16443,7 @@
 {"nexusFileName":"Aeterna Amantes","nexusFileVersion":"3","nexusFileUploadedAt":1745716729,"pakFileName":"AeternaAmantes.pak","nexusFileId":90785,"metaUuid":"d785d8fd-8288-469f-9b2b-61bb260b659f"}
 ]},
 "5221":{"nexusModName":"Rebalance - Level 1 Spells","nexusUploadedBy":"Syrchalis","nexusModId":5221,"paks":[
-{"nexusFileName":"Rebalance - Level 1 Spells","nexusFileVersion":"1.0.16","nexusFileUploadedAt":1779054523,"pakFileName":"Rebalance_Lvl1_Spells.pak","nexusFileId":121499,"metaUuid":"7595d80f-dff9-4a4e-a1cc-576d7a5b9237"}
+{"nexusFileName":"Rebalance - Level 1 Spells","nexusFileVersion":"1.0.17","nexusFileUploadedAt":1790124331,"pakFileName":"Rebalance_Lvl1_Spells.pak","nexusFileId":131172,"metaUuid":"7595d80f-dff9-4a4e-a1cc-576d7a5b9237"}
 ]},
 "5223":{"nexusModName":"2500 Gold and a Shovel","nexusUploadedBy":"jonhinkerton","nexusModId":5223,"paks":[
 {"nexusFileName":"2500Gold.zip","nexusFileVersion":"1.0","nexusFileUploadedAt":1702940182,"pakFileName":"2500Gold.pak","nexusFileId":35102,"metaUuid":"91dd0d9c-5478-47f9-b276-b08b27512777"}
@@ -54924,7 +54924,8 @@
 {"nexusFileName":"RealMenNipples HimboGalePRCSet","nexusFileVersion":"1.0.0.13","nexusFileUploadedAt":1786387669,"pakFileName":"RealMenNipples_HimboGalePRCSet.pak","nexusFileId":127788,"metaUuid":null},
 {"nexusFileName":"RealMenNipples HimboWyllPRCSet","nexusFileVersion":"1.0.0.13","nexusFileUploadedAt":1786403045,"pakFileName":"RealMenNipples_HimboWyllPRCSet.pak","nexusFileId":127802,"metaUuid":null},
 {"nexusFileName":"RealMenNipples KAVTHimboPRCSet","nexusFileVersion":"1.0.0.13","nexusFileUploadedAt":1786545288,"pakFileName":"RealMenNipples_KAVTHimboPRCSet.pak","nexusFileId":127918,"metaUuid":null},
-{"nexusFileName":"RealMenNipples STAVPatch","nexusFileVersion":"1.0.0.13","nexusFileUploadedAt":1786555127,"pakFileName":"RealMenNipples_STAVPatch.pak","nexusFileId":127925,"metaUuid":"fe1cc2bf-a3a0-439c-8e4d-ce2a7d2563b6"}
+{"nexusFileName":"RealMenNipples STAVPatch","nexusFileVersion":"1.0.0.13","nexusFileUploadedAt":1786555127,"pakFileName":"RealMenNipples_STAVPatch.pak","nexusFileId":127925,"metaUuid":"fe1cc2bf-a3a0-439c-8e4d-ce2a7d2563b6"},
+{"nexusFileName":"RealMenNipples NoBodyOverrides","nexusFileVersion":"1.0.0.18","nexusFileUploadedAt":1790123713,"pakFileName":"RealMenNipples_NoBodyOverrides.pak","nexusFileId":131169,"metaUuid":null}
 ]},
 "19774":{"nexusModName":"Viconia DeVir Redone - The Harbinger of Darkness","nexusUploadedBy":"PoisonValentineXIII","nexusModId":19774,"paks":[
 {"nexusFileName":"Viconia DeVir Redone - The Harbinger of Darkness","nexusFileVersion":"1.0.0.2","nexusFileUploadedAt":1763861019,"pakFileName":"ViconiaDeVirRedone_3f8f4aa8-4793-2ab4-10d5-747c9070f315.pak","nexusFileId":107947,"metaUuid":"3f8f4aa8-4793-2ab4-10d5-747c9070f315"},
@@ -68106,7 +68107,7 @@
 {"nexusFileName":"Weapon Masteries DnD 5R PHB2024 - RAW Patch","nexusFileVersion":"1.0","nexusFileUploadedAt":1786800264,"pakFileName":"Weapon Masteries PHB2024 - RAW Patch.pak","nexusFileId":128129,"metaUuid":null},
 {"nexusFileName":"Weapon Masteries DnD 5R PHB2024 - RAW Patch SE","nexusFileVersion":"1.3.1","nexusFileUploadedAt":1786939268,"pakFileName":"Weapon Masteries PHB2024 - SE RAW Patch.pak","nexusFileId":128250,"metaUuid":"848d3ab5-c3b2-4d14-aa21-fd20d1d49953"},
 {"nexusFileName":"Weapon Masteries - Restore Old Weapon Actions","nexusFileVersion":"2.2.1","nexusFileUploadedAt":1787111969,"pakFileName":"Weapon Masteries PHB2024 - Restore Old Weapon Actions.pak","nexusFileId":128444,"metaUuid":"848d3ab5-c3b2-4d14-aa21-fd20d1d49953"},
-{"nexusFileName":"Weapon Masteries DnD 5R PHB2024","nexusFileVersion":"2.4.0","nexusFileUploadedAt":1788787703,"pakFileName":"WeaponMasteriesPHB2024_517e9f2c-514c-3ebf-05f5-84b7e72dfa3a.pak","nexusFileId":129964,"metaUuid":"517e9f2c-514c-3ebf-05f5-84b7e72dfa3a"}
+{"nexusFileName":"Weapon Masteries DnD 5R PHB2024","nexusFileVersion":"2.4.1","nexusFileUploadedAt":1790123762,"pakFileName":"WeaponMasteriesPHB2024_517e9f2c-514c-3ebf-05f5-84b7e72dfa3a.pak","nexusFileId":131170,"metaUuid":"517e9f2c-514c-3ebf-05f5-84b7e72dfa3a"}
 ]},
 "24419":{"nexusModName":"Outfits Dummy Auto-Patcher (UAP)","nexusUploadedBy":"Nzx","nexusModId":24419,"paks":[
 {"nexusFileName":"Outfits Dummy Auto-Patcher (UAP)","nexusFileVersion":"1.0.2","nexusFileUploadedAt":1786890733,"pakFileName":"Outfits Dummy Auto-Patcher [UAP].pak","nexusFileId":128219,"metaUuid":"1fc366f3-d7f1-4b04-98bf-deafe06efb77"}
@@ -69541,7 +69542,7 @@
 {"nexusFileName":"Spiritbinder (Alternative)","nexusFileVersion":"1.2.1","nexusFileUploadedAt":1789133490,"pakFileName":"Spiritbinder.pak","nexusFileId":130278,"metaUuid":null}
 ]},
 "24883":{"nexusModName":"Home Brew - Comprehensive Reworks (CHT) - Sugizoious Edition","nexusUploadedBy":"sugizoious","nexusModId":24883,"paks":[
-{"nexusFileName":"HomeBrewComprehensiveReworksCHT Sugizoious","nexusFileVersion":"9.2.3.1","nexusFileUploadedAt":1790042323,"pakFileName":"HomeBrewComprehensiveReworksCHT-sugizoious.pak","nexusFileId":131110,"metaUuid":null}
+{"nexusFileName":"HomeBrewComprehensiveReworksCHT Sugizoious","nexusFileVersion":"9.2.3.2","nexusFileUploadedAt":1790124055,"pakFileName":"HomeBrewComprehensiveReworksCHT-sugizoious.pak","nexusFileId":131171,"metaUuid":null}
 ]},
 "24884":{"nexusModName":"Godslayer - Standalone Class for Baldurs Gate 3","nexusUploadedBy":"ISKLL","nexusModId":24884,"paks":[
 {"nexusFileName":"GodSlayer By ISKLL","nexusFileVersion":"1.0.0.32","nexusFileUploadedAt":1788866119,"pakFileName":"ISKL_Godslayer.pak","nexusFileId":130024,"metaUuid":null}
