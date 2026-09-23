@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-09-23T03:52:33.298422+00:00","total_mods":17769},
+{"_meta":{"last_run":"2026-09-23T04:52:24.747670+00:00","total_mods":17770},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -69973,10 +69973,12 @@
 {"nexusFileName":"NPCs Have Subclasses CHT CHS","nexusFileVersion":"3.6","nexusFileUploadedAt":1789518709,"pakFileName":"NPCs_Have_Subclasses_CHT_CHS.pak","nexusFileId":130620,"metaUuid":null}
 ]},
 "25052":{"nexusModName":"CrimsonPrinceGift","nexusUploadedBy":"ccgladi","nexusModId":25052,"paks":[
-{"nexusFileName":"CrimsonPrinceGift 1.0.24 EN","nexusFileVersion":"1.0.01","nexusFileUploadedAt":1789518398,"pakFileName":"CrimsonPrinceGift.pak","nexusFileId":130619,"metaUuid":"7f8a9b0c-1d2e-4f5a-8b9c-0d1e2f3a4b5c"}
+{"nexusFileName":"CrimsonPrinceGift 1.0.24 EN","nexusFileVersion":"1.0.01","nexusFileUploadedAt":1789518398,"pakFileName":"CrimsonPrinceGift.pak","nexusFileId":130619,"metaUuid":"7f8a9b0c-1d2e-4f5a-8b9c-0d1e2f3a4b5c"},
+{"nexusFileName":"CrimsonPrinceGift EN","nexusFileVersion":"1.0.27","nexusFileUploadedAt":1790136519,"pakFileName":"CrimsonPrinceGift.pak","nexusFileId":131202,"metaUuid":"7f8a9b0c-1d2e-4f5a-8b9c-0d1e2f3a4b5c"}
 ]},
 "25053":{"nexusModName":"CrimsonPrinceGift.CHS","nexusUploadedBy":"ccgladi","nexusModId":25053,"paks":[
-{"nexusFileName":"CrimsonPrinceGiftCHS 1.0.24","nexusFileVersion":"1","nexusFileUploadedAt":1789519381,"pakFileName":"CrimsonPrinceGiftCHS.pak","nexusFileId":130621,"metaUuid":null}
+{"nexusFileName":"CrimsonPrinceGiftCHS 1.0.24","nexusFileVersion":"1","nexusFileUploadedAt":1789519381,"pakFileName":"CrimsonPrinceGiftCHS.pak","nexusFileId":130621,"metaUuid":null},
+{"nexusFileName":"CrimsonPrinceGiftCHS","nexusFileVersion":"1.0.27","nexusFileUploadedAt":1790136257,"pakFileName":"CrimsonPrinceGiftCHS.pak","nexusFileId":131201,"metaUuid":null}
 ]},
 "25055":{"nexusModName":"Scratch Resurrect","nexusUploadedBy":"smaso","nexusModId":25055,"paks":[
 {"nexusFileName":"MyScratchResurrect","nexusFileVersion":"1","nexusFileUploadedAt":1789541417,"pakFileName":"MyScratchResurrect.pak","nexusFileId":130628,"metaUuid":null}
@@ -70251,6 +70253,9 @@
 ]},
 "25174":{"nexusModName":"Finished Business","nexusUploadedBy":"actualsailorcat","nexusModId":25174,"paks":[
 {"nexusFileName":"Finished Business","nexusFileVersion":"1.00.01","nexusFileUploadedAt":1790001449,"pakFileName":"Finished Business.pak","nexusFileId":131044,"metaUuid":"403981cf-2d44-462c-9ccf-c83e35a97a40"}
+]},
+"25175":{"nexusModName":"Halsin stays in act 2","nexusUploadedBy":"koboldJuno","nexusModId":25175,"paks":[
+{"nexusFileName":"Halsin stays in act2","nexusFileVersion":"1.0","nexusFileUploadedAt":1790135998,"pakFileName":"Halsinstaysinact2.pak","nexusFileId":131200,"metaUuid":null}
 ]},
 "25176":{"nexusModName":"Aurora Soul Sorcerer Turkish Translation","nexusUploadedBy":"tarikagl1","nexusModId":25176,"paks":[
 {"nexusFileName":"AuroraSorcerer TR","nexusFileVersion":"1.00.00","nexusFileUploadedAt":1789977135,"pakFileName":"AuroraSorcerer_TR.pak","nexusFileId":131025,"metaUuid":null}
