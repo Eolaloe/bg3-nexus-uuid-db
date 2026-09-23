@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-09-23T00:52:15.797745+00:00","total_mods":17767},
+{"_meta":{"last_run":"2026-09-23T01:51:52.470412+00:00","total_mods":17767},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -13616,7 +13616,7 @@
 {"nexusFileName":"MoreLockSlots","nexusFileVersion":"1.2","nexusFileUploadedAt":1700630710,"pakFileName":"MoreLockSlots.pak","nexusFileId":29811,"metaUuid":null}
 ]},
 "4366":{"nexusModName":"Druid Wildshape Viability","nexusUploadedBy":"Syrchalis","nexusModId":4366,"paks":[
-{"nexusFileName":"Wildshape Viability","nexusFileVersion":"1.3.10","nexusFileUploadedAt":1778986019,"pakFileName":"WildShape_Viability.pak","nexusFileId":121412,"metaUuid":"3027e010-2ca6-4775-966a-cd107b383648"}
+{"nexusFileName":"Wildshape Viability","nexusFileVersion":"1.3.11","nexusFileUploadedAt":1790125182,"pakFileName":"WildShape_Viability.pak","nexusFileId":131179,"metaUuid":"3027e010-2ca6-4775-966a-cd107b383648"}
 ]},
 "4367":{"nexusModName":"Ketheric's Hair and Hair Color","nexusUploadedBy":"MrPartsr","nexusModId":4367,"paks":[
 {"nexusFileName":"Ketheric's Hair and Hair Color","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1700399047,"pakFileName":"KethericHair.pak","nexusFileId":29212,"metaUuid":"6f7b681f-3ff6-4157-8e91-0b526d33def0"}
@@ -16580,7 +16580,7 @@
 {"nexusFileName":"Steel Watcher explosion","nexusFileVersion":"1.0","nexusFileUploadedAt":1703107930,"pakFileName":"Steelwatcher Explosion.pak","nexusFileId":35399,"metaUuid":"a0ca3090-2a22-43b1-b948-daefff26066b"}
 ]},
 "5282":{"nexusModName":"Rebalance - Level 2 Spells","nexusUploadedBy":"Syrchalis","nexusModId":5282,"paks":[
-{"nexusFileName":"Rebalance - Level 2 Spells","nexusFileVersion":"1.1.13","nexusFileUploadedAt":1779108972,"pakFileName":"Rebalance_Lvl2_Spells.pak","nexusFileId":121571,"metaUuid":"262002cc-4974-4637-8c59-1f5b9416c746"}
+{"nexusFileName":"Rebalance - Level 2 Spells","nexusFileVersion":"1.1.14","nexusFileUploadedAt":1790124983,"pakFileName":"Rebalance_Lvl2_Spells.pak","nexusFileId":131175,"metaUuid":"262002cc-4974-4637-8c59-1f5b9416c746"}
 ]},
 "5283":{"nexusModName":"F-You F-Me Dice","nexusUploadedBy":"AnyaAlise","nexusModId":5283,"paks":[
 {"nexusFileName":"CompanionsFyouFmeSet","nexusFileVersion":"1.00","nexusFileUploadedAt":1703728995,"pakFileName":"AstarionFyouFme.pak","nexusFileId":36672,"metaUuid":"835340da-7502-4137-b533-7c762fac5b14"},
@@ -16960,7 +16960,7 @@
 {"nexusFileName":"Eniela's Chest Refinded","nexusFileVersion":"1.4.","nexusFileUploadedAt":1709761890,"pakFileName":"Enielas Chest Refined.pak","nexusFileId":48536,"metaUuid":"a87d01a2-68b3-4df7-acfa-49e1ba82e95f"}
 ]},
 "5389":{"nexusModName":"Rebalance - Level 4 Spells","nexusUploadedBy":"Syrchalis","nexusModId":5389,"paks":[
-{"nexusFileName":"Rebalance - Level 4 Spells","nexusFileVersion":"1.1.2","nexusFileUploadedAt":1746140117,"pakFileName":"Rebalance_Lvl4_Spells.pak","nexusFileId":91343,"metaUuid":"86a0b6ef-91e3-4123-ae68-b950ac2fc97f"}
+{"nexusFileName":"Rebalance - Level 4 Spells","nexusFileVersion":"1.1.4","nexusFileUploadedAt":1790124912,"pakFileName":"Rebalance_Lvl4_Spells.pak","nexusFileId":131173,"metaUuid":"86a0b6ef-91e3-4123-ae68-b950ac2fc97f"}
 ]},
 "5390":{"nexusModName":"Learn Saving Throw Proficiencies","nexusUploadedBy":"BitterPast","nexusModId":5390,"paks":[
 {"nexusFileName":"Everything - All Saving Throws","nexusFileVersion":"1.0.1","nexusFileUploadedAt":1706871898,"pakFileName":"LearnSavingThrowProficiency.pak","nexusFileId":42823,"metaUuid":"eab0b1a7-1c5f-4e8c-aa85-40f846735cd3"},
@@ -18015,10 +18015,10 @@
 ]},
 "5712":{"nexusModName":"Rebalance - Nerfs","nexusUploadedBy":"Syrchalis","nexusModId":5712,"paks":[
 {"nexusFileName":"Rebalance - Nerfs (Resonance Stone)","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1748635243,"pakFileName":"Rebalance_Nerfs_ResonanceStone.pak","nexusFileId":94576,"metaUuid":"fd7409dc-7657-4153-8a92-e426a9c1db8c"},
-{"nexusFileName":"Rebalance - Nerfs (Spells)","nexusFileVersion":"1.0.2","nexusFileUploadedAt":1750615924,"pakFileName":"Rebalance_Nerfs_Spells.pak","nexusFileId":96447,"metaUuid":null},
 {"nexusFileName":"Rebalance - Nerfs (Feats)","nexusFileVersion":"1.0.1","nexusFileUploadedAt":1779055447,"pakFileName":"Rebalance_Nerfs_Feats.pak","nexusFileId":121501,"metaUuid":null},
-{"nexusFileName":"Rebalance - Nerfs","nexusFileVersion":"1.0.8","nexusFileUploadedAt":1779061844,"pakFileName":"Rebalance_Nerfs.pak","nexusFileId":121513,"metaUuid":null},
-{"nexusFileName":"Rebalance - Nerfs (Common Effects)","nexusFileVersion":"1.0.4","nexusFileUploadedAt":1779061855,"pakFileName":"Rebalance_Nerfs_CommonEffects.pak","nexusFileId":121514,"metaUuid":"48b7cea7-8537-49bb-af98-6368279aa841"}
+{"nexusFileName":"Rebalance - Nerfs (Common Effects)","nexusFileVersion":"1.0.4","nexusFileUploadedAt":1779061855,"pakFileName":"Rebalance_Nerfs_CommonEffects.pak","nexusFileId":121514,"metaUuid":"48b7cea7-8537-49bb-af98-6368279aa841"},
+{"nexusFileName":"Rebalance - Nerfs","nexusFileVersion":"1.0.9","nexusFileUploadedAt":1790125067,"pakFileName":"Rebalance_Nerfs.pak","nexusFileId":131177,"metaUuid":null},
+{"nexusFileName":"Rebalance - Nerfs (Spells)","nexusFileVersion":"1.0.2.1","nexusFileUploadedAt":1790125080,"pakFileName":"Rebalance_Nerfs_Spells.pak","nexusFileId":131178,"metaUuid":null}
 ]},
 "5713":{"nexusModName":"Combat HP Bonus","nexusUploadedBy":"BitterPast","nexusModId":5713,"paks":[
 {"nexusFileName":"Temporary HP Bonus - 10","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1704574213,"pakFileName":"TemporaryHpBuffCombat10.pak","nexusFileId":38430,"metaUuid":"bb63c365-e014-4ece-abe3-124e0014e066"},
@@ -54913,19 +54913,19 @@
 {"nexusFileName":"Ring of Graz'zt for Korean","nexusFileVersion":"1.9.2","nexusFileUploadedAt":1764956600,"pakFileName":"GrazztRing_kr.pak","nexusFileId":108935,"metaUuid":"2c2a1d74-cd75-4bd3-94e0-2bb296ea22b8"}
 ]},
 "19772":{"nexusModName":"Real Men Nipples","nexusUploadedBy":"VinTheMan","nexusModId":19772,"paks":[
-{"nexusFileName":"RealMenNipples_HalfOrcEdits","nexusFileVersion":"1.0.0.15","nexusFileUploadedAt":1773520297,"pakFileName":"RealMenNipples_HalfOrcEdits.pak","nexusFileId":116747,"metaUuid":"ecf3ac50-5c27-4321-ae05-18ee3dc58f55"},
-{"nexusFileName":"RealMenNipples Twunk_on_Tav_Only","nexusFileVersion":"1.0.0.15","nexusFileUploadedAt":1774064822,"pakFileName":"RealMenNipples_TwunkTavPRCSet.pak","nexusFileId":117168,"metaUuid":null},
-{"nexusFileName":"RealMenNipples - Twunk Tav Patch","nexusFileVersion":"1.0.0.15","nexusFileUploadedAt":1774065739,"pakFileName":"RealMenNipples_TwunkTavPatch.pak","nexusFileId":117169,"metaUuid":"bc586471-c773-4deb-b21c-a794f485c400"},
-{"nexusFileName":"RealMenNipples - Twunk Tav with KAVT Patch","nexusFileVersion":"1.0.0.15","nexusFileUploadedAt":1774065793,"pakFileName":"RealMenNipples_TwunkTavKAVTPatch.pak","nexusFileId":117170,"metaUuid":null},
-{"nexusFileName":"RealMenNipples_KAVTPatch","nexusFileVersion":"1.0.0.16","nexusFileUploadedAt":1785887981,"pakFileName":"RealMenNipples_KAVTPatch.pak","nexusFileId":127341,"metaUuid":"59c45e89-8d6f-4ce4-a604-1b912faa3162"},
 {"nexusFileName":"RealMenNipples","nexusFileVersion":"1.0.0.18","nexusFileUploadedAt":1786156697,"pakFileName":"RealMenNipples_468109b2-3953-6992-4a3f-a5cabd587705.pak","nexusFileId":127541,"metaUuid":"468109b2-3953-6992-4a3f-a5cabd587705"},
-{"nexusFileName":"RealMenNipples HimboPRCSet","nexusFileVersion":"1.0.0.13","nexusFileUploadedAt":1786291421,"pakFileName":"RealMenNipples_HimboPRCSet.pak","nexusFileId":127704,"metaUuid":"a4ea9779-5c14-450b-9c14-045b9581c983"},
-{"nexusFileName":"RealMenNipples HimboAstarionPRCSet","nexusFileVersion":"1.0.0.13","nexusFileUploadedAt":1786307749,"pakFileName":"RealMenNipples_HimboAstarionPRCSet.pak","nexusFileId":127720,"metaUuid":"24c50120-b792-4ad2-8640-b72e7d62e6c6"},
-{"nexusFileName":"RealMenNipples HimboGalePRCSet","nexusFileVersion":"1.0.0.13","nexusFileUploadedAt":1786387669,"pakFileName":"RealMenNipples_HimboGalePRCSet.pak","nexusFileId":127788,"metaUuid":null},
-{"nexusFileName":"RealMenNipples HimboWyllPRCSet","nexusFileVersion":"1.0.0.13","nexusFileUploadedAt":1786403045,"pakFileName":"RealMenNipples_HimboWyllPRCSet.pak","nexusFileId":127802,"metaUuid":null},
-{"nexusFileName":"RealMenNipples KAVTHimboPRCSet","nexusFileVersion":"1.0.0.13","nexusFileUploadedAt":1786545288,"pakFileName":"RealMenNipples_KAVTHimboPRCSet.pak","nexusFileId":127918,"metaUuid":null},
-{"nexusFileName":"RealMenNipples STAVPatch","nexusFileVersion":"1.0.0.13","nexusFileUploadedAt":1786555127,"pakFileName":"RealMenNipples_STAVPatch.pak","nexusFileId":127925,"metaUuid":"fe1cc2bf-a3a0-439c-8e4d-ce2a7d2563b6"},
-{"nexusFileName":"RealMenNipples NoBodyOverrides","nexusFileVersion":"1.0.0.18","nexusFileUploadedAt":1790123713,"pakFileName":"RealMenNipples_NoBodyOverrides.pak","nexusFileId":131169,"metaUuid":null}
+{"nexusFileName":"RealMenNipples NoBodyOverrides","nexusFileVersion":"1.0.0.18","nexusFileUploadedAt":1790123713,"pakFileName":"RealMenNipples_NoBodyOverrides.pak","nexusFileId":131169,"metaUuid":null},
+{"nexusFileName":"RealMenNipples STAVPatch","nexusFileVersion":"1.0.0.19","nexusFileUploadedAt":1790124959,"pakFileName":"RealMenNipples_STAVPatch.pak","nexusFileId":131174,"metaUuid":"fe1cc2bf-a3a0-439c-8e4d-ce2a7d2563b6"},
+{"nexusFileName":"RealMenNipples KAVTPatch","nexusFileVersion":"1.0.0.19","nexusFileUploadedAt":1790125035,"pakFileName":"RealMenNipples_KAVTPatch.pak","nexusFileId":131176,"metaUuid":"59c45e89-8d6f-4ce4-a604-1b912faa3162"},
+{"nexusFileName":"RealMenNipples KAVTHimboPRCSet","nexusFileVersion":"1.0.0.19","nexusFileUploadedAt":1790125359,"pakFileName":"RealMenNipples_KAVTHimboPRCSet.pak","nexusFileId":131180,"metaUuid":null},
+{"nexusFileName":"RealMenNipples HimboWyllPRCSet","nexusFileVersion":"1.0.0.19","nexusFileUploadedAt":1790125417,"pakFileName":"RealMenNipples_HimboWyllPRCSet.pak","nexusFileId":131181,"metaUuid":null},
+{"nexusFileName":"RealMenNipples HimboGalePRCSet","nexusFileVersion":"1.0.0.19","nexusFileUploadedAt":1790125462,"pakFileName":"RealMenNipples_HimboGalePRCSet.pak","nexusFileId":131182,"metaUuid":null},
+{"nexusFileName":"RealMenNipples HimboAstarionPRCSet","nexusFileVersion":"1.0.0.19","nexusFileUploadedAt":1790125498,"pakFileName":"RealMenNipples_HimboAstarionPRCSet.pak","nexusFileId":131183,"metaUuid":"24c50120-b792-4ad2-8640-b72e7d62e6c6"},
+{"nexusFileName":"RealMenNipples HimboPRCSet","nexusFileVersion":"1.0.0.19","nexusFileUploadedAt":1790125535,"pakFileName":"RealMenNipples_HimboPRCSet.pak","nexusFileId":131184,"metaUuid":"a4ea9779-5c14-450b-9c14-045b9581c983"},
+{"nexusFileName":"RealMenNipples_HalfOrcEdits","nexusFileVersion":"1.0.0.19","nexusFileUploadedAt":1790125575,"pakFileName":"RealMenNipples_HalfOrcEdits.pak","nexusFileId":131185,"metaUuid":"ecf3ac50-5c27-4321-ae05-18ee3dc58f55"},
+{"nexusFileName":"RealMenNipples - Twunk Tav with KAVT Patch","nexusFileVersion":"1.0.0.19","nexusFileUploadedAt":1790125627,"pakFileName":"RealMenNipples_TwunkTavKAVTPatch.pak","nexusFileId":131186,"metaUuid":null},
+{"nexusFileName":"RealMenNipples - Twunk Tav Patch","nexusFileVersion":"1.0.0.19","nexusFileUploadedAt":1790125652,"pakFileName":"RealMenNipples_TwunkTavPatch.pak","nexusFileId":131187,"metaUuid":"bc586471-c773-4deb-b21c-a794f485c400"},
+{"nexusFileName":"RealMenNipples Twunk_on_Tav_Only","nexusFileVersion":"1.0.0.19","nexusFileUploadedAt":1790126037,"pakFileName":"RealMenNipples_TwunkTavPRCSet.pak","nexusFileId":131190,"metaUuid":null}
 ]},
 "19774":{"nexusModName":"Viconia DeVir Redone - The Harbinger of Darkness","nexusUploadedBy":"PoisonValentineXIII","nexusModId":19774,"paks":[
 {"nexusFileName":"Viconia DeVir Redone - The Harbinger of Darkness","nexusFileVersion":"1.0.0.2","nexusFileUploadedAt":1763861019,"pakFileName":"ViconiaDeVirRedone_3f8f4aa8-4793-2ab4-10d5-747c9070f315.pak","nexusFileId":107947,"metaUuid":"3f8f4aa8-4793-2ab4-10d5-747c9070f315"},
@@ -70018,8 +70018,8 @@
 {"nexusFileName":"His Majesty's Clothes","nexusFileVersion":"1","nexusFileUploadedAt":1789630216,"pakFileName":"hismajestysclothes_f1b1912a-f937-ce0c-1b99-4e2a41f8604b.pak","nexusFileId":130699,"metaUuid":"f1b1912a-f937-ce0c-1b99-4e2a41f8604b"}
 ]},
 "25073":{"nexusModName":"LichClass-PortedfromPathfinderWrathoftheRighteous","nexusUploadedBy":"fangyunchunzi","nexusModId":25073,"paks":[
-{"nexusFileName":"LichClassSolo","nexusFileVersion":"2.0","nexusFileUploadedAt":1790069209,"pakFileName":"LichClass.pak","nexusFileId":131125,"metaUuid":null},
-{"nexusFileName":"LichClassParty","nexusFileVersion":"2","nexusFileUploadedAt":1790069274,"pakFileName":"LichClass.pak","nexusFileId":131126,"metaUuid":null}
+{"nexusFileName":"LichClassParty","nexusFileVersion":"2.1","nexusFileUploadedAt":1790126019,"pakFileName":"LichClass.pak","nexusFileId":131189,"metaUuid":null},
+{"nexusFileName":"LichClassSolo","nexusFileVersion":"2.1","nexusFileUploadedAt":1790126226,"pakFileName":"LichClass.pak","nexusFileId":131192,"metaUuid":null}
 ]},
 "25075":{"nexusModName":"Bloodweave Head Preset","nexusUploadedBy":"starlesstides","nexusModId":25075,"paks":[
 {"nexusFileName":"Bloodweave Head Preset","nexusFileVersion":"1","nexusFileUploadedAt":1789650381,"pakFileName":"Starless_Bloodweave_HeadPreset_e78f4334-b999-f0cf-c9d8-d143c9ff7230.pak","nexusFileId":130712,"metaUuid":"e78f4334-b999-f0cf-c9d8-d143c9ff7230"}
