@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-09-23T02:52:01.684946+00:00","total_mods":17768},
+{"_meta":{"last_run":"2026-09-23T03:52:33.298422+00:00","total_mods":17769},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -35189,7 +35189,7 @@
 {"nexusFileName":"UTav EoTB","nexusFileVersion":"1.0","nexusFileUploadedAt":1727463482,"pakFileName":"NamaLolthUTavEoTB.pak","nexusFileId":72981,"metaUuid":"19c99815-43ff-44ff-8bdc-c631ef96bb3e"}
 ]},
 "12413":{"nexusModName":"Better Poison Equipment","nexusUploadedBy":"chizfreak","nexusModId":12413,"paks":[
-{"nexusFileName":"Better Poison Equipment","nexusFileVersion":"3.1","nexusFileUploadedAt":1747902273,"pakFileName":"PoisonEquipmentTweaks_d638d904-3ede-04e9-4a2b-60a75874a7d6.pak","nexusFileId":93736,"metaUuid":"d638d904-3ede-04e9-4a2b-60a75874a7d6"}
+{"nexusFileName":"Better Poison Equipment","nexusFileVersion":"3.2","nexusFileUploadedAt":1790133589,"pakFileName":"PoisonEquipmentTweaks_d638d904-3ede-04e9-4a2b-60a75874a7d6.pak","nexusFileId":131198,"metaUuid":"d638d904-3ede-04e9-4a2b-60a75874a7d6"}
 ]},
 "12414":{"nexusModName":"HalfDragonGER","nexusUploadedBy":"tzwenyy","nexusModId":12414,"paks":[
 {"nexusFileName":"HalfDragonGER","nexusFileVersion":"1.0","nexusFileUploadedAt":1727019677,"pakFileName":"HalfDragonGER.pak","nexusFileId":72178,"metaUuid":null}
@@ -69112,8 +69112,8 @@
 {"nexusFileName":"CollegeOfMalingering V1BD","nexusFileVersion":"1","nexusFileUploadedAt":1788044983,"pakFileName":"CollegeOfMalingering_V1BD.pak","nexusFileId":129302,"metaUuid":null}
 ]},
 "24689":{"nexusModName":"Act Two Expansion - Custom Campaign","nexusUploadedBy":"SquallyDaBeanz","nexusModId":24689,"paks":[
-{"nexusFileName":"Act Two Expansion","nexusFileVersion":"0.8","nexusFileUploadedAt":1789617744,"pakFileName":"ActTwoExpansion_41ec643a-e2ad-e69d-52c2-920a6f4a98ad.pak","nexusFileId":130696,"metaUuid":"41ec643a-e2ad-e69d-52c2-920a6f4a98ad"},
-{"nexusFileName":"Act Two Expansion (QuickStart)","nexusFileVersion":"0.8","nexusFileUploadedAt":1789618087,"pakFileName":"ActTwoExpansion_41ec643a-e2ad-e69d-52c2-920a6f4a98ad.pak","nexusFileId":130697,"metaUuid":"41ec643a-e2ad-e69d-52c2-920a6f4a98ad"}
+{"nexusFileName":"Act Two Expansion","nexusFileVersion":"0.8.0.5","nexusFileUploadedAt":1790133530,"pakFileName":"ActTwoExpansion_41ec643a-e2ad-e69d-52c2-920a6f4a98ad.pak","nexusFileId":131197,"metaUuid":"41ec643a-e2ad-e69d-52c2-920a6f4a98ad"},
+{"nexusFileName":"Act Two Expansion (QuickStart)","nexusFileVersion":"0.8.0.5","nexusFileUploadedAt":1790133788,"pakFileName":"ActTwoExpansion_41ec643a-e2ad-e69d-52c2-920a6f4a98ad.pak","nexusFileId":131199,"metaUuid":"41ec643a-e2ad-e69d-52c2-920a6f4a98ad"}
 ]},
 "24690":{"nexusModName":"CHAR's BloodThorn Daggers","nexusUploadedBy":"char","nexusModId":24690,"paks":[
 {"nexusFileName":"CHAR's BloodThorn Daggers","nexusFileVersion":"2","nexusFileUploadedAt":1788129048,"pakFileName":"CHAR_BloodThornDaggers_364544ed-f5f2-0a43-dab4-557db05752ae.pak","nexusFileId":129392,"metaUuid":"364544ed-f5f2-0a43-dab4-557db05752ae"}
@@ -70367,4 +70367,7 @@
 ]},
 "25228":{"nexusModName":"Combat Statistics","nexusUploadedBy":"kibihari","nexusModId":25228,"paks":[
 {"nexusFileName":"Combat Statistics","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1790117001,"pakFileName":"CombatStatistics.pak","nexusFileId":131164,"metaUuid":null}
+]},
+"25231":{"nexusModName":"Path of the Dreadwraith - PTBR (2026)","nexusUploadedBy":"BarovZx","nexusModId":25231,"paks":[
+{"nexusFileName":"Path Of The Wraith PTBR","nexusFileVersion":"05.11.2025","nexusFileUploadedAt":1790132067,"pakFileName":"Path of the Wraith PTBR.pak","nexusFileId":131196,"metaUuid":null}
 ]}}
