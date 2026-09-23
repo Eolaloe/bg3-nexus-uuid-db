@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-09-23T16:52:51.917123+00:00","total_mods":17781},
+{"_meta":{"last_run":"2026-09-23T17:53:05.108501+00:00","total_mods":17785},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -65230,6 +65230,9 @@
 "23229":{"nexusModName":"The Way of the Living Force (Patch 8) Star Wars Jedi Mod Level 1-20","nexusUploadedBy":"Aeharnt","nexusModId":23229,"paks":[
 {"nexusFileName":"WayOfTheLivingForce - 2.38 Localization","nexusFileVersion":"2.38","nexusFileUploadedAt":1783437487,"pakFileName":"WayOfTheLivingForce.pak","nexusFileId":125176,"metaUuid":null}
 ]},
+"23230":{"nexusModName":"Way of the Jedi - (level 13-20 progression update)","nexusUploadedBy":"Aeharnt","nexusModId":23230,"paks":[
+{"nexusFileName":"Way Of The Jedi","nexusFileVersion":"1.0","nexusFileUploadedAt":1790181962,"pakFileName":"WayOfTheJedi.pak","nexusFileId":131238,"metaUuid":null}
+]},
 "23231":{"nexusModName":"Moulin Rouge - Two Sets for BT 1 2 3","nexusUploadedBy":"ARAFEL194","nexusModId":23231,"paks":[
 {"nexusFileName":"MoulinRouge 3f3e086a C1d3 55b1 Cc1e 192217d0be54","nexusFileVersion":"1","nexusFileUploadedAt":1780705617,"pakFileName":"MoulinRouge_3f3e086a-c1d3-55b1-cc1e-192217d0be54.pak","nexusFileId":122886,"metaUuid":"3f3e086a-c1d3-55b1-cc1e-192217d0be54"}
 ]},
@@ -70412,4 +70415,13 @@
 ]},
 "25243":{"nexusModName":"Song and Steel - Bard Equipment - Russian Translation 1.0.0.9","nexusUploadedBy":"SNKmod777","nexusModId":25243,"paks":[
 {"nexusFileName":"SS Bard Equipment RU","nexusFileVersion":"1.0.0.3","nexusFileUploadedAt":1790178228,"pakFileName":"SS_Bard_Equipment_RU.pak","nexusFileId":131234,"metaUuid":null}
+]},
+"25244":{"nexusModName":"Aeon (Pathfinder WotR class conversion)","nexusUploadedBy":"Aeharnt","nexusModId":25244,"paks":[
+{"nexusFileName":"AeonWotR","nexusFileVersion":"1.04","nexusFileUploadedAt":1790182955,"pakFileName":"AeonWotR.pak","nexusFileId":131239,"metaUuid":null}
+]},
+"25245":{"nexusModName":"Awakened Tadpole - Item Shipment Framework (Russian Translate)","nexusUploadedBy":"SexSux","nexusModId":25245,"paks":[
+{"nexusFileName":"AwakenedTadpole RUS","nexusFileVersion":"2.0","nexusFileUploadedAt":1790185943,"pakFileName":"AwakenedTadpole_RUS.pak","nexusFileId":131244,"metaUuid":null}
+]},
+"25246":{"nexusModName":"Way of Kenshi Monk Subclass - PTBR (2026)","nexusUploadedBy":"BarovZx","nexusModId":25246,"paks":[
+{"nexusFileName":"Kenshi PTBR","nexusFileVersion":"03.10.2025","nexusFileUploadedAt":1790185736,"pakFileName":"Kenshi PTBR.pak","nexusFileId":131242,"metaUuid":null}
 ]}}
