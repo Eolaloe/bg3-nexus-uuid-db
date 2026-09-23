@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-09-23T10:52:46.984417+00:00","total_mods":17771},
+{"_meta":{"last_run":"2026-09-23T11:52:48.972386+00:00","total_mods":17772},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -21924,7 +21924,7 @@
 {"nexusFileName":"Fight Vlaakith","nexusFileVersion":"1.0","nexusFileUploadedAt":1708988888,"pakFileName":"Fight Vlaakith.pak","nexusFileId":46790,"metaUuid":null}
 ]},
 "7207":{"nexusModName":"Belarusian translation","nexusUploadedBy":"Zmiecer","nexusModId":7207,"paks":[
-{"nexusFileName":"BG3 Belarusian","nexusFileVersion":"1.2","nexusFileUploadedAt":1788020478,"pakFileName":"bg3_belarusian_8b4f10d2-829b-1b06-1443-a0177dbe81b1.pak","nexusFileId":129274,"metaUuid":null}
+{"nexusFileName":"BG3 Belarusian","nexusFileVersion":"1.3","nexusFileUploadedAt":1790160970,"pakFileName":"bg3_belarusian.pak","nexusFileId":131215,"metaUuid":null}
 ]},
 "7208":{"nexusModName":"Patch For Ancient Jewelry (Roleplay Only)","nexusUploadedBy":"fathomlesspatron","nexusModId":7208,"paks":[
 {"nexusFileName":"PatchForAncientJewely","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1708990361,"pakFileName":"PatchForAncientJewelry.pak","nexusFileId":46791,"metaUuid":null}
@@ -35658,7 +35658,7 @@
 {"nexusFileName":"FearTaylor's Dyes","nexusFileVersion":"1.0.0.12","nexusFileUploadedAt":1731980010,"pakFileName":"FT_DYE_OFFICIAL_aa864294-b4f7-4068-1793-ba72283683f1.pak","nexusFileId":79314,"metaUuid":"aa864294-b4f7-4068-1793-ba72283683f1"}
 ]},
 "12585":{"nexusModName":"FearTaylor's Dye - Part 2","nexusUploadedBy":"FearTaylor","nexusModId":12585,"paks":[
-{"nexusFileName":"FearTaylor's Dyes 2.0","nexusFileVersion":"1.0.0.5","nexusFileUploadedAt":1727473601,"pakFileName":"FTDYE2_be668af6-897f-2497-c7b8-d5d97ace05fa.pak","nexusFileId":73005,"metaUuid":null},
+{"nexusFileName":"FearTaylor's Dyes 2.0","nexusFileVersion":"1.0.0.5","nexusFileUploadedAt":1727473601,"pakFileName":"FTDYE2_be668af6-897f-2497-c7b8-d5d97ace05fa.pak","nexusFileId":73005,"metaUuid":"be668af6-897f-2497-c7b8-d5d97ace05fa"},
 {"nexusFileName":"FearTaylor's Dyes 2.0","nexusFileVersion":"1.0.0.8","nexusFileUploadedAt":1731980086,"pakFileName":"FTDYE2_be668af6-897f-2497-c7b8-d5d97ace05fa.pak","nexusFileId":79315,"metaUuid":"be668af6-897f-2497-c7b8-d5d97ace05fa"}
 ]},
 "12586":{"nexusModName":"Hexiplexer's Head Preset Collection","nexusUploadedBy":"Hexiplexer","nexusModId":12586,"paks":[
@@ -69182,7 +69182,7 @@
 {"nexusFileName":"Appearance Edit Origins (Russian Localization)","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1788160476,"pakFileName":"AppearanceEditOrigins_RU.pak","nexusFileId":129420,"metaUuid":null}
 ]},
 "24723":{"nexusModName":"Heart of Valor","nexusUploadedBy":"swissfred","nexusModId":24723,"paks":[
-{"nexusFileName":"Heart of Valor","nexusFileVersion":"3.0.8.2","nexusFileUploadedAt":1788609519,"pakFileName":"HeartOfValor_9f021983-eaee-d868-3c66-020f327f4c9e.pak","nexusFileId":129754,"metaUuid":"9f021983-eaee-d868-3c66-020f327f4c9e"}
+{"nexusFileName":"Heart of Valor","nexusFileVersion":"3.0.8.6","nexusFileUploadedAt":1790160961,"pakFileName":"HeartOfValor_9f021983-eaee-d868-3c66-020f327f4c9e.pak","nexusFileId":131214,"metaUuid":"9f021983-eaee-d868-3c66-020f327f4c9e"}
 ]},
 "24724":{"nexusModName":"Mod Configuration Menu (Russian Localization)","nexusUploadedBy":"ganeuken","nexusModId":24724,"paks":[
 {"nexusFileName":"Mod Configuration Menu (Russian Localization)","nexusFileVersion":"1.41.0.0","nexusFileUploadedAt":1788760695,"pakFileName":"ModConfigurationMenu_RU.pak","nexusFileId":129934,"metaUuid":null}
@@ -70358,6 +70358,9 @@
 "25220":{"nexusModName":"Chaos and Control - Sorcerer Equipment - Russian Translation 1.0.0.16","nexusUploadedBy":"SNKmod777","nexusModId":25220,"paks":[
 {"nexusFileName":"CC Sorcerer Equipment RU","nexusFileVersion":"1.0.0.2","nexusFileUploadedAt":1790091256,"pakFileName":"CC_Sorcerer_Equipment_RU.pak","nexusFileId":131146,"metaUuid":null}
 ]},
+"25223":{"nexusModName":"Githyanki Unleashed","nexusUploadedBy":"Sai","nexusModId":25223,"paks":[
+{"nexusFileName":"Githyanki Unleashed","nexusFileVersion":"1.0","nexusFileUploadedAt":1790161979,"pakFileName":"Githyanki Unleashed.pak","nexusFileId":131216,"metaUuid":null}
+]},
 "25224":{"nexusModName":"Noxx's Arcane Forge","nexusUploadedBy":"Prednoxx","nexusModId":25224,"paks":[
 {"nexusFileName":"ArcaneForged","nexusFileVersion":"1.0.0.6","nexusFileUploadedAt":1790151919,"pakFileName":"ArcaneForge_e627455e-3113-44e6-af0a-adc1f7fbfc98.pak","nexusFileId":131208,"metaUuid":null}
 ]},
@@ -70375,4 +70378,7 @@
 ]},
 "25231":{"nexusModName":"Path of the Dreadwraith - PTBR (2026)","nexusUploadedBy":"BarovZx","nexusModId":25231,"paks":[
 {"nexusFileName":"Path Of The Wraith PTBR","nexusFileVersion":"05.11.2025","nexusFileUploadedAt":1790132067,"pakFileName":"Path of the Wraith PTBR.pak","nexusFileId":131196,"metaUuid":null}
+]},
+"25233":{"nexusModName":"Wind ring","nexusUploadedBy":"justakidelcor","nexusModId":25233,"paks":[
+{"nexusFileName":"Wind Ring","nexusFileVersion":"1.0","nexusFileUploadedAt":1790163418,"pakFileName":"Wind Ring.pak","nexusFileId":131217,"metaUuid":null}
 ]}}
