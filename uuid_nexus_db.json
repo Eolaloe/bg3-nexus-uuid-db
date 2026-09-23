@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-09-23T17:53:05.108501+00:00","total_mods":17785},
+{"_meta":{"last_run":"2026-09-23T18:52:36.388113+00:00","total_mods":17785},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -28397,8 +28397,8 @@
 {"nexusFileName":"DIQ Dialogue Patches","nexusFileVersion":"1.4.5.0","nexusFileUploadedAt":1774855695,"pakFileName":"DIQ Dialogue Patches.pak","nexusFileId":117784,"metaUuid":"5bbffb35-97f5-4576-8d1d-af43fb123c4c"},
 {"nexusFileName":"Goon's Druid Overhaul","nexusFileVersion":"0.5.1.1","nexusFileUploadedAt":1777016129,"pakFileName":"Goon's Druid Overhaul.pak","nexusFileId":119780,"metaUuid":"c534d6d5-7c82-4154-bea8-d1c45f11b1bc"},
 {"nexusFileName":"JWL Discordant Instruments Enhanced Revamped","nexusFileVersion":"1.6.2.0","nexusFileUploadedAt":1787906314,"pakFileName":"JWL Discordant Instruments.pak","nexusFileId":129195,"metaUuid":"a0fc73a0-26ae-4e73-962c-ab850cb9625e"},
-{"nexusFileName":"DIQ Misc Patches - Overrides","nexusFileVersion":"1.4.8.0","nexusFileUploadedAt":1789242490,"pakFileName":"DIQ Misc Patches - Overrides.pak","nexusFileId":130394,"metaUuid":"4cee820f-03e8-465f-b65c-0a9fa8272b29"},
-{"nexusFileName":"DIQ Misc Patches","nexusFileVersion":"1.4.8.1","nexusFileUploadedAt":1789924703,"pakFileName":"DIQ Misc Patches.pak","nexusFileId":130987,"metaUuid":"4c628a1a-34d9-4362-8459-2c2bb3b8e5fb"}
+{"nexusFileName":"DIQ Misc Patches","nexusFileVersion":"1.4.8.1","nexusFileUploadedAt":1789924703,"pakFileName":"DIQ Misc Patches.pak","nexusFileId":130987,"metaUuid":"4c628a1a-34d9-4362-8459-2c2bb3b8e5fb"},
+{"nexusFileName":"DIQ Misc Patches - Overrides","nexusFileVersion":"1.4.8.2","nexusFileUploadedAt":1790185909,"pakFileName":"DIQ Misc Patches - Overrides.pak","nexusFileId":131243,"metaUuid":"4cee820f-03e8-465f-b65c-0a9fa8272b29"}
 ]},
 "9786":{"nexusModName":"Half-Dragon-CHS","nexusUploadedBy":"Nefelibata426","nexusModId":9786,"paks":[
 {"nexusFileName":"HalfDragon-CHS","nexusFileVersion":"2.1.0.0","nexusFileUploadedAt":1716603680,"pakFileName":"HalfDragonCHS.pak","nexusFileId":58597,"metaUuid":null},
@@ -69753,7 +69753,7 @@
 {"nexusFileName":"Solo Poses   Misc Edition","nexusFileVersion":"1","nexusFileUploadedAt":1789294019,"pakFileName":"houndsolomisc_bb213737-99fd-1799-a3cc-c2587c450e00.pak","nexusFileId":130434,"metaUuid":"bb213737-99fd-1799-a3cc-c2587c450e00"}
 ]},
 "24967":{"nexusModName":"Yet Another AI","nexusUploadedBy":"Sai","nexusModId":24967,"paks":[
-{"nexusFileName":"Yet Another AI","nexusFileVersion":"1.9","nexusFileUploadedAt":1789993846,"pakFileName":"Yet Another AI.pak","nexusFileId":131040,"metaUuid":"f7ca0a31-0d01-4da6-ad87-a82a3c541321"}
+{"nexusFileName":"Yet Another AI","nexusFileVersion":"1.10","nexusFileUploadedAt":1790185972,"pakFileName":"Yet Another AI.pak","nexusFileId":131245,"metaUuid":"f7ca0a31-0d01-4da6-ad87-a82a3c541321"}
 ]},
 "24969":{"nexusModName":"Varrl Evolved","nexusUploadedBy":"Exaen","nexusModId":24969,"paks":[
 {"nexusFileName":"VarrlEvolved","nexusFileVersion":"1.0.2.0","nexusFileUploadedAt":1789239645,"pakFileName":"VarrlEvolved_5d00eab7-f156-dd9c-ae68-1692b112f4e9.pak","nexusFileId":130380,"metaUuid":"5d00eab7-f156-dd9c-ae68-1692b112f4e9"}
@@ -70150,7 +70150,7 @@
 "25124":{"nexusModName":"In-Game Mod Manager Search","nexusUploadedBy":"arctic0xygen","nexusModId":25124,"paks":[
 {"nexusFileName":"ModManagerSearch 1.1.0.1","nexusFileVersion":"1.1.0.1","nexusFileUploadedAt":1790000527,"pakFileName":"ModSearch.pak","nexusFileId":131043,"metaUuid":null}
 ]},
-"25126":{"nexusModName":"Cinematic Lighting Control","nexusUploadedBy":"anatolek","nexusModId":25126,"paks":[
+"25126":{"nexusModName":"Dialogue Lighting Control","nexusUploadedBy":"anatolek","nexusModId":25126,"paks":[
 {"nexusFileName":"Cinematic Lighting Control 1.1","nexusFileVersion":"1.1","nexusFileUploadedAt":1790094595,"pakFileName":"Cinematic_Lighting_Control_v1.1.pak","nexusFileId":131149,"metaUuid":"1fb632b1-9b11-4a80-8316-ad9b88b9b594"}
 ]},
 "25127":{"nexusModName":"Dynamic Spell Editor","nexusUploadedBy":"anatolek","nexusModId":25127,"paks":[
@@ -70259,7 +70259,7 @@
 {"nexusFileName":"AuroraSorcerer TR","nexusFileVersion":"1.00.00","nexusFileUploadedAt":1789977135,"pakFileName":"AuroraSorcerer_TR.pak","nexusFileId":131025,"metaUuid":null}
 ]},
 "25177":{"nexusModName":"Trials Ascension","nexusUploadedBy":"Jama4","nexusModId":25177,"paks":[
-{"nexusFileName":"TrialsAscension 2.3.4.27 NEXUS READY V2","nexusFileVersion":"2.3.4.27","nexusFileUploadedAt":1790007631,"pakFileName":"CombatMod.pak","nexusFileId":131057,"metaUuid":"e6f0c417-36f9-42d6-9617-fd7fe2efd626"}
+{"nexusFileName":"TrialsAscension_2.3.4.27_NEXUS_V3","nexusFileVersion":"2.3.4.27","nexusFileUploadedAt":1790186545,"pakFileName":"CombatMod.pak","nexusFileId":131246,"metaUuid":"e6f0c417-36f9-42d6-9617-fd7fe2efd626"}
 ]},
 "25178":{"nexusModName":"Ciri - Emotional YouNarrator","nexusUploadedBy":"ToxicDrake","nexusModId":25178,"paks":[
 {"nexusFileName":"EMO Ciri YouN","nexusFileVersion":"1","nexusFileUploadedAt":1789990705,"pakFileName":"EMO_Ciri_YouN.pak","nexusFileId":131035,"metaUuid":null},
