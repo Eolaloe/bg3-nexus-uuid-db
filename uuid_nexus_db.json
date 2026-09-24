@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-09-24T16:52:58.816806+00:00","total_mods":17811},
+{"_meta":{"last_run":"2026-09-24T17:52:50.270936+00:00","total_mods":17813},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -35999,7 +35999,7 @@
 ]},
 "12727":{"nexusModName":"DnD 5.5e All-in-One BEYOND","nexusUploadedBy":"yoonmoonsik43","nexusModId":12727,"paks":[
 {"nexusFileName":"dnd2024 - V3 Legacy","nexusFileVersion":"3.4.6.4","nexusFileUploadedAt":1771945305,"pakFileName":"DnD2024_897914ef-5c96-053c-44af-0be823f895fe.pak","nexusFileId":115523,"metaUuid":"897914ef-5c96-053c-44af-0be823f895fe"},
-{"nexusFileName":"DnD 5.5e All-in-One BEYOND","nexusFileVersion":"4.12.13.12","nexusFileUploadedAt":1790209967,"pakFileName":"DnD2024_897914ef-5c96-053c-44af-0be823f895fe.pak","nexusFileId":131273,"metaUuid":"897914ef-5c96-053c-44af-0be823f895fe"}
+{"nexusFileName":"DnD 5.5e All-in-One BEYOND","nexusFileVersion":"4.12.13.13","nexusFileUploadedAt":1790271509,"pakFileName":"DnD2024_897914ef-5c96-053c-44af-0be823f895fe.pak","nexusFileId":131326,"metaUuid":"897914ef-5c96-053c-44af-0be823f895fe"}
 ]},
 "12728":{"nexusModName":"Origin-Themed Headwear KR","nexusUploadedBy":"Soorawang","nexusModId":12728,"paks":[
 {"nexusFileName":"Origin-Themed Headwear KR","nexusFileVersion":"1.0","nexusFileUploadedAt":1727930331,"pakFileName":"OriginHeadwear_kr.pak","nexusFileId":73692,"metaUuid":null}
@@ -70321,7 +70321,7 @@
 {"nexusFileName":"HarnessRemixes-Chs","nexusFileVersion":"1","nexusFileUploadedAt":1790018546,"pakFileName":"HarnessRemixes-chs_zh.pak","nexusFileId":131084,"metaUuid":null}
 ]},
 "25203":{"nexusModName":"Bath Before Bed CHS","nexusUploadedBy":"shrimp1958","nexusModId":25203,"paks":[
-{"nexusFileName":"BathBeforeBed-Chs","nexusFileVersion":"1","nexusFileUploadedAt":1790020183,"pakFileName":"BathBeforeBed_-chs.pak","nexusFileId":131089,"metaUuid":null}
+{"nexusFileName":"Bath Before Bed Chs","nexusFileVersion":"1","nexusFileUploadedAt":1790269683,"pakFileName":"BathBeforeBed-chs.pak","nexusFileId":131322,"metaUuid":null}
 ]},
 "25204":{"nexusModName":"BG3 Mod Support for the Xbox App on PC","nexusUploadedBy":"titoreinaldo","nexusModId":25204,"paks":[
 {"nexusFileName":"BG3 Mod Support for PC 0.2.1","nexusFileVersion":"0.2.1","nexusFileUploadedAt":1790022865,"pakFileName":"BG3MCM.pak","nexusFileId":131092,"metaUuid":null}
@@ -70366,7 +70366,7 @@
 {"nexusFileName":"Githyanki Unleashed","nexusFileVersion":"1.1","nexusFileUploadedAt":1790249922,"pakFileName":"Githyanki Unleashed.pak","nexusFileId":131295,"metaUuid":"9ac9f8de-d3af-4413-be9c-651b3173883a"}
 ]},
 "25224":{"nexusModName":"Noxx's Arcane Forge","nexusUploadedBy":"Prednoxx","nexusModId":25224,"paks":[
-{"nexusFileName":"ArcaneForged","nexusFileVersion":"1.0.0.6","nexusFileUploadedAt":1790151919,"pakFileName":"ArcaneForge_e627455e-3113-44e6-af0a-adc1f7fbfc98.pak","nexusFileId":131208,"metaUuid":"e627455e-3113-44e6-af0a-adc1f7fbfc98"}
+{"nexusFileName":"ArcaneForgedOverhaul","nexusFileVersion":"1.0.0.13","nexusFileUploadedAt":1790271905,"pakFileName":"ArcaneForge_e627455e-3113-44e6-af0a-adc1f7fbfc98.pak","nexusFileId":131329,"metaUuid":"e627455e-3113-44e6-af0a-adc1f7fbfc98"}
 ]},
 "25225":{"nexusModName":"Fidelity of Amaunator","nexusUploadedBy":"lVlefa","nexusModId":25225,"paks":[
 {"nexusFileName":"FideLity Of Amaunator","nexusFileVersion":"1","nexusFileUploadedAt":1790130215,"pakFileName":"GravitationalPull.pak","nexusFileId":131194,"metaUuid":"c4e8f1a2-3b6d-4e79-8a12-5f0d9c7b6431"}
@@ -70442,8 +70442,9 @@
 "25248":{"nexusModName":"QoL Spell Tweaks","nexusUploadedBy":"CosmicBovine","nexusModId":25248,"paks":[
 {"nexusFileName":"Spell Tweaks","nexusFileVersion":"1","nexusFileUploadedAt":1790192217,"pakFileName":"Spell Tweaks.pak","nexusFileId":131252,"metaUuid":null}
 ]},
-"25249":{"nexusModName":"Angelic Wind Potion","nexusUploadedBy":"cayssac","nexusModId":25249,"paks":[
-{"nexusFileName":"ANGELIC WIND POTION","nexusFileVersion":"3","nexusFileUploadedAt":1790251842,"pakFileName":"ANGELIC WIND POTION.pak","nexusFileId":131297,"metaUuid":"9245c2b9-6deb-463d-b43f-2668baa1de55"}
+"25249":{"nexusModName":"Angelic Potion","nexusUploadedBy":"cayssac","nexusModId":25249,"paks":[
+{"nexusFileName":"ANGELIC POTION","nexusFileVersion":"4","nexusFileUploadedAt":1790271817,"pakFileName":"ANGELIC WIND POTION.pak","nexusFileId":131327,"metaUuid":"9245c2b9-6deb-463d-b43f-2668baa1de55"},
+{"nexusFileName":"ANGELIC POTION - ALT STATUE","nexusFileVersion":"4","nexusFileUploadedAt":1790271890,"pakFileName":"ANGELIC WIND POTION - ALT.pak","nexusFileId":131328,"metaUuid":null}
 ]},
 "25250":{"nexusModName":"Bhaal's Forgotten Son - Dark Urge Lore Expansion - Deutsch","nexusUploadedBy":"Myndo","nexusModId":25250,"paks":[
 {"nexusFileName":"Bhaal's Forgotten Son - German Translation","nexusFileVersion":"1.1.3","nexusFileUploadedAt":1790193207,"pakFileName":"Bhaal's Forgotten Son - German Translation.pak","nexusFileId":131254,"metaUuid":null}
@@ -70460,7 +70461,7 @@
 "25255":{"nexusModName":"Rogues Extra - Traditional Chinese and Simplified Chinese Translation","nexusUploadedBy":"MaxStoKe","nexusModId":25255,"paks":[
 {"nexusFileName":"RoguesExtra CHT CHS","nexusFileVersion":"1.29","nexusFileUploadedAt":1790207459,"pakFileName":"RoguesExtra_CHT_CHSv2.pak","nexusFileId":131271,"metaUuid":null}
 ]},
-"25256":{"nexusModName":"Queen's Garments - Traditional Chinese and Simplified Chinese Translation.","nexusUploadedBy":"MaxStoKe","nexusModId":25256,"paks":[
+"25256":{"nexusModName":"Queen's Garments - Traditional Chinese and Simplified Chinese Translation","nexusUploadedBy":"MaxStoKe","nexusModId":25256,"paks":[
 {"nexusFileName":"QueensGarments CHT CHS","nexusFileVersion":"1.0.0.42","nexusFileUploadedAt":1790213725,"pakFileName":"QueensGarments_CHT_CHS.pak","nexusFileId":131276,"metaUuid":null}
 ]},
 "25257":{"nexusModName":"Persistent Disguise - Keep Disguise Self Through Long Rests and Cutscenes","nexusUploadedBy":"qhrals8","nexusModId":25257,"paks":[
@@ -70501,4 +70502,10 @@
 ]},
 "25275":{"nexusModName":"Oath of the Belmonts Paladin Subclass - PTBR 2026","nexusUploadedBy":"BarovZx","nexusModId":25275,"paks":[
 {"nexusFileName":"Oath Of The Belmonts PTBR","nexusFileVersion":"13.10.2025","nexusFileUploadedAt":1790266271,"pakFileName":"Oath Of The Belmonts PTBR.pak","nexusFileId":131317,"metaUuid":null}
+]},
+"25277":{"nexusModName":"If Fate Chose Differently - Wyll Pact Points Overhaul (WCU Mod 4) - Russian","nexusUploadedBy":"adsyde","nexusModId":25277,"paks":[
+{"nexusFileName":"IfFateChoseDifferently Russian V1.0.0.9","nexusFileVersion":"1.0.0.9","nexusFileUploadedAt":1790269892,"pakFileName":"IfFateChoseDifferently_Russian_v1.0.0.9.pak","nexusFileId":131323,"metaUuid":null}
+]},
+"25278":{"nexusModName":"Wind Ring CN translate","nexusUploadedBy":"fangyunchunzi","nexusModId":25278,"paks":[
+{"nexusFileName":"Wind Ring CN Translate","nexusFileVersion":"1","nexusFileUploadedAt":1790271275,"pakFileName":"Wind Ring.pak","nexusFileId":131325,"metaUuid":null}
 ]}}
