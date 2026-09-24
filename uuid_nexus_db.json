@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-09-24T00:52:25.731599+00:00","total_mods":17796},
+{"_meta":{"last_run":"2026-09-24T01:52:41.911768+00:00","total_mods":17798},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -70388,6 +70388,9 @@
 "25231":{"nexusModName":"Path of the Dreadwraith - PTBR (2026)","nexusUploadedBy":"BarovZx","nexusModId":25231,"paks":[
 {"nexusFileName":"Path Of The Wraith PTBR","nexusFileVersion":"05.11.2025","nexusFileUploadedAt":1790132067,"pakFileName":"Path of the Wraith PTBR.pak","nexusFileId":131196,"metaUuid":null}
 ]},
+"25232":{"nexusModName":"Oath of Excellence - The School of the Second Attempt","nexusUploadedBy":"Nevaty","nexusModId":25232,"paks":[
+{"nexusFileName":"Oath of Excellence","nexusFileVersion":"1.0.0.1","nexusFileUploadedAt":1790212104,"pakFileName":"excellence_68d43f80-8b9e-d4c1-144a-4f339b6393cc.pak","nexusFileId":131275,"metaUuid":null}
+]},
 "25233":{"nexusModName":"Wind ring","nexusUploadedBy":"justakidelcor","nexusModId":25233,"paks":[
 {"nexusFileName":"Wind Ring","nexusFileVersion":"1.1","nexusFileUploadedAt":1790166379,"pakFileName":"Wind Ring.pak","nexusFileId":131219,"metaUuid":"2fed4822-1b9f-4a55-81cb-69918401c817"}
 ]},
@@ -70456,4 +70459,7 @@
 ]},
 "25255":{"nexusModName":"Rogues Extra - Traditional Chinese and Simplified Chinese Translation","nexusUploadedBy":"MaxStoKe","nexusModId":25255,"paks":[
 {"nexusFileName":"RoguesExtra CHT CHS","nexusFileVersion":"1.29","nexusFileUploadedAt":1790207459,"pakFileName":"RoguesExtra_CHT_CHSv2.pak","nexusFileId":131271,"metaUuid":null}
+]},
+"25256":{"nexusModName":"Queen's Garments - Traditional Chinese and Simplified Chinese Translation.","nexusUploadedBy":"MaxStoKe","nexusModId":25256,"paks":[
+{"nexusFileName":"QueensGarments CHT CHS","nexusFileVersion":"1.0.0.42","nexusFileUploadedAt":1790213725,"pakFileName":"QueensGarments_CHT_CHS.pak","nexusFileId":131276,"metaUuid":null}
 ]}}
