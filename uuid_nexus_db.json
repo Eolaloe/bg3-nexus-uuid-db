@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-09-24T09:52:23.413058+00:00","total_mods":17799},
+{"_meta":{"last_run":"2026-09-24T10:53:08.827137+00:00","total_mods":17799},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -26649,10 +26649,10 @@
 "9095":{"nexusModName":"DIQ Patches - Treasure Tables and More","nexusUploadedBy":"BaldursGoonsack","nexusModId":9095,"paks":[
 {"nexusFileName":"No Cosmetics Patch","nexusFileVersion":"1.4.8.0","nexusFileUploadedAt":1787405214,"pakFileName":"DIQ Patches - Treasure Tables and More - No Cosmetics Patch.pak","nexusFileId":128695,"metaUuid":"dcf7b848-b0c2-4610-9572-9fb1251c2943"},
 {"nexusFileName":"Minthara Less Magic Items Patch","nexusFileVersion":"1.4.8.1","nexusFileUploadedAt":1788689856,"pakFileName":"DIQ Starting Equipment - Minthara Less Magic Items Patch.pak","nexusFileId":129856,"metaUuid":"ef0fa286-f414-4623-a74a-f54a94f457a1"},
-{"nexusFileName":"DIQ Starting Equipment","nexusFileVersion":"1.4.8.1","nexusFileUploadedAt":1788689876,"pakFileName":"DIQ Starting Equipment.pak","nexusFileId":129857,"metaUuid":"719a427f-93f9-46ce-b5c8-9a9201112a52"},
 {"nexusFileName":"DIQ Clothing Patches","nexusFileVersion":"1.4.8.1","nexusFileUploadedAt":1788689892,"pakFileName":"DIQ Clothing Patches.pak","nexusFileId":129858,"metaUuid":"0a4b83d3-d7cc-4fd9-a7d9-eef91aff1b78"},
 {"nexusFileName":"DIQ Miscellaneous Item Patches","nexusFileVersion":"1.4.8.2","nexusFileUploadedAt":1789121819,"pakFileName":"DIQ Miscellaneous Item Patches.pak","nexusFileId":130268,"metaUuid":"59f3141a-b60d-46e8-b0d0-dfc49166d698"},
-{"nexusFileName":"DIQ Patches - Treasure Tables and More","nexusFileVersion":"1.4.8.3","nexusFileUploadedAt":1789235152,"pakFileName":"DIQ Patches - Treasure Tables and More.pak","nexusFileId":130377,"metaUuid":"54362e18-d28c-4f97-9000-aea2414e4579"}
+{"nexusFileName":"DIQ Patches - Treasure Tables and More","nexusFileVersion":"1.4.8.3","nexusFileUploadedAt":1789235152,"pakFileName":"DIQ Patches - Treasure Tables and More.pak","nexusFileId":130377,"metaUuid":"54362e18-d28c-4f97-9000-aea2414e4579"},
+{"nexusFileName":"DIQ Starting Equipment","nexusFileVersion":"1.4.8.4","nexusFileUploadedAt":1790243695,"pakFileName":"DIQ Starting Equipment.pak","nexusFileId":131285,"metaUuid":"719a427f-93f9-46ce-b5c8-9a9201112a52"}
 ]},
 "9096":{"nexusModName":"Bonus Action Recast","nexusUploadedBy":"Awesomepotamus","nexusModId":9096,"paks":[
 {"nexusFileName":"Bonus Action Recast","nexusFileVersion":"1.0","nexusFileUploadedAt":1714458828,"pakFileName":"BonusActionRecast.pak","nexusFileId":55389,"metaUuid":"c7935eef-7ffa-46a7-abd2-c4ed0e16621f"}
@@ -70387,7 +70387,7 @@
 {"nexusFileName":"Path Of The Wraith PTBR","nexusFileVersion":"05.11.2025","nexusFileUploadedAt":1790132067,"pakFileName":"Path of the Wraith PTBR.pak","nexusFileId":131196,"metaUuid":null}
 ]},
 "25232":{"nexusModName":"Oath of Excellence - The School of the Second Attempt","nexusUploadedBy":"Nevaty","nexusModId":25232,"paks":[
-{"nexusFileName":"Oath of Excellence","nexusFileVersion":"1.0.0.2","nexusFileUploadedAt":1790214840,"pakFileName":"excellence_68d43f80-8b9e-d4c1-144a-4f339b6393cc.pak","nexusFileId":131277,"metaUuid":null}
+{"nexusFileName":"Oath of Excellence","nexusFileVersion":"1.0.0.3","nexusFileUploadedAt":1790246995,"pakFileName":"excellence_68d43f80-8b9e-d4c1-144a-4f339b6393cc.pak","nexusFileId":131289,"metaUuid":null}
 ]},
 "25233":{"nexusModName":"Wind ring","nexusUploadedBy":"justakidelcor","nexusModId":25233,"paks":[
 {"nexusFileName":"Wind Ring","nexusFileVersion":"1.1","nexusFileUploadedAt":1790166379,"pakFileName":"Wind Ring.pak","nexusFileId":131219,"metaUuid":"2fed4822-1b9f-4a55-81cb-69918401c817"}
@@ -70396,7 +70396,7 @@
 {"nexusFileName":"Ilzkaals Elves","nexusFileVersion":"1.0.0.27","nexusFileUploadedAt":1790180597,"pakFileName":"ilzkaals_elves.pak","nexusFileId":131237,"metaUuid":null}
 ]},
 "25235":{"nexusModName":"Magus Selectus - Gale Edit","nexusUploadedBy":"SweetGenerousThing","nexusModId":25235,"paks":[
-{"nexusFileName":"SGT_Magus Selectus - Gale Edit","nexusFileVersion":"1","nexusFileUploadedAt":1790168298,"pakFileName":"SGT_GaleEdit_2b2df18b-ad91-79fb-882c-2c1813f0a313.pak","nexusFileId":131221,"metaUuid":null},
+{"nexusFileName":"SGT_Magus Selectus - Gale Edit","nexusFileVersion":"1","nexusFileUploadedAt":1790168298,"pakFileName":"SGT_GaleEdit_2b2df18b-ad91-79fb-882c-2c1813f0a313.pak","nexusFileId":131221,"metaUuid":"2b2df18b-ad91-79fb-882c-2c1813f0a313"},
 {"nexusFileName":"SGT_Magus Selectus - Gale Portrait","nexusFileVersion":"1","nexusFileUploadedAt":1790168325,"pakFileName":"SGT_Magus Selectus - Gale Portrait.pak","nexusFileId":131222,"metaUuid":"7d1b4c36-50e6-460a-9246-a916ac1473ca"},
 {"nexusFileName":"SGT_Magus Selectus - Vanilla Hair","nexusFileVersion":"1","nexusFileUploadedAt":1790168450,"pakFileName":"SGT_GaleEdit_2b2df18b-ad91-79fb-882c-2c1813f0a313.pak","nexusFileId":131223,"metaUuid":"2b2df18b-ad91-79fb-882c-2c1813f0a313"},
 {"nexusFileName":"SGT_Magus Selectus - Hair Only","nexusFileVersion":"1","nexusFileUploadedAt":1790168486,"pakFileName":"SGT_GaleEdit_HairOnly_461bd123-f0e3-1aa4-7df5-e7324233874a.pak","nexusFileId":131224,"metaUuid":null}
