@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-09-24T14:52:20.994360+00:00","total_mods":17806},
+{"_meta":{"last_run":"2026-09-24T15:52:23.305324+00:00","total_mods":17808},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -69169,8 +69169,8 @@
 {"nexusFileName":"GenitalSelectionMenu With KaiLimeUI","nexusFileVersion":"1.0.1.4","nexusFileUploadedAt":1788975306,"pakFileName":"GenitalSelectionMenu_With_KaiLimeUI.pak","nexusFileId":130118,"metaUuid":"f8d4326f-99cb-4883-a327-cbf971fce6ad"},
 {"nexusFileName":"HybridUI With GenitalselectionMenu","nexusFileVersion":"1.0.1.4","nexusFileUploadedAt":1789068463,"pakFileName":"HybridUI_with_GenitalSelectionMenu_09160ae2-b55a-9c6e-b992-be88ea543708.pak","nexusFileId":130200,"metaUuid":"09160ae2-b55a-9c6e-b992-be88ea543708"},
 {"nexusFileName":"Genital Icon Photobooth","nexusFileVersion":"1.1","nexusFileUploadedAt":1789305915,"pakFileName":"GenitalIconPhotobooth_6b354df6-2fa3-6f52-2e9d-67da5a9e4dce.pak","nexusFileId":130446,"metaUuid":null},
-{"nexusFileName":"GenitalSelectionMenu With UnofficialPlusUI","nexusFileVersion":"1.0.1.4","nexusFileUploadedAt":1789713022,"pakFileName":"GenitalSelectionMenu_With_UnofficialPlusUI.pak","nexusFileId":130775,"metaUuid":null},
-{"nexusFileName":"GenitalSelectionMenu With YetAnotherUI","nexusFileVersion":"1.0.2.0","nexusFileUploadedAt":1789860544,"pakFileName":"GenitalSelectionMenu_With_YetAnotherUI.pak","nexusFileId":130936,"metaUuid":null}
+{"nexusFileName":"GenitalSelectionMenu With YetAnotherUI","nexusFileVersion":"1.0.2.0","nexusFileUploadedAt":1789860544,"pakFileName":"GenitalSelectionMenu_With_YetAnotherUI.pak","nexusFileId":130936,"metaUuid":null},
+{"nexusFileName":"GenitalSelectionMenu With UnofficialPlusUI","nexusFileVersion":"1.0.1.5","nexusFileUploadedAt":1790263057,"pakFileName":"GenitalSelectionMenu_With_UnofficialPlusUI.pak","nexusFileId":131314,"metaUuid":null}
 ]},
 "24718":{"nexusModName":"Mizora Joins the Party (Russian Localization)","nexusUploadedBy":"ganeuken","nexusModId":24718,"paks":[
 {"nexusFileName":"Mizora Joins The Party (Russian Localization)","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1788154790,"pakFileName":"MizoraJoinsTheParty_RU.pak","nexusFileId":129415,"metaUuid":null}
@@ -70057,7 +70057,7 @@
 {"nexusFileName":"OathOfTheOpenSea CHT CHS V2","nexusFileVersion":"1.1.0.6","nexusFileUploadedAt":1789668308,"pakFileName":"OathOfTheOpenSea_CHT_CHS_v2.pak","nexusFileId":130744,"metaUuid":null}
 ]},
 "25088":{"nexusModName":"Act Two Expansion - Custom Campaign for Korean","nexusUploadedBy":"Eolaloe","nexusModId":25088,"paks":[
-{"nexusFileName":"Act Two Expansion - Custom Campaign for Korean","nexusFileVersion":"0.8.1","nexusFileUploadedAt":1790244550,"pakFileName":"ActTwoExpansion_kr.pak","nexusFileId":131287,"metaUuid":"6fb95b94-b0ce-45ef-97a3-274b410706c9"}
+{"nexusFileName":"Act Two Expansion - Custom Campaign for Korean","nexusFileVersion":"0.8.0.5","nexusFileUploadedAt":1790263614,"pakFileName":"ActTwoExpansion_kr.pak","nexusFileId":131315,"metaUuid":"6fb95b94-b0ce-45ef-97a3-274b410706c9"}
 ]},
 "25090":{"nexusModName":"Faith and Fortitude - Cleric Equipment - Russian Translation 1.0.0.23","nexusUploadedBy":"SNKmod777","nexusModId":25090,"paks":[
 {"nexusFileName":"FF Cleric Equipment RU","nexusFileVersion":"1.0.0.6","nexusFileUploadedAt":1789676805,"pakFileName":"FF_Cleric_Equipment_RU.pak","nexusFileId":130751,"metaUuid":null}
@@ -70467,11 +70467,17 @@
 "25260":{"nexusModName":"UnlockLevelCurve - Level 13-20 I PATCH 8 - Deutsch","nexusUploadedBy":"Myndo","nexusModId":25260,"paks":[
 {"nexusFileName":"UnlockLevelCurve  - GermanTranslation","nexusFileVersion":"2.0.0.27","nexusFileUploadedAt":1790254825,"pakFileName":"UnlockLevelCurve - GermanTranslation.pak","nexusFileId":131298,"metaUuid":null}
 ]},
+"25261":{"nexusModName":"5e Cleric Subclasses Combined - Deutsch","nexusUploadedBy":"Myndo","nexusModId":25261,"paks":[
+{"nexusFileName":"5e Cleric Subclasses Combined - German Translation","nexusFileVersion":"1.6.2.2","nexusFileUploadedAt":1790255224,"pakFileName":"5e Cleric Subclasses Combined - German Translation.pak","nexusFileId":131299,"metaUuid":null}
+]},
 "25262":{"nexusModName":"5e Monk Subclasses Combined - Deutsch","nexusUploadedBy":"Myndo","nexusModId":25262,"paks":[
 {"nexusFileName":"5e Monk Subclasses Combined   German Translation","nexusFileVersion":"1.0.6","nexusFileUploadedAt":1790255663,"pakFileName":"5e Monk Subclasses Combined - German Translation.pak","nexusFileId":131301,"metaUuid":null}
 ]},
 "25263":{"nexusModName":"DawnstarsPsychicWeaponsCHS","nexusUploadedBy":"asdfasdgSadfSDF","nexusModId":25263,"paks":[
 {"nexusFileName":"DawnstarsPsychicWeaponsCHS","nexusFileVersion":"1","nexusFileUploadedAt":1790256416,"pakFileName":"DawnstarsPsychicWeaponsCHS.pak","nexusFileId":131303,"metaUuid":null}
+]},
+"25264":{"nexusModName":"5e Barbarian Subclasses Combined - Deutsch","nexusUploadedBy":"Myndo","nexusModId":25264,"paks":[
+{"nexusFileName":"5e Barbarian Subclasses Combined - Deutsch","nexusFileVersion":"1.1.10","nexusFileUploadedAt":1790256401,"pakFileName":"5e Barbarian Subclasses Combined - German Translation.pak","nexusFileId":131302,"metaUuid":null}
 ]},
 "25268":{"nexusModName":"Better body skin for all V2.0","nexusUploadedBy":"Daryelll","nexusModId":25268,"paks":[
 {"nexusFileName":"Smooth Skin 20260815","nexusFileVersion":"2.0","nexusFileUploadedAt":1790257841,"pakFileName":"Smooth_skin_20260815_247dfb00-7124-141b-3646-0046fd613c5b.pak","nexusFileId":131307,"metaUuid":null}
