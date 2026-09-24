@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-09-24T18:52:39.420349+00:00","total_mods":17816},
+{"_meta":{"last_run":"2026-09-24T19:52:37.203650+00:00","total_mods":17819},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -59890,7 +59890,7 @@
 {"nexusFileName":"Vision-Bearer","nexusFileVersion":"1.0.0.3","nexusFileUploadedAt":1770331634,"pakFileName":"Genshin_346c96f3-7a84-d626-95e3-990a44a41bd9.pak","nexusFileId":114206,"metaUuid":"346c96f3-7a84-d626-95e3-990a44a41bd9"}
 ]},
 "21320":{"nexusModName":"Sticky Temporaries (Radial Hotbar)","nexusUploadedBy":"CosmicBovine","nexusModId":21320,"paks":[
-{"nexusFileName":"Sticky Temporaries","nexusFileVersion":"2","nexusFileUploadedAt":1787268068,"pakFileName":"Sticky Temps.pak","nexusFileId":128584,"metaUuid":"8666d5bb-1241-42ce-bf12-6938913e1157"}
+{"nexusFileName":"Sticky Temporaries","nexusFileVersion":"3","nexusFileUploadedAt":1790276106,"pakFileName":"Sticky Temps.pak","nexusFileId":131338,"metaUuid":"8666d5bb-1241-42ce-bf12-6938913e1157"}
 ]},
 "21321":{"nexusModName":"Veiled Votary - A Divine Themed Rogue Subclass","nexusUploadedBy":"Saethos","nexusModId":21321,"paks":[
 {"nexusFileName":"Veiled Votary","nexusFileVersion":"1.0.0.19","nexusFileUploadedAt":1790272940,"pakFileName":"HolyRogueSubclass_e2fa05a5-4084-9442-47b4-bb6bc88685bb.pak","nexusFileId":131332,"metaUuid":"e2fa05a5-4084-9442-47b4-bb6bc88685bb"}
@@ -70135,6 +70135,9 @@
 "25118":{"nexusModName":"Volitio's Partial Respec for Japanese","nexusUploadedBy":"Eolaloe","nexusModId":25118,"paks":[
 {"nexusFileName":"Partial Respec for Japanese","nexusFileVersion":"1.0.1","nexusFileUploadedAt":1789796032,"pakFileName":"Partial Respec_jp.pak","nexusFileId":130858,"metaUuid":null}
 ]},
+"25119":{"nexusModName":"Wearable Vanilla Rings and Amulets","nexusUploadedBy":"BittenThrice","nexusModId":25119,"paks":[
+{"nexusFileName":"VanillaTreasureWearable","nexusFileVersion":"1.0.17","nexusFileUploadedAt":1790273211,"pakFileName":"VanillaTreasureWearable_f49183d1-9d09-57c2-c48c-007269b1b424.pak","nexusFileId":131333,"metaUuid":null}
+]},
 "25120":{"nexusModName":"Nioh - Mumyo and Tokichiro's wardrobe","nexusUploadedBy":"Bububull","nexusModId":25120,"paks":[
 {"nexusFileName":"Nioh - Mumyo and Tokichiro's wardrobe","nexusFileVersion":"1","nexusFileUploadedAt":1790191261,"pakFileName":"Nioh_ports.pak","nexusFileId":131250,"metaUuid":"53faea7e-09dd-4acb-98fb-066c43a4b5e8"}
 ]},
@@ -70506,6 +70509,9 @@
 "25275":{"nexusModName":"Oath of the Belmonts Paladin Subclass - PTBR 2026","nexusUploadedBy":"BarovZx","nexusModId":25275,"paks":[
 {"nexusFileName":"Oath Of The Belmonts PTBR","nexusFileVersion":"13.10.2025","nexusFileUploadedAt":1790266271,"pakFileName":"Oath Of The Belmonts PTBR.pak","nexusFileId":131317,"metaUuid":null}
 ]},
+"25276":{"nexusModName":"Companion Swap","nexusUploadedBy":"Sukibi","nexusModId":25276,"paks":[
+{"nexusFileName":"Companion Swap","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1790275992,"pakFileName":"Companion_Swap_v1.0.0.pak","nexusFileId":131337,"metaUuid":null}
+]},
 "25277":{"nexusModName":"If Fate Chose Differently - Wyll Pact Points Overhaul (WCU Mod 4) - Russian","nexusUploadedBy":"adsyde","nexusModId":25277,"paks":[
 {"nexusFileName":"IfFateChoseDifferently Russian V1.0.0.9","nexusFileVersion":"1.0.0.9","nexusFileUploadedAt":1790269892,"pakFileName":"IfFateChoseDifferently_Russian_v1.0.0.9.pak","nexusFileId":131323,"metaUuid":null}
 ]},
@@ -70517,4 +70523,7 @@
 ]},
 "25280":{"nexusModName":"Prismortalis - A Dark-Fantasy Spellblade-CHS_CHT","nexusUploadedBy":"AgleafSdan","nexusModId":25280,"paks":[
 {"nexusFileName":"Prismortalis   A Dark Fantasy Spellblade CHS_CHT","nexusFileVersion":"1","nexusFileUploadedAt":1790275015,"pakFileName":"Prismortalis - A Dark-Fantasy Spellblade-CHS&CHT.pak","nexusFileId":131334,"metaUuid":null}
+]},
+"25281":{"nexusModName":"Runesmith - A Pathfinder Inspired Class","nexusUploadedBy":"SuperVertigo","nexusModId":25281,"paks":[
+{"nexusFileName":"Runesmith - A Pathfinder Inspired Class","nexusFileVersion":"1","nexusFileUploadedAt":1790277708,"pakFileName":"Runesmith_19c1b7d8-2f1a-f7f8-bd5c-547f750605f3.pak","nexusFileId":131339,"metaUuid":null}
 ]}}
