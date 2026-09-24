@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-09-24T17:52:50.270936+00:00","total_mods":17813},
+{"_meta":{"last_run":"2026-09-24T18:52:39.420349+00:00","total_mods":17816},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -59893,7 +59893,7 @@
 {"nexusFileName":"Sticky Temporaries","nexusFileVersion":"2","nexusFileUploadedAt":1787268068,"pakFileName":"Sticky Temps.pak","nexusFileId":128584,"metaUuid":"8666d5bb-1241-42ce-bf12-6938913e1157"}
 ]},
 "21321":{"nexusModName":"Veiled Votary - A Divine Themed Rogue Subclass","nexusUploadedBy":"Saethos","nexusModId":21321,"paks":[
-{"nexusFileName":"Veiled Votary","nexusFileVersion":"1.0.0.18","nexusFileUploadedAt":1786224406,"pakFileName":"HolyRogueSubclass_e2fa05a5-4084-9442-47b4-bb6bc88685bb.pak","nexusFileId":127637,"metaUuid":"e2fa05a5-4084-9442-47b4-bb6bc88685bb"}
+{"nexusFileName":"Veiled Votary","nexusFileVersion":"1.0.0.19","nexusFileUploadedAt":1790272940,"pakFileName":"HolyRogueSubclass_e2fa05a5-4084-9442-47b4-bb6bc88685bb.pak","nexusFileId":131332,"metaUuid":"e2fa05a5-4084-9442-47b4-bb6bc88685bb"}
 ]},
 "21322":{"nexusModName":"K-Pop Poses (Bard Poses Part 1)","nexusUploadedBy":"HastursQueen","nexusModId":21322,"paks":[
 {"nexusFileName":"K-Pop Poses","nexusFileVersion":"1.0.0.4","nexusFileUploadedAt":1778251596,"pakFileName":"K-PopPoses.pak","nexusFileId":120745,"metaUuid":"61442745-8ae6-ec0a-6198-6795378f7e38"}
@@ -70485,11 +70485,14 @@
 "25265":{"nexusModName":"5e Ranger Subclasses Combined - Deutsch","nexusUploadedBy":"Myndo","nexusModId":25265,"paks":[
 {"nexusFileName":"5e Ranger Subclasses Combined - German Translation","nexusFileVersion":"2.0.1.1","nexusFileUploadedAt":1790256840,"pakFileName":"5e Ranger Subclasses Combined - German Translation.pak","nexusFileId":131304,"metaUuid":null}
 ]},
+"25267":{"nexusModName":"5e Fighter Subclasses Combined - Deutsch","nexusUploadedBy":"Myndo","nexusModId":25267,"paks":[
+{"nexusFileName":"5e Fighter Subclasses Combined - Deutsch","nexusFileVersion":"1.1.9.3","nexusFileUploadedAt":1790257348,"pakFileName":"5e Fighter Subclasses Combined - German Translation.pak","nexusFileId":131305,"metaUuid":null}
+]},
 "25268":{"nexusModName":"Better body skin for all V2.0","nexusUploadedBy":"Daryelll","nexusModId":25268,"paks":[
 {"nexusFileName":"Smooth Skin 20260815","nexusFileVersion":"2.0","nexusFileUploadedAt":1790257841,"pakFileName":"Smooth_skin_20260815_247dfb00-7124-141b-3646-0046fd613c5b.pak","nexusFileId":131307,"metaUuid":null}
 ]},
 "25269":{"nexusModName":"Necromancer Overhaul - Undead Legion and Death Shepherd","nexusUploadedBy":"qhrals8","nexusModId":25269,"paks":[
-{"nexusFileName":"NecromancerOverhaul","nexusFileVersion":"2","nexusFileUploadedAt":1790259220,"pakFileName":"NecromancerOverhaul.pak","nexusFileId":131310,"metaUuid":null}
+{"nexusFileName":"NecromancerOverhaul","nexusFileVersion":"3","nexusFileUploadedAt":1790275825,"pakFileName":"NecromancerOverhaul1.2.pak","nexusFileId":131336,"metaUuid":null}
 ]},
 "25270":{"nexusModName":"Wolpertinger Summon","nexusUploadedBy":"FluffySpider","nexusModId":25270,"paks":[
 {"nexusFileName":"Wolpertinger Summon","nexusFileVersion":"1","nexusFileUploadedAt":1790260501,"pakFileName":"Wolpertinger_Summon.pak","nexusFileId":131311,"metaUuid":null}
@@ -70498,7 +70501,7 @@
 {"nexusFileName":"ArcaneForgeCHS","nexusFileVersion":"1","nexusFileUploadedAt":1790261074,"pakFileName":"ArcaneForge.pak","nexusFileId":131312,"metaUuid":null}
 ]},
 "25272":{"nexusModName":"After Hours Suit","nexusUploadedBy":"ObsessedWhyYes","nexusModId":25272,"paks":[
-{"nexusFileName":"OWY After Hours Suit","nexusFileVersion":"2","nexusFileUploadedAt":1790268286,"pakFileName":"OWYDoesOutfits_AfterHoursSuit_230732d5-1dce-32c5-d5f5-e686cd363c47.pak","nexusFileId":131319,"metaUuid":null}
+{"nexusFileName":"OWY After Hours Suit","nexusFileVersion":"3","nexusFileUploadedAt":1790272416,"pakFileName":"OWYDoesOutfits_AfterHoursSuit_230732d5-1dce-32c5-d5f5-e686cd363c47.pak","nexusFileId":131331,"metaUuid":null}
 ]},
 "25275":{"nexusModName":"Oath of the Belmonts Paladin Subclass - PTBR 2026","nexusUploadedBy":"BarovZx","nexusModId":25275,"paks":[
 {"nexusFileName":"Oath Of The Belmonts PTBR","nexusFileVersion":"13.10.2025","nexusFileUploadedAt":1790266271,"pakFileName":"Oath Of The Belmonts PTBR.pak","nexusFileId":131317,"metaUuid":null}
@@ -70508,4 +70511,10 @@
 ]},
 "25278":{"nexusModName":"Wind Ring CN translate","nexusUploadedBy":"fangyunchunzi","nexusModId":25278,"paks":[
 {"nexusFileName":"Wind Ring CN Translate","nexusFileVersion":"1","nexusFileUploadedAt":1790271275,"pakFileName":"Wind Ring.pak","nexusFileId":131325,"metaUuid":null}
+]},
+"25279":{"nexusModName":"Eternal Queen Set - Traditional Chinese and Simplified Chinese Translation","nexusUploadedBy":"MaxStoKe","nexusModId":25279,"paks":[
+{"nexusFileName":"EternalQueenSet CHT CHS","nexusFileVersion":"1.0.0.9","nexusFileUploadedAt":1790272156,"pakFileName":"EternalQueenSet_CHT_CHS.pak","nexusFileId":131330,"metaUuid":null}
+]},
+"25280":{"nexusModName":"Prismortalis - A Dark-Fantasy Spellblade-CHS_CHT","nexusUploadedBy":"AgleafSdan","nexusModId":25280,"paks":[
+{"nexusFileName":"Prismortalis   A Dark Fantasy Spellblade CHS_CHT","nexusFileVersion":"1","nexusFileUploadedAt":1790275015,"pakFileName":"Prismortalis - A Dark-Fantasy Spellblade-CHS&CHT.pak","nexusFileId":131334,"metaUuid":null}
 ]}}
