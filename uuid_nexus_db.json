@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-09-24T13:51:59.865316+00:00","total_mods":17801},
+{"_meta":{"last_run":"2026-09-24T14:52:20.994360+00:00","total_mods":17806},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -40435,7 +40435,7 @@
 {"nexusFileName":"PushingPpose","nexusFileVersion":"daniela","nexusFileUploadedAt":1776178849,"pakFileName":"pushingPpose.pak","nexusFileId":118961,"metaUuid":"0d6d6972-2dbe-9d97-6883-f8b2d206e0e2"},
 {"nexusFileName":"Gobos and garbage","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1787161306,"pakFileName":"LightyLights_Gobos.pak","nexusFileId":128474,"metaUuid":"0231f0ea-5af8-26bf-9e8a-6ab6618c7b3b"},
 {"nexusFileName":"Light Probes Pak","nexusFileVersion":"1.0.1","nexusFileUploadedAt":1789484819,"pakFileName":"LightProbes.pak","nexusFileId":130588,"metaUuid":"4765f70f-3faa-4ec2-9c1c-24fea6fca0fa"},
-{"nexusFileName":"Dani Lighty Lights","nexusFileVersion":"1.11.0","nexusFileUploadedAt":1789666787,"pakFileName":"LighterLightyLights_6aa50183-bce4-576e-749f-3a2c60233b09.pak","nexusFileId":130743,"metaUuid":"6aa50183-bce4-576e-749f-3a2c60233b09"}
+{"nexusFileName":"Dani Lighty Lights","nexusFileVersion":"1.12.0","nexusFileUploadedAt":1790258540,"pakFileName":"LighterLightyLights_6aa50183-bce4-576e-749f-3a2c60233b09.pak","nexusFileId":131309,"metaUuid":"6aa50183-bce4-576e-749f-3a2c60233b09"}
 ]},
 "14365":{"nexusModName":"Deepspace Collection - vol. 1","nexusUploadedBy":"OneEyeAskew","nexusModId":14365,"paks":[
 {"nexusFileName":"Deepspace Collection - vol. 1","nexusFileVersion":"1.0.1","nexusFileUploadedAt":1735068058,"pakFileName":"LaDsv1.pak","nexusFileId":82678,"metaUuid":"215234f9-bc28-44a1-b2dc-fce03181a9ec"}
@@ -70467,6 +70467,21 @@
 "25260":{"nexusModName":"UnlockLevelCurve - Level 13-20 I PATCH 8 - Deutsch","nexusUploadedBy":"Myndo","nexusModId":25260,"paks":[
 {"nexusFileName":"UnlockLevelCurve  - GermanTranslation","nexusFileVersion":"2.0.0.27","nexusFileUploadedAt":1790254825,"pakFileName":"UnlockLevelCurve - GermanTranslation.pak","nexusFileId":131298,"metaUuid":null}
 ]},
+"25262":{"nexusModName":"5e Monk Subclasses Combined - Deutsch","nexusUploadedBy":"Myndo","nexusModId":25262,"paks":[
+{"nexusFileName":"5e Monk Subclasses Combined   German Translation","nexusFileVersion":"1.0.6","nexusFileUploadedAt":1790255663,"pakFileName":"5e Monk Subclasses Combined - German Translation.pak","nexusFileId":131301,"metaUuid":null}
+]},
 "25263":{"nexusModName":"DawnstarsPsychicWeaponsCHS","nexusUploadedBy":"asdfasdgSadfSDF","nexusModId":25263,"paks":[
 {"nexusFileName":"DawnstarsPsychicWeaponsCHS","nexusFileVersion":"1","nexusFileUploadedAt":1790256416,"pakFileName":"DawnstarsPsychicWeaponsCHS.pak","nexusFileId":131303,"metaUuid":null}
+]},
+"25268":{"nexusModName":"Better body skin for all V2.0","nexusUploadedBy":"Daryelll","nexusModId":25268,"paks":[
+{"nexusFileName":"Smooth Skin 20260815","nexusFileVersion":"2.0","nexusFileUploadedAt":1790257841,"pakFileName":"Smooth_skin_20260815_247dfb00-7124-141b-3646-0046fd613c5b.pak","nexusFileId":131307,"metaUuid":null}
+]},
+"25269":{"nexusModName":"Necromancer Overhaul - Undead Legion and Death Shepherd","nexusUploadedBy":"qhrals8","nexusModId":25269,"paks":[
+{"nexusFileName":"NecromancerOverhaul","nexusFileVersion":"2","nexusFileUploadedAt":1790259220,"pakFileName":"NecromancerOverhaul.pak","nexusFileId":131310,"metaUuid":null}
+]},
+"25270":{"nexusModName":"Wolpertinger Summon","nexusUploadedBy":"FluffySpider","nexusModId":25270,"paks":[
+{"nexusFileName":"Wolpertinger Summon","nexusFileVersion":"1","nexusFileUploadedAt":1790260501,"pakFileName":"Wolpertinger_Summon.pak","nexusFileId":131311,"metaUuid":null}
+]},
+"25271":{"nexusModName":"Noxx's Arcane Forge Chinese Translation","nexusUploadedBy":"dama10032","nexusModId":25271,"paks":[
+{"nexusFileName":"ArcaneForgeCHS","nexusFileVersion":"1","nexusFileUploadedAt":1790261074,"pakFileName":"ArcaneForge.pak","nexusFileId":131312,"metaUuid":null}
 ]}}
