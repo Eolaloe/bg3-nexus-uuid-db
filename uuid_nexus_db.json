@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-09-25T18:51:46.562206+00:00","total_mods":17832},
+{"_meta":{"last_run":"2026-09-25T19:51:48.860244+00:00","total_mods":17833},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -19407,9 +19407,9 @@
 {"nexusFileName":"Mage Hand Support","nexusFileVersion":"1.4.2","nexusFileUploadedAt":1779013468,"pakFileName":"DFindFamiliarMageHand.pak","nexusFileId":121426,"metaUuid":"abf8cbc8-2f23-485e-950c-a883e188bf8c"}
 ]},
 "6152":{"nexusModName":"New CC Head Presets","nexusUploadedBy":"PseudoKociara","nexusModId":6152,"paks":[
-{"nexusFileName":"New CC Head Presets EotB","nexusFileVersion":"1.2","nexusFileUploadedAt":1709319031,"pakFileName":"PseudoKociaras'_Heads.pak","nexusFileId":47519,"metaUuid":null},
-{"nexusFileName":"New CC Head Presets uTav","nexusFileVersion":"1.2","nexusFileUploadedAt":1709319883,"pakFileName":"PseudoKociaras'_Heads.pak","nexusFileId":47525,"metaUuid":null},
-{"nexusFileName":"New CC Head Presets EotB nad uTav","nexusFileVersion":"1.2","nexusFileUploadedAt":1709319887,"pakFileName":"PseudoKociaras'_Heads.pak","nexusFileId":47526,"metaUuid":null},
+{"nexusFileName":"New CC Head Presets EotB","nexusFileVersion":"1.2","nexusFileUploadedAt":1709319031,"pakFileName":"PseudoKociaras'_Heads.pak","nexusFileId":47519,"metaUuid":"41624948-bc1f-44ff-a932-4ce1cc0fc309"},
+{"nexusFileName":"New CC Head Presets uTav","nexusFileVersion":"1.2","nexusFileUploadedAt":1709319883,"pakFileName":"PseudoKociaras'_Heads.pak","nexusFileId":47525,"metaUuid":"41624948-bc1f-44ff-a932-4ce1cc0fc309"},
+{"nexusFileName":"New CC Head Presets EotB nad uTav","nexusFileVersion":"1.2","nexusFileUploadedAt":1709319887,"pakFileName":"PseudoKociaras'_Heads.pak","nexusFileId":47526,"metaUuid":"41624948-bc1f-44ff-a932-4ce1cc0fc309"},
 {"nexusFileName":"New CC Head Presets","nexusFileVersion":"1.2","nexusFileUploadedAt":1709319890,"pakFileName":"PseudoKociaras'_Heads.pak","nexusFileId":47527,"metaUuid":"41624948-bc1f-44ff-a932-4ce1cc0fc309"}
 ]},
 "6154":{"nexusModName":"Slayer Class Redux","nexusUploadedBy":"JaegerHD","nexusModId":6154,"paks":[
@@ -66757,7 +66757,7 @@
 {"nexusFileName":"CorrectCounterspell","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1784063682,"pakFileName":"CorrectCounterspell_3d1b5440-1bf1-45c1-4530-097ca976bf6f.pak","nexusFileId":125655,"metaUuid":"3d1b5440-1bf1-45c1-4530-097ca976bf6f"}
 ]},
 "23881":{"nexusModName":"Best of Hands - Quick Lockpick and Disarm","nexusUploadedBy":"nymphipoo","nexusModId":23881,"paks":[
-{"nexusFileName":"Best of Hands - Quick Lockpick and Disarm","nexusFileVersion":"2.2.0","nexusFileUploadedAt":1787029863,"pakFileName":"BestofHands.pak","nexusFileId":128339,"metaUuid":"8a82593c-28a3-4ed1-8c46-3d9bacff42e1"}
+{"nexusFileName":"Best of Hands - Quick Lockpick and Disarm","nexusFileVersion":"2.3.0","nexusFileUploadedAt":1790363695,"pakFileName":"BestofHands.pak","nexusFileId":131399,"metaUuid":"8a82593c-28a3-4ed1-8c46-3d9bacff42e1"}
 ]},
 "23883":{"nexusModName":"Dynamic Permanent Summons","nexusUploadedBy":"actualsailorcat","nexusModId":23883,"paks":[
 {"nexusFileName":"Dynamic Permanent Summons","nexusFileVersion":"1.00.01","nexusFileUploadedAt":1784135441,"pakFileName":"Dynamic Permanent Summons.pak","nexusFileId":125728,"metaUuid":"e9a6d786-ee7b-4bb1-8122-3783f192ac75"}
@@ -69999,7 +69999,7 @@
 {"nexusFileName":"Chaomofeats","nexusFileVersion":"6","nexusFileUploadedAt":1789751168,"pakFileName":"chaomofeats.pak","nexusFileId":130811,"metaUuid":null}
 ]},
 "25067":{"nexusModName":"The Crowded Campfire","nexusUploadedBy":"Sai","nexusModId":25067,"paks":[
-{"nexusFileName":"The Crowded Campfire","nexusFileVersion":"1.3","nexusFileUploadedAt":1789678194,"pakFileName":"The Crowded Campfire.pak","nexusFileId":130754,"metaUuid":"8e848a53-b78e-479d-82cd-4c4215b726aa"}
+{"nexusFileName":"The Crowded Campfire","nexusFileVersion":"1.4","nexusFileUploadedAt":1790363318,"pakFileName":"The Crowded Campfire.pak","nexusFileId":131398,"metaUuid":"8e848a53-b78e-479d-82cd-4c4215b726aa"}
 ]},
 "25068":{"nexusModName":"Warlock - The Undead - Traditional Chinese and Simplified Chinese Translation","nexusUploadedBy":"MaxStoKe","nexusModId":25068,"paks":[
 {"nexusFileName":"WarlockUndead CHT CHS","nexusFileVersion":"2.16.0","nexusFileUploadedAt":1789602946,"pakFileName":"WarlockUndead_CHT_CHS.pak","nexusFileId":130687,"metaUuid":null}
@@ -70565,5 +70565,8 @@
 {"nexusFileName":"Mourning Blade","nexusFileVersion":"1","nexusFileUploadedAt":1790359291,"pakFileName":"Mourning_blade_424675d1-d4f1-5823-b1e0-136435da83fd.pak","nexusFileId":131394,"metaUuid":null}
 ]},
 "25300":{"nexusModName":"Noxx's Arcane Forge Lite","nexusUploadedBy":"Prednoxx","nexusModId":25300,"paks":[
-{"nexusFileName":"ArcForgBase","nexusFileVersion":"1","nexusFileUploadedAt":1790360914,"pakFileName":"ArcaneForge_e627455e-3113-44e6-af0a-adc1f7fbfc98.pak","nexusFileId":131396,"metaUuid":null}
+{"nexusFileName":"ArcForgeProper","nexusFileVersion":"1.0.0.3","nexusFileUploadedAt":1790364710,"pakFileName":"ArcaneForgeStandard_675cd0d3-9ecc-4ad1-b817-70948c73a67c.pak","nexusFileId":131400,"metaUuid":null}
+]},
+"25301":{"nexusModName":"Harlequin Class Mod - Patch 8 - Deutsch","nexusUploadedBy":"Myndo","nexusModId":25301,"paks":[
+{"nexusFileName":"Harlequin Class - German Translation","nexusFileVersion":"5.0","nexusFileUploadedAt":1790363012,"pakFileName":"Harlequin Class - German Translation.pak","nexusFileId":131397,"metaUuid":null}
 ]}}
