@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-09-25T21:51:44.800115+00:00","total_mods":17836},
+{"_meta":{"last_run":"2026-09-25T22:52:09.306604+00:00","total_mods":17836},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -67067,8 +67067,8 @@
 ]},
 "23992":{"nexusModName":"Body and Clothing Morphs for SBBF and BCB (by SerpentineShel) v. 1.4.1","nexusUploadedBy":"SerpentineShel","nexusModId":23992,"paks":[
 {"nexusFileName":"BodyAndClothingMorph V1.4.1 AIO","nexusFileVersion":"1.4.1","nexusFileUploadedAt":1790295678,"pakFileName":"ClothMorphBCB.pak","nexusFileId":131348,"metaUuid":"78f1571f-ffb5-5646-8a5b-63aac7ce2ecd"},
-{"nexusFileName":"BodyAndClothingMorph V1.4.1 AIO","nexusFileVersion":"1.4.1","nexusFileUploadedAt":1790295678,"pakFileName":"ClothMorphRuntime.pak","nexusFileId":131348,"metaUuid":"78f1571f-ffb5-5646-8a5b-63aac7ce2ecd"},
-{"nexusFileName":"BodyAndClothingMorph V1.4.1 AIO","nexusFileVersion":"1.4.1","nexusFileUploadedAt":1790295678,"pakFileName":"ClothMorphSCO.pak","nexusFileId":131348,"metaUuid":"78f1571f-ffb5-5646-8a5b-63aac7ce2ecd"},
+{"nexusFileName":"BodyAndClothingMorph V1.4.1 AIO","nexusFileVersion":"1.4.1","nexusFileUploadedAt":1790295678,"pakFileName":"ClothMorphRuntime.pak","nexusFileId":131348,"metaUuid":"20aca985-e3e9-41d7-bf8f-10f2a3c413e4"},
+{"nexusFileName":"BodyAndClothingMorph V1.4.1 AIO","nexusFileVersion":"1.4.1","nexusFileUploadedAt":1790295678,"pakFileName":"ClothMorphSCO.pak","nexusFileId":131348,"metaUuid":"0d73fe2f-49ae-528e-9a9b-160e7f124afc"},
 {"nexusFileName":"BodyAndClothingMorph V1.4.1 Main","nexusFileVersion":"1.4.1","nexusFileUploadedAt":1790296061,"pakFileName":"ClothMorphRuntime.pak","nexusFileId":131349,"metaUuid":"20aca985-e3e9-41d7-bf8f-10f2a3c413e4"},
 {"nexusFileName":"BodyAndClothingMorph V1.4.1 Sindae Addon","nexusFileVersion":"1.4.1","nexusFileUploadedAt":1790296242,"pakFileName":"ClothMorphBCB.pak","nexusFileId":131350,"metaUuid":"78f1571f-ffb5-5646-8a5b-63aac7ce2ecd"},
 {"nexusFileName":"BodyAndClothingMorph V1.4.1 SCO Addon","nexusFileVersion":"1.4.1","nexusFileUploadedAt":1790296544,"pakFileName":"ClothMorphSCO.pak","nexusFileId":131351,"metaUuid":"0d73fe2f-49ae-528e-9a9b-160e7f124afc"}
@@ -69816,7 +69816,7 @@
 {"nexusFileName":"PolyamoryFixes CHT CHS","nexusFileVersion":"3.0.0.24","nexusFileUploadedAt":1789511077,"pakFileName":"PolyamoryFixes_CHT_CHS.pak","nexusFileId":130614,"metaUuid":null}
 ]},
 "25002":{"nexusModName":"Jack's RAW BG3 All-in-One","nexusUploadedBy":"Revanchist16","nexusModId":25002,"paks":[
-{"nexusFileName":"JacksRawBG3","nexusFileVersion":"2","nexusFileUploadedAt":1789346843,"pakFileName":"JacksRawBG3.pak","nexusFileId":130485,"metaUuid":null}
+{"nexusFileName":"JacksRawBG3","nexusFileVersion":"3","nexusFileUploadedAt":1790374335,"pakFileName":"JacksRawBG3_2026_09_22.pak","nexusFileId":131406,"metaUuid":null}
 ]},
 "25005":{"nexusModName":"BETWEEN TWO FIRES POSE PACK (BT2xBT1xBT2) by badgrlsblog","nexusUploadedBy":"badgrlsblog","nexusModId":25005,"paks":[
 {"nexusFileName":"bgb Caught Between Two Fires Pose Pack","nexusFileVersion":"1","nexusFileUploadedAt":1789402391,"pakFileName":"bgb_CaughtBetweenTwoFires_pose_pack_56d5197d-acf7-fb6b-af17-ade052671ebf.pak","nexusFileId":130518,"metaUuid":"56d5197d-acf7-fb6b-af17-ade052671ebf"}
@@ -70575,4 +70575,8 @@
 ]},
 "25302":{"nexusModName":"Siege Machine Fighter Subclass_Now with Level 20 Support - PTBR 2026","nexusUploadedBy":"BarovZx","nexusModId":25302,"paks":[
 {"nexusFileName":"Titan PTBR","nexusFileVersion":"27.10.2025","nexusFileUploadedAt":1790371523,"pakFileName":"Titan PTBR.pak","nexusFileId":131403,"metaUuid":null}
+]},
+"25303":{"nexusModName":"Il Grande Saggio al Pari dei Cieli - The Great Sage Equal to Heaven","nexusUploadedBy":"twelthfalco","nexusModId":25303,"paks":[
+{"nexusFileName":"Il Grande Saggio Al Pari Dei Cieli - TGSETH","nexusFileVersion":"1.0","nexusFileUploadedAt":1790373532,"pakFileName":"GreatSage.pak","nexusFileId":131404,"metaUuid":null},
+{"nexusFileName":"Bugbear del Grande Saggio - Great Sage Bugbear","nexusFileVersion":"1.0","nexusFileUploadedAt":1790373992,"pakFileName":"GreatSageBugbear.pak","nexusFileId":131405,"metaUuid":null}
 ]}}
