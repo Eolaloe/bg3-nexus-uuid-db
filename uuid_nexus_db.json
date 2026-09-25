@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-09-25T20:51:41.236124+00:00","total_mods":17833},
+{"_meta":{"last_run":"2026-09-25T21:51:44.800115+00:00","total_mods":17836},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -70383,6 +70383,9 @@
 "25228":{"nexusModName":"Combat Statistics","nexusUploadedBy":"Sukibi","nexusModId":25228,"paks":[
 {"nexusFileName":"Combat Statistics","nexusFileVersion":"1.0.1","nexusFileUploadedAt":1790175753,"pakFileName":"CombatStatistics_v1.0.1.pak","nexusFileId":131233,"metaUuid":"8f18c3a7-59fd-4af2-9dd6-5fe2bd6d9e31"}
 ]},
+"25229":{"nexusModName":"Banshee Soul - A Sorcerer Subclass","nexusUploadedBy":"CarmillaNightstar","nexusModId":25229,"paks":[
+{"nexusFileName":"BansheeSoul","nexusFileVersion":"2","nexusFileUploadedAt":1790338306,"pakFileName":"BansheeSoul.pak","nexusFileId":131372,"metaUuid":null}
+]},
 "25230":{"nexusModName":"Weapon Layout Swap","nexusUploadedBy":"Sukibi","nexusModId":25230,"paks":[
 {"nexusFileName":"Weapon Layout Swap V1.0.0","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1790191197,"pakFileName":"Weapon_Layout_Swap.pak","nexusFileId":131249,"metaUuid":null}
 ]},
@@ -70558,6 +70561,9 @@
 "25294":{"nexusModName":"Veiled Votary - A Divine Themed Rogue Subclass - Deutsch","nexusUploadedBy":"Myndo","nexusModId":25294,"paks":[
 {"nexusFileName":"Veiled Votary - German Translation","nexusFileVersion":"1.0.0.19","nexusFileUploadedAt":1790340347,"pakFileName":"Veiled Votary - German Translation.pak","nexusFileId":131373,"metaUuid":null}
 ]},
+"25296":{"nexusModName":"JoJo's Bizarre Summons - Stand Proud","nexusUploadedBy":"BerrySemifreddo","nexusModId":25296,"paks":[
+{"nexusFileName":"JoJo's Bizarre Summons - Main File","nexusFileVersion":"1.0.0.30","nexusFileUploadedAt":1790360182,"pakFileName":"JoJoStandsSummon_3f9997eb-65fc-97c0-dc4e-1a3ebebf71e2.pak","nexusFileId":131395,"metaUuid":null}
+]},
 "25297":{"nexusModName":"Everburn Blade Upgrade Path - Russian Translation","nexusUploadedBy":"SNKmod777","nexusModId":25297,"paks":[
 {"nexusFileName":"Upgraded Everburn Blade RU","nexusFileVersion":"1.0.0.1","nexusFileUploadedAt":1790349592,"pakFileName":"Upgraded_Everburn_Blade_RU.pak","nexusFileId":131384,"metaUuid":null}
 ]},
@@ -70569,4 +70575,7 @@
 ]},
 "25301":{"nexusModName":"Harlequin Class Mod - Patch 8 - Deutsch","nexusUploadedBy":"Myndo","nexusModId":25301,"paks":[
 {"nexusFileName":"Harlequin Class - German Translation","nexusFileVersion":"5.0","nexusFileUploadedAt":1790363012,"pakFileName":"Harlequin Class - German Translation.pak","nexusFileId":131397,"metaUuid":null}
+]},
+"25302":{"nexusModName":"Siege Machine Fighter Subclass_Now with Level 20 Support - PTBR 2026","nexusUploadedBy":"BarovZx","nexusModId":25302,"paks":[
+{"nexusFileName":"Titan PTBR","nexusFileVersion":"27.10.2025","nexusFileUploadedAt":1790371523,"pakFileName":"Titan PTBR.pak","nexusFileId":131403,"metaUuid":null}
 ]}}
