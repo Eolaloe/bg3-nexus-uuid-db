@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-09-25T17:51:44.139207+00:00","total_mods":17830},
+{"_meta":{"last_run":"2026-09-25T18:51:46.562206+00:00","total_mods":17832},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -70368,7 +70368,7 @@
 "25223":{"nexusModName":"Githyanki Unleashed","nexusUploadedBy":"Sai","nexusModId":25223,"paks":[
 {"nexusFileName":"Githyanki Unleashed","nexusFileVersion":"1.1","nexusFileUploadedAt":1790249922,"pakFileName":"Githyanki Unleashed.pak","nexusFileId":131295,"metaUuid":"9ac9f8de-d3af-4413-be9c-651b3173883a"}
 ]},
-"25224":{"nexusModName":"Noxx's Arcane Forge","nexusUploadedBy":"Prednoxx","nexusModId":25224,"paks":[
+"25224":{"nexusModName":"Noxx's Arcane Forge Expanded","nexusUploadedBy":"Prednoxx","nexusModId":25224,"paks":[
 {"nexusFileName":"ArcaneForgedOverhaul","nexusFileVersion":"1.0.0.13","nexusFileUploadedAt":1790271905,"pakFileName":"ArcaneForge_e627455e-3113-44e6-af0a-adc1f7fbfc98.pak","nexusFileId":131329,"metaUuid":"e627455e-3113-44e6-af0a-adc1f7fbfc98"}
 ]},
 "25225":{"nexusModName":"Fidelity of Amaunator","nexusUploadedBy":"lVlefa","nexusModId":25225,"paks":[
@@ -70560,4 +70560,10 @@
 ]},
 "25297":{"nexusModName":"Everburn Blade Upgrade Path - Russian Translation","nexusUploadedBy":"SNKmod777","nexusModId":25297,"paks":[
 {"nexusFileName":"Upgraded Everburn Blade RU","nexusFileVersion":"1.0.0.1","nexusFileUploadedAt":1790349592,"pakFileName":"Upgraded_Everburn_Blade_RU.pak","nexusFileId":131384,"metaUuid":null}
+]},
+"25299":{"nexusModName":"Mourning Blade","nexusUploadedBy":"bean0s","nexusModId":25299,"paks":[
+{"nexusFileName":"Mourning Blade","nexusFileVersion":"1","nexusFileUploadedAt":1790359291,"pakFileName":"Mourning_blade_424675d1-d4f1-5823-b1e0-136435da83fd.pak","nexusFileId":131394,"metaUuid":null}
+]},
+"25300":{"nexusModName":"Noxx's Arcane Forge Lite","nexusUploadedBy":"Prednoxx","nexusModId":25300,"paks":[
+{"nexusFileName":"ArcForgBase","nexusFileVersion":"1","nexusFileUploadedAt":1790360914,"pakFileName":"ArcaneForge_e627455e-3113-44e6-af0a-adc1f7fbfc98.pak","nexusFileId":131396,"metaUuid":null}
 ]}}
