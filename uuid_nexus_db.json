@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-09-26T15:52:52.524136+00:00","total_mods":17845},
+{"_meta":{"last_run":"2026-09-26T16:52:40.452496+00:00","total_mods":17845},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -70552,7 +70552,7 @@
 {"nexusFileName":"Veiled Votary - German Translation","nexusFileVersion":"1.0.0.19","nexusFileUploadedAt":1790340347,"pakFileName":"Veiled Votary - German Translation.pak","nexusFileId":131373,"metaUuid":null}
 ]},
 "25296":{"nexusModName":"JoJo's Bizarre Summons - Stand Proud","nexusUploadedBy":"BerrySemifreddo","nexusModId":25296,"paks":[
-{"nexusFileName":"JoJo's Bizarre Summons - Main File","nexusFileVersion":"1.0.0.30","nexusFileUploadedAt":1790360182,"pakFileName":"JoJoStandsSummon_3f9997eb-65fc-97c0-dc4e-1a3ebebf71e2.pak","nexusFileId":131395,"metaUuid":null}
+{"nexusFileName":"JoJo's Bizarre Summons - Main File","nexusFileVersion":"1.0.0.31","nexusFileUploadedAt":1790441104,"pakFileName":"JoJoStandsSummon_3f9997eb-65fc-97c0-dc4e-1a3ebebf71e2.pak","nexusFileId":131460,"metaUuid":null}
 ]},
 "25297":{"nexusModName":"Everburn Blade Upgrade Path - Russian Translation","nexusUploadedBy":"SNKmod777","nexusModId":25297,"paks":[
 {"nexusFileName":"Upgraded Everburn Blade RU","nexusFileVersion":"1.0.0.1","nexusFileUploadedAt":1790349592,"pakFileName":"Upgraded_Everburn_Blade_RU.pak","nexusFileId":131384,"metaUuid":null}
@@ -70578,6 +70578,11 @@
 ]},
 "25309":{"nexusModName":"Hireplicity","nexusUploadedBy":"djgLXXII","nexusModId":25309,"paks":[
 {"nexusFileName":"Hireplicity","nexusFileVersion":"1","nexusFileUploadedAt":1790387792,"pakFileName":"Hireplicity.pak","nexusFileId":131415,"metaUuid":null}
+]},
+"25310":{"nexusModName":"The Sacred Deer","nexusUploadedBy":"OneEyeAskew","nexusModId":25310,"paks":[
+{"nexusFileName":"Cervitaur","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1790392398,"pakFileName":"Cervitaur.pak","nexusFileId":131417,"metaUuid":null},
+{"nexusFileName":"Cervitaur Gradient Patch","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1790392432,"pakFileName":"CervitaurGradientPatch.pak","nexusFileId":131418,"metaUuid":null},
+{"nexusFileName":"Cervitaur Pastel Patch","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1790392455,"pakFileName":"CervitaurPastelPatch.pak","nexusFileId":131419,"metaUuid":null}
 ]},
 "25311":{"nexusModName":"Hollow Palm","nexusUploadedBy":"GrokCodeReliant","nexusModId":25311,"paks":[
 {"nexusFileName":"HollowPalm 1.1.9","nexusFileVersion":"1.1.9","nexusFileUploadedAt":1790394652,"pakFileName":"HollowPalm.pak","nexusFileId":131422,"metaUuid":"fb84ae7d-dda9-42fb-b373-f08e7badb3a5"}
