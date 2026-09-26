@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-09-26T18:52:35.448443+00:00","total_mods":17845},
+{"_meta":{"last_run":"2026-09-26T19:52:40.837162+00:00","total_mods":17844},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -69450,7 +69450,7 @@
 {"nexusFileName":"Tag-Driven Equipment Race","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1788739366,"pakFileName":"TagDrivenEquipmentRace.pak","nexusFileId":129914,"metaUuid":"02d7af17-4e1f-4906-a513-cbe6e631dd6f"}
 ]},
 "24851":{"nexusModName":"War Rapier","nexusUploadedBy":"nexuspaladin","nexusModId":24851,"paks":[
-{"nexusFileName":"Reitschwert Rapier","nexusFileVersion":"1.0.2","nexusFileUploadedAt":1790345408,"pakFileName":"Reitschwert_rapier.pak","nexusFileId":131378,"metaUuid":"073bedc5-0d2a-4771-943b-6cd26910c6e4"}
+{"nexusFileName":"Reitschwert Rapier","nexusFileVersion":"1.0.3","nexusFileUploadedAt":1790449550,"pakFileName":"Reitschwert_rapier.pak","nexusFileId":131468,"metaUuid":"073bedc5-0d2a-4771-943b-6cd26910c6e4"}
 ]},
 "24852":{"nexusModName":"Elegy of the Beast - Werewolf Overhaul","nexusUploadedBy":"luiznunes","nexusModId":24852,"paks":[
 {"nexusFileName":"Lycanthrope Tree 805a7fb6 Cad3 5jkp","nexusFileVersion":"1.1.0.20","nexusFileUploadedAt":1789769143,"pakFileName":"lycanthrope_tree_805a7fb6-cad3-3d60-23b7-cf1f0e832aad.pak","nexusFileId":130845,"metaUuid":"805a7fb6-cad3-3d60-23b7-cf1f0e832aad"}
@@ -70720,4 +70720,7 @@
 ]},
 "25322":{"nexusModName":"Hermit Crab Quest Restored (Cut Content) - BETA - PTBR","nexusUploadedBy":"BarovZx","nexusModId":25322,"paks":[
 {"nexusFileName":"HT EA HermitCrab PTBR","nexusFileVersion":"24.02.2026","nexusFileUploadedAt":1790436050,"pakFileName":"HT EA HermitCrab PTBR.pak","nexusFileId":131455,"metaUuid":null}
+]},
+"25324":{"nexusModName":"Initiative Uses Intelligence","nexusUploadedBy":"Cainhurtz","nexusModId":25324,"paks":[
+{"nexusFileName":"Initiative Uses Intelligence","nexusFileVersion":"1","nexusFileUploadedAt":1790451754,"pakFileName":"IntInit.pak","nexusFileId":131469,"metaUuid":null}
 ]}}
