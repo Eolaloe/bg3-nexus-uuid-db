@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-09-26T22:52:48.125536+00:00","total_mods":17847},
+{"_meta":{"last_run":"2026-09-26T23:52:18.907737+00:00","total_mods":17848},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -34261,7 +34261,8 @@
 {"nexusFileName":"War Magic at Lvl 5 Patch","nexusFileVersion":"1.0","nexusFileUploadedAt":1731966219,"pakFileName":"OneDnD_WarMagic Lvl5 Patch.pak","nexusFileId":79305,"metaUuid":"6005a8e7-6ffd-4929-b787-1b07aa72d25e"},
 {"nexusFileName":"Level 20 Progression Patch","nexusFileVersion":"4.0.2","nexusFileUploadedAt":1760569834,"pakFileName":"OneDnD_WarMagic Lvl20 Patch.pak","nexusFileId":105275,"metaUuid":"5504e448-7daa-4565-b658-55a2018368c4"},
 {"nexusFileName":"Level 15 Progression Patch","nexusFileVersion":"4.0.2","nexusFileUploadedAt":1760569927,"pakFileName":"OneDnD_WarMagic Lvl15 Patch.pak","nexusFileId":105276,"metaUuid":"cde34a77-03e1-453d-8568-0b931de0eb93"},
-{"nexusFileName":"DnD 5R War Magic and Improved War Magic","nexusFileVersion":"5.0.0","nexusFileUploadedAt":1778427783,"pakFileName":"OneDnD_WarMagic.pak","nexusFileId":120897,"metaUuid":"7429b169-5e11-4d31-9db3-b1285df2d191"}
+{"nexusFileName":"DnD 5R War Magic and Improved War Magic","nexusFileVersion":"5.0.0","nexusFileUploadedAt":1778427783,"pakFileName":"OneDnD_WarMagic.pak","nexusFileId":120897,"metaUuid":"7429b169-5e11-4d31-9db3-b1285df2d191"},
+{"nexusFileName":"DnD 5R War Magic - Replacer Patch","nexusFileVersion":"5.0.0","nexusFileUploadedAt":1778431411,"pakFileName":"OneDnD_WarMagic - Replacer Patch.pak","nexusFileId":120905,"metaUuid":null}
 ]},
 "12071":{"nexusModName":"Crocs","nexusUploadedBy":"BG3AddictedGal","nexusModId":12071,"paks":[
 {"nexusFileName":"Crocs","nexusFileVersion":"0.1","nexusFileUploadedAt":1725879664,"pakFileName":"Crocs.pak","nexusFileId":70090,"metaUuid":"8b62e996-8bd3-483b-b57b-298a349359d1"}
@@ -70732,4 +70733,7 @@
 ]},
 "25329":{"nexusModName":"Krynnspace QoL - The Spellbook","nexusUploadedBy":"Thorvin01","nexusModId":25329,"paks":[
 {"nexusFileName":"Krynnspace QoL - The Spellbook","nexusFileVersion":"1.0.0.221","nexusFileUploadedAt":1790461087,"pakFileName":"KrynnspaceQoL_ScrollSpellbook_8f62c897-3bec-83f4-8452-6b17588a6a1b.pak","nexusFileId":131479,"metaUuid":null}
+]},
+"25330":{"nexusModName":"Longstrider and Enhance Leap Area Buffs","nexusUploadedBy":"Nensen1991","nexusModId":25330,"paks":[
+{"nexusFileName":"PartyBuffRadius","nexusFileVersion":"1","nexusFileUploadedAt":1790464865,"pakFileName":"PartyBuffRadius.pak","nexusFileId":131481,"metaUuid":null}
 ]}}
