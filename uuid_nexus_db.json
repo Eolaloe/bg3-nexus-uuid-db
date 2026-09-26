@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-09-26T20:52:21.169586+00:00","total_mods":17845},
+{"_meta":{"last_run":"2026-09-26T21:52:41.020565+00:00","total_mods":17846},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -49287,7 +49287,7 @@
 {"nexusFileName":"Menswear of Menzoberranzan","nexusFileVersion":"1.0.0.23","nexusFileUploadedAt":1755385674,"pakFileName":"MenzoMenswear_502d7d99-65d0-b384-5aac-b5beb421065b.pak","nexusFileId":100798,"metaUuid":"502d7d99-65d0-b384-5aac-b5beb421065b"}
 ]},
 "17737":{"nexusModName":"Quick Small Animation Thingy (QSAT)","nexusUploadedBy":"rakor","nexusModId":17737,"paks":[
-{"nexusFileName":"QSAT","nexusFileVersion":"2.4.0","nexusFileUploadedAt":1790453639,"pakFileName":"QuickSmallAnimationThingy_0af8a272-88aa-c345-e4f6-8b60194c76e5.pak","nexusFileId":131470,"metaUuid":"0af8a272-88aa-c345-e4f6-8b60194c76e5"}
+{"nexusFileName":"QSAT","nexusFileVersion":"2.4.0","nexusFileUploadedAt":1790457887,"pakFileName":"QuickSmallAnimationThingy_0af8a272-88aa-c345-e4f6-8b60194c76e5.pak","nexusFileId":131475,"metaUuid":"0af8a272-88aa-c345-e4f6-8b60194c76e5"}
 ]},
 "17738":{"nexusModName":"Magnetic Prosthetics - Custom Bodytypes","nexusUploadedBy":"magnetuning","nexusModId":17738,"paks":[
 {"nexusFileName":"Magnetic Prosthetics - KAVT UTAV Patch","nexusFileVersion":"1.1.0.0","nexusFileUploadedAt":1753336466,"pakFileName":"MGNTN_Prosthetics_KAVT_UTAV_Patch.pak","nexusFileId":98861,"metaUuid":null},
@@ -70726,4 +70726,7 @@
 ]},
 "25327":{"nexusModName":"Players Go First","nexusUploadedBy":"Cainhurtz","nexusModId":25327,"paks":[
 {"nexusFileName":"Players Go First","nexusFileVersion":"1","nexusFileUploadedAt":1790455640,"pakFileName":"PlayersGoFirst.pak","nexusFileId":131474,"metaUuid":null}
+]},
+"25328":{"nexusModName":"Armor of the Worthy - Traditional Chinese and Simplified Chinese Translation","nexusUploadedBy":"MaxStoKe","nexusModId":25328,"paks":[
+{"nexusFileName":"ArmorOfTheWorthy CHT CHS","nexusFileVersion":"1.0.0.12","nexusFileUploadedAt":1790459009,"pakFileName":"ArmorOfTheWorthy_CHT_CHS.pak","nexusFileId":131476,"metaUuid":null}
 ]}}
