@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-09-27T16:53:08.952058+00:00","total_mods":17853},
+{"_meta":{"last_run":"2026-09-27T17:52:59.303323+00:00","total_mods":17856},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -22708,6 +22708,9 @@
 {"nexusFileName":"Unholy Smite - For All","nexusFileVersion":"2.6.8","nexusFileUploadedAt":1731354335,"pakFileName":"Unholy Smite For Paladin.pak","nexusFileId":78591,"metaUuid":"1bb5c8e1-03af-ba09-8704-352d761e9ef9"},
 {"nexusFileName":"Unholy Smite - For Oathbreaker","nexusFileVersion":"2.6.8","nexusFileUploadedAt":1731354364,"pakFileName":"Unholy Smite Oathbreaker.pak","nexusFileId":78592,"metaUuid":"1bb5c8e1-03af-ba09-8704-352d761e9ef9"}
 ]},
+"7610":{"nexusModName":"Ulitharid - playable Mind Flayers's race by JBJ_3Dart","nexusUploadedBy":"JBJ3Dart","nexusModId":7610,"paks":[
+{"nexusFileName":"Ulitharid - Playable Mind Flayer's race","nexusFileVersion":"1.0.5","nexusFileUploadedAt":1729615731,"pakFileName":"JBJ_Ulitharid_9d090cd4-1d6c-c104-3ef0-124a4dd581a1.pak","nexusFileId":76246,"metaUuid":null}
+]},
 "7612":{"nexusModName":"Disable combat log for Silvanus Blessing","nexusUploadedBy":"MegaCoolBlood","nexusModId":7612,"paks":[
 {"nexusFileName":"Main File","nexusFileVersion":"1.0","nexusFileUploadedAt":1709677427,"pakFileName":"Disable Combatlog for Silvanus Blessing.pak","nexusFileId":48371,"metaUuid":"5459c592-095f-404e-81d2-0966c19f33c6"}
 ]},
@@ -33152,7 +33155,7 @@
 {"nexusFileName":"Zero Exp","nexusFileVersion":"4.0.0.0","nexusFileUploadedAt":1780586335,"pakFileName":"ManyMoreMonsters_ZeroExp.pak","nexusFileId":122789,"metaUuid":"1b215646-6200-451a-9c4a-b21406f69edd"},
 {"nexusFileName":"Loud Grym Pet","nexusFileVersion":"4.2.0.0","nexusFileUploadedAt":1780861781,"pakFileName":"ManyMoreMonsters_LoudGrymPet.pak","nexusFileId":123089,"metaUuid":null},
 {"nexusFileName":"Many More Monsters - Modified","nexusFileVersion":"4.4.4.0","nexusFileUploadedAt":1788771951,"pakFileName":"ManyMoreMonsters - Modified.pak","nexusFileId":129950,"metaUuid":"32813f57-0d1d-43cc-8efa-998f2a114f4f"},
-{"nexusFileName":"Many More Monsters","nexusFileVersion":"4.4.4.0","nexusFileUploadedAt":1788771964,"pakFileName":"ManyMoreMonsters.pak","nexusFileId":129951,"metaUuid":"1b215646-6200-451a-9c4a-b21406f69edd"}
+{"nexusFileName":"Many More Monsters","nexusFileVersion":"4.4.5.0","nexusFileUploadedAt":1790529358,"pakFileName":"ManyMoreMonsters.pak","nexusFileId":131591,"metaUuid":"1b215646-6200-451a-9c4a-b21406f69edd"}
 ]},
 "11640":{"nexusModName":"Hellish Rebuke for Karlach","nexusUploadedBy":"robogena","nexusModId":11640,"paks":[
 {"nexusFileName":"Hellish Rebuke for Karlach","nexusFileVersion":"2.0","nexusFileUploadedAt":1726883366,"pakFileName":"robogena_HellishRebukeforKarlach.pak","nexusFileId":72001,"metaUuid":"49864158-3fc5-4904-8163-e7f67ada3666"}
@@ -70672,4 +70675,10 @@
 ]},
 "25344":{"nexusModName":"Dark urge - True Origin Immersion - French Translation","nexusUploadedBy":"Dragonoid2025","nexusModId":25344,"paks":[
 {"nexusFileName":"Dark Urge True Origin Immersion FR","nexusFileVersion":"1","nexusFileUploadedAt":1790527347,"pakFileName":"Dark Urge-True Origin Immersion-FR.pak","nexusFileId":131589,"metaUuid":null}
+]},
+"25345":{"nexusModName":"Controller Context Tooltip Fix","nexusUploadedBy":"inexcf","nexusModId":25345,"paks":[
+{"nexusFileName":"ContextTooltipFix 1.0.0.5 Beta","nexusFileVersion":"1.0.5","nexusFileUploadedAt":1790529719,"pakFileName":"ContextTooltipFix.pak","nexusFileId":131592,"metaUuid":null}
+]},
+"25346":{"nexusModName":"Juice Box","nexusUploadedBy":"rainbow1411","nexusModId":25346,"paks":[
+{"nexusFileName":"Juice  Box","nexusFileVersion":"1","nexusFileUploadedAt":1790528666,"pakFileName":"Miscellaneous_d24a3877-006c-3e3d-92ee-a976badb1944.pak","nexusFileId":131590,"metaUuid":null}
 ]}}
