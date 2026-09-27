@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-09-27T13:52:49.261327+00:00","total_mods":17849},
+{"_meta":{"last_run":"2026-09-27T14:53:43.890473+00:00","total_mods":17849},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -57816,12 +57816,62 @@
 "20574":{"nexusModName":"Ultimate NPC Stat Overhaul (UNSO) CHS","nexusUploadedBy":"hanli","nexusModId":20574,"paks":[
 {"nexusFileName":"Ultimate NPC Stat Overhaul - CHS","nexusFileVersion":"3.0.0.1","nexusFileUploadedAt":1780996974,"pakFileName":"Ultimate NPC Stat Overhaul - CHS.pak","nexusFileId":123226,"metaUuid":null}
 ]},
-"20575":{"nexusModName":"Hallowed Flame - A Moonlight-Themed Cold and Radiant Sacred Flame Alternative - Multiple Versions","nexusUploadedBy":"SymboJones","nexusModId":20575,"paks":[
-{"nexusFileName":"A-01. Hallowed Flame - Moonlight Sacred Flame","nexusFileVersion":"1.0.0-A-01","nexusFileUploadedAt":1767940945,"pakFileName":"Hallowed Flame - Cold and Radiant Sacred Flame - A-01.pak","nexusFileId":111620,"metaUuid":"73ba2703-cb6b-46df-8a67-c1d636847794"},
-{"nexusFileName":"A-02. Hallowed Flame - No DOTs","nexusFileVersion":"1.0.0-A-02","nexusFileUploadedAt":1767941054,"pakFileName":"Hallowed Flame - Cold and Radiant Sacred Flame - A-02.pak","nexusFileId":111621,"metaUuid":"1f823c3b-8799-48ff-b324-70902641bb80"},
-{"nexusFileName":"A-03. Hallowed Flame - No Specific Targets","nexusFileVersion":"1.0.0-A-03","nexusFileUploadedAt":1767941335,"pakFileName":"Hallowed Flame - Cold and Radiant Sacred Flame - A-03.pak","nexusFileId":111622,"metaUuid":null},
-{"nexusFileName":"A-04. Hallowed Flame - Vanilla (Combined)","nexusFileVersion":"1.0.0-A-04","nexusFileUploadedAt":1767941412,"pakFileName":"Hallowed Flame - Cold and Radiant Sacred Flame - A-04.pak","nexusFileId":111623,"metaUuid":"18f4d758-39a9-45ba-be11-fa7b2f6a3bcc"},
-{"nexusFileName":"Hallowed Flame - All Caster Addon","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1767943807,"pakFileName":"Hallowed Flame - All Caster Addon.pak","nexusFileId":111624,"metaUuid":"f37f426c-aee3-4225-a39b-acfb16494422"}
+"20575":{"nexusModName":"Hallowed Flame - A Moonlight-Themed Sacred Flame Alternative","nexusUploadedBy":"SymboJones","nexusModId":20575,"paks":[
+{"nexusFileName":"A-01. Hallowed Flame - Tag DoT - Action - NoS - B","nexusFileVersion":"2.0.0-A-01","nexusFileUploadedAt":1790513189,"pakFileName":"Hallowed Flame - Lunar Sacred Flame - A-01.pak","nexusFileId":131514,"metaUuid":null},
+{"nexusFileName":"A-02. Hallowed Flame - TD - A - ToS - B","nexusFileVersion":"2.0.0-A-02","nexusFileUploadedAt":1790513207,"pakFileName":"Hallowed Flame - Lunar Sacred Flame - A-02.pak","nexusFileId":131515,"metaUuid":null},
+{"nexusFileName":"A-03. Hallowed Flame - TD - A - NoS - Cold","nexusFileVersion":"2.0.0-A-03","nexusFileUploadedAt":1790513227,"pakFileName":"Hallowed Flame - Lunar Sacred Flame - A-03.pak","nexusFileId":131516,"metaUuid":null},
+{"nexusFileName":"A-04. Hallowed Flame - TD - A - ToS - C","nexusFileVersion":"2.0.0-A-04","nexusFileUploadedAt":1790513248,"pakFileName":"Hallowed Flame - Lunar Sacred Flame - A-04.pak","nexusFileId":131517,"metaUuid":null},
+{"nexusFileName":"A-05. Hallowed Flame - TD - A - NoS - Radiant","nexusFileVersion":"2.0.0-A-05","nexusFileUploadedAt":1790513266,"pakFileName":"Hallowed Flame - Lunar Sacred Flame - A-05.pak","nexusFileId":131518,"metaUuid":null},
+{"nexusFileName":"A-06. Hallowed Flame - TD - A - ToS - R","nexusFileVersion":"2.0.0-A-06","nexusFileUploadedAt":1790513286,"pakFileName":"Hallowed Flame - Lunar Sacred Flame - A-06.pak","nexusFileId":131519,"metaUuid":null},
+{"nexusFileName":"B-01. Hallowed Flame - TD - Bonus Action - NoS - B","nexusFileVersion":"2.0.0-B-01","nexusFileUploadedAt":1790513307,"pakFileName":"Hallowed Flame - Lunar Sacred Flame - B-01.pak","nexusFileId":131520,"metaUuid":null},
+{"nexusFileName":"B-02. Hallowed Flame - TD - BA - ToS - B","nexusFileVersion":"2.0.0-B-02","nexusFileUploadedAt":1790513329,"pakFileName":"Hallowed Flame - Lunar Sacred Flame - B-02.pak","nexusFileId":131521,"metaUuid":null},
+{"nexusFileName":"B-03. Hallowed Flame - TD - BA - NoS - C","nexusFileVersion":"2.0.0-B-03","nexusFileUploadedAt":1790513348,"pakFileName":"Hallowed Flame - Lunar Sacred Flame - B-03.pak","nexusFileId":131522,"metaUuid":null},
+{"nexusFileName":"B-04. Hallowed Flame - TD - BA - ToS - C","nexusFileVersion":"2.0.0-B-04","nexusFileUploadedAt":1790513368,"pakFileName":"Hallowed Flame - Lunar Sacred Flame - B-04.pak","nexusFileId":131523,"metaUuid":null},
+{"nexusFileName":"B-05. Hallowed Flame - TD - BA - NoS - R","nexusFileVersion":"2.0.0-B-05","nexusFileUploadedAt":1790513389,"pakFileName":"Hallowed Flame - Lunar Sacred Flame - B-05.pak","nexusFileId":131524,"metaUuid":null},
+{"nexusFileName":"B-06. Hallowed Flame - TD - BA - ToS - R","nexusFileVersion":"2.0.0-B-06","nexusFileUploadedAt":1790513409,"pakFileName":"Hallowed Flame - Lunar Sacred Flame - B-06.pak","nexusFileId":131525,"metaUuid":null},
+{"nexusFileName":"C-01. Hallowed Flame - Tag No DoTs - A - NoS - B","nexusFileVersion":"2.0.0-C-01","nexusFileUploadedAt":1790513428,"pakFileName":"Hallowed Flame - Lunar Sacred Flame - C-01.pak","nexusFileId":131526,"metaUuid":null},
+{"nexusFileName":"C-02. Hallowed Flame - TND - A - ToS - B","nexusFileVersion":"2.0.0-C-02","nexusFileUploadedAt":1790513447,"pakFileName":"Hallowed Flame - Lunar Sacred Flame - C-02.pak","nexusFileId":131527,"metaUuid":null},
+{"nexusFileName":"C-03. Hallowed Flame - TND - A - NoS - C","nexusFileVersion":"2.0.0-C-03","nexusFileUploadedAt":1790513466,"pakFileName":"Hallowed Flame - Lunar Sacred Flame - C-03.pak","nexusFileId":131528,"metaUuid":null},
+{"nexusFileName":"C-04. Hallowed Flame - TND - A - ToS - C","nexusFileVersion":"2.0.0-C-04","nexusFileUploadedAt":1790513484,"pakFileName":"Hallowed Flame - Lunar Sacred Flame - C-04.pak","nexusFileId":131529,"metaUuid":null},
+{"nexusFileName":"C-05. Hallowed Flame - TND - A - NoS - R","nexusFileVersion":"2.0.0-C-05","nexusFileUploadedAt":1790513502,"pakFileName":"Hallowed Flame - Lunar Sacred Flame - C-05.pak","nexusFileId":131530,"metaUuid":null},
+{"nexusFileName":"C-06. Hallowed Flame - TND - A - ToS - R","nexusFileVersion":"2.0.0-C-06","nexusFileUploadedAt":1790513520,"pakFileName":"Hallowed Flame - Lunar Sacred Flame - C-06.pak","nexusFileId":131531,"metaUuid":null},
+{"nexusFileName":"D-01. Hallowed Flame - TND - BA - NoS - B","nexusFileVersion":"2.0.0-D-01","nexusFileUploadedAt":1790513537,"pakFileName":"Hallowed Flame - Lunar Sacred Flame - D-01.pak","nexusFileId":131532,"metaUuid":null},
+{"nexusFileName":"D-02. Hallowed Flame - TND - BA - ToS - B","nexusFileVersion":"2.0.0-D-02","nexusFileUploadedAt":1790513555,"pakFileName":"Hallowed Flame - Lunar Sacred Flame - D-02.pak","nexusFileId":131533,"metaUuid":null},
+{"nexusFileName":"D-03. Hallowed Flame - TND - BA - NoS - C","nexusFileVersion":"2.0.0-D-03","nexusFileUploadedAt":1790513573,"pakFileName":"Hallowed Flame - Lunar Sacred Flame - D-03.pak","nexusFileId":131534,"metaUuid":null},
+{"nexusFileName":"D-04. Hallowed Flame - TND - BA - ToS - C","nexusFileVersion":"2.0.0-D-04","nexusFileUploadedAt":1790513591,"pakFileName":"Hallowed Flame - Lunar Sacred Flame - D-04.pak","nexusFileId":131535,"metaUuid":null},
+{"nexusFileName":"D-05. Hallowed Flame - TND - BA - NoS - R","nexusFileVersion":"2.0.0-D-05","nexusFileUploadedAt":1790513609,"pakFileName":"Hallowed Flame - Lunar Sacred Flame - D-05.pak","nexusFileId":131536,"metaUuid":null},
+{"nexusFileName":"D-06. Hallowed Flame - TND - BA - ToS - R","nexusFileVersion":"2.0.0-D-06","nexusFileUploadedAt":1790513630,"pakFileName":"Hallowed Flame - Lunar Sacred Flame - D-06.pak","nexusFileId":131537,"metaUuid":null},
+{"nexusFileName":"E-01. Hallowed Flame - 1 DoT - A - NoS - B","nexusFileVersion":"2.0.0-E-01","nexusFileUploadedAt":1790513651,"pakFileName":"Hallowed Flame - Lunar Sacred Flame - E-01.pak","nexusFileId":131538,"metaUuid":null},
+{"nexusFileName":"E-02. Hallowed Flame - 1D - A - ToS - B","nexusFileVersion":"2.0.0-E-02","nexusFileUploadedAt":1790513668,"pakFileName":"Hallowed Flame - Lunar Sacred Flame - E-02.pak","nexusFileId":131539,"metaUuid":null},
+{"nexusFileName":"E-03. Hallowed Flame - 1D - A - NoS - C","nexusFileVersion":"2.0.0-E-03","nexusFileUploadedAt":1790513686,"pakFileName":"Hallowed Flame - Lunar Sacred Flame - E-03.pak","nexusFileId":131541,"metaUuid":null},
+{"nexusFileName":"E-04. Hallowed Flame - 1D - A - ToS - C","nexusFileVersion":"2.0.0-E-04","nexusFileUploadedAt":1790513703,"pakFileName":"Hallowed Flame - Lunar Sacred Flame - E-04.pak","nexusFileId":131542,"metaUuid":null},
+{"nexusFileName":"E-05. Hallowed Flame - 1D - A - NoS - R","nexusFileVersion":"2.0.0-E-05","nexusFileUploadedAt":1790513721,"pakFileName":"Hallowed Flame - Lunar Sacred Flame - E-05.pak","nexusFileId":131543,"metaUuid":null},
+{"nexusFileName":"E-06. Hallowed Flame - 1D - A - ToS - R","nexusFileVersion":"2.0.0-E-06","nexusFileUploadedAt":1790513738,"pakFileName":"Hallowed Flame - Lunar Sacred Flame - E-06.pak","nexusFileId":131544,"metaUuid":null},
+{"nexusFileName":"F-01. Hallowed Flame - 1D - BA - NoS - B","nexusFileVersion":"2.0.0-F-01","nexusFileUploadedAt":1790513759,"pakFileName":"Hallowed Flame - Lunar Sacred Flame - F-01.pak","nexusFileId":131545,"metaUuid":null},
+{"nexusFileName":"F-02. Hallowed Flame - 1D - BA - ToS - B","nexusFileVersion":"2.0.0-F-02","nexusFileUploadedAt":1790513776,"pakFileName":"Hallowed Flame - Lunar Sacred Flame - F-02.pak","nexusFileId":131546,"metaUuid":null},
+{"nexusFileName":"F-03. Hallowed Flame - 1D - BA - NoS - C","nexusFileVersion":"2.0.0-F-03","nexusFileUploadedAt":1790513793,"pakFileName":"Hallowed Flame - Lunar Sacred Flame - F-03.pak","nexusFileId":131547,"metaUuid":null},
+{"nexusFileName":"F-04. Hallowed Flame - 1D - BA - ToS - C","nexusFileVersion":"2.0.0-F-04","nexusFileUploadedAt":1790513812,"pakFileName":"Hallowed Flame - Lunar Sacred Flame - F-04.pak","nexusFileId":131548,"metaUuid":null},
+{"nexusFileName":"F-05. Hallowed Flame - 1D - BA - NoS - R","nexusFileVersion":"2.0.0-F-05","nexusFileUploadedAt":1790513829,"pakFileName":"Hallowed Flame - Lunar Sacred Flame - F-05.pak","nexusFileId":131549,"metaUuid":null},
+{"nexusFileName":"F-06. Hallowed Flame - 1D - BA - ToS - R","nexusFileVersion":"2.0.0-F-06","nexusFileUploadedAt":1790513847,"pakFileName":"Hallowed Flame - Lunar Sacred Flame - F-06.pak","nexusFileId":131550,"metaUuid":null},
+{"nexusFileName":"G-01. Hallowed Flame - V - A - NoS - B","nexusFileVersion":"2.0.0-G-01","nexusFileUploadedAt":1790513864,"pakFileName":"Hallowed Flame - Lunar Sacred Flame - G-01.pak","nexusFileId":131551,"metaUuid":null},
+{"nexusFileName":"G-02. Hallowed Flame - V - A - ToS - B","nexusFileVersion":"2.0.0-G-02","nexusFileUploadedAt":1790513882,"pakFileName":"Hallowed Flame - Lunar Sacred Flame - G-02.pak","nexusFileId":131552,"metaUuid":null},
+{"nexusFileName":"G-03. Hallowed Flame - V - A - NoS - C","nexusFileVersion":"2.0.0-G-03","nexusFileUploadedAt":1790513901,"pakFileName":"Hallowed Flame - Lunar Sacred Flame - G-03.pak","nexusFileId":131553,"metaUuid":null},
+{"nexusFileName":"G-04. Hallowed Flame - V - A - ToS - C","nexusFileVersion":"2.0.0-G-04","nexusFileUploadedAt":1790513919,"pakFileName":"Hallowed Flame - Lunar Sacred Flame - G-04.pak","nexusFileId":131554,"metaUuid":null},
+{"nexusFileName":"G-05. Hallowed Flame - V - A - NoS - R","nexusFileVersion":"2.0.0-G-05","nexusFileUploadedAt":1790513936,"pakFileName":"Hallowed Flame - Lunar Sacred Flame - G-05.pak","nexusFileId":131555,"metaUuid":null},
+{"nexusFileName":"G-06. Hallowed Flame - V - A - ToS - R","nexusFileVersion":"2.0.0-G-06","nexusFileUploadedAt":1790513955,"pakFileName":"Hallowed Flame - Lunar Sacred Flame - G-06.pak","nexusFileId":131556,"metaUuid":null},
+{"nexusFileName":"H-01. Hallowed Flame - V - BA - NoS - B","nexusFileVersion":"2.0.0-H-01","nexusFileUploadedAt":1790513974,"pakFileName":"Hallowed Flame - Lunar Sacred Flame - H-01.pak","nexusFileId":131557,"metaUuid":null},
+{"nexusFileName":"H-02. Hallowed Flame - V - BA - ToS - B","nexusFileVersion":"2.0.0-H-02","nexusFileUploadedAt":1790513993,"pakFileName":"Hallowed Flame - Lunar Sacred Flame - H-02.pak","nexusFileId":131558,"metaUuid":null},
+{"nexusFileName":"H-03. Hallowed Flame - V - BA - NoS - C","nexusFileVersion":"2.0.0-H-03","nexusFileUploadedAt":1790514012,"pakFileName":"Hallowed Flame - Lunar Sacred Flame - H-03.pak","nexusFileId":131559,"metaUuid":null},
+{"nexusFileName":"H-04. Hallowed Flame - V - BA - ToS - C","nexusFileVersion":"2.0.0-H-04","nexusFileUploadedAt":1790514030,"pakFileName":"Hallowed Flame - Lunar Sacred Flame - H-04.pak","nexusFileId":131560,"metaUuid":null},
+{"nexusFileName":"H-05. Hallowed Flame - V - BA - NoS - R","nexusFileVersion":"2.0.0-H-05","nexusFileUploadedAt":1790514049,"pakFileName":"Hallowed Flame - Lunar Sacred Flame - H-05.pak","nexusFileId":131561,"metaUuid":null},
+{"nexusFileName":"H-06. Hallowed Flame - V - BA - ToS - R","nexusFileVersion":"2.0.0-H-06","nexusFileUploadedAt":1790514066,"pakFileName":"Hallowed Flame - Lunar Sacred Flame - H-06.pak","nexusFileId":131562,"metaUuid":null},
+{"nexusFileName":"Hallowed Flame - All Caster Addon","nexusFileVersion":"2.0.0","nexusFileUploadedAt":1790514098,"pakFileName":"Hallowed Flame - Lunar Sacred Flame - All Caster Addon.pak","nexusFileId":131563,"metaUuid":null},
+{"nexusFileName":"Hallowed Flame - Roll - Attack Roll","nexusFileVersion":"2.0.0","nexusFileUploadedAt":1790514427,"pakFileName":"Hallowed Flame - Lunar Sacred Flame - Attack Roll.pak","nexusFileId":131564,"metaUuid":null},
+{"nexusFileName":"Hallowed Flame - Roll - Charisma Save","nexusFileVersion":"2.0.0","nexusFileUploadedAt":1790514445,"pakFileName":"Hallowed Flame - Lunar Sacred Flame - Charisma Save.pak","nexusFileId":131565,"metaUuid":null},
+{"nexusFileName":"Hallowed Flame - Roll - Constitution Save","nexusFileVersion":"2.0.0","nexusFileUploadedAt":1790514470,"pakFileName":"Hallowed Flame - Lunar Sacred Flame - Constitution Save.pak","nexusFileId":131566,"metaUuid":null},
+{"nexusFileName":"Hallowed Flame - Roll - Intelligence Save","nexusFileVersion":"2.0.0","nexusFileUploadedAt":1790514488,"pakFileName":"Hallowed Flame - Lunar Sacred Flame - Intelligence Save.pak","nexusFileId":131567,"metaUuid":null},
+{"nexusFileName":"Hallowed Flame - Roll - Strength Save","nexusFileVersion":"2.0.0","nexusFileUploadedAt":1790514510,"pakFileName":"Hallowed Flame - Lunar Sacred Flame - Strength Save.pak","nexusFileId":131568,"metaUuid":null},
+{"nexusFileName":"Hallowed Flame - Roll - Wisdom Save","nexusFileVersion":"2.0.0","nexusFileUploadedAt":1790514932,"pakFileName":"Hallowed Flame - Lunar Sacred Flame - Wisdom Save.pak","nexusFileId":131569,"metaUuid":null}
 ]},
 "20576":{"nexusModName":"Various Rings and Amulets for Korean","nexusUploadedBy":"Eolaloe","nexusModId":20576,"paks":[
 {"nexusFileName":"Various Rings and Amulets for Korean","nexusFileVersion":"1.2.0","nexusFileUploadedAt":1767878183,"pakFileName":"VariousRingsAndAmulets_kr.pak","nexusFileId":111552,"metaUuid":"a714202a-4578-460a-90d2-9d8093ed0053"}
@@ -63072,7 +63122,8 @@
 {"nexusFileName":"SpaceMommiesAndDaddiesV3","nexusFileVersion":"3","nexusFileUploadedAt":1777372462,"pakFileName":"BaldursWars_a9d1ae4d-962e-2984-347d-6584d7265beb.pak","nexusFileId":120054,"metaUuid":"a9d1ae4d-962e-2984-347d-6584d7265beb"}
 ]},
 "22431":{"nexusModName":"Twitch Items Enabled","nexusUploadedBy":"MidnightChord","nexusModId":22431,"paks":[
-{"nexusFileName":"Twitch Items Enabled","nexusFileVersion":"1.0.0.4","nexusFileUploadedAt":1776211012,"pakFileName":"TwitchItemsEnabled_c75ab01c-0edd-5ce4-9ecd-9590769ba39e.pak","nexusFileId":119020,"metaUuid":"c75ab01c-0edd-5ce4-9ecd-9590769ba39e"}
+{"nexusFileName":"Twitch Items Enabled Tutorial Chest","nexusFileVersion":"1.0.0.4","nexusFileUploadedAt":1776211012,"pakFileName":"TwitchItemsEnabled_c75ab01c-0edd-5ce4-9ecd-9590769ba39e.pak","nexusFileId":119020,"metaUuid":"c75ab01c-0edd-5ce4-9ecd-9590769ba39e"},
+{"nexusFileName":"Twitch items Enabled Camp Chest","nexusFileVersion":"1.0.0.5","nexusFileUploadedAt":1790517846,"pakFileName":"TwitchItemsEnabled_c75ab01c-0edd-5ce4-9ecd-9590769ba39e.pak","nexusFileId":131572,"metaUuid":"c75ab01c-0edd-5ce4-9ecd-9590769ba39e"}
 ]},
 "22432":{"nexusModName":"Neon Prop Poses","nexusUploadedBy":"lycanicorn","nexusModId":22432,"paks":[
 {"nexusFileName":"Neon Prop Poses","nexusFileVersion":"1","nexusFileUploadedAt":1776528446,"pakFileName":"Neon_Prop_Poses_9287ec1b-0333-1605-560b-58b6f5c30ec0.pak","nexusFileId":119379,"metaUuid":"9287ec1b-0333-1605-560b-58b6f5c30ec0"}
@@ -69702,7 +69753,7 @@
 {"nexusFileName":"Solo Poses   Misc Edition","nexusFileVersion":"1","nexusFileUploadedAt":1789294019,"pakFileName":"houndsolomisc_bb213737-99fd-1799-a3cc-c2587c450e00.pak","nexusFileId":130434,"metaUuid":"bb213737-99fd-1799-a3cc-c2587c450e00"}
 ]},
 "24967":{"nexusModName":"Yet Another AI","nexusUploadedBy":"Sai","nexusModId":24967,"paks":[
-{"nexusFileName":"Yet Another AI","nexusFileVersion":"1.11","nexusFileUploadedAt":1790379898,"pakFileName":"Yet Another AI.pak","nexusFileId":131407,"metaUuid":"f7ca0a31-0d01-4da6-ad87-a82a3c541321"}
+{"nexusFileName":"Yet Another AI","nexusFileVersion":"1.12","nexusFileUploadedAt":1790519952,"pakFileName":"Yet Another AI.pak","nexusFileId":131575,"metaUuid":"f7ca0a31-0d01-4da6-ad87-a82a3c541321"}
 ]},
 "24969":{"nexusModName":"Varrl Evolved","nexusUploadedBy":"Exaen","nexusModId":24969,"paks":[
 {"nexusFileName":"VarrlEvolved","nexusFileVersion":"1.0.2.0","nexusFileUploadedAt":1789239645,"pakFileName":"VarrlEvolved_5d00eab7-f156-dd9c-ae68-1692b112f4e9.pak","nexusFileId":130380,"metaUuid":"5d00eab7-f156-dd9c-ae68-1692b112f4e9"}
@@ -69757,7 +69808,7 @@
 {"nexusFileName":"HT_MintharaAct3Romance_TraduzioneITA","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1789312350,"pakFileName":"HT_MintharaAct3Romance_TraduzioneITA.pak","nexusFileId":130452,"metaUuid":null}
 ]},
 "24994":{"nexusModName":"Francesca's Journal - Wyll Cinematic Universe Mod 2 Traduzione ITA","nexusUploadedBy":"EveeLaverne","nexusModId":24994,"paks":[
-{"nexusFileName":"MGNTN FrancescasJournal TraduzioneITA","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1789315718,"pakFileName":"MGNTN_FrancescasJournal_TraduzioneITA.pak","nexusFileId":130455,"metaUuid":null}
+{"nexusFileName":"MGNTN FrancescasJournal TraduzioneITA","nexusFileVersion":"1.0.0.1","nexusFileUploadedAt":1790519220,"pakFileName":"MGNTN_FrancescasJournal_TraduzioneITA.pak","nexusFileId":131573,"metaUuid":null}
 ]},
 "24996":{"nexusModName":"Brightest Star - A New Act 3 Romance Scene For Wyll Traduzione ITA","nexusUploadedBy":"EveeLaverne","nexusModId":24996,"paks":[
 {"nexusFileName":"MGNTN WyllAct3RoofROM CampNight TraduzioneITA","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1789317159,"pakFileName":"MGNTN_WyllAct3RoofROM_CampNight_TraduzioneITA.pak","nexusFileId":130456,"metaUuid":null}
@@ -70601,7 +70652,7 @@
 {"nexusFileName":"SummerBeach_TFD_HaileyDesertedIslandVacation","nexusFileVersion":"1","nexusFileUploadedAt":1790493893,"pakFileName":"SummerBeach_TheFirstDescendant_HaileyDesertedIslandVacation.pak","nexusFileId":131494,"metaUuid":null}
 ]},
 "25334":{"nexusModName":"True Wizard Ritual Casting","nexusUploadedBy":"AL12","nexusModId":25334,"paks":[
-{"nexusFileName":"True Wizard Ritual Casting","nexusFileVersion":"1.0.0.4","nexusFileUploadedAt":1790502800,"pakFileName":"TrueWizardRitualCasting_51ef52fa-29cd-4f11-a5cb-9515b60eb70d.pak","nexusFileId":131507,"metaUuid":null}
+{"nexusFileName":"True Wizard Ritual Casting","nexusFileVersion":"1.0.1.2","nexusFileUploadedAt":1790519757,"pakFileName":"TrueWizardRitualCasting_51ef52fa-29cd-4f11-a5cb-9515b60eb70d.pak","nexusFileId":131574,"metaUuid":null}
 ]},
 "25335":{"nexusModName":"DnD 5.5e Conjure Minor Elementals","nexusUploadedBy":"AL12","nexusModId":25335,"paks":[
 {"nexusFileName":"Conjure Minor Elementals 5.5e","nexusFileVersion":"1.0.0.2","nexusFileUploadedAt":1790503136,"pakFileName":"ConjureMinorElementals55e_6bfc3d1e-0d47-4a2e-9d85-2f1b7c4e8a93.pak","nexusFileId":131508,"metaUuid":null}
