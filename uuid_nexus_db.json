@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-09-27T14:53:43.890473+00:00","total_mods":17849},
+{"_meta":{"last_run":"2026-09-27T15:52:58.576850+00:00","total_mods":17851},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -70554,6 +70554,10 @@
 "25285":{"nexusModName":"Lux Aeterna - Armor and Camp Clothing","nexusUploadedBy":"khaleesinz","nexusModId":25285,"paks":[
 {"nexusFileName":"Lux Aeterna","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1790300321,"pakFileName":"LuxAeterna_khaleesinz_5a5689f4-b1e7-5002-ca73-b9da04dc8eb8.pak","nexusFileId":131353,"metaUuid":"5a5689f4-b1e7-5002-ca73-b9da04dc8eb8"}
 ]},
+"25287":{"nexusModName":"Make a Splash and In Too Deep","nexusUploadedBy":"SilverHawkeSings","nexusModId":25287,"paks":[
+{"nexusFileName":"In Too Deep","nexusFileVersion":"1","nexusFileUploadedAt":1790399981,"pakFileName":"SilverHawkesInTooDeep.pak","nexusFileId":131428,"metaUuid":null},
+{"nexusFileName":"Make A Splash","nexusFileVersion":"1","nexusFileUploadedAt":1790471132,"pakFileName":"SwimmingPoses_aed6e754-8ad0-d881-f9ce-17ffe98670d8.pak","nexusFileId":131488,"metaUuid":null}
+]},
 "25289":{"nexusModName":"Act Two Expansion - Custom Campaign - (PT-BR)","nexusUploadedBy":"Nicolasz1","nexusModId":25289,"paks":[
 {"nexusFileName":"ActTwoExpansion PTBR 0.8.0.5","nexusFileVersion":"1.0.1","nexusFileUploadedAt":1790394519,"pakFileName":"ActTwoExpansion_PTBR_1.0.1.pak","nexusFileId":131421,"metaUuid":null}
 ]},
@@ -70659,4 +70663,7 @@
 ]},
 "25336":{"nexusModName":"Refined Bladesinger Wizard","nexusUploadedBy":"AL12","nexusModId":25336,"paks":[
 {"nexusFileName":"Refined Bladesinger Wizard","nexusFileVersion":"1.0.0.4","nexusFileUploadedAt":1790503712,"pakFileName":"IntelligenceBladesinger_ac2206ee-77e3-fe3c-41b3-ca840c46e56b.pak","nexusFileId":131509,"metaUuid":null}
+]},
+"25341":{"nexusModName":"Trials of Tav Reloaded Traduction Francaise","nexusUploadedBy":"ssteevix","nexusModId":25341,"paks":[
+{"nexusFileName":"TrialsoftavReloadedFR","nexusFileVersion":"1","nexusFileUploadedAt":1790523335,"pakFileName":"TrialsoftavReloaded_FR.pak","nexusFileId":131582,"metaUuid":null}
 ]}}
