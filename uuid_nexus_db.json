@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-09-28T18:52:37.381922+00:00","total_mods":17874},
+{"_meta":{"last_run":"2026-09-28T19:52:50.637959+00:00","total_mods":17876},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -70691,6 +70691,10 @@
 "25352":{"nexusModName":"Act Two Expansion - Custom Campaign - (ES)","nexusUploadedBy":"Jetzzz","nexusModId":25352,"paks":[
 {"nexusFileName":"ActTwoExpansion ES 1.1.0","nexusFileVersion":"1.1.0","nexusFileUploadedAt":1790605869,"pakFileName":"ActTwoExpansion_ES_1.1.0.pak","nexusFileId":131643,"metaUuid":null}
 ]},
+"25353":{"nexusModName":"Eclipse - Action Economy Overhaul","nexusUploadedBy":"xJustAdam","nexusModId":25353,"paks":[
+{"nexusFileName":"Eclipse - Action Economy Overhaul","nexusFileVersion":"1","nexusFileUploadedAt":1790623864,"pakFileName":"Eclipse - Action Economy Overhaul.pak","nexusFileId":131666,"metaUuid":null},
+{"nexusFileName":"Unrestricted Solar State","nexusFileVersion":"1","nexusFileUploadedAt":1790624473,"pakFileName":"Unrestricted Solar State.pak","nexusFileId":131667,"metaUuid":null}
+]},
 "25354":{"nexusModName":"Cunning Strike - PHB 2024","nexusUploadedBy":"SilverCrossfire","nexusModId":25354,"paks":[
 {"nexusFileName":"CunningStrike2024","nexusFileVersion":"1.0.0.2","nexusFileUploadedAt":1790564349,"pakFileName":"CunningStrike2024_90dd7119-6954-3cb2-eaad-726b77a8b87c.pak","nexusFileId":131626,"metaUuid":"90dd7119-6954-3cb2-eaad-726b77a8b87c"}
 ]},
@@ -70738,4 +70742,7 @@
 {"nexusFileName":"TRM1 Races HW Head Edits MTF Addon Patch","nexusFileVersion":"1","nexusFileUploadedAt":1790617383,"pakFileName":"HW_HeadEdits_FrameAddonMTF_TRM1R.pak","nexusFileId":131661,"metaUuid":null},
 {"nexusFileName":"TRM1 Races Jerinski's BT1 Heads Patch","nexusFileVersion":"1","nexusFileUploadedAt":1790617459,"pakFileName":"jerinski_bt1_heads_TRM1R.pak","nexusFileId":131662,"metaUuid":null},
 {"nexusFileName":"TRM1 Races Invisi-Bee Heads Patch","nexusFileVersion":"1","nexusFileUploadedAt":1790617487,"pakFileName":"invisi-bee_Heads_TRM1R.pak","nexusFileId":131663,"metaUuid":null}
+]},
+"25380":{"nexusModName":"Critical Range Details","nexusUploadedBy":"Sukibi","nexusModId":25380,"paks":[
+{"nexusFileName":"CriticalHitRange V1.0.0","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1790621901,"pakFileName":"CriticalHitRange_v1.0.0.pak","nexusFileId":131665,"metaUuid":null}
 ]}}
