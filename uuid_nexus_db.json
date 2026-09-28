@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-09-28T00:52:58.769721+00:00","total_mods":17860},
+{"_meta":{"last_run":"2026-09-28T01:52:23.236569+00:00","total_mods":17861},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -70693,4 +70693,8 @@
 ]},
 "25352":{"nexusModName":"Act Two Expansion - Custom Campaign - (ES)","nexusUploadedBy":"Jetzzz","nexusModId":25352,"paks":[
 {"nexusFileName":"ActTwoExpansion ES 1.0.0","nexusFileVersion":"1","nexusFileUploadedAt":1790547857,"pakFileName":"ActTwoExpansion_ES_1.0.0.pak","nexusFileId":131607,"metaUuid":null}
+]},
+"25355":{"nexusModName":"Post-Mortem Combat Log","nexusUploadedBy":"iBeardBros","nexusModId":25355,"paks":[
+{"nexusFileName":"PostMortemCombatLog V1.0.1 ImpUI P8","nexusFileVersion":"1.0.1","nexusFileUploadedAt":1790558000,"pakFileName":"PostMortemCombatLog_v1.0.1_ImpUI_P8.pak","nexusFileId":131617,"metaUuid":null},
+{"nexusFileName":"PostMortemCombatLog V1.0.1 Vanilla","nexusFileVersion":"1.0.1","nexusFileUploadedAt":1790558036,"pakFileName":"PostMortemCombatLog_v1.0.1_Vanilla.pak","nexusFileId":131618,"metaUuid":null}
 ]}}
