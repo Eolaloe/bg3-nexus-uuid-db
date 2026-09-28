@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-09-28T13:52:45.766224+00:00","total_mods":17866},
+{"_meta":{"last_run":"2026-09-28T14:52:51.826006+00:00","total_mods":17867},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -70689,7 +70689,7 @@
 {"nexusFileName":"Subtle Dialogue Tweaks For Carrion","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1790547470,"pakFileName":"Subtle dialogue tweaks for Carrion.pak","nexusFileId":131606,"metaUuid":"1cf0c393-43e2-4bd1-9443-70911231c136"}
 ]},
 "25352":{"nexusModName":"Act Two Expansion - Custom Campaign - (ES)","nexusUploadedBy":"Jetzzz","nexusModId":25352,"paks":[
-{"nexusFileName":"ActTwoExpansion ES 1.0.0","nexusFileVersion":"1","nexusFileUploadedAt":1790547857,"pakFileName":"ActTwoExpansion_ES_1.0.0.pak","nexusFileId":131607,"metaUuid":null}
+{"nexusFileName":"ActTwoExpansion ES 1.1.0","nexusFileVersion":"1.1.0","nexusFileUploadedAt":1790605869,"pakFileName":"ActTwoExpansion_ES_1.1.0.pak","nexusFileId":131643,"metaUuid":null}
 ]},
 "25354":{"nexusModName":"Cunning Strike - PHB 2024","nexusUploadedBy":"SilverCrossfire","nexusModId":25354,"paks":[
 {"nexusFileName":"CunningStrike2024","nexusFileVersion":"1.0.0.2","nexusFileUploadedAt":1790564349,"pakFileName":"CunningStrike2024_90dd7119-6954-3cb2-eaad-726b77a8b87c.pak","nexusFileId":131626,"metaUuid":"90dd7119-6954-3cb2-eaad-726b77a8b87c"}
@@ -70709,4 +70709,10 @@
 ]},
 "25365":{"nexusModName":"Dark Urge Tweeaks French Translation","nexusUploadedBy":"Dragonoid2025","nexusModId":25365,"paks":[
 {"nexusFileName":"HT DarkUrgeTweeaks FR","nexusFileVersion":"1","nexusFileUploadedAt":1790598893,"pakFileName":"HT_DarkUrgeTweeaks_FR.pak","nexusFileId":131637,"metaUuid":null}
+]},
+"25368":{"nexusModName":"Symphony of a Vampire Fix Jump-Fly Shortcut Patch","nexusUploadedBy":"SexSux","nexusModId":25368,"paks":[
+{"nexusFileName":"Vampiric Tree Fix Jump Fly Shortcut Patch","nexusFileVersion":"1","nexusFileUploadedAt":1790605774,"pakFileName":"vampiric_tree_fix_jump-fly_shortcut_patch.pak","nexusFileId":131642,"metaUuid":null}
+]},
+"25369":{"nexusModName":"Instant Climbing","nexusUploadedBy":"Sukibi","nexusModId":25369,"paks":[
+{"nexusFileName":"InstantClimbing V1.0.0","nexusFileVersion":"1","nexusFileUploadedAt":1790606433,"pakFileName":"InstantClimbing_v1.0.0.pak","nexusFileId":131644,"metaUuid":null}
 ]}}
