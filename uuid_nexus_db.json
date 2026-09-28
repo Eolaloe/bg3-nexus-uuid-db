@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-09-28T20:52:20.228918+00:00","total_mods":17876},
+{"_meta":{"last_run":"2026-09-28T22:51:48.800279+00:00","total_mods":17881},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -50757,19 +50757,7 @@
 {"nexusFileName":"Better Shortswords","nexusFileVersion":"1.0","nexusFileUploadedAt":1755760558,"pakFileName":"BetterShortswords.pak","nexusFileId":101137,"metaUuid":"b7c8406e-6572-4772-8993-a8a4ad3ec783"}
 ]},
 "18263":{"nexusModName":"Dirt B Gone - NPC Edition","nexusUploadedBy":"whatsontheflip","nexusModId":18263,"paks":[
-{"nexusFileName":"Nine-Fingers - Dirt B Gone","nexusFileVersion":"1.0.0.2","nexusFileUploadedAt":1755913081,"pakFileName":"NineFingers_DirtBGone_4f9df7c4-4bd7-bd3b-fa27-dbb8fa7eab73.pak","nexusFileId":101234,"metaUuid":"4f9df7c4-4bd7-bd3b-fa27-dbb8fa7eab73"},
-{"nexusFileName":"Quartermaster Talli - Dirt B Gone","nexusFileVersion":"1.0.0.2","nexusFileUploadedAt":1756524853,"pakFileName":"QuartermasterTalli_DirtBGone_aa9eba22-bbcd-99cf-e5a5-dfcfd656222a.pak","nexusFileId":101684,"metaUuid":null},
-{"nexusFileName":"Kagha - Dirt B Gone","nexusFileVersion":"1.0.0.1","nexusFileUploadedAt":1756703120,"pakFileName":"Kagha_DirtBGone_d78d710d-78b2-851a-ed87-a8a04200fb46.pak","nexusFileId":101823,"metaUuid":"d78d710d-78b2-851a-ed87-a8a04200fb46"},
-{"nexusFileName":"Auntie Ethel - Dirt B Gone","nexusFileVersion":"1.0.0.1","nexusFileUploadedAt":1770337208,"pakFileName":"Auntie_Ethel_DirtBGone_4cca3421-1ab8-1aa2-dd3f-c23dcea9ac37.pak","nexusFileId":114209,"metaUuid":null},
-{"nexusFileName":"Rolan - Blood B Gone","nexusFileVersion":"1.0.0.2","nexusFileUploadedAt":1770410248,"pakFileName":"Rolan_BloodBGone_92d7c551-ae62-fa20-cf95-bb559e9f414e.pak","nexusFileId":114281,"metaUuid":"92d7c551-ae62-fa20-cf95-bb559e9f414e"},
-{"nexusFileName":"Roah Moonglow - Dirt B Gone","nexusFileVersion":"1.0.0.1","nexusFileUploadedAt":1771810476,"pakFileName":"Roah_Moonglow_DirtBGone_722e47f1-45bb-6a10-89d1-29d144598dc8.pak","nexusFileId":115431,"metaUuid":null},
-{"nexusFileName":"All in One Version (Single Pak)","nexusFileVersion":"1.0.5.0","nexusFileUploadedAt":1771810854,"pakFileName":"DirtBGone_NPC_AllInOne_4dcadaf7-7fb3-ba8d-1954-e4a17b324a11.pak","nexusFileId":115432,"metaUuid":"4dcadaf7-7fb3-ba8d-1954-e4a17b324a11"},
-{"nexusFileName":"All in One Version (Separate paks)","nexusFileVersion":"1.0.5.0","nexusFileUploadedAt":1771810930,"pakFileName":"Auntie_Ethel_DirtBGone_4cca3421-1ab8-1aa2-dd3f-c23dcea9ac37.pak","nexusFileId":115433,"metaUuid":"d78d710d-78b2-851a-ed87-a8a04200fb46"},
-{"nexusFileName":"All in One Version (Separate paks)","nexusFileVersion":"1.0.5.0","nexusFileUploadedAt":1771810930,"pakFileName":"Kagha_DirtBGone_d78d710d-78b2-851a-ed87-a8a04200fb46.pak","nexusFileId":115433,"metaUuid":"d78d710d-78b2-851a-ed87-a8a04200fb46"},
-{"nexusFileName":"All in One Version (Separate paks)","nexusFileVersion":"1.0.5.0","nexusFileUploadedAt":1771810930,"pakFileName":"NineFingers_DirtBGone_4f9df7c4-4bd7-bd3b-fa27-dbb8fa7eab73.pak","nexusFileId":115433,"metaUuid":"d78d710d-78b2-851a-ed87-a8a04200fb46"},
-{"nexusFileName":"All in One Version (Separate paks)","nexusFileVersion":"1.0.5.0","nexusFileUploadedAt":1771810930,"pakFileName":"QuartermasterTalli_DirtBGone_aa9eba22-bbcd-99cf-e5a5-dfcfd656222a.pak","nexusFileId":115433,"metaUuid":"d78d710d-78b2-851a-ed87-a8a04200fb46"},
-{"nexusFileName":"All in One Version (Separate paks)","nexusFileVersion":"1.0.5.0","nexusFileUploadedAt":1771810930,"pakFileName":"Roah_Moonglow_DirtBGone_722e47f1-45bb-6a10-89d1-29d144598dc8.pak","nexusFileId":115433,"metaUuid":"d78d710d-78b2-851a-ed87-a8a04200fb46"},
-{"nexusFileName":"All in One Version (Separate paks)","nexusFileVersion":"1.0.5.0","nexusFileUploadedAt":1771810930,"pakFileName":"Rolan_BloodBGone_92d7c551-ae62-fa20-cf95-bb559e9f414e.pak","nexusFileId":115433,"metaUuid":"d78d710d-78b2-851a-ed87-a8a04200fb46"}
+{"nexusFileName":"Dirt B Gone - NPC Edition","nexusFileVersion":"2.0.0.3","nexusFileUploadedAt":1790634246,"pakFileName":"DirtBGone_NPC_AllInOne.pak","nexusFileId":131677,"metaUuid":null}
 ]},
 "18264":{"nexusModName":"Better Battleaxes","nexusUploadedBy":"KiwiLifter","nexusModId":18264,"paks":[
 {"nexusFileName":"Better Battleaxes","nexusFileVersion":"1.0","nexusFileUploadedAt":1755927868,"pakFileName":"BetterBattleAxes.pak","nexusFileId":101248,"metaUuid":"a977534d-ef19-4527-af5e-c5108d7e418c"}
@@ -70287,7 +70275,7 @@
 ]},
 "25183":{"nexusModName":"Equipment Loadouts MCM","nexusUploadedBy":"iBeardBros","nexusModId":25183,"paks":[
 {"nexusFileName":"EquipmentLoadoutsMCM v2.0.0.1 Standalone Window","nexusFileVersion":"2.0.0.1","nexusFileUploadedAt":1790202438,"pakFileName":"EquipmentLoadoutsMCM_v2.0.1.pak","nexusFileId":131266,"metaUuid":"afc5a36a-58e0-4720-a284-2acd888debd4"},
-{"nexusFileName":"EquipmentLoadoutsMCM V3.0.2.0","nexusFileVersion":"3.0.2.1","nexusFileUploadedAt":1790616293,"pakFileName":"EquipmentLoadoutsMCM_v3.0.20.pak","nexusFileId":131654,"metaUuid":null}
+{"nexusFileName":"EquipmentLoadoutsMCM V3.0.2.1","nexusFileVersion":"3.0.2.1","nexusFileUploadedAt":1790616293,"pakFileName":"EquipmentLoadoutsMCM_v3.0.20.pak","nexusFileId":131654,"metaUuid":null}
 ]},
 "25186":{"nexusModName":"Dinner With Strahd - A Curse of Strahd Story Mod - Deutsch","nexusUploadedBy":"Myndo","nexusModId":25186,"paks":[
 {"nexusFileName":"Dinner With Strahd - German Translation","nexusFileVersion":"1.2","nexusFileUploadedAt":1790007350,"pakFileName":"PlayingAround2_GermanTranslation.pak","nexusFileId":131055,"metaUuid":null}
@@ -70664,6 +70652,9 @@
 "25341":{"nexusModName":"Trials of Tav Reloaded Traduction Francaise","nexusUploadedBy":"ssteevix","nexusModId":25341,"paks":[
 {"nexusFileName":"TrialsoftavReloadedFR","nexusFileVersion":"1","nexusFileUploadedAt":1790523335,"pakFileName":"TrialsoftavReloaded_FR.pak","nexusFileId":131582,"metaUuid":null}
 ]},
+"25342":{"nexusModName":"ArcBlade Wizard Subclass_Now with Level 20 Support - PTBR 2026","nexusUploadedBy":"BarovZx","nexusModId":25342,"paks":[
+{"nexusFileName":"ArcBlade PTBR","nexusFileVersion":"26.10.2025","nexusFileUploadedAt":1790522783,"pakFileName":"ArcBlade PTBR.pak","nexusFileId":131581,"metaUuid":null}
+]},
 "25343":{"nexusModName":"Party Tactics AI","nexusUploadedBy":"seyelive","nexusModId":25343,"paks":[
 {"nexusFileName":"PartyTactics V0.5.1","nexusFileVersion":"0.5.1","nexusFileUploadedAt":1790524211,"pakFileName":"PartyTactics.pak","nexusFileId":131584,"metaUuid":"a424f5f3-4099-4665-8492-0da8ea23b1b7"}
 ]},
@@ -70715,7 +70706,7 @@
 {"nexusFileName":"Perfection Oath PTBR","nexusFileVersion":"1","nexusFileUploadedAt":1790587337,"pakFileName":"Perfection_Oath_PTBR.pak","nexusFileId":131635,"metaUuid":null}
 ]},
 "25365":{"nexusModName":"Dark Urge Tweeaks French Translation","nexusUploadedBy":"Dragonoid2025","nexusModId":25365,"paks":[
-{"nexusFileName":"HT DarkUrgeTweeaks FR","nexusFileVersion":"1","nexusFileUploadedAt":1790598893,"pakFileName":"HT_DarkUrgeTweeaks_FR.pak","nexusFileId":131637,"metaUuid":null}
+{"nexusFileName":"HT DarkUrgeTweeaks FR","nexusFileVersion":"2","nexusFileUploadedAt":1790630699,"pakFileName":"HT_DarkUrgeTweeaks_FR.pak","nexusFileId":131669,"metaUuid":null}
 ]},
 "25368":{"nexusModName":"Symphony of a Vampire Fix Jump-Fly Shortcut Patch","nexusUploadedBy":"SexSux","nexusModId":25368,"paks":[
 {"nexusFileName":"Vampiric Tree Fix Jump Fly Shortcut Patch","nexusFileVersion":"1","nexusFileUploadedAt":1790605774,"pakFileName":"vampiric_tree_fix_jump-fly_shortcut_patch.pak","nexusFileId":131642,"metaUuid":"042cebbc-8f10-4b26-ac31-6c70932769f1"}
@@ -70745,4 +70736,17 @@
 ]},
 "25380":{"nexusModName":"Critical Range Details","nexusUploadedBy":"Sukibi","nexusModId":25380,"paks":[
 {"nexusFileName":"CriticalHitRange V1.0.0","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1790621901,"pakFileName":"CriticalHitRange_v1.0.0.pak","nexusFileId":131665,"metaUuid":"9b27ce51-0f6f-4e72-a9e4-7ca43e8e50f1"}
+]},
+"25382":{"nexusModName":"ksMakeVoiceUa","nexusUploadedBy":"ksMake","nexusModId":25382,"paks":[
+{"nexusFileName":"KsMakeVoiceUa","nexusFileVersion":"1.1.0.0","nexusFileUploadedAt":1790627135,"pakFileName":"ksMakeVoiceUa.pak","nexusFileId":131668,"metaUuid":null},
+{"nexusFileName":"KsMakeVoiceUa","nexusFileVersion":"1.1.0.0","nexusFileUploadedAt":1790627135,"pakFileName":"ksMakeVoiceUa_1.pak","nexusFileId":131668,"metaUuid":null}
+]},
+"25383":{"nexusModName":"Fall of the Valorous - German (Deutsch)","nexusUploadedBy":"Myndo","nexusModId":25383,"paks":[
+{"nexusFileName":"Fall of the Valorous - German Translation","nexusFileVersion":"1.2.0","nexusFileUploadedAt":1790633286,"pakFileName":"FallOfTheValorous_GermanTranslation.pak","nexusFileId":131676,"metaUuid":null}
+]},
+"25384":{"nexusModName":"Weapons on Hip Animations - SwordFix","nexusUploadedBy":"TheHbomb","nexusModId":25384,"paks":[
+{"nexusFileName":"WeaponHip   Works","nexusFileVersion":"1.0","nexusFileUploadedAt":1790631465,"pakFileName":"(HN)WeaponSheathingOnHip_939704ad-ebf8-fdf7-0aa9-b7979e023a3b.pak","nexusFileId":131671,"metaUuid":null}
+]},
+"25385":{"nexusModName":"Vlaakith Portrait Dialogue Fix French Translation","nexusUploadedBy":"Dragonoid2025","nexusModId":25385,"paks":[
+{"nexusFileName":"VlaakithPortraitDialogueFix FR","nexusFileVersion":"1","nexusFileUploadedAt":1790630950,"pakFileName":"VlaakithPortraitDialogueFix_FR.pak","nexusFileId":131670,"metaUuid":null}
 ]}}
