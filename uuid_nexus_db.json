@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-09-28T14:52:51.826006+00:00","total_mods":17867},
+{"_meta":{"last_run":"2026-09-28T15:52:43.143831+00:00","total_mods":17869},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -69325,7 +69325,7 @@
 {"nexusFileName":"XFED AIO CHS","nexusFileVersion":"1.0.0.23","nexusFileUploadedAt":1789261090,"pakFileName":"xFED_AIO_CHS.pak","nexusFileId":130412,"metaUuid":null}
 ]},
 "24783":{"nexusModName":"Hexrunner","nexusUploadedBy":"angleet","nexusModId":24783,"paks":[
-{"nexusFileName":"Hexrunner V1.5.16.18","nexusFileVersion":"2","nexusFileUploadedAt":1789920998,"pakFileName":"Hexrunner.pak","nexusFileId":130985,"metaUuid":"d596c071-4908-4b98-8ced-ae9696ba3c85"}
+{"nexusFileName":"Hexrunner V1.5.16.19","nexusFileVersion":"3","nexusFileUploadedAt":1790608366,"pakFileName":"Hexrunner.pak","nexusFileId":131646,"metaUuid":"d596c071-4908-4b98-8ced-ae9696ba3c85"}
 ]},
 "24787":{"nexusModName":"Artificer class and all subclasses - Traditional Chinese and Simplified Chinese Translation","nexusUploadedBy":"MaxStoKe","nexusModId":24787,"paks":[
 {"nexusFileName":"Artificer_CHT_CHS","nexusFileVersion":"2.22.0","nexusFileUploadedAt":1789555433,"pakFileName":"Artificer_CHT_CHS.pak","nexusFileId":130635,"metaUuid":null}
@@ -70701,6 +70701,9 @@
 "25356":{"nexusModName":"Circle of Wildfire Druid Subclass - German (Deutsch)","nexusUploadedBy":"Myndo","nexusModId":25356,"paks":[
 {"nexusFileName":"Circle of Wildfire Druid Subclass - Deutsch","nexusFileVersion":"1.3","nexusFileUploadedAt":1790559304,"pakFileName":"Circle of Wildfire Druid Subclass - German Translation.pak","nexusFileId":131620,"metaUuid":null}
 ]},
+"25357":{"nexusModName":"Winter Walker Ranger Subclass - German (Deutsch)","nexusUploadedBy":"Myndo","nexusModId":25357,"paks":[
+{"nexusFileName":"Winter Walker Ranger Subclass - German Translation","nexusFileVersion":"1.2","nexusFileUploadedAt":1790562313,"pakFileName":"Winter Walker Ranger Subclass - German Translation.pak","nexusFileId":131622,"metaUuid":null}
+]},
 "25361":{"nexusModName":"Pommelstrike's Chair Collection","nexusUploadedBy":"pommelstrike","nexusModId":25361,"paks":[
 {"nexusFileName":"Pommelstrike's Chair Collection","nexusFileVersion":"1.0.0.7","nexusFileUploadedAt":1790577868,"pakFileName":"pmlstk_Chair_Collection_2ab7930b-5052-3238-9694-b70c90d903ac.pak","nexusFileId":131630,"metaUuid":null}
 ]},
@@ -70715,4 +70718,7 @@
 ]},
 "25369":{"nexusModName":"Instant Climbing","nexusUploadedBy":"Sukibi","nexusModId":25369,"paks":[
 {"nexusFileName":"InstantClimbing V1.0.0","nexusFileVersion":"1","nexusFileUploadedAt":1790606433,"pakFileName":"InstantClimbing_v1.0.0.pak","nexusFileId":131644,"metaUuid":null}
+]},
+"25370":{"nexusModName":"Zevlor Dynamic Appearances (Russian Translate)","nexusUploadedBy":"SexSux","nexusModId":25370,"paks":[
+{"nexusFileName":"Zevlor Dynamic Appearance (RUS)","nexusFileVersion":"1.0","nexusFileUploadedAt":1790607245,"pakFileName":"ZevlorDynamicAppearance_e41c45f7-d5d9-8d79-ab9e-e0f599c17ff2_RUS.pak","nexusFileId":131645,"metaUuid":null}
 ]}}
