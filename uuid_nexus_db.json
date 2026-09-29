@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-09-29T14:52:34.819215+00:00","total_mods":17888},
+{"_meta":{"last_run":"2026-09-29T15:52:13.807020+00:00","total_mods":17891},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -52282,8 +52282,8 @@
 {"nexusFileName":"Better Races NPC Origins Edition","nexusFileVersion":"1.0","nexusFileUploadedAt":1760424790,"pakFileName":"BetterRacesNPC.pak","nexusFileId":105122,"metaUuid":null},
 {"nexusFileName":"Better Races Tiefling","nexusFileVersion":"1.0","nexusFileUploadedAt":1761611898,"pakFileName":"BetterRacesNPC.pak","nexusFileId":106156,"metaUuid":null}
 ]},
-"18815":{"nexusModName":"Su-Metal's Hair (BABYMETAL)","nexusUploadedBy":"mouch30","nexusModId":18815,"paks":[
-{"nexusFileName":"Su-Metal Hairstyle","nexusFileVersion":"1.0.1","nexusFileUploadedAt":1774282267,"pakFileName":"M30_DaltonComm_SuMetalHair.pak","nexusFileId":117308,"metaUuid":"1692d421-5863-4829-82a7-7986044bf673"}
+"18815":{"nexusModName":"Babymetal Hair Pack","nexusUploadedBy":"mouch30","nexusModId":18815,"paks":[
+{"nexusFileName":"Babymetal Hairs","nexusFileVersion":"1","nexusFileUploadedAt":1790694960,"pakFileName":"M30_BBYMTL_Hair_01dcf4a1-32da-5599-0681-bb95bec5ebbc.pak","nexusFileId":131709,"metaUuid":null}
 ]},
 "18817":{"nexusModName":"YOU Narrator","nexusUploadedBy":"ToxicDrake","nexusModId":18817,"paks":[
 {"nexusFileName":"YouN_Frieren","nexusFileVersion":"1","nexusFileUploadedAt":1758639427,"pakFileName":"YouN_Frieren.pak","nexusFileId":103514,"metaUuid":null},
@@ -70770,4 +70770,13 @@
 ]},
 "25393":{"nexusModName":"Fangs and Skulls - Spanish Translation (ES)","nexusUploadedBy":"Jetzzz","nexusModId":25393,"paks":[
 {"nexusFileName":"Fangs and Skulls Espanol 1.0.0","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1790688339,"pakFileName":"Fangs_and_Skulls_Espanol_1.0.0.pak","nexusFileId":131702,"metaUuid":null}
+]},
+"25395":{"nexusModName":"pkheartbreak's Hip Sheathing_Hotfixed","nexusUploadedBy":"TheHbomb","nexusModId":25395,"paks":[
+{"nexusFileName":"pkheartbreak's HipSheath","nexusFileVersion":"1","nexusFileUploadedAt":1790693704,"pakFileName":"Hip_Sheath_1HS_0c4888a6-3d85-a9cd-89d6-4a9b13bcf7f9.pak","nexusFileId":131708,"metaUuid":null}
+]},
+"25396":{"nexusModName":"Equipment For Summons - Russian Translation","nexusUploadedBy":"SNKmod777","nexusModId":25396,"paks":[
+{"nexusFileName":"SummonEquip RU","nexusFileVersion":"1.0","nexusFileUploadedAt":1790696368,"pakFileName":"SummonEquip_RU.pak","nexusFileId":131711,"metaUuid":null}
+]},
+"25398":{"nexusModName":"Spellfire Sorcery Sorcerer Subclass - PTBR 2026","nexusUploadedBy":"BarovZx","nexusModId":25398,"paks":[
+{"nexusFileName":"SpellFire Sorcery Subclass PTBR","nexusFileVersion":"11.07.2025","nexusFileUploadedAt":1790695739,"pakFileName":"SpellFire Sorcery Subclass PTBR.pak","nexusFileId":131710,"metaUuid":null}
 ]}}
