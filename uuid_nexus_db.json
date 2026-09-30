@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-09-30T02:51:35.956813+00:00","total_mods":17899},
+{"_meta":{"last_run":"2026-09-30T03:51:47.841611+00:00","total_mods":17899},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -50049,7 +50049,7 @@
 {"nexusFileName":"Better Haflings","nexusFileVersion":"1.2","nexusFileUploadedAt":1755939915,"pakFileName":"BetterHalflings1.1.pak","nexusFileId":101271,"metaUuid":"3ffc6749-1dd9-491a-b9b8-e6e4e3bfe120"}
 ]},
 "18003":{"nexusModName":"Ruojo Spell Adjustment","nexusUploadedBy":"Ruojo","nexusModId":18003,"paks":[
-{"nexusFileName":"RuojoSpellAdjustment_c7c87963-d945-3e98-f641-88860","nexusFileVersion":"1.0.1.3","nexusFileUploadedAt":1790043942,"pakFileName":"RuojoSpellAdjustment_c7c87963-d945-3e98-f641-88860a782dcd.pak","nexusFileId":131112,"metaUuid":"c7c87963-d945-3e98-f641-88860a782dcd"}
+{"nexusFileName":"RuojoSpellAdjustment_c7c87963-d945-3e98-f641-88860","nexusFileVersion":"1.0.1.4","nexusFileUploadedAt":1790738505,"pakFileName":"RuojoSpellAdjustment_c7c87963-d945-3e98-f641-88860a782dcd.pak","nexusFileId":131734,"metaUuid":"c7c87963-d945-3e98-f641-88860a782dcd"}
 ]},
 "18004":{"nexusModName":"FaerunColors - German Translation","nexusUploadedBy":"verdanndi","nexusModId":18004,"paks":[
 {"nexusFileName":"FaerunColors - German Translation","nexusFileVersion":"1.0.3.0","nexusFileUploadedAt":1789141370,"pakFileName":"Faerûn Colors German.pak","nexusFileId":130289,"metaUuid":null}
@@ -69371,7 +69371,7 @@
 {"nexusFileName":"Frozen Heads Mod V1.1","nexusFileVersion":"1.1","nexusFileUploadedAt":1788798592,"pakFileName":"Elsa_Head_Mod_ef5f054d-2b9f-ec09-5b81-7e66d25999ac.pak","nexusFileId":129978,"metaUuid":null}
 ]},
 "24811":{"nexusModName":"Master of the wind","nexusUploadedBy":"justakidelcor","nexusModId":24811,"paks":[
-{"nexusFileName":"Master Of The Wind","nexusFileVersion":"1.4.1","nexusFileUploadedAt":1788594673,"pakFileName":"Master of the wind.pak","nexusFileId":129738,"metaUuid":"f5376ad1-43e2-4e94-9e49-fa9408fac7aa"}
+{"nexusFileName":"Master Of The Wind","nexusFileVersion":"1.5","nexusFileUploadedAt":1790739253,"pakFileName":"Master of the wind.pak","nexusFileId":131735,"metaUuid":"f5376ad1-43e2-4e94-9e49-fa9408fac7aa"}
 ]},
 "24812":{"nexusModName":"sumradagnoth8's 5e Subclasses Combined - Traditional Chinese and Simplified Chinese Translation","nexusUploadedBy":"MaxStoKe","nexusModId":24812,"paks":[
 {"nexusFileName":"5e Subclasses Combined CHT CHS","nexusFileVersion":"1.0","nexusFileUploadedAt":1789581538,"pakFileName":"5e_Subclasses_Combined_CHT_CHS_v2.pak","nexusFileId":130674,"metaUuid":null}
@@ -70374,8 +70374,9 @@
 {"nexusFileName":"OO Paladin Equipment RU","nexusFileVersion":"1.0.0.3","nexusFileUploadedAt":1790114849,"pakFileName":"OO_Paladin_Equipment_RU.pak","nexusFileId":131163,"metaUuid":null}
 ]},
 "25228":{"nexusModName":"Combat Statistics","nexusUploadedBy":"Sukibi","nexusModId":25228,"paks":[
-{"nexusFileName":"Combat Statistics","nexusFileVersion":"1.0.4","nexusFileUploadedAt":1790645836,"pakFileName":"CombatStatistics_v1.0.4.pak","nexusFileId":131684,"metaUuid":null},
-{"nexusFileName":"BETA - CombatStatistics Multiplayer Addon","nexusFileVersion":"1.0.1","nexusFileUploadedAt":1790727991,"pakFileName":"CombatStatistics_MultiplayerAddon_v0.1.1_HOST_FIX.pak","nexusFileId":131726,"metaUuid":null}
+{"nexusFileName":"BETA - CombatStatistics Multiplayer Addon","nexusFileVersion":"1.0.1","nexusFileUploadedAt":1790727991,"pakFileName":"CombatStatistics_MultiplayerAddon_v0.1.1_HOST_FIX.pak","nexusFileId":131726,"metaUuid":null},
+{"nexusFileName":"Combat Statistics","nexusFileVersion":"1.0.5","nexusFileUploadedAt":1790736847,"pakFileName":"CombatStatistics_v1.0.5_LOCALIZATION_READY.pak","nexusFileId":131732,"metaUuid":null},
+{"nexusFileName":"Combat Statistics TRANSLATOR PACKAGE","nexusFileVersion":"1","nexusFileUploadedAt":1790736871,"pakFileName":"CombatStatistics_v1.0.5_LOCALIZATION_READY.pak","nexusFileId":131733,"metaUuid":null}
 ]},
 "25229":{"nexusModName":"Banshee Soul - A Sorcerer Subclass","nexusUploadedBy":"CarmillaNightstar","nexusModId":25229,"paks":[
 {"nexusFileName":"BansheeSoul1.2.0","nexusFileVersion":"2","nexusFileUploadedAt":1790398043,"pakFileName":"BansheeSoul.pak","nexusFileId":131427,"metaUuid":"7c3e9a14-5b2d-4f81-9e6a-2d4b8c1f0a37"}
