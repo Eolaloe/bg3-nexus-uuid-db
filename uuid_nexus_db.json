@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-09-30T01:51:43.489059+00:00","total_mods":17898},
+{"_meta":{"last_run":"2026-09-30T02:51:35.956813+00:00","total_mods":17899},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -70744,7 +70744,8 @@
 {"nexusFileName":"TRM1 Races Invisi-Bee Heads Patch","nexusFileVersion":"1","nexusFileUploadedAt":1790617487,"pakFileName":"invisi-bee_Heads_TRM1R.pak","nexusFileId":131663,"metaUuid":null}
 ]},
 "25380":{"nexusModName":"Critical Range Details","nexusUploadedBy":"Sukibi","nexusModId":25380,"paks":[
-{"nexusFileName":"CriticalHitRange V1.0.1","nexusFileVersion":"1.0.1","nexusFileUploadedAt":1790687733,"pakFileName":"CriticalHitRange_v1.0.1.pak","nexusFileId":131701,"metaUuid":null}
+{"nexusFileName":"CriticalHitRange V1.0.1","nexusFileVersion":"1.0.1","nexusFileUploadedAt":1790687733,"pakFileName":"CriticalHitRange_v1.0.1.pak","nexusFileId":131701,"metaUuid":null},
+{"nexusFileName":"Critical Hit Range Character Panel","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1790733694,"pakFileName":"CriticalHitRange_CharacterPanel_v1.0.0.pak","nexusFileId":131731,"metaUuid":null}
 ]},
 "25382":{"nexusModName":"ksMakeVoiceUa","nexusUploadedBy":"ksMake","nexusModId":25382,"paks":[
 {"nexusFileName":"KsMakeVoiceUa","nexusFileVersion":"1.1.0.0","nexusFileUploadedAt":1790627135,"pakFileName":"ksMakeVoiceUa.pak","nexusFileId":131668,"metaUuid":null},
@@ -70800,4 +70801,7 @@
 ]},
 "25404":{"nexusModName":"Rielle Head for BT1 Elves and Drow","nexusUploadedBy":"tepkunset","nexusModId":25404,"paks":[
 {"nexusFileName":"RielleHead TEP","nexusFileVersion":"1","nexusFileUploadedAt":1790728206,"pakFileName":"RielleHead_TEP.pak","nexusFileId":131727,"metaUuid":null}
+]},
+"25406":{"nexusModName":"NPC Revamp - Part 3 (Russian Translate)","nexusUploadedBy":"SexSux","nexusModId":25406,"paks":[
+{"nexusFileName":"NPC Revamp - Part 3 (RUS)","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1790732773,"pakFileName":"NPC_Revamp_various_18050baf-3d51-ca60-3c2f-a1ff5f51fe88_RUS.pak","nexusFileId":131730,"metaUuid":null}
 ]}}
