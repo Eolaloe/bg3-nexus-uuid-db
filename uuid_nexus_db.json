@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-09-30T22:52:25.257936+00:00","total_mods":17906},
+{"_meta":{"last_run":"2026-09-30T23:52:21.587357+00:00","total_mods":17909},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -51634,7 +51634,7 @@
 {"nexusFileName":"Heads of Plenty Vol. III - UTav and KAVT Patch","nexusFileVersion":"1.0","nexusFileUploadedAt":1757631988,"pakFileName":"Heads_of_Plenty_Vol_3_UTAV.pak","nexusFileId":102528,"metaUuid":"49ff0bc4-884f-4b74-a02d-d46cc3ddcbce"}
 ]},
 "18572":{"nexusModName":"Ghost of Faerun - Fighter Subclass Lv20 Expansion Rework","nexusUploadedBy":"Ahdarugo","nexusModId":18572,"paks":[
-{"nexusFileName":"Ghost of Faerun - Fighter Subclass Lv20","nexusFileVersion":"2.2.0.4","nexusFileUploadedAt":1786796570,"pakFileName":"GhostofFaerun_FighterSubclass_055a9471-1df5-45ab-8935-1e19102cc1a8.pak","nexusFileId":128125,"metaUuid":"055a9471-1df5-45ab-8935-1e19102cc1a8"}
+{"nexusFileName":"Ghost of Faerun - Fighter Subclass Lv20","nexusFileVersion":"2.2.0.5","nexusFileUploadedAt":1790811364,"pakFileName":"GhostofFaerun_FighterSubclass_055a9471-1df5-45ab-8935-1e19102cc1a8.pak","nexusFileId":131790,"metaUuid":"055a9471-1df5-45ab-8935-1e19102cc1a8"}
 ]},
 "18573":{"nexusModName":"Absolute Defeat (Framework)","nexusUploadedBy":"tripulah","nexusModId":18573,"paks":[
 {"nexusFileName":"AbsoluteDefeat","nexusFileVersion":"1.3.1.0","nexusFileUploadedAt":1775791865,"pakFileName":"AbsoluteDefeat.pak","nexusFileId":118585,"metaUuid":"84a166e9-6a68-43a4-82f5-565ec14c349d"}
@@ -70827,4 +70827,13 @@
 ]},
 "25437":{"nexusModName":"Divine Judgement Domain Cleric Subclass - PTBR 2026","nexusUploadedBy":"BarovZx","nexusModId":25437,"paks":[
 {"nexusFileName":"Vestal Domain PTBR","nexusFileVersion":"27.07.2025","nexusFileUploadedAt":1790806635,"pakFileName":"Vestal Domain PTBR.pak","nexusFileId":131780,"metaUuid":null}
+]},
+"25439":{"nexusModName":"Rolled Ability Architect","nexusUploadedBy":"Skeeterbolt","nexusModId":25439,"paks":[
+{"nexusFileName":"RolledAbilityArchitect 1.0.0","nexusFileVersion":"1","nexusFileUploadedAt":1790809501,"pakFileName":"RolledAbilityArchitect-1.0.0.pak","nexusFileId":131788,"metaUuid":null}
+]},
+"25440":{"nexusModName":"Path of Bloody Regret Barbarian Subclass - PTBR (2026)","nexusUploadedBy":"BarovZx","nexusModId":25440,"paks":[
+{"nexusFileName":"Hellion PTBR","nexusFileVersion":"03.08.2025","nexusFileUploadedAt":1790809728,"pakFileName":"Hellion PTBR.pak","nexusFileId":131789,"metaUuid":null}
+]},
+"25441":{"nexusModName":"Noxx's Arcane Forge (SE)","nexusUploadedBy":"Prednoxx","nexusModId":25441,"paks":[
+{"nexusFileName":"NoxxsArcaneForgeSE","nexusFileVersion":"1.0.0.1","nexusFileUploadedAt":1790811785,"pakFileName":"NoxxsArcaneForgeSE_630765b1-2ce7-5645-9eed-9b21cc2ae4ac.pak","nexusFileId":131791,"metaUuid":null}
 ]}}
