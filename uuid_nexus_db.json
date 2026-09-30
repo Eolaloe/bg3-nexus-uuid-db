@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-09-30T13:52:16.480092+00:00","total_mods":17899},
+{"_meta":{"last_run":"2026-09-30T14:51:58.059447+00:00","total_mods":17900},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -18420,7 +18420,7 @@
 {"nexusFileName":"Three","nexusFileVersion":"1.2","nexusFileUploadedAt":1704997074,"pakFileName":"Dead Three Origin.pak","nexusFileId":39350,"metaUuid":"00201b6e-e443-4343-862a-4c71b55f406f"}
 ]},
 "5846":{"nexusModName":"Rebalance - Class Spells","nexusUploadedBy":"Syrchalis","nexusModId":5846,"paks":[
-{"nexusFileName":"Rebalance - Class Spells","nexusFileVersion":"1.0.10","nexusFileUploadedAt":1781513594,"pakFileName":"Rebalance_ClassSpells.pak","nexusFileId":123640,"metaUuid":"a74a712b-094d-4941-8cc7-bb3a75bc39eb"}
+{"nexusFileName":"Rebalance ClassSpells","nexusFileVersion":"1.0.11","nexusFileUploadedAt":1790778531,"pakFileName":"Rebalance_ClassSpells.pak","nexusFileId":131759,"metaUuid":"a74a712b-094d-4941-8cc7-bb3a75bc39eb"}
 ]},
 "5849":{"nexusModName":"Learn Weapon Actions","nexusUploadedBy":"BitterPast","nexusModId":5849,"paks":[
 {"nexusFileName":"Learn All Weapon Actions","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1705004992,"pakFileName":"LearnAllWeaponActions.pak","nexusFileId":39379,"metaUuid":"68f1db4e-1bf6-42cf-a598-13cfa304a48e"}
@@ -70101,7 +70101,7 @@
 {"nexusFileName":"Act Two Expansion CHS CHT","nexusFileVersion":"3","nexusFileUploadedAt":1790525089,"pakFileName":"ActTwoExpansion-CHS&CHT.pak","nexusFileId":131586,"metaUuid":"7fcc1507-f992-4412-8cb8-c5aff4025f28"}
 ]},
 "25111":{"nexusModName":"The Blood Countess - A Sorcerer Subclass","nexusUploadedBy":"CarmillaNightstar","nexusModId":25111,"paks":[
-{"nexusFileName":"TheBloodCountess V1.1.0","nexusFileVersion":"2","nexusFileUploadedAt":1790192417,"pakFileName":"TheBloodCountess.pak","nexusFileId":131253,"metaUuid":"b7c1e2a4-3f6d-4a91-8c25-1de40f77a913"}
+{"nexusFileName":"TheBloodCountess V1.2.0","nexusFileVersion":"3","nexusFileUploadedAt":1790776328,"pakFileName":"TheBloodCountess.pak","nexusFileId":131758,"metaUuid":"b7c1e2a4-3f6d-4a91-8c25-1de40f77a913"}
 ]},
 "25112":{"nexusModName":"Shotgun - Crossbore - PTBR","nexusUploadedBy":"BarovZx","nexusModId":25112,"paks":[
 {"nexusFileName":"Crossbore PTBR 2.0","nexusFileVersion":"11.01.2027","nexusFileUploadedAt":1789932892,"pakFileName":"Crossbore PTBR.pak","nexusFileId":130998,"metaUuid":null}
@@ -70805,4 +70805,7 @@
 ]},
 "25423":{"nexusModName":"Noxx's Tricks and Trinkets","nexusUploadedBy":"Prednoxx","nexusModId":25423,"paks":[
 {"nexusFileName":"TricksAndTreats","nexusFileVersion":"1.1.0.3","nexusFileUploadedAt":1790756385,"pakFileName":"NoxxsTricksAndTrinkets_79b75124-eb4a-5dd9-8e91-5ffadb5f88fb.pak","nexusFileId":131741,"metaUuid":null}
+]},
+"25427":{"nexusModName":"Void Domain Cleric Subclass - PTBR 2026","nexusUploadedBy":"BarovZx","nexusModId":25427,"paks":[
+{"nexusFileName":"Void Domain PTBR","nexusFileVersion":"30.07.2025","nexusFileUploadedAt":1790779112,"pakFileName":"Void Domain PTBR.pak","nexusFileId":131762,"metaUuid":null}
 ]}}
