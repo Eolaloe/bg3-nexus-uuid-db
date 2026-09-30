@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-09-30T12:52:22.782382+00:00","total_mods":17899},
+{"_meta":{"last_run":"2026-09-30T13:52:16.480092+00:00","total_mods":17899},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -66795,7 +66795,6 @@
 ]},
 "23892":{"nexusModName":"Hot Thing - Karlach edit","nexusUploadedBy":"SweetGenerousThing","nexusModId":23892,"paks":[
 {"nexusFileName":"SGT_Hot Thing - Portrait","nexusFileVersion":"1","nexusFileUploadedAt":1784725330,"pakFileName":"Hot Thing - Karlach Portrait.pak","nexusFileId":126210,"metaUuid":"5f17f40d-02ad-43e7-a0b2-e10472984866"},
-{"nexusFileName":"SGT_KarlachEdit_HEAD ONLY_PAK","nexusFileVersion":"1.1","nexusFileUploadedAt":1785263000,"pakFileName":"SGT_KarlachEdit_ad691c90-093a-33fe-81d4-3d33cb3b06e2.pak","nexusFileId":126690,"metaUuid":"ad691c90-093a-33fe-81d4-3d33cb3b06e2"},
 {"nexusFileName":"SGT_KarlachEdit_HAIR ONLY_PAK","nexusFileVersion":"1.1","nexusFileUploadedAt":1785263313,"pakFileName":"SGT_KarlachEdit_ad691c90-093a-33fe-81d4-3d33cb3b06e2.pak","nexusFileId":126692,"metaUuid":"ad691c90-093a-33fe-81d4-3d33cb3b06e2"},
 {"nexusFileName":"SGT_HotThing_Hair_CC","nexusFileVersion":"1","nexusFileUploadedAt":1785273961,"pakFileName":"SGT_HotThing_Hair_3b09c297-07b1-997a-bbc5-92eaa6628bb7.pak","nexusFileId":126699,"metaUuid":"3b09c297-07b1-997a-bbc5-92eaa6628bb7"},
 {"nexusFileName":"SGT_HotThing_Head_CC","nexusFileVersion":"1","nexusFileUploadedAt":1785521522,"pakFileName":"SGT_HotThing_Head_0c809a03-cec9-3de0-bbd3-dcc5ec1af5a2.pak","nexusFileId":126936,"metaUuid":"0c809a03-cec9-3de0-bbd3-dcc5ec1af5a2"},
@@ -66804,7 +66803,8 @@
 {"nexusFileName":"4. SGT_KarlachEdit_No Scars - Black Hair","nexusFileVersion":"1.2","nexusFileUploadedAt":1787169964,"pakFileName":"SGT_KarlachEdit_ad691c90-093a-33fe-81d4-3d33cb3b06e2.pak","nexusFileId":128486,"metaUuid":"ad691c90-093a-33fe-81d4-3d33cb3b06e2"},
 {"nexusFileName":"3. SGT_KarlachEdit_No Scars","nexusFileVersion":"1.2","nexusFileUploadedAt":1787170007,"pakFileName":"SGT_KarlachEdit_ad691c90-093a-33fe-81d4-3d33cb3b06e2.pak","nexusFileId":128487,"metaUuid":"ad691c90-093a-33fe-81d4-3d33cb3b06e2"},
 {"nexusFileName":"2. SGT_KarlachEdit_Black Hair","nexusFileVersion":"1.2","nexusFileUploadedAt":1787170071,"pakFileName":"SGT_KarlachEdit_ad691c90-093a-33fe-81d4-3d33cb3b06e2.pak","nexusFileId":128488,"metaUuid":"ad691c90-093a-33fe-81d4-3d33cb3b06e2"},
-{"nexusFileName":"SGT_Hot Thing - Portrait - Black Hair","nexusFileVersion":"1","nexusFileUploadedAt":1790353417,"pakFileName":"SGT_Hot Thing - Karlach Portrait.pak","nexusFileId":131389,"metaUuid":null}
+{"nexusFileName":"SGT_Hot Thing - Portrait - Black Hair","nexusFileVersion":"1","nexusFileUploadedAt":1790353417,"pakFileName":"SGT_Hot Thing - Karlach Portrait.pak","nexusFileId":131389,"metaUuid":null},
+{"nexusFileName":"SGT_KarlachEdit_HEAD ONLY_PAK","nexusFileVersion":"1.1.0.1","nexusFileUploadedAt":1790774847,"pakFileName":"SGT_HotThing_HeadOnly_25c24bf4-731c-534b-33db-52f80dc99fae.pak","nexusFileId":131756,"metaUuid":null}
 ]},
 "23893":{"nexusModName":"Noir Poses - Solo Edition","nexusUploadedBy":"MunchyInTechnicolor","nexusModId":23893,"paks":[
 {"nexusFileName":"NoirPoses Solo V1","nexusFileVersion":"1","nexusFileUploadedAt":1784160634,"pakFileName":"NoirPoses_Solo_V1.pak","nexusFileId":125751,"metaUuid":"b56bf874-b3a7-d0df-5294-856be88c180b"}
@@ -69735,7 +69735,7 @@
 {"nexusFileName":"Solo Poses   Misc Edition","nexusFileVersion":"1","nexusFileUploadedAt":1789294019,"pakFileName":"houndsolomisc_bb213737-99fd-1799-a3cc-c2587c450e00.pak","nexusFileId":130434,"metaUuid":"bb213737-99fd-1799-a3cc-c2587c450e00"}
 ]},
 "24967":{"nexusModName":"Yet Another AI","nexusUploadedBy":"Sai","nexusModId":24967,"paks":[
-{"nexusFileName":"Yet Another AI","nexusFileVersion":"1.15","nexusFileUploadedAt":1790687667,"pakFileName":"Yet Another AI.pak","nexusFileId":131700,"metaUuid":"f7ca0a31-0d01-4da6-ad87-a82a3c541321"}
+{"nexusFileName":"Yet Another AI","nexusFileVersion":"1.16","nexusFileUploadedAt":1790776192,"pakFileName":"Yet Another AI.pak","nexusFileId":131757,"metaUuid":"f7ca0a31-0d01-4da6-ad87-a82a3c541321"}
 ]},
 "24969":{"nexusModName":"Varrl Evolved","nexusUploadedBy":"Exaen","nexusModId":24969,"paks":[
 {"nexusFileName":"VarrlEvolved","nexusFileVersion":"1.0.2.0","nexusFileUploadedAt":1789239645,"pakFileName":"VarrlEvolved_5d00eab7-f156-dd9c-ae68-1692b112f4e9.pak","nexusFileId":130380,"metaUuid":"5d00eab7-f156-dd9c-ae68-1692b112f4e9"}
