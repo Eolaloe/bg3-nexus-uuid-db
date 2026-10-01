@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-10-01T12:52:31.385143+00:00","total_mods":17926},
+{"_meta":{"last_run":"2026-10-01T13:53:11.371927+00:00","total_mods":17927},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -53961,7 +53961,7 @@
 {"nexusFileName":"the elder-chs","nexusFileVersion":"1","nexusFileUploadedAt":1761797571,"pakFileName":"elder-chs.pak","nexusFileId":106304,"metaUuid":null}
 ]},
 "19441":{"nexusModName":"Merchant's Chest","nexusUploadedBy":"swissfred","nexusModId":19441,"paks":[
-{"nexusFileName":"Merchant's Chest","nexusFileVersion":"2.4.8.10","nexusFileUploadedAt":1789880521,"pakFileName":"MerchantsChest_d52251d7-183f-8542-d185-b07c2647470a.pak","nexusFileId":130950,"metaUuid":"d52251d7-183f-8542-d185-b07c2647470a"}
+{"nexusFileName":"Merchant's Chest","nexusFileVersion":"2.5.8.0","nexusFileUploadedAt":1790860535,"pakFileName":"MerchantsChest_d52251d7-183f-8542-d185-b07c2647470a.pak","nexusFileId":131830,"metaUuid":"d52251d7-183f-8542-d185-b07c2647470a"}
 ]},
 "19442":{"nexusModName":"Entwined - An Emperor Epilogue","nexusUploadedBy":"SASUKE173138","nexusModId":19442,"paks":[
 {"nexusFileName":"Entwined - An Emperor Epilogue","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1761810471,"pakFileName":"EmperorEpilogue.pak","nexusFileId":106321,"metaUuid":"43e0bb76-9720-5d9d-4f53-238a90e68b08"},
@@ -66805,7 +66805,8 @@
 {"nexusFileName":"3. SGT_KarlachEdit_No Scars","nexusFileVersion":"1.2","nexusFileUploadedAt":1787170007,"pakFileName":"SGT_KarlachEdit_ad691c90-093a-33fe-81d4-3d33cb3b06e2.pak","nexusFileId":128487,"metaUuid":"ad691c90-093a-33fe-81d4-3d33cb3b06e2"},
 {"nexusFileName":"2. SGT_KarlachEdit_Black Hair","nexusFileVersion":"1.2","nexusFileUploadedAt":1787170071,"pakFileName":"SGT_KarlachEdit_ad691c90-093a-33fe-81d4-3d33cb3b06e2.pak","nexusFileId":128488,"metaUuid":"ad691c90-093a-33fe-81d4-3d33cb3b06e2"},
 {"nexusFileName":"SGT_Hot Thing - Portrait - Black Hair","nexusFileVersion":"1","nexusFileUploadedAt":1790353417,"pakFileName":"SGT_Hot Thing - Karlach Portrait.pak","nexusFileId":131389,"metaUuid":null},
-{"nexusFileName":"SGT_KarlachEdit_HEAD ONLY_PAK","nexusFileVersion":"1.1.0.1","nexusFileUploadedAt":1790774847,"pakFileName":"SGT_HotThing_HeadOnly_25c24bf4-731c-534b-33db-52f80dc99fae.pak","nexusFileId":131756,"metaUuid":null}
+{"nexusFileName":"SGT_KarlachEdit_HEAD ONLY_PAK","nexusFileVersion":"1.1.0.1","nexusFileUploadedAt":1790774847,"pakFileName":"SGT_HotThing_HeadOnly_25c24bf4-731c-534b-33db-52f80dc99fae.pak","nexusFileId":131756,"metaUuid":null},
+{"nexusFileName":"SGT_KarlachEdit - BLACK HAIR ONLY - PAK","nexusFileVersion":"1","nexusFileUploadedAt":1790860919,"pakFileName":"SGT_HotThing_BlackHair_51dc4184-79a0-adfc-4f2b-a9df0e25e0ae.pak","nexusFileId":131831,"metaUuid":null}
 ]},
 "23893":{"nexusModName":"Noir Poses - Solo Edition","nexusUploadedBy":"MunchyInTechnicolor","nexusModId":23893,"paks":[
 {"nexusFileName":"NoirPoses Solo V1","nexusFileVersion":"1","nexusFileUploadedAt":1784160634,"pakFileName":"NoirPoses_Solo_V1.pak","nexusFileId":125751,"metaUuid":"b56bf874-b3a7-d0df-5294-856be88c180b"}
@@ -70004,8 +70005,8 @@
 {"nexusFileName":"His Majesty's Clothes","nexusFileVersion":"1","nexusFileUploadedAt":1789630216,"pakFileName":"hismajestysclothes_f1b1912a-f937-ce0c-1b99-4e2a41f8604b.pak","nexusFileId":130699,"metaUuid":"f1b1912a-f937-ce0c-1b99-4e2a41f8604b"}
 ]},
 "25073":{"nexusModName":"LichClass-PortedfromPathfinderWrathoftheRighteous","nexusUploadedBy":"fangyunchunzi","nexusModId":25073,"paks":[
-{"nexusFileName":"LichClassSolo","nexusFileVersion":"2.2","nexusFileUploadedAt":1790307624,"pakFileName":"LichClass.pak","nexusFileId":131361,"metaUuid":null},
-{"nexusFileName":"LichClassParty","nexusFileVersion":"2.2","nexusFileUploadedAt":1790307653,"pakFileName":"LichClass.pak","nexusFileId":131362,"metaUuid":null}
+{"nexusFileName":"LichClassParty","nexusFileVersion":"2.3","nexusFileUploadedAt":1790862033,"pakFileName":"LichClass.pak","nexusFileId":131832,"metaUuid":null},
+{"nexusFileName":"LichClassSolo","nexusFileVersion":"2.3","nexusFileUploadedAt":1790862058,"pakFileName":"LichClass.pak","nexusFileId":131833,"metaUuid":null}
 ]},
 "25075":{"nexusModName":"Bloodweave Head Preset","nexusUploadedBy":"starlesstides","nexusModId":25075,"paks":[
 {"nexusFileName":"Bloodweave Head Preset","nexusFileVersion":"1","nexusFileUploadedAt":1789650381,"pakFileName":"Starless_Bloodweave_HeadPreset_e78f4334-b999-f0cf-c9d8-d143c9ff7230.pak","nexusFileId":130712,"metaUuid":"e78f4334-b999-f0cf-c9d8-d143c9ff7230"}
@@ -70824,6 +70825,9 @@
 ]},
 "25432":{"nexusModName":"Treehuggin' Tyrant - Halsin To Gortash Replacer","nexusUploadedBy":"Nikjima","nexusModId":25432,"paks":[
 {"nexusFileName":"Treehuggin' Tyrant - Halsin To Gortash Replacer","nexusFileVersion":"1.0.0.3","nexusFileUploadedAt":1790793186,"pakFileName":"HalsinToGortashReplacer_b35f7a8d-48b9-c9d4-07b3-1c355c2d2be0.pak","nexusFileId":131771,"metaUuid":null}
+]},
+"25433":{"nexusModName":"Illusion Glasses","nexusUploadedBy":"RevolutionScribe","nexusModId":25433,"paks":[
+{"nexusFileName":"Illusion Glasses 1.0.0.4","nexusFileVersion":"1.0.0.4","nexusFileUploadedAt":1790854529,"pakFileName":"VampireDisguiseGlasses_1.0.0.4.pak","nexusFileId":131823,"metaUuid":null}
 ]},
 "25434":{"nexusModName":"Martyr Class (Valda's Spire of Secrets)","nexusUploadedBy":"lenonk75","nexusModId":25434,"paks":[
 {"nexusFileName":"MartyrValdas 1.0.0","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1790795938,"pakFileName":"MartyrValdas.pak","nexusFileId":131773,"metaUuid":null}
