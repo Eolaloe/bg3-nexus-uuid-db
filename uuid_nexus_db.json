@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-10-01T10:52:02.557547+00:00","total_mods":17918},
+{"_meta":{"last_run":"2026-10-01T11:52:44.515989+00:00","total_mods":17923},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -26553,7 +26553,7 @@
 {"nexusFileName":"Easier Difficulty - Attunement Removal","nexusFileVersion":"2.0.0","nexusFileUploadedAt":1789731747,"pakFileName":"HomeBrew - Comprehensive Reworks (Easier Difficulty - Attunement Removal).pak","nexusFileId":130785,"metaUuid":null},
 {"nexusFileName":"Harder Difficulty - Slower Level Curve","nexusFileVersion":"3.0.0","nexusFileUploadedAt":1789731776,"pakFileName":"HomeBrew - Comprehensive Reworks (Harder Difficulty - Slower Level Curve).pak","nexusFileId":130786,"metaUuid":"d66a5df0-2854-4f8a-bc2b-6b33f47e84c6"},
 {"nexusFileName":"Misc - Modded Subclasses","nexusFileVersion":"9.2.2","nexusFileUploadedAt":1789731791,"pakFileName":"HomeBrew - Comprehensive Reworks (Misc - Modded Subclasses).pak","nexusFileId":130787,"metaUuid":"cf1fd434-de12-40ed-9bb0-4a5a3de48973"},
-{"nexusFileName":"HomeBrew   Comprehensive Reworks","nexusFileVersion":"9.2.3","nexusFileUploadedAt":1789778615,"pakFileName":"HomeBrew - Comprehensive Reworks.pak","nexusFileId":130853,"metaUuid":"486d1526-3505-4b09-9790-0f6a60f5ac0f"}
+{"nexusFileName":"HomeBrew   Comprehensive Reworks","nexusFileVersion":"9.2.4","nexusFileUploadedAt":1790855017,"pakFileName":"HomeBrew - Comprehensive Reworks.pak","nexusFileId":131825,"metaUuid":"486d1526-3505-4b09-9790-0f6a60f5ac0f"}
 ]},
 "9053":{"nexusModName":"Planetouched - Homebrew Race","nexusUploadedBy":"0Lyra","nexusModId":9053,"paks":[
 {"nexusFileName":"Planetouched - Main","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1715369676,"pakFileName":"Planetouched_Race.pak","nexusFileId":56628,"metaUuid":"fc59491b-4bc3-4822-8597-7ed1b84064c5"},
@@ -36001,7 +36001,7 @@
 ]},
 "12727":{"nexusModName":"DnD 5.5e All-in-One BEYOND","nexusUploadedBy":"yoonmoonsik43","nexusModId":12727,"paks":[
 {"nexusFileName":"dnd2024 - V3 Legacy","nexusFileVersion":"3.4.6.4","nexusFileUploadedAt":1771945305,"pakFileName":"DnD2024_897914ef-5c96-053c-44af-0be823f895fe.pak","nexusFileId":115523,"metaUuid":"897914ef-5c96-053c-44af-0be823f895fe"},
-{"nexusFileName":"DnD 5.5e All-in-One BEYOND","nexusFileVersion":"4.12.14.1","nexusFileUploadedAt":1790842074,"pakFileName":"DnD2024_897914ef-5c96-053c-44af-0be823f895fe.pak","nexusFileId":131815,"metaUuid":"897914ef-5c96-053c-44af-0be823f895fe"}
+{"nexusFileName":"DnD 5.5e All-in-One BEYOND","nexusFileVersion":"4.12.14.2","nexusFileUploadedAt":1790853091,"pakFileName":"DnD2024_897914ef-5c96-053c-44af-0be823f895fe.pak","nexusFileId":131821,"metaUuid":"897914ef-5c96-053c-44af-0be823f895fe"}
 ]},
 "12728":{"nexusModName":"Origin-Themed Headwear KR","nexusUploadedBy":"Soorawang","nexusModId":12728,"paks":[
 {"nexusFileName":"Origin-Themed Headwear KR","nexusFileVersion":"1.0","nexusFileUploadedAt":1727930331,"pakFileName":"OriginHeadwear_kr.pak","nexusFileId":73692,"metaUuid":null}
@@ -63234,7 +63234,7 @@
 {"nexusFileName":"Fatebond","nexusFileVersion":"1.4","nexusFileUploadedAt":1784576306,"pakFileName":"Fatebond.pak","nexusFileId":126087,"metaUuid":"6cfead1f-d54c-4dfb-bc94-05e9fc1e2970"}
 ]},
 "22459":{"nexusModName":"DnD 5.5e All-in-One BEYOND Russian Localization","nexusUploadedBy":"XapcT","nexusModId":22459,"paks":[
-{"nexusFileName":"DnD 5.5e AIO Russian v0.5.27.zip","nexusFileVersion":"0.5.27","nexusFileUploadedAt":1790842666,"pakFileName":"DnD 5.5e AIO Russian.pak","nexusFileId":131817,"metaUuid":"6401e84d-daf2-416d-adeb-99c03a2487a6"}
+{"nexusFileName":"DnD 5.5e AIO Russian v0.5.28.zip","nexusFileVersion":"0.5.28","nexusFileUploadedAt":1790853797,"pakFileName":"DnD 5.5e AIO Russian.pak","nexusFileId":131822,"metaUuid":"6401e84d-daf2-416d-adeb-99c03a2487a6"}
 ]},
 "22460":{"nexusModName":"Elementally Based Gear","nexusUploadedBy":"Useyourrifle","nexusModId":22460,"paks":[
 {"nexusFileName":"Elemental_Gear.7z","nexusFileVersion":"1","nexusFileUploadedAt":1776346340,"pakFileName":"OP_Bow_56032304-f037-e077-f5e7-045d2e03ef1c.pak","nexusFileId":119147,"metaUuid":"56032304-f037-e077-f5e7-045d2e03ef1c"}
@@ -70810,8 +70810,14 @@
 "25406":{"nexusModName":"NPC Revamp - Part 3 (Russian Translate)","nexusUploadedBy":"SexSux","nexusModId":25406,"paks":[
 {"nexusFileName":"NPC Revamp - Part 3 (RUS)","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1790732773,"pakFileName":"NPC_Revamp_various_18050baf-3d51-ca60-3c2f-a1ff5f51fe88_RUS.pak","nexusFileId":131730,"metaUuid":null}
 ]},
+"25407":{"nexusModName":"Early Access Illithid Powers Restored (Russian Translate)","nexusUploadedBy":"SexSux","nexusModId":25407,"paks":[
+{"nexusFileName":"Early Access Illithid Powers Restored (RUS)","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1790847409,"pakFileName":"EarlyAccess_IllithidPowers_2e266fd8-2c29-ca19-92d4-39be711c12a0_RUS.pak","nexusFileId":131818,"metaUuid":null}
+]},
 "25423":{"nexusModName":"Noxx's Tricks and Trinkets","nexusUploadedBy":"Prednoxx","nexusModId":25423,"paks":[
 {"nexusFileName":"TricksAndTreats","nexusFileVersion":"1.1.0.3","nexusFileUploadedAt":1790756385,"pakFileName":"NoxxsTricksAndTrinkets_79b75124-eb4a-5dd9-8e91-5ffadb5f88fb.pak","nexusFileId":131741,"metaUuid":null}
+]},
+"25425":{"nexusModName":"Starless' Coen of Laslea Head Preset","nexusUploadedBy":"starlesstides","nexusModId":25425,"paks":[
+{"nexusFileName":"Coen Head Preset","nexusFileVersion":"1","nexusFileUploadedAt":1790841447,"pakFileName":"Starless_CoenDawnwalker_a777e9b5-7528-0b69-338c-a3aa18a007ad.pak","nexusFileId":131814,"metaUuid":null}
 ]},
 "25427":{"nexusModName":"Void Domain Cleric Subclass - PTBR 2026","nexusUploadedBy":"BarovZx","nexusModId":25427,"paks":[
 {"nexusFileName":"Void Domain PTBR","nexusFileVersion":"30.07.2025","nexusFileUploadedAt":1790779112,"pakFileName":"Void Domain PTBR.pak","nexusFileId":131762,"metaUuid":null}
@@ -70863,4 +70869,13 @@
 ]},
 "25451":{"nexusModName":"Blair Head","nexusUploadedBy":"Henzukins","nexusModId":25451,"paks":[
 {"nexusFileName":"Blair Head MOD","nexusFileVersion":"1","nexusFileUploadedAt":1790830032,"pakFileName":"Blair Head MOD.pak","nexusFileId":131806,"metaUuid":null}
+]},
+"25453":{"nexusModName":"Illithid Dominion (Russian Translate)","nexusUploadedBy":"SexSux","nexusModId":25453,"paks":[
+{"nexusFileName":"Illithid Dominion (RUS)","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1790847773,"pakFileName":"Illithid Dominion_RUS.pak","nexusFileId":131819,"metaUuid":null}
+]},
+"25454":{"nexusModName":"Illithid Emporium (Russian Translate)","nexusUploadedBy":"SexSux","nexusModId":25454,"paks":[
+{"nexusFileName":"Illithid Emporium RUS","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1790847956,"pakFileName":"Illithid Emporium_RUS.pak","nexusFileId":131820,"metaUuid":null}
+]},
+"25455":{"nexusModName":"Karlach's Self-Detonate","nexusUploadedBy":"koboldJuno","nexusModId":25455,"paks":[
+{"nexusFileName":"Karlach's Self-Detonate","nexusFileVersion":"1.0","nexusFileUploadedAt":1790855316,"pakFileName":"KarlachSelfDetonate_710774cf-2c50-7319-06ae-a676f82d0bfa.pak","nexusFileId":131826,"metaUuid":null}
 ]}}
