@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-09-30T23:52:21.587357+00:00","total_mods":17909},
+{"_meta":{"last_run":"2026-10-01T00:52:13.746751+00:00","total_mods":17913},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -39607,8 +39607,8 @@
 "14032":{"nexusModName":"New Game Plus (NGP)","nexusUploadedBy":"masospaghetti","nexusModId":14032,"paks":[
 {"nexusFileName":"NGP - Part A - Prerelease","nexusFileVersion":"PR1.06","nexusFileUploadedAt":1782082160,"pakFileName":"NewGamePlus.pak","nexusFileId":124031,"metaUuid":"385d83e6-4cf6-4472-afa9-c09868e3014c"},
 {"nexusFileName":"NGP - Part B - Prerelease","nexusFileVersion":"PR1.06","nexusFileUploadedAt":1782449204,"pakFileName":"NGP_756cd4d2-34a7-dc41-cdb5-01a1313e8b66.pak","nexusFileId":124295,"metaUuid":"756cd4d2-34a7-dc41-cdb5-01a1313e8b66"},
-{"nexusFileName":"NGP - Part A","nexusFileVersion":"1.07","nexusFileUploadedAt":1789874510,"pakFileName":"NewGamePlus.pak","nexusFileId":130947,"metaUuid":"385d83e6-4cf6-4472-afa9-c09868e3014c"},
-{"nexusFileName":"NGP - Part B","nexusFileVersion":"1.07","nexusFileUploadedAt":1789874707,"pakFileName":"NGP_756cd4d2-34a7-dc41-cdb5-01a1313e8b66.pak","nexusFileId":130948,"metaUuid":"756cd4d2-34a7-dc41-cdb5-01a1313e8b66"}
+{"nexusFileName":"NGP - Part B","nexusFileVersion":"1.08","nexusFileUploadedAt":1790812226,"pakFileName":"NGP_756cd4d2-34a7-dc41-cdb5-01a1313e8b66.pak","nexusFileId":131792,"metaUuid":"756cd4d2-34a7-dc41-cdb5-01a1313e8b66"},
+{"nexusFileName":"NGP - Part A","nexusFileVersion":"1.08","nexusFileUploadedAt":1790812238,"pakFileName":"NewGamePlus.pak","nexusFileId":131793,"metaUuid":"385d83e6-4cf6-4472-afa9-c09868e3014c"}
 ]},
 "14033":{"nexusModName":"The House of Hope Couture - Raphael Korrilla and Yurgir outfits","nexusUploadedBy":"Nikjima","nexusModId":14033,"paks":[
 {"nexusFileName":"The House of Hope Couture","nexusFileVersion":"1.1.0.145","nexusFileUploadedAt":1760392179,"pakFileName":"HouseOfHauteCouture_bd3c3acf-4a0e-ae69-106b-78ba64785ced.pak","nexusFileId":105083,"metaUuid":"bd3c3acf-4a0e-ae69-106b-78ba64785ced"}
@@ -49974,7 +49974,7 @@
 {"nexusFileName":"GigaWomen (Full Bodytype 3 Replacer)","nexusFileVersion":"1.1.0","nexusFileUploadedAt":1754759097,"pakFileName":"GigaWomen.pak","nexusFileId":100240,"metaUuid":null}
 ]},
 "17976":{"nexusModName":"Display Status Immunities","nexusUploadedBy":"KowboyBebop","nexusModId":17976,"paks":[
-{"nexusFileName":"Display Status Immunities","nexusFileVersion":"1.7","nexusFileUploadedAt":1790534416,"pakFileName":"DisplayStatusImmunities.pak","nexusFileId":131594,"metaUuid":"b129fbc3-cd0c-4640-a49b-09b85b4403b3"}
+{"nexusFileName":"Display Status Immunities","nexusFileVersion":"1.7.1","nexusFileUploadedAt":1790814817,"pakFileName":"DisplayStatusImmunities.pak","nexusFileId":131796,"metaUuid":"b129fbc3-cd0c-4640-a49b-09b85b4403b3"}
 ]},
 "17978":{"nexusModName":"Blue Nimbus Scratch - Alternative Scratch Appearance","nexusUploadedBy":"Lynstence","nexusModId":17978,"paks":[
 {"nexusFileName":"BlueNimbusScratch","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1754270744,"pakFileName":"BlueNimbusScratch.pak","nexusFileId":99853,"metaUuid":null}
@@ -70836,4 +70836,16 @@
 ]},
 "25441":{"nexusModName":"Noxx's Arcane Forge (SE)","nexusUploadedBy":"Prednoxx","nexusModId":25441,"paks":[
 {"nexusFileName":"NoxxsArcaneForgeSE","nexusFileVersion":"1.0.0.1","nexusFileUploadedAt":1790811785,"pakFileName":"NoxxsArcaneForgeSE_630765b1-2ce7-5645-9eed-9b21cc2ae4ac.pak","nexusFileId":131791,"metaUuid":null}
+]},
+"25442":{"nexusModName":"High Priestess Robe - Traditional Chinese and Simplified Chinese Translation","nexusUploadedBy":"MaxStoKe","nexusModId":25442,"paks":[
+{"nexusFileName":"HighPriestessRobe CHT CHS","nexusFileVersion":"1.0.0.6","nexusFileUploadedAt":1790812294,"pakFileName":"HighPriestessRobe_CHT_CHS.pak","nexusFileId":131794,"metaUuid":null}
+]},
+"25443":{"nexusModName":"Knights and Dames - Traditional Chinese and Simplified Chinese Translation","nexusUploadedBy":"MaxStoKe","nexusModId":25443,"paks":[
+{"nexusFileName":"KnightsAndDames CHT CHS","nexusFileVersion":"1.0.0.30","nexusFileUploadedAt":1790814858,"pakFileName":"KnightsAndDames_CHT_CHS.pak","nexusFileId":131797,"metaUuid":null}
+]},
+"25444":{"nexusModName":"Tempest Knight Sorcerer Subclass - PTBR 2026","nexusUploadedBy":"BarovZx","nexusModId":25444,"paks":[
+{"nexusFileName":"Tempest Knight Sorcerer PTBR","nexusFileVersion":"25.05.2025","nexusFileUploadedAt":1790813631,"pakFileName":"Tempest Knight Sorcerer PTBR.pak","nexusFileId":131795,"metaUuid":null}
+]},
+"25445":{"nexusModName":"Oath of the Silent End Paladin Subclass - PTBR","nexusUploadedBy":"BarovZx","nexusModId":25445,"paks":[
+{"nexusFileName":"Oath Of The Silent End PTBR","nexusFileVersion":"04.07.2025","nexusFileUploadedAt":1790815154,"pakFileName":"Oath of the Silent End PTBR.pak","nexusFileId":131798,"metaUuid":null}
 ]}}
