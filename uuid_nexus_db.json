@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-10-02T18:53:59.560744+00:00","total_mods":17960},
+{"_meta":{"last_run":"2026-10-02T19:52:13.405764+00:00","total_mods":17962},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -54699,7 +54699,7 @@
 {"nexusFileName":"Artemis' Sweet Collection BT1xBT4","nexusFileVersion":"1.0","nexusFileUploadedAt":1763337442,"pakFileName":"GentleTouch_760f2d7f-acd0-e128-8410-738527130e24.pak","nexusFileId":107592,"metaUuid":"760f2d7f-acd0-e128-8410-738527130e24"}
 ]},
 "19693":{"nexusModName":"UA Fighting Styles","nexusUploadedBy":"mikeshardmind","nexusModId":19693,"paks":[
-{"nexusFileName":"UA Fighting Styles","nexusFileVersion":"1.1.0","nexusFileUploadedAt":1766130276,"pakFileName":"UAFightingStyles.pak","nexusFileId":109884,"metaUuid":"b048f9f4-5f5a-43f5-adb4-faa08537ec8d"}
+{"nexusFileName":"UAFightingStyles","nexusFileVersion":"1.2.0","nexusFileUploadedAt":1790968554,"pakFileName":"UAFightingStyles.pak","nexusFileId":131937,"metaUuid":"b048f9f4-5f5a-43f5-adb4-faa08537ec8d"}
 ]},
 "19694":{"nexusModName":"StealthArcher","nexusUploadedBy":"XxFireHawk19xX","nexusModId":19694,"paks":[
 {"nexusFileName":"StealthArcher","nexusFileVersion":"v1","nexusFileUploadedAt":1763347598,"pakFileName":"StealthArcher_f0e3a595-7c0e-bf6c-de06-e29b74d4cc3a.pak","nexusFileId":107597,"metaUuid":"f0e3a595-7c0e-bf6c-de06-e29b74d4cc3a"}
@@ -70999,4 +70999,11 @@
 ]},
 "25497":{"nexusModName":"Deity Expansion - PTBR","nexusUploadedBy":"BarovZx","nexusModId":25497,"paks":[
 {"nexusFileName":"Deity Expansion PTBR","nexusFileVersion":"15.04.2026","nexusFileUploadedAt":1790962219,"pakFileName":"Deity Expansion PTBR.pak","nexusFileId":131932,"metaUuid":null}
+]},
+"25498":{"nexusModName":"Witchy Curls - Hair Pack","nexusUploadedBy":"SweetGenerousThing","nexusModId":25498,"paks":[
+{"nexusFileName":"SGT_Witchy Curls - Hair Pack","nexusFileVersion":"1","nexusFileUploadedAt":1790967823,"pakFileName":"Sweet Witchy Curls - Hair Pack.pak","nexusFileId":131934,"metaUuid":null}
+]},
+"25499":{"nexusModName":"Fake Tadpoles - Spanish","nexusUploadedBy":"KaiserSands","nexusModId":25499,"paks":[
+{"nexusFileName":"FakeSupremeTadpole - ES","nexusFileVersion":"2.1","nexusFileUploadedAt":1790967871,"pakFileName":"FakeSupremeTadpole  - ES.pak","nexusFileId":131935,"metaUuid":null},
+{"nexusFileName":"FakeAstralTadpole - ES","nexusFileVersion":"2.0","nexusFileUploadedAt":1790967937,"pakFileName":"FakeAstralTadpole - ES.pak","nexusFileId":131936,"metaUuid":null}
 ]}}
