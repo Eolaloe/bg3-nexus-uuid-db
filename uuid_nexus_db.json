@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-10-02T12:52:14.543045+00:00","total_mods":17947},
+{"_meta":{"last_run":"2026-10-02T13:52:31.836565+00:00","total_mods":17957},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -66674,7 +66674,7 @@
 {"nexusFileName":"steelroserapier","nexusFileVersion":"1.1.0.2","nexusFileUploadedAt":1784545216,"pakFileName":"SteelRoseRapier_6d4048e2-74e6-f8d8-a11e-b14e0984795f.pak","nexusFileId":126071,"metaUuid":"6d4048e2-74e6-f8d8-a11e-b14e0984795f"}
 ]},
 "23840":{"nexusModName":"Darker Urge - Roll to Resist Your Fate","nexusUploadedBy":"RevolutionScribe","nexusModId":23840,"paks":[
-{"nexusFileName":"DarkerUrge 1.0.0.11","nexusFileVersion":"1.0.0.11","nexusFileUploadedAt":1788349045,"pakFileName":"DarkerUrge_1.0.0.11.pak","nexusFileId":129547,"metaUuid":"df43f64e-685a-4c94-38fe-9d422c53fb69"}
+{"nexusFileName":"Darker Urge","nexusFileVersion":"1.0.0.12","nexusFileUploadedAt":1790946995,"pakFileName":"DarkerUrge_1.0.0.12.pak","nexusFileId":131913,"metaUuid":null}
 ]},
 "23841":{"nexusModName":"Witcher 3 - Syanna's Gear","nexusUploadedBy":"westhavian","nexusModId":23841,"paks":[
 {"nexusFileName":"WM SyannaOutfit","nexusFileVersion":"2","nexusFileUploadedAt":1784068569,"pakFileName":"WM_SyannaOutfit_60c27a06-db52-3ca3-571e-68f93b7c8175.pak","nexusFileId":125657,"metaUuid":"60c27a06-db52-3ca3-571e-68f93b7c8175"}
@@ -69738,7 +69738,7 @@
 {"nexusFileName":"Solo Poses   Misc Edition","nexusFileVersion":"1","nexusFileUploadedAt":1789294019,"pakFileName":"houndsolomisc_bb213737-99fd-1799-a3cc-c2587c450e00.pak","nexusFileId":130434,"metaUuid":"bb213737-99fd-1799-a3cc-c2587c450e00"}
 ]},
 "24967":{"nexusModName":"Yet Another AI","nexusUploadedBy":"Sai","nexusModId":24967,"paks":[
-{"nexusFileName":"Yet Another AI","nexusFileVersion":"1.18","nexusFileUploadedAt":1790807595,"pakFileName":"Yet Another AI.pak","nexusFileId":131783,"metaUuid":"f7ca0a31-0d01-4da6-ad87-a82a3c541321"}
+{"nexusFileName":"Yet Another AI","nexusFileVersion":"1.19","nexusFileUploadedAt":1790948824,"pakFileName":"Yet Another AI.pak","nexusFileId":131918,"metaUuid":"f7ca0a31-0d01-4da6-ad87-a82a3c541321"}
 ]},
 "24969":{"nexusModName":"Varrl Evolved","nexusUploadedBy":"Exaen","nexusModId":24969,"paks":[
 {"nexusFileName":"VarrlEvolved","nexusFileVersion":"1.0.2.0","nexusFileUploadedAt":1789239645,"pakFileName":"VarrlEvolved_5d00eab7-f156-dd9c-ae68-1692b112f4e9.pak","nexusFileId":130380,"metaUuid":"5d00eab7-f156-dd9c-ae68-1692b112f4e9"}
@@ -70958,4 +70958,36 @@
 "25482":{"nexusModName":"Community Library_CHS","nexusUploadedBy":"uulucky","nexusModId":25482,"paks":[
 {"nexusFileName":"CommunityLibrary","nexusFileVersion":"1.0","nexusFileUploadedAt":1790941063,"pakFileName":"CommunityLibrary.pak","nexusFileId":131898,"metaUuid":null},
 {"nexusFileName":"CommunityLibrary CHS","nexusFileVersion":"1.0","nexusFileUploadedAt":1790941119,"pakFileName":"CommunityLibrary_CHS.pak","nexusFileId":131899,"metaUuid":null}
+]},
+"25483":{"nexusModName":"Couatl Herald_CHS","nexusUploadedBy":"uulucky","nexusModId":25483,"paks":[
+{"nexusFileName":"CouatlHerald CHS","nexusFileVersion":"1.0","nexusFileUploadedAt":1790942824,"pakFileName":"CouatlHerald_CHS.pak","nexusFileId":131900,"metaUuid":null}
+]},
+"25484":{"nexusModName":"Daelens Testament_CHS","nexusUploadedBy":"uulucky","nexusModId":25484,"paks":[
+{"nexusFileName":"Daelens Testament","nexusFileVersion":"1.0","nexusFileUploadedAt":1790943072,"pakFileName":"DaelensTestament.pak","nexusFileId":131901,"metaUuid":null},
+{"nexusFileName":"DaelensTestament CHS","nexusFileVersion":"1.0","nexusFileUploadedAt":1790943146,"pakFileName":"DaelensTestament_CHS.pak","nexusFileId":131902,"metaUuid":null}
+]},
+"25485":{"nexusModName":"Dinner With Strahd.chs","nexusUploadedBy":"uulucky","nexusModId":25485,"paks":[
+{"nexusFileName":"DinnerWithStrahd CHS","nexusFileVersion":"1.0","nexusFileUploadedAt":1790947873,"pakFileName":"DinnerWithStrahd_CHS.pak","nexusFileId":131915,"metaUuid":null}
+]},
+"25486":{"nexusModName":"Dragon Knight 2.0_CHS","nexusUploadedBy":"uulucky","nexusModId":25486,"paks":[
+{"nexusFileName":"DragonKnight CHS","nexusFileVersion":"1","nexusFileUploadedAt":1790943771,"pakFileName":"DragonKnight_CHS.pak","nexusFileId":131903,"metaUuid":null}
+]},
+"25487":{"nexusModName":"Elven Weaponry Robes_CHS","nexusUploadedBy":"uulucky","nexusModId":25487,"paks":[
+{"nexusFileName":"EnchantedLutes CHS","nexusFileVersion":"1.0","nexusFileUploadedAt":1790944493,"pakFileName":"EnchantedLutes_CHS.pak","nexusFileId":131908,"metaUuid":null}
+]},
+"25488":{"nexusModName":"Fiendish Races_CHS","nexusUploadedBy":"uulucky","nexusModId":25488,"paks":[
+{"nexusFileName":"FiendishRaces CHS","nexusFileVersion":"1.0","nexusFileUploadedAt":1790945931,"pakFileName":"FiendishRaces_CHS.pak","nexusFileId":131910,"metaUuid":null}
+]},
+"25489":{"nexusModName":"5e Fighter Subclasses Combined_CHS","nexusUploadedBy":"uulucky","nexusModId":25489,"paks":[
+{"nexusFileName":"FighterSubclasses5eCombined CHS","nexusFileVersion":"1.0","nexusFileUploadedAt":1790946161,"pakFileName":"FighterSubclasses5eCombined_CHS.pak","nexusFileId":131911,"metaUuid":null}
+]},
+"25490":{"nexusModName":"Friends With Benefits_CHS","nexusUploadedBy":"uulucky","nexusModId":25490,"paks":[
+{"nexusFileName":"FriendsWithBenefits CHS","nexusFileVersion":"1.0","nexusFileUploadedAt":1790946477,"pakFileName":"FriendsWithBenefits_CHS.pak","nexusFileId":131912,"metaUuid":null}
+]},
+"25491":{"nexusModName":"Quest Tracker","nexusUploadedBy":"igrikus33010","nexusModId":25491,"paks":[
+{"nexusFileName":"QuestTracker V1.0.0","nexusFileVersion":"1","nexusFileUploadedAt":1790947565,"pakFileName":"quest-tracker_e0823ed1-bc62-9b84-275f-7b8e182c386a.pak","nexusFileId":131914,"metaUuid":null}
+]},
+"25493":{"nexusModName":"Skirbie's Scarlet Goddess and chs","nexusUploadedBy":"uulucky","nexusModId":25493,"paks":[
+{"nexusFileName":"Skirbie's Scarlet Goddess","nexusFileVersion":"1.0","nexusFileUploadedAt":1790948689,"pakFileName":"ScarletGoddess.pak","nexusFileId":131916,"metaUuid":null},
+{"nexusFileName":"Scarlet Goddess CHS","nexusFileVersion":"1.0","nexusFileUploadedAt":1790948709,"pakFileName":"ScarletGoddess_CHS.pak","nexusFileId":131917,"metaUuid":null}
 ]}}
