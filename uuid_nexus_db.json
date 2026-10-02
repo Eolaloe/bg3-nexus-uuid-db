@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-10-02T11:52:49.757861+00:00","total_mods":17947},
+{"_meta":{"last_run":"2026-10-02T12:52:14.543045+00:00","total_mods":17947},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -63517,9 +63517,9 @@
 {"nexusFileName":"Rakshasa Class","nexusFileVersion":"4","nexusFileUploadedAt":1780027523,"pakFileName":"Rakshasa_1dc57e26-cb44-5dc1-63b7-68bb4da04c17.pak","nexusFileId":122392,"metaUuid":"1dc57e26-cb44-5dc1-63b7-68bb4da04c17"}
 ]},
 "22565":{"nexusModName":"5eSpells and Expansion Patch","nexusUploadedBy":"hawchangJA","nexusModId":22565,"paks":[
-{"nexusFileName":"Expansion Level 13-20 Patch","nexusFileVersion":"1.7.3.2","nexusFileUploadedAt":1779794440,"pakFileName":"Expansion Level 13-20 Patch.pak","nexusFileId":122183,"metaUuid":"3d4554a9-5a04-4767-8e7d-add237ed500b"},
-{"nexusFileName":"5eSpells Patch","nexusFileVersion":"2.4.3.0","nexusFileUploadedAt":1779794471,"pakFileName":"5eSpells Patch.pak","nexusFileId":122184,"metaUuid":"b8d96386-9815-47a7-adcd-d3b42959717b"},
-{"nexusFileName":"5eSpells and Expansion Level 13-20 Patch","nexusFileVersion":"2.4.3.0","nexusFileUploadedAt":1779794488,"pakFileName":"5eSpells and Expansion Level 13-20 Patch.pak","nexusFileId":122185,"metaUuid":"d4b30c2a-bc54-4035-a2eb-0e59b5fa68c0"}
+{"nexusFileName":"Expansion Level 13-20 Patch","nexusFileVersion":"1.7.3.12","nexusFileUploadedAt":1790944201,"pakFileName":"Expansion Level 13-20 Patch.pak","nexusFileId":131905,"metaUuid":"3d4554a9-5a04-4767-8e7d-add237ed500b"},
+{"nexusFileName":"5eSpells Patch","nexusFileVersion":"2.4.3.0-263Q","nexusFileUploadedAt":1790944249,"pakFileName":"5eSpells Patch.pak","nexusFileId":131906,"metaUuid":"b8d96386-9815-47a7-adcd-d3b42959717b"},
+{"nexusFileName":"5eSpells and Expansion Level 13-20 Patch","nexusFileVersion":"2.4.3.0-26Q3","nexusFileUploadedAt":1790944314,"pakFileName":"5eSpells and Expansion Level 13-20 Patch.pak","nexusFileId":131907,"metaUuid":"d4b30c2a-bc54-4035-a2eb-0e59b5fa68c0"}
 ]},
 "22566":{"nexusModName":"Malice Head Preset","nexusUploadedBy":"manuliparoni","nexusModId":22566,"paks":[
 {"nexusFileName":"Malice Head","nexusFileVersion":"2","nexusFileUploadedAt":1777651391,"pakFileName":"Malice_head.pak","nexusFileId":120297,"metaUuid":"2e54bb89-8d75-4e83-9208-da18beaf22e4"}
@@ -63627,7 +63627,7 @@
 {"nexusFileName":"HT_NoWoundFlaresDuringPartyBanter","nexusFileVersion":"1.0.0.10","nexusFileUploadedAt":1779123893,"pakFileName":"HT_ShutUpShar_9c09be69-50e8-cfcf-cea9-1576947a6a2d.pak","nexusFileId":121599,"metaUuid":"9c09be69-50e8-cfcf-cea9-1576947a6a2d"}
 ]},
 "22615":{"nexusModName":"5eSpells and Expansion - Japanese","nexusUploadedBy":"hawchangJA","nexusModId":22615,"paks":[
-{"nexusFileName":"5eSpells And Expansion Level 13 20   Japanese","nexusFileVersion":"2.4.3.0-3.11","nexusFileUploadedAt":1787432288,"pakFileName":"5eSpells and Expansion Level 13-20 - Japanese.pak","nexusFileId":128722,"metaUuid":null}
+{"nexusFileName":"5eSpells And Expansion Level 13 20   Japanese","nexusFileVersion":"2.4.3.0-3.12","nexusFileUploadedAt":1790944550,"pakFileName":"5eSpells and Expansion Level 13-20 - Japanese.pak","nexusFileId":131909,"metaUuid":null}
 ]},
 "22616":{"nexusModName":"5eSpells and Expansion Patch_KOR","nexusUploadedBy":"Ahdarugo","nexusModId":22616,"paks":[
 {"nexusFileName":"5eSpellsExpansionLevelPatch KOR","nexusFileVersion":"2.4.3.0","nexusFileUploadedAt":1779801476,"pakFileName":"5eSpellsExpansionLevelPatch_KOR.pak","nexusFileId":122193,"metaUuid":null}
@@ -70742,8 +70742,7 @@
 {"nexusFileName":"Zevlor Dynamic Appearance (RUS)","nexusFileVersion":"1.0","nexusFileUploadedAt":1790607245,"pakFileName":"ZevlorDynamicAppearance_e41c45f7-d5d9-8d79-ab9e-e0f599c17ff2_RUS.pak","nexusFileId":131645,"metaUuid":null}
 ]},
 "25372":{"nexusModName":"Fade's Augmentation Runes (Russian Translate)","nexusUploadedBy":"SexSux","nexusModId":25372,"paks":[
-{"nexusFileName":"FAR (RUS)","nexusFileVersion":"1.1.0.0","nexusFileUploadedAt":1790731376,"pakFileName":"FAR_5e1efd5c-5e82-2c2a-6e9e-e070d141262d_RUS.pak","nexusFileId":131729,"metaUuid":null},
-{"nexusFileName":"FAR (RUS)","nexusFileVersion":"1.2.0.0","nexusFileUploadedAt":1790874245,"pakFileName":"FAR_5e1efd5c-5e82-2c2a-6e9e-e070d141262d_RUS.pak","nexusFileId":131853,"metaUuid":null}
+{"nexusFileName":"FAR (RUS)","nexusFileVersion":"1.1.0.0","nexusFileUploadedAt":1790731376,"pakFileName":"FAR_5e1efd5c-5e82-2c2a-6e9e-e070d141262d_RUS.pak","nexusFileId":131729,"metaUuid":null}
 ]},
 "25374":{"nexusModName":"Gale's Netherese Snacks CHS","nexusUploadedBy":"shrimp1958","nexusModId":25374,"paks":[
 {"nexusFileName":"Gale Snack Chs","nexusFileVersion":"1","nexusFileUploadedAt":1790614466,"pakFileName":"Gale_Snack-chs.pak","nexusFileId":131651,"metaUuid":null}
@@ -70936,11 +70935,12 @@
 "25473":{"nexusModName":"The Blood Countess - A Sorcerer Subclass - Spanish","nexusUploadedBy":"KaiserSands","nexusModId":25473,"paks":[
 {"nexusFileName":"TheBloodCountess - ES","nexusFileVersion":"3","nexusFileUploadedAt":1790921521,"pakFileName":"TheBloodCountess - ES.pak","nexusFileId":131882,"metaUuid":null}
 ]},
-"25476":{"nexusModName":"5eRangerSubclasses_CHS","nexusUploadedBy":"uulucky","nexusModId":25476,"paks":[
+"25476":{"nexusModName":"5e Ranger Subclasses_CHS","nexusUploadedBy":"uulucky","nexusModId":25476,"paks":[
 {"nexusFileName":"5eRangerSubclasses CHS","nexusFileVersion":"1.0","nexusFileUploadedAt":1790938074,"pakFileName":"5eRangerSubclasses_CHS.pak","nexusFileId":131889,"metaUuid":null}
 ]},
 "25477":{"nexusModName":"5eSpells_CHS","nexusUploadedBy":"uulucky","nexusModId":25477,"paks":[
-{"nexusFileName":"5eSpells CHS","nexusFileVersion":"1.0","nexusFileUploadedAt":1790938295,"pakFileName":"5eSpells_CHS.pak","nexusFileId":131890,"metaUuid":null}
+{"nexusFileName":"5eSpells CHS","nexusFileVersion":"1.0","nexusFileUploadedAt":1790938295,"pakFileName":"5eSpells_CHS.pak","nexusFileId":131890,"metaUuid":null},
+{"nexusFileName":"5eSpells","nexusFileVersion":"1.0","nexusFileUploadedAt":1790944177,"pakFileName":"5eSpells.pak","nexusFileId":131904,"metaUuid":null}
 ]},
 "25478":{"nexusModName":"AmbientAI_CHS","nexusUploadedBy":"uulucky","nexusModId":25478,"paks":[
 {"nexusFileName":"AmbientAI CHS","nexusFileVersion":"1.0","nexusFileUploadedAt":1790938561,"pakFileName":"AmbientAI_CHS.pak","nexusFileId":131892,"metaUuid":null},
@@ -70955,7 +70955,7 @@
 "25481":{"nexusModName":"5e Cleric Subclasses Combined_CHS","nexusUploadedBy":"uulucky","nexusModId":25481,"paks":[
 {"nexusFileName":"ClericSubclasses5eCombined CHS","nexusFileVersion":"1.0","nexusFileUploadedAt":1790940763,"pakFileName":"ClericSubclasses5eCombined_CHS.pak","nexusFileId":131897,"metaUuid":null}
 ]},
-"25482":{"nexusModName":"CommunityLibrary_CHS","nexusUploadedBy":"uulucky","nexusModId":25482,"paks":[
+"25482":{"nexusModName":"Community Library_CHS","nexusUploadedBy":"uulucky","nexusModId":25482,"paks":[
 {"nexusFileName":"CommunityLibrary","nexusFileVersion":"1.0","nexusFileUploadedAt":1790941063,"pakFileName":"CommunityLibrary.pak","nexusFileId":131898,"metaUuid":null},
 {"nexusFileName":"CommunityLibrary CHS","nexusFileVersion":"1.0","nexusFileUploadedAt":1790941119,"pakFileName":"CommunityLibrary_CHS.pak","nexusFileId":131899,"metaUuid":null}
 ]}}
