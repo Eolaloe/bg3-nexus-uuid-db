@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-10-02T21:52:16.572528+00:00","total_mods":17964},
+{"_meta":{"last_run":"2026-10-02T22:52:51.994218+00:00","total_mods":17967},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -65319,7 +65319,7 @@
 {"nexusFileName":"Awakened Morninglord's Morningstar","nexusFileVersion":"1.0.3","nexusFileUploadedAt":1790618463,"pakFileName":"Awakened Morninglord's Morningstar Compatibility Patch.pak","nexusFileId":131664,"metaUuid":"a4bc95d6-d14f-4ce5-8401-222937128234"}
 ]},
 "23247":{"nexusModName":"Advanced Enemy Randomizer","nexusUploadedBy":"celerev","nexusModId":23247,"paks":[
-{"nexusFileName":"AERando","nexusFileVersion":"1.0.1.1","nexusFileUploadedAt":1790613886,"pakFileName":"AERando.pak","nexusFileId":131649,"metaUuid":"1ec28411-fbaf-43ba-ad7b-092aa678c0dc"}
+{"nexusFileName":"AERando","nexusFileVersion":"1.0.1.2","nexusFileUploadedAt":1790978225,"pakFileName":"AERando.pak","nexusFileId":131944,"metaUuid":"1ec28411-fbaf-43ba-ad7b-092aa678c0dc"}
 ]},
 "23248":{"nexusModName":"Sharran Weaponry by AzazeL (WIP)_JP","nexusUploadedBy":"Akazonae36","nexusModId":23248,"paks":[
 {"nexusFileName":"Aza Sharran Weaponry WIP JP","nexusFileVersion":"1","nexusFileUploadedAt":1780802520,"pakFileName":"Aza_Sharran_Weaponry_WIP_JP.pak","nexusFileId":123036,"metaUuid":null}
@@ -71012,4 +71012,13 @@
 ]},
 "25501":{"nexusModName":"Sir Acalians Guardian Feat","nexusUploadedBy":"SirAcalian","nexusModId":25501,"paks":[
 {"nexusFileName":"Siracaliansguardianfeat F6a7de Elg7","nexusFileVersion":"1.0.0.4","nexusFileUploadedAt":1790975784,"pakFileName":"SirAcaliansGuardianFeat_f6a7dea2-4fd4-38fd-9b6c-51f6b34dc2f3.pak","nexusFileId":131943,"metaUuid":null}
+]},
+"25502":{"nexusModName":"Arcane Trickster Unleashed","nexusUploadedBy":"KarsusCodex","nexusModId":25502,"paks":[
+{"nexusFileName":"ArcaneTricksterUnleashed 1.0","nexusFileVersion":"1","nexusFileUploadedAt":1790979557,"pakFileName":"ArcaneTricksterUnleashed.pak","nexusFileId":131946,"metaUuid":null}
+]},
+"25503":{"nexusModName":"Shadow Monarch","nexusUploadedBy":"Mowadeep","nexusModId":25503,"paks":[
+{"nexusFileName":"Shadowmonarch Ce00b743 83d6 48 5sdi","nexusFileVersion":"1","nexusFileUploadedAt":1790979715,"pakFileName":"ShadowMonarch_ce00b743-83d6-48ca-98f2-ef50fa1abddb.pak","nexusFileId":131947,"metaUuid":null}
+]},
+"25506":{"nexusModName":"Linux Native Camera Tweaks - MCM Settings","nexusUploadedBy":"lenonk75","nexusModId":25506,"paks":[
+{"nexusFileName":"LNCTSettings 1.0.0.0","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1790980513,"pakFileName":"LNCTSettings.pak","nexusFileId":131956,"metaUuid":null}
 ]}}
