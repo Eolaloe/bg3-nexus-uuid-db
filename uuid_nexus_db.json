@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-10-02T19:52:13.405764+00:00","total_mods":17962},
+{"_meta":{"last_run":"2026-10-02T20:53:11.621087+00:00","total_mods":17963},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -66768,7 +66768,7 @@
 {"nexusFileName":"CorrectCounterspell","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1784063682,"pakFileName":"CorrectCounterspell_3d1b5440-1bf1-45c1-4530-097ca976bf6f.pak","nexusFileId":125655,"metaUuid":"3d1b5440-1bf1-45c1-4530-097ca976bf6f"}
 ]},
 "23881":{"nexusModName":"Best of Hands - Quick Lockpick and Disarm","nexusUploadedBy":"nymphipoo","nexusModId":23881,"paks":[
-{"nexusFileName":"Best of Hands - Quick Lockpick and Disarm","nexusFileVersion":"2.3.1","nexusFileUploadedAt":1790712838,"pakFileName":"BestofHands.pak","nexusFileId":131719,"metaUuid":"8a82593c-28a3-4ed1-8c46-3d9bacff42e1"}
+{"nexusFileName":"Best of Hands - Quick Lockpick and Disarm","nexusFileVersion":"2.3.2","nexusFileUploadedAt":1790972582,"pakFileName":"BestofHands.pak","nexusFileId":131940,"metaUuid":"8a82593c-28a3-4ed1-8c46-3d9bacff42e1"}
 ]},
 "23883":{"nexusModName":"Dynamic Permanent Summons","nexusUploadedBy":"actualsailorcat","nexusModId":23883,"paks":[
 {"nexusFileName":"Dynamic Permanent Summons","nexusFileVersion":"1.00.01","nexusFileUploadedAt":1784135441,"pakFileName":"Dynamic Permanent Summons.pak","nexusFileId":125728,"metaUuid":"e9a6d786-ee7b-4bb1-8122-3783f192ac75"}
@@ -68886,7 +68886,7 @@
 {"nexusFileName":"Hag Eyed Enhanced","nexusFileVersion":"1.0","nexusFileUploadedAt":1787538332,"pakFileName":"HagEyedEnhanced_88623716-c2e2-5177-bbee-257cfe84fcfd.pak","nexusFileId":128893,"metaUuid":"88623716-c2e2-5177-bbee-257cfe84fcfd"}
 ]},
 "24607":{"nexusModName":"B52's Timelost Arsenal","nexusUploadedBy":"B52NAKAMURA","nexusModId":24607,"paks":[
-{"nexusFileName":"B52's Timelost Arsenal","nexusFileVersion":"1.0.0.3","nexusFileUploadedAt":1787803158,"pakFileName":"B52sTimelostWeaponry_45260b60-6a6c-3902-29ea-f869d05ebfaa.pak","nexusFileId":129136,"metaUuid":"45260b60-6a6c-3902-29ea-f869d05ebfaa"}
+{"nexusFileName":"B52's Timelost Arsenal","nexusFileVersion":"1.0.0.6","nexusFileUploadedAt":1790973625,"pakFileName":"B52sTimelostWeaponry_45260b60-6a6c-3902-29ea-f869d05ebfaa.pak","nexusFileId":131942,"metaUuid":"45260b60-6a6c-3902-29ea-f869d05ebfaa"}
 ]},
 "24609":{"nexusModName":"Enver Gortash - Jason Isaacs Edition","nexusUploadedBy":"PoisonValentineXIII","nexusModId":24609,"paks":[
 {"nexusFileName":"Enver Gortash - Captain of the Industry Variant","nexusFileVersion":"1.0.0.2","nexusFileUploadedAt":1787559835,"pakFileName":"JasonIsaacsGortBrocadoVar_38c94ca5-4fe3-dbff-cab7-ea39aeb8264d.pak","nexusFileId":128905,"metaUuid":null},
@@ -71006,4 +71006,7 @@
 "25499":{"nexusModName":"Fake Tadpoles - Spanish","nexusUploadedBy":"KaiserSands","nexusModId":25499,"paks":[
 {"nexusFileName":"FakeSupremeTadpole - ES","nexusFileVersion":"2.1","nexusFileUploadedAt":1790967871,"pakFileName":"FakeSupremeTadpole  - ES.pak","nexusFileId":131935,"metaUuid":null},
 {"nexusFileName":"FakeAstralTadpole - ES","nexusFileVersion":"2.0","nexusFileUploadedAt":1790967937,"pakFileName":"FakeAstralTadpole - ES.pak","nexusFileId":131936,"metaUuid":null}
+]},
+"25500":{"nexusModName":"Subtitles On Demand","nexusUploadedBy":"epoci","nexusModId":25500,"paks":[
+{"nexusFileName":"SubtitlesOnDemand 1.0.0.0","nexusFileVersion":"1","nexusFileUploadedAt":1790972086,"pakFileName":"SubtitlesOnDemand.pak","nexusFileId":131939,"metaUuid":null}
 ]}}
