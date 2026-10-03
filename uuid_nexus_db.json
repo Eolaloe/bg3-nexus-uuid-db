@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-10-03T16:53:34.802862+00:00","total_mods":17993},
+{"_meta":{"last_run":"2026-10-03T17:54:25.694658+00:00","total_mods":17994},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -1361,7 +1361,7 @@
 {"nexusFileName":"Fix - Submod of ADPP and VS","nexusFileVersion":"1.00.05","nexusFileUploadedAt":1733459446,"pakFileName":"ADPPnVS Submod Fix.pak","nexusFileId":81184,"metaUuid":"a9fbfcea-ff68-4884-85cb-90c6086cce25"},
 {"nexusFileName":"Spell List Addon","nexusFileVersion":"1.06.01","nexusFileUploadedAt":1788489782,"pakFileName":"NR - Spell List Addon.pak","nexusFileId":129643,"metaUuid":"7ea10fb3-ccd0-44dd-bda6-7e2fc8628fb7"},
 {"nexusFileName":"Corpse Requirement Toggle SE","nexusFileVersion":"1.00.01","nexusFileUploadedAt":1788537967,"pakFileName":"NR - Corpse Conservation Bill.pak","nexusFileId":129684,"metaUuid":"59ea2a6c-8667-4f84-af3a-e3b83c20e592"},
-{"nexusFileName":"Necromancy Reanimated","nexusFileVersion":"1.44.01","nexusFileUploadedAt":1790788559,"pakFileName":"Necromancy Reanimated.pak","nexusFileId":131766,"metaUuid":"f323b958-b845-4c79-b139-d39570658fbb"}
+{"nexusFileName":"Necromancy Reanimated","nexusFileVersion":"1.44.02","nexusFileUploadedAt":1791047394,"pakFileName":"Necromancy Reanimated.pak","nexusFileId":132030,"metaUuid":"f323b958-b845-4c79-b139-d39570658fbb"}
 ]},
 "644":{"nexusModName":"Approval Tweaks","nexusUploadedBy":"Koriik","nexusModId":644,"paks":[
 {"nexusFileName":"(Version A) Natural","nexusFileVersion":"1.2","nexusFileUploadedAt":1691612965,"pakFileName":"ApprovalTweaks.pak","nexusFileId":6160,"metaUuid":null},
@@ -61381,7 +61381,7 @@
 {"nexusFileName":"B. The Gunslinger Addon Revolver OffHand","nexusFileVersion":"2.0.0.6","nexusFileUploadedAt":1784352419,"pakFileName":"TheGunslingerOffHandAddon_db9c5c90-6f70-f07a-153e-d873fc5f803d.pak","nexusFileId":125916,"metaUuid":null},
 {"nexusFileName":"F. Spellslinger Wizard Subclass Add-On","nexusFileVersion":"1.0.0.1","nexusFileUploadedAt":1785666656,"pakFileName":"TheGunslinger_WizardAddOn_3eaab4ba-f1fc-9a6b-533a-5ae325b4a838.pak","nexusFileId":127106,"metaUuid":null},
 {"nexusFileName":"A. The Gunslinger Extra Feats Every 2 Levels","nexusFileVersion":"3.0.0.1","nexusFileUploadedAt":1789242421,"pakFileName":"TheGunslinge_ExtraFeats2Levels_1043510a-69e0-f71d-6eb0-a89c2be1d13a.pak","nexusFileId":130391,"metaUuid":"1043510a-69e0-f71d-6eb0-a89c2be1d13a"},
-{"nexusFileName":"The Gunslinger Class (ENG-KOR)","nexusFileVersion":"3.2.0.6","nexusFileUploadedAt":1790950089,"pakFileName":"TheGunslinger_1f2b82d7-19c8-734b-5f43-05d57d3e7601.pak","nexusFileId":131919,"metaUuid":"1f2b82d7-19c8-734b-5f43-05d57d3e7601"}
+{"nexusFileName":"The Gunslinger Class (ENG-KOR)","nexusFileVersion":"3.2.0.9","nexusFileUploadedAt":1791047716,"pakFileName":"TheGunslinger_1f2b82d7-19c8-734b-5f43-05d57d3e7601.pak","nexusFileId":132031,"metaUuid":"1f2b82d7-19c8-734b-5f43-05d57d3e7601"}
 ]},
 "21796":{"nexusModName":"Em's Misc Head Collection","nexusUploadedBy":"emsthings","nexusModId":21796,"paks":[
 {"nexusFileName":"Em's Head Collection","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1772951131,"pakFileName":"Ems_Heads_41f62b28-72fa-cd43-2b54-e521a962a342.pak","nexusFileId":116314,"metaUuid":"41f62b28-72fa-cd43-2b54-e521a962a342"}
@@ -69443,7 +69443,7 @@
 "24839":{"nexusModName":"Nightstar's Dark Ruin - A Rogue Subclass(Russian)","nexusUploadedBy":"North3n","nexusModId":24839,"paks":[
 {"nexusFileName":"NightstarSDarkRuin V1.0.1 Russian","nexusFileVersion":"2","nexusFileUploadedAt":1788697805,"pakFileName":"NightstarSDarkRuin_Russian_reviewed.pak","nexusFileId":129865,"metaUuid":null}
 ]},
-"24841":{"nexusModName":"Necromancy Reanimated - Russian Translation 1.44.01","nexusUploadedBy":"SNKmod777","nexusModId":24841,"paks":[
+"24841":{"nexusModName":"Necromancy Reanimated - Russian Translation 1.44.02","nexusUploadedBy":"SNKmod777","nexusModId":24841,"paks":[
 {"nexusFileName":"Necromancy Reanimated RU","nexusFileVersion":"1","nexusFileUploadedAt":1788690263,"pakFileName":"Necromancy Reanimated_RU.pak","nexusFileId":129859,"metaUuid":null}
 ]},
 "24843":{"nexusModName":"Automated Summons - Russian Translation","nexusUploadedBy":"SNKmod777","nexusModId":24843,"paks":[
@@ -70255,7 +70255,7 @@
 {"nexusFileName":"Act Two Expansion - German Translation","nexusFileVersion":"0.8.1","nexusFileUploadedAt":1790599207,"pakFileName":"ActTwoExpansion_GermanTranslation.pak","nexusFileId":131638,"metaUuid":null}
 ]},
 "25174":{"nexusModName":"Finished Business","nexusUploadedBy":"actualsailorcat","nexusModId":25174,"paks":[
-{"nexusFileName":"Finished Business","nexusFileVersion":"1.01.00","nexusFileUploadedAt":1790524423,"pakFileName":"Finished Business.pak","nexusFileId":131585,"metaUuid":"403981cf-2d44-462c-9ccf-c83e35a97a40"}
+{"nexusFileName":"Finished Business","nexusFileVersion":"1.02.00","nexusFileUploadedAt":1791048012,"pakFileName":"Finished Business.pak","nexusFileId":132032,"metaUuid":"403981cf-2d44-462c-9ccf-c83e35a97a40"}
 ]},
 "25175":{"nexusModName":"Halsin stays in act 2","nexusUploadedBy":"koboldJuno","nexusModId":25175,"paks":[
 {"nexusFileName":"Halsin stays in act2","nexusFileVersion":"1.0","nexusFileUploadedAt":1790135998,"pakFileName":"Halsinstaysinact2.pak","nexusFileId":131200,"metaUuid":null}
@@ -70670,7 +70670,7 @@
 {"nexusFileName":"ArcBlade PTBR","nexusFileVersion":"26.10.2025","nexusFileUploadedAt":1790522783,"pakFileName":"ArcBlade PTBR.pak","nexusFileId":131581,"metaUuid":null}
 ]},
 "25343":{"nexusModName":"Party Tactics AI","nexusUploadedBy":"seyelive","nexusModId":25343,"paks":[
-{"nexusFileName":"PartyTactics V0.6.0","nexusFileVersion":"0.6.0","nexusFileUploadedAt":1790784390,"pakFileName":"PartyTactics.pak","nexusFileId":131765,"metaUuid":"a424f5f3-4099-4665-8492-0da8ea23b1b7"}
+{"nexusFileName":"PartyTactics V0.7.0","nexusFileVersion":"0.7.0","nexusFileUploadedAt":1791046575,"pakFileName":"PartyTactics.pak","nexusFileId":132029,"metaUuid":"a424f5f3-4099-4665-8492-0da8ea23b1b7"}
 ]},
 "25344":{"nexusModName":"Dark urge - True Origin Immersion - French Translation","nexusUploadedBy":"Dragonoid2025","nexusModId":25344,"paks":[
 {"nexusFileName":"Dark Urge True Origin Immersion FR","nexusFileVersion":"1","nexusFileUploadedAt":1790527347,"pakFileName":"Dark Urge-True Origin Immersion-FR.pak","nexusFileId":131589,"metaUuid":null}
@@ -71119,4 +71119,7 @@
 "25531":{"nexusModName":"Night Watch","nexusUploadedBy":"LeilaXel","nexusModId":25531,"paks":[
 {"nexusFileName":"LeilaNightWatch","nexusFileVersion":"1","nexusFileUploadedAt":1791041443,"pakFileName":"LeilaNightWatch.pak","nexusFileId":132022,"metaUuid":null},
 {"nexusFileName":"LeilaNightWatch","nexusFileVersion":"1","nexusFileUploadedAt":1791041443,"pakFileName":"._LeilaNightWatch.pak","nexusFileId":132022,"metaUuid":null}
+]},
+"25532":{"nexusModName":"Symphony of a Vampire - Vampirism Overhaul Interesting Origins Patch","nexusUploadedBy":"SexSux","nexusModId":25532,"paks":[
+{"nexusFileName":"SOAV And Interesting Origins Patch","nexusFileVersion":"1.0","nexusFileUploadedAt":1791048690,"pakFileName":"SOAV_and_interesting_origins_patch.pak","nexusFileId":132033,"metaUuid":null}
 ]}}
