@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-10-03T05:52:35.437543+00:00","total_mods":17968},
+{"_meta":{"last_run":"2026-10-03T06:52:34.087323+00:00","total_mods":17968},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -50921,9 +50921,8 @@
 {"nexusFileName":"ScaleNPCLevel","nexusFileVersion":"4","nexusFileUploadedAt":1756613032,"pakFileName":"NpcLevelCurve.pak","nexusFileId":101762,"metaUuid":"0eb15f30-d021-4721-8d58-373f0894ec33"}
 ]},
 "18322":{"nexusModName":"Babymetal Head Presets","nexusUploadedBy":"VespertilioArt","nexusModId":18322,"paks":[
-{"nexusFileName":"Babymetal","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1756391182,"pakFileName":"Babymetal.pak","nexusFileId":101583,"metaUuid":"f554d677-cfd6-432d-8503-47433cfac937"},
-{"nexusFileName":"Babymetal - UTAV","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1756392166,"pakFileName":"Babymetal - UTAV.pak","nexusFileId":101584,"metaUuid":"f554d677-cfd6-432d-8503-47433cfac937"},
-{"nexusFileName":"Babymetal - CCO","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1756392655,"pakFileName":"Babymetal - CCO.pak","nexusFileId":101585,"metaUuid":null}
+{"nexusFileName":"Babymetal - CCO","nexusFileVersion":"3.0.0.0","nexusFileUploadedAt":1791007389,"pakFileName":"Babymetal - CCO.pak","nexusFileId":131970,"metaUuid":null},
+{"nexusFileName":"Babymetal","nexusFileVersion":"3.0.0.0","nexusFileUploadedAt":1791007426,"pakFileName":"Babymetal.pak","nexusFileId":131971,"metaUuid":"f554d677-cfd6-432d-8503-47433cfac937"}
 ]},
 "18323":{"nexusModName":"Fantastical Multiverse - Legacy Edition FR","nexusUploadedBy":"KingOmega95","nexusModId":18323,"paks":[
 {"nexusFileName":"Fantastical Multiverse - Legacy Edition - FR","nexusFileVersion":"1.6.0.1","nexusFileUploadedAt":1756032372,"pakFileName":"Fantastical Compendium Fr.pak","nexusFileId":101364,"metaUuid":null}
@@ -69720,7 +69719,7 @@
 {"nexusFileName":"Dawnstar'S Psychic Weapons - ES","nexusFileVersion":"1.0.0.19","nexusFileUploadedAt":1789853152,"pakFileName":"Dawnstar's Psychic Weapons - ES.pak","nexusFileId":130927,"metaUuid":null}
 ]},
 "24960":{"nexusModName":"Lichling Spells","nexusUploadedBy":"grandninjamasterren","nexusModId":24960,"paks":[
-{"nexusFileName":"Lichling Spells","nexusFileVersion":"3","nexusFileUploadedAt":1790009728,"pakFileName":"inflictminorwounds_bcb6ce38-2592-da75-ddcd-b3682e948b97.pak","nexusFileId":131060,"metaUuid":"bcb6ce38-2592-da75-ddcd-b3682e948b97"}
+{"nexusFileName":"Lichling Spells","nexusFileVersion":"4","nexusFileUploadedAt":1791008023,"pakFileName":"inflictminorwounds_bcb6ce38-2592-da75-ddcd-b3682e948b97.pak","nexusFileId":131972,"metaUuid":"bcb6ce38-2592-da75-ddcd-b3682e948b97"}
 ]},
 "24961":{"nexusModName":"Cosmetic slots (Russian Translate)","nexusUploadedBy":"SexSux","nexusModId":24961,"paks":[
 {"nexusFileName":"Cosmetic slots (Russian Translate)","nexusFileVersion":"0.9.1.0","nexusFileUploadedAt":1789759865,"pakFileName":"Fallen_Tmog_RUS.pak","nexusFileId":130831,"metaUuid":null}
@@ -70078,7 +70077,7 @@
 "25101":{"nexusModName":"FaerunColors.chs","nexusUploadedBy":"uulucky","nexusModId":25101,"paks":[
 {"nexusFileName":"FaerunColors","nexusFileVersion":"1","nexusFileUploadedAt":1789739699,"pakFileName":"FaerunColors.pak","nexusFileId":130795,"metaUuid":"a669cf0b-926c-4d50-988d-59bc089a0df2"},
 {"nexusFileName":"FaerunColors","nexusFileVersion":"1","nexusFileUploadedAt":1789739699,"pakFileName":"FaerunColors_CHS.pak","nexusFileId":130795,"metaUuid":"a669cf0b-926c-4d50-988d-59bc089a0df2"},
-{"nexusFileName":"FaerunColors CHS","nexusFileVersion":"1","nexusFileUploadedAt":1789739722,"pakFileName":"FaerunColors_CHS.pak","nexusFileId":130796,"metaUuid":null}
+{"nexusFileName":"FaerunColors CHS","nexusFileVersion":"1","nexusFileUploadedAt":1789739722,"pakFileName":"FaerunColors_CHS.pak","nexusFileId":130796,"metaUuid":"a669cf0b-926c-4d50-988d-59bc089a0df2"}
 ]},
 "25102":{"nexusModName":"Move Check Fix and Throw Enhance","nexusUploadedBy":"Null993","nexusModId":25102,"paks":[
 {"nexusFileName":"Move Check Fix and Throw Enhance","nexusFileVersion":"1.0","nexusFileUploadedAt":1790078322,"pakFileName":"Move_Check_Fix_and_Throw_Enhance_v1.0.pak","nexusFileId":131133,"metaUuid":"b8a4dab0-541b-4a7b-98d8-b48dd27b0b47"}
