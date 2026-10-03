@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-10-03T15:54:05.946896+00:00","total_mods":17991},
+{"_meta":{"last_run":"2026-10-03T16:53:34.802862+00:00","total_mods":17993},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -69992,6 +69992,9 @@
 "25065":{"nexusModName":"chaomo feats","nexusUploadedBy":"baigegegugugu","nexusModId":25065,"paks":[
 {"nexusFileName":"Chaomofeats","nexusFileVersion":"6","nexusFileUploadedAt":1789751168,"pakFileName":"chaomofeats.pak","nexusFileId":130811,"metaUuid":null}
 ]},
+"25066":{"nexusModName":"Heapside Alley map for VP and exploring","nexusUploadedBy":"sarymsak","nexusModId":25066,"paks":[
+{"nexusFileName":"Heapside Alley Map","nexusFileVersion":"1.0","nexusFileUploadedAt":1791042457,"pakFileName":"SAR_Slum-alley-bookshop_94e63a11-eeea-6fae-30f3-dc8d2b61da0e.pak","nexusFileId":132026,"metaUuid":null}
+]},
 "25067":{"nexusModName":"The Crowded Campfire","nexusUploadedBy":"Sai","nexusModId":25067,"paks":[
 {"nexusFileName":"The Crowded Campfire","nexusFileVersion":"1.11","nexusFileUploadedAt":1790986270,"pakFileName":"The Crowded Campfire.pak","nexusFileId":131961,"metaUuid":"8e848a53-b78e-479d-82cd-4c4215b726aa"}
 ]},
@@ -71111,5 +71114,9 @@
 {"nexusFileName":"Undead Nurse CHS","nexusFileVersion":"1.0","nexusFileUploadedAt":1791015877,"pakFileName":"UndeadNurse_CHS.pak","nexusFileId":132004,"metaUuid":null}
 ]},
 "25530":{"nexusModName":"Necromancer - A Pathfinder Inspired Class","nexusUploadedBy":"SuperVertigo","nexusModId":25530,"paks":[
-{"nexusFileName":"Necromancer - A Pathfinder Inspired Class","nexusFileVersion":"1.0.0.1","nexusFileUploadedAt":1791040598,"pakFileName":"P2E_Necromancer_75387a46-ac46-eec5-e23d-d9ec4a5b72f4.pak","nexusFileId":132021,"metaUuid":null}
+{"nexusFileName":"Necromancer - A Pathfinder Inspired Class","nexusFileVersion":"1.0.0.2","nexusFileUploadedAt":1791045933,"pakFileName":"P2E_Necromancer_75387a46-ac46-eec5-e23d-d9ec4a5b72f4.pak","nexusFileId":132028,"metaUuid":null}
+]},
+"25531":{"nexusModName":"Night Watch","nexusUploadedBy":"LeilaXel","nexusModId":25531,"paks":[
+{"nexusFileName":"LeilaNightWatch","nexusFileVersion":"1","nexusFileUploadedAt":1791041443,"pakFileName":"LeilaNightWatch.pak","nexusFileId":132022,"metaUuid":null},
+{"nexusFileName":"LeilaNightWatch","nexusFileVersion":"1","nexusFileUploadedAt":1791041443,"pakFileName":"._LeilaNightWatch.pak","nexusFileId":132022,"metaUuid":null}
 ]}}
