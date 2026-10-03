@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-10-03T07:53:00.757098+00:00","total_mods":17969},
+{"_meta":{"last_run":"2026-10-03T08:52:55.967845+00:00","total_mods":17988},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -36001,7 +36001,7 @@
 ]},
 "12727":{"nexusModName":"DnD 5.5e All-in-One BEYOND","nexusUploadedBy":"yoonmoonsik43","nexusModId":12727,"paks":[
 {"nexusFileName":"dnd2024 - V3 Legacy","nexusFileVersion":"3.4.6.4","nexusFileUploadedAt":1771945305,"pakFileName":"DnD2024_897914ef-5c96-053c-44af-0be823f895fe.pak","nexusFileId":115523,"metaUuid":"897914ef-5c96-053c-44af-0be823f895fe"},
-{"nexusFileName":"DnD 5.5e All-in-One BEYOND","nexusFileVersion":"4.12.16.1","nexusFileUploadedAt":1790959611,"pakFileName":"DnD2024_897914ef-5c96-053c-44af-0be823f895fe.pak","nexusFileId":131929,"metaUuid":"897914ef-5c96-053c-44af-0be823f895fe"}
+{"nexusFileName":"DnD 5.5e All-in-One BEYOND","nexusFileVersion":"4.12.16.2","nexusFileUploadedAt":1791014894,"pakFileName":"DnD2024_897914ef-5c96-053c-44af-0be823f895fe.pak","nexusFileId":131999,"metaUuid":"897914ef-5c96-053c-44af-0be823f895fe"}
 ]},
 "12728":{"nexusModName":"Origin-Themed Headwear KR","nexusUploadedBy":"Soorawang","nexusModId":12728,"paks":[
 {"nexusFileName":"Origin-Themed Headwear KR","nexusFileVersion":"1.0","nexusFileUploadedAt":1727930331,"pakFileName":"OriginHeadwear_kr.pak","nexusFileId":73692,"metaUuid":null}
@@ -63233,7 +63233,7 @@
 {"nexusFileName":"Fatebond","nexusFileVersion":"1.4","nexusFileUploadedAt":1784576306,"pakFileName":"Fatebond.pak","nexusFileId":126087,"metaUuid":"6cfead1f-d54c-4dfb-bc94-05e9fc1e2970"}
 ]},
 "22459":{"nexusModName":"DnD 5.5e All-in-One BEYOND Russian Localization","nexusUploadedBy":"XapcT","nexusModId":22459,"paks":[
-{"nexusFileName":"DnD 5.5e AIO Russian v0.5.31.zip","nexusFileVersion":"0.5.31","nexusFileUploadedAt":1790961442,"pakFileName":"DnD 5.5e AIO Russian.pak","nexusFileId":131931,"metaUuid":"6401e84d-daf2-416d-adeb-99c03a2487a6"}
+{"nexusFileName":"DnD 5.5e AIO Russian v0.5.32.zip","nexusFileVersion":"0.5.32","nexusFileUploadedAt":1791015498,"pakFileName":"DnD 5.5e AIO Russian.pak","nexusFileId":132002,"metaUuid":"6401e84d-daf2-416d-adeb-99c03a2487a6"}
 ]},
 "22460":{"nexusModName":"Elementally Based Gear","nexusUploadedBy":"Useyourrifle","nexusModId":22460,"paks":[
 {"nexusFileName":"Elemental_Gear.7z","nexusFileVersion":"1","nexusFileUploadedAt":1776346340,"pakFileName":"OP_Bow_56032304-f037-e077-f5e7-045d2e03ef1c.pak","nexusFileId":119147,"metaUuid":"56032304-f037-e077-f5e7-045d2e03ef1c"}
@@ -69737,7 +69737,7 @@
 {"nexusFileName":"Solo Poses   Misc Edition","nexusFileVersion":"1","nexusFileUploadedAt":1789294019,"pakFileName":"houndsolomisc_bb213737-99fd-1799-a3cc-c2587c450e00.pak","nexusFileId":130434,"metaUuid":"bb213737-99fd-1799-a3cc-c2587c450e00"}
 ]},
 "24967":{"nexusModName":"Yet Another AI","nexusUploadedBy":"Sai","nexusModId":24967,"paks":[
-{"nexusFileName":"Yet Another AI","nexusFileVersion":"1.19","nexusFileUploadedAt":1790948824,"pakFileName":"Yet Another AI.pak","nexusFileId":131918,"metaUuid":"f7ca0a31-0d01-4da6-ad87-a82a3c541321"}
+{"nexusFileName":"Yet Another AI","nexusFileVersion":"1.20","nexusFileUploadedAt":1791017313,"pakFileName":"Yet Another AI.pak","nexusFileId":132005,"metaUuid":"f7ca0a31-0d01-4da6-ad87-a82a3c541321"}
 ]},
 "24969":{"nexusModName":"Varrl Evolved","nexusUploadedBy":"Exaen","nexusModId":24969,"paks":[
 {"nexusFileName":"VarrlEvolved","nexusFileVersion":"1.0.2.0","nexusFileUploadedAt":1789239645,"pakFileName":"VarrlEvolved_5d00eab7-f156-dd9c-ae68-1692b112f4e9.pak","nexusFileId":130380,"metaUuid":"5d00eab7-f156-dd9c-ae68-1692b112f4e9"}
@@ -71036,4 +71036,67 @@
 ]},
 "25509":{"nexusModName":"Grim Surgeon_CHS","nexusUploadedBy":"uulucky","nexusModId":25509,"paks":[
 {"nexusFileName":"Grim Surgeon CHS","nexusFileVersion":"1.0","nexusFileUploadedAt":1790997997,"pakFileName":"GrimSurgeon_CHS.pak","nexusFileId":131967,"metaUuid":null}
+]},
+"25511":{"nexusModName":"The Gunslinger Class chs","nexusUploadedBy":"uulucky","nexusModId":25511,"paks":[
+{"nexusFileName":"Gunslinger CHS","nexusFileVersion":"1.0","nexusFileUploadedAt":1791009114,"pakFileName":"Gunslinger_CHS.pak","nexusFileId":131973,"metaUuid":null}
+]},
+"25512":{"nexusModName":"Land Druid My rmidon Arts_CHS","nexusUploadedBy":"uulucky","nexusModId":25512,"paks":[
+{"nexusFileName":"LandDruidMyrmidonArts CHS","nexusFileVersion":"1.0","nexusFileUploadedAt":1791010290,"pakFileName":"LandDruidMyrmidonArts_CHS.pak","nexusFileId":131975,"metaUuid":null}
+]},
+"25513":{"nexusModName":"Lightning Adept Gear Set chs","nexusUploadedBy":"uulucky","nexusModId":25513,"paks":[
+{"nexusFileName":"LightningAdept CHS","nexusFileVersion":"1.0","nexusFileUploadedAt":1791010511,"pakFileName":"LightningAdept_CHS.pak","nexusFileId":131976,"metaUuid":null}
+]},
+"25514":{"nexusModName":"Lowclass Degenerate chs","nexusUploadedBy":"uulucky","nexusModId":25514,"paks":[
+{"nexusFileName":"Lowclass Degenerate","nexusFileVersion":"1.0","nexusFileUploadedAt":1791010760,"pakFileName":"LowclassDegenerate_V2O_FightStartIdentityDebounce.pak","nexusFileId":131977,"metaUuid":null},
+{"nexusFileName":"LowclassDegenerate CHS","nexusFileVersion":"1.0","nexusFileUploadedAt":1791010788,"pakFileName":"LowclassDegenerate_CHS.pak","nexusFileId":131978,"metaUuid":null}
+]},
+"25515":{"nexusModName":"Me and My Pals chs","nexusUploadedBy":"uulucky","nexusModId":25515,"paks":[
+{"nexusFileName":"Me And My Pals CHS","nexusFileVersion":"1.0","nexusFileUploadedAt":1791011082,"pakFileName":"MeAndMyPals_CHS.pak","nexusFileId":131979,"metaUuid":null}
+]},
+"25516":{"nexusModName":"Misfortune Bringer Rogue Subclass chs","nexusUploadedBy":"uulucky","nexusModId":25516,"paks":[
+{"nexusFileName":"MisfortuneBringer CHS","nexusFileVersion":"1.0","nexusFileUploadedAt":1791011369,"pakFileName":"MisfortuneBringer_CHS.pak","nexusFileId":131981,"metaUuid":null}
+]},
+"25517":{"nexusModName":"Mutant Class chs","nexusUploadedBy":"uulucky","nexusModId":25517,"paks":[
+{"nexusFileName":"Mutant Class n7348","nexusFileVersion":"1.0","nexusFileUploadedAt":1791011611,"pakFileName":"MutantClass_c9d17058-6c48-0af4-bd1e-94b15cd159d5.pak","nexusFileId":131983,"metaUuid":null},
+{"nexusFileName":"MutantClass CHS","nexusFileVersion":"1.0","nexusFileUploadedAt":1791011642,"pakFileName":"MutantClass_CHS.pak","nexusFileId":131984,"metaUuid":null}
+]},
+"25518":{"nexusModName":"Nacre chs","nexusUploadedBy":"uulucky","nexusModId":25518,"paks":[
+{"nexusFileName":"Nacre CHS","nexusFileVersion":"1.0","nexusFileUploadedAt":1791011946,"pakFileName":"Nacre_CHS.pak","nexusFileId":131986,"metaUuid":null}
+]},
+"25519":{"nexusModName":"Nurse Outfit chs","nexusUploadedBy":"uulucky","nexusModId":25519,"paks":[
+{"nexusFileName":"Nurse Outfit CHS","nexusFileVersion":"1.0","nexusFileUploadedAt":1791012143,"pakFileName":"NurseOutfit_CHS.pak","nexusFileId":131987,"metaUuid":null}
+]},
+"25520":{"nexusModName":"Owl bear Cub Evolved CHS","nexusUploadedBy":"uulucky","nexusModId":25520,"paks":[
+{"nexusFileName":"Owl bear Cub Evolved CHS","nexusFileVersion":"1.0","nexusFileUploadedAt":1791012438,"pakFileName":"OwlbearCubEvolved_CHS.pak","nexusFileId":131988,"metaUuid":null}
+]},
+"25521":{"nexusModName":"Progression Preview-CHS","nexusUploadedBy":"uulucky","nexusModId":25521,"paks":[
+{"nexusFileName":"Progression Preview CHS","nexusFileVersion":"1.0","nexusFileUploadedAt":1791012697,"pakFileName":"ProgressionPreview_CHS.pak","nexusFileId":131989,"metaUuid":null}
+]},
+"25522":{"nexusModName":"Ring Of Move Anything CHS","nexusUploadedBy":"uulucky","nexusModId":25522,"paks":[
+{"nexusFileName":"Ring Of Move Anything","nexusFileVersion":"1.0","nexusFileUploadedAt":1791013106,"pakFileName":"RingOfMoveAnything.pak","nexusFileId":131991,"metaUuid":null},
+{"nexusFileName":"Ring Of Move Anything CHS","nexusFileVersion":"1.0","nexusFileUploadedAt":1791013126,"pakFileName":"RingOfMoveAnything_CHS.pak","nexusFileId":131992,"metaUuid":null}
+]},
+"25523":{"nexusModName":"Soulknife chs","nexusUploadedBy":"uulucky","nexusModId":25523,"paks":[
+{"nexusFileName":"Soulknife CHS","nexusFileVersion":"1.0","nexusFileUploadedAt":1791013799,"pakFileName":"Soulknife_CHS.pak","nexusFileId":131993,"metaUuid":null}
+]},
+"25524":{"nexusModName":"Staves Of The Forgotten CHS","nexusUploadedBy":"uulucky","nexusModId":25524,"paks":[
+{"nexusFileName":"Staves Of The Forgotten CHS","nexusFileVersion":"1.0","nexusFileUploadedAt":1791014001,"pakFileName":"StavesOfTheForgotten_CHS.pak","nexusFileId":131994,"metaUuid":null}
+]},
+"25525":{"nexusModName":"Steel Rose Rapier chs","nexusUploadedBy":"uulucky","nexusModId":25525,"paks":[
+{"nexusFileName":"Steel Rose Rapier","nexusFileVersion":"1.0","nexusFileUploadedAt":1791014247,"pakFileName":"SteelRoseRapier.pak","nexusFileId":131995,"metaUuid":null},
+{"nexusFileName":"Steel Rose Rapier CHS","nexusFileVersion":"1.0","nexusFileUploadedAt":1791014266,"pakFileName":"SteelRoseRapier_CHS.pak","nexusFileId":131996,"metaUuid":null}
+]},
+"25526":{"nexusModName":"Strength Domain CHS","nexusUploadedBy":"uulucky","nexusModId":25526,"paks":[
+{"nexusFileName":"Strength Domain CHS","nexusFileVersion":"1.0","nexusFileUploadedAt":1791014666,"pakFileName":"StrengthDomain_CHS.pak","nexusFileId":131997,"metaUuid":null},
+{"nexusFileName":"RhonasStrengthDomain LVL12 9054 1 1 1 1717613010","nexusFileVersion":"1.0","nexusFileUploadedAt":1791014694,"pakFileName":"Strength Domain.pak","nexusFileId":131998,"metaUuid":null}
+]},
+"25527":{"nexusModName":"Summon Guenhwyvar chs","nexusUploadedBy":"uulucky","nexusModId":25527,"paks":[
+{"nexusFileName":"Summon Guenhwyvar CHS","nexusFileVersion":"1.0","nexusFileUploadedAt":1791014955,"pakFileName":"SummonGuenhwyvar_CHS.pak","nexusFileId":132000,"metaUuid":null}
+]},
+"25528":{"nexusModName":"Sylvan Warden chs","nexusUploadedBy":"uulucky","nexusModId":25528,"paks":[
+{"nexusFileName":"Sylvan Warden CHS","nexusFileVersion":"1.0","nexusFileUploadedAt":1791015321,"pakFileName":"SylvanWarden_CHS.pak","nexusFileId":132001,"metaUuid":null}
+]},
+"25529":{"nexusModName":"Undead Nurse CHS","nexusUploadedBy":"uulucky","nexusModId":25529,"paks":[
+{"nexusFileName":"Undead Nurse ","nexusFileVersion":"1.0","nexusFileUploadedAt":1791015863,"pakFileName":"UndeadNurse_26aadabb-1d4b-b896-15f7-b9d36074c519.pak","nexusFileId":132003,"metaUuid":null},
+{"nexusFileName":"Undead Nurse CHS","nexusFileVersion":"1.0","nexusFileUploadedAt":1791015877,"pakFileName":"UndeadNurse_CHS.pak","nexusFileId":132004,"metaUuid":null}
 ]}}
