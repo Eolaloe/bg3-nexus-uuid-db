@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-10-03T08:52:55.967845+00:00","total_mods":17988},
+{"_meta":{"last_run":"2026-10-03T09:52:53.759868+00:00","total_mods":17989},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -36001,7 +36001,7 @@
 ]},
 "12727":{"nexusModName":"DnD 5.5e All-in-One BEYOND","nexusUploadedBy":"yoonmoonsik43","nexusModId":12727,"paks":[
 {"nexusFileName":"dnd2024 - V3 Legacy","nexusFileVersion":"3.4.6.4","nexusFileUploadedAt":1771945305,"pakFileName":"DnD2024_897914ef-5c96-053c-44af-0be823f895fe.pak","nexusFileId":115523,"metaUuid":"897914ef-5c96-053c-44af-0be823f895fe"},
-{"nexusFileName":"DnD 5.5e All-in-One BEYOND","nexusFileVersion":"4.12.16.2","nexusFileUploadedAt":1791014894,"pakFileName":"DnD2024_897914ef-5c96-053c-44af-0be823f895fe.pak","nexusFileId":131999,"metaUuid":"897914ef-5c96-053c-44af-0be823f895fe"}
+{"nexusFileName":"DnD 5.5e All-in-One BEYOND","nexusFileVersion":"4.12.17.0","nexusFileUploadedAt":1791018634,"pakFileName":"DnD2024_897914ef-5c96-053c-44af-0be823f895fe.pak","nexusFileId":132006,"metaUuid":"897914ef-5c96-053c-44af-0be823f895fe"}
 ]},
 "12728":{"nexusModName":"Origin-Themed Headwear KR","nexusUploadedBy":"Soorawang","nexusModId":12728,"paks":[
 {"nexusFileName":"Origin-Themed Headwear KR","nexusFileVersion":"1.0","nexusFileUploadedAt":1727930331,"pakFileName":"OriginHeadwear_kr.pak","nexusFileId":73692,"metaUuid":null}
@@ -47539,7 +47539,7 @@
 {"nexusFileName":"NewLegndaryGear_Greatsword_DragonBlade_ver","nexusFileVersion":"1.0.1","nexusFileUploadedAt":1766442059,"pakFileName":"NewLegndaryGear_74dcd56b-ad67-95e0-c051-601320f89d0d.pak","nexusFileId":110114,"metaUuid":null}
 ]},
 "17129":{"nexusModName":"Auto Digger Unbalanced","nexusUploadedBy":"swissfred","nexusModId":17129,"paks":[
-{"nexusFileName":"Auto Digger Unbalanced","nexusFileVersion":"2.1.8.8","nexusFileUploadedAt":1781418064,"pakFileName":"AutoDigger_7eaa3d33-be8f-2964-299c-99d0cc17c2b8.pak","nexusFileId":123524,"metaUuid":"7eaa3d33-be8f-2964-299c-99d0cc17c2b8"}
+{"nexusFileName":"Auto Digger Unbalanced","nexusFileVersion":"2.2.8.0","nexusFileUploadedAt":1791020890,"pakFileName":"AutoDigger_7eaa3d33-be8f-2964-299c-99d0cc17c2b8.pak","nexusFileId":132010,"metaUuid":"7eaa3d33-be8f-2964-299c-99d0cc17c2b8"}
 ]},
 "17130":{"nexusModName":"Chest Glow for KAVT","nexusUploadedBy":"Mutlam","nexusModId":17130,"paks":[
 {"nexusFileName":"Chestglow","nexusFileVersion":"1.0","nexusFileUploadedAt":1749766975,"pakFileName":"Chest_Glow.pak","nexusFileId":95728,"metaUuid":null},
@@ -63233,7 +63233,7 @@
 {"nexusFileName":"Fatebond","nexusFileVersion":"1.4","nexusFileUploadedAt":1784576306,"pakFileName":"Fatebond.pak","nexusFileId":126087,"metaUuid":"6cfead1f-d54c-4dfb-bc94-05e9fc1e2970"}
 ]},
 "22459":{"nexusModName":"DnD 5.5e All-in-One BEYOND Russian Localization","nexusUploadedBy":"XapcT","nexusModId":22459,"paks":[
-{"nexusFileName":"DnD 5.5e AIO Russian v0.5.32.zip","nexusFileVersion":"0.5.32","nexusFileUploadedAt":1791015498,"pakFileName":"DnD 5.5e AIO Russian.pak","nexusFileId":132002,"metaUuid":"6401e84d-daf2-416d-adeb-99c03a2487a6"}
+{"nexusFileName":"DnD 5.5e AIO Russian v0.5.33.zip","nexusFileVersion":"0.5.33","nexusFileUploadedAt":1791019066,"pakFileName":"DnD 5.5e AIO Russian.pak","nexusFileId":132007,"metaUuid":"6401e84d-daf2-416d-adeb-99c03a2487a6"}
 ]},
 "22460":{"nexusModName":"Elementally Based Gear","nexusUploadedBy":"Useyourrifle","nexusModId":22460,"paks":[
 {"nexusFileName":"Elemental_Gear.7z","nexusFileVersion":"1","nexusFileUploadedAt":1776346340,"pakFileName":"OP_Bow_56032304-f037-e077-f5e7-045d2e03ef1c.pak","nexusFileId":119147,"metaUuid":"56032304-f037-e077-f5e7-045d2e03ef1c"}
@@ -70982,6 +70982,10 @@
 ]},
 "25491":{"nexusModName":"Quest Tracker","nexusUploadedBy":"igrikus33010","nexusModId":25491,"paks":[
 {"nexusFileName":"QuestTracker V1.0.0","nexusFileVersion":"1","nexusFileUploadedAt":1790947565,"pakFileName":"quest-tracker_e0823ed1-bc62-9b84-275f-7b8e182c386a.pak","nexusFileId":131914,"metaUuid":"e0823ed1-bc62-9b84-275f-7b8e182c386a"}
+]},
+"25492":{"nexusModName":"Boris Head Preset","nexusUploadedBy":"VespertilioArt","nexusModId":25492,"paks":[
+{"nexusFileName":"Boris CCO Version","nexusFileVersion":"1.2.0.0","nexusFileUploadedAt":1791011560,"pakFileName":"Boris - CCO.pak","nexusFileId":131982,"metaUuid":null},
+{"nexusFileName":"Boris Regular Version","nexusFileVersion":"1.2.0.0","nexusFileUploadedAt":1791011642,"pakFileName":"Boris.pak","nexusFileId":131985,"metaUuid":null}
 ]},
 "25493":{"nexusModName":"Skirbie's Scarlet Goddess and chs","nexusUploadedBy":"uulucky","nexusModId":25493,"paks":[
 {"nexusFileName":"Skirbie's Scarlet Goddess","nexusFileVersion":"1.0","nexusFileUploadedAt":1790948689,"pakFileName":"ScarletGoddess.pak","nexusFileId":131916,"metaUuid":null},
