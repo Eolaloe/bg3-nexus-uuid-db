@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-10-03T17:54:25.694658+00:00","total_mods":17994},
+{"_meta":{"last_run":"2026-10-03T18:51:57.155042+00:00","total_mods":17996},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -70394,7 +70394,7 @@
 {"nexusFileName":"Path Of The Wraith PTBR","nexusFileVersion":"05.11.2025","nexusFileUploadedAt":1790132067,"pakFileName":"Path of the Wraith PTBR.pak","nexusFileId":131196,"metaUuid":null}
 ]},
 "25232":{"nexusModName":"Oath of Excellence - The School of the Second Attempt","nexusUploadedBy":"Nevaty","nexusModId":25232,"paks":[
-{"nexusFileName":"Oath of Excellence","nexusFileVersion":"1.0.0.3","nexusFileUploadedAt":1790246995,"pakFileName":"excellence_68d43f80-8b9e-d4c1-144a-4f339b6393cc.pak","nexusFileId":131289,"metaUuid":null}
+{"nexusFileName":"Oath of Excellence","nexusFileVersion":"1.0.0.6","nexusFileUploadedAt":1791052035,"pakFileName":"excellence_68d43f80-8b9e-d4c1-144a-4f339b6393cc.pak","nexusFileId":132035,"metaUuid":null}
 ]},
 "25233":{"nexusModName":"Wind ring","nexusUploadedBy":"justakidelcor","nexusModId":25233,"paks":[
 {"nexusFileName":"Wind Ring","nexusFileVersion":"1.4","nexusFileUploadedAt":1790602677,"pakFileName":"Wind Ring.pak","nexusFileId":131640,"metaUuid":"2fed4822-1b9f-4a55-81cb-69918401c817"}
@@ -70832,6 +70832,9 @@
 "25407":{"nexusModName":"Early Access Illithid Powers Restored (Russian Translate)","nexusUploadedBy":"SexSux","nexusModId":25407,"paks":[
 {"nexusFileName":"Early Access Illithid Powers Restored (RUS)","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1790847409,"pakFileName":"EarlyAccess_IllithidPowers_2e266fd8-2c29-ca19-92d4-39be711c12a0_RUS.pak","nexusFileId":131818,"metaUuid":null}
 ]},
+"25408":{"nexusModName":"Console Area Loot (for Mouse and Keyboard)","nexusUploadedBy":"FELMS","nexusModId":25408,"paks":[
+{"nexusFileName":"Console Area Loot 1.0","nexusFileVersion":"1","nexusFileUploadedAt":1791039623,"pakFileName":"AreaLoot.pak","nexusFileId":132019,"metaUuid":null}
+]},
 "25423":{"nexusModName":"Noxx's Tricks and Trinkets","nexusUploadedBy":"Prednoxx","nexusModId":25423,"paks":[
 {"nexusFileName":"TricksAndTreats","nexusFileVersion":"1.1.0.3","nexusFileUploadedAt":1790756385,"pakFileName":"NoxxsTricksAndTrinkets_79b75124-eb4a-5dd9-8e91-5ffadb5f88fb.pak","nexusFileId":131741,"metaUuid":"79b75124-eb4a-5dd9-8e91-5ffadb5f88fb"}
 ]},
@@ -71122,4 +71125,7 @@
 ]},
 "25532":{"nexusModName":"Symphony of a Vampire - Vampirism Overhaul Interesting Origins Patch","nexusUploadedBy":"SexSux","nexusModId":25532,"paks":[
 {"nexusFileName":"SOAV And Interesting Origins Patch","nexusFileVersion":"1.0","nexusFileUploadedAt":1791048690,"pakFileName":"SOAV_and_interesting_origins_patch.pak","nexusFileId":132033,"metaUuid":null}
+]},
+"25533":{"nexusModName":"Brunotavm - The Absolute Balance","nexusUploadedBy":"brunotavm","nexusModId":25533,"paks":[
+{"nexusFileName":"Brunotavm The Absolute Balance","nexusFileVersion":"1","nexusFileUploadedAt":1791051322,"pakFileName":"brunotavm_the_absolute_balance.pak","nexusFileId":132034,"metaUuid":null}
 ]}}
