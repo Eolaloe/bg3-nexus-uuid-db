@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-10-03T19:52:01.704018+00:00","total_mods":17997},
+{"_meta":{"last_run":"2026-10-03T20:53:34.885048+00:00","total_mods":17998},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -42685,7 +42685,7 @@
 {"nexusFileName":"ListoSkillIssUI","nexusFileVersion":"1.0","nexusFileUploadedAt":1763251192,"pakFileName":"ListoSkillIssue.pak","nexusFileId":107538,"metaUuid":null},
 {"nexusFileName":"secret mod","nexusFileVersion":"112","nexusFileUploadedAt":1778555462,"pakFileName":"Paragon.pak","nexusFileId":121019,"metaUuid":null},
 {"nexusFileName":"secret mod","nexusFileVersion":"112","nexusFileUploadedAt":1778555462,"pakFileName":"ValorAndVirtue.pak","nexusFileId":121019,"metaUuid":null},
-{"nexusFileName":"Listo Tweaks and Patches","nexusFileVersion":"10.4.1","nexusFileUploadedAt":1790447267,"pakFileName":"ListoPatches.pak","nexusFileId":131467,"metaUuid":null}
+{"nexusFileName":"Listo Tweaks and Patches","nexusFileVersion":"10.4.2","nexusFileUploadedAt":1791060020,"pakFileName":"ListoPatches.pak","nexusFileId":132041,"metaUuid":null}
 ]},
 "15238":{"nexusModName":"Nazatur's Tadpoles Rebalance","nexusUploadedBy":"Nazatur","nexusModId":15238,"paks":[
 {"nexusFileName":"NazTadpolesRebalance","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1741335505,"pakFileName":"NazTadpoleRebalance.pak","nexusFileId":86828,"metaUuid":"23351907-8989-4294-ad93-9564c53012b0"}
@@ -71131,4 +71131,7 @@
 ]},
 "25535":{"nexusModName":"SOAV freezing bite fix","nexusUploadedBy":"SexSux","nexusModId":25535,"paks":[
 {"nexusFileName":"Vampiric Tree FreezingBite Fix","nexusFileVersion":"1.1","nexusFileUploadedAt":1791056587,"pakFileName":"vampiric_tree_75d2d721-1e37-d98f-9e4e-dc330c33ee10_freezingBite_fix.pak","nexusFileId":132039,"metaUuid":null}
+]},
+"25536":{"nexusModName":"Armadyl Godsword - Runescape","nexusUploadedBy":"Arkaheuz","nexusModId":25536,"paks":[
+{"nexusFileName":"Armadyl_Godsword","nexusFileVersion":"1","nexusFileUploadedAt":1791057993,"pakFileName":"ArmadylGodsword_v1.0.0_release.pak","nexusFileId":132040,"metaUuid":null}
 ]}}
