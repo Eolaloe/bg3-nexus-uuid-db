@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-10-04T21:09:06.312709+00:00","total_mods":18011},
+{"_meta":{"last_run":"2026-10-04T21:55:49.859709+00:00","total_mods":18012},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -65318,7 +65318,7 @@
 {"nexusFileName":"Awakened Morninglord's Morningstar","nexusFileVersion":"1.0.3","nexusFileUploadedAt":1790618463,"pakFileName":"Awakened Morninglord's Morningstar Compatibility Patch.pak","nexusFileId":131664,"metaUuid":"a4bc95d6-d14f-4ce5-8401-222937128234"}
 ]},
 "23247":{"nexusModName":"Advanced Enemy Randomizer","nexusUploadedBy":"celerev","nexusModId":23247,"paks":[
-{"nexusFileName":"AERando","nexusFileVersion":"1.0.1.2","nexusFileUploadedAt":1790978225,"pakFileName":"AERando.pak","nexusFileId":131944,"metaUuid":"1ec28411-fbaf-43ba-ad7b-092aa678c0dc"}
+{"nexusFileName":"AERando","nexusFileVersion":"1.0.1.3","nexusFileUploadedAt":1791147270,"pakFileName":"AERando.pak","nexusFileId":132119,"metaUuid":"1ec28411-fbaf-43ba-ad7b-092aa678c0dc"}
 ]},
 "23248":{"nexusModName":"Sharran Weaponry by AzazeL (WIP)_JP","nexusUploadedBy":"Akazonae36","nexusModId":23248,"paks":[
 {"nexusFileName":"Aza Sharran Weaponry WIP JP","nexusFileVersion":"1","nexusFileUploadedAt":1780802520,"pakFileName":"Aza_Sharran_Weaponry_WIP_JP.pak","nexusFileId":123036,"metaUuid":null}
@@ -71178,4 +71178,7 @@
 ]},
 "25564":{"nexusModName":"Difficulty Adjustment and Valkrana's Skeleton Performance Patch","nexusUploadedBy":"LeeDawn","nexusModId":25564,"paks":[
 {"nexusFileName":"Patch DifficultyAdjustment V1.1","nexusFileVersion":"1.1","nexusFileUploadedAt":1791133635,"pakFileName":"DifficultyAdjustment_PerfPatch.pak","nexusFileId":132097,"metaUuid":"84863c4e-c7e2-42af-9053-90741b8d6df1"}
+]},
+"25567":{"nexusModName":"Pack of Neurodivergence","nexusUploadedBy":"MrD18","nexusModId":25567,"paks":[
+{"nexusFileName":"Pack Of Neurodivergence","nexusFileVersion":"1","nexusFileUploadedAt":1791150412,"pakFileName":"Pack_of_Neurodivergence_6d3e8f8d_2e85767e-756c-4e81-8b5b-62076bef2561.pak","nexusFileId":132120,"metaUuid":null}
 ]}}
