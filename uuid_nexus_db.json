@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-10-04T14:54:45.211649+00:00","total_mods":18006},
+{"_meta":{"last_run":"2026-10-04T16:02:14.939437+00:00","total_mods":18008},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -67073,13 +67073,13 @@
 {"nexusFileName":"EPI Replacer MoonPearl non-AIO","nexusFileVersion":"1","nexusFileUploadedAt":1785092722,"pakFileName":"TavEpilogueGearReplacer_MoonPearl_single.pak","nexusFileId":126552,"metaUuid":null},
 {"nexusFileName":"EPI Replacer MoonPearl Shoes non-AIO","nexusFileVersion":"1","nexusFileUploadedAt":1785092743,"pakFileName":"TavEpilogueGearReplacer_MoonPearl_shoes_single.pak","nexusFileId":126553,"metaUuid":null}
 ]},
-"23992":{"nexusModName":"Body and Clothing Morphs for SBBF and BCB (by SerpentineShel) v. 1.4.1","nexusUploadedBy":"SerpentineShel","nexusModId":23992,"paks":[
-{"nexusFileName":"BodyAndClothingMorph V1.4.1 AIO","nexusFileVersion":"1.4.1","nexusFileUploadedAt":1790295678,"pakFileName":"ClothMorphBCB.pak","nexusFileId":131348,"metaUuid":"78f1571f-ffb5-5646-8a5b-63aac7ce2ecd"},
-{"nexusFileName":"BodyAndClothingMorph V1.4.1 AIO","nexusFileVersion":"1.4.1","nexusFileUploadedAt":1790295678,"pakFileName":"ClothMorphRuntime.pak","nexusFileId":131348,"metaUuid":"20aca985-e3e9-41d7-bf8f-10f2a3c413e4"},
-{"nexusFileName":"BodyAndClothingMorph V1.4.1 AIO","nexusFileVersion":"1.4.1","nexusFileUploadedAt":1790295678,"pakFileName":"ClothMorphSCO.pak","nexusFileId":131348,"metaUuid":"20aca985-e3e9-41d7-bf8f-10f2a3c413e4"},
-{"nexusFileName":"BodyAndClothingMorph V1.4.1 Main","nexusFileVersion":"1.4.1","nexusFileUploadedAt":1790296061,"pakFileName":"ClothMorphRuntime.pak","nexusFileId":131349,"metaUuid":"20aca985-e3e9-41d7-bf8f-10f2a3c413e4"},
-{"nexusFileName":"BodyAndClothingMorph V1.4.1 Sindae Addon","nexusFileVersion":"1.4.1","nexusFileUploadedAt":1790296242,"pakFileName":"ClothMorphBCB.pak","nexusFileId":131350,"metaUuid":"78f1571f-ffb5-5646-8a5b-63aac7ce2ecd"},
-{"nexusFileName":"BodyAndClothingMorph V1.4.1 SCO Addon","nexusFileVersion":"1.4.1","nexusFileUploadedAt":1790296544,"pakFileName":"ClothMorphSCO.pak","nexusFileId":131351,"metaUuid":"20aca985-e3e9-41d7-bf8f-10f2a3c413e4"}
+"23992":{"nexusModName":"Body and Clothing Morphs for SBBF and BCB (by SerpentineShel) v. 1.4.2","nexusUploadedBy":"SerpentineShel","nexusModId":23992,"paks":[
+{"nexusFileName":"BodyAndClothingMorph V1.4.2 AIO","nexusFileVersion":"1.4.2","nexusFileUploadedAt":1791126526,"pakFileName":"ClothMorphBCB.pak","nexusFileId":132089,"metaUuid":"78f1571f-ffb5-5646-8a5b-63aac7ce2ecd"},
+{"nexusFileName":"BodyAndClothingMorph V1.4.2 AIO","nexusFileVersion":"1.4.2","nexusFileUploadedAt":1791126526,"pakFileName":"ClothMorphRuntime.pak","nexusFileId":132089,"metaUuid":"20aca985-e3e9-41d7-bf8f-10f2a3c413e4"},
+{"nexusFileName":"BodyAndClothingMorph V1.4.2 AIO","nexusFileVersion":"1.4.2","nexusFileUploadedAt":1791126526,"pakFileName":"ClothMorphSCO.pak","nexusFileId":132089,"metaUuid":"20aca985-e3e9-41d7-bf8f-10f2a3c413e4"},
+{"nexusFileName":"BodyAndClothingMorph V1.4.2 Sindae Addon","nexusFileVersion":"1.4.2","nexusFileUploadedAt":1791126757,"pakFileName":"ClothMorphBCB.pak","nexusFileId":132090,"metaUuid":"78f1571f-ffb5-5646-8a5b-63aac7ce2ecd"},
+{"nexusFileName":"BodyAndClothingMorph V1.4.2 SCO Addon","nexusFileVersion":"1.4.2","nexusFileUploadedAt":1791127021,"pakFileName":"ClothMorphSCO.pak","nexusFileId":132092,"metaUuid":"20aca985-e3e9-41d7-bf8f-10f2a3c413e4"},
+{"nexusFileName":"BodyAndClothingMorph V1.4.2 Main","nexusFileVersion":"1.4.2","nexusFileUploadedAt":1791127191,"pakFileName":"ClothMorphRuntime.pak","nexusFileId":132093,"metaUuid":"20aca985-e3e9-41d7-bf8f-10f2a3c413e4"}
 ]},
 "23993":{"nexusModName":"Planescapes","nexusUploadedBy":"Terrorbyte33","nexusModId":23993,"paks":[
 {"nexusFileName":"Planescapes","nexusFileVersion":"1","nexusFileUploadedAt":1784673215,"pakFileName":"Planescapes.pak","nexusFileId":126179,"metaUuid":"a059bd02-ebc7-b895-238d-9cc93d8e5c47"}
@@ -69567,7 +69567,7 @@
 {"nexusFileName":"Yet Another Party","nexusFileVersion":"1.8","nexusFileUploadedAt":1791121972,"pakFileName":"Yet Another Party.pak","nexusFileId":132081,"metaUuid":null}
 ]},
 "24895":{"nexusModName":"True First-Person Camera for BG3 Exploration AND Combat","nexusUploadedBy":"proteusproject","nexusModId":24895,"paks":[
-{"nexusFileName":"True First Person Camera unified-0.9.0","nexusFileVersion":"1","nexusFileUploadedAt":1791125212,"pakFileName":"TrueFirstPersonCamera_0.9.0_Main.pak","nexusFileId":132085,"metaUuid":null}
+{"nexusFileName":"True First Person Camera unified-0.9.0","nexusFileVersion":"2","nexusFileUploadedAt":1791125212,"pakFileName":"TrueFirstPersonCamera_0.9.0_Main.pak","nexusFileId":132085,"metaUuid":null}
 ]},
 "24896":{"nexusModName":"Light Mage","nexusUploadedBy":"Rathallon","nexusModId":24896,"paks":[
 {"nexusFileName":"Light Mage","nexusFileVersion":"13.17.22.56","nexusFileUploadedAt":1789689732,"pakFileName":"Light_Mage_fb843627-0383-11f9-2647-b2aef48d2ec3.pak","nexusFileId":130759,"metaUuid":"fb843627-0383-11f9-2647-b2aef48d2ec3"}
@@ -71124,7 +71124,7 @@
 {"nexusFileName":"Undead Nurse CHS","nexusFileVersion":"1.0","nexusFileUploadedAt":1791015877,"pakFileName":"UndeadNurse_CHS.pak","nexusFileId":132004,"metaUuid":null}
 ]},
 "25530":{"nexusModName":"Necromancer - A Pathfinder Inspired Class","nexusUploadedBy":"SuperVertigo","nexusModId":25530,"paks":[
-{"nexusFileName":"Necromancer - A Pathfinder Inspired Class","nexusFileVersion":"1.0.0.2","nexusFileUploadedAt":1791045933,"pakFileName":"P2E_Necromancer_75387a46-ac46-eec5-e23d-d9ec4a5b72f4.pak","nexusFileId":132028,"metaUuid":null}
+{"nexusFileName":"Necromancer - A Pathfinder Inspired Class","nexusFileVersion":"1.0.0.3","nexusFileUploadedAt":1791126875,"pakFileName":"P2E_Necromancer_75387a46-ac46-eec5-e23d-d9ec4a5b72f4.pak","nexusFileId":132091,"metaUuid":null}
 ]},
 "25531":{"nexusModName":"Night Watch","nexusUploadedBy":"LeilaXel","nexusModId":25531,"paks":[
 {"nexusFileName":"LeilaNightWatch","nexusFileVersion":"1","nexusFileUploadedAt":1791041443,"pakFileName":"LeilaNightWatch.pak","nexusFileId":132022,"metaUuid":"dc0bf9eb-5a90-4bea-bf2b-8f9cf9d9ec27"},
@@ -71162,4 +71162,10 @@
 ]},
 "25546":{"nexusModName":"Extended Boat Crew to 32","nexusUploadedBy":"steinsgatesx","nexusModId":25546,"paks":[
 {"nexusFileName":"Extended Boat Crew To 32","nexusFileVersion":"1","nexusFileUploadedAt":1791107272,"pakFileName":"Extended Boat Crew to 32.pak","nexusFileId":132070,"metaUuid":"d0a44f6f-a789-4d42-be1e-5fef92eb2444"}
+]},
+"25552":{"nexusModName":"Tieflings-Survive-Act2","nexusUploadedBy":"LeeDawn","nexusModId":25552,"paks":[
+{"nexusFileName":"TieflingsSurviveAct2 V1.0","nexusFileVersion":"1","nexusFileUploadedAt":1791126525,"pakFileName":"TieflingsSurviveAct2_v1.0.pak","nexusFileId":132088,"metaUuid":null}
+]},
+"25554":{"nexusModName":"Battle-Item-Pack-Performance-Patch","nexusUploadedBy":"LeeDawn","nexusModId":25554,"paks":[
+{"nexusFileName":"Patch BattleItemPack","nexusFileVersion":"1","nexusFileUploadedAt":1791129208,"pakFileName":"BattleItemPack_PerfPatch.pak","nexusFileId":132094,"metaUuid":null}
 ]}}
