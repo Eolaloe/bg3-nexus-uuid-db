@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-10-04T18:54:17.881139+00:00","total_mods":18010},
+{"_meta":{"last_run":"2026-10-04T19:52:10.347203+00:00","total_mods":18011},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -71171,6 +71171,9 @@
 ]},
 "25555":{"nexusModName":"Deaded NPC Dialog Restore","nexusUploadedBy":"LeeDawn","nexusModId":25555,"paks":[
 {"nexusFileName":"NpcDialogRestore V1.0","nexusFileVersion":"1","nexusFileUploadedAt":1791133662,"pakFileName":"NpcDialogRestore_v1.1.pak","nexusFileId":132098,"metaUuid":null}
+]},
+"25559":{"nexusModName":"Show Camp Approvals","nexusUploadedBy":"Moondragon85","nexusModId":25559,"paks":[
+{"nexusFileName":"Show Camp Approvals","nexusFileVersion":"1.1.0.44","nexusFileUploadedAt":1791139443,"pakFileName":"ShowCampApprovals_243edcd7-fc94-805a-fab4-b5e8de3751b7.pak","nexusFileId":132103,"metaUuid":null}
 ]},
 "25564":{"nexusModName":"Difficulty Adjustment and Valkrana's Skeleton Performance Patch","nexusUploadedBy":"LeeDawn","nexusModId":25564,"paks":[
 {"nexusFileName":"Patch DifficultyAdjustment V1.1","nexusFileVersion":"1.1","nexusFileUploadedAt":1791133635,"pakFileName":"DifficultyAdjustment_PerfPatch.pak","nexusFileId":132097,"metaUuid":null}
