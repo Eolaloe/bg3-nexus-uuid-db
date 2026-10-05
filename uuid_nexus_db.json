@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-10-05T04:54:49.566050+00:00","total_mods":18010},
+{"_meta":{"last_run":"2026-10-05T05:54:24.501799+00:00","total_mods":18011},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -21076,8 +21076,8 @@
 {"nexusFileName":"Selune Logo Tent","nexusFileVersion":"2","nexusFileUploadedAt":1708346594,"pakFileName":"ShadowHeartFlowerTent.pak","nexusFileId":45548,"metaUuid":null}
 ]},
 "6878":{"nexusModName":"Immersive Dice Roll","nexusUploadedBy":"lexo1000","nexusModId":6878,"paks":[
-{"nexusFileName":"Immersive Dice Roll - Revamped window only","nexusFileVersion":"2.0","nexusFileUploadedAt":1710186752,"pakFileName":"Immersive Dice Roll - Window only.pak","nexusFileId":49529,"metaUuid":"684e0f2d-a29d-4a88-adea-88e61c70dbf5"},
-{"nexusFileName":"Immersive Dice Roll","nexusFileVersion":"2.1","nexusFileUploadedAt":1755066089,"pakFileName":"Immersive Dice Roll.pak","nexusFileId":100508,"metaUuid":"2b0e36d2-5e41-4bc2-8d58-39dcde67cafb"}
+{"nexusFileName":"Immersive Dice Roll","nexusFileVersion":"3.0.1","nexusFileUploadedAt":1791177846,"pakFileName":"Immersive Dice Roll.pak","nexusFileId":132145,"metaUuid":"2b0e36d2-5e41-4bc2-8d58-39dcde67cafb"},
+{"nexusFileName":"Immersive Dice Roll - Revamped window only","nexusFileVersion":"3.0.1","nexusFileUploadedAt":1791177863,"pakFileName":"Immersive Dice Roll - Window only.pak","nexusFileId":132146,"metaUuid":"684e0f2d-a29d-4a88-adea-88e61c70dbf5"}
 ]},
 "6879":{"nexusModName":"Goblin Armors","nexusUploadedBy":"Cerberry","nexusModId":6879,"paks":[
 {"nexusFileName":"Goblin Armors","nexusFileVersion":"1.1","nexusFileUploadedAt":1708518581,"pakFileName":"CBR_GoblinArmors.pak","nexusFileId":45870,"metaUuid":"ecc7f062-a21e-4f08-8371-37631d7d32da"},
@@ -44745,7 +44745,7 @@
 {"nexusFileName":"MS_SerpentineSorcererCHS","nexusFileVersion":"1.1","nexusFileUploadedAt":1745595476,"pakFileName":"MS_SerpentineSorcererCHS.pak","nexusFileId":90611,"metaUuid":null}
 ]},
 "16086":{"nexusModName":"Expansion Level 13-20 (Configurable)_KOR","nexusUploadedBy":"Ahdarugo","nexusModId":16086,"paks":[
-{"nexusFileName":"Expansion Lv13-20_KOR","nexusFileVersion":"1.7.3.12","nexusFileUploadedAt":1790768638,"pakFileName":"Expansion_KOR.pak","nexusFileId":131755,"metaUuid":"de9fb419-8c95-409d-8d69-3bd7d1e01d67"}
+{"nexusFileName":"Expansion Lv13-20_KOR","nexusFileVersion":"1.7.3.14","nexusFileUploadedAt":1791178355,"pakFileName":"Expansion_KOR.pak","nexusFileId":132147,"metaUuid":"de9fb419-8c95-409d-8d69-3bd7d1e01d67"}
 ]},
 "16087":{"nexusModName":"Better Visuals for Shadow Hound by AzazeL (Patch 8 only)","nexusUploadedBy":"AzazeLwasTaken","nexusModId":16087,"paks":[
 {"nexusFileName":"Better Visuals for Shadow Hound (Nimbus)","nexusFileVersion":"2.0","nexusFileUploadedAt":1745753427,"pakFileName":"Aza_BetterShadowHound.pak","nexusFileId":90832,"metaUuid":"c5dec426-24f7-cc31-22ff-95df0839324d"}
@@ -70833,7 +70833,7 @@
 {"nexusFileName":"Console Area Loot 1.0","nexusFileVersion":"1","nexusFileUploadedAt":1791039623,"pakFileName":"AreaLoot.pak","nexusFileId":132019,"metaUuid":null}
 ]},
 "25409":{"nexusModName":"Pointed - Ballet and Dance Clothing","nexusUploadedBy":"BittenThrice","nexusModId":25409,"paks":[
-{"nexusFileName":"Pointed","nexusFileVersion":"1.0.17","nexusFileUploadedAt":1791169653,"pakFileName":"PointedClothing_6c432a52-e6ac-c8fc-0e21-e86fc1aaa27a.pak","nexusFileId":132140,"metaUuid":null}
+{"nexusFileName":"Pointed","nexusFileVersion":"1.0.18","nexusFileUploadedAt":1791176564,"pakFileName":"PointedClothing.pak","nexusFileId":132143,"metaUuid":null}
 ]},
 "25423":{"nexusModName":"Noxx's Tricks and Trinkets","nexusUploadedBy":"Prednoxx","nexusModId":25423,"paks":[
 {"nexusFileName":"TricksAndTreats","nexusFileVersion":"1.1.0.3","nexusFileUploadedAt":1790756385,"pakFileName":"NoxxsTricksAndTrinkets_79b75124-eb4a-5dd9-8e91-5ffadb5f88fb.pak","nexusFileId":131741,"metaUuid":"79b75124-eb4a-5dd9-8e91-5ffadb5f88fb"}
@@ -71154,6 +71154,9 @@
 ]},
 "25552":{"nexusModName":"Tieflings-Survive-Act2","nexusUploadedBy":"LeeDawn","nexusModId":25552,"paks":[
 {"nexusFileName":"TieflingsSurviveAct2 V1.0","nexusFileVersion":"1","nexusFileUploadedAt":1791126525,"pakFileName":"TieflingsSurviveAct2_v1.0.pak","nexusFileId":132088,"metaUuid":"a7f3c1d2-5e64-4b90-8c31-0d9e6f2a4b77"}
+]},
+"25553":{"nexusModName":"Balthazar Clone","nexusUploadedBy":"Elmvick","nexusModId":25553,"paks":[
+{"nexusFileName":"Balthazar Clone","nexusFileVersion":"1","nexusFileUploadedAt":1791176614,"pakFileName":"Balthazar Clone.pak","nexusFileId":132144,"metaUuid":null}
 ]},
 "25555":{"nexusModName":"Deaded NPC Dialog Restore","nexusUploadedBy":"LeeDawn","nexusModId":25555,"paks":[
 {"nexusFileName":"NpcDialogRestore V1.0","nexusFileVersion":"1","nexusFileUploadedAt":1791133662,"pakFileName":"NpcDialogRestore_v1.1.pak","nexusFileId":132098,"metaUuid":"c4e8b6a1-2d7f-4c93-8b15-6a0e5f3d91cc"}
