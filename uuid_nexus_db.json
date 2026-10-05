@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-10-05T15:52:18.155897+00:00","total_mods":18020},
+{"_meta":{"last_run":"2026-10-05T16:52:50.347902+00:00","total_mods":18028},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -61384,7 +61384,7 @@
 {"nexusFileName":"B. The Gunslinger Addon Revolver OffHand","nexusFileVersion":"2.0.0.6","nexusFileUploadedAt":1784352419,"pakFileName":"TheGunslingerOffHandAddon_db9c5c90-6f70-f07a-153e-d873fc5f803d.pak","nexusFileId":125916,"metaUuid":null},
 {"nexusFileName":"F. Spellslinger Wizard Subclass Add-On","nexusFileVersion":"1.0.0.1","nexusFileUploadedAt":1785666656,"pakFileName":"TheGunslinger_WizardAddOn_3eaab4ba-f1fc-9a6b-533a-5ae325b4a838.pak","nexusFileId":127106,"metaUuid":"3eaab4ba-f1fc-9a6b-533a-5ae325b4a838"},
 {"nexusFileName":"A. The Gunslinger Extra Feats Every 2 Levels","nexusFileVersion":"3.0.0.1","nexusFileUploadedAt":1789242421,"pakFileName":"TheGunslinge_ExtraFeats2Levels_1043510a-69e0-f71d-6eb0-a89c2be1d13a.pak","nexusFileId":130391,"metaUuid":"1043510a-69e0-f71d-6eb0-a89c2be1d13a"},
-{"nexusFileName":"The Gunslinger Class (ENG-KOR)","nexusFileVersion":"3.2.0.9","nexusFileUploadedAt":1791047716,"pakFileName":"TheGunslinger_1f2b82d7-19c8-734b-5f43-05d57d3e7601.pak","nexusFileId":132031,"metaUuid":"1f2b82d7-19c8-734b-5f43-05d57d3e7601"}
+{"nexusFileName":"The Gunslinger Class (ENG-KOR)","nexusFileVersion":"3.2.0.12","nexusFileUploadedAt":1791218544,"pakFileName":"TheGunslinger_1f2b82d7-19c8-734b-5f43-05d57d3e7601.pak","nexusFileId":132184,"metaUuid":"1f2b82d7-19c8-734b-5f43-05d57d3e7601"}
 ]},
 "21796":{"nexusModName":"Em's Misc Head Collection","nexusUploadedBy":"emsthings","nexusModId":21796,"paks":[
 {"nexusFileName":"Em's Head Collection","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1772951131,"pakFileName":"Ems_Heads_41f62b28-72fa-cd43-2b54-e521a962a342.pak","nexusFileId":116314,"metaUuid":"41f62b28-72fa-cd43-2b54-e521a962a342"}
@@ -66961,7 +66961,7 @@
 {"nexusFileName":"AstarionsVampireBiteLeveled 1.0.0","nexusFileVersion":"1.2","nexusFileUploadedAt":1784513891,"pakFileName":"AstarionBiteImproved.pak","nexusFileId":126052,"metaUuid":"c5c95eca-f0c6-4f1b-a70f-40f393ceacb1"}
 ]},
 "23945":{"nexusModName":"5rdnd2024 Wizard Extra","nexusUploadedBy":"Ruojo","nexusModId":23945,"paks":[
-{"nexusFileName":"OneDnD WizardExtra","nexusFileVersion":"1.0.0.3","nexusFileUploadedAt":1788707581,"pakFileName":"OneDnD_WizardExtra.pak","nexusFileId":129877,"metaUuid":"50885137-f087-4d41-a58d-fdde4b6d4a6a"}
+{"nexusFileName":"OneDnD WizardExtra","nexusFileVersion":"1.0.1.0","nexusFileUploadedAt":1791217255,"pakFileName":"OneDnD_WizardExtra.pak","nexusFileId":132183,"metaUuid":"50885137-f087-4d41-a58d-fdde4b6d4a6a"}
 ]},
 "23946":{"nexusModName":"Axi Map Assets","nexusUploadedBy":"axianaa","nexusModId":23946,"paks":[
 {"nexusFileName":"Axi Map Assets","nexusFileVersion":"1.0.0.27","nexusFileUploadedAt":1787954519,"pakFileName":"axi_map_assets_975b5ffd-86b1-cb89-b6b1-8cfb964d1d14.pak","nexusFileId":129223,"metaUuid":"975b5ffd-86b1-cb89-b6b1-8cfb964d1d14"}
@@ -71206,4 +71206,28 @@
 ]},
 "25580":{"nexusModName":"NPC Redesign - The Emerald Grove by AzazeL (Patch 7-8) (Russian Translate)","nexusUploadedBy":"SexSux","nexusModId":25580,"paks":[
 {"nexusFileName":"NPC Redesign v2 (All-in-One) (Russian Translate)","nexusFileVersion":"2.0","nexusFileUploadedAt":1791215438,"pakFileName":"Aza_NPCre_TheEmeraldGrove_74cb2214-5ddb-8fa6-9f6b-1f9be9bba6f3_RUS.pak","nexusFileId":132174,"metaUuid":null}
+]},
+"25581":{"nexusModName":"NPC Redesign - Cazador Szarr by AzazeL and Moon Blossom (Russian Translate)","nexusUploadedBy":"SexSux","nexusModId":25581,"paks":[
+{"nexusFileName":"NPC Redesign - Cazador Szarr 2.1 (RUS)","nexusFileVersion":"2.1","nexusFileUploadedAt":1791215694,"pakFileName":"Aza_NPCre_Cazador_Blossom_1defbcf2-c053-49e2-4e83-162d3ced3a38_RUS.pak","nexusFileId":132175,"metaUuid":null}
+]},
+"25582":{"nexusModName":"NPC Redesign - Church of Shar by AzazeL (WIP) (Russian Translate)","nexusUploadedBy":"SexSux","nexusModId":25582,"paks":[
+{"nexusFileName":"NPC Redesign (Church of Shar) (RUS)","nexusFileVersion":"1.0","nexusFileUploadedAt":1791215952,"pakFileName":"Aza_NPCre_ChurchOfShar_Full_519cdf53-c4e7-db87-338a-971dded325fe_RUS.pak","nexusFileId":132176,"metaUuid":null}
+]},
+"25583":{"nexusModName":"Ascendant Parity","nexusUploadedBy":"Recorder343","nexusModId":25583,"paks":[
+{"nexusFileName":"AscendantParity 1 0 0","nexusFileVersion":"1","nexusFileUploadedAt":1791216728,"pakFileName":"AscendantParity.pak","nexusFileId":132181,"metaUuid":null}
+]},
+"25584":{"nexusModName":"NPC Redesign - Orin the Red by AzazeL (Russian Translate)","nexusUploadedBy":"SexSux","nexusModId":25584,"paks":[
+{"nexusFileName":"NPC Redesign - Orin the Red v2.0 (RUS)","nexusFileVersion":"2.0","nexusFileUploadedAt":1791216190,"pakFileName":"Aza_NPCre_Orin_4aa8dc34-915c-fbae-9416-22b5ac6d6ea0_RUS.pak","nexusFileId":132177,"metaUuid":null}
+]},
+"25585":{"nexusModName":"NPC Redesign - Paladins of Tyr (Zariel) by AzazeL (Russian Translate)","nexusUploadedBy":"SexSux","nexusModId":25585,"paks":[
+{"nexusFileName":"NPC Redesign - Paladins of Tyr (RUS)","nexusFileVersion":"1.8","nexusFileUploadedAt":1791216374,"pakFileName":"Aza_NPCre_PaladinsOfTyr_0976406f-9578-6170-91b7-df69bc1ea5e7_RUS.pak","nexusFileId":132178,"metaUuid":null}
+]},
+"25586":{"nexusModName":"NPC Redesign - Waukeen's Rest by AzazeL (Russian Translate)","nexusUploadedBy":"SexSux","nexusModId":25586,"paks":[
+{"nexusFileName":"NPC Redesign - Waukeen's Rest (Russian Translate)","nexusFileVersion":"2.0","nexusFileUploadedAt":1791216564,"pakFileName":"Aza_NPCre_WaukensInn_a74d34b5-899a-0a12-8afc-5ce33e3cfaaf_RUS.pak","nexusFileId":132179,"metaUuid":null}
+]},
+"25587":{"nexusModName":"Imp Loot Fix","nexusUploadedBy":"LeeDawn","nexusModId":25587,"paks":[
+{"nexusFileName":"ImpLootFix V1.0","nexusFileVersion":"1","nexusFileUploadedAt":1791216812,"pakFileName":"ImpLootFix_v1.0.pak","nexusFileId":132182,"metaUuid":null}
+]},
+"25588":{"nexusModName":"NPC Redesign - Zhentarim Hideout by AzazeL (Russian Translate)","nexusUploadedBy":"SexSux","nexusModId":25588,"paks":[
+{"nexusFileName":"NPC Redesign - Zhentarim Hideout (Main File) (RUS)","nexusFileVersion":"1.3","nexusFileUploadedAt":1791216693,"pakFileName":"Aza_NPCre_ZhentarimHideout_77b57cd7-abca-f545-d39d-fae4667d5062_RUS.pak","nexusFileId":132180,"metaUuid":null}
 ]}}
