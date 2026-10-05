@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-10-05T18:52:51.732702+00:00","total_mods":18029},
+{"_meta":{"last_run":"2026-10-05T21:52:12.196793+00:00","total_mods":18033},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -22945,15 +22945,15 @@
 {"nexusFileName":"Abdirak","nexusFileVersion":"1.1","nexusFileUploadedAt":1711460274,"pakFileName":"Abdirak.pak","nexusFileId":51515,"metaUuid":null}
 ]},
 "7704":{"nexusModName":"Immersive Reading","nexusUploadedBy":"lexo1000","nexusModId":7704,"paks":[
-{"nexusFileName":"Immersive Reading (Piazzolla Edition)","nexusFileVersion":"4.0.2","nexusFileUploadedAt":1791144870,"pakFileName":"Immersive Reading (Piazzolla Edition).pak","nexusFileId":132106,"metaUuid":"7e5ebde0-3e7f-4878-bbbd-49a34ba52354"},
-{"nexusFileName":"Immersive Reading (Only Books)","nexusFileVersion":"4.0.2","nexusFileUploadedAt":1791144931,"pakFileName":"Immersive Reading (Only Books).pak","nexusFileId":132107,"metaUuid":"56edac95-9d36-4e4d-93b1-38eb48cdecc1"},
-{"nexusFileName":"Immersive Reading (Inter Edition)","nexusFileVersion":"4.0.2","nexusFileUploadedAt":1791145014,"pakFileName":"Immersive Reading (Inter Edition).pak","nexusFileId":132108,"metaUuid":"7e5ebde0-3e7f-4878-bbbd-49a34ba52354"},
 {"nexusFileName":"Immersive Reading (15pct Larger Font Size)","nexusFileVersion":"4.0.2","nexusFileUploadedAt":1791145461,"pakFileName":"Immersive Reading (15pct Larger Font Size).pak","nexusFileId":132110,"metaUuid":null},
 {"nexusFileName":"Immersive Reading (5pct Larger Font Size)","nexusFileVersion":"4.0.2","nexusFileUploadedAt":1791145522,"pakFileName":"Immersive Reading (5pct Larger Font Size).pak","nexusFileId":132111,"metaUuid":null},
 {"nexusFileName":"Immersive Reading (5pct Smaller Font Size)","nexusFileVersion":"4.0.2","nexusFileUploadedAt":1791145594,"pakFileName":"Immersive Reading (5pct Smaller Font Size).pak","nexusFileId":132112,"metaUuid":null},
 {"nexusFileName":"Immersive Reading (10pct Larger Font Size)","nexusFileVersion":"4.0.2","nexusFileUploadedAt":1791145713,"pakFileName":"Immersive Reading (10pct Larger Font Size).pak","nexusFileId":132113,"metaUuid":null},
 {"nexusFileName":"Immersive Reading (10pct Smaller Font Size)","nexusFileVersion":"4.0.2","nexusFileUploadedAt":1791145760,"pakFileName":"Immersive Reading (10pct Smaller Font Size).pak","nexusFileId":132114,"metaUuid":null},
-{"nexusFileName":"Immersive Reading (15pct Smaller Font Size)","nexusFileVersion":"4.0.2","nexusFileUploadedAt":1791145849,"pakFileName":"Immersive Reading (15pct Smaller Font Size).pak","nexusFileId":132115,"metaUuid":null}
+{"nexusFileName":"Immersive Reading (15pct Smaller Font Size)","nexusFileVersion":"4.0.2","nexusFileUploadedAt":1791145849,"pakFileName":"Immersive Reading (15pct Smaller Font Size).pak","nexusFileId":132115,"metaUuid":null},
+{"nexusFileName":"Immersive Reading (Piazzolla Edition)","nexusFileVersion":"4.0.3","nexusFileUploadedAt":1791230254,"pakFileName":"Immersive Reading (Piazzolla Edition).pak","nexusFileId":132191,"metaUuid":"7e5ebde0-3e7f-4878-bbbd-49a34ba52354"},
+{"nexusFileName":"Immersive Reading (Inter Edition)","nexusFileVersion":"4.0.3","nexusFileUploadedAt":1791230269,"pakFileName":"Immersive Reading (Inter Edition).pak","nexusFileId":132192,"metaUuid":"7e5ebde0-3e7f-4878-bbbd-49a34ba52354"},
+{"nexusFileName":"Immersive Reading (Only Books)","nexusFileVersion":"4.0.3","nexusFileUploadedAt":1791230286,"pakFileName":"Immersive Reading (Only Books).pak","nexusFileId":132193,"metaUuid":"56edac95-9d36-4e4d-93b1-38eb48cdecc1"}
 ]},
 "7705":{"nexusModName":"Permanent Bliss Spores and Rapture (No VFX Version available)","nexusUploadedBy":"MegaCoolBlood","nexusModId":7705,"paks":[
 {"nexusFileName":"Main File","nexusFileVersion":"1.0","nexusFileUploadedAt":1709911320,"pakFileName":"PERMANENT_BLISS_SPORES.pak","nexusFileId":48993,"metaUuid":null},
@@ -53424,7 +53424,7 @@
 {"nexusFileName":"Flame Blade PHB2024 - RAW Optional Patch","nexusFileVersion":"1.1","nexusFileUploadedAt":1762908907,"pakFileName":"Flame Blade PHB2024 - RAW Patch.pak","nexusFileId":107239,"metaUuid":null}
 ]},
 "19247":{"nexusModName":"Chiz's 5e Spells Adjustments","nexusUploadedBy":"chizfreak","nexusModId":19247,"paks":[
-{"nexusFileName":"Chiz's 5e Spells Adjustments","nexusFileVersion":"2.4.3.1","nexusFileUploadedAt":1783372810,"pakFileName":"Chiz's 5e Spells Tweaks.pak","nexusFileId":125130,"metaUuid":"87d02b31-6ab1-4ee0-8cbf-6e9406707063"}
+{"nexusFileName":"Chiz's 5e Spells Adjustments","nexusFileVersion":"2.4.3.2","nexusFileUploadedAt":1791232663,"pakFileName":"Chiz's 5e Spells Tweaks.pak","nexusFileId":132195,"metaUuid":"87d02b31-6ab1-4ee0-8cbf-6e9406707063"}
 ]},
 "19248":{"nexusModName":"Alioramus Familiar","nexusUploadedBy":"BerrySemifreddo","nexusModId":19248,"paks":[
 {"nexusFileName":"Alioramus Familiar - Main File","nexusFileVersion":"1.0.0.2","nexusFileUploadedAt":1760632394,"pakFileName":"Summon_Alioramus_53200a18-e064-7c50-87b6-de2f8c67c2cd.pak","nexusFileId":105310,"metaUuid":"53200a18-e064-7c50-87b6-de2f8c67c2cd"}
@@ -66961,7 +66961,7 @@
 {"nexusFileName":"AstarionsVampireBiteLeveled 1.0.0","nexusFileVersion":"1.2","nexusFileUploadedAt":1784513891,"pakFileName":"AstarionBiteImproved.pak","nexusFileId":126052,"metaUuid":"c5c95eca-f0c6-4f1b-a70f-40f393ceacb1"}
 ]},
 "23945":{"nexusModName":"5rdnd2024 Wizard Extra","nexusUploadedBy":"Ruojo","nexusModId":23945,"paks":[
-{"nexusFileName":"OneDnD WizardExtra","nexusFileVersion":"1.0.1.0","nexusFileUploadedAt":1791217255,"pakFileName":"OneDnD_WizardExtra.pak","nexusFileId":132183,"metaUuid":"50885137-f087-4d41-a58d-fdde4b6d4a6a"}
+{"nexusFileName":"OneDnD WizardExtra","nexusFileVersion":"1.0.1.1","nexusFileUploadedAt":1791230976,"pakFileName":"OneDnD_WizardExtra.pak","nexusFileId":132194,"metaUuid":"50885137-f087-4d41-a58d-fdde4b6d4a6a"}
 ]},
 "23946":{"nexusModName":"Axi Map Assets","nexusUploadedBy":"axianaa","nexusModId":23946,"paks":[
 {"nexusFileName":"Axi Map Assets","nexusFileVersion":"1.0.0.27","nexusFileUploadedAt":1787954519,"pakFileName":"axi_map_assets_975b5ffd-86b1-cb89-b6b1-8cfb964d1d14.pak","nexusFileId":129223,"metaUuid":"975b5ffd-86b1-cb89-b6b1-8cfb964d1d14"}
@@ -68630,7 +68630,7 @@
 {"nexusFileName":"Epilogue Clothing Storage System - G-d Gale Patch","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1787802764,"pakFileName":"MGNTN_PickEPIOutfits_GdGale.pak","nexusFileId":129135,"metaUuid":"621308d4-716a-4329-a528-0a8edbedb639"}
 ]},
 "24507":{"nexusModName":"Bhaal's Forgotten Son - Dark Urge Lore Expansion -","nexusUploadedBy":"RealYablo","nexusModId":24507,"paks":[
-{"nexusFileName":"Bhaal's Forgotten Son -1.1.7-","nexusFileVersion":"1.1.7","nexusFileUploadedAt":1791212793,"pakFileName":"BhaalsForgottenSon.pak","nexusFileId":132171,"metaUuid":null}
+{"nexusFileName":"Bhaal's Forgotten Son -1.1.7-","nexusFileVersion":"1.1.7","nexusFileUploadedAt":1791228643,"pakFileName":"BhaalsForgottenSon.pak","nexusFileId":132189,"metaUuid":null}
 ]},
 "24508":{"nexusModName":"Moon's Half Orcs","nexusUploadedBy":"AdrasteaMoon","nexusModId":24508,"paks":[
 {"nexusFileName":"Main File","nexusFileVersion":"1","nexusFileUploadedAt":1787099791,"pakFileName":"Moon's Orcs.pak","nexusFileId":128431,"metaUuid":"0ad3841f-672c-46cf-b1cf-044a8af97b0e"}
@@ -70395,7 +70395,7 @@
 {"nexusFileName":"BansheeSoul1.2.0","nexusFileVersion":"2","nexusFileUploadedAt":1790398043,"pakFileName":"BansheeSoul.pak","nexusFileId":131427,"metaUuid":"7c3e9a14-5b2d-4f81-9e6a-2d4b8c1f0a37"}
 ]},
 "25230":{"nexusModName":"Weapon Layout Swap","nexusUploadedBy":"Sukibi","nexusModId":25230,"paks":[
-{"nexusFileName":"Weapon Layout Swap V1.0.0","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1790191197,"pakFileName":"Weapon_Layout_Swap.pak","nexusFileId":131249,"metaUuid":null}
+{"nexusFileName":"Weapon Layout Swap","nexusFileVersion":"1.0.1","nexusFileUploadedAt":1791227692,"pakFileName":"Weapon Layout Swap v1.0.1.pak","nexusFileId":132188,"metaUuid":null}
 ]},
 "25231":{"nexusModName":"Path of the Dreadwraith - PTBR (2026)","nexusUploadedBy":"BarovZx","nexusModId":25231,"paks":[
 {"nexusFileName":"Path Of The Wraith PTBR","nexusFileVersion":"05.11.2025","nexusFileUploadedAt":1790132067,"pakFileName":"Path of the Wraith PTBR.pak","nexusFileId":131196,"metaUuid":null}
@@ -70465,7 +70465,7 @@
 {"nexusFileName":"ANGELIC PRAYING POTION","nexusFileVersion":"1","nexusFileUploadedAt":1790768459,"pakFileName":"ANGELIC PRAYING POTION.pak","nexusFileId":131754,"metaUuid":null}
 ]},
 "25250":{"nexusModName":"Bhaal's Forgotten Son - Dark Urge Lore Expansion - German (Deutsch)","nexusUploadedBy":"Myndo","nexusModId":25250,"paks":[
-{"nexusFileName":"Bhaal's Forgotten Son - German Translation","nexusFileVersion":"1.1.3","nexusFileUploadedAt":1790193207,"pakFileName":"Bhaal's Forgotten Son - German Translation.pak","nexusFileId":131254,"metaUuid":null}
+{"nexusFileName":"Bhaal's Forgotten Son - German Translation","nexusFileVersion":"1.1.7","nexusFileUploadedAt":1791236201,"pakFileName":"Bhaal's Forgotten Son - German Translation.pak","nexusFileId":132200,"metaUuid":null}
 ]},
 "25252":{"nexusModName":"Tactical Marching Order","nexusUploadedBy":"Sukibi","nexusModId":25252,"paks":[
 {"nexusFileName":"Tactical Marching Order V1.0.0","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1790196803,"pakFileName":"Tactical_Marching_Order.pak","nexusFileId":131264,"metaUuid":"b5ac59e5-35c7-49c4-8ef9-ce697e7893cf"}
@@ -70935,7 +70935,9 @@
 {"nexusFileName":"GabettHandCrossbowsV2 RUS","nexusFileVersion":"2.0.2","nexusFileUploadedAt":1791222440,"pakFileName":"GabettHandCrossbowsV2_RUS.pak","nexusFileId":132187,"metaUuid":null}
 ]},
 "25462":{"nexusModName":"Swan Lake","nexusUploadedBy":"LeilaXel","nexusModId":25462,"paks":[
-{"nexusFileName":"LeilaSwanBallet","nexusFileVersion":"1","nexusFileUploadedAt":1790884226,"pakFileName":"LeilaSwanBallet.pak","nexusFileId":131859,"metaUuid":"141c2c06-ea7f-4218-bbd9-b464d3831fed"}
+{"nexusFileName":"LeilaSwanBallet","nexusFileVersion":"1","nexusFileUploadedAt":1790884226,"pakFileName":"LeilaSwanBallet.pak","nexusFileId":131859,"metaUuid":"141c2c06-ea7f-4218-bbd9-b464d3831fed"},
+{"nexusFileName":"LeilaSwanBallet Add TMTS","nexusFileVersion":"1.0.0.2","nexusFileUploadedAt":1791229882,"pakFileName":"LeilaSwanBallet_add_TMTS.pak","nexusFileId":132190,"metaUuid":null},
+{"nexusFileName":"LeilaSwanBallet Add TMTS","nexusFileVersion":"1.0.0.2","nexusFileUploadedAt":1791229882,"pakFileName":"._LeilaSwanBallet_add_TMTS.pak","nexusFileId":132190,"metaUuid":null}
 ]},
 "25463":{"nexusModName":"Rebalance - Class Spells - Russian Translation 1.0.11","nexusUploadedBy":"SNKmod777","nexusModId":25463,"paks":[
 {"nexusFileName":"Rebalance ClassSpells RU","nexusFileVersion":"1.0","nexusFileUploadedAt":1790892555,"pakFileName":"Rebalance_ClassSpells_RU.pak","nexusFileId":131863,"metaUuid":null}
@@ -71232,4 +71234,17 @@
 ]},
 "25589":{"nexusModName":"The Slaughterer - Upgradable Handaxe","nexusUploadedBy":"tpmomda","nexusModId":25589,"paks":[
 {"nexusFileName":"AxeExpansion","nexusFileVersion":"1","nexusFileUploadedAt":1791220965,"pakFileName":"AxeExpansion.pak","nexusFileId":132186,"metaUuid":null}
+]},
+"25591":{"nexusModName":"Sovereign's Spare Key","nexusUploadedBy":"Codeschubse","nexusModId":25591,"paks":[
+{"nexusFileName":"SovereignsSpareKey","nexusFileVersion":"1","nexusFileUploadedAt":1791234882,"pakFileName":"SovereignsSpareKey_9b0b76a8-ba83-0b1c-9074-cb714ca3ff41.pak","nexusFileId":132197,"metaUuid":null}
+]},
+"25592":{"nexusModName":"My Axe","nexusUploadedBy":"MrD18","nexusModId":25592,"paks":[
+{"nexusFileName":"My Axe","nexusFileVersion":"1","nexusFileUploadedAt":1791234688,"pakFileName":"My_Axe_Tutorial_Chest_17beeda5_b7cf41d9-5395-4e88-ae42-dc76dd0bff3c.pak","nexusFileId":132196,"metaUuid":null},
+{"nexusFileName":"My Axe","nexusFileVersion":"1","nexusFileUploadedAt":1791234688,"pakFileName":"My_Axe_Vendor_95c3cfe0_f5fa5e77-6140-4d75-af7e-f35cb696e758.pak","nexusFileId":132196,"metaUuid":null}
+]},
+"25594":{"nexusModName":"Emperor vs. Orpheus no love rote(chs and cht)","nexusUploadedBy":"jiangdl1","nexusModId":25594,"paks":[
+{"nexusFileName":"Emperor vs. Orpheus Noloveemp chs cht","nexusFileVersion":"2","nexusFileUploadedAt":1791236737,"pakFileName":"noloveemp.pak","nexusFileId":132201,"metaUuid":null}
+]},
+"25595":{"nexusModName":"Ring of Moist Critikal","nexusUploadedBy":"MrD18","nexusModId":25595,"paks":[
+{"nexusFileName":"Ring Of Moist Critikal Mod","nexusFileVersion":"1","nexusFileUploadedAt":1791235745,"pakFileName":"Ring_of_Moist_Critikal_Mod_f4bcd36e_750b6e18-6542-44a5-8296-d9ca7dcc3fef.pak","nexusFileId":132198,"metaUuid":null}
 ]}}
