@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-10-05T14:52:10.796824+00:00","total_mods":18018},
+{"_meta":{"last_run":"2026-10-05T15:52:18.155897+00:00","total_mods":18020},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -3397,7 +3397,7 @@
 "1258":{"nexusModName":"Valkrana's Spellbook - 17 New Necromancy Spells","nexusUploadedBy":"actualsailorcat","nexusModId":1258,"paks":[
 {"nexusFileName":"Valkrana's Impart Undeath Feat","nexusFileVersion":"1.01.00","nexusFileUploadedAt":1772167964,"pakFileName":"Valkrana's Impart Undeath Feat.pak","nexusFileId":115684,"metaUuid":"3d311d0d-a184-420e-b4d4-849b23d4a2d5"},
 {"nexusFileName":"Valkrana's Spellbook Limited Lists","nexusFileVersion":"1.00.03","nexusFileUploadedAt":1782860700,"pakFileName":"Valkrana's Spellbook Limited Lists.pak","nexusFileId":124614,"metaUuid":"84ccf67f-ba0d-4413-bb30-a14051f5fd02"},
-{"nexusFileName":"Valkrana's Spellbook","nexusFileVersion":"3.01.06","nexusFileUploadedAt":1790442130,"pakFileName":"Valkrana's Spellbook.pak","nexusFileId":131461,"metaUuid":"9deeb371-f01e-41b4-b20e-c5eee0751b12"}
+{"nexusFileName":"Valkrana's Spellbook","nexusFileVersion":"3.01.07","nexusFileUploadedAt":1791214961,"pakFileName":"Valkrana's Spellbook.pak","nexusFileId":132173,"metaUuid":"9deeb371-f01e-41b4-b20e-c5eee0751b12"}
 ]},
 "1259":{"nexusModName":"Great Old One Dice","nexusUploadedBy":"WingedAsarath","nexusModId":1259,"paks":[
 {"nexusFileName":"Great Old One Dice","nexusFileVersion":"1.1","nexusFileUploadedAt":1692634131,"pakFileName":"GreatOldOneDice.pak","nexusFileId":9187,"metaUuid":null}
@@ -68630,7 +68630,7 @@
 {"nexusFileName":"Epilogue Clothing Storage System - G-d Gale Patch","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1787802764,"pakFileName":"MGNTN_PickEPIOutfits_GdGale.pak","nexusFileId":129135,"metaUuid":"621308d4-716a-4329-a528-0a8edbedb639"}
 ]},
 "24507":{"nexusModName":"Bhaal's Forgotten Son - Dark Urge Lore Expansion -","nexusUploadedBy":"RealYablo","nexusModId":24507,"paks":[
-{"nexusFileName":"Bhaal's Forgotten Son - 1.1.5 -","nexusFileVersion":"1.1.5","nexusFileUploadedAt":1791135481,"pakFileName":"hold_on_2ec64c1b-f0e2-d572-c5da-78e09a4ebc08.pak","nexusFileId":132099,"metaUuid":"2ec64c1b-f0e2-d572-c5da-78e09a4ebc08"}
+{"nexusFileName":"Bhaal's Forgotten Son -1.1.7-","nexusFileVersion":"1.1.7","nexusFileUploadedAt":1791212793,"pakFileName":"BhaalsForgottenSon.pak","nexusFileId":132171,"metaUuid":null}
 ]},
 "24508":{"nexusModName":"Moon's Half Orcs","nexusUploadedBy":"AdrasteaMoon","nexusModId":24508,"paks":[
 {"nexusFileName":"Main File","nexusFileVersion":"1","nexusFileUploadedAt":1787099791,"pakFileName":"Moon's Orcs.pak","nexusFileId":128431,"metaUuid":"0ad3841f-672c-46cf-b1cf-044a8af97b0e"}
@@ -70735,6 +70735,9 @@
 "25363":{"nexusModName":"Muffel's Dawnstar Spells Tweaks and Fixes (WIP) - Blood Alchemy update","nexusUploadedBy":"Mueffel","nexusModId":25363,"paks":[
 {"nexusFileName":"Muffel's Dawnstar Spells Tweaks And Fixes","nexusFileVersion":"1.0.2","nexusFileUploadedAt":1791065235,"pakFileName":"Muffel's Dawnstar Spells Tweaks & Fixes.pak","nexusFileId":132050,"metaUuid":"249009f4-f51a-4db8-870a-ac613b43c885"}
 ]},
+"25364":{"nexusModName":"DRACONITE - Armor and Camp Clothing","nexusUploadedBy":"Naerys","nexusModId":25364,"paks":[
+{"nexusFileName":"NAERYS Draconite","nexusFileVersion":"1","nexusFileUploadedAt":1791213044,"pakFileName":"NAERYS_Draconite_083f348f-3e86-87a9-7860-c2802b783a37.pak","nexusFileId":132172,"metaUuid":null}
+]},
 "25365":{"nexusModName":"Dark Urge Tweeaks French Translation","nexusUploadedBy":"Dragonoid2025","nexusModId":25365,"paks":[
 {"nexusFileName":"HT DarkUrgeTweeaks FR","nexusFileVersion":"2","nexusFileUploadedAt":1790630699,"pakFileName":"HT_DarkUrgeTweeaks_FR.pak","nexusFileId":131669,"metaUuid":null}
 ]},
@@ -71200,4 +71203,7 @@
 ]},
 "25579":{"nexusModName":"Link Armor from Twilight Princess by Guigodead","nexusUploadedBy":"guigodeads","nexusModId":25579,"paks":[
 {"nexusFileName":"LinkTP GD","nexusFileVersion":"1","nexusFileUploadedAt":1791207410,"pakFileName":"LinkTP_GD_ac6e61f9-26d0-da32-2ef9-0627b420de4d.pak","nexusFileId":132166,"metaUuid":null}
+]},
+"25580":{"nexusModName":"NPC Redesign - The Emerald Grove by AzazeL (Patch 7-8) (Russian Translate)","nexusUploadedBy":"SexSux","nexusModId":25580,"paks":[
+{"nexusFileName":"NPC Redesign v2 (All-in-One) (Russian Translate)","nexusFileVersion":"2.0","nexusFileUploadedAt":1791215438,"pakFileName":"Aza_NPCre_TheEmeraldGrove_74cb2214-5ddb-8fa6-9f6b-1f9be9bba6f3_RUS.pak","nexusFileId":132174,"metaUuid":null}
 ]}}
