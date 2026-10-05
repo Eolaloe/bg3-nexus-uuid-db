@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-10-05T02:54:14.058112+00:00","total_mods":18012},
+{"_meta":{"last_run":"2026-10-05T03:54:51.812040+00:00","total_mods":18014},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -70832,6 +70832,9 @@
 "25408":{"nexusModName":"Console Area Loot (for Mouse and Keyboard)","nexusUploadedBy":"FELMS","nexusModId":25408,"paks":[
 {"nexusFileName":"Console Area Loot 1.0","nexusFileVersion":"1","nexusFileUploadedAt":1791039623,"pakFileName":"AreaLoot.pak","nexusFileId":132019,"metaUuid":null}
 ]},
+"25409":{"nexusModName":"Pointed - Ballet and Dance Clothing","nexusUploadedBy":"BittenThrice","nexusModId":25409,"paks":[
+{"nexusFileName":"Pointed","nexusFileVersion":"1.0.17","nexusFileUploadedAt":1791169653,"pakFileName":"PointedClothing_6c432a52-e6ac-c8fc-0e21-e86fc1aaa27a.pak","nexusFileId":132140,"metaUuid":null}
+]},
 "25423":{"nexusModName":"Noxx's Tricks and Trinkets","nexusUploadedBy":"Prednoxx","nexusModId":25423,"paks":[
 {"nexusFileName":"TricksAndTreats","nexusFileVersion":"1.1.0.3","nexusFileUploadedAt":1790756385,"pakFileName":"NoxxsTricksAndTrinkets_79b75124-eb4a-5dd9-8e91-5ffadb5f88fb.pak","nexusFileId":131741,"metaUuid":"79b75124-eb4a-5dd9-8e91-5ffadb5f88fb"}
 ]},
@@ -71181,4 +71184,8 @@
 ]},
 "25567":{"nexusModName":"Pack of Neurodivergence","nexusUploadedBy":"MrD18","nexusModId":25567,"paks":[
 {"nexusFileName":"Pack Of Neurodivergence","nexusFileVersion":"2","nexusFileUploadedAt":1791159176,"pakFileName":"Pack_of_Neurodivergence_6d3e8f8d_2e85767e-756c-4e81-8b5b-62076bef2561 (1).pak","nexusFileId":132125,"metaUuid":null}
+]},
+"25570":{"nexusModName":"SOAV Patches and Fixes","nexusUploadedBy":"SexSux","nexusModId":25570,"paks":[
+{"nexusFileName":"SOAV Patches Fixes Without Freezing Bite","nexusFileVersion":"1.0","nexusFileUploadedAt":1791169063,"pakFileName":"SOAV_Patches_fixes-without-freezing-bite.pak","nexusFileId":132139,"metaUuid":null},
+{"nexusFileName":"SOAV Patches Fixes","nexusFileVersion":"1.0","nexusFileUploadedAt":1791172389,"pakFileName":"SOAV_Patches_fixes.pak","nexusFileId":132142,"metaUuid":null}
 ]}}
