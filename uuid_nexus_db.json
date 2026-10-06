@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-10-06T16:52:04.436726+00:00","total_mods":18043},
+{"_meta":{"last_run":"2026-10-06T17:51:57.937527+00:00","total_mods":18045},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -63365,7 +63365,8 @@
 {"nexusFileName":"OriginRangedWeapons KOR","nexusFileVersion":"1.1","nexusFileUploadedAt":1781746408,"pakFileName":"OriginThemed_KOR.pak","nexusFileId":123801,"metaUuid":null}
 ]},
 "22504":{"nexusModName":"Spirited Seasons - Playable Eladrin - Spanish","nexusUploadedBy":"elalejin","nexusModId":22504,"paks":[
-{"nexusFileName":"Eladrin   Spanish","nexusFileVersion":"1.0.0.12","nexusFileUploadedAt":1777994703,"pakFileName":"Eladrin - Spanish.pak","nexusFileId":120598,"metaUuid":null}
+{"nexusFileName":"Eladrin   Spanish","nexusFileVersion":"1.0.0.12","nexusFileUploadedAt":1777994703,"pakFileName":"Eladrin - Spanish.pak","nexusFileId":120598,"metaUuid":null},
+{"nexusFileName":"Eladrin   Spanish","nexusFileVersion":"1.2.0.0","nexusFileUploadedAt":1791306874,"pakFileName":"Eladrin - Spanish.pak","nexusFileId":132253,"metaUuid":null}
 ]},
 "22505":{"nexusModName":"5R Starry Wisp Kor","nexusUploadedBy":"yoonmoonsik43","nexusModId":22505,"paks":[
 {"nexusFileName":"5RStarryWispKor","nexusFileVersion":"1","nexusFileUploadedAt":1776748107,"pakFileName":"5RStarryWispKor_6a2d510a-c685-2df0-ec3d-0ba21428acfe.pak","nexusFileId":119559,"metaUuid":null}
@@ -71277,4 +71278,11 @@
 ]},
 "25617":{"nexusModName":"Sanguine","nexusUploadedBy":"haytur","nexusModId":25617,"paks":[
 {"nexusFileName":"BloodKatana","nexusFileVersion":"1.0R","nexusFileUploadedAt":1791303381,"pakFileName":"BloodKatana.pak","nexusFileId":132251,"metaUuid":null}
+]},
+"25619":{"nexusModName":"Berry's Vitrinelle - A Couture Jewelry Collection","nexusUploadedBy":"BerrySemifreddo","nexusModId":25619,"paks":[
+{"nexusFileName":"Berry's Vitrinelle - No Glow","nexusFileVersion":"1.0.0.10","nexusFileUploadedAt":1791307646,"pakFileName":"BerrysVitrinelle_NoGlow_WeightFix.pak","nexusFileId":132254,"metaUuid":null},
+{"nexusFileName":"Berry's Vitrinelle - With Glow","nexusFileVersion":"1.0.0.10","nexusFileUploadedAt":1791307692,"pakFileName":"BerrysVitrinelle_WithGlow_WeightFix.pak","nexusFileId":132255,"metaUuid":null}
+]},
+"25620":{"nexusModName":"Advanced Tabletop Spells - Spanish","nexusUploadedBy":"elalejin","nexusModId":25620,"paks":[
+{"nexusFileName":"AdvancedTTSpells Spanish","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1791308281,"pakFileName":"AdvancedTTSpells_Spanish.pak","nexusFileId":132256,"metaUuid":null}
 ]}}
