@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-10-06T22:52:00.930163+00:00","total_mods":18049},
+{"_meta":{"last_run":"2026-10-06T23:51:32.598801+00:00","total_mods":18050},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -585,7 +585,6 @@
 "433":{"nexusModName":"Gods Extra - allows all races and classes to choose a God","nexusUploadedBy":"lostsoulman","nexusModId":433,"paks":[
 {"nexusFileName":"racechooseanygod","nexusFileVersion":"1.0","nexusFileUploadedAt":1703200022,"pakFileName":"racechooseanygod.pak","nexusFileId":35626,"metaUuid":null},
 {"nexusFileName":"godsextra_ORDERGODS","nexusFileVersion":"1.0","nexusFileUploadedAt":1720948540,"pakFileName":"godsextra_ORDERGODS.pak","nexusFileId":63981,"metaUuid":"64eb3b8f-bf1c-4372-b8a6-4cc099a756a9"},
-{"nexusFileName":"godsextra","nexusFileVersion":"1.18","nexusFileUploadedAt":1775696896,"pakFileName":"godsextra.pak","nexusFileId":118496,"metaUuid":"350c3ba5-9d59-4acd-b6b6-5d718be75029"},
 {"nexusFileName":"godsextra","nexusFileVersion":"1.18","nexusFileUploadedAt":1775696938,"pakFileName":"godsextra.pak","nexusFileId":118497,"metaUuid":"350c3ba5-9d59-4acd-b6b6-5d718be75029"}
 ]},
 "434":{"nexusModName":"Unearthed Manual","nexusUploadedBy":"DungeonsAndSouls","nexusModId":434,"paks":[
@@ -71296,4 +71295,7 @@
 ]},
 "25626":{"nexusModName":"Abyssal Genasi - Spanish","nexusUploadedBy":"elalejin","nexusModId":25626,"paks":[
 {"nexusFileName":"AbyssalGenasi ES","nexusFileVersion":"1.0","nexusFileUploadedAt":1791326435,"pakFileName":"AbyssalGenasi_ES.pak","nexusFileId":132269,"metaUuid":null}
+]},
+"25627":{"nexusModName":"Valkrana's Spellbook - 17 New Necromancy Spells - Spanish","nexusUploadedBy":"elalejin","nexusModId":25627,"paks":[
+{"nexusFileName":"Valkrana'S Spellbook ES","nexusFileVersion":"1.0","nexusFileUploadedAt":1791327674,"pakFileName":"Valkrana's Spellbook ES.pak","nexusFileId":132270,"metaUuid":null}
 ]}}
