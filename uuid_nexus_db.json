@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-10-06T17:51:57.937527+00:00","total_mods":18045},
+{"_meta":{"last_run":"2026-10-06T18:52:12.629246+00:00","total_mods":18045},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -70675,7 +70675,7 @@
 {"nexusFileName":"Juice Box","nexusFileVersion":"2","nexusFileUploadedAt":1790552170,"pakFileName":"Miscellaneous_d24a3877-006c-3e3d-92ee-a976badb1944.pak","nexusFileId":131614,"metaUuid":null}
 ]},
 "25347":{"nexusModName":"Vampire Queen - Head Preset","nexusUploadedBy":"manuliparoni","nexusModId":25347,"paks":[
-{"nexusFileName":"Manulis Vampire Queen Head","nexusFileVersion":"1","nexusFileUploadedAt":1790531622,"pakFileName":"Manulis_Vampire_Queen_Head.pak","nexusFileId":131593,"metaUuid":"ee256bfd-9ea8-497d-b30c-0c6d50b29f04"}
+{"nexusFileName":"Manulis Vampire Queen Head","nexusFileVersion":"1.1","nexusFileUploadedAt":1791309466,"pakFileName":"Manulis_Vampire_Queen_Head.pak","nexusFileId":132257,"metaUuid":"ee256bfd-9ea8-497d-b30c-0c6d50b29f04"}
 ]},
 "25348":{"nexusModName":"Way of the Wallflower - Monk Subclass","nexusUploadedBy":"mashnear","nexusModId":25348,"paks":[
 {"nexusFileName":"Wallflower W30","nexusFileVersion":"1","nexusFileUploadedAt":1790543606,"pakFileName":"Wallflower_W30.pak","nexusFileId":131600,"metaUuid":null}
@@ -71176,8 +71176,7 @@
 {"nexusFileName":"Pack Of Neurodivergence","nexusFileVersion":"2","nexusFileUploadedAt":1791159176,"pakFileName":"Pack_of_Neurodivergence_6d3e8f8d_2e85767e-756c-4e81-8b5b-62076bef2561 (1).pak","nexusFileId":132125,"metaUuid":null}
 ]},
 "25570":{"nexusModName":"SOAV Patches and Fixes","nexusUploadedBy":"SexSux","nexusModId":25570,"paks":[
-{"nexusFileName":"SOAV Patches Fixes Without Freezing Bite","nexusFileVersion":"1.0","nexusFileUploadedAt":1791169063,"pakFileName":"SOAV_Patches_fixes-without-freezing-bite.pak","nexusFileId":132139,"metaUuid":null},
-{"nexusFileName":"SOAV Patches Fixes","nexusFileVersion":"1.0","nexusFileUploadedAt":1791172389,"pakFileName":"SOAV_Patches_fixes.pak","nexusFileId":132142,"metaUuid":"47c87728-9665-4950-95bb-9f4918521072"}
+{"nexusFileName":"SOAV Patches Fixes","nexusFileVersion":"1.6.1.0","nexusFileUploadedAt":1791310271,"pakFileName":"SOAV_Patches_fixes.pak","nexusFileId":132260,"metaUuid":"47c87728-9665-4950-95bb-9f4918521072"}
 ]},
 "25575":{"nexusModName":"Arabella - Grownup Origin","nexusUploadedBy":"Elmvick","nexusModId":25575,"paks":[
 {"nexusFileName":"Arabella   Grownup Origin","nexusFileVersion":"1","nexusFileUploadedAt":1791188030,"pakFileName":"Arabella - Grownup Origin.pak","nexusFileId":132152,"metaUuid":null}
@@ -71241,7 +71240,7 @@
 {"nexusFileName":"Archetypes Of The Empty Hand V1.0","nexusFileVersion":"1","nexusFileUploadedAt":1791250151,"pakFileName":"Archetypes_of_the_Empty_Hand_8f64587d-6642-e491-7050-b56e8775bc59.pak","nexusFileId":132210,"metaUuid":"8f64587d-6642-e491-7050-b56e8775bc59"}
 ]},
 "25602":{"nexusModName":"Playable Kobolds","nexusUploadedBy":"ElectronicSamurai","nexusModId":25602,"paks":[
-{"nexusFileName":"PlayableKobolds","nexusFileVersion":"1.1.04","nexusFileUploadedAt":1791256360,"pakFileName":"PlayableKobolds.pak","nexusFileId":132219,"metaUuid":null}
+{"nexusFileName":"PlayableKobolds","nexusFileVersion":"1.2.0.0","nexusFileUploadedAt":1791309734,"pakFileName":"PlayableKobolds.pak","nexusFileId":132258,"metaUuid":null}
 ]},
 "25603":{"nexusModName":"Among Us Crewmate","nexusUploadedBy":"MonkeyStudChan","nexusModId":25603,"paks":[
 {"nexusFileName":"Among Us Crewmate","nexusFileVersion":"1.0.0.4","nexusFileUploadedAt":1791255601,"pakFileName":"AmongUsSummon_eb7cb2d7-86b2-2dac-b3b8-1706f961da91.pak","nexusFileId":132218,"metaUuid":null}
@@ -71279,4 +71278,10 @@
 ]},
 "25620":{"nexusModName":"Advanced Tabletop Spells - Spanish","nexusUploadedBy":"elalejin","nexusModId":25620,"paks":[
 {"nexusFileName":"AdvancedTTSpells Spanish","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1791308281,"pakFileName":"AdvancedTTSpells_Spanish.pak","nexusFileId":132256,"metaUuid":null}
+]},
+"25621":{"nexusModName":"Better Photo Mode_CHS","nexusUploadedBy":"Phoshorus0016","nexusModId":25621,"paks":[
+{"nexusFileName":"Better Photo Mode CHS","nexusFileVersion":"1","nexusFileUploadedAt":1791310969,"pakFileName":"Better Photo Mode_CHS.pak","nexusFileId":132261,"metaUuid":null}
+]},
+"25622":{"nexusModName":"Zethino the real Love Dryad","nexusUploadedBy":"Elmvick","nexusModId":25622,"paks":[
+{"nexusFileName":"Zethino","nexusFileVersion":"1","nexusFileUploadedAt":1791310179,"pakFileName":"Zethino.pak","nexusFileId":132259,"metaUuid":null}
 ]}}
