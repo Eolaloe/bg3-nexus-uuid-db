@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-10-07T16:52:37.375861+00:00","total_mods":18058},
+{"_meta":{"last_run":"2026-10-07T17:56:42.431777+00:00","total_mods":18058},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -583,7 +583,6 @@
 {"nexusFileName":"Cleric Subclasses","nexusFileVersion":"2.0.38","nexusFileUploadedAt":1703095492,"pakFileName":"Clerics.pak","nexusFileId":35380,"metaUuid":"eef7b885-1423-4096-abd6-7a5db5f871db"}
 ]},
 "433":{"nexusModName":"Gods Extra - allows all races and classes to choose a God","nexusUploadedBy":"lostsoulman","nexusModId":433,"paks":[
-{"nexusFileName":"racechooseanygod","nexusFileVersion":"1.0","nexusFileUploadedAt":1703200022,"pakFileName":"racechooseanygod.pak","nexusFileId":35626,"metaUuid":null},
 {"nexusFileName":"godsextra_ORDERGODS","nexusFileVersion":"1.0","nexusFileUploadedAt":1720948540,"pakFileName":"godsextra_ORDERGODS.pak","nexusFileId":63981,"metaUuid":"64eb3b8f-bf1c-4372-b8a6-4cc099a756a9"},
 {"nexusFileName":"godsextra","nexusFileVersion":"1.18","nexusFileUploadedAt":1775696938,"pakFileName":"godsextra.pak","nexusFileId":118497,"metaUuid":"350c3ba5-9d59-4acd-b6b6-5d718be75029"}
 ]},
@@ -35971,9 +35970,6 @@
 {"nexusFileName":"Addon - Light Version","nexusFileVersion":"2.0.1.0","nexusFileUploadedAt":1773494241,"pakFileName":"Doom Armor - Addon Light Version.pak","nexusFileId":116721,"metaUuid":"66f619a3-9bbd-4477-8bc0-6d284bd0ffc7"},
 {"nexusFileName":"Addon - Clawstep Dragonborn Body","nexusFileVersion":"2.0.3.0","nexusFileUploadedAt":1773585340,"pakFileName":"Doom Armor - Addon CLWSTP.pak","nexusFileId":116792,"metaUuid":"ef804c0d-7a6e-47b7-a3de-af057eb37848"},
 {"nexusFileName":"Addon - Cloth Version","nexusFileVersion":"2.0.3.0","nexusFileUploadedAt":1773585472,"pakFileName":"Doom Armor - Addon Cloth Version.pak","nexusFileId":116793,"metaUuid":"30499a84-ec6e-4cd0-90c3-bf4a266eb8c1"},
-{"nexusFileName":"Addon - Clawstep Dragonborn Body (with Breast)","nexusFileVersion":"2.0.3.0","nexusFileUploadedAt":1773622196,"pakFileName":"Doom Armor - Addon CLWSTPWB.pak","nexusFileId":116826,"metaUuid":"1ce5fb59-cb1d-4a69-b6fa-8aec616ea20c"},
-{"nexusFileName":"Addon - Beautiful Curvy Body","nexusFileVersion":"2.0.4.0","nexusFileUploadedAt":1773845167,"pakFileName":"Doom Armor - Addon BCB.pak","nexusFileId":116997,"metaUuid":"7a55fa5a-b1d7-4225-a5df-2e9da485ba5d"},
-{"nexusFileName":"Addon - Bigger Shield","nexusFileVersion":"2.1.1.0","nexusFileUploadedAt":1774462827,"pakFileName":"Doom Armor - Addon Bigger Shield.pak","nexusFileId":117460,"metaUuid":"bd9ca912-a8ed-4131-bca1-dabf7502d494"},
 {"nexusFileName":"Addon - Dulcet Bodies A","nexusFileVersion":"2.1.2.0","nexusFileUploadedAt":1779798707,"pakFileName":"Doom Armor - Addon Dulcet A.pak","nexusFileId":122189,"metaUuid":null},
 {"nexusFileName":"Addon - Dulcet Bodies B","nexusFileVersion":"2.1.2.0","nexusFileUploadedAt":1779798767,"pakFileName":"Doom Armor - Addon Dulcet B.pak","nexusFileId":122191,"metaUuid":null},
 {"nexusFileName":"Addon - Camp Cloth","nexusFileVersion":"2.1.3.1","nexusFileUploadedAt":1782231229,"pakFileName":"Doom Armor - Addon Camp Cloth.pak","nexusFileId":124172,"metaUuid":"78cbad3c-f07b-4bc3-9a17-6ddc4b73faed"},
@@ -42185,7 +42181,6 @@
 "15038":{"nexusModName":"February Heads","nexusUploadedBy":"HeartsWires","nexusModId":15038,"paks":[
 {"nexusFileName":"February Heads","nexusFileVersion":"1.1","nexusFileUploadedAt":1740601938,"pakFileName":"HW_HeadsFeb_c2a8e1cc-c171-4a16-98ba-c11ff18e8d4e.pak","nexusFileId":86405,"metaUuid":"c2a8e1cc-c171-4a16-98ba-c11ff18e8d4e"},
 {"nexusFileName":"Feb Heads - Flutter and Whimsy - Patch","nexusFileVersion":"1.1","nexusFileUploadedAt":1740602102,"pakFileName":"Feb Heads Flutter Whimsy Patch.pak","nexusFileId":86406,"metaUuid":"245efed8-5b71-4c8b-afac-1f78f2835805"},
-{"nexusFileName":"Laima Horns","nexusFileVersion":"1.0","nexusFileUploadedAt":1740602193,"pakFileName":"HW_Horns.pak","nexusFileId":86407,"metaUuid":"c1154dcf-370b-4906-8228-1a7b5130c0f5"},
 {"nexusFileName":"February Heads (Unique Tav)","nexusFileVersion":"1.1","nexusFileUploadedAt":1740602274,"pakFileName":"HW_HeadsFeb_c2a8e1cc-c171-4a16-98ba-c11ff18e8d4e.pak","nexusFileId":86408,"metaUuid":"c2a8e1cc-c171-4a16-98ba-c11ff18e8d4e"},
 {"nexusFileName":"February Heads (EOTB)","nexusFileVersion":"1.1","nexusFileUploadedAt":1740602341,"pakFileName":"HW_HeadsFeb_c2a8e1cc-c171-4a16-98ba-c11ff18e8d4e.pak","nexusFileId":86409,"metaUuid":"c2a8e1cc-c171-4a16-98ba-c11ff18e8d4e"},
 {"nexusFileName":"February Heads (EOTB and Unique Tav)","nexusFileVersion":"1.1","nexusFileUploadedAt":1740602418,"pakFileName":"HW_HeadsFeb_c2a8e1cc-c171-4a16-98ba-c11ff18e8d4e.pak","nexusFileId":86410,"metaUuid":"c2a8e1cc-c171-4a16-98ba-c11ff18e8d4e"}
@@ -49377,11 +49372,8 @@
 {"nexusFileName":"Path_of_UndeathRU","nexusFileVersion":"1.2.0","nexusFileUploadedAt":1759674514,"pakFileName":"Path_of_UndeathRU.pak","nexusFileId":104403,"metaUuid":null}
 ]},
 "17765":{"nexusModName":"Huffman's Magus - A Class of Spell and Steel","nexusUploadedBy":"TheWailingBard","nexusModId":17765,"paks":[
-{"nexusFileName":"The Magus - Deity Selection","nexusFileVersion":"1.0.0.1","nexusFileUploadedAt":1753402150,"pakFileName":"SterlingVerminMagusDeityChoice_2de285e5-3486-0e69-4750-43e9c30ddf66.pak","nexusFileId":98936,"metaUuid":null},
 {"nexusFileName":"The Magus - Weapon Cantrips for Other Classes","nexusFileVersion":"1.0.0.1","nexusFileUploadedAt":1753409108,"pakFileName":"SterlingVerminMagusShareWeaponCantrips_64bcbddc-1986-73f8-0d68-f478bab36a20.pak","nexusFileId":98941,"metaUuid":null},
 {"nexusFileName":"The Magus - 5e Spells Add-On","nexusFileVersion":"1.0.0.2","nexusFileUploadedAt":1754233623,"pakFileName":"SterlingVerminMagus5eSpells_34896877-79ac-8411-f4b5-fa44f045f13a.pak","nexusFileId":99809,"metaUuid":"34896877-79ac-8411-f4b5-fa44f045f13a"},
-{"nexusFileName":"The Magus - Mystra's Spells Add-On","nexusFileVersion":"1.0.0.3","nexusFileUploadedAt":1754234698,"pakFileName":"SterlingVerminMagusMystrasSpells_75075685-0fc2-2742-8ba1-96b4623235da.pak","nexusFileId":99811,"metaUuid":"75075685-0fc2-2742-8ba1-96b4623235da"},
-{"nexusFileName":"The Magus","nexusFileVersion":"1.0.0.15","nexusFileUploadedAt":1779593614,"pakFileName":"SterlingVerminMagus_4e1c7f00-234b-8779-36f5-394c1dde4591.pak","nexusFileId":122022,"metaUuid":"4e1c7f00-234b-8779-36f5-394c1dde4591"},
 {"nexusFileName":"The Magus - Extra Attack Cantrips","nexusFileVersion":"1.0.0.1","nexusFileUploadedAt":1779676697,"pakFileName":"SterlingVerminMagusExtraAttackCantrips_51812939-f0fa-2968-9b33-1d4af68b9576.pak","nexusFileId":122089,"metaUuid":null},
 {"nexusFileName":"The Magus - No Bladesinger Animations","nexusFileVersion":"1.0.0.1","nexusFileUploadedAt":1790171368,"pakFileName":"SterlingVerminMagusNoBladesingerAnims_0d5fee6d-0539-c9ca-9e81-97ea7158017f.pak","nexusFileId":131226,"metaUuid":null},
 {"nexusFileName":"The Magus - Intelligent Magi","nexusFileVersion":"1.0.0.2","nexusFileUploadedAt":1790762291,"pakFileName":"SterlingVerminMagusIntelligentMagi_b9c465e6-22dd-d138-e7af-827c8228008b.pak","nexusFileId":131743,"metaUuid":null}
@@ -63361,7 +63353,6 @@
 {"nexusFileName":"OriginRangedWeapons KOR","nexusFileVersion":"1.1","nexusFileUploadedAt":1781746408,"pakFileName":"OriginThemed_KOR.pak","nexusFileId":123801,"metaUuid":null}
 ]},
 "22504":{"nexusModName":"Spirited Seasons - Playable Eladrin - Spanish","nexusUploadedBy":"elalejin","nexusModId":22504,"paks":[
-{"nexusFileName":"Eladrin   Spanish","nexusFileVersion":"1.0.0.12","nexusFileUploadedAt":1777994703,"pakFileName":"Eladrin - Spanish.pak","nexusFileId":120598,"metaUuid":null},
 {"nexusFileName":"Eladrin   Spanish","nexusFileVersion":"1.2.0.0","nexusFileUploadedAt":1791306874,"pakFileName":"Eladrin - Spanish.pak","nexusFileId":132253,"metaUuid":null}
 ]},
 "22505":{"nexusModName":"5R Starry Wisp Kor","nexusUploadedBy":"yoonmoonsik43","nexusModId":22505,"paks":[
@@ -65532,7 +65523,7 @@
 {"nexusFileName":"Feat Every 2 Levels","nexusFileVersion":"1","nexusFileUploadedAt":1781346587,"pakFileName":"DTGSfeat2level_6fd8fdf3-b0d9-71ae-4519-094aed82ae5c.pak","nexusFileId":123468,"metaUuid":"6fd8fdf3-b0d9-71ae-4519-094aed82ae5c"},
 {"nexusFileName":"Feat Every Level","nexusFileVersion":"1","nexusFileUploadedAt":1786695470,"pakFileName":"DTGSfeat1lvl_743b19b1-6cd9-7544-89c2-9bc906fa624c.pak","nexusFileId":128055,"metaUuid":null},
 {"nexusFileName":"Spawn All Weapons into Tutorial Chest","nexusFileVersion":"22","nexusFileUploadedAt":1786984883,"pakFileName":"DTGStutorialchestadd_5483ad95-adbb-3ef0-50ee-1a293bfbe213.pak","nexusFileId":128293,"metaUuid":"5483ad95-adbb-3ef0-50ee-1a293bfbe213"},
-{"nexusFileName":"Draco's Fantasy Gunslinger","nexusFileVersion":"26","nexusFileUploadedAt":1790495303,"pakFileName":"GUNSLINGERR_1d17e144-004d-7375-194e-f8d7854fe7d8.pak","nexusFileId":131498,"metaUuid":"1d17e144-004d-7375-194e-f8d7854fe7d8"}
+{"nexusFileName":"Draco's Fantasy Gunslinger","nexusFileVersion":"26","nexusFileUploadedAt":1791392093,"pakFileName":"GUNSLINGERR_1d17e144-004d-7375-194e-f8d7854fe7d8.pak","nexusFileId":132312,"metaUuid":"1d17e144-004d-7375-194e-f8d7854fe7d8"}
 ]},
 "23358":{"nexusModName":"Heo Nam-Jun Head Preset","nexusUploadedBy":"VespertilioArt","nexusModId":23358,"paks":[
 {"nexusFileName":"HeoNamJun","nexusFileVersion":"1.0.0.1","nexusFileUploadedAt":1781630510,"pakFileName":"HeoNamJun.pak","nexusFileId":123717,"metaUuid":"fd039493-8755-4249-bcb7-ed2ba461db08"},
