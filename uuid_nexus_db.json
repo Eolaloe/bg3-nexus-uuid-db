@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-10-07T01:51:44.484056+00:00","total_mods":18050},
+{"_meta":{"last_run":"2026-10-07T02:51:54.350691+00:00","total_mods":18051},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -42183,10 +42183,10 @@
 {"nexusFileName":"RangerSubclasses5eCombined.zip","nexusFileVersion":"2.0.1.1","nexusFileUploadedAt":1770253404,"pakFileName":"RangerSubclasses5eCombined_49b32147-5aed-c262-1fa6-ec51939978c0.pak","nexusFileId":114147,"metaUuid":"49b32147-5aed-c262-1fa6-ec51939978c0"}
 ]},
 "15038":{"nexusModName":"February Heads","nexusUploadedBy":"HeartsWires","nexusModId":15038,"paks":[
-{"nexusFileName":"February Heads","nexusFileVersion":"1.1","nexusFileUploadedAt":1740601938,"pakFileName":"HW_HeadsFeb_c2a8e1cc-c171-4a16-98ba-c11ff18e8d4e.pak","nexusFileId":86405,"metaUuid":null},
+{"nexusFileName":"February Heads","nexusFileVersion":"1.1","nexusFileUploadedAt":1740601938,"pakFileName":"HW_HeadsFeb_c2a8e1cc-c171-4a16-98ba-c11ff18e8d4e.pak","nexusFileId":86405,"metaUuid":"c2a8e1cc-c171-4a16-98ba-c11ff18e8d4e"},
 {"nexusFileName":"Feb Heads - Flutter and Whimsy - Patch","nexusFileVersion":"1.1","nexusFileUploadedAt":1740602102,"pakFileName":"Feb Heads Flutter Whimsy Patch.pak","nexusFileId":86406,"metaUuid":"245efed8-5b71-4c8b-afac-1f78f2835805"},
 {"nexusFileName":"Laima Horns","nexusFileVersion":"1.0","nexusFileUploadedAt":1740602193,"pakFileName":"HW_Horns.pak","nexusFileId":86407,"metaUuid":"c1154dcf-370b-4906-8228-1a7b5130c0f5"},
-{"nexusFileName":"February Heads (Unique Tav)","nexusFileVersion":"1.1","nexusFileUploadedAt":1740602274,"pakFileName":"HW_HeadsFeb_c2a8e1cc-c171-4a16-98ba-c11ff18e8d4e.pak","nexusFileId":86408,"metaUuid":null},
+{"nexusFileName":"February Heads (Unique Tav)","nexusFileVersion":"1.1","nexusFileUploadedAt":1740602274,"pakFileName":"HW_HeadsFeb_c2a8e1cc-c171-4a16-98ba-c11ff18e8d4e.pak","nexusFileId":86408,"metaUuid":"c2a8e1cc-c171-4a16-98ba-c11ff18e8d4e"},
 {"nexusFileName":"February Heads (EOTB)","nexusFileVersion":"1.1","nexusFileUploadedAt":1740602341,"pakFileName":"HW_HeadsFeb_c2a8e1cc-c171-4a16-98ba-c11ff18e8d4e.pak","nexusFileId":86409,"metaUuid":"c2a8e1cc-c171-4a16-98ba-c11ff18e8d4e"},
 {"nexusFileName":"February Heads (EOTB and Unique Tav)","nexusFileVersion":"1.1","nexusFileUploadedAt":1740602418,"pakFileName":"HW_HeadsFeb_c2a8e1cc-c171-4a16-98ba-c11ff18e8d4e.pak","nexusFileId":86410,"metaUuid":"c2a8e1cc-c171-4a16-98ba-c11ff18e8d4e"}
 ]},
@@ -54674,7 +54674,7 @@
 {"nexusFileName":"Marching Band","nexusFileVersion":"1.0.0.1","nexusFileUploadedAt":1763259973,"pakFileName":"MarchingBand_3bc1e5ad-b7e6-227e-5fff-6e37448bf0f6.pak","nexusFileId":107548,"metaUuid":"3bc1e5ad-b7e6-227e-5fff-6e37448bf0f6"}
 ]},
 "19682":{"nexusModName":"Past Life Regressions","nexusUploadedBy":"bscriver","nexusModId":19682,"paks":[
-{"nexusFileName":"PastLifeRegressions","nexusFileVersion":"0.1.0.70","nexusFileUploadedAt":1791189202,"pakFileName":"PastLifeRegressions.pak","nexusFileId":132153,"metaUuid":null}
+{"nexusFileName":"PastLifeRegressions","nexusFileVersion":"0.1.0.101","nexusFileUploadedAt":1791340374,"pakFileName":"PastLifeRegressions.pak","nexusFileId":132276,"metaUuid":null}
 ]},
 "19685":{"nexusModName":"Wine and Revelry (Satyr Race) CHSXD","nexusUploadedBy":"XDynis","nexusModId":19685,"paks":[
 {"nexusFileName":"Wine and Revelry (Satyr Race) CHSXD","nexusFileVersion":"3.1.2","nexusFileUploadedAt":1763299964,"pakFileName":"SatyrRaceCHSXD.pak","nexusFileId":107565,"metaUuid":null}
@@ -71152,6 +71152,9 @@
 ]},
 "25546":{"nexusModName":"Extended Boat Crew to 32","nexusUploadedBy":"steinsgatesx","nexusModId":25546,"paks":[
 {"nexusFileName":"Extended Boat Crew To 32","nexusFileVersion":"1","nexusFileUploadedAt":1791107272,"pakFileName":"Extended Boat Crew to 32.pak","nexusFileId":132070,"metaUuid":"d0a44f6f-a789-4d42-be1e-5fef92eb2444"}
+]},
+"25547":{"nexusModName":"Vampiric Heir - A Fighter Subclass","nexusUploadedBy":"CarmillaNightstar","nexusModId":25547,"paks":[
+{"nexusFileName":"VampiricHeir  V1.0.0","nexusFileVersion":"1","nexusFileUploadedAt":1791110154,"pakFileName":"VampiricHeir.pak","nexusFileId":132072,"metaUuid":null}
 ]},
 "25552":{"nexusModName":"Tieflings-Survive-Act2","nexusUploadedBy":"LeeDawn","nexusModId":25552,"paks":[
 {"nexusFileName":"TieflingsSurviveAct2 V1.0","nexusFileVersion":"1","nexusFileUploadedAt":1791126525,"pakFileName":"TieflingsSurviveAct2_v1.0.pak","nexusFileId":132088,"metaUuid":"a7f3c1d2-5e64-4b90-8c31-0d9e6f2a4b77"}
