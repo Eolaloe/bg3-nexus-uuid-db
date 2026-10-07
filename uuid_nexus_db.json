@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-10-07T17:56:42.431777+00:00","total_mods":18058},
+{"_meta":{"last_run":"2026-10-07T18:52:26.230682+00:00","total_mods":18058},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -583,6 +583,7 @@
 {"nexusFileName":"Cleric Subclasses","nexusFileVersion":"2.0.38","nexusFileUploadedAt":1703095492,"pakFileName":"Clerics.pak","nexusFileId":35380,"metaUuid":"eef7b885-1423-4096-abd6-7a5db5f871db"}
 ]},
 "433":{"nexusModName":"Gods Extra - allows all races and classes to choose a God","nexusUploadedBy":"lostsoulman","nexusModId":433,"paks":[
+{"nexusFileName":"racechooseanygod","nexusFileVersion":"1.0","nexusFileUploadedAt":1703200022,"pakFileName":"racechooseanygod.pak","nexusFileId":35626,"metaUuid":null},
 {"nexusFileName":"godsextra_ORDERGODS","nexusFileVersion":"1.0","nexusFileUploadedAt":1720948540,"pakFileName":"godsextra_ORDERGODS.pak","nexusFileId":63981,"metaUuid":"64eb3b8f-bf1c-4372-b8a6-4cc099a756a9"},
 {"nexusFileName":"godsextra","nexusFileVersion":"1.18","nexusFileUploadedAt":1775696938,"pakFileName":"godsextra.pak","nexusFileId":118497,"metaUuid":"350c3ba5-9d59-4acd-b6b6-5d718be75029"}
 ]},
@@ -11146,7 +11147,7 @@
 {"nexusFileName":"ReusableIronFlask 3.0.1 NoLimit Patch 5UPDATE FILE","nexusFileVersion":"3.0.1","nexusFileUploadedAt":1702178996,"pakFileName":"ReusableIronFlaskNoLimit.pak","nexusFileId":33667,"metaUuid":null}
 ]},
 "3423":{"nexusModName":"Scratch and Shovel","nexusUploadedBy":"Syrchalis","nexusModId":3423,"paks":[
-{"nexusFileName":"Scratch and Shovel","nexusFileVersion":"1.3.6.6","nexusFileUploadedAt":1750610276,"pakFileName":"Scratch_And_Shovel_78753062-b430-4cbf-9e5a-4c3a87cf224a.pak","nexusFileId":96441,"metaUuid":"78753062-b430-4cbf-9e5a-4c3a87cf224a"}
+{"nexusFileName":"Scratch And Shovel","nexusFileVersion":"1.3.7","nexusFileUploadedAt":1791395987,"pakFileName":"Scratch_And_Shovel_78753062-b430-4cbf-9e5a-4c3a87cf224a.pak","nexusFileId":132313,"metaUuid":"78753062-b430-4cbf-9e5a-4c3a87cf224a"}
 ]},
 "3425":{"nexusModName":"Assassin's Toolkit for Solo Tactician Plus ITA","nexusUploadedBy":"8SadSushi8","nexusModId":3425,"paks":[
 {"nexusFileName":"Assassin's Toolkit for Solo Tactician Plus ITA","nexusFileVersion":"1.1.0.0","nexusFileUploadedAt":1697698577,"pakFileName":"LaniaAssassinSetIta.pak","nexusFileId":23992,"metaUuid":null}
@@ -35970,6 +35971,9 @@
 {"nexusFileName":"Addon - Light Version","nexusFileVersion":"2.0.1.0","nexusFileUploadedAt":1773494241,"pakFileName":"Doom Armor - Addon Light Version.pak","nexusFileId":116721,"metaUuid":"66f619a3-9bbd-4477-8bc0-6d284bd0ffc7"},
 {"nexusFileName":"Addon - Clawstep Dragonborn Body","nexusFileVersion":"2.0.3.0","nexusFileUploadedAt":1773585340,"pakFileName":"Doom Armor - Addon CLWSTP.pak","nexusFileId":116792,"metaUuid":"ef804c0d-7a6e-47b7-a3de-af057eb37848"},
 {"nexusFileName":"Addon - Cloth Version","nexusFileVersion":"2.0.3.0","nexusFileUploadedAt":1773585472,"pakFileName":"Doom Armor - Addon Cloth Version.pak","nexusFileId":116793,"metaUuid":"30499a84-ec6e-4cd0-90c3-bf4a266eb8c1"},
+{"nexusFileName":"Addon - Clawstep Dragonborn Body (with Breast)","nexusFileVersion":"2.0.3.0","nexusFileUploadedAt":1773622196,"pakFileName":"Doom Armor - Addon CLWSTPWB.pak","nexusFileId":116826,"metaUuid":null},
+{"nexusFileName":"Addon - Beautiful Curvy Body","nexusFileVersion":"2.0.4.0","nexusFileUploadedAt":1773845167,"pakFileName":"Doom Armor - Addon BCB.pak","nexusFileId":116997,"metaUuid":null},
+{"nexusFileName":"Addon - Bigger Shield","nexusFileVersion":"2.1.1.0","nexusFileUploadedAt":1774462827,"pakFileName":"Doom Armor - Addon Bigger Shield.pak","nexusFileId":117460,"metaUuid":null},
 {"nexusFileName":"Addon - Dulcet Bodies A","nexusFileVersion":"2.1.2.0","nexusFileUploadedAt":1779798707,"pakFileName":"Doom Armor - Addon Dulcet A.pak","nexusFileId":122189,"metaUuid":null},
 {"nexusFileName":"Addon - Dulcet Bodies B","nexusFileVersion":"2.1.2.0","nexusFileUploadedAt":1779798767,"pakFileName":"Doom Armor - Addon Dulcet B.pak","nexusFileId":122191,"metaUuid":null},
 {"nexusFileName":"Addon - Camp Cloth","nexusFileVersion":"2.1.3.1","nexusFileUploadedAt":1782231229,"pakFileName":"Doom Armor - Addon Camp Cloth.pak","nexusFileId":124172,"metaUuid":"78cbad3c-f07b-4bc3-9a17-6ddc4b73faed"},
@@ -42181,6 +42185,7 @@
 "15038":{"nexusModName":"February Heads","nexusUploadedBy":"HeartsWires","nexusModId":15038,"paks":[
 {"nexusFileName":"February Heads","nexusFileVersion":"1.1","nexusFileUploadedAt":1740601938,"pakFileName":"HW_HeadsFeb_c2a8e1cc-c171-4a16-98ba-c11ff18e8d4e.pak","nexusFileId":86405,"metaUuid":"c2a8e1cc-c171-4a16-98ba-c11ff18e8d4e"},
 {"nexusFileName":"Feb Heads - Flutter and Whimsy - Patch","nexusFileVersion":"1.1","nexusFileUploadedAt":1740602102,"pakFileName":"Feb Heads Flutter Whimsy Patch.pak","nexusFileId":86406,"metaUuid":"245efed8-5b71-4c8b-afac-1f78f2835805"},
+{"nexusFileName":"Laima Horns","nexusFileVersion":"1.0","nexusFileUploadedAt":1740602193,"pakFileName":"HW_Horns.pak","nexusFileId":86407,"metaUuid":null},
 {"nexusFileName":"February Heads (Unique Tav)","nexusFileVersion":"1.1","nexusFileUploadedAt":1740602274,"pakFileName":"HW_HeadsFeb_c2a8e1cc-c171-4a16-98ba-c11ff18e8d4e.pak","nexusFileId":86408,"metaUuid":"c2a8e1cc-c171-4a16-98ba-c11ff18e8d4e"},
 {"nexusFileName":"February Heads (EOTB)","nexusFileVersion":"1.1","nexusFileUploadedAt":1740602341,"pakFileName":"HW_HeadsFeb_c2a8e1cc-c171-4a16-98ba-c11ff18e8d4e.pak","nexusFileId":86409,"metaUuid":"c2a8e1cc-c171-4a16-98ba-c11ff18e8d4e"},
 {"nexusFileName":"February Heads (EOTB and Unique Tav)","nexusFileVersion":"1.1","nexusFileUploadedAt":1740602418,"pakFileName":"HW_HeadsFeb_c2a8e1cc-c171-4a16-98ba-c11ff18e8d4e.pak","nexusFileId":86410,"metaUuid":"c2a8e1cc-c171-4a16-98ba-c11ff18e8d4e"}
@@ -49372,8 +49377,11 @@
 {"nexusFileName":"Path_of_UndeathRU","nexusFileVersion":"1.2.0","nexusFileUploadedAt":1759674514,"pakFileName":"Path_of_UndeathRU.pak","nexusFileId":104403,"metaUuid":null}
 ]},
 "17765":{"nexusModName":"Huffman's Magus - A Class of Spell and Steel","nexusUploadedBy":"TheWailingBard","nexusModId":17765,"paks":[
+{"nexusFileName":"The Magus - Deity Selection","nexusFileVersion":"1.0.0.1","nexusFileUploadedAt":1753402150,"pakFileName":"SterlingVerminMagusDeityChoice_2de285e5-3486-0e69-4750-43e9c30ddf66.pak","nexusFileId":98936,"metaUuid":null},
 {"nexusFileName":"The Magus - Weapon Cantrips for Other Classes","nexusFileVersion":"1.0.0.1","nexusFileUploadedAt":1753409108,"pakFileName":"SterlingVerminMagusShareWeaponCantrips_64bcbddc-1986-73f8-0d68-f478bab36a20.pak","nexusFileId":98941,"metaUuid":null},
 {"nexusFileName":"The Magus - 5e Spells Add-On","nexusFileVersion":"1.0.0.2","nexusFileUploadedAt":1754233623,"pakFileName":"SterlingVerminMagus5eSpells_34896877-79ac-8411-f4b5-fa44f045f13a.pak","nexusFileId":99809,"metaUuid":"34896877-79ac-8411-f4b5-fa44f045f13a"},
+{"nexusFileName":"The Magus - Mystra's Spells Add-On","nexusFileVersion":"1.0.0.3","nexusFileUploadedAt":1754234698,"pakFileName":"SterlingVerminMagusMystrasSpells_75075685-0fc2-2742-8ba1-96b4623235da.pak","nexusFileId":99811,"metaUuid":null},
+{"nexusFileName":"The Magus","nexusFileVersion":"1.0.0.15","nexusFileUploadedAt":1779593614,"pakFileName":"SterlingVerminMagus_4e1c7f00-234b-8779-36f5-394c1dde4591.pak","nexusFileId":122022,"metaUuid":null},
 {"nexusFileName":"The Magus - Extra Attack Cantrips","nexusFileVersion":"1.0.0.1","nexusFileUploadedAt":1779676697,"pakFileName":"SterlingVerminMagusExtraAttackCantrips_51812939-f0fa-2968-9b33-1d4af68b9576.pak","nexusFileId":122089,"metaUuid":null},
 {"nexusFileName":"The Magus - No Bladesinger Animations","nexusFileVersion":"1.0.0.1","nexusFileUploadedAt":1790171368,"pakFileName":"SterlingVerminMagusNoBladesingerAnims_0d5fee6d-0539-c9ca-9e81-97ea7158017f.pak","nexusFileId":131226,"metaUuid":null},
 {"nexusFileName":"The Magus - Intelligent Magi","nexusFileVersion":"1.0.0.2","nexusFileUploadedAt":1790762291,"pakFileName":"SterlingVerminMagusIntelligentMagi_b9c465e6-22dd-d138-e7af-827c8228008b.pak","nexusFileId":131743,"metaUuid":null}
@@ -56871,8 +56879,8 @@
 "20245":{"nexusModName":"Summon a Celestial Deva","nexusUploadedBy":"xStunner","nexusModId":20245,"paks":[
 {"nexusFileName":"Summon Deva Companion Main","nexusFileVersion":"1.0.0.10","nexusFileUploadedAt":1766468178,"pakFileName":"Summoning_Angel_6331b974-ba27-2c31-1c25-6ea9aa36c20c.pak","nexusFileId":110141,"metaUuid":"6331b974-ba27-2c31-1c25-6ea9aa36c20c"}
 ]},
-"20246":{"nexusModName":"PHB 2024 - Bladesinger","nexusUploadedBy":"holypolarpanda","nexusModId":20246,"paks":[
-{"nexusFileName":"PHB_2024_Bladesinger","nexusFileVersion":"v1.1.0","nexusFileUploadedAt":1767062193,"pakFileName":"PHB_2024_Bladesinger.pak","nexusFileId":110651,"metaUuid":"2eb0f48a-2f6d-05dc-8236-95b59e998637"}
+"20246":{"nexusModName":"Bladesinger","nexusUploadedBy":"holypolarpanda","nexusModId":20246,"paks":[
+{"nexusFileName":"Bladesinger","nexusFileVersion":"1.2.0","nexusFileUploadedAt":1791398566,"pakFileName":"Bladesinger_2eb0f48a-2f6d-05dc-8236-95b59e998637.pak","nexusFileId":132318,"metaUuid":null}
 ]},
 "20247":{"nexusModName":"Automatic Magical Secrets Extender","nexusUploadedBy":"mikeshardmind","nexusModId":20247,"paks":[
 {"nexusFileName":"AutomaticMagicalSecretsExtender","nexusFileVersion":"1.1.4","nexusFileUploadedAt":1787066382,"pakFileName":"AutomaticMagicalSecretsExtender.pak","nexusFileId":128362,"metaUuid":"dc4702de-e7e8-4c2e-8c9d-9fd67139988e"}
@@ -57166,8 +57174,8 @@
 {"nexusFileName":"LootAura - Loot Pickup Aura with In-World Tooltips","nexusFileVersion":"8.4.2.8","nexusFileUploadedAt":1790801590,"pakFileName":"LootAura - Loot Pickup Aura with In-World Tooltips.pak","nexusFileId":131775,"metaUuid":"888cdb99-c0f5-4ae5-8b09-6c75715107d2"},
 {"nexusFileName":"Loot Pickup Aura WITHOUT In-World Tooltips","nexusFileVersion":"8.4.2.8","nexusFileUploadedAt":1790801603,"pakFileName":"LootAura - Loot Pickup Aura WITHOUT In-World Tooltips.pak","nexusFileId":131776,"metaUuid":"888cdb99-c0f5-4ae5-8b09-6c75715107d2"}
 ]},
-"20344":{"nexusModName":"PHB2024 - Bigby Presents Glory of the Giants Feats and Backgrounds","nexusUploadedBy":"holypolarpanda","nexusModId":20344,"paks":[
-{"nexusFileName":"PHB2024_BigbyPresents_Backgrounds_Feats","nexusFileVersion":"v1.1.0","nexusFileUploadedAt":1768875790,"pakFileName":"PHB2024_BigbyPresents_Backgrounds_Feats.pak","nexusFileId":112644,"metaUuid":"8829ee20-0f23-f443-627f-521db0ee8206"}
+"20344":{"nexusModName":"Bigby Presents - Glory of the Giants Feats and Backgrounds","nexusUploadedBy":"holypolarpanda","nexusModId":20344,"paks":[
+{"nexusFileName":"Bigby Presents - Backgrounds and Feats","nexusFileVersion":"1.2.0","nexusFileUploadedAt":1791398584,"pakFileName":"BigbyPresents-Backgrounds-Feats_8829ee20-0f23-f443-627f-521db0ee8206.pak","nexusFileId":132319,"metaUuid":null}
 ]},
 "20345":{"nexusModName":"Drunken Humming","nexusUploadedBy":"HyperspaceTowel","nexusModId":20345,"paks":[
 {"nexusFileName":"HT_DrunkenHumming","nexusFileVersion":"1.0.0.28","nexusFileUploadedAt":1769696699,"pakFileName":"HT_DrunkenHumming_ad5805ea-45e8-ced4-b304-373dfd86f02b.pak","nexusFileId":113519,"metaUuid":"ad5805ea-45e8-ced4-b304-373dfd86f02b"}
@@ -63353,6 +63361,7 @@
 {"nexusFileName":"OriginRangedWeapons KOR","nexusFileVersion":"1.1","nexusFileUploadedAt":1781746408,"pakFileName":"OriginThemed_KOR.pak","nexusFileId":123801,"metaUuid":null}
 ]},
 "22504":{"nexusModName":"Spirited Seasons - Playable Eladrin - Spanish","nexusUploadedBy":"elalejin","nexusModId":22504,"paks":[
+{"nexusFileName":"Eladrin   Spanish","nexusFileVersion":"1.0.0.12","nexusFileUploadedAt":1777994703,"pakFileName":"Eladrin - Spanish.pak","nexusFileId":120598,"metaUuid":null},
 {"nexusFileName":"Eladrin   Spanish","nexusFileVersion":"1.2.0.0","nexusFileUploadedAt":1791306874,"pakFileName":"Eladrin - Spanish.pak","nexusFileId":132253,"metaUuid":null}
 ]},
 "22505":{"nexusModName":"5R Starry Wisp Kor","nexusUploadedBy":"yoonmoonsik43","nexusModId":22505,"paks":[
@@ -71283,9 +71292,9 @@
 {"nexusFileName":"Better Photo Mode CHS","nexusFileVersion":"1","nexusFileUploadedAt":1791310969,"pakFileName":"Better Photo Mode_CHS.pak","nexusFileId":132261,"metaUuid":null}
 ]},
 "25622":{"nexusModName":"Zethino the real Love Dryad","nexusUploadedBy":"Elmvick","nexusModId":25622,"paks":[
-{"nexusFileName":"Zethino","nexusFileVersion":"1.1","nexusFileUploadedAt":1791357477,"pakFileName":"Zethino.pak","nexusFileId":132285,"metaUuid":null},
-{"nexusFileName":"Zethino   Slim 1.1.0.14","nexusFileVersion":"1.1.0.14","nexusFileUploadedAt":1791369878,"pakFileName":"Zethino.pak","nexusFileId":132292,"metaUuid":null},
-{"nexusFileName":"Zethino   Athletic 1.1.0.14","nexusFileVersion":"1.1.0.14","nexusFileUploadedAt":1791378756,"pakFileName":"Zethino.pak","nexusFileId":132297,"metaUuid":null}
+{"nexusFileName":"Zethino - Athletic 1.1.0.16","nexusFileVersion":"1.1.0.16","nexusFileUploadedAt":1791397381,"pakFileName":"Zethino.pak","nexusFileId":132315,"metaUuid":null},
+{"nexusFileName":"Zethino   Slim 1.1.0.16","nexusFileVersion":"1.1.0.16","nexusFileUploadedAt":1791397422,"pakFileName":"Zethino.pak","nexusFileId":132316,"metaUuid":null},
+{"nexusFileName":"Zethino 1.1.0.16","nexusFileVersion":"1.1.0.16","nexusFileUploadedAt":1791397464,"pakFileName":"Zethino.pak","nexusFileId":132317,"metaUuid":null}
 ]},
 "25623":{"nexusModName":"Flora Frock (BT1 and BT3)","nexusUploadedBy":"Elledwyn","nexusModId":25623,"paks":[
 {"nexusFileName":"Flora Frock F6a72909 01a0 757b 8665 C7d69f195230","nexusFileVersion":"1","nexusFileUploadedAt":1791315018,"pakFileName":"Flora_Frock_f6a72909-01a0-757b-8665-c7d69f195230.pak","nexusFileId":132263,"metaUuid":"f6a72909-01a0-757b-8665-c7d69f195230"}
