@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-10-07T19:52:14.519121+00:00","total_mods":18059},
+{"_meta":{"last_run":"2026-10-07T20:52:20.464046+00:00","total_mods":18061},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -16576,7 +16576,7 @@
 {"nexusFileName":"Steel Watcher explosion","nexusFileVersion":"1.0","nexusFileUploadedAt":1703107930,"pakFileName":"Steelwatcher Explosion.pak","nexusFileId":35399,"metaUuid":"a0ca3090-2a22-43b1-b948-daefff26066b"}
 ]},
 "5282":{"nexusModName":"Rebalance - Level 2 Spells","nexusUploadedBy":"Syrchalis","nexusModId":5282,"paks":[
-{"nexusFileName":"Rebalance - Level 2 Spells","nexusFileVersion":"1.1.14","nexusFileUploadedAt":1790124983,"pakFileName":"Rebalance_Lvl2_Spells.pak","nexusFileId":131175,"metaUuid":"262002cc-4974-4637-8c59-1f5b9416c746"}
+{"nexusFileName":"Rebalance - Level 2 Spells","nexusFileVersion":"1.1.15","nexusFileUploadedAt":1791405051,"pakFileName":"Rebalance_Lvl2_Spells.pak","nexusFileId":132326,"metaUuid":"262002cc-4974-4637-8c59-1f5b9416c746"}
 ]},
 "5283":{"nexusModName":"F-You F-Me Dice","nexusUploadedBy":"AnyaAlise","nexusModId":5283,"paks":[
 {"nexusFileName":"CompanionsFyouFmeSet","nexusFileVersion":"1.00","nexusFileUploadedAt":1703728995,"pakFileName":"AstarionFyouFme.pak","nexusFileId":36672,"metaUuid":"835340da-7502-4137-b533-7c762fac5b14"},
@@ -18419,7 +18419,7 @@
 {"nexusFileName":"Three","nexusFileVersion":"1.2","nexusFileUploadedAt":1704997074,"pakFileName":"Dead Three Origin.pak","nexusFileId":39350,"metaUuid":"00201b6e-e443-4343-862a-4c71b55f406f"}
 ]},
 "5846":{"nexusModName":"Rebalance - Class Spells","nexusUploadedBy":"Syrchalis","nexusModId":5846,"paks":[
-{"nexusFileName":"Rebalance ClassSpells","nexusFileVersion":"1.0.11","nexusFileUploadedAt":1790778531,"pakFileName":"Rebalance_ClassSpells.pak","nexusFileId":131759,"metaUuid":"a74a712b-094d-4941-8cc7-bb3a75bc39eb"}
+{"nexusFileName":"Rebalance ClassSpells","nexusFileVersion":"1.0.12","nexusFileUploadedAt":1791404774,"pakFileName":"Rebalance_ClassSpells.pak","nexusFileId":132325,"metaUuid":"a74a712b-094d-4941-8cc7-bb3a75bc39eb"}
 ]},
 "5849":{"nexusModName":"Learn Weapon Actions","nexusUploadedBy":"BitterPast","nexusModId":5849,"paks":[
 {"nexusFileName":"Learn All Weapon Actions","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1705004992,"pakFileName":"LearnAllWeaponActions.pak","nexusFileId":39379,"metaUuid":"68f1db4e-1bf6-42cf-a598-13cfa304a48e"}
@@ -22944,15 +22944,8 @@
 {"nexusFileName":"Abdirak","nexusFileVersion":"1.1","nexusFileUploadedAt":1711460274,"pakFileName":"Abdirak.pak","nexusFileId":51515,"metaUuid":null}
 ]},
 "7704":{"nexusModName":"Immersive Reading","nexusUploadedBy":"lexo1000","nexusModId":7704,"paks":[
-{"nexusFileName":"Immersive Reading (15pct Larger Font Size)","nexusFileVersion":"4.0.2","nexusFileUploadedAt":1791145461,"pakFileName":"Immersive Reading (15pct Larger Font Size).pak","nexusFileId":132110,"metaUuid":null},
-{"nexusFileName":"Immersive Reading (5pct Larger Font Size)","nexusFileVersion":"4.0.2","nexusFileUploadedAt":1791145522,"pakFileName":"Immersive Reading (5pct Larger Font Size).pak","nexusFileId":132111,"metaUuid":null},
-{"nexusFileName":"Immersive Reading (5pct Smaller Font Size)","nexusFileVersion":"4.0.2","nexusFileUploadedAt":1791145594,"pakFileName":"Immersive Reading (5pct Smaller Font Size).pak","nexusFileId":132112,"metaUuid":null},
-{"nexusFileName":"Immersive Reading (10pct Larger Font Size)","nexusFileVersion":"4.0.2","nexusFileUploadedAt":1791145713,"pakFileName":"Immersive Reading (10pct Larger Font Size).pak","nexusFileId":132113,"metaUuid":null},
-{"nexusFileName":"Immersive Reading (10pct Smaller Font Size)","nexusFileVersion":"4.0.2","nexusFileUploadedAt":1791145760,"pakFileName":"Immersive Reading (10pct Smaller Font Size).pak","nexusFileId":132114,"metaUuid":null},
-{"nexusFileName":"Immersive Reading (15pct Smaller Font Size)","nexusFileVersion":"4.0.2","nexusFileUploadedAt":1791145849,"pakFileName":"Immersive Reading (15pct Smaller Font Size).pak","nexusFileId":132115,"metaUuid":null},
-{"nexusFileName":"Immersive Reading (Piazzolla Edition)","nexusFileVersion":"4.0.3","nexusFileUploadedAt":1791230254,"pakFileName":"Immersive Reading (Piazzolla Edition).pak","nexusFileId":132191,"metaUuid":"7e5ebde0-3e7f-4878-bbbd-49a34ba52354"},
-{"nexusFileName":"Immersive Reading (Inter Edition)","nexusFileVersion":"4.0.3","nexusFileUploadedAt":1791230269,"pakFileName":"Immersive Reading (Inter Edition).pak","nexusFileId":132192,"metaUuid":"7e5ebde0-3e7f-4878-bbbd-49a34ba52354"},
-{"nexusFileName":"Immersive Reading (Only Books)","nexusFileVersion":"4.0.3","nexusFileUploadedAt":1791230286,"pakFileName":"Immersive Reading (Only Books).pak","nexusFileId":132193,"metaUuid":"56edac95-9d36-4e4d-93b1-38eb48cdecc1"}
+{"nexusFileName":"Immersive Reading (Only Books)","nexusFileVersion":"4.0.3","nexusFileUploadedAt":1791230286,"pakFileName":"Immersive Reading (Only Books).pak","nexusFileId":132193,"metaUuid":"56edac95-9d36-4e4d-93b1-38eb48cdecc1"},
+{"nexusFileName":"Immersive Reading","nexusFileVersion":"5.0.4","nexusFileUploadedAt":1791405100,"pakFileName":"Immersive Reading.pak","nexusFileId":132327,"metaUuid":null}
 ]},
 "7705":{"nexusModName":"Permanent Bliss Spores and Rapture (No VFX Version available)","nexusUploadedBy":"MegaCoolBlood","nexusModId":7705,"paks":[
 {"nexusFileName":"Main File","nexusFileVersion":"1.0","nexusFileUploadedAt":1709911320,"pakFileName":"PERMANENT_BLISS_SPORES.pak","nexusFileId":48993,"metaUuid":null},
@@ -56879,7 +56872,7 @@
 "20245":{"nexusModName":"Summon a Celestial Deva","nexusUploadedBy":"xStunner","nexusModId":20245,"paks":[
 {"nexusFileName":"Summon Deva Companion Main","nexusFileVersion":"1.0.0.10","nexusFileUploadedAt":1766468178,"pakFileName":"Summoning_Angel_6331b974-ba27-2c31-1c25-6ea9aa36c20c.pak","nexusFileId":110141,"metaUuid":"6331b974-ba27-2c31-1c25-6ea9aa36c20c"}
 ]},
-"20246":{"nexusModName":"Bladesinger","nexusUploadedBy":"holypolarpanda","nexusModId":20246,"paks":[
+"20246":{"nexusModName":"Bladesinger (retired - use DnD 5.5e All-in-One BEYOND)","nexusUploadedBy":"holypolarpanda","nexusModId":20246,"paks":[
 {"nexusFileName":"Bladesinger","nexusFileVersion":"1.2.0","nexusFileUploadedAt":1791398566,"pakFileName":"Bladesinger_2eb0f48a-2f6d-05dc-8236-95b59e998637.pak","nexusFileId":132318,"metaUuid":null}
 ]},
 "20247":{"nexusModName":"Automatic Magical Secrets Extender","nexusUploadedBy":"mikeshardmind","nexusModId":20247,"paks":[
@@ -71329,4 +71322,10 @@
 ]},
 "25639":{"nexusModName":"Essential Class Features","nexusUploadedBy":"Syrchalis","nexusModId":25639,"paks":[
 {"nexusFileName":"Essential Class Features","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1791402015,"pakFileName":"Essential_ClassFeatures_b229aef3-3b50-5651-8582-93b01f6b34c0.pak","nexusFileId":132322,"metaUuid":null}
+]},
+"25640":{"nexusModName":"Fantastical Multiverse (Russian translation)","nexusUploadedBy":"lautrec93","nexusModId":25640,"paks":[
+{"nexusFileName":"Fantastical Multiverse Russian 1.9.5.5","nexusFileVersion":"1.9.5.5","nexusFileUploadedAt":1791404397,"pakFileName":"Fantastical_Multiverse_Russian_1.9.5.5.pak","nexusFileId":132324,"metaUuid":null}
+]},
+"25642":{"nexusModName":"Early Access Scenes Restored - Spanish","nexusUploadedBy":"elalejin","nexusModId":25642,"paks":[
+{"nexusFileName":"HT EA Restored ES","nexusFileVersion":"1.0","nexusFileUploadedAt":1791405764,"pakFileName":"HT_EA_Restored_ES.pak","nexusFileId":132328,"metaUuid":null}
 ]}}
