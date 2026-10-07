@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-10-07T11:51:43.910007+00:00","total_mods":18051},
+{"_meta":{"last_run":"2026-10-07T12:51:41.805910+00:00","total_mods":18052},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -35974,13 +35974,13 @@
 {"nexusFileName":"Addon - Clawstep Dragonborn Body (with Breast)","nexusFileVersion":"2.0.3.0","nexusFileUploadedAt":1773622196,"pakFileName":"Doom Armor - Addon CLWSTPWB.pak","nexusFileId":116826,"metaUuid":"1ce5fb59-cb1d-4a69-b6fa-8aec616ea20c"},
 {"nexusFileName":"Addon - Beautiful Curvy Body","nexusFileVersion":"2.0.4.0","nexusFileUploadedAt":1773845167,"pakFileName":"Doom Armor - Addon BCB.pak","nexusFileId":116997,"metaUuid":"7a55fa5a-b1d7-4225-a5df-2e9da485ba5d"},
 {"nexusFileName":"Addon - Bigger Shield","nexusFileVersion":"2.1.1.0","nexusFileUploadedAt":1774462827,"pakFileName":"Doom Armor - Addon Bigger Shield.pak","nexusFileId":117460,"metaUuid":"bd9ca912-a8ed-4131-bca1-dabf7502d494"},
-{"nexusFileName":"Addon - No Pants","nexusFileVersion":"2.1.2.0","nexusFileUploadedAt":1779721661,"pakFileName":"Doom Armor - Addon No Pants.pak","nexusFileId":122116,"metaUuid":"2d900372-cd37-444a-b6a5-3ae1cfdfacc1"},
-{"nexusFileName":"Addon - No Heels","nexusFileVersion":"2.1.2.0","nexusFileUploadedAt":1779721677,"pakFileName":"Doom Armor - Addon No Heels.pak","nexusFileId":122117,"metaUuid":"57c891be-50d2-4148-b142-4d9228dcbd8b"},
 {"nexusFileName":"Addon - Dulcet Bodies A","nexusFileVersion":"2.1.2.0","nexusFileUploadedAt":1779798707,"pakFileName":"Doom Armor - Addon Dulcet A.pak","nexusFileId":122189,"metaUuid":null},
 {"nexusFileName":"Addon - Dulcet Bodies B","nexusFileVersion":"2.1.2.0","nexusFileUploadedAt":1779798767,"pakFileName":"Doom Armor - Addon Dulcet B.pak","nexusFileId":122191,"metaUuid":null},
 {"nexusFileName":"Addon - Camp Cloth","nexusFileVersion":"2.1.3.1","nexusFileUploadedAt":1782231229,"pakFileName":"Doom Armor - Addon Camp Cloth.pak","nexusFileId":124172,"metaUuid":"78cbad3c-f07b-4bc3-9a17-6ddc4b73faed"},
 {"nexusFileName":"Addon - Beautiful Strong Bodies","nexusFileVersion":"2.1.3.1","nexusFileUploadedAt":1784465324,"pakFileName":"Doom Armor - Addon BSB.pak","nexusFileId":126002,"metaUuid":"1796aa1f-d2c5-4736-961d-2927d5d0b136"},
-{"nexusFileName":"Main - Doom Armor","nexusFileVersion":"3.0.0.0","nexusFileUploadedAt":1791322916,"pakFileName":"Doom Armor - Main.pak","nexusFileId":132268,"metaUuid":"cc28f2b3-31bf-4658-aa63-48fbc41a47c2"}
+{"nexusFileName":"Main - Doom Armor","nexusFileVersion":"3.0.0.0","nexusFileUploadedAt":1791322916,"pakFileName":"Doom Armor - Main.pak","nexusFileId":132268,"metaUuid":"cc28f2b3-31bf-4658-aa63-48fbc41a47c2"},
+{"nexusFileName":"Addon - No Heels","nexusFileVersion":"3.0.0.0","nexusFileUploadedAt":1791374993,"pakFileName":"Doom Armor - Addon No Heels.pak","nexusFileId":132294,"metaUuid":"57c891be-50d2-4148-b142-4d9228dcbd8b"},
+{"nexusFileName":"Addon - No Pants","nexusFileVersion":"3.0.0.0","nexusFileUploadedAt":1791375395,"pakFileName":"Doom Armor - Addon No Pants.pak","nexusFileId":132295,"metaUuid":"2d900372-cd37-444a-b6a5-3ae1cfdfacc1"}
 ]},
 "12718":{"nexusModName":"Egg's Armor - Corset for BT2","nexusUploadedBy":"eggmanboylad","nexusModId":12718,"paks":[
 {"nexusFileName":"Corset Armor","nexusFileVersion":"1.0.0.1","nexusFileUploadedAt":1727979526,"pakFileName":"Corset_Armor_a8c49cec-1c14-6210-a687-2a3ffbef7dae.pak","nexusFileId":73807,"metaUuid":"a8c49cec-1c14-6210-a687-2a3ffbef7dae"}
@@ -71303,4 +71303,8 @@
 ]},
 "25627":{"nexusModName":"Valkrana's Spellbook - 17 New Necromancy Spells - Spanish","nexusUploadedBy":"elalejin","nexusModId":25627,"paks":[
 {"nexusFileName":"Valkrana'S Spellbook ES","nexusFileVersion":"1.0","nexusFileUploadedAt":1791327674,"pakFileName":"Valkrana's Spellbook ES.pak","nexusFileId":132270,"metaUuid":null}
+]},
+"25632":{"nexusModName":"Prince Siegfried","nexusUploadedBy":"LeilaXel","nexusModId":25632,"paks":[
+{"nexusFileName":"LeilaPrinceSiegfried","nexusFileVersion":"1","nexusFileUploadedAt":1791377212,"pakFileName":"LeilaPrinceSiegfried.pak","nexusFileId":132296,"metaUuid":null},
+{"nexusFileName":"LeilaPrinceSiegfried","nexusFileVersion":"1","nexusFileUploadedAt":1791377212,"pakFileName":"._LeilaPrinceSiegfried.pak","nexusFileId":132296,"metaUuid":null}
 ]}}
