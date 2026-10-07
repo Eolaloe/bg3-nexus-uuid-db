@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-10-07T20:52:20.464046+00:00","total_mods":18061},
+{"_meta":{"last_run":"2026-10-07T21:52:28.127365+00:00","total_mods":18062},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -16785,7 +16785,7 @@
 {"nexusFileName":"Baldur's Gay 3 - PAK","nexusFileVersion":"1.1","nexusFileUploadedAt":1709684324,"pakFileName":"BaldursGay3.pak","nexusFileId":48386,"metaUuid":"7f88798e-2765-4b01-92f0-db855af9d598"}
 ]},
 "5325":{"nexusModName":"Rebalance - Level 3 Spells","nexusUploadedBy":"Syrchalis","nexusModId":5325,"paks":[
-{"nexusFileName":"Rebalance - Level 3 Spells","nexusFileVersion":"1.1.6","nexusFileUploadedAt":1750615762,"pakFileName":"Rebalance_Lvl3_Spells.pak","nexusFileId":96445,"metaUuid":"294024e1-0872-43c1-bddc-7a37a42b60fa"}
+{"nexusFileName":"Rebalance - Level 3 Spells","nexusFileVersion":"1.1.7","nexusFileUploadedAt":1791407029,"pakFileName":"Rebalance_Lvl3_Spells.pak","nexusFileId":132332,"metaUuid":"294024e1-0872-43c1-bddc-7a37a42b60fa"}
 ]},
 "5326":{"nexusModName":"Raphael's Outfit as Camp Clothing","nexusUploadedBy":"Nikjima","nexusModId":5326,"paks":[
 {"nexusFileName":"Wearable Raphael Outfits","nexusFileVersion":"6.0.1.0","nexusFileUploadedAt":1726176800,"pakFileName":"Wearable Raphael Outfit.pak","nexusFileId":70736,"metaUuid":"f8834f37-c442-4f42-93b6-88f84aca6867"}
@@ -16956,7 +16956,7 @@
 {"nexusFileName":"Eniela's Chest Refinded","nexusFileVersion":"1.4.","nexusFileUploadedAt":1709761890,"pakFileName":"Enielas Chest Refined.pak","nexusFileId":48536,"metaUuid":"a87d01a2-68b3-4df7-acfa-49e1ba82e95f"}
 ]},
 "5389":{"nexusModName":"Rebalance - Level 4 Spells","nexusUploadedBy":"Syrchalis","nexusModId":5389,"paks":[
-{"nexusFileName":"Rebalance - Level 4 Spells","nexusFileVersion":"1.1.4","nexusFileUploadedAt":1790124912,"pakFileName":"Rebalance_Lvl4_Spells.pak","nexusFileId":131173,"metaUuid":"86a0b6ef-91e3-4123-ae68-b950ac2fc97f"}
+{"nexusFileName":"Rebalance - Level 4 Spells","nexusFileVersion":"1.1.5","nexusFileUploadedAt":1791407093,"pakFileName":"Rebalance_Lvl4_Spells.pak","nexusFileId":132333,"metaUuid":"86a0b6ef-91e3-4123-ae68-b950ac2fc97f"}
 ]},
 "5390":{"nexusModName":"Learn Saving Throw Proficiencies","nexusUploadedBy":"BitterPast","nexusModId":5390,"paks":[
 {"nexusFileName":"Everything - All Saving Throws","nexusFileVersion":"1.0.1","nexusFileUploadedAt":1706871898,"pakFileName":"LearnSavingThrowProficiency.pak","nexusFileId":42823,"metaUuid":"eab0b1a7-1c5f-4e8c-aa85-40f846735cd3"},
@@ -18011,10 +18011,10 @@
 ]},
 "5712":{"nexusModName":"Rebalance - Nerfs","nexusUploadedBy":"Syrchalis","nexusModId":5712,"paks":[
 {"nexusFileName":"Rebalance - Nerfs (Resonance Stone)","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1748635243,"pakFileName":"Rebalance_Nerfs_ResonanceStone.pak","nexusFileId":94576,"metaUuid":"fd7409dc-7657-4153-8a92-e426a9c1db8c"},
-{"nexusFileName":"Rebalance - Nerfs (Feats)","nexusFileVersion":"1.0.1","nexusFileUploadedAt":1779055447,"pakFileName":"Rebalance_Nerfs_Feats.pak","nexusFileId":121501,"metaUuid":null},
 {"nexusFileName":"Rebalance - Nerfs (Common Effects)","nexusFileVersion":"1.0.4","nexusFileUploadedAt":1779061855,"pakFileName":"Rebalance_Nerfs_CommonEffects.pak","nexusFileId":121514,"metaUuid":"48b7cea7-8537-49bb-af98-6368279aa841"},
-{"nexusFileName":"Rebalance - Nerfs","nexusFileVersion":"1.0.9","nexusFileUploadedAt":1790125067,"pakFileName":"Rebalance_Nerfs.pak","nexusFileId":131177,"metaUuid":"d4405ad7-a4b2-46a8-a397-774d1b549a37"},
-{"nexusFileName":"Rebalance - Nerfs (Spells)","nexusFileVersion":"1.0.2.1","nexusFileUploadedAt":1790125080,"pakFileName":"Rebalance_Nerfs_Spells.pak","nexusFileId":131178,"metaUuid":null}
+{"nexusFileName":"Rebalance - Nerfs (Spells)","nexusFileVersion":"1.0.2.1","nexusFileUploadedAt":1790125080,"pakFileName":"Rebalance_Nerfs_Spells.pak","nexusFileId":131178,"metaUuid":null},
+{"nexusFileName":"Rebalance - Nerfs","nexusFileVersion":"1.0.10","nexusFileUploadedAt":1791407622,"pakFileName":"Rebalance_Nerfs.pak","nexusFileId":132334,"metaUuid":"d4405ad7-a4b2-46a8-a397-774d1b549a37"},
+{"nexusFileName":"Rebalance - Nerfs (Feats)","nexusFileVersion":"1.0.2","nexusFileUploadedAt":1791407635,"pakFileName":"Rebalance_Nerfs_Feats.pak","nexusFileId":132335,"metaUuid":null}
 ]},
 "5713":{"nexusModName":"Combat HP Bonus","nexusUploadedBy":"BitterPast","nexusModId":5713,"paks":[
 {"nexusFileName":"Temporary HP Bonus - 10","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1704574213,"pakFileName":"TemporaryHpBuffCombat10.pak","nexusFileId":38430,"metaUuid":"bb63c365-e014-4ece-abe3-124e0014e066"},
@@ -70917,8 +70917,8 @@
 {"nexusFileName":"LeilaSwanBallet Add TMTS","nexusFileVersion":"1.0.0.2","nexusFileUploadedAt":1791229882,"pakFileName":"LeilaSwanBallet_add_TMTS.pak","nexusFileId":132190,"metaUuid":null},
 {"nexusFileName":"LeilaSwanBallet Add TMTS","nexusFileVersion":"1.0.0.2","nexusFileUploadedAt":1791229882,"pakFileName":"._LeilaSwanBallet_add_TMTS.pak","nexusFileId":132190,"metaUuid":null}
 ]},
-"25463":{"nexusModName":"Rebalance - Class Spells - Russian Translation 1.0.11","nexusUploadedBy":"SNKmod777","nexusModId":25463,"paks":[
-{"nexusFileName":"Rebalance ClassSpells RU","nexusFileVersion":"1.0","nexusFileUploadedAt":1790892555,"pakFileName":"Rebalance_ClassSpells_RU.pak","nexusFileId":131863,"metaUuid":null}
+"25463":{"nexusModName":"Rebalance - Class Spells - Russian Translation 1.0.12","nexusUploadedBy":"SNKmod777","nexusModId":25463,"paks":[
+{"nexusFileName":"Rebalance ClassSpells RU","nexusFileVersion":"1.0.0.1","nexusFileUploadedAt":1791406990,"pakFileName":"Rebalance_ClassSpells_RU.pak","nexusFileId":132331,"metaUuid":null}
 ]},
 "25464":{"nexusModName":"Astralities' Tiefling Compendium - Traditional Chinese and Simplified Chinese Translation","nexusUploadedBy":"MaxStoKe","nexusModId":25464,"paks":[
 {"nexusFileName":"AstralitiesTieflingCompendium CHT CHS","nexusFileVersion":"4.2","nexusFileUploadedAt":1791320073,"pakFileName":"AstralitiesTieflingCompendium_CHT_CHS.pak","nexusFileId":132267,"metaUuid":null}
@@ -71328,4 +71328,7 @@
 ]},
 "25642":{"nexusModName":"Early Access Scenes Restored - Spanish","nexusUploadedBy":"elalejin","nexusModId":25642,"paks":[
 {"nexusFileName":"HT EA Restored ES","nexusFileVersion":"1.0","nexusFileUploadedAt":1791405764,"pakFileName":"HT_EA_Restored_ES.pak","nexusFileId":132328,"metaUuid":null}
+]},
+"25643":{"nexusModName":"Essential Class Features - Russian Translation 1.0.0","nexusUploadedBy":"SNKmod777","nexusModId":25643,"paks":[
+{"nexusFileName":"Essential ClassFeatures RU","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1791409333,"pakFileName":"Essential_ClassFeatures_RU.pak","nexusFileId":132336,"metaUuid":null}
 ]}}
