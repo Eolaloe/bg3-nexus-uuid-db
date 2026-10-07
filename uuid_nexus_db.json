@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-10-07T18:52:26.230682+00:00","total_mods":18058},
+{"_meta":{"last_run":"2026-10-07T19:52:14.519121+00:00","total_mods":18059},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -46809,7 +46809,7 @@
 {"nexusFileName":"ArtificerTweaks","nexusFileVersion":"1.4.2","nexusFileUploadedAt":1750073557,"pakFileName":"Artificer_47b2b8a0-637e-45dd-8adf-fd50a434f529.pak","nexusFileId":96011,"metaUuid":"47b2b8a0-637e-45dd-8adf-fd50a434f529"}
 ]},
 "16874":{"nexusModName":"Rebalance - Gear","nexusUploadedBy":"Syrchalis","nexusModId":16874,"paks":[
-{"nexusFileName":"Rebalance - Gear","nexusFileVersion":"1.0.16","nexusFileUploadedAt":1779223475,"pakFileName":"Rebalance_Gear.pak","nexusFileId":121713,"metaUuid":"f324020f-de52-34ac-bb86-5974ade9d203"}
+{"nexusFileName":"Rebalance - Gear","nexusFileVersion":"1.0.17","nexusFileUploadedAt":1791400724,"pakFileName":"Rebalance_Gear_f324020f-de52-34ac-bb86-5974ade9d203.pak","nexusFileId":132321,"metaUuid":null}
 ]},
 "16875":{"nexusModName":"ASE Modding - Tutorial Mod","nexusUploadedBy":"ase243","nexusModId":16875,"paks":[
 {"nexusFileName":"ase_squirrelsummon_5def8a38-79-2vod","nexusFileVersion":"1.0.0.11","nexusFileUploadedAt":1749136145,"pakFileName":"ASE_SquirrelSummon_5def8a38-7998-e2ca-66c1-85f7fc41c3ef.pak","nexusFileId":95128,"metaUuid":null}
@@ -71326,4 +71326,7 @@
 ]},
 "25636":{"nexusModName":"Absolute Wrath - Spanish","nexusUploadedBy":"elalejin","nexusModId":25636,"paks":[
 {"nexusFileName":"AbsoluteWrath ES","nexusFileVersion":"1.0","nexusFileUploadedAt":1791387161,"pakFileName":"AbsoluteWrath_ES.pak","nexusFileId":132305,"metaUuid":null}
+]},
+"25639":{"nexusModName":"Essential Class Features","nexusUploadedBy":"Syrchalis","nexusModId":25639,"paks":[
+{"nexusFileName":"Essential Class Features","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1791402015,"pakFileName":"Essential_ClassFeatures_b229aef3-3b50-5651-8582-93b01f6b34c0.pak","nexusFileId":132322,"metaUuid":null}
 ]}}
