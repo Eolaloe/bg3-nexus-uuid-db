@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-10-08T03:52:31.994071+00:00","total_mods":18064},
+{"_meta":{"last_run":"2026-10-08T04:52:51.299933+00:00","total_mods":18066},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -8581,7 +8581,8 @@
 {"nexusFileName":"REWard's Dice 2","nexusFileVersion":"1.0","nexusFileUploadedAt":1699166691,"pakFileName":"BinaJar2.pak","nexusFileId":26911,"metaUuid":null},
 {"nexusFileName":"REWard's Dice 2","nexusFileVersion":"1.0","nexusFileUploadedAt":1699166691,"pakFileName":"LadyPastel.pak","nexusFileId":26911,"metaUuid":null},
 {"nexusFileName":"REWard's Dice 2","nexusFileVersion":"1.0","nexusFileUploadedAt":1699166691,"pakFileName":"SparkleDice.pak","nexusFileId":26911,"metaUuid":null},
-{"nexusFileName":"Old B in a Jar","nexusFileVersion":"1.0","nexusFileUploadedAt":1706310693,"pakFileName":"BinaJar.pak","nexusFileId":41838,"metaUuid":null}
+{"nexusFileName":"Old B in a Jar","nexusFileVersion":"1.0","nexusFileUploadedAt":1706310693,"pakFileName":"BinaJar.pak","nexusFileId":41838,"metaUuid":null},
+{"nexusFileName":"Undead Dice (Requested)","nexusFileVersion":"1","nexusFileUploadedAt":1791433692,"pakFileName":"Undead.pak","nexusFileId":132358,"metaUuid":null}
 ]},
 "2610":{"nexusModName":"LuckyUnderwearRussian","nexusUploadedBy":"ulkyome","nexusModId":2610,"paks":[
 {"nexusFileName":"Lucky Underwear Russian","nexusFileVersion":"1","nexusFileUploadedAt":1695538111,"pakFileName":"LuckyRussian.pak","nexusFileId":18272,"metaUuid":null}
@@ -28519,8 +28520,8 @@
 {"nexusFileName":"Womans World Nude Pak","nexusFileVersion":"1.0N","nexusFileUploadedAt":1716767354,"pakFileName":"WomansWorldNude.pak","nexusFileId":58875,"metaUuid":null},
 {"nexusFileName":"2 Womans' World BCB Pak","nexusFileVersion":"1.3","nexusFileUploadedAt":1727389479,"pakFileName":"WomansWorldBCBPak.pak","nexusFileId":72840,"metaUuid":null},
 {"nexusFileName":"A Womans' World NPC Voices","nexusFileVersion":"1.02","nexusFileUploadedAt":1728522439,"pakFileName":"WomansWorldVoices.pak","nexusFileId":74747,"metaUuid":"38b223ab-ec25-489b-9bc3-770a548fde8c"},
-{"nexusFileName":"1 Womans' World Pak","nexusFileVersion":"1.11","nexusFileUploadedAt":1752706758,"pakFileName":"WomansWorldPak.pak","nexusFileId":98279,"metaUuid":null},
-{"nexusFileName":"3 Womans' World Exclusive Pak","nexusFileVersion":"1.11","nexusFileUploadedAt":1752706780,"pakFileName":"WomansWorldExclusivePak.pak","nexusFileId":98280,"metaUuid":null}
+{"nexusFileName":"1 Womans' World Pak","nexusFileVersion":"1.12","nexusFileUploadedAt":1791433003,"pakFileName":"WomansWorldPak.pak","nexusFileId":132355,"metaUuid":null},
+{"nexusFileName":"3 Womans' World Exclusive Pak","nexusFileVersion":"1.12","nexusFileUploadedAt":1791433065,"pakFileName":"WomansWorldExclusivePak.pak","nexusFileId":132356,"metaUuid":null}
 ]},
 "9821":{"nexusModName":"Tasha's Fighting Styles RAW - Version FR","nexusUploadedBy":"Thraximundar2772","nexusModId":9821,"paks":[
 {"nexusFileName":"Tasha's Fighting Styles FR","nexusFileVersion":"1.0.1.2","nexusFileUploadedAt":1716653956,"pakFileName":"Tasha's Fighting Styles 5e FR.pak","nexusFileId":58653,"metaUuid":null}
@@ -71337,4 +71338,10 @@
 ]},
 "25648":{"nexusModName":"Spells of Exandria - Traditional Chinese and Simplified Chinese Translation","nexusUploadedBy":"MaxStoKe","nexusModId":25648,"paks":[
 {"nexusFileName":"SpellsOfExandria CHT CHS","nexusFileVersion":"1.0.3.1","nexusFileUploadedAt":1791419279,"pakFileName":"SpellsOfExandria_CHT_CHS.pak","nexusFileId":132343,"metaUuid":null}
+]},
+"25650":{"nexusModName":"Bhaal's Forgotten Son - Dark Urge Lore ExpansionCHS","nexusUploadedBy":"yangyangmeiiii","nexusModId":25650,"paks":[
+{"nexusFileName":"BhaalsForgottenSonCHS","nexusFileVersion":"1.1.7.19","nexusFileUploadedAt":1791431126,"pakFileName":"BhaalsForgottenSonCHS.pak","nexusFileId":132353,"metaUuid":null}
+]},
+"25651":{"nexusModName":"Fantastical Multiverse - Legacy Edition - PTBR","nexusUploadedBy":"BarovZx","nexusModId":25651,"paks":[
+{"nexusFileName":"Fantastical Framework PTBR","nexusFileVersion":"13.08.2026","nexusFileUploadedAt":1791432511,"pakFileName":"Fantastical-Framework PTBR.pak","nexusFileId":132354,"metaUuid":null}
 ]}}
