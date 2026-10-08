@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-10-08T06:52:47.566909+00:00","total_mods":18065},
+{"_meta":{"last_run":"2026-10-08T07:52:41.800273+00:00","total_mods":18065},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -21076,8 +21076,8 @@
 {"nexusFileName":"Selune Logo Tent","nexusFileVersion":"2","nexusFileUploadedAt":1708346594,"pakFileName":"ShadowHeartFlowerTent.pak","nexusFileId":45548,"metaUuid":null}
 ]},
 "6878":{"nexusModName":"Immersive Dice Roll","nexusUploadedBy":"lexo1000","nexusModId":6878,"paks":[
-{"nexusFileName":"Immersive Dice Roll","nexusFileVersion":"3.0.1","nexusFileUploadedAt":1791177846,"pakFileName":"Immersive Dice Roll.pak","nexusFileId":132145,"metaUuid":"2b0e36d2-5e41-4bc2-8d58-39dcde67cafb"},
-{"nexusFileName":"Immersive Dice Roll - Revamped window only","nexusFileVersion":"3.0.1","nexusFileUploadedAt":1791177863,"pakFileName":"Immersive Dice Roll - Window only.pak","nexusFileId":132146,"metaUuid":"684e0f2d-a29d-4a88-adea-88e61c70dbf5"}
+{"nexusFileName":"Immersive Dice Roll","nexusFileVersion":"3.0.4","nexusFileUploadedAt":1791442500,"pakFileName":"Immersive Dice Roll.pak","nexusFileId":132369,"metaUuid":"2b0e36d2-5e41-4bc2-8d58-39dcde67cafb"},
+{"nexusFileName":"Immersive Dice Roll - Revamped window only","nexusFileVersion":"3.0.4","nexusFileUploadedAt":1791442675,"pakFileName":"Immersive Dice Roll - Window only.pak","nexusFileId":132370,"metaUuid":"684e0f2d-a29d-4a88-adea-88e61c70dbf5"}
 ]},
 "6879":{"nexusModName":"Goblin Armors","nexusUploadedBy":"Cerberry","nexusModId":6879,"paks":[
 {"nexusFileName":"Goblin Armors","nexusFileVersion":"1.1","nexusFileUploadedAt":1708518581,"pakFileName":"CBR_GoblinArmors.pak","nexusFileId":45870,"metaUuid":"ecc7f062-a21e-4f08-8371-37631d7d32da"},
@@ -54637,7 +54637,7 @@
 {"nexusFileName":"Twilight Elegy","nexusFileVersion":"1.0.0.4","nexusFileUploadedAt":1763164654,"pakFileName":"OBSC_Twilight_Elegy_fb863618-3c97-bcc1-0718-1b4989f76d1f.pak","nexusFileId":107454,"metaUuid":"fb863618-3c97-bcc1-0718-1b4989f76d1f"}
 ]},
 "19674":{"nexusModName":"chizfreak's Bladesinger DnD 5R PHB2024 Changes for Korean","nexusUploadedBy":"Eolaloe","nexusModId":19674,"paks":[
-{"nexusFileName":"Bladesinger DnD 5R Changes for Korean","nexusFileVersion":"2.4.3","nexusFileUploadedAt":1775449840,"pakFileName":"BladesingerDnD5R_kr.pak","nexusFileId":118224,"metaUuid":"82c8041b-7d0e-4c06-b244-4c43cc6f0da6"}
+{"nexusFileName":"Bladesinger DnD 5R Changes for Korean","nexusFileVersion":"2.6.0","nexusFileUploadedAt":1791444099,"pakFileName":"BladesingerDnD5R_kr.pak","nexusFileId":132388,"metaUuid":"82c8041b-7d0e-4c06-b244-4c43cc6f0da6"}
 ]},
 "19675":{"nexusModName":"Wings Character Customization - WCC CHSXD","nexusUploadedBy":"XDynis","nexusModId":19675,"paks":[
 {"nexusFileName":"Wings Character Customization - WCC CHSXD","nexusFileVersion":"1.0.0.70","nexusFileUploadedAt":1763206320,"pakFileName":"Aardi_WingsCharacterCustomisationCHSXD.pak","nexusFileId":107489,"metaUuid":null}
@@ -56210,7 +56210,7 @@
 {"nexusFileName":"Rebalance - Level 3 Spells for Korean","nexusFileVersion":"1.1.6-1","nexusFileUploadedAt":1779343551,"pakFileName":"Rebalance_Lvl3_Spells_kr.pak","nexusFileId":121815,"metaUuid":"2391df00-3f93-486d-a2e5-677ba5a94e46"}
 ]},
 "20016":{"nexusModName":"Syrchalis's Rebalance - Level 4 Spells for Korean","nexusUploadedBy":"Eolaloe","nexusModId":20016,"paks":[
-{"nexusFileName":"Rebalance - Level 4 Spells for Korean","nexusFileVersion":"1.1.2-1","nexusFileUploadedAt":1779382351,"pakFileName":"Rebalance_Lvl4_Spells_kr.pak","nexusFileId":121838,"metaUuid":"f34dc40a-e8fc-49b3-9938-9ca25224ceff"}
+{"nexusFileName":"Rebalance - Level 4 Spells for Korean","nexusFileVersion":"1.1.4","nexusFileUploadedAt":1791443557,"pakFileName":"Rebalance_Lvl4_Spells_kr.pak","nexusFileId":132378,"metaUuid":"f34dc40a-e8fc-49b3-9938-9ca25224ceff"}
 ]},
 "20017":{"nexusModName":"Syrchalis's Rebalance - Level 5 Spells for Korean","nexusUploadedBy":"Eolaloe","nexusModId":20017,"paks":[
 {"nexusFileName":"Rebalance - Level 5 Spells for Korean","nexusFileVersion":"1.0.3-1","nexusFileUploadedAt":1779384626,"pakFileName":"Rebalance_Lvl5_Spells_kr.pak","nexusFileId":121843,"metaUuid":"c9ffb573-6c84-4ef1-8b34-84bbf8017f31"}
@@ -56219,7 +56219,7 @@
 {"nexusFileName":"Rebalance - Level 6 Spells for Korean","nexusFileVersion":"1.0.8-1","nexusFileUploadedAt":1779411149,"pakFileName":"Rebalance_Lvl6_Spells_kr.pak","nexusFileId":121861,"metaUuid":"6782dcfa-b20a-40bc-b8f2-8555f57e56c0"}
 ]},
 "20019":{"nexusModName":"Syrchalis's Rebalance - Class Spells for Korean","nexusUploadedBy":"Eolaloe","nexusModId":20019,"paks":[
-{"nexusFileName":"Rebalance - Class Spells for Korean","nexusFileVersion":"1.0.9","nexusFileUploadedAt":1779336911,"pakFileName":"Rebalance_ClassSpells_kr.pak","nexusFileId":121808,"metaUuid":"99947e2a-dc9e-4c6b-a7ee-af1d171d9acc"}
+{"nexusFileName":"Rebalance - Class Spells for Korean","nexusFileVersion":"1.0.11","nexusFileUploadedAt":1791443477,"pakFileName":"Rebalance_ClassSpells_kr.pak","nexusFileId":132376,"metaUuid":"99947e2a-dc9e-4c6b-a7ee-af1d171d9acc"}
 ]},
 "20020":{"nexusModName":"Syrchalis's Rebalance - Common Effects for Korean","nexusUploadedBy":"Eolaloe","nexusModId":20020,"paks":[
 {"nexusFileName":"Rebalance - Common Effects for Korean","nexusFileVersion":"1.0.13","nexusFileUploadedAt":1779448083,"pakFileName":"Rebalance_CommonEffects_kr.pak","nexusFileId":121921,"metaUuid":"da0d2b80-8671-4e98-85c3-483e48461114"}
@@ -56264,7 +56264,7 @@
 {"nexusFileName":"Goon's Paladin Overhaul for Korean","nexusFileVersion":"1.2.0.0","nexusFileUploadedAt":1788106137,"pakFileName":"Goon's Paladin Overhaul_kr.pak","nexusFileId":129346,"metaUuid":null}
 ]},
 "20036":{"nexusModName":"Goon's Rogue Overhaul for Korean","nexusUploadedBy":"Eolaloe","nexusModId":20036,"paks":[
-{"nexusFileName":"Goon's Rogue Overhaul for Korean","nexusFileVersion":"2.1.0.1","nexusFileUploadedAt":1786949161,"pakFileName":"Goon's Rogue Overhaul_kr.pak","nexusFileId":128255,"metaUuid":"20f6b761-dd4b-47d9-a929-152d2f520eb6"}
+{"nexusFileName":"Goon's Rogue Overhaul for Korean","nexusFileVersion":"2.2.2.0","nexusFileUploadedAt":1791443783,"pakFileName":"Goon's Rogue Overhaul_kr.pak","nexusFileId":132382,"metaUuid":"20f6b761-dd4b-47d9-a929-152d2f520eb6"}
 ]},
 "20037":{"nexusModName":"Goon's Sorcerer Overhaul for Korean","nexusUploadedBy":"Eolaloe","nexusModId":20037,"paks":[
 {"nexusFileName":"Goon's Sorcerer Overhaul for Korean","nexusFileVersion":"1.2.0.0","nexusFileUploadedAt":1785752478,"pakFileName":"Goon's Sorcerer Overhaul_kr.pak","nexusFileId":127200,"metaUuid":"1f04b758-fe89-45b7-9dfc-5d4306d7ad5a"}
@@ -56273,10 +56273,10 @@
 {"nexusFileName":"Goon's Wizard Overhaul for Korean","nexusFileVersion":"1.1.0.0","nexusFileUploadedAt":1788107077,"pakFileName":"Goon's Wizard Overhaul_kr.pak","nexusFileId":129350,"metaUuid":null}
 ]},
 "20039":{"nexusModName":"Goon's Condition and Surface Overhaul for Korean","nexusUploadedBy":"Eolaloe","nexusModId":20039,"paks":[
-{"nexusFileName":"Goon's Condition and Surface Overhaul for Korean","nexusFileVersion":"1.1.0.0","nexusFileUploadedAt":1789830267,"pakFileName":"Goon's Condition & Surface Overhaul_kr.pak","nexusFileId":130893,"metaUuid":"6cf39c2f-71ba-4eac-817e-5949bf26b983"}
+{"nexusFileName":"Goon's Condition and Surface Overhaul for Korean","nexusFileVersion":"1.2.1.0","nexusFileUploadedAt":1791443870,"pakFileName":"Goon's Condition & Surface Overhaul_kr.pak","nexusFileId":132384,"metaUuid":"6cf39c2f-71ba-4eac-817e-5949bf26b983"}
 ]},
 "20040":{"nexusModName":"Goon's Library - Passives Functions Spells and More for Korean","nexusUploadedBy":"Eolaloe","nexusModId":20040,"paks":[
-{"nexusFileName":"Goon's Library - Passives Functions for Korean","nexusFileVersion":"4.17.1.0","nexusFileUploadedAt":1785749008,"pakFileName":"Goon's Library_kr.pak","nexusFileId":127186,"metaUuid":"2a47e169-12b2-46b6-a8c8-ff2c3961fe57"}
+{"nexusFileName":"Goon's Library - Passives Functions for Korean","nexusFileVersion":"4.28.1.0","nexusFileUploadedAt":1791443971,"pakFileName":"Goon's Library_kr.pak","nexusFileId":132386,"metaUuid":"2a47e169-12b2-46b6-a8c8-ff2c3961fe57"}
 ]},
 "20041":{"nexusModName":"Combat Ready","nexusUploadedBy":"Surferion","nexusModId":20041,"paks":[
 {"nexusFileName":"Combat Ready","nexusFileVersion":"1.0.0.12","nexusFileUploadedAt":1765881513,"pakFileName":"Combat Ready.pak","nexusFileId":109709,"metaUuid":"1e836adc-f1db-4c7f-ab5a-cfdbce49b65f"},
@@ -57346,7 +57346,7 @@
 {"nexusFileName":"Battle Medic","nexusFileVersion":"1.2","nexusFileUploadedAt":1776023490,"pakFileName":"BattleMedicFeat.pak","nexusFileId":118803,"metaUuid":"5942f35f-89ee-b708-7178-01c924257e80"}
 ]},
 "20430":{"nexusModName":"Goon's Condition and Surface Overhaul for Japanese","nexusUploadedBy":"Eolaloe","nexusModId":20430,"paks":[
-{"nexusFileName":"Goon's Condition and Surface Overhaul for Japanese","nexusFileVersion":"1.1.0.0","nexusFileUploadedAt":1789830307,"pakFileName":"Goon's Condition & Surface Overhaul_jp.pak","nexusFileId":130894,"metaUuid":null}
+{"nexusFileName":"Goon's Condition and Surface Overhaul for Japanese","nexusFileVersion":"1.2.1.0","nexusFileUploadedAt":1791443902,"pakFileName":"Goon's Condition & Surface Overhaul_jp.pak","nexusFileId":132385,"metaUuid":null}
 ]},
 "20431":{"nexusModName":"Mueffel's Rituals and Utility Spells Consolidated for Korean","nexusUploadedBy":"Eolaloe","nexusModId":20431,"paks":[
 {"nexusFileName":"Rituals and Utility Spells Consolidated for Korean","nexusFileVersion":"2.2.0","nexusFileUploadedAt":1782040123,"pakFileName":"Rituals and Utility Spells_consolidated_kr.pak","nexusFileId":123984,"metaUuid":"e7ec5995-f0b4-4d88-8f2e-8d6b2bb18cad"}
@@ -57427,11 +57427,11 @@
 ]},
 "20455":{"nexusModName":"Valkrana's Spellbook - 17 New Necromancy Spells for Korean","nexusUploadedBy":"Eolaloe","nexusModId":20455,"paks":[
 {"nexusFileName":"Valkrana's Impart Undeath Feat for Korean","nexusFileVersion":"1.01.00","nexusFileUploadedAt":1773305285,"pakFileName":"Valkrana's Impart Undeath Feat_kr.pak","nexusFileId":116594,"metaUuid":null},
-{"nexusFileName":"Valkrana's Spellbook for Korean","nexusFileVersion":"3.01.04","nexusFileUploadedAt":1788757322,"pakFileName":"Valkrana's Spellbook_kr.pak","nexusFileId":129926,"metaUuid":"5dff0c87-e4b7-4feb-9acb-aed07ff9daa1"}
+{"nexusFileName":"Valkrana's Spellbook for Korean","nexusFileVersion":"3.01.07","nexusFileUploadedAt":1791443345,"pakFileName":"Valkrana's Spellbook_kr.pak","nexusFileId":132374,"metaUuid":"5dff0c87-e4b7-4feb-9acb-aed07ff9daa1"}
 ]},
 "20456":{"nexusModName":"Valkrana's Spellbook - 17 New Necromancy Spells for Japanese","nexusUploadedBy":"Eolaloe","nexusModId":20456,"paks":[
 {"nexusFileName":"Valkrana's Impart Undeath Feat for Japanese","nexusFileVersion":"1.01.00","nexusFileUploadedAt":1773305098,"pakFileName":"Valkrana's Impart Undeath Feat_jp.pak","nexusFileId":116593,"metaUuid":null},
-{"nexusFileName":"Valkrana's Spellbook for Japanese","nexusFileVersion":"3.01.04","nexusFileUploadedAt":1788757391,"pakFileName":"Valkrana's Spellbook_jp.pak","nexusFileId":129927,"metaUuid":null}
+{"nexusFileName":"Valkrana's Spellbook for Japanese","nexusFileVersion":"3.01.07","nexusFileUploadedAt":1791443375,"pakFileName":"Valkrana's Spellbook_jp.pak","nexusFileId":132375,"metaUuid":null}
 ]},
 "20457":{"nexusModName":"Purple Dragon Knight - PT PORTUGAL","nexusUploadedBy":"MarcoBabo","nexusModId":20457,"paks":[
 {"nexusFileName":"Purple Dragon Knight - PT PORTUGAL","nexusFileVersion":"1","nexusFileUploadedAt":1767346788,"pakFileName":"PurpleDragonKnight2024PORTUGAL.pak","nexusFileId":110926,"metaUuid":null}
@@ -57540,7 +57540,7 @@
 {"nexusFileName":"HBBladeCantrips_CHS","nexusFileVersion":"1.0.0.1","nexusFileUploadedAt":1767504927,"pakFileName":"HBBladeCantrips_CHS.pak","nexusFileId":111076,"metaUuid":null}
 ]},
 "20492":{"nexusModName":"chizfreak's Bladesinger DnD 5R PHB2024 Changes for Japanese","nexusUploadedBy":"Eolaloe","nexusModId":20492,"paks":[
-{"nexusFileName":"Bladesinger DnD 5R PHB2024 Changes for Japanese","nexusFileVersion":"2.4.3","nexusFileUploadedAt":1775449796,"pakFileName":"BladesingerDnD5R_jp.pak","nexusFileId":118223,"metaUuid":null}
+{"nexusFileName":"Bladesinger DnD 5R PHB2024 Changes for Japanese","nexusFileVersion":"2.6.0","nexusFileUploadedAt":1791444136,"pakFileName":"BladesingerDnD5R_jp.pak","nexusFileId":132389,"metaUuid":null}
 ]},
 "20493":{"nexusModName":"Progression Preview - Full Class Progressions Shown Ingame for Japanese","nexusUploadedBy":"Eolaloe","nexusModId":20493,"paks":[
 {"nexusFileName":"Progression Preview for Japanese","nexusFileVersion":"1.3.0.1","nexusFileUploadedAt":1781096068,"pakFileName":"ProgressionPreview_jp.pak","nexusFileId":123280,"metaUuid":null}
@@ -57655,10 +57655,10 @@
 {"nexusFileName":"Valkrana's Skeleton Crew for Japanese","nexusFileVersion":"1.29.00","nexusFileUploadedAt":1779276753,"pakFileName":"Valkrana's Skeleton Crew_jp.pak","nexusFileId":121766,"metaUuid":null}
 ]},
 "20533":{"nexusModName":"Valkrana's Undead Encounters - New Bosses Fights Items and Allies - Including Act 3 for Korean","nexusUploadedBy":"Eolaloe","nexusModId":20533,"paks":[
-{"nexusFileName":"Valkrana's Undead Encounters for Korean","nexusFileVersion":"1.12.02","nexusFileUploadedAt":1788187591,"pakFileName":"Valkrana's Undead Encounters_kr.pak","nexusFileId":129445,"metaUuid":"f0353830-181e-4a62-8754-7d6c6a7f9827"}
+{"nexusFileName":"Valkrana's Undead Encounters for Korean","nexusFileVersion":"1.13.03","nexusFileUploadedAt":1791443248,"pakFileName":"Valkrana's Undead Encounters_kr.pak","nexusFileId":132372,"metaUuid":"f0353830-181e-4a62-8754-7d6c6a7f9827"}
 ]},
 "20534":{"nexusModName":"Valkrana's Undead Encounters - New Bosses Fights Items and Allies - Including Act 3 for Japanese","nexusUploadedBy":"Eolaloe","nexusModId":20534,"paks":[
-{"nexusFileName":"Valkrana's Undead Encounters for Japanese","nexusFileVersion":"1.12.02","nexusFileUploadedAt":1788187622,"pakFileName":"Valkrana's Undead Encounters_jp.pak","nexusFileId":129446,"metaUuid":null}
+{"nexusFileName":"Valkrana's Undead Encounters for Japanese","nexusFileVersion":"1.13.03","nexusFileUploadedAt":1791443281,"pakFileName":"Valkrana's Undead Encounters_jp.pak","nexusFileId":132373,"metaUuid":null}
 ]},
 "20535":{"nexusModName":"Ultimate Cut Content Restoration Mod for Korean","nexusUploadedBy":"Eolaloe","nexusModId":20535,"paks":[
 {"nexusFileName":"Ultimate Cut Content Restoration Mod for Korean","nexusFileVersion":"1.8.3.16","nexusFileUploadedAt":1789098565,"pakFileName":"Ultimate Cut Content Restoration Mod_kr.pak","nexusFileId":130247,"metaUuid":"b310481f-242d-43de-9dea-7b0babfd2e3d"}
@@ -58098,13 +58098,13 @@
 {"nexusFileName":"5e Magic Items CH Localization","nexusFileVersion":"1.5.0.7","nexusFileUploadedAt":1768206147,"pakFileName":"_5eMagicItems_CH_Loc.pak","nexusFileId":111994,"metaUuid":null}
 ]},
 "20655":{"nexusModName":"Goon's Library - Passives Functions Spells and More for Japanese","nexusUploadedBy":"Eolaloe","nexusModId":20655,"paks":[
-{"nexusFileName":"Goon's Library - Passives Functions for Japanese","nexusFileVersion":"4.17.1.0","nexusFileUploadedAt":1785749036,"pakFileName":"Goon's Library_jp.pak","nexusFileId":127187,"metaUuid":null}
+{"nexusFileName":"Goon's Library - Passives Functions for Japanese","nexusFileVersion":"4.28.1.0","nexusFileUploadedAt":1791444006,"pakFileName":"Goon's Library_jp.pak","nexusFileId":132387,"metaUuid":null}
 ]},
 "20656":{"nexusModName":"Goon's Paladin Overhaul for Japanese","nexusUploadedBy":"Eolaloe","nexusModId":20656,"paks":[
 {"nexusFileName":"Goon's Paladin Overhaul for Japanese","nexusFileVersion":"1.2.0.0","nexusFileUploadedAt":1788106168,"pakFileName":"Goon's Paladin Overhaul_jp.pak","nexusFileId":129347,"metaUuid":null}
 ]},
 "20657":{"nexusModName":"Goon's Rogue Overhaul for Japanese","nexusUploadedBy":"Eolaloe","nexusModId":20657,"paks":[
-{"nexusFileName":"Goon's Rogue Overhaul for Japanese","nexusFileVersion":"2.1.0.1","nexusFileUploadedAt":1786949210,"pakFileName":"Goon's Rogue Overhaul_jp.pak","nexusFileId":128256,"metaUuid":null}
+{"nexusFileName":"Goon's Rogue Overhaul for Japanese","nexusFileVersion":"2.2.2.0","nexusFileUploadedAt":1791443812,"pakFileName":"Goon's Rogue Overhaul_jp.pak","nexusFileId":132383,"metaUuid":null}
 ]},
 "20658":{"nexusModName":"Goon's Cleric Overhaul for Japanese","nexusUploadedBy":"Eolaloe","nexusModId":20658,"paks":[
 {"nexusFileName":"Goon's Cleric Overhaul for Japanese","nexusFileVersion":"1.0.6.0","nexusFileUploadedAt":1785755731,"pakFileName":"Goon's Cleric Overhaul_jp.pak","nexusFileId":127207,"metaUuid":null}
@@ -58723,7 +58723,7 @@
 {"nexusFileName":"Rebalance - Level 3 Spells for Japanese","nexusFileVersion":"1.1.6-1","nexusFileUploadedAt":1779343595,"pakFileName":"Rebalance_Lvl3_Spells_jp.pak","nexusFileId":121816,"metaUuid":null}
 ]},
 "20888":{"nexusModName":"Syrchalis's Rebalance - Level 4 Spells for Japanese","nexusUploadedBy":"Eolaloe","nexusModId":20888,"paks":[
-{"nexusFileName":"Rebalance - Level 4 Spells for Japanese","nexusFileVersion":"1.1.2-1","nexusFileUploadedAt":1779383465,"pakFileName":"Rebalance_Lvl4_Spells_jp.pak","nexusFileId":121842,"metaUuid":null}
+{"nexusFileName":"Rebalance - Level 4 Spells for Japanese","nexusFileVersion":"1.1.4","nexusFileUploadedAt":1791443587,"pakFileName":"Rebalance_Lvl4_Spells_jp.pak","nexusFileId":132379,"metaUuid":null}
 ]},
 "20889":{"nexusModName":"Syrchalis's Rebalance - Level 5 Spells for Japanese","nexusUploadedBy":"Eolaloe","nexusModId":20889,"paks":[
 {"nexusFileName":"Rebalance - Level 5 Spells for Japanese","nexusFileVersion":"1.0.3-1","nexusFileUploadedAt":1779409454,"pakFileName":"Rebalance_Lvl5_Spells_jp.pak","nexusFileId":121859,"metaUuid":null}
@@ -58732,7 +58732,7 @@
 {"nexusFileName":"Rebalance - Level 6 Spells for Japanese","nexusFileVersion":"1.0.8-1","nexusFileUploadedAt":1779411187,"pakFileName":"Rebalance_Lvl6_Spells_jp.pak","nexusFileId":121862,"metaUuid":null}
 ]},
 "20891":{"nexusModName":"Syrchalis's Rebalance - Class Spells for Japanese","nexusUploadedBy":"Eolaloe","nexusModId":20891,"paks":[
-{"nexusFileName":"Rebalance - Class Spells for Japanese","nexusFileVersion":"1.0.9","nexusFileUploadedAt":1779336965,"pakFileName":"Rebalance_ClassSpells_jp.pak","nexusFileId":121809,"metaUuid":null}
+{"nexusFileName":"Rebalance - Class Spells for Japanese","nexusFileVersion":"1.0.11","nexusFileUploadedAt":1791443515,"pakFileName":"Rebalance_ClassSpells_jp.pak","nexusFileId":132377,"metaUuid":null}
 ]},
 "20892":{"nexusModName":"Syrchalis's Rebalance - Common Effects for Japanese","nexusUploadedBy":"Eolaloe","nexusModId":20892,"paks":[
 {"nexusFileName":"Rebalance - Common Effects for Japanese","nexusFileVersion":"1.0.13","nexusFileUploadedAt":1779448122,"pakFileName":"Rebalance_CommonEffects_jp.pak","nexusFileId":121922,"metaUuid":null}
@@ -62519,10 +62519,10 @@
 {"nexusFileName":"Druid Quality of Life for Japanese","nexusFileVersion":"2.4.11","nexusFileUploadedAt":1779013738,"pakFileName":"Druid_QoL_jp.pak","nexusFileId":121428,"metaUuid":null}
 ]},
 "22209":{"nexusModName":"Syrchalis's Druid Wildshape Viability for Korean","nexusUploadedBy":"Eolaloe","nexusModId":22209,"paks":[
-{"nexusFileName":"Druid Wildshape Viability for Korean","nexusFileVersion":"1.3.9","nexusFileUploadedAt":1774862334,"pakFileName":"WildShape_Viability_kr.pak","nexusFileId":117801,"metaUuid":"5364376e-d0e3-4cac-ba64-4ced5616ea65"}
+{"nexusFileName":"Druid Wildshape Viability for Korean","nexusFileVersion":"1.3.11","nexusFileUploadedAt":1791443654,"pakFileName":"WildShape_Viability_kr.pak","nexusFileId":132380,"metaUuid":"5364376e-d0e3-4cac-ba64-4ced5616ea65"}
 ]},
 "22210":{"nexusModName":"Syrchalis's Druid Wildshape Viability for Japanese","nexusUploadedBy":"Eolaloe","nexusModId":22210,"paks":[
-{"nexusFileName":"Druid Wildshape Viability for Japanese","nexusFileVersion":"1.3.9","nexusFileUploadedAt":1774862336,"pakFileName":"WildShape_Viability_jp.pak","nexusFileId":117802,"metaUuid":null}
+{"nexusFileName":"Druid Wildshape Viability for Japanese","nexusFileVersion":"1.3.11","nexusFileUploadedAt":1791443692,"pakFileName":"WildShape_Viability_jp.pak","nexusFileId":132381,"metaUuid":null}
 ]},
 "22211":{"nexusModName":"Syrchalis's Druid Perfection for Korean","nexusUploadedBy":"Eolaloe","nexusModId":22211,"paks":[
 {"nexusFileName":"Druid Perfection for Korean","nexusFileVersion":"1.2.5","nexusFileUploadedAt":1774862752,"pakFileName":"Druid_Perfection_kr.pak","nexusFileId":117804,"metaUuid":"b27fbead-abc1-4eea-ad64-ecb47ea1106b"}
@@ -63915,7 +63915,7 @@
 {"nexusFileName":"OathOfResistance-PaladinSubclass","nexusFileVersion":"1.0.0.29","nexusFileUploadedAt":1778003829,"pakFileName":"OathOfResistance_37f043a1-d1a9-98d6-100a-836adf131886.pak","nexusFileId":120607,"metaUuid":"37f043a1-d1a9-98d6-100a-836adf131886"}
 ]},
 "22729":{"nexusModName":"chizfreak's Warlock and Patrons DnD 5R PHB2024 for Korean","nexusUploadedBy":"Eolaloe","nexusModId":22729,"paks":[
-{"nexusFileName":"Warlock and Patrons DnD 5R PHB2024 for Korean","nexusFileVersion":"5.3.6","nexusFileUploadedAt":1788183238,"pakFileName":"WarlockAndPatronsPHB2024_kr.pak","nexusFileId":129434,"metaUuid":null}
+{"nexusFileName":"Warlock and Patrons DnD 5R PHB2024 for Korean","nexusFileVersion":"5.5.0","nexusFileUploadedAt":1791444206,"pakFileName":"WarlockAndPatronsPHB2024_kr.pak","nexusFileId":132390,"metaUuid":null}
 ]},
 "22730":{"nexusModName":"No Persistent Sold Items","nexusUploadedBy":"steinsgatesx","nexusModId":22730,"paks":[
 {"nexusFileName":"No Persistent Sold Items","nexusFileVersion":"1","nexusFileUploadedAt":1778013192,"pakFileName":"No Persistent Sold Items.pak","nexusFileId":120615,"metaUuid":"f953a920-637b-4a57-91bf-7d5a0143cc8d"}
