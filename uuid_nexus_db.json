@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-10-08T20:52:34.728687+00:00","total_mods":18076},
+{"_meta":{"last_run":"2026-10-08T21:52:56.679483+00:00","total_mods":18078},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -18143,7 +18143,7 @@
 {"nexusFileName":"Relaxed Leathers","nexusFileVersion":"1","nexusFileUploadedAt":1704667973,"pakFileName":"RelaxedLeathers.pak","nexusFileId":38619,"metaUuid":"4115305f-1809-400e-ad80-985abac542fe"}
 ]},
 "5755":{"nexusModName":"Rebalance - Common Effects","nexusUploadedBy":"Syrchalis","nexusModId":5755,"paks":[
-{"nexusFileName":"Rebalance - Common Effects","nexusFileVersion":"1.0.13","nexusFileUploadedAt":1779056180,"pakFileName":"Rebalance_CommonEffects.pak","nexusFileId":121503,"metaUuid":"58e080fe-4a02-46c0-beba-5ef16c992197"}
+{"nexusFileName":"Rebalance - Common Effects","nexusFileVersion":"1.0.14","nexusFileUploadedAt":1791496085,"pakFileName":"Rebalance_CommonEffects.pak","nexusFileId":132429,"metaUuid":"58e080fe-4a02-46c0-beba-5ef16c992197"}
 ]},
 "5759":{"nexusModName":"Twili's Divine Wardrobe for Celestial Bodies PATCH 6 ONLY","nexusUploadedBy":"Twiliunicorn","nexusModId":5759,"paks":[
 {"nexusFileName":"Divine Wardrobe","nexusFileVersion":"1.0","nexusFileUploadedAt":1704683602,"pakFileName":"DivineWardrobe.pak","nexusFileId":38682,"metaUuid":null}
@@ -54947,10 +54947,10 @@
 {"nexusFileName":"DnD Expanded CHS XD","nexusFileVersion":"1.5.2.150","nexusFileUploadedAt":1763940918,"pakFileName":"DnD_ExpandedCHSXD.pak","nexusFileId":108008,"metaUuid":null}
 ]},
 "19790":{"nexusModName":"Cahoot's Absolute's Laboratory Config","nexusUploadedBy":"Cahooots","nexusModId":19790,"paks":[
-{"nexusFileName":"CahootLabConfig Dependencies 2","nexusFileVersion":"2.0.0","nexusFileUploadedAt":1783105253,"pakFileName":"CahootLabConfig_Dependencies_2.pak","nexusFileId":124807,"metaUuid":"40f67820-a2d1-4049-a121-66d74a4a35f2"},
-{"nexusFileName":"CahootLabConfig Dependencies 1","nexusFileVersion":"2.0.0","nexusFileUploadedAt":1783107377,"pakFileName":"CahootLabConfig_Dependencies_1.pak","nexusFileId":124809,"metaUuid":"0865ac2a-7ab7-4200-aec5-955ffccb5aa7"},
-{"nexusFileName":"Cahoot's Lab Config (5 Party)","nexusFileVersion":"2.1.2","nexusFileUploadedAt":1790112675,"pakFileName":"CahootLabConfig_5Party.pak","nexusFileId":131160,"metaUuid":"6fcd359f-9326-4502-ab3e-6a925629bb67"},
-{"nexusFileName":"Cahoot's Lab Config (4 Party)","nexusFileVersion":"2.1.2","nexusFileUploadedAt":1790112697,"pakFileName":"CahootLabConfig_4Party.pak","nexusFileId":131161,"metaUuid":"bed00e2c-7588-49fc-ac58-263619bcab5f"}
+{"nexusFileName":"Cahoot's Lab Config (4 Party)","nexusFileVersion":"2.1.3","nexusFileUploadedAt":1791492980,"pakFileName":"CahootLabConfig_4Party.pak","nexusFileId":132423,"metaUuid":"bed00e2c-7588-49fc-ac58-263619bcab5f"},
+{"nexusFileName":"Cahoot's Lab Config (5 Party)","nexusFileVersion":"2.1.3","nexusFileUploadedAt":1791492987,"pakFileName":"CahootLabConfig_5Party.pak","nexusFileId":132424,"metaUuid":"6fcd359f-9326-4502-ab3e-6a925629bb67"},
+{"nexusFileName":"CahootLabConfig Dependencies 1","nexusFileVersion":"2.1.3","nexusFileUploadedAt":1791492996,"pakFileName":"CahootLabConfig_Dependencies_1.pak","nexusFileId":132425,"metaUuid":"0865ac2a-7ab7-4200-aec5-955ffccb5aa7"},
+{"nexusFileName":"CahootLabConfig Dependencies 2","nexusFileVersion":"2.1.3","nexusFileUploadedAt":1791493005,"pakFileName":"CahootLabConfig_Dependencies_2.pak","nexusFileId":132426,"metaUuid":"40f67820-a2d1-4049-a121-66d74a4a35f2"}
 ]},
 "19791":{"nexusModName":"Aufelle's Boudoir Pose Pack","nexusUploadedBy":"AufelleClauvellan","nexusModId":19791,"paks":[
 {"nexusFileName":"Aufelle's Boudoir Pose Pack","nexusFileVersion":"1.0.0.19","nexusFileUploadedAt":1764812751,"pakFileName":"AufBoudoirPosePack_6414c2f9-3ee7-9129-667a-dc195aa6ad53.pak","nexusFileId":108808,"metaUuid":"6414c2f9-3ee7-9129-667a-dc195aa6ad53"}
@@ -71374,4 +71374,10 @@
 ]},
 "25658":{"nexusModName":"Skip to Act 3 Fully Prepared","nexusUploadedBy":"yoonmoonsik43","nexusModId":25658,"paks":[
 {"nexusFileName":"Act3yms 16e63154 B78c 7379 A9f 8g2w","nexusFileVersion":"1","nexusFileUploadedAt":1791482904,"pakFileName":"ACT3YMS_16e63154-b78c-7379-a9f0-4390df4d08f0.pak","nexusFileId":132414,"metaUuid":null}
+]},
+"25661":{"nexusModName":"AoE Buffs - Party Bubble","nexusUploadedBy":"Souiig","nexusModId":25661,"paks":[
+{"nexusFileName":"AoEBuffs PartyBubble","nexusFileVersion":"1","nexusFileUploadedAt":1791493901,"pakFileName":"AoEBuffs_PartyBubble_souig.pak","nexusFileId":132427,"metaUuid":null}
+]},
+"25662":{"nexusModName":"Dispel Spell Buffs","nexusUploadedBy":"Souiig","nexusModId":25662,"paks":[
+{"nexusFileName":"DispelSpellBuffs","nexusFileVersion":"1","nexusFileUploadedAt":1791494906,"pakFileName":"DispelSpellBuffs_souig.pak","nexusFileId":132428,"metaUuid":null}
 ]}}
