@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-10-09T01:52:42.033925+00:00","total_mods":18079},
+{"_meta":{"last_run":"2026-10-09T02:53:08.528117+00:00","total_mods":18081},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -63442,7 +63442,7 @@
 {"nexusFileName":"GamblerEquipment","nexusFileVersion":"1","nexusFileUploadedAt":1776997638,"pakFileName":"Gambler_aa2e2386-9ada-c14d-3c09-3f3e32924220.pak","nexusFileId":119769,"metaUuid":null}
 ]},
 "22544":{"nexusModName":"Party Weight Redistribution","nexusUploadedBy":"Volitio","nexusModId":22544,"paks":[
-{"nexusFileName":"Party Weight Redistribution 1.0.0","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1777236736,"pakFileName":"Party Weight Redistribution.pak","nexusFileId":119959,"metaUuid":"3e03a419-6568-4c12-ba0f-5baf7c307cd7"}
+{"nexusFileName":"Party Weight Redistribution","nexusFileVersion":"1.2.0","nexusFileUploadedAt":1791513223,"pakFileName":"Party Weight Redistribution.pak","nexusFileId":132439,"metaUuid":"3e03a419-6568-4c12-ba0f-5baf7c307cd7"}
 ]},
 "22545":{"nexusModName":"Bloodrager Class_KOR","nexusUploadedBy":"Ahdarugo","nexusModId":22545,"paks":[
 {"nexusFileName":"BloodragerClass_KOR","nexusFileVersion":"1.0.0.1","nexusFileUploadedAt":1777007841,"pakFileName":"BloodragerClass_KOR_cfcec709-9698-4706-a4a6-8e165eefa263.pak","nexusFileId":119776,"metaUuid":null}
@@ -70408,7 +70408,7 @@
 {"nexusFileName":"SGT GaleEdit (RUS)","nexusFileVersion":"1","nexusFileUploadedAt":1790173672,"pakFileName":"SGT_GaleEdit_2b2df18b-ad91-79fb-882c-2c1813f0a313_RUS.pak","nexusFileId":131231,"metaUuid":"8c779a61-ba43-48f6-a009-e945a9eb53f8"}
 ]},
 "25242":{"nexusModName":"Bhaal's Forgotten Son - Dark Urge Lore Expansion (Russian Translate)","nexusUploadedBy":"SexSux","nexusModId":25242,"paks":[
-{"nexusFileName":"Bhaal's Forgotten Son (RUS)","nexusFileVersion":"1.1.5","nexusFileUploadedAt":1791168047,"pakFileName":"hold_on_2ec64c1b-f0e2-d572-c5da-78e09a4ebc08_RUS.pak","nexusFileId":132137,"metaUuid":null}
+{"nexusFileName":"Bhaal's Forgotten Son (RUS)","nexusFileVersion":"1.1.7","nexusFileUploadedAt":1791513580,"pakFileName":"BhaalsForgottenSon_RUS.pak","nexusFileId":132440,"metaUuid":null}
 ]},
 "25243":{"nexusModName":"Song and Steel - Bard Equipment - Russian Translation 1.0.0.9","nexusUploadedBy":"SNKmod777","nexusModId":25243,"paks":[
 {"nexusFileName":"SS Bard Equipment RU","nexusFileVersion":"1.0.0.3","nexusFileUploadedAt":1790178228,"pakFileName":"SS_Bard_Equipment_RU.pak","nexusFileId":131234,"metaUuid":null}
@@ -71383,4 +71383,10 @@
 ]},
 "25662":{"nexusModName":"Dispel Spell Buffs","nexusUploadedBy":"Souiig","nexusModId":25662,"paks":[
 {"nexusFileName":"DispelSpellBuffs","nexusFileVersion":"1","nexusFileUploadedAt":1791494906,"pakFileName":"DispelSpellBuffs_souig.pak","nexusFileId":132428,"metaUuid":"a3c95e10-6f2d-4b87-9e41-d20b7f5c8e93"}
+]},
+"25664":{"nexusModName":"Sorcerer Subclass - Blademind","nexusUploadedBy":"Sw1shyFishy","nexusModId":25664,"paks":[
+{"nexusFileName":"Blademind Subclass","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1791511015,"pakFileName":"SwishyFishy_SorcererSubclass.pak","nexusFileId":132437,"metaUuid":null}
+]},
+"25666":{"nexusModName":"Ascended Astarion Romance Edits","nexusUploadedBy":"littlehouseofimagination","nexusModId":25666,"paks":[
+{"nexusFileName":"HG AstarionRomanceEdit","nexusFileVersion":"1","nexusFileUploadedAt":1791512597,"pakFileName":"HG_AstarionRomanceEdits_d1a5df18-2920-93c5-72de-4e1ac3e6edad.pak","nexusFileId":132438,"metaUuid":null}
 ]}}
