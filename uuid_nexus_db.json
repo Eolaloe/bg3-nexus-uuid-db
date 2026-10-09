@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-10-09T03:52:39.990683+00:00","total_mods":18081},
+{"_meta":{"last_run":"2026-10-09T04:52:39.770822+00:00","total_mods":18084},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -70103,7 +70103,7 @@
 {"nexusFileName":"Partial Respec for Japanese","nexusFileVersion":"1.0.1","nexusFileUploadedAt":1789796032,"pakFileName":"Partial Respec_jp.pak","nexusFileId":130858,"metaUuid":null}
 ]},
 "25119":{"nexusModName":"Wearable Vanilla Rings and Amulets","nexusUploadedBy":"BittenThrice","nexusModId":25119,"paks":[
-{"nexusFileName":"VanillaTreasureWearable","nexusFileVersion":"1.0.22","nexusFileUploadedAt":1790571243,"pakFileName":"VanillaTreasureWearable.pak","nexusFileId":131628,"metaUuid":"f49183d1-9d09-57c2-c48c-007269b1b424"}
+{"nexusFileName":"VanillaTreasureWearable","nexusFileVersion":"1.0.23","nexusFileUploadedAt":1791518028,"pakFileName":"VanillaTreasureWearable_f49183d1-9d09-57c2-c48c-007269b1b424.pak","nexusFileId":132443,"metaUuid":null}
 ]},
 "25120":{"nexusModName":"Nioh - Mumyo and Tokichiro's wardrobe","nexusUploadedBy":"Bububull","nexusModId":25120,"paks":[
 {"nexusFileName":"Nioh - Mumyo and Tokichiro's wardrobe","nexusFileVersion":"1","nexusFileUploadedAt":1790191261,"pakFileName":"Nioh_ports.pak","nexusFileId":131250,"metaUuid":"53faea7e-09dd-4acb-98fb-066c43a4b5e8"}
@@ -71389,4 +71389,14 @@
 ]},
 "25666":{"nexusModName":"Ascended Astarion Romance Edits","nexusUploadedBy":"littlehouseofimagination","nexusModId":25666,"paks":[
 {"nexusFileName":"HG AstarionRomanceEdit","nexusFileVersion":"1","nexusFileUploadedAt":1791512597,"pakFileName":"HG_AstarionRomanceEdits_d1a5df18-2920-93c5-72de-4e1ac3e6edad.pak","nexusFileId":132438,"metaUuid":null}
+]},
+"25668":{"nexusModName":"Chivalry - Redux","nexusUploadedBy":"nexuspaladin","nexusModId":25668,"paks":[
+{"nexusFileName":"Chivalry - Redux","nexusFileVersion":"1.0.1","nexusFileUploadedAt":1791518701,"pakFileName":"Chivalry - Expansion Redux.pak","nexusFileId":132447,"metaUuid":null}
+]},
+"25669":{"nexusModName":"Viethoa canh cut team - Fix Tri mang into Chi mang","nexusUploadedBy":"minhanhcole2","nexusModId":25669,"paks":[
+{"nexusFileName":"ViethoaBG3","nexusFileVersion":"1","nexusFileUploadedAt":1791518088,"pakFileName":"English.pak","nexusFileId":132445,"metaUuid":null},
+{"nexusFileName":"ViethoaBG3","nexusFileVersion":"1","nexusFileUploadedAt":1791518088,"pakFileName":"English.pak","nexusFileId":132445,"metaUuid":null}
+]},
+"25670":{"nexusModName":"Three Kobolds in a trenchcoat","nexusUploadedBy":"hoppeduponcake","nexusModId":25670,"paks":[
+{"nexusFileName":"ThreeKoboldsInATrenchcoat V1.0.0","nexusFileVersion":"1","nexusFileUploadedAt":1791518262,"pakFileName":"ThreeKoboldsInATrenchcoat.pak","nexusFileId":132446,"metaUuid":null}
 ]}}
