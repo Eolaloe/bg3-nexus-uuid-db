@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-10-09T19:52:33.351170+00:00","total_mods":18089},
+{"_meta":{"last_run":"2026-10-09T20:52:15.741629+00:00","total_mods":18091},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -50700,11 +50700,11 @@
 {"nexusFileName":"Better Longswords","nexusFileVersion":"1.2","nexusFileUploadedAt":1756019942,"pakFileName":"BetterLongSwords.pak","nexusFileId":101352,"metaUuid":"f0f13c4c-3a55-4ce7-a81f-beefd574c3eb"}
 ]},
 "18252":{"nexusModName":"Immersive World Textures","nexusUploadedBy":"lexo1000","nexusModId":18252,"paks":[
-{"nexusFileName":"Immersive World Textures - Part 5 (Characters)","nexusFileVersion":"1.7","nexusFileUploadedAt":1779445614,"pakFileName":"Immersive World Textures - Part 5 (Characters).pak","nexusFileId":121915,"metaUuid":"0cccf67e-968c-4e3f-a6f5-1f51e62c01a3"},
-{"nexusFileName":"Immersive World Textures - Part 4 (Items)","nexusFileVersion":"1.7","nexusFileUploadedAt":1779445666,"pakFileName":"Immersive World Textures - Part 4 (Items).pak","nexusFileId":121916,"metaUuid":"ad7eeb90-e91c-4928-a650-b262eb4a0bcb"},
-{"nexusFileName":"Immersive World Textures - Part 3 (Effects)","nexusFileVersion":"1.7","nexusFileUploadedAt":1779445761,"pakFileName":"Immersive World Textures - Part 3 (Effects).pak","nexusFileId":121917,"metaUuid":"5ba065b2-146f-4e25-90bf-8a1be70b65b8"},
-{"nexusFileName":"Immersive World Textures - Part 2 (Architecture)","nexusFileVersion":"1.7","nexusFileUploadedAt":1779445872,"pakFileName":"Immersive World Textures - Part 2 (Architecture).pak","nexusFileId":121918,"metaUuid":"e93b924d-8b1b-4995-b9e9-8485f50f469c"},
-{"nexusFileName":"Immersive World Textures - Part 1 (Nature)","nexusFileVersion":"1.7","nexusFileUploadedAt":1779445961,"pakFileName":"Immersive World Textures - Part 1 (Nature).pak","nexusFileId":121919,"metaUuid":"5f1b9a96-fefd-45c2-ac9c-b93872bd44f1"}
+{"nexusFileName":"Immersive World Textures - Part 1 (Nature)","nexusFileVersion":"1.8","nexusFileUploadedAt":1791577856,"pakFileName":"Immersive World Textures - Part 1 (Nature).pak","nexusFileId":132521,"metaUuid":"5f1b9a96-fefd-45c2-ac9c-b93872bd44f1"},
+{"nexusFileName":"Immersive World Textures - Part 2 (Architecture)","nexusFileVersion":"1.8","nexusFileUploadedAt":1791577875,"pakFileName":"Immersive World Textures - Part 2 (Architecture).pak","nexusFileId":132522,"metaUuid":"e93b924d-8b1b-4995-b9e9-8485f50f469c"},
+{"nexusFileName":"Immersive World Textures - Part 3 (Effects)","nexusFileVersion":"1.8","nexusFileUploadedAt":1791577902,"pakFileName":"Immersive World Textures - Part 3 (Effects).pak","nexusFileId":132523,"metaUuid":"5ba065b2-146f-4e25-90bf-8a1be70b65b8"},
+{"nexusFileName":"Immersive World Textures - Part 4 (Items)","nexusFileVersion":"1.8","nexusFileUploadedAt":1791577917,"pakFileName":"Immersive World Textures - Part 4 (Items).pak","nexusFileId":132524,"metaUuid":"ad7eeb90-e91c-4928-a650-b262eb4a0bcb"},
+{"nexusFileName":"Immersive World Textures - Part 5 (Characters)","nexusFileVersion":"1.8","nexusFileUploadedAt":1791577939,"pakFileName":"Immersive World Textures - Part 5 (Characters).pak","nexusFileId":132525,"metaUuid":"0cccf67e-968c-4e3f-a6f5-1f51e62c01a3"}
 ]},
 "18253":{"nexusModName":"ChongWuJiHeCHS","nexusUploadedBy":"Cindrova","nexusModId":18253,"paks":[
 {"nexusFileName":"ChongWuJiHeCHS","nexusFileVersion":"0.0.1","nexusFileUploadedAt":1755687136,"pakFileName":"ChongWuJiHeCHS.pak","nexusFileId":101057,"metaUuid":null}
@@ -61323,7 +61323,8 @@
 {"nexusFileName":"The Viltrumite Race - Beard pack 01 Patch","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1774214907,"pakFileName":"The Viltrumite Race - Beard pack 01 Patch.pak","nexusFileId":117290,"metaUuid":null},
 {"nexusFileName":"The Viltrumite Race - Dagur and Guts Patch","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1774214956,"pakFileName":"The Viltrumite Race - Dagur and Guts Patch.pak","nexusFileId":117291,"metaUuid":"82ba604d-ab03-e9fe-4b57-44fd1a84f44e"},
 {"nexusFileName":"The Viltrumite Race - Unique Tav Patch","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1776196722,"pakFileName":"The Viltrumite Race - Unique Tav Patch.pak","nexusFileId":118994,"metaUuid":"84b99f05-f344-b529-4d98-87cb92ea5551"},
-{"nexusFileName":"The Viltrumite Race","nexusFileVersion":"1.2.2","nexusFileUploadedAt":1790428496,"pakFileName":"The Viltrumite Race.pak","nexusFileId":131444,"metaUuid":"4ba1b7ec-7edb-1e49-42f7-fd9adb6f245b"}
+{"nexusFileName":"The Viltrumite Race","nexusFileVersion":"1.2.2","nexusFileUploadedAt":1790428496,"pakFileName":"The Viltrumite Race.pak","nexusFileId":131444,"metaUuid":"4ba1b7ec-7edb-1e49-42f7-fd9adb6f245b"},
+{"nexusFileName":"The Viltrumite Race - Balanced - BETA","nexusFileVersion":"0.1","nexusFileUploadedAt":1791575930,"pakFileName":"[BETA] The Viltrumite Race - Balanced.pak","nexusFileId":132519,"metaUuid":null}
 ]},
 "21786":{"nexusModName":"Party Manager for Japanese","nexusUploadedBy":"Eolaloe","nexusModId":21786,"paks":[
 {"nexusFileName":"Party Manager for Japanese","nexusFileVersion":"4.3.8.8","nexusFileUploadedAt":1789651534,"pakFileName":"PartyManager_jp.pak","nexusFileId":130718,"metaUuid":null}
@@ -71228,6 +71229,9 @@
 "25595":{"nexusModName":"Ring of Moist Critikal","nexusUploadedBy":"MrD18","nexusModId":25595,"paks":[
 {"nexusFileName":"Ring Of Moist Critikal Mod","nexusFileVersion":"1","nexusFileUploadedAt":1791235745,"pakFileName":"Ring_of_Moist_Critikal_Mod_f4bcd36e_750b6e18-6542-44a5-8296-d9ca7dcc3fef.pak","nexusFileId":132198,"metaUuid":null}
 ]},
+"25596":{"nexusModName":"Voodoo Queen's Pact - A Sorcerer Subclass","nexusUploadedBy":"CarmillaNightstar","nexusModId":25596,"paks":[
+{"nexusFileName":"VoodooQueenSPact v1.0.0","nexusFileVersion":"1","nexusFileUploadedAt":1791245384,"pakFileName":"VoodooQueenSPact.pak","nexusFileId":132209,"metaUuid":null}
+]},
 "25597":{"nexusModName":"Mean Girls (and guys)","nexusUploadedBy":"rainbow1411","nexusModId":25597,"paks":[
 {"nexusFileName":"MeanGirls (and guys)","nexusFileVersion":"1","nexusFileUploadedAt":1791243059,"pakFileName":"MeanGirls_d2de1ec9-e5a8-7e49-7367-f254d57b0245.pak","nexusFileId":132206,"metaUuid":"d2de1ec9-e5a8-7e49-7367-f254d57b0245"}
 ]},
@@ -71425,4 +71429,7 @@
 ]},
 "25680":{"nexusModName":"Storm Sacrifice","nexusUploadedBy":"R4ng3x","nexusModId":25680,"paks":[
 {"nexusFileName":"Storm Sacrifice","nexusFileVersion":"1.1.1.0","nexusFileUploadedAt":1791568934,"pakFileName":"StormSacrifice.pak","nexusFileId":132499,"metaUuid":null}
+]},
+"25682":{"nexusModName":"Druid Quality of Life - Russian Translation 2.5.0","nexusUploadedBy":"SNKmod777","nexusModId":25682,"paks":[
+{"nexusFileName":"Druid QoL RU","nexusFileVersion":"1.0.0.1","nexusFileUploadedAt":1791576100,"pakFileName":"Druid_QoL_RU.pak","nexusFileId":132520,"metaUuid":null}
 ]}}
