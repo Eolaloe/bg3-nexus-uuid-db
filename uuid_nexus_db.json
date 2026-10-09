@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-10-09T12:52:44.797149+00:00","total_mods":18084},
+{"_meta":{"last_run":"2026-10-09T13:52:36.332238+00:00","total_mods":18086},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -57200,7 +57200,7 @@
 {"nexusFileName":"Ultimate Cut Content Backgrounds Add-On","nexusFileVersion":"1.1.0.0","nexusFileUploadedAt":1771029840,"pakFileName":"Ultimate Cut Content Backgrounds Add-On.pak","nexusFileId":114783,"metaUuid":"6d2cb058-7ae5-4bd1-b5d3-d9b344e2a06e"},
 {"nexusFileName":"Ultimate Cut Content Tutorial Chest Add-On","nexusFileVersion":"1.0.0.4","nexusFileUploadedAt":1773068061,"pakFileName":"Ultimate Cut Content Tutorial Chest Add-On.pak","nexusFileId":116368,"metaUuid":"e8124590-187b-4ef0-9386-372097ad749e"},
 {"nexusFileName":"Ultimate Cut Content Class Race Add-On","nexusFileVersion":"1.2.1","nexusFileUploadedAt":1788729042,"pakFileName":"Ultimate Cut Content Class Race Add-On.pak","nexusFileId":129907,"metaUuid":"bca66f69-3604-4233-9ce7-5c4d403f721e"},
-{"nexusFileName":"Ultimate Cut Content Restoration Mod","nexusFileVersion":"1.8.21","nexusFileUploadedAt":1789425412,"pakFileName":"Ultimate Cut Content Restoration Mod.pak","nexusFileId":130537,"metaUuid":"296545d8-50a9-4e5f-83f2-d5e5ba52ee4b"}
+{"nexusFileName":"Ultimate Cut Content Restoration Mod","nexusFileVersion":"1.8.22","nexusFileUploadedAt":1791552724,"pakFileName":"Ultimate Cut Content Restoration Mod.pak","nexusFileId":132480,"metaUuid":"296545d8-50a9-4e5f-83f2-d5e5ba52ee4b"}
 ]},
 "20355":{"nexusModName":"Forged in Cania - Mace and Shield Set","nexusUploadedBy":"ForKiramay","nexusModId":20355,"paks":[
 {"nexusFileName":"Forged in Cania","nexusFileVersion":"1.0.0.6","nexusFileUploadedAt":1768442575,"pakFileName":"Nargus_9a17d47c-3076-679a-e6f0-c23f3fa4668b.pak","nexusFileId":112198,"metaUuid":"9a17d47c-3076-679a-e6f0-c23f3fa4668b"}
@@ -71253,7 +71253,7 @@
 {"nexusFileName":"CarianWeapons V1.5.7","nexusFileVersion":"1.5.7","nexusFileUploadedAt":1791298041,"pakFileName":"CarianWeapons_v1.5.7.pak","nexusFileId":132248,"metaUuid":"3f1d8527-8e42-4a14-898a-6e81fa2c5ea0"}
 ]},
 "25615":{"nexusModName":"The Slaughterer - Upgradable Handaxe (Russian Translate)","nexusUploadedBy":"SexSux","nexusModId":25615,"paks":[
-{"nexusFileName":"AxeExpansion  (RUS)","nexusFileVersion":"1.0","nexusFileUploadedAt":1791297841,"pakFileName":"AxeExpansion_2dad7dde-355e-20b2-1e13-9140381e0689_RUS.pak","nexusFileId":132247,"metaUuid":null}
+{"nexusFileName":"AxeExpansion  (RUS)","nexusFileVersion":"2","nexusFileUploadedAt":1791553495,"pakFileName":"AxeExpansion_2dad7dde-355e-20b2-1e13-9140381e0689_RUS.pak","nexusFileId":132483,"metaUuid":null}
 ]},
 "25616":{"nexusModName":"YOU WILL BE MINE POSE PACK (BT2xBT2_BT1xBT2) by badgrlsblog","nexusUploadedBy":"badgrlsblog","nexusModId":25616,"paks":[
 {"nexusFileName":"bgb ywbm Pose Pack BT2xBT2","nexusFileVersion":"1","nexusFileUploadedAt":1791386825,"pakFileName":"bgb_ywbm_pose_pack_BT2xBT2_32c718b1-184f-bc28-391e-bf84441d6d7c.pak","nexusFileId":132303,"metaUuid":null},
@@ -71400,4 +71400,10 @@
 ]},
 "25675":{"nexusModName":"Diving Attack Panty","nexusUploadedBy":"skottyshow","nexusModId":25675,"paks":[
 {"nexusFileName":"DivingStrikeUnderwear","nexusFileVersion":"1","nexusFileUploadedAt":1791543283,"pakFileName":"DivingStrikeUnderwear.pak","nexusFileId":132470,"metaUuid":null}
+]},
+"25677":{"nexusModName":"Create Arrows","nexusUploadedBy":"Recorder343","nexusModId":25677,"paks":[
+{"nexusFileName":"CreateArrows V1.0.0","nexusFileVersion":"1","nexusFileUploadedAt":1791553165,"pakFileName":"ArrowCreation.pak","nexusFileId":132481,"metaUuid":null}
+]},
+"25678":{"nexusModName":"Ring of Visual Statuses","nexusUploadedBy":"Quasarum","nexusModId":25678,"paks":[
+{"nexusFileName":"RingsOfVisualStatuses","nexusFileVersion":"1","nexusFileUploadedAt":1791553315,"pakFileName":"RingsOfVisualStatuses.pak","nexusFileId":132482,"metaUuid":null}
 ]}}
