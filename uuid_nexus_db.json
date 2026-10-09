@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-10-09T11:52:41.100828+00:00","total_mods":18084},
+{"_meta":{"last_run":"2026-10-09T12:52:44.797149+00:00","total_mods":18084},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -46793,7 +46793,7 @@
 {"nexusFileName":"ArtificerTweaks","nexusFileVersion":"1.4.2","nexusFileUploadedAt":1750073557,"pakFileName":"Artificer_47b2b8a0-637e-45dd-8adf-fd50a434f529.pak","nexusFileId":96011,"metaUuid":"47b2b8a0-637e-45dd-8adf-fd50a434f529"}
 ]},
 "16874":{"nexusModName":"Rebalance - Gear","nexusUploadedBy":"Syrchalis","nexusModId":16874,"paks":[
-{"nexusFileName":"Rebalance - Gear","nexusFileVersion":"1.0.17","nexusFileUploadedAt":1791400724,"pakFileName":"Rebalance_Gear_f324020f-de52-34ac-bb86-5974ade9d203.pak","nexusFileId":132321,"metaUuid":"f324020f-de52-34ac-bb86-5974ade9d203"}
+{"nexusFileName":"Rebalance - Gear","nexusFileVersion":"1.0.17.4","nexusFileUploadedAt":1791549665,"pakFileName":"Rebalance_Gear_f324020f-de52-34ac-bb86-5974ade9d203.pak","nexusFileId":132479,"metaUuid":"f324020f-de52-34ac-bb86-5974ade9d203"}
 ]},
 "16875":{"nexusModName":"ASE Modding - Tutorial Mod","nexusUploadedBy":"ase243","nexusModId":16875,"paks":[
 {"nexusFileName":"ase_squirrelsummon_5def8a38-79-2vod","nexusFileVersion":"1.0.0.11","nexusFileUploadedAt":1749136145,"pakFileName":"ASE_SquirrelSummon_5def8a38-7998-e2ca-66c1-85f7fc41c3ef.pak","nexusFileId":95128,"metaUuid":null}
@@ -67610,7 +67610,7 @@
 {"nexusFileName":"The Winding Way - Fey Labyrinth Mini Map","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1785579539,"pakFileName":"MGNTN_FeyLabyrinthMiniMap.pak","nexusFileId":127030,"metaUuid":"8fb09895-d74b-4717-b42a-48442201d403"}
 ]},
 "24215":{"nexusModName":"Vile Shapes","nexusUploadedBy":"Eyezzikk","nexusModId":24215,"paks":[
-{"nexusFileName":"VileShapes","nexusFileVersion":"1.011","nexusFileUploadedAt":1788546432,"pakFileName":"VileShapes_eb4075db-3b42-6593-4ae0-15bdda759070.pak","nexusFileId":129702,"metaUuid":"eb4075db-3b42-6593-4ae0-15bdda759070"}
+{"nexusFileName":"VileShapes","nexusFileVersion":"1.02","nexusFileUploadedAt":1791548825,"pakFileName":"VileShapes_eb4075db-3b42-6593-4ae0-15bdda759070.pak","nexusFileId":132478,"metaUuid":"eb4075db-3b42-6593-4ae0-15bdda759070"}
 ]},
 "24217":{"nexusModName":"Cavaleiro Feiticeiro PT-BR","nexusUploadedBy":"Linkzynn","nexusModId":24217,"paks":[
 {"nexusFileName":"Cavaleiro Feiticeiro Pt Br","nexusFileVersion":"2.0.0.7","nexusFileUploadedAt":1785586813,"pakFileName":"Weave_Bound_b3e71ef9-2d27-fdb4-dfb3-df552c151ac7.pak","nexusFileId":127035,"metaUuid":"b3e71ef9-2d27-fdb4-dfb3-df552c151ac7"}
@@ -71204,7 +71204,7 @@
 {"nexusFileName":"NPC Redesign - Zhentarim Hideout (Main File) (RUS)","nexusFileVersion":"1.3","nexusFileUploadedAt":1791216693,"pakFileName":"Aza_NPCre_ZhentarimHideout_77b57cd7-abca-f545-d39d-fae4667d5062_RUS.pak","nexusFileId":132180,"metaUuid":null}
 ]},
 "25589":{"nexusModName":"The Slaughterer - Upgradable Handaxe","nexusUploadedBy":"tpmomda","nexusModId":25589,"paks":[
-{"nexusFileName":"AxeExpansion","nexusFileVersion":"1","nexusFileUploadedAt":1791220965,"pakFileName":"AxeExpansion.pak","nexusFileId":132186,"metaUuid":"2dad7dde-355e-20b2-1e13-9140381e0689"}
+{"nexusFileName":"AxeExpansion","nexusFileVersion":"2","nexusFileUploadedAt":1791547649,"pakFileName":"AxeExpansion.pak","nexusFileId":132477,"metaUuid":"2dad7dde-355e-20b2-1e13-9140381e0689"}
 ]},
 "25591":{"nexusModName":"Sovereign's Spare Key","nexusUploadedBy":"Codeschubse","nexusModId":25591,"paks":[
 {"nexusFileName":"SovereignsSpareKey","nexusFileVersion":"1","nexusFileUploadedAt":1791234882,"pakFileName":"SovereignsSpareKey_9b0b76a8-ba83-0b1c-9074-cb714ca3ff41.pak","nexusFileId":132197,"metaUuid":"9b0b76a8-ba83-0b1c-9074-cb714ca3ff41"}
@@ -71396,7 +71396,7 @@
 {"nexusFileName":"Optional Kobold Face Presets V1.0.0","nexusFileVersion":"1","nexusFileUploadedAt":1791523445,"pakFileName":"TKIT_KoboldHeadDragonborn.pak","nexusFileId":132449,"metaUuid":null}
 ]},
 "25672":{"nexusModName":"Lucky Drop System","nexusUploadedBy":"FFFing","nexusModId":25672,"paks":[
-{"nexusFileName":"LuckyDropSystem 1.7.0.72","nexusFileVersion":"1.7.0.72","nexusFileUploadedAt":1791535712,"pakFileName":"LuckyLoot.pak","nexusFileId":132464,"metaUuid":null}
+{"nexusFileName":"LuckyDropSystem","nexusFileVersion":"1.7.0.75","nexusFileUploadedAt":1791546838,"pakFileName":"LuckyLoot.pak","nexusFileId":132476,"metaUuid":null}
 ]},
 "25675":{"nexusModName":"Diving Attack Panty","nexusUploadedBy":"skottyshow","nexusModId":25675,"paks":[
 {"nexusFileName":"DivingStrikeUnderwear","nexusFileVersion":"1","nexusFileUploadedAt":1791543283,"pakFileName":"DivingStrikeUnderwear.pak","nexusFileId":132470,"metaUuid":null}
