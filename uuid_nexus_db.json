@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-10-10T07:52:30.192470+00:00","total_mods":18095},
+{"_meta":{"last_run":"2026-10-10T08:51:58.813517+00:00","total_mods":18095},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -35985,7 +35985,7 @@
 ]},
 "12727":{"nexusModName":"DnD 5.5e All-in-One BEYOND","nexusUploadedBy":"yoonmoonsik43","nexusModId":12727,"paks":[
 {"nexusFileName":"dnd2024 - V3 Legacy","nexusFileVersion":"3.4.6.4","nexusFileUploadedAt":1771945305,"pakFileName":"DnD2024_897914ef-5c96-053c-44af-0be823f895fe.pak","nexusFileId":115523,"metaUuid":"897914ef-5c96-053c-44af-0be823f895fe"},
-{"nexusFileName":"DnD 5.5e All-in-One BEYOND","nexusFileVersion":"4.13.2.2","nexusFileUploadedAt":1791592831,"pakFileName":"DnD2024_897914ef-5c96-053c-44af-0be823f895fe.pak","nexusFileId":132540,"metaUuid":"897914ef-5c96-053c-44af-0be823f895fe"}
+{"nexusFileName":"DnD 5.5e All-in-One BEYOND","nexusFileVersion":"4.13.3.0","nexusFileUploadedAt":1791621165,"pakFileName":"DnD2024_897914ef-5c96-053c-44af-0be823f895fe.pak","nexusFileId":132565,"metaUuid":"897914ef-5c96-053c-44af-0be823f895fe"}
 ]},
 "12728":{"nexusModName":"Origin-Themed Headwear KR","nexusUploadedBy":"Soorawang","nexusModId":12728,"paks":[
 {"nexusFileName":"Origin-Themed Headwear KR","nexusFileVersion":"1.0","nexusFileUploadedAt":1727930331,"pakFileName":"OriginHeadwear_kr.pak","nexusFileId":73692,"metaUuid":null}
@@ -63207,7 +63207,7 @@
 {"nexusFileName":"Fatebond","nexusFileVersion":"1.4","nexusFileUploadedAt":1784576306,"pakFileName":"Fatebond.pak","nexusFileId":126087,"metaUuid":"6cfead1f-d54c-4dfb-bc94-05e9fc1e2970"}
 ]},
 "22459":{"nexusModName":"DnD 5.5e All-in-One BEYOND Russian Localization","nexusUploadedBy":"XapcT","nexusModId":22459,"paks":[
-{"nexusFileName":"DnD 5.5e AIO Russian v0.6.3.zip","nexusFileVersion":"0.6.3","nexusFileUploadedAt":1791594133,"pakFileName":"DnD 5.5e AIO Russian.pak","nexusFileId":132543,"metaUuid":"6401e84d-daf2-416d-adeb-99c03a2487a6"}
+{"nexusFileName":"DnD 5.5e AIO Russian v0.6.4.zip","nexusFileVersion":"0.6.4","nexusFileUploadedAt":1791622054,"pakFileName":"DnD 5.5e AIO Russian.pak","nexusFileId":132566,"metaUuid":"6401e84d-daf2-416d-adeb-99c03a2487a6"}
 ]},
 "22460":{"nexusModName":"Elementally Based Gear","nexusUploadedBy":"Useyourrifle","nexusModId":22460,"paks":[
 {"nexusFileName":"Elemental_Gear.7z","nexusFileVersion":"1","nexusFileUploadedAt":1776346340,"pakFileName":"OP_Bow_56032304-f037-e077-f5e7-045d2e03ef1c.pak","nexusFileId":119147,"metaUuid":"56032304-f037-e077-f5e7-045d2e03ef1c"}
@@ -71386,7 +71386,8 @@
 {"nexusFileName":"Shar's Portable Mirror","nexusFileVersion":"1.2","nexusFileUploadedAt":1791580056,"pakFileName":"Shar's Portable Mirror.pak","nexusFileId":132527,"metaUuid":null}
 ]},
 "25661":{"nexusModName":"AoE Buffs - Party Bubble","nexusUploadedBy":"Souiig","nexusModId":25661,"paks":[
-{"nexusFileName":"AoEBuffs PartyBubble 1.0.1","nexusFileVersion":"2","nexusFileUploadedAt":1791564382,"pakFileName":"AoEBuffs_PartyBubble(1).pak","nexusFileId":132495,"metaUuid":null}
+{"nexusFileName":"AoEBuffs PartyBubble 1.1.0","nexusFileVersion":"3","nexusFileUploadedAt":1791619287,"pakFileName":"AoEBuffs_PartyBubble 1.1.0.pak","nexusFileId":132563,"metaUuid":null},
+{"nexusFileName":"AoEBuffs PartyBubble Haste Addon","nexusFileVersion":"1","nexusFileUploadedAt":1791619304,"pakFileName":"AoEBuffs_PartyBubble_HasteAddon.pak","nexusFileId":132564,"metaUuid":null}
 ]},
 "25662":{"nexusModName":"Dispel Spell Buffs","nexusUploadedBy":"Souiig","nexusModId":25662,"paks":[
 {"nexusFileName":"DispelSpellBuffs","nexusFileVersion":"1","nexusFileUploadedAt":1791494906,"pakFileName":"DispelSpellBuffs_souig.pak","nexusFileId":132428,"metaUuid":"a3c95e10-6f2d-4b87-9e41-d20b7f5c8e93"}
