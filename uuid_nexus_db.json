@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-10-10T21:52:13.101343+00:00","total_mods":18106},
+{"_meta":{"last_run":"2026-10-10T22:52:14.379416+00:00","total_mods":18107},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -71380,7 +71380,7 @@
 {"nexusFileName":"Act3yms 16e63154 B78c 7379 A9f 8g2w","nexusFileVersion":"1","nexusFileUploadedAt":1791482904,"pakFileName":"ACT3YMS_16e63154-b78c-7379-a9f0-4390df4d08f0.pak","nexusFileId":132414,"metaUuid":null}
 ]},
 "25660":{"nexusModName":"Shar's Portable Mirror","nexusUploadedBy":"Sai","nexusModId":25660,"paks":[
-{"nexusFileName":"Shar's Portable Mirror","nexusFileVersion":"1.3","nexusFileUploadedAt":1791666149,"pakFileName":"Shar's Portable Mirror.pak","nexusFileId":132613,"metaUuid":null}
+{"nexusFileName":"Shar's Portable Mirror","nexusFileVersion":"1.4","nexusFileUploadedAt":1791671737,"pakFileName":"Shar's Portable Mirror.pak","nexusFileId":132617,"metaUuid":null}
 ]},
 "25661":{"nexusModName":"AoE Buffs - Party Bubble","nexusUploadedBy":"Souiig","nexusModId":25661,"paks":[
 {"nexusFileName":"AoEBuffs PartyBubble 1.1.0","nexusFileVersion":"3","nexusFileUploadedAt":1791619287,"pakFileName":"AoEBuffs_PartyBubble 1.1.0.pak","nexusFileId":132563,"metaUuid":null},
@@ -71480,4 +71480,7 @@
 ]},
 "25701":{"nexusModName":"Amonkhet - Ambition Domain - Cleric Subclass_VN","nexusUploadedBy":"THACHTHACH","nexusModId":25701,"paks":[
 {"nexusFileName":"AmbitionDomain VN","nexusFileVersion":"1","nexusFileUploadedAt":1791667594,"pakFileName":"AmbitionDomain_VN.pak","nexusFileId":132614,"metaUuid":null}
+]},
+"25702":{"nexusModName":"Partial Respec Fr","nexusUploadedBy":"moonreveur","nexusModId":25702,"paks":[
+{"nexusFileName":"PartialRespec 101 Fr","nexusFileVersion":"1.0.1","nexusFileUploadedAt":1791669609,"pakFileName":"PartialRespec_101_Fr.pak","nexusFileId":132616,"metaUuid":null}
 ]}}
