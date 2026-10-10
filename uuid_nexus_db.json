@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-10-10T17:52:31.959006+00:00","total_mods":18102},
+{"_meta":{"last_run":"2026-10-10T18:52:40.551817+00:00","total_mods":18104},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -69974,7 +69974,7 @@
 "25072":{"nexusModName":"His Majesty's Clothes","nexusUploadedBy":"bitterfigs","nexusModId":25072,"paks":[
 {"nexusFileName":"His Majesty's Clothes","nexusFileVersion":"1","nexusFileUploadedAt":1789630216,"pakFileName":"hismajestysclothes_f1b1912a-f937-ce0c-1b99-4e2a41f8604b.pak","nexusFileId":130699,"metaUuid":"f1b1912a-f937-ce0c-1b99-4e2a41f8604b"}
 ]},
-"25073":{"nexusModName":"LichClass-PortedfromPathfinderWrathoftheRighteous","nexusUploadedBy":"fangyunchunzi","nexusModId":25073,"paks":[
+"25073":{"nexusModName":"LichClass-PortedfromPathfinderWrathoftheRighteous","nexusUploadedBy":"LichMasterFang","nexusModId":25073,"paks":[
 {"nexusFileName":"LichClassParty","nexusFileVersion":"2.4","nexusFileUploadedAt":1791637878,"pakFileName":"LichClass.pak","nexusFileId":132579,"metaUuid":null},
 {"nexusFileName":"LichClassSolo","nexusFileVersion":"2.4","nexusFileUploadedAt":1791637891,"pakFileName":"LichClass.pak","nexusFileId":132580,"metaUuid":null}
 ]},
@@ -71147,7 +71147,7 @@
 {"nexusFileName":"Balthazar Clone","nexusFileVersion":"1","nexusFileUploadedAt":1791176614,"pakFileName":"Balthazar Clone.pak","nexusFileId":132144,"metaUuid":null}
 ]},
 "25555":{"nexusModName":"Deaded NPC Dialog Restore","nexusUploadedBy":"LeeDawn","nexusModId":25555,"paks":[
-{"nexusFileName":"NpcDialogRestore V1.2","nexusFileVersion":"3","nexusFileUploadedAt":1791649312,"pakFileName":"NpcDialogRestore_v1.2.pak","nexusFileId":132598,"metaUuid":null}
+{"nexusFileName":"NpcDialogRestore","nexusFileVersion":"4","nexusFileUploadedAt":1791655597,"pakFileName":"NpcDialogRestore.pak","nexusFileId":132602,"metaUuid":null}
 ]},
 "25556":{"nexusModName":"Istik Htak'ar - Fighter Subclass","nexusUploadedBy":"mashnear","nexusModId":25556,"paks":[
 {"nexusFileName":"ISTIK V1AW TEST","nexusFileVersion":"1","nexusFileUploadedAt":1791146578,"pakFileName":"ISTIK_V1AW_TEST.pak","nexusFileId":132116,"metaUuid":"10684fb7-1298-4d9e-b97a-c8fb03fcace5"}
@@ -71466,6 +71466,12 @@
 "25694":{"nexusModName":"Diamond_Sword","nexusUploadedBy":"Pir922195467","nexusModId":25694,"paks":[
 {"nexusFileName":"DiamondSword 38734ca0 3611 36a0 354f B1ef576c3300","nexusFileVersion":"1","nexusFileUploadedAt":1791648947,"pakFileName":"DiamondSword_38734ca0-3611-36a0-354f-b1ef576c3300.pak","nexusFileId":132594,"metaUuid":null}
 ]},
+"25695":{"nexusModName":"Mystra and Loviatar Daggers","nexusUploadedBy":"soniunia","nexusModId":25695,"paks":[
+{"nexusFileName":"Mystra Loviatar Daggers","nexusFileVersion":"1","nexusFileUploadedAt":1791656402,"pakFileName":"Mystra_Loviatar_Daggers.pak","nexusFileId":132603,"metaUuid":null}
+]},
 "25696":{"nexusModName":"Graviturgy Magic Wizard Subclass - PTBR (2026)","nexusUploadedBy":"BarovZx","nexusModId":25696,"paks":[
 {"nexusFileName":"Graviturg Magic PTBR","nexusFileVersion":"18.04.2025","nexusFileUploadedAt":1791654024,"pakFileName":"Graviturg Magic PTBR.pak","nexusFileId":132600,"metaUuid":null}
+]},
+"25698":{"nexusModName":"BhaalsForgottenSon CN Translate","nexusUploadedBy":"LichMasterFang","nexusModId":25698,"paks":[
+{"nexusFileName":"BhaalsForgottenSonCN","nexusFileVersion":"1","nexusFileUploadedAt":1791656471,"pakFileName":"BhaalsForgottenSonCN.pak","nexusFileId":132604,"metaUuid":null}
 ]}}
