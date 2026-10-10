@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-10-10T03:52:19.117379+00:00","total_mods":18096},
+{"_meta":{"last_run":"2026-10-10T04:52:18.319254+00:00","total_mods":18096},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -30799,6 +30799,7 @@
 "10719":{"nexusModName":"Fixed Japanese","nexusUploadedBy":"hawchangJA","nexusModId":10719,"paks":[
 {"nexusFileName":"Fixed Japanese LAR - Diff-only","nexusFileVersion":"2.0.8","nexusFileUploadedAt":1777432081,"pakFileName":"Fixed Japanese with LAR Diff-only.pak","nexusFileId":120123,"metaUuid":null},
 {"nexusFileName":"Fixed Japanese - Diff-only","nexusFileVersion":"2.0.8","nexusFileUploadedAt":1777432140,"pakFileName":"Fixed Japanese Diff-only.pak","nexusFileId":120125,"metaUuid":null},
+{"nexusFileName":"Fixed Japanese LAR","nexusFileVersion":"2.0.8","nexusFileUploadedAt":1777432180,"pakFileName":"FixedJapanese_LAR_7e199926-eaa9-4f20-6e78-80f9720d7e0e.pak","nexusFileId":120126,"metaUuid":null},
 {"nexusFileName":"Fixed Japanese AR","nexusFileVersion":"2.0.8","nexusFileUploadedAt":1777432204,"pakFileName":"FixedJapanese_AR_f1b8bef8-374b-bddd-8fe4-393313c9713c.pak","nexusFileId":120128,"metaUuid":null},
 {"nexusFileName":"Fixed Japanese","nexusFileVersion":"2.0.8","nexusFileUploadedAt":1777432221,"pakFileName":"FixedJapanese_0583aa1f-8a7a-eaa3-a583-65fe2b98e88a.pak","nexusFileId":120129,"metaUuid":null},
 {"nexusFileName":"Fixed Japanese AR - Diff-only","nexusFileVersion":"2.0.8","nexusFileUploadedAt":1777434021,"pakFileName":"Fixed Japanese with AR Diff-only.pak","nexusFileId":120132,"metaUuid":null}
@@ -61319,6 +61320,7 @@
 {"nexusFileName":"The Viltrumite Race - Even More Heads Patch","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1773939699,"pakFileName":"The Viltrumite Race - Even More Heads Patch.pak","nexusFileId":117051,"metaUuid":"b059d5b7-c788-b4e5-255a-37cb9552465c"},
 {"nexusFileName":"The Viltrumite Race - New CC Head Presets Patch","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1773939832,"pakFileName":"The Viltrumite Race - New CC Head Presets Patch.pak","nexusFileId":117053,"metaUuid":null},
 {"nexusFileName":"The Viltrumite Race - OnHee's Head Presets Patch","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1773940585,"pakFileName":"The Viltrumite Race - OnHee's Head Presets Patch.pak","nexusFileId":117054,"metaUuid":"06e16a54-20a5-d5e0-1ab9-5ae8d848313a"},
+{"nexusFileName":"The Viltrumite Race - Beard pack 01 Patch","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1774214907,"pakFileName":"The Viltrumite Race - Beard pack 01 Patch.pak","nexusFileId":117290,"metaUuid":null},
 {"nexusFileName":"The Viltrumite Race - Dagur and Guts Patch","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1774214956,"pakFileName":"The Viltrumite Race - Dagur and Guts Patch.pak","nexusFileId":117291,"metaUuid":"82ba604d-ab03-e9fe-4b57-44fd1a84f44e"},
 {"nexusFileName":"The Viltrumite Race - Unique Tav Patch","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1776196722,"pakFileName":"The Viltrumite Race - Unique Tav Patch.pak","nexusFileId":118994,"metaUuid":"84b99f05-f344-b529-4d98-87cb92ea5551"},
 {"nexusFileName":"The Viltrumite Race","nexusFileVersion":"1.2.2","nexusFileUploadedAt":1790428496,"pakFileName":"The Viltrumite Race.pak","nexusFileId":131444,"metaUuid":"4ba1b7ec-7edb-1e49-42f7-fd9adb6f245b"},
@@ -71407,7 +71409,7 @@
 {"nexusFileName":"ViethoaBG3","nexusFileVersion":"1","nexusFileUploadedAt":1791518088,"pakFileName":"English.pak","nexusFileId":132445,"metaUuid":null}
 ]},
 "25670":{"nexusModName":"Three Kobolds in a trenchcoat","nexusUploadedBy":"hoppeduponcake","nexusModId":25670,"paks":[
-{"nexusFileName":"ThreeKoboldsInATrenchcoat V1.2.0","nexusFileVersion":"1.2","nexusFileUploadedAt":1791601065,"pakFileName":"ThreeKoboldsInATrenchcoat.pak","nexusFileId":132557,"metaUuid":"52c3c16c-764d-400d-b2b9-9844539ccbad"}
+{"nexusFileName":"ThreeKoboldsInATrenchcoat V1.2.1","nexusFileVersion":"1.2.1","nexusFileUploadedAt":1791607564,"pakFileName":"ThreeKoboldsInATrenchcoat.pak","nexusFileId":132558,"metaUuid":"52c3c16c-764d-400d-b2b9-9844539ccbad"}
 ]},
 "25672":{"nexusModName":"Lucky Drop System","nexusUploadedBy":"FFFing","nexusModId":25672,"paks":[
 {"nexusFileName":"LuckyDropSystem","nexusFileVersion":"1.7.0.77","nexusFileUploadedAt":1791560736,"pakFileName":"LuckyLoot.pak","nexusFileId":132489,"metaUuid":null}
