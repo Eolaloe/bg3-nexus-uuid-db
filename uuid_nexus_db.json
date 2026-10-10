@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-10-10T15:52:27.781479+00:00","total_mods":18101},
+{"_meta":{"last_run":"2026-10-10T16:52:47.258662+00:00","total_mods":18101},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -63036,7 +63036,7 @@
 {"nexusFileName":"Echo Knight Fighter Subclass for Japanese","nexusFileVersion":"1.5.5","nexusFileUploadedAt":1776008622,"pakFileName":"DEchoKnight_jp.pak","nexusFileId":118772,"metaUuid":null}
 ]},
 "22412":{"nexusModName":"Speak With Dead Always Highlights Corpses","nexusUploadedBy":"Volitio","nexusModId":22412,"paks":[
-{"nexusFileName":"Speak With Dead Always Highlights Corpses 1.0.0","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1776013678,"pakFileName":"Speak With Dead Always Highlights Corpses.pak","nexusFileId":118792,"metaUuid":"972dab31-891d-4ca6-ab84-bcdbf21b3634"}
+{"nexusFileName":"Speak With Dead Always Highlights Corpses","nexusFileVersion":"1.0.1","nexusFileUploadedAt":1791647762,"pakFileName":"Speak With Dead Always Highlights Corpses.pak","nexusFileId":132592,"metaUuid":"972dab31-891d-4ca6-ab84-bcdbf21b3634"}
 ]},
 "22413":{"nexusModName":"Batty and Birdy (BT1 Heads)","nexusUploadedBy":"AdrasteaMoon","nexusModId":22413,"paks":[
 {"nexusFileName":"Batty and Birdy","nexusFileVersion":"1","nexusFileUploadedAt":1776215272,"pakFileName":"B&B.pak","nexusFileId":119034,"metaUuid":"0b5a22d3-bcef-42ae-9acd-02c2ac6bc3c5"}
@@ -71009,7 +71009,7 @@
 {"nexusFileName":"SubtitlesOnDemand 1.0.1.0","nexusFileVersion":"2","nexusFileUploadedAt":1791636021,"pakFileName":"SubtitlesOnDemand.pak","nexusFileId":132577,"metaUuid":"00d17f01-cff0-4cbf-99a7-b394b982de77"}
 ]},
 "25501":{"nexusModName":"Sir Acalians Guardian Feat","nexusUploadedBy":"SirAcalian","nexusModId":25501,"paks":[
-{"nexusFileName":"Sir Acalians Guardian Feat","nexusFileVersion":"1.0.0.8","nexusFileUploadedAt":1791119097,"pakFileName":"SirAcaliansGuardianFeat_f6a7dea2-4fd4-38fd-9b6c-51f6b34dc2f3.pak","nexusFileId":132078,"metaUuid":"f6a7dea2-4fd4-38fd-9b6c-51f6b34dc2f3"}
+{"nexusFileName":"Sir Acalians Guardian Feat","nexusFileVersion":"1.0.0.9","nexusFileUploadedAt":1791648445,"pakFileName":"SirAcaliansGuardianFeat_f6a7dea2-4fd4-38fd-9b6c-51f6b34dc2f3.pak","nexusFileId":132593,"metaUuid":"f6a7dea2-4fd4-38fd-9b6c-51f6b34dc2f3"}
 ]},
 "25502":{"nexusModName":"Arcane Trickster Unleashed","nexusUploadedBy":"KarsusCodex","nexusModId":25502,"paks":[
 {"nexusFileName":"ArcaneTricksterUnleashed 1.0","nexusFileVersion":"1","nexusFileUploadedAt":1790979557,"pakFileName":"ArcaneTricksterUnleashed.pak","nexusFileId":131946,"metaUuid":"e2bb2b15-dbdb-4bc9-a37e-f716b76afe0f"}
@@ -71147,7 +71147,7 @@
 {"nexusFileName":"Balthazar Clone","nexusFileVersion":"1","nexusFileUploadedAt":1791176614,"pakFileName":"Balthazar Clone.pak","nexusFileId":132144,"metaUuid":null}
 ]},
 "25555":{"nexusModName":"Deaded NPC Dialog Restore","nexusUploadedBy":"LeeDawn","nexusModId":25555,"paks":[
-{"nexusFileName":"NpcDialogRestore V1.1","nexusFileVersion":"2","nexusFileUploadedAt":1791210716,"pakFileName":"NpcDialogRestore_v6.1.pak","nexusFileId":132168,"metaUuid":"c4e8b6a1-2d7f-4c93-8b15-6a0e5f3d91cc"}
+{"nexusFileName":"NpcDialogRestore V1.2","nexusFileVersion":"3","nexusFileUploadedAt":1791649312,"pakFileName":"NpcDialogRestore_v1.2.pak","nexusFileId":132598,"metaUuid":null}
 ]},
 "25556":{"nexusModName":"Istik Htak'ar - Fighter Subclass","nexusUploadedBy":"mashnear","nexusModId":25556,"paks":[
 {"nexusFileName":"ISTIK V1AW TEST","nexusFileVersion":"1","nexusFileUploadedAt":1791146578,"pakFileName":"ISTIK_V1AW_TEST.pak","nexusFileId":132116,"metaUuid":"10684fb7-1298-4d9e-b97a-c8fb03fcace5"}
@@ -71462,4 +71462,7 @@
 ]},
 "25693":{"nexusModName":"Troubadour - PTBR","nexusUploadedBy":"BarovZx","nexusModId":25693,"paks":[
 {"nexusFileName":"Troubadour PTBR","nexusFileVersion":"10.06.2025","nexusFileUploadedAt":1791637958,"pakFileName":"Troubadour PTBR.pak","nexusFileId":132581,"metaUuid":null}
+]},
+"25694":{"nexusModName":"Diamond_Sword","nexusUploadedBy":"Pir922195467","nexusModId":25694,"paks":[
+{"nexusFileName":"DiamondSword 38734ca0 3611 36a0 354f B1ef576c3300","nexusFileVersion":"1","nexusFileUploadedAt":1791648947,"pakFileName":"DiamondSword_38734ca0-3611-36a0-354f-b1ef576c3300.pak","nexusFileId":132594,"metaUuid":null}
 ]}}
