@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-10-10T18:52:40.551817+00:00","total_mods":18104},
+{"_meta":{"last_run":"2026-10-10T19:52:39.068572+00:00","total_mods":18105},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -35985,7 +35985,7 @@
 ]},
 "12727":{"nexusModName":"DnD 5.5e All-in-One BEYOND","nexusUploadedBy":"yoonmoonsik43","nexusModId":12727,"paks":[
 {"nexusFileName":"dnd2024 - V3 Legacy","nexusFileVersion":"3.4.6.4","nexusFileUploadedAt":1771945305,"pakFileName":"DnD2024_897914ef-5c96-053c-44af-0be823f895fe.pak","nexusFileId":115523,"metaUuid":"897914ef-5c96-053c-44af-0be823f895fe"},
-{"nexusFileName":"DnD 5.5e All-in-One BEYOND","nexusFileVersion":"4.13.3.0","nexusFileUploadedAt":1791621165,"pakFileName":"DnD2024_897914ef-5c96-053c-44af-0be823f895fe.pak","nexusFileId":132565,"metaUuid":"897914ef-5c96-053c-44af-0be823f895fe"}
+{"nexusFileName":"DnD 5.5e All-in-One BEYOND","nexusFileVersion":"4.13.4.0","nexusFileUploadedAt":1791661397,"pakFileName":"DnD2024_897914ef-5c96-053c-44af-0be823f895fe.pak","nexusFileId":132609,"metaUuid":"897914ef-5c96-053c-44af-0be823f895fe"}
 ]},
 "12728":{"nexusModName":"Origin-Themed Headwear KR","nexusUploadedBy":"Soorawang","nexusModId":12728,"paks":[
 {"nexusFileName":"Origin-Themed Headwear KR","nexusFileVersion":"1.0","nexusFileUploadedAt":1727930331,"pakFileName":"OriginHeadwear_kr.pak","nexusFileId":73692,"metaUuid":null}
@@ -39591,8 +39591,8 @@
 "14032":{"nexusModName":"New Game Plus (NGP)","nexusUploadedBy":"masospaghetti","nexusModId":14032,"paks":[
 {"nexusFileName":"NGP - Part A - Prerelease","nexusFileVersion":"PR1.06","nexusFileUploadedAt":1782082160,"pakFileName":"NewGamePlus.pak","nexusFileId":124031,"metaUuid":"385d83e6-4cf6-4472-afa9-c09868e3014c"},
 {"nexusFileName":"NGP - Part B - Prerelease","nexusFileVersion":"PR1.06","nexusFileUploadedAt":1782449204,"pakFileName":"NGP_756cd4d2-34a7-dc41-cdb5-01a1313e8b66.pak","nexusFileId":124295,"metaUuid":"756cd4d2-34a7-dc41-cdb5-01a1313e8b66"},
-{"nexusFileName":"NGP - Part A","nexusFileVersion":"1.09","nexusFileUploadedAt":1791061616,"pakFileName":"NewGamePlus.pak","nexusFileId":132043,"metaUuid":"385d83e6-4cf6-4472-afa9-c09868e3014c"},
-{"nexusFileName":"NGP - Part B","nexusFileVersion":"1.09","nexusFileUploadedAt":1791061831,"pakFileName":"NGP_756cd4d2-34a7-dc41-cdb5-01a1313e8b66.pak","nexusFileId":132045,"metaUuid":"756cd4d2-34a7-dc41-cdb5-01a1313e8b66"}
+{"nexusFileName":"NGP - Part B","nexusFileVersion":"1.10","nexusFileUploadedAt":1791661635,"pakFileName":"NGP_756cd4d2-34a7-dc41-cdb5-01a1313e8b66.pak","nexusFileId":132610,"metaUuid":"756cd4d2-34a7-dc41-cdb5-01a1313e8b66"},
+{"nexusFileName":"NGP - Part A","nexusFileVersion":"1.10","nexusFileUploadedAt":1791661650,"pakFileName":"NewGamePlus.pak","nexusFileId":132611,"metaUuid":"385d83e6-4cf6-4472-afa9-c09868e3014c"}
 ]},
 "14033":{"nexusModName":"The House of Hope Couture - Raphael Korrilla and Yurgir outfits","nexusUploadedBy":"Nikjima","nexusModId":14033,"paks":[
 {"nexusFileName":"The House of Hope Couture","nexusFileVersion":"1.1.0.145","nexusFileUploadedAt":1760392179,"pakFileName":"HouseOfHauteCouture_bd3c3acf-4a0e-ae69-106b-78ba64785ced.pak","nexusFileId":105083,"metaUuid":"bd3c3acf-4a0e-ae69-106b-78ba64785ced"}
@@ -71451,6 +71451,9 @@
 "25689":{"nexusModName":"Elven Weaponry - Axes - UA","nexusUploadedBy":"Kimi3077","nexusModId":25689,"paks":[
 {"nexusFileName":"ElvenWeaponry Axes UA","nexusFileVersion":"1.0","nexusFileUploadedAt":1791624656,"pakFileName":"ElvenWeaponry_Axes_UA.pak","nexusFileId":132568,"metaUuid":null}
 ]},
+"25690":{"nexusModName":"Sanguine Ascension - A Vampire Overhaul","nexusUploadedBy":"Damocle98X","nexusModId":25690,"paks":[
+{"nexusFileName":"Sanguine Ascension   A Vampire Overhaul 1.0.0","nexusFileVersion":"1","nexusFileUploadedAt":1791659831,"pakFileName":"SanguineAscension_5a94d548-6cae-47ec-92ee-925b44db5758.pak","nexusFileId":132607,"metaUuid":null}
+]},
 "25691":{"nexusModName":"Buccaneer - Spanish","nexusUploadedBy":"elalejin","nexusModId":25691,"paks":[
 {"nexusFileName":"Bucanero   Spanish","nexusFileVersion":"1.0","nexusFileUploadedAt":1791628713,"pakFileName":"Bucanero - Spanish.pak","nexusFileId":132571,"metaUuid":null}
 ]},
@@ -71471,4 +71474,7 @@
 ]},
 "25698":{"nexusModName":"BhaalsForgottenSon CN Translate","nexusUploadedBy":"LichMasterFang","nexusModId":25698,"paks":[
 {"nexusFileName":"BhaalsForgottenSonCN","nexusFileVersion":"1","nexusFileUploadedAt":1791656471,"pakFileName":"BhaalsForgottenSonCN.pak","nexusFileId":132604,"metaUuid":null}
+]},
+"25699":{"nexusModName":"Shadowheart's Makeup Remover","nexusUploadedBy":"Roxidium","nexusModId":25699,"paks":[
+{"nexusFileName":"Shadowheart's Makeup Remover","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1791660490,"pakFileName":"ROX_EyeShadowHeart.pak","nexusFileId":132608,"metaUuid":null}
 ]}}
