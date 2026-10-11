@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-10-11T05:51:56.616131+00:00","total_mods":18113},
+{"_meta":{"last_run":"2026-10-11T06:51:49.956389+00:00","total_mods":18113},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -35959,6 +35959,7 @@
 {"nexusFileName":"Addon - Clawstep Dragonborn Body (with Breast)","nexusFileVersion":"2.0.3.0","nexusFileUploadedAt":1773622196,"pakFileName":"Doom Armor - Addon CLWSTPWB.pak","nexusFileId":116826,"metaUuid":"1ce5fb59-cb1d-4a69-b6fa-8aec616ea20c"},
 {"nexusFileName":"Addon - Beautiful Curvy Body","nexusFileVersion":"2.0.4.0","nexusFileUploadedAt":1773845167,"pakFileName":"Doom Armor - Addon BCB.pak","nexusFileId":116997,"metaUuid":null},
 {"nexusFileName":"Addon - Bigger Shield","nexusFileVersion":"2.1.1.0","nexusFileUploadedAt":1774462827,"pakFileName":"Doom Armor - Addon Bigger Shield.pak","nexusFileId":117460,"metaUuid":null},
+{"nexusFileName":"Addon - Dulcet Bodies A","nexusFileVersion":"2.1.2.0","nexusFileUploadedAt":1779798707,"pakFileName":"Doom Armor - Addon Dulcet A.pak","nexusFileId":122189,"metaUuid":null},
 {"nexusFileName":"Addon - Dulcet Bodies B","nexusFileVersion":"2.1.2.0","nexusFileUploadedAt":1779798767,"pakFileName":"Doom Armor - Addon Dulcet B.pak","nexusFileId":122191,"metaUuid":null},
 {"nexusFileName":"Addon - Camp Cloth","nexusFileVersion":"2.1.3.1","nexusFileUploadedAt":1782231229,"pakFileName":"Doom Armor - Addon Camp Cloth.pak","nexusFileId":124172,"metaUuid":"78cbad3c-f07b-4bc3-9a17-6ddc4b73faed"},
 {"nexusFileName":"Addon - Beautiful Strong Bodies","nexusFileVersion":"2.1.3.1","nexusFileUploadedAt":1784465324,"pakFileName":"Doom Armor - Addon BSB.pak","nexusFileId":126002,"metaUuid":"1796aa1f-d2c5-4736-961d-2927d5d0b136"},
@@ -71018,7 +71019,7 @@
 {"nexusFileName":"ArcaneTricksterUnleashed 1.0","nexusFileVersion":"1","nexusFileUploadedAt":1790979557,"pakFileName":"ArcaneTricksterUnleashed.pak","nexusFileId":131946,"metaUuid":"e2bb2b15-dbdb-4bc9-a37e-f716b76afe0f"}
 ]},
 "25503":{"nexusModName":"Shadow Monarch","nexusUploadedBy":"Mowadeep","nexusModId":25503,"paks":[
-{"nexusFileName":"shadowmonarch_ce00b743-83d6-48-1aqo","nexusFileVersion":"2","nexusFileUploadedAt":1791557586,"pakFileName":"ShadowMonarch_ce00b743-83d6-48ca-98f2-ef50fa1abddb.pak","nexusFileId":132487,"metaUuid":"ce00b743-83d6-48ca-98f2-ef50fa1abddb"}
+{"nexusFileName":"Shadow Monarch hotfix v1.2.0.128","nexusFileVersion":"v1.2.0.128","nexusFileUploadedAt":1791700673,"pakFileName":"ShadowMonarch_ce00b743-83d6-48ca-98f2-ef50fa1abddb.pak","nexusFileId":132643,"metaUuid":"ce00b743-83d6-48ca-98f2-ef50fa1abddb"}
 ]},
 "25505":{"nexusModName":"Eve's Eye Collection - EotB Presets","nexusUploadedBy":"moonlitcrimson","nexusModId":25505,"paks":[
 {"nexusFileName":"Aberrant Eyes","nexusFileVersion":"1","nexusFileUploadedAt":1790980415,"pakFileName":"Eve_Aberrant_Eyes.pak","nexusFileId":131949,"metaUuid":null},
@@ -71501,4 +71502,7 @@
 ]},
 "25715":{"nexusModName":"Darth Revan Armor (KOTOR)","nexusUploadedBy":"DecodedPress","nexusModId":25715,"paks":[
 {"nexusFileName":"Darth Revan Armor","nexusFileVersion":"1.0","nexusFileUploadedAt":1791691173,"pakFileName":"RevanArmor.pak","nexusFileId":132637,"metaUuid":null}
+]},
+"25716":{"nexusModName":"Better Default Values","nexusUploadedBy":"Syrchalis","nexusModId":25716,"paks":[
+{"nexusFileName":"Better Default Values","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1791700312,"pakFileName":"Better_Default_Values_eb233d7a-abde-89a4-001e-b5331696597b.pak","nexusFileId":132642,"metaUuid":null}
 ]}}
