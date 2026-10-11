@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-10-11T13:52:09.597254+00:00","total_mods":18117},
+{"_meta":{"last_run":"2026-10-11T14:52:17.726103+00:00","total_mods":18119},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -19222,7 +19222,7 @@
 {"nexusFileName":"Better Warlock Progression","nexusFileVersion":"1.8.0","nexusFileUploadedAt":1713507032,"pakFileName":"Better Warlock Progression.pak","nexusFileId":54241,"metaUuid":"65963e05-b9a3-4bd9-88ec-31c9bf8529d6"}
 ]},
 "6086":{"nexusModName":"Auto Send Food To Camp","nexusUploadedBy":"Volitio","nexusModId":6086,"paks":[
-{"nexusFileName":"Auto Send Food To Camp","nexusFileVersion":"2.5.1","nexusFileUploadedAt":1785533422,"pakFileName":"Auto Send Food To Camp.pak","nexusFileId":126953,"metaUuid":"1c132ec4-4cd2-4c40-aeb9-ff6ee0467da8"}
+{"nexusFileName":"Auto Send Food To Camp","nexusFileVersion":"2.6.0","nexusFileUploadedAt":1791728869,"pakFileName":"Auto Send Food To Camp.pak","nexusFileId":132666,"metaUuid":"1c132ec4-4cd2-4c40-aeb9-ff6ee0467da8"}
 ]},
 "6087":{"nexusModName":"BG3 Sex Framework - Korean Translation","nexusUploadedBy":"Si1verSiren","nexusModId":6087,"paks":[
 {"nexusFileName":"BG3 Sex Framework - Korean Translation","nexusFileVersion":"v0.1","nexusFileUploadedAt":1705814879,"pakFileName":"AnimationFramework_KR.pak","nexusFileId":41035,"metaUuid":null}
@@ -65889,7 +65889,7 @@
 {"nexusFileName":"G.A.R.L.I.C.","nexusFileVersion":"1.0","nexusFileUploadedAt":1782423339,"pakFileName":"KJM_Astarion_GarlicDebuff_9be654b1-2202-71ec-c2a9-2ae55ca2d400.pak","nexusFileId":124277,"metaUuid":null}
 ]},
 "23557":{"nexusModName":"Helping Hand - Gale's hand as Crawling Claw Summon","nexusUploadedBy":"koboldJuno","nexusModId":23557,"paks":[
-{"nexusFileName":"Gale's Helping Hand","nexusFileVersion":"1.0","nexusFileUploadedAt":1782488954,"pakFileName":"GaleHelpingHand.pak","nexusFileId":124330,"metaUuid":"f8ce40fb-108a-fc68-f862-af3decd281a5"}
+{"nexusFileName":"Gale's Helping Hand","nexusFileVersion":"1.1","nexusFileUploadedAt":1791726822,"pakFileName":"GaleHelpingHand.pak","nexusFileId":132664,"metaUuid":"f8ce40fb-108a-fc68-f862-af3decd281a5"}
 ]},
 "23558":{"nexusModName":"Equinox","nexusUploadedBy":"bennymp4","nexusModId":23558,"paks":[
 {"nexusFileName":"Main","nexusFileVersion":"2.0.0.7","nexusFileUploadedAt":1782502133,"pakFileName":"Equinox_fc5ad1a8-6062-8ee2-ead5-89170458c4f4.pak","nexusFileId":124342,"metaUuid":"fc5ad1a8-6062-8ee2-ead5-89170458c4f4"}
@@ -71518,4 +71518,10 @@
 ]},
 "25723":{"nexusModName":"Nyskaya's Trainer of Haste","nexusUploadedBy":"Nyskaya","nexusModId":25723,"paks":[
 {"nexusFileName":"Nyskaya's Trainer of Haste","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1791724620,"pakFileName":"Nyskaya_TrainerOfHaste.pak","nexusFileId":132661,"metaUuid":null}
+]},
+"25724":{"nexusModName":"Stack All - One-Key Item Stacking","nexusUploadedBy":"pleymor","nexusModId":25724,"paks":[
+{"nexusFileName":"StackAll","nexusFileVersion":"1","nexusFileUploadedAt":1791728274,"pakFileName":"StackAll.pak","nexusFileId":132665,"metaUuid":null}
+]},
+"25725":{"nexusModName":"NPCs have Subclasses and Feats (with Sorcerers NPCs) (Russian Translate)","nexusUploadedBy":"SexSux","nexusModId":25725,"paks":[
+{"nexusFileName":"NPCs Have Subclasses   SE RUS","nexusFileVersion":"3.6","nexusFileUploadedAt":1791729164,"pakFileName":"NPCs have Subclasses - SE_RUS.pak","nexusFileId":132667,"metaUuid":null}
 ]}}
