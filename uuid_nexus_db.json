@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-10-11T01:51:54.239575+00:00","total_mods":18109},
+{"_meta":{"last_run":"2026-10-11T02:52:02.198418+00:00","total_mods":18111},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -71480,7 +71480,7 @@
 {"nexusFileName":"Graviturg Magic PTBR","nexusFileVersion":"18.04.2025","nexusFileUploadedAt":1791654024,"pakFileName":"Graviturg Magic PTBR.pak","nexusFileId":132600,"metaUuid":null}
 ]},
 "25698":{"nexusModName":"BhaalsForgottenSon CN Translate","nexusUploadedBy":"LichMasterFang","nexusModId":25698,"paks":[
-{"nexusFileName":"BhaalsForgottenSonCN","nexusFileVersion":"1","nexusFileUploadedAt":1791656471,"pakFileName":"BhaalsForgottenSonCN.pak","nexusFileId":132604,"metaUuid":null}
+{"nexusFileName":"BhaalsForgottenSonCN","nexusFileVersion":"1.1","nexusFileUploadedAt":1791686504,"pakFileName":"BhaalsForgottenSonCN.pak","nexusFileId":132625,"metaUuid":null}
 ]},
 "25699":{"nexusModName":"Shadowheart's Makeup Remover","nexusUploadedBy":"Roxidium","nexusModId":25699,"paks":[
 {"nexusFileName":"Shadowheart's Makeup Remover","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1791660490,"pakFileName":"ROX_EyeShadowHeart.pak","nexusFileId":132608,"metaUuid":null}
@@ -71490,4 +71490,12 @@
 ]},
 "25702":{"nexusModName":"Partial Respec Fr","nexusUploadedBy":"moonreveur","nexusModId":25702,"paks":[
 {"nexusFileName":"PartialRespec 101 Fr","nexusFileVersion":"1.0.1","nexusFileUploadedAt":1791669609,"pakFileName":"PartialRespec_101_Fr.pak","nexusFileId":132616,"metaUuid":null}
+]},
+"25705":{"nexusModName":"Shut Up Shutter - Photo Mode Shutter Volume Adjuster","nexusUploadedBy":"skinnysalesman","nexusModId":25705,"paks":[
+{"nexusFileName":"Quiet Shutter (50)","nexusFileVersion":"1","nexusFileUploadedAt":1791686423,"pakFileName":"Quiet Shutter - 50%.pak","nexusFileId":132622,"metaUuid":null},
+{"nexusFileName":"Quiet Shutter (75)","nexusFileVersion":"1","nexusFileUploadedAt":1791686457,"pakFileName":"Quiet Shutter - 75%.pak","nexusFileId":132623,"metaUuid":null},
+{"nexusFileName":"Silent Shutter","nexusFileVersion":"1","nexusFileUploadedAt":1791686483,"pakFileName":"Silent Shutter.pak","nexusFileId":132624,"metaUuid":null}
+]},
+"25712":{"nexusModName":"SummerBeach_TheFirstDescendant_LunaDesertedIslandVacation","nexusUploadedBy":"EvilRecluse","nexusModId":25712,"paks":[
+{"nexusFileName":"SummerBeach TFD LunaDesertedIslandVacation","nexusFileVersion":"1","nexusFileUploadedAt":1791686778,"pakFileName":"SummerBeach_TheFirstDescendant_LunaDesertedIslandVacation.pak","nexusFileId":132626,"metaUuid":null}
 ]}}
