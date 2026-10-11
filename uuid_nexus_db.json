@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-10-11T09:52:08.398021+00:00","total_mods":18114},
+{"_meta":{"last_run":"2026-10-11T10:52:15.160532+00:00","total_mods":18115},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -58413,8 +58413,9 @@
 {"nexusFileName":"Crimson Mayhem","nexusFileVersion":"1.0.0.2","nexusFileUploadedAt":1768754960,"pakFileName":"CrimsonBlade_c1acaec3-2489-7661-8cb1-cf8dfe31222b.pak","nexusFileId":112535,"metaUuid":"c1acaec3-2489-7661-8cb1-cf8dfe31222b"}
 ]},
 "20777":{"nexusModName":"Instant Main Menu - No Intro - Fast Startup - No Press Any Key","nexusUploadedBy":"nyilas7","nexusModId":20777,"paks":[
-{"nexusFileName":"Instant Main Menu","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1768765320,"pakFileName":"InstantMainMenu.pak","nexusFileId":112542,"metaUuid":"3b9d2f6a-8c41-4e2a-b1f6-9e7c5a4d0f92"},
-{"nexusFileName":"Instant Main Menu No Sign In","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1768765355,"pakFileName":"InstantMainMenuNoSignIn.pak","nexusFileId":112543,"metaUuid":"3b9d2f6a-8c41-4e2a-b1f6-9e7c5a4d0f92"}
+{"nexusFileName":"Instant Main Menu","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1768765320,"pakFileName":"InstantMainMenu.pak","nexusFileId":112542,"metaUuid":"3b9d2f6a-8c41-4e2a-b1f6-9e7c5a4d0f92"},
+{"nexusFileName":"Instant Main Menu - No Sign In","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1768765355,"pakFileName":"InstantMainMenuNoSignIn.pak","nexusFileId":112543,"metaUuid":"3b9d2f6a-8c41-4e2a-b1f6-9e7c5a4d0f92"},
+{"nexusFileName":"Instant Main Menu - No Sign In - No Mod Manager","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1791712876,"pakFileName":"InstantMainMenuNoSignInNoModManager.pak","nexusFileId":132648,"metaUuid":null}
 ]},
 "20778":{"nexusModName":"ToggleFX - MCM CHS","nexusUploadedBy":"hanli","nexusModId":20778,"paks":[
 {"nexusFileName":"ToggleFX_CHS","nexusFileVersion":"1.1.0.0","nexusFileUploadedAt":1768874218,"pakFileName":"ToggleFX_CHS.pak","nexusFileId":112642,"metaUuid":"38de8445-1ad5-43a0-a8da-746a89d568e5"}
@@ -71504,8 +71505,11 @@
 {"nexusFileName":"Darth Revan Armor","nexusFileVersion":"1.0","nexusFileUploadedAt":1791691173,"pakFileName":"RevanArmor.pak","nexusFileId":132637,"metaUuid":null}
 ]},
 "25716":{"nexusModName":"Better Default Values","nexusUploadedBy":"Syrchalis","nexusModId":25716,"paks":[
-{"nexusFileName":"Better Default Values","nexusFileVersion":"1.0.0.3","nexusFileUploadedAt":1791702651,"pakFileName":"Better_Default_Values_eb233d7a-abde-89a4-001e-b5331696597b.pak","nexusFileId":132644,"metaUuid":null}
+{"nexusFileName":"Better Default Values","nexusFileVersion":"1.0.0.5","nexusFileUploadedAt":1791713546,"pakFileName":"Better_Default_Values_eb233d7a-abde-89a4-001e-b5331696597b.pak","nexusFileId":132650,"metaUuid":null}
 ]},
 "25718":{"nexusModName":"Oath of Conquest Paladin Subclass - PTBR (2026)","nexusUploadedBy":"BarovZx","nexusModId":25718,"paks":[
 {"nexusFileName":"Oath Of Conquest PTBR","nexusFileVersion":"19.06.2025","nexusFileUploadedAt":1791711845,"pakFileName":"Oath of Conquest PTBR.pak","nexusFileId":132647,"metaUuid":null}
+]},
+"25719":{"nexusModName":"Cambion's Companion RU","nexusUploadedBy":"FaneMajere","nexusModId":25719,"paks":[
+{"nexusFileName":"CambionsCompanion RU","nexusFileVersion":"1","nexusFileUploadedAt":1791713531,"pakFileName":"CambionsCompanion_8927de59-5149-ad51-4072-83003db2b218.pak","nexusFileId":132649,"metaUuid":null}
 ]}}
