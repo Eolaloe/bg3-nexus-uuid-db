@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-10-11T12:52:07.878011+00:00","total_mods":18115},
+{"_meta":{"last_run":"2026-10-11T13:52:09.597254+00:00","total_mods":18117},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -57031,9 +57031,9 @@
 {"nexusFileName":"Tasha's Fighting Styles RAW for Japanese","nexusFileVersion":"1.0.1.2","nexusFileUploadedAt":1766594653,"pakFileName":"DrKekyll_TashasFightingStyles_jp.pak","nexusFileId":110256,"metaUuid":null}
 ]},
 "20299":{"nexusModName":"Homebrew Wild Magic (for Sorcerer and Barbarian)","nexusUploadedBy":"Lootbugger","nexusModId":20299,"paks":[
-{"nexusFileName":"Homebrew Wild Magic (for Sorcerer and Barbarian)","nexusFileVersion":"1.1","nexusFileUploadedAt":1787486631,"pakFileName":"HomebrewWildMagic_ff4320cc-84ff-ef4f-df10-b607f6548dea.pak","nexusFileId":128820,"metaUuid":"ff4320cc-84ff-ef4f-df10-b607f6548dea"},
-{"nexusFileName":"Homebrew Wild Magic (No Polymorph)","nexusFileVersion":"1.1","nexusFileUploadedAt":1787486665,"pakFileName":"HomebrewWildMagic_NoPolymorph_ff4320cc-84ff-ef4f-df10-b607f6548dea.pak","nexusFileId":128821,"metaUuid":"ff4320cc-84ff-ef4f-df10-b607f6548dea"},
-{"nexusFileName":"Playtest","nexusFileVersion":"1.1","nexusFileUploadedAt":1787486686,"pakFileName":"HomebrewWildMagicPlaytest_a44ee957-0545-24d0-cbb2-8b2a9326cb7f.pak","nexusFileId":128822,"metaUuid":null}
+{"nexusFileName":"Playtest","nexusFileVersion":"1.1","nexusFileUploadedAt":1787486686,"pakFileName":"HomebrewWildMagicPlaytest_a44ee957-0545-24d0-cbb2-8b2a9326cb7f.pak","nexusFileId":128822,"metaUuid":null},
+{"nexusFileName":"Homebrew Wild Magic (No Polymorph)","nexusFileVersion":"1.2","nexusFileUploadedAt":1791723505,"pakFileName":"HomebrewWildMagic_NoPolymorph_ff4320cc-84ff-ef4f-df10-b607f6548dea.pak","nexusFileId":132658,"metaUuid":"ff4320cc-84ff-ef4f-df10-b607f6548dea"},
+{"nexusFileName":"Homebrew Wild Magic (for Sorcerer and Barbarian)","nexusFileVersion":"1.2","nexusFileUploadedAt":1791723564,"pakFileName":"HomebrewWildMagic_ff4320cc-84ff-ef4f-df10-b607f6548dea.pak","nexusFileId":132659,"metaUuid":"ff4320cc-84ff-ef4f-df10-b607f6548dea"}
 ]},
 "20300":{"nexusModName":"Eldritch Knight_Eldritch Strike Update","nexusUploadedBy":"YouMeAndBG3","nexusModId":20300,"paks":[
 {"nexusFileName":"Eldritch Knight_Eldritch Strike Update","nexusFileVersion":"1","nexusFileUploadedAt":1766616058,"pakFileName":"ABetterEldritchKnight.pak","nexusFileId":110280,"metaUuid":"b01fc8da-c2f8-4983-9efb-ac60419fa932"}
@@ -69478,7 +69478,7 @@
 {"nexusFileName":"HasteRework","nexusFileVersion":"2","nexusFileUploadedAt":1790896451,"pakFileName":"HasteRework.pak","nexusFileId":131865,"metaUuid":null}
 ]},
 "24871":{"nexusModName":"Enhanced Succubus Gameplay","nexusUploadedBy":"mmcgeach","nexusModId":24871,"paks":[
-{"nexusFileName":"ESGSuccubusClass","nexusFileVersion":"16","nexusFileUploadedAt":1791641844,"pakFileName":"ESGSuccubusClass.pak","nexusFileId":132586,"metaUuid":"e82a269c-35e4-4afc-9b0b-199b8c283ac0"}
+{"nexusFileName":"ESGSuccubusClass","nexusFileVersion":"17","nexusFileUploadedAt":1791725132,"pakFileName":"ESGSuccubusClass.pak","nexusFileId":132662,"metaUuid":"e82a269c-35e4-4afc-9b0b-199b8c283ac0"}
 ]},
 "24872":{"nexusModName":"Moon's Vera Head","nexusUploadedBy":"AdrasteaMoon","nexusModId":24872,"paks":[
 {"nexusFileName":"Main File","nexusFileVersion":"1","nexusFileUploadedAt":1788909692,"pakFileName":"Vera.pak","nexusFileId":130066,"metaUuid":"50232dbc-b62e-4e9f-9afa-a49a9c2e1bb9"}
@@ -71512,4 +71512,10 @@
 ]},
 "25719":{"nexusModName":"Cambion's Companion RU","nexusUploadedBy":"FaneMajere","nexusModId":25719,"paks":[
 {"nexusFileName":"CambionsCompanion RU","nexusFileVersion":"1","nexusFileUploadedAt":1791713531,"pakFileName":"CambionsCompanion_8927de59-5149-ad51-4072-83003db2b218.pak","nexusFileId":132649,"metaUuid":null}
+]},
+"25720":{"nexusModName":"Nyskaya's Honest Hands","nexusUploadedBy":"Nyskaya","nexusModId":25720,"paks":[
+{"nexusFileName":"Nyskaya's Honest Hands","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1791721549,"pakFileName":"Nyskaya_HonestHands.pak","nexusFileId":132655,"metaUuid":null}
+]},
+"25723":{"nexusModName":"Nyskaya's Trainer of Haste","nexusUploadedBy":"Nyskaya","nexusModId":25723,"paks":[
+{"nexusFileName":"Nyskaya's Trainer of Haste","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1791724620,"pakFileName":"Nyskaya_TrainerOfHaste.pak","nexusFileId":132661,"metaUuid":null}
 ]}}
