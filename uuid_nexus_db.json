@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-10-11T20:52:37.181293+00:00","total_mods":18124},
+{"_meta":{"last_run":"2026-10-11T21:52:17.869605+00:00","total_mods":18127},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -51653,7 +51653,7 @@
 {"nexusFileName":"STANDALONE Dither Shader Fix","nexusFileVersion":"1.1","nexusFileUploadedAt":1757864818,"pakFileName":"STANDALONE_Lynia_Dither_Shader_Fix_v1.1.pak","nexusFileId":102782,"metaUuid":"57c36e86-e5c8-4ae8-8fe8-9ef5e855f86c"}
 ]},
 "18586":{"nexusModName":"BG3 Hardcore","nexusUploadedBy":"GoodJudyGames","nexusModId":18586,"paks":[
-{"nexusFileName":"BG3HC","nexusFileVersion":"1.2","nexusFileUploadedAt":1791697123,"pakFileName":"BG3Hardcore.pak","nexusFileId":132641,"metaUuid":null}
+{"nexusFileName":"BG3HC","nexusFileVersion":"1.2.2","nexusFileUploadedAt":1791755409,"pakFileName":"BG3Hardcore.pak","nexusFileId":132696,"metaUuid":null}
 ]},
 "18591":{"nexusModName":"Starborn - A Class Mod_KOR","nexusUploadedBy":"Kei8725","nexusModId":18591,"paks":[
 {"nexusFileName":"Starborn - A Class Mod_KOR","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1757738619,"pakFileName":"Starmage_KOR.pak","nexusFileId":102633,"metaUuid":null}
@@ -64221,7 +64221,7 @@
 {"nexusFileName":"ACT1 Capes and Cloaks-CHS","nexusFileVersion":"1","nexusFileUploadedAt":1778791885,"pakFileName":"ACT1_CapesCHS.pak","nexusFileId":121251,"metaUuid":null}
 ]},
 "22866":{"nexusModName":"Sexy Transform","nexusUploadedBy":"LiuNimaEgg","nexusModId":22866,"paks":[
-{"nexusFileName":"UPdate1.24","nexusFileVersion":"1.24","nexusFileUploadedAt":1791742179,"pakFileName":"LnmTFH_3a4970a2-c138-6498-1221-6ae81699eb49.pak","nexusFileId":132671,"metaUuid":"3a4970a2-c138-6498-1221-6ae81699eb49"}
+{"nexusFileName":"UPdate1.24","nexusFileVersion":"1.24","nexusFileUploadedAt":1791752597,"pakFileName":"LnmTFH_3a4970a2-c138-6498-1221-6ae81699eb49.pak","nexusFileId":132688,"metaUuid":"3a4970a2-c138-6498-1221-6ae81699eb49"}
 ]},
 "22867":{"nexusModName":"YMCA Pose Pack","nexusUploadedBy":"Terrorbyte33","nexusModId":22867,"paks":[
 {"nexusFileName":"Terrorbyte'S YMCA Poses","nexusFileVersion":"1","nexusFileUploadedAt":1778802548,"pakFileName":"Terrorbyte's YMCA Poses.pak","nexusFileId":121261,"metaUuid":null}
@@ -71166,6 +71166,9 @@
 "25567":{"nexusModName":"Pack of Neurodivergence","nexusUploadedBy":"MrD18","nexusModId":25567,"paks":[
 {"nexusFileName":"Pack Of Neurodivergence","nexusFileVersion":"3","nexusFileUploadedAt":1791691020,"pakFileName":"Pack_of_Neurodivergence_UPDATE.pak","nexusFileId":132636,"metaUuid":null}
 ]},
+"25568":{"nexusModName":"Sweater Weather - Cozy fits for multiple BTs","nexusUploadedBy":"DramaticChipmunk","nexusModId":25568,"paks":[
+{"nexusFileName":"SweaterWeather","nexusFileVersion":"1","nexusFileUploadedAt":1791750245,"pakFileName":"SweaterWeather_277c4ac4-358b-30ab-053e-5d464b72d8e3.pak","nexusFileId":132679,"metaUuid":null}
+]},
 "25569":{"nexusModName":"For the Love of Gnome","nexusUploadedBy":"MunchyInTechnicolor","nexusModId":25569,"paks":[
 {"nexusFileName":"FtLoG DGB M Edition","nexusFileVersion":"1.0.2","nexusFileUploadedAt":1791598393,"pakFileName":"FtLoG_DGB_M_7a717f4e-481b-336c-133c-285629d02f23.pak","nexusFileId":132548,"metaUuid":null},
 {"nexusFileName":"FtLoG DGB F Edition","nexusFileVersion":"1.0.2","nexusFileUploadedAt":1791598420,"pakFileName":"FtLoG_DGB_F_23e5fc10-e095-18f8-3b7a-d7a700952ddd.pak","nexusFileId":132549,"metaUuid":null},
@@ -71535,8 +71538,15 @@
 {"nexusFileName":"LeilaMidnightDreams","nexusFileVersion":"1","nexusFileUploadedAt":1791745305,"pakFileName":"LeilaMidnightDreams.pak","nexusFileId":132675,"metaUuid":null}
 ]},
 "25728":{"nexusModName":"Scarlet Hare- Astarion Eyes","nexusUploadedBy":"Aoman24","nexusModId":25728,"paks":[
-{"nexusFileName":"Scarlet Hare Astarion Eyes","nexusFileVersion":"1","nexusFileUploadedAt":1791744161,"pakFileName":"Scarlet_Hare_Astarion_Eyes.pak","nexusFileId":132673,"metaUuid":null}
+{"nexusFileName":"Scarlet Hare Astarion Eyes","nexusFileVersion":"1","nexusFileUploadedAt":1791744161,"pakFileName":"Scarlet_Hare_Astarion_Eyes.pak","nexusFileId":132673,"metaUuid":null},
+{"nexusFileName":"Scarlet Hare- White Sclera version","nexusFileVersion":"1","nexusFileUploadedAt":1791754665,"pakFileName":"Scarlet_Hare_White_Sclera.pak","nexusFileId":132695,"metaUuid":null}
 ]},
 "25730":{"nexusModName":"Visual for Crusader's Mantle","nexusUploadedBy":"koboldJuno","nexusModId":25730,"paks":[
 {"nexusFileName":"Visual for Crusader's Mantle","nexusFileVersion":"1.0","nexusFileUploadedAt":1791747045,"pakFileName":"EffectforCrusadersMantle_ee290951-cb93-3dce-0f64-f90414a4634e.pak","nexusFileId":132677,"metaUuid":null}
+]},
+"25731":{"nexusModName":"Karlach's Better Starter Gear French Translation","nexusUploadedBy":"Dragonoid2025","nexusModId":25731,"paks":[
+{"nexusFileName":"Aza Better Starting Gear Karlach FR","nexusFileVersion":"1","nexusFileUploadedAt":1791751687,"pakFileName":"Aza Better Starting Gear Karlach FR.pak","nexusFileId":132684,"metaUuid":null}
+]},
+"25732":{"nexusModName":"Luck Drop System - Japanese","nexusUploadedBy":"hawchangJA","nexusModId":25732,"paks":[
+{"nexusFileName":"Lucky Drop System   Japanese","nexusFileVersion":"1.8.0.37","nexusFileUploadedAt":1791753840,"pakFileName":"Lucky Drop System - Japanese.pak","nexusFileId":132694,"metaUuid":null}
 ]}}
