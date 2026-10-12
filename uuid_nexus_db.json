@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-10-11T23:52:18.307261+00:00","total_mods":18128},
+{"_meta":{"last_run":"2026-10-12T00:51:58.659339+00:00","total_mods":18129},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -13613,7 +13613,7 @@
 {"nexusFileName":"MoreLockSlots","nexusFileVersion":"1.2","nexusFileUploadedAt":1700630710,"pakFileName":"MoreLockSlots.pak","nexusFileId":29811,"metaUuid":null}
 ]},
 "4366":{"nexusModName":"Druid Wildshape Viability","nexusUploadedBy":"Syrchalis","nexusModId":4366,"paks":[
-{"nexusFileName":"Druid Wildshape Viability","nexusFileVersion":"1.4.0","nexusFileUploadedAt":1791755829,"pakFileName":"Wildshape_Viability_3027e010-2ca6-4775-966a-cd107b383648.pak","nexusFileId":132697,"metaUuid":null}
+{"nexusFileName":"Druid Wildshape Viability","nexusFileVersion":"1.4.0.2","nexusFileUploadedAt":1791764586,"pakFileName":"Wildshape_Viability_3027e010-2ca6-4775-966a-cd107b383648.pak","nexusFileId":132703,"metaUuid":null}
 ]},
 "4367":{"nexusModName":"Ketheric's Hair and Hair Color","nexusUploadedBy":"MrPartsr","nexusModId":4367,"paks":[
 {"nexusFileName":"Ketheric's Hair and Hair Color","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1700399047,"pakFileName":"KethericHair.pak","nexusFileId":29212,"metaUuid":"6f7b681f-3ff6-4157-8e91-0b526d33def0"}
@@ -58191,7 +58191,8 @@
 {"nexusFileName":"GinnungagapBarbarian_CHS","nexusFileVersion":"1.0","nexusFileUploadedAt":1768355439,"pakFileName":"GinnungagapBarbarian_CHS.pak","nexusFileId":112131,"metaUuid":null}
 ]},
 "20693":{"nexusModName":"Zani Casual outfit","nexusUploadedBy":"aruless","nexusModId":20693,"paks":[
-{"nexusFileName":"Zani Downtown Repose at home","nexusFileVersion":"2.8","nexusFileUploadedAt":1768378930,"pakFileName":"ZaniCasualWW.pak","nexusFileId":112150,"metaUuid":"6c942921-71a8-4953-96c8-e9d33b46472a"}
+{"nexusFileName":"Zani Downtown Repose at home","nexusFileVersion":"2.8","nexusFileUploadedAt":1768378930,"pakFileName":"ZaniCasualWW.pak","nexusFileId":112150,"metaUuid":"6c942921-71a8-4953-96c8-e9d33b46472a"},
+{"nexusFileName":"Zanicasual Mod io pak","nexusFileVersion":"1","nexusFileUploadedAt":1791764686,"pakFileName":"ZaniCasual_WW_e394f92b-a94a-4ee8-8f9e-1a20743d5f46.pak","nexusFileId":132704,"metaUuid":null}
 ]},
 "20696":{"nexusModName":"Justice For Sorrow - Upgrade Path And Truly Unique for Korean","nexusUploadedBy":"Eolaloe","nexusModId":20696,"paks":[
 {"nexusFileName":"Justice For Sorrow for Korean","nexusFileVersion":"1.4.2.1","nexusFileUploadedAt":1768387495,"pakFileName":"Justice For Sorrow_kr.pak","nexusFileId":112152,"metaUuid":"877a4d94-8b46-45c2-889a-1db2f97c5c42"}
@@ -71505,7 +71506,7 @@
 {"nexusFileName":"Farfelus Spells SpellLists (recommended)","nexusFileVersion":"1","nexusFileUploadedAt":1791690088,"pakFileName":"FarfelusSpells_SpellLists.pak","nexusFileId":132632,"metaUuid":null}
 ]},
 "25715":{"nexusModName":"Darth Revan Armor (KOTOR)","nexusUploadedBy":"DecodedPress","nexusModId":25715,"paks":[
-{"nexusFileName":"Darth Revan Armor","nexusFileVersion":"1.0","nexusFileUploadedAt":1791691173,"pakFileName":"RevanArmor.pak","nexusFileId":132637,"metaUuid":null}
+{"nexusFileName":"Darth Revan Armor v1.1","nexusFileVersion":"1.1","nexusFileUploadedAt":1791763108,"pakFileName":"RevanArmor.pak","nexusFileId":132702,"metaUuid":null}
 ]},
 "25716":{"nexusModName":"Better Default Values","nexusUploadedBy":"Syrchalis","nexusModId":25716,"paks":[
 {"nexusFileName":"Better Default Values","nexusFileVersion":"1.0.0.5","nexusFileUploadedAt":1791713546,"pakFileName":"Better_Default_Values_eb233d7a-abde-89a4-001e-b5331696597b.pak","nexusFileId":132650,"metaUuid":null}
@@ -71552,4 +71553,7 @@
 ]},
 "25734":{"nexusModName":"Baldur's Capsules","nexusUploadedBy":"Omniscye","nexusModId":25734,"paks":[
 {"nexusFileName":"Baldurs Capsules","nexusFileVersion":"1","nexusFileUploadedAt":1791762224,"pakFileName":"Empress_Baldurs_Spheres.pak","nexusFileId":132700,"metaUuid":null}
+]},
+"25737":{"nexusModName":"The Sunless Citadel - Custom Campaign - CHS","nexusUploadedBy":"LichMasterFang","nexusModId":25737,"paks":[
+{"nexusFileName":"SunlessCitadel CHS","nexusFileVersion":"1","nexusFileUploadedAt":1791762816,"pakFileName":"SunlessCitadel_CHS.pak","nexusFileId":132701,"metaUuid":null}
 ]}}
