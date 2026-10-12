@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-10-12T22:52:03.814949+00:00","total_mods":18135},
+{"_meta":{"last_run":"2026-10-12T23:51:40.600951+00:00","total_mods":18138},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -58422,6 +58422,9 @@
 "20783":{"nexusModName":"Shortbow Expert (Bonus Action and Feat)","nexusUploadedBy":"JaqXL","nexusModId":20783,"paks":[
 {"nexusFileName":"Shortbow Expert","nexusFileVersion":"1.0.0.10","nexusFileUploadedAt":1769087505,"pakFileName":"JaqShortbowExpert_dc3e45c2-12cf-70f7-64ee-2c704057c28c.pak","nexusFileId":112932,"metaUuid":"dc3e45c2-12cf-70f7-64ee-2c704057c28c"}
 ]},
+"20784":{"nexusModName":"Taco Bell Divine Smite (Sound Replacer)","nexusUploadedBy":"skinnysalesman","nexusModId":20784,"paks":[
+{"nexusFileName":"Taco Bell Divine Smite","nexusFileVersion":"1.1","nexusFileUploadedAt":1791847128,"pakFileName":"Taco Bell Divine Smite.pak","nexusFileId":132785,"metaUuid":null}
+]},
 "20785":{"nexusModName":"Additional Divination Spells CHS","nexusUploadedBy":"sansanjiuzhu","nexusModId":20785,"paks":[
 {"nexusFileName":"Divination_spells_CHS","nexusFileVersion":"1.00","nexusFileUploadedAt":1768821197,"pakFileName":"Divination_spells_CHS.pak","nexusFileId":112577,"metaUuid":null}
 ]},
@@ -70558,7 +70561,7 @@
 {"nexusFileName":"Stone Monkey Race - Razza Scimmia di Pietra","nexusFileVersion":"1.2","nexusFileUploadedAt":1790885631,"pakFileName":"GS_RacePilot.pak","nexusFileId":131861,"metaUuid":null}
 ]},
 "25305":{"nexusModName":"Pyra's Aegis Sword - Xenoblade Chronicles 2","nexusUploadedBy":"Jackhannibal","nexusModId":25305,"paks":[
-{"nexusFileName":"PyrasAegisSword","nexusFileVersion":"1.3","nexusFileUploadedAt":1791748386,"pakFileName":"PyrasAegisSword.pak","nexusFileId":132678,"metaUuid":"a6394bb1-693f-4718-ad4e-0a7cd76a3ee7"}
+{"nexusFileName":"PyrasAegisSword","nexusFileVersion":"1.4","nexusFileUploadedAt":1791847522,"pakFileName":"PyrasAegisSword.pak","nexusFileId":132788,"metaUuid":"a6394bb1-693f-4718-ad4e-0a7cd76a3ee7"}
 ]},
 "25308":{"nexusModName":"College of the Voice","nexusUploadedBy":"Ryujin24","nexusModId":25308,"paks":[
 {"nexusFileName":"College of the Voice - Lv12 version","nexusFileVersion":"2.3.3.60","nexusFileUploadedAt":1790550137,"pakFileName":"CollegeofTheVoice_547c95cc-0c1d-4bd2-bb82-8c396f2bb9e5.pak","nexusFileId":131612,"metaUuid":"547c95cc-0c1d-4bd2-bb82-8c396f2bb9e5"},
@@ -70621,7 +70624,7 @@
 {"nexusFileName":"SummerBeach_TFD_HaileyDesertedIslandVacation","nexusFileVersion":"1","nexusFileUploadedAt":1790493893,"pakFileName":"SummerBeach_TheFirstDescendant_HaileyDesertedIslandVacation.pak","nexusFileId":131494,"metaUuid":"e1e2fb4d-5bbc-4171-8a04-e09c372ed269"}
 ]},
 "25332":{"nexusModName":"Effortless Expressions - Simple Expression Posing with In-game UI","nexusUploadedBy":"ARAFEL194","nexusModId":25332,"paks":[
-{"nexusFileName":"EffortlessExpressions V1.1.0.1","nexusFileVersion":"1","nexusFileUploadedAt":1790504130,"pakFileName":"EffortlessExpressions_V1.1.0.1.pak","nexusFileId":131510,"metaUuid":"2dff4fd2-e7f4-41de-ac76-3d37e5767e8e"}
+{"nexusFileName":"EffortlessExpressions V1.1.0.2","nexusFileVersion":"1","nexusFileUploadedAt":1791845522,"pakFileName":"EffortlessExpressions_V1.1.0.2.pak","nexusFileId":132783,"metaUuid":null}
 ]},
 "25334":{"nexusModName":"True Wizard Ritual Casting","nexusUploadedBy":"AL12","nexusModId":25334,"paks":[
 {"nexusFileName":"True Wizard Ritual Casting","nexusFileVersion":"1.0.1.2","nexusFileUploadedAt":1790519757,"pakFileName":"TrueWizardRitualCasting_51ef52fa-29cd-4f11-a5cb-9515b60eb70d.pak","nexusFileId":131574,"metaUuid":"51ef52fa-29cd-4f11-a5cb-9515b60eb70d"}
@@ -71581,4 +71584,11 @@
 "25746":{"nexusModName":"No Flash Photography - Photo Mode Flash Adjuster","nexusUploadedBy":"skinnysalesman","nexusModId":25746,"paks":[
 {"nexusFileName":"Black Flash Photo Mode","nexusFileVersion":"1","nexusFileUploadedAt":1791839727,"pakFileName":"Black Flash Photo Mode.pak","nexusFileId":132779,"metaUuid":null},
 {"nexusFileName":"No Flash Photo Mode","nexusFileVersion":"1","nexusFileUploadedAt":1791839751,"pakFileName":"No Flash Photo Mode.pak","nexusFileId":132780,"metaUuid":null}
+]},
+"25748":{"nexusModName":"CircleoftheBlighted_VN","nexusUploadedBy":"THACHTHACH","nexusModId":25748,"paks":[
+{"nexusFileName":"CircleoftheBlighted VN","nexusFileVersion":"1","nexusFileUploadedAt":1791845768,"pakFileName":"CircleoftheBlighted_VN.pak","nexusFileId":132784,"metaUuid":null},
+{"nexusFileName":"CircleoftheBlighted VN","nexusFileVersion":"1","nexusFileUploadedAt":1791847480,"pakFileName":"CircleoftheBlighted_VN.pak","nexusFileId":132787,"metaUuid":null}
+]},
+"25750":{"nexusModName":"Necromancer Overhaul - Undead Legion and Death Shepherd - PTBR","nexusUploadedBy":"BarovZx","nexusModId":25750,"paks":[
+{"nexusFileName":"Necromancer Overhaul PTBR","nexusFileVersion":"24.09.2026","nexusFileUploadedAt":1791848182,"pakFileName":"Necromancer Overhaul PTBR.pak","nexusFileId":132789,"metaUuid":null}
 ]}}
