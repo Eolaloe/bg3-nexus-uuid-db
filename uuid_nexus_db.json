@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-10-12T20:51:57.919001+00:00","total_mods":18134},
+{"_meta":{"last_run":"2026-10-12T21:51:55.353099+00:00","total_mods":18135},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -13602,7 +13602,7 @@
 {"nexusFileName":"MoreLockSlots","nexusFileVersion":"1.2","nexusFileUploadedAt":1700630710,"pakFileName":"MoreLockSlots.pak","nexusFileId":29811,"metaUuid":null}
 ]},
 "4366":{"nexusModName":"Druid Wildshape Viability","nexusUploadedBy":"Syrchalis","nexusModId":4366,"paks":[
-{"nexusFileName":"Druid Wildshape Viability","nexusFileVersion":"1.4.0.2","nexusFileUploadedAt":1791764586,"pakFileName":"Wildshape_Viability_3027e010-2ca6-4775-966a-cd107b383648.pak","nexusFileId":132703,"metaUuid":null}
+{"nexusFileName":"Druid Wildshape Viability","nexusFileVersion":"1.4.0.4","nexusFileUploadedAt":1791841207,"pakFileName":"Wildshape_Viability_3027e010-2ca6-4775-966a-cd107b383648.pak","nexusFileId":132781,"metaUuid":null}
 ]},
 "4367":{"nexusModName":"Ketheric's Hair and Hair Color","nexusUploadedBy":"MrPartsr","nexusModId":4367,"paks":[
 {"nexusFileName":"Ketheric's Hair and Hair Color","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1700399047,"pakFileName":"KethericHair.pak","nexusFileId":29212,"metaUuid":"6f7b681f-3ff6-4157-8e91-0b526d33def0"}
@@ -71577,4 +71577,8 @@
 ]},
 "25745":{"nexusModName":"Druid Wildshape Viability - Russian Translation 1.4.0.2","nexusUploadedBy":"SNKmod777","nexusModId":25745,"paks":[
 {"nexusFileName":"WildShape Viability RU","nexusFileVersion":"1.0.0.1","nexusFileUploadedAt":1791828722,"pakFileName":"WildShape_Viability_RU.pak","nexusFileId":132776,"metaUuid":null}
+]},
+"25746":{"nexusModName":"No Flash Photography - Photo Mode Flash Adjuster","nexusUploadedBy":"skinnysalesman","nexusModId":25746,"paks":[
+{"nexusFileName":"Black Flash Photo Mode","nexusFileVersion":"1","nexusFileUploadedAt":1791839727,"pakFileName":"Black Flash Photo Mode.pak","nexusFileId":132779,"metaUuid":null},
+{"nexusFileName":"No Flash Photo Mode","nexusFileVersion":"1","nexusFileUploadedAt":1791839751,"pakFileName":"No Flash Photo Mode.pak","nexusFileId":132780,"metaUuid":null}
 ]}}
