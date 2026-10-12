@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-10-12T13:52:12.142531+00:00","total_mods":18131},
+{"_meta":{"last_run":"2026-10-12T14:53:48.924797+00:00","total_mods":18133},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -65461,7 +65461,8 @@
 ]},
 "23318":{"nexusModName":"Sights of the Seelie Overhaul","nexusUploadedBy":"MaxStrengthWizard","nexusModId":23318,"paks":[
 {"nexusFileName":"Seelie Buff Patch","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1781180268,"pakFileName":"Seelie Buff Patch.pak","nexusFileId":123326,"metaUuid":null},
-{"nexusFileName":"Sights Of The Seelie Overhaul","nexusFileVersion":"1.7.8","nexusFileUploadedAt":1789401943,"pakFileName":"Sights of the Seelie Overhaul.pak","nexusFileId":130516,"metaUuid":"d240b4c0-1d1c-4d15-b99b-a9b83924159d"}
+{"nexusFileName":"Sights Of The Seelie Overhaul","nexusFileVersion":"1.7.8","nexusFileUploadedAt":1789401943,"pakFileName":"Sights of the Seelie Overhaul.pak","nexusFileId":130516,"metaUuid":"d240b4c0-1d1c-4d15-b99b-a9b83924159d"},
+{"nexusFileName":"Vault Spells Unlocked","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1791814852,"pakFileName":"Vault Spells Unlocked.pak","nexusFileId":132765,"metaUuid":null}
 ]},
 "23319":{"nexusModName":"Bloody Demonic Equipment Reimagined - Bugfix Rebalance CN EN","nexusUploadedBy":"91wangsir","nexusModId":23319,"paks":[
 {"nexusFileName":"Bloody Demonic Equipment Bugfix Rebalance CN EN","nexusFileVersion":"1.9","nexusFileUploadedAt":1781691333,"pakFileName":"Bloody Demonic Equipment Reimagined - Bugfix Rebalance CN EN.pak","nexusFileId":123748,"metaUuid":"9b6785eb-ab2c-4c01-9ccb-7ede96c13d42"}
@@ -70360,7 +70361,8 @@
 {"nexusFileName":"Oath of Excellence","nexusFileVersion":"1.0.0.6","nexusFileUploadedAt":1791052035,"pakFileName":"excellence_68d43f80-8b9e-d4c1-144a-4f339b6393cc.pak","nexusFileId":132035,"metaUuid":"68d43f80-8b9e-d4c1-144a-4f339b6393cc"}
 ]},
 "25233":{"nexusModName":"Wind ring","nexusUploadedBy":"justakidelcor","nexusModId":25233,"paks":[
-{"nexusFileName":"Wind Ring","nexusFileVersion":"1.4","nexusFileUploadedAt":1790602677,"pakFileName":"Wind Ring.pak","nexusFileId":131640,"metaUuid":"2fed4822-1b9f-4a55-81cb-69918401c817"}
+{"nexusFileName":"Wind Ring","nexusFileVersion":"1.4","nexusFileUploadedAt":1790602677,"pakFileName":"Wind Ring.pak","nexusFileId":131640,"metaUuid":"2fed4822-1b9f-4a55-81cb-69918401c817"},
+{"nexusFileName":"Wind Ring","nexusFileVersion":"1.5.2","nexusFileUploadedAt":1791815284,"pakFileName":"Wind Ring.pak","nexusFileId":132767,"metaUuid":"2fed4822-1b9f-4a55-81cb-69918401c817"}
 ]},
 "25234":{"nexusModName":"ilzkaal's Elven Head Preset Pt.2","nexusUploadedBy":"ilzkaal","nexusModId":25234,"paks":[
 {"nexusFileName":"Ilzkaals Elves","nexusFileVersion":"1.0.0.27","nexusFileUploadedAt":1790180597,"pakFileName":"ilzkaals_elves.pak","nexusFileId":131237,"metaUuid":null}
@@ -71510,16 +71512,17 @@
 {"nexusFileName":"CambionsCompanion RU","nexusFileVersion":"1","nexusFileUploadedAt":1791713531,"pakFileName":"CambionsCompanion_8927de59-5149-ad51-4072-83003db2b218.pak","nexusFileId":132649,"metaUuid":null}
 ]},
 "25720":{"nexusModName":"Nyskaya's Honest Hands","nexusUploadedBy":"Nyskaya","nexusModId":25720,"paks":[
-{"nexusFileName":"Nyskaya's Honest Hands","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1791721549,"pakFileName":"Nyskaya_HonestHands.pak","nexusFileId":132655,"metaUuid":"56918848-40d0-453b-89b5-034c2374635e"}
+{"nexusFileName":"Nyskaya's Honest Hands","nexusFileVersion":"1.1.0","nexusFileUploadedAt":1791816237,"pakFileName":"Nyskaya_HonestHands.pak","nexusFileId":132772,"metaUuid":"56918848-40d0-453b-89b5-034c2374635e"}
 ]},
 "25723":{"nexusModName":"Nyskaya's Trainer of Haste","nexusUploadedBy":"Nyskaya","nexusModId":25723,"paks":[
-{"nexusFileName":"Nyskaya's Trainer of Haste","nexusFileVersion":"1.1.1","nexusFileUploadedAt":1791813054,"pakFileName":"Nyskaya_TrainerOfHaste.pak","nexusFileId":132752,"metaUuid":"16d9c7a0-01f8-4136-bad3-48ec1ad1ad75"}
+{"nexusFileName":"Nyskaya's Trainer of Haste","nexusFileVersion":"1.1.1","nexusFileUploadedAt":1791813054,"pakFileName":"Nyskaya_TrainerOfHaste.pak","nexusFileId":132752,"metaUuid":"16d9c7a0-01f8-4136-bad3-48ec1ad1ad75"},
+{"nexusFileName":"Trainer of Haste 1.2.0 BETA (Arcane Closet)","nexusFileVersion":"1.2.0-beta","nexusFileUploadedAt":1791813257,"pakFileName":"Nyskaya_TrainerOfHaste.pak","nexusFileId":132753,"metaUuid":"16d9c7a0-01f8-4136-bad3-48ec1ad1ad75"}
 ]},
 "25724":{"nexusModName":"Stack All - One-Key Item Stacking","nexusUploadedBy":"pleymor","nexusModId":25724,"paks":[
 {"nexusFileName":"StackAll","nexusFileVersion":"1.1.0","nexusFileUploadedAt":1791746750,"pakFileName":"StackAll.pak","nexusFileId":132676,"metaUuid":"2e3e8dc7-0383-401f-8b53-47709bf6c5c5"}
 ]},
 "25725":{"nexusModName":"NPCs have Subclasses and Feats (with Sorcerers NPCs) (Russian Translate)","nexusUploadedBy":"SexSux","nexusModId":25725,"paks":[
-{"nexusFileName":"NPCs Have Subclasses   SE RUS","nexusFileVersion":"3.6","nexusFileUploadedAt":1791729164,"pakFileName":"NPCs have Subclasses - SE_RUS.pak","nexusFileId":132667,"metaUuid":null}
+{"nexusFileName":"NPCs Have Subclasses   SE RUS","nexusFileVersion":"3.6","nexusFileUploadedAt":1791814142,"pakFileName":"NPCs have Subclasses - SE_RUS.pak","nexusFileId":132760,"metaUuid":null}
 ]},
 "25726":{"nexusModName":"Nyskaya's Kindred Spirits","nexusUploadedBy":"Nyskaya","nexusModId":25726,"paks":[
 {"nexusFileName":"Nyskaya's Kindred Spirits","nexusFileVersion":"0.9.0","nexusFileUploadedAt":1791741767,"pakFileName":"Nyskaya_KindredSpirits.pak","nexusFileId":132670,"metaUuid":null}
@@ -71551,4 +71554,23 @@
 ]},
 "25741":{"nexusModName":"Air Jordans - Legendary Item","nexusUploadedBy":"martincorvalan","nexusModId":25741,"paks":[
 {"nexusFileName":"AirJordans ","nexusFileVersion":"1","nexusFileUploadedAt":1791807298,"pakFileName":"AirJordans_Distance_Icons.pak","nexusFileId":132741,"metaUuid":null}
+]},
+"25743":{"nexusModName":"Moonglow - Shadowheart Edits","nexusUploadedBy":"SweetGenerousThing","nexusModId":25743,"paks":[
+{"nexusFileName":"SGT_Moonglow - Shadowheart Edit (Long Hair)","nexusFileVersion":"1","nexusFileUploadedAt":1791813273,"pakFileName":"SGT_ShadowheartEdit_804633d0-ba22-1005-29f4-cfbce9ddd287.pak","nexusFileId":132754,"metaUuid":null},
+{"nexusFileName":"SGT_Moonglow - Shadowheart Edit (Ponytail)","nexusFileVersion":"1","nexusFileUploadedAt":1791813343,"pakFileName":"SGT_ShadowheartEdit_804633d0-ba22-1005-29f4-cfbce9ddd287.pak","nexusFileId":132755,"metaUuid":null},
+{"nexusFileName":"SGT_Moonglow - Shadowheart Edit (Short Hair)","nexusFileVersion":"1","nexusFileUploadedAt":1791813400,"pakFileName":"SGT_ShadowheartEdit_804633d0-ba22-1005-29f4-cfbce9ddd287.pak","nexusFileId":132756,"metaUuid":null},
+{"nexusFileName":"Moonglow - Shadowheart Portrait (Long Hair)","nexusFileVersion":"1","nexusFileUploadedAt":1791813474,"pakFileName":"Moonglow - Shadowheart Portrait.pak","nexusFileId":132757,"metaUuid":null},
+{"nexusFileName":"Moonglow - Shadowheart Portrait (Ponytail)","nexusFileVersion":"1","nexusFileUploadedAt":1791813519,"pakFileName":"Moonglow - Shadowheart Portrait.pak","nexusFileId":132758,"metaUuid":null},
+{"nexusFileName":"Moonglow - Shadowheart Portrait (Short Hair)","nexusFileVersion":"1","nexusFileUploadedAt":1791813568,"pakFileName":"Moonglow - Shadowheart Portrait.pak","nexusFileId":132759,"metaUuid":null},
+{"nexusFileName":"SGT_Moonglow - Head Only","nexusFileVersion":"1","nexusFileUploadedAt":1791814358,"pakFileName":"SGT_Moonglow_HeadOnly_161f97d2-312e-550b-3591-86f9d0ac60ec.pak","nexusFileId":132761,"metaUuid":null},
+{"nexusFileName":"SGT_Moonglow - Armor","nexusFileVersion":"1","nexusFileUploadedAt":1791814436,"pakFileName":"SGT_ShartArmor_Tut_55ac11c1-a6d4-a700-99f9-0ebe0d6d1abf.pak","nexusFileId":132762,"metaUuid":null},
+{"nexusFileName":"SGT_Moonglow_Act 1-2 Hairstyle - Long","nexusFileVersion":"1","nexusFileUploadedAt":1791814567,"pakFileName":"Act1_2_c37b8804-0e66-024a-8f3d-9e14fe0ab8ea.pak","nexusFileId":132763,"metaUuid":null},
+{"nexusFileName":"SGT_Moonglow_Act 1-2 Hairstyle - Ponytail","nexusFileVersion":"1","nexusFileUploadedAt":1791814626,"pakFileName":"Act1_2_c37b8804-0e66-024a-8f3d-9e14fe0ab8ea.pak","nexusFileId":132764,"metaUuid":null},
+{"nexusFileName":"SGT_Moonglow_Act 1-2 Hairstyle - Short","nexusFileVersion":"1","nexusFileUploadedAt":1791814864,"pakFileName":"Act1_2_c37b8804-0e66-024a-8f3d-9e14fe0ab8ea.pak","nexusFileId":132766,"metaUuid":null},
+{"nexusFileName":"SGT_Moonglow_Act 3 Hairstyle - Long","nexusFileVersion":"1","nexusFileUploadedAt":1791815551,"pakFileName":"Act3_5cbb5499-9f5d-1ee4-23f6-eac1a197b4bf.pak","nexusFileId":132768,"metaUuid":null},
+{"nexusFileName":"SGT_Moonglow_Act 3 Hairstyle - Ponytail","nexusFileVersion":"1","nexusFileUploadedAt":1791815596,"pakFileName":"Act3_5cbb5499-9f5d-1ee4-23f6-eac1a197b4bf.pak","nexusFileId":132769,"metaUuid":null},
+{"nexusFileName":"SGT_Moonglow_Act 3 Hairstyle - Short","nexusFileVersion":"1","nexusFileUploadedAt":1791815657,"pakFileName":"Act3_5cbb5499-9f5d-1ee4-23f6-eac1a197b4bf.pak","nexusFileId":132770,"metaUuid":null}
+]},
+"25744":{"nexusModName":"Druid Perfection - Russian Translation 1.3.0","nexusUploadedBy":"SNKmod777","nexusModId":25744,"paks":[
+{"nexusFileName":"Druid Perfection RU","nexusFileVersion":"1.0.0.1","nexusFileUploadedAt":1791815918,"pakFileName":"Druid_Perfection_RU.pak","nexusFileId":132771,"metaUuid":null}
 ]}}
