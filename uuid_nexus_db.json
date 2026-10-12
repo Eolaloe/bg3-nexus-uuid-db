@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-10-12T09:52:17.429022+00:00","total_mods":18130},
+{"_meta":{"last_run":"2026-10-12T10:52:06.998325+00:00","total_mods":18130},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -8551,7 +8551,6 @@
 ]},
 "2609":{"nexusModName":"REWard's Dice Emporium","nexusUploadedBy":"PrimoREWard","nexusModId":2609,"paks":[
 {"nexusFileName":"Old B in a Jar","nexusFileVersion":"1.0","nexusFileUploadedAt":1706310693,"pakFileName":"BinaJar.pak","nexusFileId":41838,"metaUuid":null},
-{"nexusFileName":"Undead Dice (Requested)","nexusFileVersion":"1","nexusFileUploadedAt":1791433692,"pakFileName":"Undead.pak","nexusFileId":132358,"metaUuid":null},
 {"nexusFileName":"Royal Mosaic","nexusFileVersion":"1","nexusFileUploadedAt":1791778803,"pakFileName":"RoyalMosaicDice.pak","nexusFileId":132707,"metaUuid":null},
 {"nexusFileName":"Embers","nexusFileVersion":"1","nexusFileUploadedAt":1791778893,"pakFileName":"EmbersAndFlames.pak","nexusFileId":132708,"metaUuid":null},
 {"nexusFileName":"Magic Crystal","nexusFileVersion":"1","nexusFileUploadedAt":1791778946,"pakFileName":"MagicCrystal.pak","nexusFileId":132709,"metaUuid":null},
@@ -8569,7 +8568,9 @@
 {"nexusFileName":"Sparkle Dice","nexusFileVersion":"1","nexusFileUploadedAt":1791779420,"pakFileName":"SparkleDice.pak","nexusFileId":132721,"metaUuid":null},
 {"nexusFileName":"Crystal Bubble","nexusFileVersion":"1","nexusFileUploadedAt":1791779540,"pakFileName":"CrystalBubble.pak","nexusFileId":132722,"metaUuid":null},
 {"nexusFileName":"Rainbow Dark Crystal","nexusFileVersion":"1","nexusFileUploadedAt":1791779603,"pakFileName":"RainbowDarkCrystal.pak","nexusFileId":132723,"metaUuid":null},
-{"nexusFileName":"Slime Dice (Requested)","nexusFileVersion":"1","nexusFileUploadedAt":1791786879,"pakFileName":"SlimeDice.pak","nexusFileId":132728,"metaUuid":null}
+{"nexusFileName":"Slime Dice (Requested)","nexusFileVersion":"1","nexusFileUploadedAt":1791786879,"pakFileName":"SlimeDice.pak","nexusFileId":132728,"metaUuid":null},
+{"nexusFileName":"Undead Dice (Requested)","nexusFileVersion":"2","nexusFileUploadedAt":1791800073,"pakFileName":"UndeadDiceRedo.pak","nexusFileId":132734,"metaUuid":null},
+{"nexusFileName":"Nebula Two","nexusFileVersion":"1","nexusFileUploadedAt":1791800116,"pakFileName":"NebulaTwo.pak","nexusFileId":132735,"metaUuid":null}
 ]},
 "2610":{"nexusModName":"LuckyUnderwearRussian","nexusUploadedBy":"ulkyome","nexusModId":2610,"paks":[
 {"nexusFileName":"Lucky Underwear Russian","nexusFileVersion":"1","nexusFileUploadedAt":1695538111,"pakFileName":"LuckyRussian.pak","nexusFileId":18272,"metaUuid":null}
@@ -35972,7 +35973,7 @@
 ]},
 "12727":{"nexusModName":"DnD 5.5e All-in-One BEYOND","nexusUploadedBy":"yoonmoonsik43","nexusModId":12727,"paks":[
 {"nexusFileName":"dnd2024 - V3 Legacy","nexusFileVersion":"3.4.6.4","nexusFileUploadedAt":1771945305,"pakFileName":"DnD2024_897914ef-5c96-053c-44af-0be823f895fe.pak","nexusFileId":115523,"metaUuid":"897914ef-5c96-053c-44af-0be823f895fe"},
-{"nexusFileName":"DnD 5.5e All-in-One BEYOND","nexusFileVersion":"4.13.6.0","nexusFileUploadedAt":1791750761,"pakFileName":"DnD2024_897914ef-5c96-053c-44af-0be823f895fe.pak","nexusFileId":132680,"metaUuid":"897914ef-5c96-053c-44af-0be823f895fe"}
+{"nexusFileName":"DnD 5.5e All-in-One BEYOND","nexusFileVersion":"4.13.7.0","nexusFileUploadedAt":1791799124,"pakFileName":"DnD2024_897914ef-5c96-053c-44af-0be823f895fe.pak","nexusFileId":132731,"metaUuid":"897914ef-5c96-053c-44af-0be823f895fe"}
 ]},
 "12728":{"nexusModName":"Origin-Themed Headwear KR","nexusUploadedBy":"Soorawang","nexusModId":12728,"paks":[
 {"nexusFileName":"Origin-Themed Headwear KR","nexusFileVersion":"1.0","nexusFileUploadedAt":1727930331,"pakFileName":"OriginHeadwear_kr.pak","nexusFileId":73692,"metaUuid":null}
@@ -47391,7 +47392,7 @@
 {"nexusFileName":"SamuraiCHS","nexusFileVersion":"1.6.0.1","nexusFileUploadedAt":1749979790,"pakFileName":"SamuraiCHS.pak","nexusFileId":95920,"metaUuid":"5bc989ca-c758-439d-be06-90cd805ccd79"}
 ]},
 "17089":{"nexusModName":"All-In-One Collector Total (Auto Loot)","nexusUploadedBy":"swissfred","nexusModId":17089,"paks":[
-{"nexusFileName":"All-In-One Collector Total (Auto Loot)","nexusFileVersion":"3.3.8.14","nexusFileUploadedAt":1790039484,"pakFileName":"all-in-one-collector-total_d427ecdb-8c8a-afd6-0bbe-11c74bb851b9.pak","nexusFileId":131105,"metaUuid":"d427ecdb-8c8a-afd6-0bbe-11c74bb851b9"}
+{"nexusFileName":"All-In-One Collector Total (Auto Loot)","nexusFileVersion":"3.4.8.0","nexusFileUploadedAt":1791800364,"pakFileName":"all-in-one-collector-total_d427ecdb-8c8a-afd6-0bbe-11c74bb851b9.pak","nexusFileId":132736,"metaUuid":"d427ecdb-8c8a-afd6-0bbe-11c74bb851b9"}
 ]},
 "17091":{"nexusModName":"Various Dialogue Fixes","nexusUploadedBy":"kelocena","nexusModId":17091,"paks":[
 {"nexusFileName":"VDFShadowLaezelFight","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1757624463,"pakFileName":"VDF_ShadLae_Fight.pak","nexusFileId":102522,"metaUuid":"09e13607-25ef-4d29-a6ad-5d34dd92f094"},
@@ -63196,7 +63197,7 @@
 {"nexusFileName":"Fatebond","nexusFileVersion":"1.4","nexusFileUploadedAt":1784576306,"pakFileName":"Fatebond.pak","nexusFileId":126087,"metaUuid":"6cfead1f-d54c-4dfb-bc94-05e9fc1e2970"}
 ]},
 "22459":{"nexusModName":"DnD 5.5e All-in-One BEYOND Russian Localization","nexusUploadedBy":"XapcT","nexusModId":22459,"paks":[
-{"nexusFileName":"DnD 5.5e AIO Russian v0.6.7.zip","nexusFileVersion":"0.6.7","nexusFileUploadedAt":1791751706,"pakFileName":"DnD 5.5e AIO Russian.pak","nexusFileId":132685,"metaUuid":"6401e84d-daf2-416d-adeb-99c03a2487a6"}
+{"nexusFileName":"DnD 5.5e AIO Russian v0.6.8.zip","nexusFileVersion":"0.6.8","nexusFileUploadedAt":1791799354,"pakFileName":"DnD 5.5e AIO Russian.pak","nexusFileId":132733,"metaUuid":"6401e84d-daf2-416d-adeb-99c03a2487a6"}
 ]},
 "22460":{"nexusModName":"Elementally Based Gear","nexusUploadedBy":"Useyourrifle","nexusModId":22460,"paks":[
 {"nexusFileName":"Elemental_Gear.7z","nexusFileVersion":"1","nexusFileUploadedAt":1776346340,"pakFileName":"OP_Bow_56032304-f037-e077-f5e7-045d2e03ef1c.pak","nexusFileId":119147,"metaUuid":"56032304-f037-e077-f5e7-045d2e03ef1c"}
@@ -65172,7 +65173,7 @@
 ]},
 "23212":{"nexusModName":"Universal Pose Patcher (now with Animation support)","nexusUploadedBy":"julesberry","nexusModId":23212,"paks":[
 {"nexusFileName":"UPP Empty Test Sets","nexusFileVersion":"1.0.0.3","nexusFileUploadedAt":1781135770,"pakFileName":"UPPEmptyTestSets_42304c3c-8110-e056-b56e-154bf4b64140.pak","nexusFileId":123297,"metaUuid":null},
-{"nexusFileName":"Universal Pose Patcher","nexusFileVersion":"2.0.0.0","nexusFileUploadedAt":1788720852,"pakFileName":"UniversalPosePatcher.pak","nexusFileId":129897,"metaUuid":"019e8a3a-15ad-73af-9ee6-204b7a74a692"}
+{"nexusFileName":"Universal Pose Patcher","nexusFileVersion":"2.0.1.0","nexusFileUploadedAt":1791799232,"pakFileName":"UniversalPosePatcher.pak","nexusFileId":132732,"metaUuid":"019e8a3a-15ad-73af-9ee6-204b7a74a692"}
 ]},
 "23213":{"nexusModName":"Blood-Soaked Lunatics and Tools of Bhaal (CPF Settings)","nexusUploadedBy":"CaylePolin","nexusModId":23213,"paks":[
 {"nexusFileName":"The Tools of Bhaal","nexusFileVersion":"1","nexusFileUploadedAt":1780624467,"pakFileName":"CPF_ThePatriarofBhaal_WeakLittleBarben_a1771422-6f.pak","nexusFileId":122820,"metaUuid":null},
