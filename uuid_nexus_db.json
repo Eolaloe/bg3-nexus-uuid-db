@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-10-13T10:52:18.264233+00:00","total_mods":18145},
+{"_meta":{"last_run":"2026-10-13T11:52:07.076137+00:00","total_mods":18146},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -52852,7 +52852,7 @@
 {"nexusFileName":"Heavy Weapons RAW Hybrid","nexusFileVersion":"1.4.8","nexusFileUploadedAt":1781693921,"pakFileName":"Heavy Weapons RAW Hybrid.pak","nexusFileId":123750,"metaUuid":"c2280d10-1be4-420c-9cf6-285d1e5d27a4"},
 {"nexusFileName":"Heavy Weapons RAW - 5e 2014","nexusFileVersion":"1.4.8","nexusFileUploadedAt":1781693931,"pakFileName":"Heavy Weapons RAW 2014.pak","nexusFileId":123751,"metaUuid":null},
 {"nexusFileName":"Heavy Weapons RAW - 5.5e","nexusFileVersion":"1.4.8","nexusFileUploadedAt":1781693944,"pakFileName":"Heavy Weapons RAW 5.5e.pak","nexusFileId":123752,"metaUuid":"c2280d10-1be4-420c-9cf6-285d1e5d27a4"},
-{"nexusFileName":"Heavy Weapons RAW - DIQ Edition","nexusFileVersion":"1.5","nexusFileUploadedAt":1791812394,"pakFileName":"Heavy Weapons RAW - DIQ Edition.pak","nexusFileId":132751,"metaUuid":null}
+{"nexusFileName":"Heavy Weapons RAW - DIQ Edition","nexusFileVersion":"1.5.1","nexusFileUploadedAt":1791889507,"pakFileName":"Heavy Weapons RAW - DIQ Edition.pak","nexusFileId":132831,"metaUuid":null}
 ]},
 "19029":{"nexusModName":"Nightsong male outfit-CHS","nexusUploadedBy":"AgleafSdan","nexusModId":19029,"paks":[
 {"nexusFileName":"Nightsong male outfit-CHS","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1759766602,"pakFileName":"Nightsong male outfit-CHS.pak","nexusFileId":104471,"metaUuid":null}
@@ -64634,7 +64634,11 @@
 ]},
 "23058":{"nexusModName":"Akm Tiefling Body","nexusUploadedBy":"Akumu22","nexusModId":23058,"paks":[
 {"nexusFileName":"FIX - STAV Tail Tats","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1786023194,"pakFileName":"Akm Tiefling Body - STAV Tail FIX.pak","nexusFileId":127442,"metaUuid":"061d366e-a9bc-42a7-893c-5e656eb60733"},
-{"nexusFileName":"Akm Tiefling Body","nexusFileVersion":"3.0.2.0","nexusFileUploadedAt":1791653772,"pakFileName":"Akm Tiefling Body.pak","nexusFileId":132599,"metaUuid":"2c07a81c-9577-4bf5-8420-314f002a2390"}
+{"nexusFileName":"Akm Tiefling Body - Main","nexusFileVersion":"4.0.0.0","nexusFileUploadedAt":1791890329,"pakFileName":"Akm Tiefling Body - Main.pak","nexusFileId":132832,"metaUuid":null},
+{"nexusFileName":"Akm Tiefling Body - BT1","nexusFileVersion":"4.0.0.0","nexusFileUploadedAt":1791890500,"pakFileName":"Akm Tiefling Body - BT1 Addon.pak","nexusFileId":132833,"metaUuid":null},
+{"nexusFileName":"Akm Tiefling Body - BT2","nexusFileVersion":"4.0.0.0","nexusFileUploadedAt":1791890568,"pakFileName":"Akm Tiefling Body - BT2 Addon.pak","nexusFileId":132834,"metaUuid":null},
+{"nexusFileName":"Akm Tiefling Body - BT3","nexusFileVersion":"4.0.0.0","nexusFileUploadedAt":1791890649,"pakFileName":"Akm Tiefling Body - BT3 Addon.pak","nexusFileId":132835,"metaUuid":null},
+{"nexusFileName":"Akm Tiefling Body - BT4","nexusFileVersion":"4.0.0.0","nexusFileUploadedAt":1791890695,"pakFileName":"Akm Tiefling Body - BT4 Addon.pak","nexusFileId":132836,"metaUuid":null}
 ]},
 "23059":{"nexusModName":"Flora Dress and Long Nature Hair","nexusUploadedBy":"Lyniara","nexusModId":23059,"paks":[
 {"nexusFileName":"Flora Dress","nexusFileVersion":"1","nexusFileUploadedAt":1779744844,"pakFileName":"LynFloraDress.pak","nexusFileId":122131,"metaUuid":"a7c4ef09-4ca7-428a-950d-85c4c74573b9"},
@@ -71633,4 +71637,7 @@
 ]},
 "25760":{"nexusModName":"Act Two Expansion - French Translation","nexusUploadedBy":"CyskLuciodin","nexusModId":25760,"paks":[
 {"nexusFileName":"Act Two Expansion   French Translation","nexusFileVersion":"1","nexusFileUploadedAt":1791885918,"pakFileName":"Act Two Expansion - French Translation.pak","nexusFileId":132827,"metaUuid":null}
+]},
+"25761":{"nexusModName":"Homeless Californian Class","nexusUploadedBy":"themadhattermsr","nexusModId":25761,"paks":[
+{"nexusFileName":"HomelessCalifornian Playtest 2026 10 12","nexusFileVersion":"1","nexusFileUploadedAt":1791888886,"pakFileName":"HomelessCalifornian.pak","nexusFileId":132830,"metaUuid":null}
 ]}}
