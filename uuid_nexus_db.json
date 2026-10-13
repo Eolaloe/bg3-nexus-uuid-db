@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-10-12T23:51:40.600951+00:00","total_mods":18138},
+{"_meta":{"last_run":"2026-10-13T00:51:44.779593+00:00","total_mods":18139},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -44037,7 +44037,7 @@
 {"nexusFileName":"Sorcerer Dialog Tag","nexusFileVersion":"1","nexusFileUploadedAt":1746455010,"pakFileName":"AVisSorcerer_cc40f4d6-40f9-0a74-c8db-6068dd3ab833.pak","nexusFileId":91847,"metaUuid":"cc40f4d6-40f9-0a74-c8db-6068dd3ab833"},
 {"nexusFileName":"Feat at Level 2 addon","nexusFileVersion":"1","nexusFileUploadedAt":1767716155,"pakFileName":"AVLv2Feat_a5e2f1ca-afe7-0b68-bed8-846d5007cd3b.pak","nexusFileId":111319,"metaUuid":null},
 {"nexusFileName":"Additional Feat Selection","nexusFileVersion":"1","nexusFileUploadedAt":1771522227,"pakFileName":"ArcaneVanguardFeats_1a980b2e-2094-3ac5-1f88-b0994df8feef.pak","nexusFileId":115150,"metaUuid":"1a980b2e-2094-3ac5-1f88-b0994df8feef"},
-{"nexusFileName":"Arcane Vanguard","nexusFileVersion":"1.5.6.142","nexusFileUploadedAt":1789130166,"pakFileName":"MysticWarden_0c01af3c-671c-8cfa-a4e6-cad1cb237a85.pak","nexusFileId":130275,"metaUuid":"0c01af3c-671c-8cfa-a4e6-cad1cb237a85"}
+{"nexusFileName":"Arcane Vanguard","nexusFileVersion":"1.5.6.143","nexusFileUploadedAt":1791852211,"pakFileName":"MysticWarden_0c01af3c-671c-8cfa-a4e6-cad1cb237a85.pak","nexusFileId":132795,"metaUuid":"0c01af3c-671c-8cfa-a4e6-cad1cb237a85"}
 ]},
 "15836":{"nexusModName":"Petite Body and Cute Outfits","nexusUploadedBy":"Sindae","nexusModId":15836,"paks":[
 {"nexusFileName":"PetiteUtav","nexusFileVersion":"1.0","nexusFileUploadedAt":1744875255,"pakFileName":"ThinUTav.pak","nexusFileId":89338,"metaUuid":null},
@@ -68094,7 +68094,7 @@
 {"nexusFileName":"Sanctus Signum - MainFile","nexusFileVersion":"1.0.0.6","nexusFileUploadedAt":1786750786,"pakFileName":"SanctusSignumRobe_9170f5dc-b973-d7ad-59ef-757fe1cc67c3.pak","nexusFileId":128092,"metaUuid":"9170f5dc-b973-d7ad-59ef-757fe1cc67c3"}
 ]},
 "24427":{"nexusModName":"Songblade","nexusUploadedBy":"Nitremazael","nexusModId":24427,"paks":[
-{"nexusFileName":"Songblade","nexusFileVersion":"1.5","nexusFileUploadedAt":1789325689,"pakFileName":"Songblade.pak","nexusFileId":130467,"metaUuid":"287f798a-404a-64e6-ad6b-3c238510bf08"}
+{"nexusFileName":"Songblade","nexusFileVersion":"2.0.2","nexusFileUploadedAt":1791852564,"pakFileName":"Songblade.pak","nexusFileId":132796,"metaUuid":"287f798a-404a-64e6-ad6b-3c238510bf08"}
 ]},
 "24428":{"nexusModName":"Oath of the Moon - Paladin Subclass.CHS","nexusUploadedBy":"yangyangmeiiii","nexusModId":24428,"paks":[
 {"nexusFileName":"OathoftheMoonCHS","nexusFileVersion":"1","nexusFileUploadedAt":1786755174,"pakFileName":"OathoftheMoonCHS.pak","nexusFileId":128094,"metaUuid":null}
@@ -69718,7 +69718,7 @@
 {"nexusFileName":"Clown Starter Pack","nexusFileVersion":"1","nexusFileUploadedAt":1789247917,"pakFileName":"RR_ClownStarterPack.pak","nexusFileId":130400,"metaUuid":"c52ef8b4-03b6-6152-de37-91b82537ec8b"}
 ]},
 "24975":{"nexusModName":"Shadowblade","nexusUploadedBy":"Nitremazael","nexusModId":24975,"paks":[
-{"nexusFileName":"Shadowblade","nexusFileVersion":"1.0.1","nexusFileUploadedAt":1789354032,"pakFileName":"Shadowblade.pak","nexusFileId":130489,"metaUuid":"568d6279-0da6-43c3-8f3f-d9dbaa0033c4"}
+{"nexusFileName":"Shadowblade","nexusFileVersion":"1.0.2","nexusFileUploadedAt":1791850925,"pakFileName":"Shadowblade.pak","nexusFileId":132792,"metaUuid":"568d6279-0da6-43c3-8f3f-d9dbaa0033c4"}
 ]},
 "24977":{"nexusModName":"Prayer of Healing PHB2024 DnD 5R","nexusUploadedBy":"chizfreak","nexusModId":24977,"paks":[
 {"nexusFileName":"Prayer of Healing PHB2024 DnD 5R","nexusFileVersion":"2.0","nexusFileUploadedAt":1790248043,"pakFileName":"PrayerOfHealingPHB2024_5d7c7b5c-a63a-53b6-379c-4350cb732f17.pak","nexusFileId":131292,"metaUuid":"5d7c7b5c-a63a-53b6-379c-4350cb732f17"}
@@ -71560,11 +71560,11 @@
 {"nexusFileName":"AirJordans ","nexusFileVersion":"1","nexusFileUploadedAt":1791807298,"pakFileName":"AirJordans_Distance_Icons.pak","nexusFileId":132741,"metaUuid":null}
 ]},
 "25743":{"nexusModName":"Moonglow - Shadowheart Edits","nexusUploadedBy":"SweetGenerousThing","nexusModId":25743,"paks":[
-{"nexusFileName":"SGT_Moonglow - Shadowheart Edit (Long Hair)","nexusFileVersion":"1","nexusFileUploadedAt":1791813273,"pakFileName":"SGT_ShadowheartEdit_804633d0-ba22-1005-29f4-cfbce9ddd287.pak","nexusFileId":132754,"metaUuid":null},
-{"nexusFileName":"SGT_Moonglow - Shadowheart Edit (Ponytail)","nexusFileVersion":"1","nexusFileUploadedAt":1791813343,"pakFileName":"SGT_ShadowheartEdit_804633d0-ba22-1005-29f4-cfbce9ddd287.pak","nexusFileId":132755,"metaUuid":null},
+{"nexusFileName":"SGT_Moonglow - Shadowheart Edit (Long Hair)","nexusFileVersion":"1","nexusFileUploadedAt":1791813273,"pakFileName":"SGT_ShadowheartEdit_804633d0-ba22-1005-29f4-cfbce9ddd287.pak","nexusFileId":132754,"metaUuid":"804633d0-ba22-1005-29f4-cfbce9ddd287"},
+{"nexusFileName":"SGT_Moonglow - Shadowheart Edit (Ponytail)","nexusFileVersion":"1","nexusFileUploadedAt":1791813343,"pakFileName":"SGT_ShadowheartEdit_804633d0-ba22-1005-29f4-cfbce9ddd287.pak","nexusFileId":132755,"metaUuid":"804633d0-ba22-1005-29f4-cfbce9ddd287"},
 {"nexusFileName":"SGT_Moonglow - Shadowheart Edit (Short Hair)","nexusFileVersion":"1","nexusFileUploadedAt":1791813400,"pakFileName":"SGT_ShadowheartEdit_804633d0-ba22-1005-29f4-cfbce9ddd287.pak","nexusFileId":132756,"metaUuid":"804633d0-ba22-1005-29f4-cfbce9ddd287"},
-{"nexusFileName":"Moonglow - Shadowheart Portrait (Long Hair)","nexusFileVersion":"1","nexusFileUploadedAt":1791813474,"pakFileName":"Moonglow - Shadowheart Portrait.pak","nexusFileId":132757,"metaUuid":null},
-{"nexusFileName":"Moonglow - Shadowheart Portrait (Ponytail)","nexusFileVersion":"1","nexusFileUploadedAt":1791813519,"pakFileName":"Moonglow - Shadowheart Portrait.pak","nexusFileId":132758,"metaUuid":null},
+{"nexusFileName":"Moonglow - Shadowheart Portrait (Long Hair)","nexusFileVersion":"1","nexusFileUploadedAt":1791813474,"pakFileName":"Moonglow - Shadowheart Portrait.pak","nexusFileId":132757,"metaUuid":"3322ca98-fe55-4498-9cf4-a0221b817313"},
+{"nexusFileName":"Moonglow - Shadowheart Portrait (Ponytail)","nexusFileVersion":"1","nexusFileUploadedAt":1791813519,"pakFileName":"Moonglow - Shadowheart Portrait.pak","nexusFileId":132758,"metaUuid":"3322ca98-fe55-4498-9cf4-a0221b817313"},
 {"nexusFileName":"Moonglow - Shadowheart Portrait (Short Hair)","nexusFileVersion":"1","nexusFileUploadedAt":1791813568,"pakFileName":"Moonglow - Shadowheart Portrait.pak","nexusFileId":132759,"metaUuid":"3322ca98-fe55-4498-9cf4-a0221b817313"},
 {"nexusFileName":"SGT_Moonglow - Head Only","nexusFileVersion":"1","nexusFileUploadedAt":1791814358,"pakFileName":"SGT_Moonglow_HeadOnly_161f97d2-312e-550b-3591-86f9d0ac60ec.pak","nexusFileId":132761,"metaUuid":null},
 {"nexusFileName":"SGT_Moonglow - Armor","nexusFileVersion":"1","nexusFileUploadedAt":1791814436,"pakFileName":"SGT_ShartArmor_Tut_55ac11c1-a6d4-a700-99f9-0ebe0d6d1abf.pak","nexusFileId":132762,"metaUuid":null},
@@ -71586,8 +71586,11 @@
 {"nexusFileName":"No Flash Photo Mode","nexusFileVersion":"1","nexusFileUploadedAt":1791839751,"pakFileName":"No Flash Photo Mode.pak","nexusFileId":132780,"metaUuid":null}
 ]},
 "25748":{"nexusModName":"CircleoftheBlighted_VN","nexusUploadedBy":"THACHTHACH","nexusModId":25748,"paks":[
-{"nexusFileName":"CircleoftheBlighted VN","nexusFileVersion":"1","nexusFileUploadedAt":1791845768,"pakFileName":"CircleoftheBlighted_VN.pak","nexusFileId":132784,"metaUuid":null},
-{"nexusFileName":"CircleoftheBlighted VN","nexusFileVersion":"1","nexusFileUploadedAt":1791847480,"pakFileName":"CircleoftheBlighted_VN.pak","nexusFileId":132787,"metaUuid":null}
+{"nexusFileName":"CircleoftheBlighted VN","nexusFileVersion":"1","nexusFileUploadedAt":1791847480,"pakFileName":"CircleoftheBlighted_VN.pak","nexusFileId":132787,"metaUuid":null},
+{"nexusFileName":"CircleoftheBlighted VN","nexusFileVersion":"2","nexusFileUploadedAt":1791849439,"pakFileName":"CircleoftheBlighted_VN.pak","nexusFileId":132791,"metaUuid":null}
+]},
+"25749":{"nexusModName":"Diemnocturnum (Unofficial)","nexusUploadedBy":"SuperPhenotype","nexusModId":25749,"paks":[
+{"nexusFileName":"Diemnocturnum","nexusFileVersion":"1","nexusFileUploadedAt":1791847282,"pakFileName":"Diemnocturnum.pak","nexusFileId":132786,"metaUuid":null}
 ]},
 "25750":{"nexusModName":"Necromancer Overhaul - Undead Legion and Death Shepherd - PTBR","nexusUploadedBy":"BarovZx","nexusModId":25750,"paks":[
 {"nexusFileName":"Necromancer Overhaul PTBR","nexusFileVersion":"24.09.2026","nexusFileUploadedAt":1791848182,"pakFileName":"Necromancer Overhaul PTBR.pak","nexusFileId":132789,"metaUuid":null}
