@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-10-13T20:52:24.719922+00:00","total_mods":18156},
+{"_meta":{"last_run":"2026-10-13T21:51:56.270680+00:00","total_mods":18157},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -50775,12 +50775,8 @@
 "18278":{"nexusModName":"Wyll Kiss Dialogue","nexusUploadedBy":"Sinus23","nexusModId":18278,"paks":[
 {"nexusFileName":"Wyll Kiss Dialog","nexusFileVersion":"1.0.0.1","nexusFileUploadedAt":1755807375,"pakFileName":"WyllKissDialog_b61bcb1a-0a6a-24db-2738-4041ad72b72e.pak","nexusFileId":101165,"metaUuid":"b61bcb1a-0a6a-24db-2738-4041ad72b72e"}
 ]},
-"18279":{"nexusModName":"Mortal Perils mode - Permadeath and Hardcore difficulty","nexusUploadedBy":"Santus1","nexusModId":18279,"paks":[
-{"nexusFileName":"Mortal perils mode","nexusFileVersion":"1.0","nexusFileUploadedAt":1773180335,"pakFileName":"MortalPerilsMode.pak","nexusFileId":116499,"metaUuid":null},
-{"nexusFileName":"Mortal perils mode - downed enabled edition","nexusFileVersion":"1.0","nexusFileUploadedAt":1773180537,"pakFileName":"MortalPerilsMode - Downed enabled.pak","nexusFileId":116500,"metaUuid":null},
-{"nexusFileName":"Mortal perils mode - just scrolls gone","nexusFileVersion":"1.0","nexusFileUploadedAt":1773180853,"pakFileName":"MortalPerilsMode- Just scrolls gone.pak","nexusFileId":116503,"metaUuid":null},
-{"nexusFileName":"Mortal perils mode - just downed disabled","nexusFileVersion":"1.0","nexusFileUploadedAt":1773238095,"pakFileName":"MortalPerilsMode - Just downed disabled.pak","nexusFileId":116548,"metaUuid":null},
-{"nexusFileName":"Any mode  - just downed disabled","nexusFileVersion":"1","nexusFileUploadedAt":1781672717,"pakFileName":"Any mode - Just downed disabled.pak","nexusFileId":123739,"metaUuid":null}
+"18279":{"nexusModName":"Mortal Perils mode - Permadeath and Hardcore difficulty features","nexusUploadedBy":"Santus1","nexusModId":18279,"paks":[
+{"nexusFileName":"Mortal perils mode","nexusFileVersion":"1.1","nexusFileUploadedAt":1791928082,"pakFileName":"MortalPerilsMode.pak","nexusFileId":132869,"metaUuid":null}
 ]},
 "18281":{"nexusModName":"Fulgurcoil Arbalest","nexusUploadedBy":"AeehyehssReeper","nexusModId":18281,"paks":[
 {"nexusFileName":"Fulgurcoil Arbalest","nexusFileVersion":"1.0.6","nexusFileUploadedAt":1771850746,"pakFileName":"WhiteGlint_5abd1831-5236-1826-1403-f5f2b4bfbb7a.pak","nexusFileId":115458,"metaUuid":"5abd1831-5236-1826-1403-f5f2b4bfbb7a"}
@@ -71393,7 +71389,8 @@
 ]},
 "25661":{"nexusModName":"AoE Buffs - Party Bubble","nexusUploadedBy":"Souiig","nexusModId":25661,"paks":[
 {"nexusFileName":"AoEBuffs PartyBubble Haste Addon","nexusFileVersion":"1","nexusFileUploadedAt":1791619304,"pakFileName":"AoEBuffs_PartyBubble_HasteAddon.pak","nexusFileId":132564,"metaUuid":null},
-{"nexusFileName":"AoEBuffs PartyBubble 1.1.0","nexusFileVersion":"5","nexusFileUploadedAt":1791920076,"pakFileName":"AoEBuffs_PartyBubble 1.1.2.pak","nexusFileId":132857,"metaUuid":null}
+{"nexusFileName":"AoEBuffs PartyBubble 1.1.0","nexusFileVersion":"5","nexusFileUploadedAt":1791920076,"pakFileName":"AoEBuffs_PartyBubble 1.1.2.pak","nexusFileId":132857,"metaUuid":null},
+{"nexusFileName":"AoEBuffs 5eSpellsPatch 1.0.0","nexusFileVersion":"1","nexusFileUploadedAt":1791925192,"pakFileName":"AoEBuffs_5eSpellsPatch 1.0.0.pak","nexusFileId":132867,"metaUuid":null}
 ]},
 "25662":{"nexusModName":"Dispel Spell Buffs","nexusUploadedBy":"Souiig","nexusModId":25662,"paks":[
 {"nexusFileName":"DispelSpellBuffs","nexusFileVersion":"1","nexusFileUploadedAt":1791494906,"pakFileName":"DispelSpellBuffs_souig.pak","nexusFileId":132428,"metaUuid":"a3c95e10-6f2d-4b87-9e41-d20b7f5c8e93"}
@@ -71671,4 +71668,7 @@
 ]},
 "25770":{"nexusModName":"dominate brain after you roll two 20","nexusUploadedBy":"LeeDawn","nexusModId":25770,"paks":[
 {"nexusFileName":"DominateBrain","nexusFileVersion":"1","nexusFileUploadedAt":1791916229,"pakFileName":"DominateBrainTest.pak","nexusFileId":132855,"metaUuid":null}
+]},
+"25772":{"nexusModName":"Tasha's Feats - UA","nexusUploadedBy":"Kimi3077","nexusModId":25772,"paks":[
+{"nexusFileName":"Tasha's Feats UA","nexusFileVersion":"1","nexusFileUploadedAt":1791927099,"pakFileName":"tashafeats_ua.pak","nexusFileId":132868,"metaUuid":null}
 ]}}
