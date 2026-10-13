@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-10-13T07:51:49.204485+00:00","total_mods":18144},
+{"_meta":{"last_run":"2026-10-13T08:52:01.935777+00:00","total_mods":18144},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -12474,7 +12474,7 @@
 "3939":{"nexusModName":"Echo Knight Fighter Subclass","nexusUploadedBy":"wesslen","nexusModId":3939,"paks":[
 {"nexusFileName":"RAW Level Progression","nexusFileVersion":"1.0.1","nexusFileUploadedAt":1699465105,"pakFileName":"DEchoKnightRAW.pak","nexusFileId":27420,"metaUuid":"ecc0c754-0135-4236-96f2-87d53981d1de"},
 {"nexusFileName":"No Chromatic Aberration","nexusFileVersion":"1.2.13.1","nexusFileUploadedAt":1705778955,"pakFileName":"DEchoKnightNoChroma.pak","nexusFileId":40953,"metaUuid":"1c87a78c-07fc-4db6-a195-2ecd92bbc3b1"},
-{"nexusFileName":"Echo Knight","nexusFileVersion":"1.6.1","nexusFileUploadedAt":1790349339,"pakFileName":"DEchoKnight.pak","nexusFileId":131382,"metaUuid":"ecc0c754-0911-462e-8983-dcffe56c4d8d"}
+{"nexusFileName":"Echo Knight","nexusFileVersion":"1.6.2","nexusFileUploadedAt":1791878906,"pakFileName":"DEchoKnight.pak","nexusFileId":132824,"metaUuid":"ecc0c754-0911-462e-8983-dcffe56c4d8d"}
 ]},
 "3940":{"nexusModName":"Object Character Support","nexusUploadedBy":"wesslen","nexusModId":3940,"paks":[
 {"nexusFileName":"Object Character Support","nexusFileVersion":"1.2.3","nexusFileUploadedAt":1789203842,"pakFileName":"ObjectCharacterSupport.pak","nexusFileId":130339,"metaUuid":"0c50deb2-303c-4e00-9bc7-a60a347d6593"}
@@ -16742,7 +16742,7 @@
 {"nexusFileName":"DavesLegendaryWeapons CHS","nexusFileVersion":"1.3.2","nexusFileUploadedAt":1703347181,"pakFileName":"Dave's Legendary Weapons.pak","nexusFileId":35873,"metaUuid":null}
 ]},
 "5311":{"nexusModName":"UA6 Invoke Duplicity","nexusUploadedBy":"wesslen","nexusModId":5311,"paks":[
-{"nexusFileName":"UA Invoke Duplicity","nexusFileVersion":"1.5.1","nexusFileUploadedAt":1790350050,"pakFileName":"UAInvokeDuplicity.pak","nexusFileId":131385,"metaUuid":"a970f777-0368-4803-a0d3-085b96e2d4fe"}
+{"nexusFileName":"UA Invoke Duplicity","nexusFileVersion":"1.5.2","nexusFileUploadedAt":1791878956,"pakFileName":"UAInvokeDuplicity.pak","nexusFileId":132825,"metaUuid":"a970f777-0368-4803-a0d3-085b96e2d4fe"}
 ]},
 "5312":{"nexusModName":"Vanilla Equipment Overhaul","nexusUploadedBy":"StuddMuffinn101","nexusModId":5312,"paks":[
 {"nexusFileName":"Vanilla Weapon Overhaul JWL Soul Smithing Compat","nexusFileVersion":"1.02","nexusFileUploadedAt":1720997387,"pakFileName":"Vanilla Weapon Overhaul-JWL Crafting Compatability.pak","nexusFileId":64042,"metaUuid":null},
@@ -66186,11 +66186,11 @@
 ]},
 "23680":{"nexusModName":"Starting Equipment Selection","nexusUploadedBy":"NecroticFlame","nexusModId":23680,"paks":[
 {"nexusFileName":"Absolute Equipment and Clothing","nexusFileVersion":"1.2.0","nexusFileUploadedAt":1789881918,"pakFileName":"ECC_Absolute_f3ef7850-1c69-23b7-737a-55b866f40584.pak","nexusFileId":130951,"metaUuid":"f3ef7850-1c69-23b7-737a-55b866f40584"},
-{"nexusFileName":"Flaming Fist Equipment","nexusFileVersion":"1.0.1","nexusFileUploadedAt":1789886000,"pakFileName":"ECC_FlamingFist_65c74891-9078-8eec-e159-2d3a9b674b91.pak","nexusFileId":130953,"metaUuid":"65c74891-9078-8eec-e159-2d3a9b674b91"},
 {"nexusFileName":"Githyanki Equipment","nexusFileVersion":"1.2.1","nexusFileUploadedAt":1789968892,"pakFileName":"ECC_Githyanki_9fb63845-8b2d-314d-99a2-bd0c75199995.pak","nexusFileId":131021,"metaUuid":"9fb63845-8b2d-314d-99a2-bd0c75199995"},
 {"nexusFileName":"Drow Equipment and Clothing","nexusFileVersion":"1.0.1","nexusFileUploadedAt":1789969159,"pakFileName":"ECC_Drow_b0f12c3a-ea1c-3e15-3f16-2fe463d2963b.pak","nexusFileId":131022,"metaUuid":"b0f12c3a-ea1c-3e15-3f16-2fe463d2963b"},
-{"nexusFileName":"Humanoid Equipment and Clothing","nexusFileVersion":"1.2.0","nexusFileUploadedAt":1790143862,"pakFileName":"ECC_Humanoid_5f2c3462-94d5-feeb-5f39-5cd0f7a76c5a.pak","nexusFileId":131203,"metaUuid":"5f2c3462-94d5-feeb-5f39-5cd0f7a76c5a"},
-{"nexusFileName":"Starting Equipment Selection","nexusFileVersion":"1.9.3","nexusFileUploadedAt":1791877741,"pakFileName":"ECC_a1e921ae-8aa2-655c-c399-cfd97ed46f4c.pak","nexusFileId":132821,"metaUuid":"a1e921ae-8aa2-655c-c399-cfd97ed46f4c"}
+{"nexusFileName":"Starting Equipment Selection","nexusFileVersion":"1.9.3","nexusFileUploadedAt":1791877741,"pakFileName":"ECC_a1e921ae-8aa2-655c-c399-cfd97ed46f4c.pak","nexusFileId":132821,"metaUuid":"a1e921ae-8aa2-655c-c399-cfd97ed46f4c"},
+{"nexusFileName":"Humanoid Equipment and Clothing","nexusFileVersion":"1.2.1","nexusFileUploadedAt":1791878282,"pakFileName":"ECC_Humanoid_5f2c3462-94d5-feeb-5f39-5cd0f7a76c5a.pak","nexusFileId":132822,"metaUuid":"5f2c3462-94d5-feeb-5f39-5cd0f7a76c5a"},
+{"nexusFileName":"Flaming Fist Equipment","nexusFileVersion":"1.0.2","nexusFileUploadedAt":1791878596,"pakFileName":"ECC_FlamingFist_65c74891-9078-8eec-e159-2d3a9b674b91.pak","nexusFileId":132823,"metaUuid":"65c74891-9078-8eec-e159-2d3a9b674b91"}
 ]},
 "23682":{"nexusModName":"Draconic Heritage - New Feat and Dragonborn Breath Weapon Tweaks","nexusUploadedBy":"aljoxo","nexusModId":23682,"paks":[
 {"nexusFileName":"Draconic Heritage","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1783070266,"pakFileName":"DraconicHeritageFeat_6717ff34-c605-60f2-a7d4-43af802463a2.pak","nexusFileId":124765,"metaUuid":"6717ff34-c605-60f2-a7d4-43af802463a2"}
