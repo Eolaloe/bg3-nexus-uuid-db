@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-10-13T15:52:07.112541+00:00","total_mods":18151},
+{"_meta":{"last_run":"2026-10-13T16:52:08.733621+00:00","total_mods":18152},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -48627,7 +48627,7 @@
 {"nexusFileName":"Arcanist Sorcerer Subclass","nexusFileVersion":"1.0","nexusFileUploadedAt":1754165655,"pakFileName":"Arcanomancer_15c7b7a7-ae17-26b2-e168-85c2681abd09.pak","nexusFileId":99739,"metaUuid":"15c7b7a7-ae17-26b2-e168-85c2681abd09"}
 ]},
 "17495":{"nexusModName":"Hordes of Ratfolk","nexusUploadedBy":"Raven570","nexusModId":17495,"paks":[
-{"nexusFileName":"Hordes_Of_Ratfolk","nexusFileVersion":"3.0.0.0","nexusFileUploadedAt":1754858168,"pakFileName":"Ratfolk_d2c1412b-e3cc-19f7-6175-d07073f58336.pak","nexusFileId":100316,"metaUuid":null}
+{"nexusFileName":"Hordes_Of_Ratfolk","nexusFileVersion":"4.0.0.33","nexusFileUploadedAt":1791907774,"pakFileName":"Ratfolk_d2c1412b-e3cc-19f7-6175-d07073f58336.pak","nexusFileId":132850,"metaUuid":null}
 ]},
 "17496":{"nexusModName":"Wither's Free Services","nexusUploadedBy":"nurgl3th","nexusModId":17496,"paks":[
 {"nexusFileName":"WithersFreeServices","nexusFileVersion":"1.0","nexusFileUploadedAt":1752014076,"pakFileName":"WithersFreeServices_9a2ae82a-def3-bd9d-393d-e66d77cfa992.pak","nexusFileId":97697,"metaUuid":"9a2ae82a-def3-bd9d-393d-e66d77cfa992"}
@@ -66930,7 +66930,8 @@
 {"nexusFileName":"AstarionsVampireBiteLeveled 1.0.0","nexusFileVersion":"1.2","nexusFileUploadedAt":1784513891,"pakFileName":"AstarionBiteImproved.pak","nexusFileId":126052,"metaUuid":"c5c95eca-f0c6-4f1b-a70f-40f393ceacb1"}
 ]},
 "23945":{"nexusModName":"5rdnd2024 Wizard Extra","nexusUploadedBy":"Ruojo","nexusModId":23945,"paks":[
-{"nexusFileName":"OneDnD WizardExtra","nexusFileVersion":"1.0.1.2","nexusFileUploadedAt":1791635942,"pakFileName":"OneDnD_WizardExtra.pak","nexusFileId":132576,"metaUuid":"50885137-f087-4d41-a58d-fdde4b6d4a6a"}
+{"nexusFileName":"OneDnD WizardExtra","nexusFileVersion":"1.0.1.2","nexusFileUploadedAt":1791635942,"pakFileName":"OneDnD_WizardExtra.pak","nexusFileId":132576,"metaUuid":"50885137-f087-4d41-a58d-fdde4b6d4a6a"},
+{"nexusFileName":"Concentration Summon","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1791906764,"pakFileName":"Concentration_Summon.pak","nexusFileId":132848,"metaUuid":null}
 ]},
 "23946":{"nexusModName":"Axi Map Assets","nexusUploadedBy":"axianaa","nexusModId":23946,"paks":[
 {"nexusFileName":"Axi Map Assets","nexusFileVersion":"1.0.0.27","nexusFileUploadedAt":1787954519,"pakFileName":"axi_map_assets_975b5ffd-86b1-cb89-b6b1-8cfb964d1d14.pak","nexusFileId":129223,"metaUuid":"975b5ffd-86b1-cb89-b6b1-8cfb964d1d14"}
@@ -71398,7 +71399,7 @@
 {"nexusFileName":"DispelSpellBuffs","nexusFileVersion":"1","nexusFileUploadedAt":1791494906,"pakFileName":"DispelSpellBuffs_souig.pak","nexusFileId":132428,"metaUuid":"a3c95e10-6f2d-4b87-9e41-d20b7f5c8e93"}
 ]},
 "25663":{"nexusModName":"Easy Emotion Sliders","nexusUploadedBy":"reereeroi","nexusModId":25663,"paks":[
-{"nexusFileName":"EasyEmotionSliders 1.0","nexusFileVersion":"1","nexusFileUploadedAt":1791572858,"pakFileName":"EasyEmotionSliders_1_0_c1ed2ebf-8792-4f2a-873d-a9a6bbc972fa.pak","nexusFileId":132514,"metaUuid":"c1ed2ebf-8792-4f2a-873d-a9a6bbc972fa"}
+{"nexusFileName":"EasyEmotionSliders 1.0.1","nexusFileVersion":"1.0.1","nexusFileUploadedAt":1791907543,"pakFileName":"EasyEmotionSliders_1_0_c1ed2ebf-8792-4f2a-873d-a9a6bbc972fa.pak","nexusFileId":132849,"metaUuid":"c1ed2ebf-8792-4f2a-873d-a9a6bbc972fa"}
 ]},
 "25664":{"nexusModName":"Sorcerer Subclass - Blademind","nexusUploadedBy":"Sw1shyFishy","nexusModId":25664,"paks":[
 {"nexusFileName":"Blademind Subclass","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1791511015,"pakFileName":"SwishyFishy_SorcererSubclass.pak","nexusFileId":132437,"metaUuid":null}
@@ -71655,4 +71656,7 @@
 ]},
 "25766":{"nexusModName":"Pick Your Party Clothes - Epilogue Clothing Storage System Traduzione ITA","nexusUploadedBy":"EveeLaverne","nexusModId":25766,"paks":[
 {"nexusFileName":"MGNTN_PickEPIOutfitsSpell_TraduzioneITA","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1791903252,"pakFileName":"MGNTN_PickEPIOutfitsSpell_TraduzioneITA.pak","nexusFileId":132844,"metaUuid":null}
+]},
+"25767":{"nexusModName":"Brand of Sacrifice (Berserk) - Custom Scar","nexusUploadedBy":"Doncorvo101","nexusModId":25767,"paks":[
+{"nexusFileName":"Berserk Neck Brand","nexusFileVersion":"1","nexusFileUploadedAt":1791908032,"pakFileName":"BerserkNeckBrand_KAVT_DX11_PriorityFix.pak","nexusFileId":132851,"metaUuid":null}
 ]}}
