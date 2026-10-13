@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-10-13T05:51:58.439254+00:00","total_mods":18141},
+{"_meta":{"last_run":"2026-10-13T06:51:46.524710+00:00","total_mods":18144},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -66053,7 +66053,7 @@
 {"nexusFileName":"SEAF Commandoes","nexusFileVersion":"1","nexusFileUploadedAt":1783432756,"pakFileName":"SEAF_Commandoes_f31b41d6-5f1c-de1d-0fd5-464cb50db406.pak","nexusFileId":125164,"metaUuid":"f31b41d6-5f1c-de1d-0fd5-464cb50db406"}
 ]},
 "23623":{"nexusModName":"Missing Starting Passives Fixed","nexusUploadedBy":"NecroticFlame","nexusModId":23623,"paks":[
-{"nexusFileName":"Missing Starting Passives Fixed","nexusFileVersion":"3.0.0","nexusFileUploadedAt":1791361850,"pakFileName":"ECC_Fixes_5470bce5-0ad7-4e05-287f-2d6fa3e9eb04.pak","nexusFileId":132287,"metaUuid":"5470bce5-0ad7-4e05-287f-2d6fa3e9eb04"}
+{"nexusFileName":"Missing Starting Passives Fixed","nexusFileVersion":"3.0.1","nexusFileUploadedAt":1791873727,"pakFileName":"ECC_Fixes_5470bce5-0ad7-4e05-287f-2d6fa3e9eb04.pak","nexusFileId":132819,"metaUuid":"5470bce5-0ad7-4e05-287f-2d6fa3e9eb04"}
 ]},
 "23625":{"nexusModName":"Bloodtrail - Path of Undeath Chapter 2 PT-BR","nexusUploadedBy":"ShadowAhJin","nexusModId":23625,"paks":[
 {"nexusFileName":"Path Of Undeath Bloodtrail PT-BR","nexusFileVersion":"1.0.0.3","nexusFileUploadedAt":1783695108,"pakFileName":"Bloodtrail_-_Path_of_Undeath_Chapter_2_PTBR.pak","nexusFileId":125347,"metaUuid":null}
@@ -71598,6 +71598,36 @@
 "25750":{"nexusModName":"Necromancer Overhaul - Undead Legion and Death Shepherd - PTBR","nexusUploadedBy":"BarovZx","nexusModId":25750,"paks":[
 {"nexusFileName":"Necromancer Overhaul PTBR","nexusFileVersion":"24.09.2026","nexusFileUploadedAt":1791848182,"pakFileName":"Necromancer Overhaul PTBR.pak","nexusFileId":132789,"metaUuid":null}
 ]},
+"25752":{"nexusModName":"Upscaled Equipment Textures","nexusUploadedBy":"Sithishade","nexusModId":25752,"paks":[
+{"nexusFileName":"UET Full - Armour (1 of 2)","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1791866717,"pakFileName":"UETFullArmour.pak","nexusFileId":132808,"metaUuid":null},
+{"nexusFileName":"UET Full - Armour (1 of 2)","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1791866717,"pakFileName":"UETFullArmour_1.pak","nexusFileId":132808,"metaUuid":null},
+{"nexusFileName":"UET Full - Armour (1 of 2)","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1791866717,"pakFileName":"UETFullArmour_2.pak","nexusFileId":132808,"metaUuid":null},
+{"nexusFileName":"UET Full - Armour (1 of 2)","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1791866717,"pakFileName":"UETFullArmour_3.pak","nexusFileId":132808,"metaUuid":null},
+{"nexusFileName":"UET Full - Armour (1 of 2)","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1791866717,"pakFileName":"UETFullArmour_4.pak","nexusFileId":132808,"metaUuid":null},
+{"nexusFileName":"UET Full - Armour (1 of 2)","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1791866717,"pakFileName":"UETFullArmour_5.pak","nexusFileId":132808,"metaUuid":null},
+{"nexusFileName":"UET Full - Armour (2 of 2)","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1791867219,"pakFileName":"UETFullArmour_6.pak","nexusFileId":132809,"metaUuid":null},
+{"nexusFileName":"UET Full - Armour (2 of 2)","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1791867219,"pakFileName":"UETFullArmour_7.pak","nexusFileId":132809,"metaUuid":null},
+{"nexusFileName":"UET Full - Armour (2 of 2)","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1791867219,"pakFileName":"UETFullArmour_8.pak","nexusFileId":132809,"metaUuid":null},
+{"nexusFileName":"UET Full - Clothing","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1791868120,"pakFileName":"UETFullClothing.pak","nexusFileId":132810,"metaUuid":null},
+{"nexusFileName":"UET Full - Clothing","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1791868120,"pakFileName":"UETFullClothing_1.pak","nexusFileId":132810,"metaUuid":null},
+{"nexusFileName":"UET Full - Clothing","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1791868120,"pakFileName":"UETFullClothing_2.pak","nexusFileId":132810,"metaUuid":null},
+{"nexusFileName":"UET Full - Creatures","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1791868448,"pakFileName":"UETFullCreatures.pak","nexusFileId":132811,"metaUuid":null},
+{"nexusFileName":"UET Full - Creatures","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1791868448,"pakFileName":"UETFullCreatures_1.pak","nexusFileId":132811,"metaUuid":null},
+{"nexusFileName":"UET Full - Weapons and Shields","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1791868833,"pakFileName":"UETFullWeaponsShields.pak","nexusFileId":132812,"metaUuid":null},
+{"nexusFileName":"UET Full - Weapons and Shields","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1791868833,"pakFileName":"UETFullWeaponsShields_1.pak","nexusFileId":132812,"metaUuid":null},
+{"nexusFileName":"UET Lite - Armour","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1791869680,"pakFileName":"UETLiteArmour.pak","nexusFileId":132813,"metaUuid":null},
+{"nexusFileName":"UET Lite - Armour","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1791869680,"pakFileName":"UETLiteArmour_1.pak","nexusFileId":132813,"metaUuid":null},
+{"nexusFileName":"UET Lite - Armour","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1791869680,"pakFileName":"UETLiteArmour_2.pak","nexusFileId":132813,"metaUuid":null},
+{"nexusFileName":"UET Lite - Clothing","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1791870077,"pakFileName":"UETLiteClothing.pak","nexusFileId":132814,"metaUuid":null},
+{"nexusFileName":"UET Lite - Creatures","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1791870197,"pakFileName":"UETLiteCreatures.pak","nexusFileId":132815,"metaUuid":null},
+{"nexusFileName":"UET Lite - Weapons and Shields","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1791870626,"pakFileName":"UETLiteWeaponsShields.pak","nexusFileId":132816,"metaUuid":null}
+]},
 "25756":{"nexusModName":"Thrasher Magazine Cap - Legendary Item","nexusUploadedBy":"Doncorvo101","nexusModId":25756,"paks":[
 {"nexusFileName":"ThrasherMagazineCap V.01","nexusFileVersion":"1","nexusFileUploadedAt":1791863234,"pakFileName":"ThrasherMagazineCap.pak","nexusFileId":132806,"metaUuid":null}
+]},
+"25757":{"nexusModName":"Fire Chosen One CHS","nexusUploadedBy":"Karbo524","nexusModId":25757,"paks":[
+{"nexusFileName":"FireChosenOne CHS ","nexusFileVersion":"1","nexusFileUploadedAt":1791871079,"pakFileName":"FireChosenOne_CHS_b7f31c2d-9a44-4f18-8e6b-3d5a71c0e9f2.pak","nexusFileId":132818,"metaUuid":null}
+]},
+"25758":{"nexusModName":"Taco Bell Toll the Dead (Sound Replacer)","nexusUploadedBy":"skinnysalesman","nexusModId":25758,"paks":[
+{"nexusFileName":"Taco Bell Toll The Dead","nexusFileVersion":"1","nexusFileUploadedAt":1791870695,"pakFileName":"Taco Bell Toll the Dead.pak","nexusFileId":132817,"metaUuid":null}
 ]}}
