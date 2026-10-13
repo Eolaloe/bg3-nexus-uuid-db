@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-10-13T03:51:53.821292+00:00","total_mods":18141},
+{"_meta":{"last_run":"2026-10-13T04:52:10.023153+00:00","total_mods":18141},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -8555,7 +8555,6 @@
 {"nexusFileName":"Embers","nexusFileVersion":"1","nexusFileUploadedAt":1791778893,"pakFileName":"EmbersAndFlames.pak","nexusFileId":132708,"metaUuid":null},
 {"nexusFileName":"Magic Crystal","nexusFileVersion":"1","nexusFileUploadedAt":1791778946,"pakFileName":"MagicCrystal.pak","nexusFileId":132709,"metaUuid":null},
 {"nexusFileName":"Sakura Candy","nexusFileVersion":"1","nexusFileUploadedAt":1791778972,"pakFileName":"SakuraCandy.pak","nexusFileId":132710,"metaUuid":null},
-{"nexusFileName":"Space Pearl","nexusFileVersion":"1","nexusFileUploadedAt":1791778996,"pakFileName":"SpacePearl.pak","nexusFileId":132711,"metaUuid":null},
 {"nexusFileName":"Illithid Glitter","nexusFileVersion":"1","nexusFileUploadedAt":1791779018,"pakFileName":"IllithidGlitter.pak","nexusFileId":132712,"metaUuid":null},
 {"nexusFileName":"Vampiric Finery","nexusFileVersion":"1","nexusFileUploadedAt":1791779066,"pakFileName":"VampiricDice.pak","nexusFileId":132713,"metaUuid":null},
 {"nexusFileName":"Avernus","nexusFileVersion":"1","nexusFileUploadedAt":1791779085,"pakFileName":"Avernus.pak","nexusFileId":132714,"metaUuid":null},
@@ -58613,7 +58612,7 @@
 {"nexusFileName":"Gimblebock and Crew Redone for Japanese","nexusFileVersion":"1.0.0.2","nexusFileUploadedAt":1769026664,"pakFileName":"GimblebockAndCrewRedone_jp.pak","nexusFileId":112854,"metaUuid":null}
 ]},
 "20857":{"nexusModName":"Dice Roulette","nexusUploadedBy":"wtfbengt","nexusModId":20857,"paks":[
-{"nexusFileName":"Dice Roulette","nexusFileVersion":"1.4.0.0","nexusFileUploadedAt":1789063820,"pakFileName":"DiceRoulette.pak","nexusFileId":130196,"metaUuid":"032adbeb-3152-4b1e-a21b-605d258aab78"}
+{"nexusFileName":"Dice Roulette","nexusFileVersion":"1.4.0.1","nexusFileUploadedAt":1791865702,"pakFileName":"DiceRoulette.pak","nexusFileId":132807,"metaUuid":"032adbeb-3152-4b1e-a21b-605d258aab78"}
 ]},
 "20858":{"nexusModName":"Instant Sorcery Point Conversion","nexusUploadedBy":"KaiJai","nexusModId":20858,"paks":[
 {"nexusFileName":"Instant Sorcery Point Conversion","nexusFileVersion":"0.1.1.0","nexusFileUploadedAt":1769123845,"pakFileName":"NoActionSorceryPointConversion.pak","nexusFileId":112970,"metaUuid":"5e30002c-4eab-400c-95d9-a3eec0de546d"}
@@ -67392,7 +67391,7 @@
 "24102":{"nexusModName":"Random Combat Modifiers","nexusUploadedBy":"Kudir420","nexusModId":24102,"paks":[
 {"nexusFileName":"CombatModifiers","nexusFileVersion":"1.0.1","nexusFileUploadedAt":1788653737,"pakFileName":"CombatModifiers.pak","nexusFileId":129828,"metaUuid":"e1eb6e14-7587-4420-8501-f6155a3c81a9"}
 ]},
-"24103":{"nexusModName":"Steal My Heart and Let Love In","nexusUploadedBy":"SilverHawkeSings","nexusModId":24103,"paks":[
+"24103":{"nexusModName":"Steal My Heart and Let Love In Poses","nexusUploadedBy":"SilverHawkeSings","nexusModId":24103,"paks":[
 {"nexusFileName":"Steal My Heart Pose Pack","nexusFileVersion":"2","nexusFileUploadedAt":1788637449,"pakFileName":"StealMyHeart_4ffede51-1daa-6ce2-9dd0-d66bb78df343.pak","nexusFileId":129815,"metaUuid":"4ffede51-1daa-6ce2-9dd0-d66bb78df343"}
 ]},
 "24104":{"nexusModName":"Aegis Fang (New Concept Verison)","nexusUploadedBy":"haytur","nexusModId":24104,"paks":[
@@ -70518,7 +70517,7 @@
 "25285":{"nexusModName":"Lux Aeterna - Armor and Camp Clothing","nexusUploadedBy":"khaleesinz","nexusModId":25285,"paks":[
 {"nexusFileName":"Lux Aeterna","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1790300321,"pakFileName":"LuxAeterna_khaleesinz_5a5689f4-b1e7-5002-ca73-b9da04dc8eb8.pak","nexusFileId":131353,"metaUuid":"5a5689f4-b1e7-5002-ca73-b9da04dc8eb8"}
 ]},
-"25287":{"nexusModName":"Make a Splash and In Too Deep","nexusUploadedBy":"SilverHawkeSings","nexusModId":25287,"paks":[
+"25287":{"nexusModName":"Make a Splash and In Too Deep Poses","nexusUploadedBy":"SilverHawkeSings","nexusModId":25287,"paks":[
 {"nexusFileName":"In Too Deep","nexusFileVersion":"1","nexusFileUploadedAt":1790399981,"pakFileName":"SilverHawkesInTooDeep.pak","nexusFileId":131428,"metaUuid":"877be8b5-6a1f-a46f-209a-509212864bb9"},
 {"nexusFileName":"Make A Splash","nexusFileVersion":"1","nexusFileUploadedAt":1790471132,"pakFileName":"SwimmingPoses_aed6e754-8ad0-d881-f9ce-17ffe98670d8.pak","nexusFileId":131488,"metaUuid":"aed6e754-8ad0-d881-f9ce-17ffe98670d8"}
 ]},
