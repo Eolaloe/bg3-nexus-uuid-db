@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-10-14T04:52:07.830853+00:00","total_mods":18162},
+{"_meta":{"last_run":"2026-10-14T05:52:13.953282+00:00","total_mods":18162},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -3076,8 +3076,8 @@
 "1150":{"nexusModName":"Brunotavm - Fencing Fighting style","nexusUploadedBy":"brunotavm","nexusModId":1150,"paks":[
 {"nexusFileName":"main","nexusFileVersion":"1.2","nexusFileUploadedAt":1692875249,"pakFileName":"brunotavm_fencing.pak","nexusFileId":9911,"metaUuid":null}
 ]},
-"1152":{"nexusModName":"Wacky Wild Magic","nexusUploadedBy":"Digineaux","nexusModId":1152,"paks":[
-{"nexusFileName":"Wacky Wild Magic Main Module","nexusFileVersion":"2.0","nexusFileUploadedAt":1773540241,"pakFileName":"WackyWildMagic_By_Digineaux_3b2eddc8-70c8-9c5e-72c1-4c40206c70d8.pak","nexusFileId":116766,"metaUuid":"3b2eddc8-70c8-9c5e-72c1-4c40206c70d8"}
+"1152":{"nexusModName":"Configurable Wild Magic","nexusUploadedBy":"Digineaux","nexusModId":1152,"paks":[
+{"nexusFileName":"WackyWildMagicConfigurable 1.0.3.2","nexusFileVersion":"1.0.3.2","nexusFileUploadedAt":1791955515,"pakFileName":"WackyWildMagicConfigurable.pak","nexusFileId":132900,"metaUuid":null}
 ]},
 "1153":{"nexusModName":"NachoPango's Half-Orc Edits","nexusUploadedBy":"NachoPango","nexusModId":1153,"paks":[
 {"nexusFileName":"Half-Orc Edits PAK version","nexusFileVersion":"1.1.1.6","nexusFileUploadedAt":1732145774,"pakFileName":"M_Half-Orc_FaceEdits_575ea88b-b044-7ed7-4edc-0d9852bc614c.pak","nexusFileId":79520,"metaUuid":"575ea88b-b044-7ed7-4edc-0d9852bc614c"}
@@ -59963,7 +59963,7 @@
 ]},
 "21344":{"nexusModName":"Prismortalis - A Dark-Fantasy Spellblade","nexusUploadedBy":"nvlliel","nexusModId":21344,"paks":[
 {"nexusFileName":"Prismortalis - Feats Every Two Levels","nexusFileVersion":"1.0.0.1","nexusFileUploadedAt":1784578982,"pakFileName":"PrismortalisFeatsEvery2Levels_a230221a-2a95-a352-bedb-d13b30a5e412.pak","nexusFileId":126094,"metaUuid":null},
-{"nexusFileName":"Prismortalis - A Dark-Fantasy Spellblade","nexusFileVersion":"5.7","nexusFileUploadedAt":1790788783,"pakFileName":"Prismortalis_5a28cde7-cff0-e977-dc6d-17244faeaa8c.pak","nexusFileId":131767,"metaUuid":"5a28cde7-cff0-e977-dc6d-17244faeaa8c"}
+{"nexusFileName":"Prismortalis - A Dark-Fantasy Spellblade","nexusFileVersion":"5.8.1","nexusFileUploadedAt":1791954368,"pakFileName":"Prismortalis_5a28cde7-cff0-e977-dc6d-17244faeaa8c.pak","nexusFileId":132897,"metaUuid":"5a28cde7-cff0-e977-dc6d-17244faeaa8c"}
 ]},
 "21345":{"nexusModName":"Marksman - A Gunslinger class for Korean","nexusUploadedBy":"Eolaloe","nexusModId":21345,"paks":[
 {"nexusFileName":"Marksman - A Gunslinger class for Korean","nexusFileVersion":"1.2.1.0","nexusFileUploadedAt":1782326055,"pakFileName":"Marksman_Class_kr.pak","nexusFileId":124220,"metaUuid":null}
@@ -71624,7 +71624,9 @@
 {"nexusFileName":"UET Lite - Armour","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1791869680,"pakFileName":"UETLiteArmour_2.pak","nexusFileId":132813,"metaUuid":null},
 {"nexusFileName":"UET Lite - Clothing","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1791870077,"pakFileName":"UETLiteClothing.pak","nexusFileId":132814,"metaUuid":null},
 {"nexusFileName":"UET Lite - Creatures","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1791870197,"pakFileName":"UETLiteCreatures.pak","nexusFileId":132815,"metaUuid":null},
-{"nexusFileName":"UET Lite - Weapons and Shields","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1791870626,"pakFileName":"UETLiteWeaponsShields.pak","nexusFileId":132816,"metaUuid":null}
+{"nexusFileName":"UET Lite - Weapons and Shields","nexusFileVersion":"1.0.1","nexusFileUploadedAt":1791953568,"pakFileName":"UETLiteWeaponsShields.pak","nexusFileId":132896,"metaUuid":null},
+{"nexusFileName":"UET Full - Weapons and Shields","nexusFileVersion":"1.0.1","nexusFileUploadedAt":1791954578,"pakFileName":"UETFullWeaponsShields.pak","nexusFileId":132898,"metaUuid":null},
+{"nexusFileName":"UET Full - Weapons and Shields","nexusFileVersion":"1.0.1","nexusFileUploadedAt":1791954578,"pakFileName":"UETFullWeaponsShields_1.pak","nexusFileId":132898,"metaUuid":null}
 ]},
 "25754":{"nexusModName":"Moonglow - Shadowheart Edits (Russian Translate)","nexusUploadedBy":"SexSux","nexusModId":25754,"paks":[
 {"nexusFileName":"SGT ShadowheartEdit (RUS)","nexusFileVersion":"1","nexusFileUploadedAt":1791856781,"pakFileName":"SGT_ShadowheartEdit_804633d0-ba22-1005-29f4-cfbce9ddd287_RUS.pak","nexusFileId":132802,"metaUuid":null}
@@ -71681,7 +71683,7 @@
 {"nexusFileName":"HarperScout V0.1.2 FullRareGear PREVIEW","nexusFileVersion":"1","nexusFileUploadedAt":1791946359,"pakFileName":"HarperScout_v0.1.2_FullRareGear_PREVIEW.pak","nexusFileId":132891,"metaUuid":null}
 ]},
 "25777":{"nexusModName":"Rabid Armor Set","nexusUploadedBy":"MrD18","nexusModId":25777,"paks":[
-{"nexusFileName":"Rabid Armor Set","nexusFileVersion":"1","nexusFileUploadedAt":1791947612,"pakFileName":"Rabid_Armor_set_6fc5274a_85d9e2f5-b793-422e-8891-6032feae21b9.pak","nexusFileId":132892,"metaUuid":null}
+{"nexusFileName":"Rabid Armor Set","nexusFileVersion":"2","nexusFileUploadedAt":1791954605,"pakFileName":"Rabid_Armor_set_6fc5274a_85d9e2f5-b793-422e-8891-6032feae21b9.pak","nexusFileId":132899,"metaUuid":null}
 ]},
 "25778":{"nexusModName":"Viltrumite Uniforms and Omni-Man Armor","nexusUploadedBy":"DarmaPlay","nexusModId":25778,"paks":[
 {"nexusFileName":"ViltrumiteUniforms 1.0.0.44 Vortex","nexusFileVersion":"1","nexusFileUploadedAt":1791948970,"pakFileName":"ViltrumiteUniforms.pak","nexusFileId":132895,"metaUuid":null}
