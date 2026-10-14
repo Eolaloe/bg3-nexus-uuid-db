@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-10-14T13:52:07.896813+00:00","total_mods":18164},
+{"_meta":{"last_run":"2026-10-14T14:52:01.554745+00:00","total_mods":18165},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -8755,9 +8755,7 @@
 {"nexusFileName":"UNPOSSIBLE - Max Player Level 20","nexusFileVersion":"1.1","nexusFileUploadedAt":1697512343,"pakFileName":"Optimized Survival Harder Tactician Difficulty Mode.pak","nexusFileId":23530,"metaUuid":null}
 ]},
 "2672":{"nexusModName":"Pyramids Of Teleport","nexusUploadedBy":"swissfred","nexusModId":2672,"paks":[
-{"nexusFileName":"Pyramids of Teleport Full Release By SFR","nexusFileVersion":"6.2.7","nexusFileUploadedAt":1725791146,"pakFileName":"PyramidsOfTeleport-P7.pak","nexusFileId":69818,"metaUuid":null},
-{"nexusFileName":"Pyramids of Teleport NULL Mod","nexusFileVersion":"6.2.999","nexusFileUploadedAt":1745837978,"pakFileName":"PyramidsOfTeleport-P7.pak","nexusFileId":90971,"metaUuid":null},
-{"nexusFileName":"Pyramids of Teleport","nexusFileVersion":"7.2.8.2","nexusFileUploadedAt":1772227187,"pakFileName":"PyramidsOfTeleport_ed7a4f8c-8211-322d-1d44-26158ba59f12.pak","nexusFileId":115731,"metaUuid":"ed7a4f8c-8211-322d-1d44-26158ba59f12"}
+{"nexusFileName":"Pyramids of Teleport","nexusFileVersion":"7.3.8.0","nexusFileUploadedAt":1791986745,"pakFileName":"PyramidsOfTeleport_ed7a4f8c-8211-322d-1d44-26158ba59f12.pak","nexusFileId":132913,"metaUuid":"ed7a4f8c-8211-322d-1d44-26158ba59f12"}
 ]},
 "2673":{"nexusModName":"Permanent Weapon Bond","nexusUploadedBy":"Rhodneyson","nexusModId":2673,"paks":[
 {"nexusFileName":"Permanent Weapon Bond","nexusFileVersion":"1.0","nexusFileUploadedAt":1695738789,"pakFileName":"Permanent Weapon Bond.pak","nexusFileId":18739,"metaUuid":"6f779b55-36ec-4ef8-8be3-361bd0216fce"}
@@ -71694,4 +71692,7 @@
 ]},
 "25782":{"nexusModName":"Harper Scout v.2 new","nexusUploadedBy":"Lord0Kastoy089","nexusModId":25782,"paks":[
 {"nexusFileName":"HarperScout 1.1.0","nexusFileVersion":"1.1.0","nexusFileUploadedAt":1791977815,"pakFileName":"HarperScout.pak","nexusFileId":132909,"metaUuid":null}
+]},
+"25784":{"nexusModName":"Gravebound Dragon - Netherwing","nexusUploadedBy":"RatioEXP","nexusModId":25784,"paks":[
+{"nexusFileName":"Gravebound Dragon - Netherwing v0.1.24 Playtest","nexusFileVersion":"0.1.24","nexusFileUploadedAt":1791986831,"pakFileName":"NyridiumGraveboundDragon_v0.1.24_EFFECT_SECTIONS_HOTFIX_TEST.pak","nexusFileId":132914,"metaUuid":null}
 ]}}
