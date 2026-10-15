@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-10-15T17:52:25.642112+00:00","total_mods":18190},
+{"_meta":{"last_run":"2026-10-15T18:52:44.407197+00:00","total_mods":18193},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -71034,7 +71034,8 @@
 {"nexusFileName":"Celestia Eyes","nexusFileVersion":"1","nexusFileUploadedAt":1790980513,"pakFileName":"Eve_Celestia_Eyes.pak","nexusFileId":131957,"metaUuid":null},
 {"nexusFileName":"Omen Eyes","nexusFileVersion":"1","nexusFileUploadedAt":1790980526,"pakFileName":"Eve_Omen_Eyes.pak","nexusFileId":131958,"metaUuid":null},
 {"nexusFileName":"Sinister Eyes","nexusFileVersion":"1","nexusFileUploadedAt":1790980538,"pakFileName":"Eve_Sinister_Eyes.pak","nexusFileId":131959,"metaUuid":"d92ee05c-1792-4c96-8738-2d2894b92e33"},
-{"nexusFileName":"Stalker's Eyes","nexusFileVersion":"1","nexusFileUploadedAt":1790980554,"pakFileName":"Eve_Stalkers_Eyes.pak","nexusFileId":131960,"metaUuid":null}
+{"nexusFileName":"Stalker's Eyes","nexusFileVersion":"1","nexusFileUploadedAt":1790980554,"pakFileName":"Eve_Stalkers_Eyes.pak","nexusFileId":131960,"metaUuid":null},
+{"nexusFileName":"Eve Watchers Eyes","nexusFileVersion":"1","nexusFileUploadedAt":1792088842,"pakFileName":"Eve_Watchers_Eyes.pak","nexusFileId":133023,"metaUuid":null}
 ]},
 "25506":{"nexusModName":"Linux Native Camera Tweaks - MCM Settings","nexusUploadedBy":"lenonk75","nexusModId":25506,"paks":[
 {"nexusFileName":"LNCTSettings 1.1.0.0","nexusFileVersion":"1.1.0.0","nexusFileUploadedAt":1790992819,"pakFileName":"LNCTSettings.pak","nexusFileId":131964,"metaUuid":null}
@@ -71467,7 +71468,7 @@
 {"nexusFileName":"Path Of The Mystic Archer","nexusFileVersion":"1.0","nexusFileUploadedAt":1791626218,"pakFileName":"PathOfTheMysticArcher.pak","nexusFileId":132570,"metaUuid":"7f05c2a3-ee1c-4c48-ae1c-3d47ada0a861"}
 ]},
 "25689":{"nexusModName":"Elven Weaponry - Axes - UA","nexusUploadedBy":"Kimi3077","nexusModId":25689,"paks":[
-{"nexusFileName":"ElvenWeaponry Axes UA","nexusFileVersion":"1.1","nexusFileUploadedAt":1791675850,"pakFileName":"ElvenWeaponry_Axes_UA.pak","nexusFileId":132618,"metaUuid":null}
+{"nexusFileName":"Elven Weaponry Axes UA","nexusFileVersion":"1.2","nexusFileUploadedAt":1792089373,"pakFileName":"Elven_Weaponry_Axes_UA_f96cd2f6-e1d0-43fb-a535-60988e461992.pak","nexusFileId":133025,"metaUuid":null}
 ]},
 "25690":{"nexusModName":"Sanguine Ascension - A Vampire Overhaul","nexusUploadedBy":"Damocle98X","nexusModId":25690,"paks":[
 {"nexusFileName":"Sanguine Ascension   A Vampire Overhaul 1.0.0","nexusFileVersion":"1","nexusFileUploadedAt":1791659831,"pakFileName":"SanguineAscension_5a94d548-6cae-47ec-92ee-925b44db5758.pak","nexusFileId":132607,"metaUuid":"5a94d548-6cae-47ec-92ee-925b44db5758"}
@@ -71709,6 +71710,9 @@
 "25782":{"nexusModName":"Harper Scout v.2 new","nexusUploadedBy":"Lord0Kastoy089","nexusModId":25782,"paks":[
 {"nexusFileName":"HarperScout 1.1.0","nexusFileVersion":"1.1.0","nexusFileUploadedAt":1791977815,"pakFileName":"HarperScout.pak","nexusFileId":132909,"metaUuid":null}
 ]},
+"25783":{"nexusModName":"Aesthetic e SFW Sensual Loading Screens","nexusUploadedBy":"dsprezo","nexusModId":25783,"paks":[
+{"nexusFileName":"AestheticSFW SensualLoadingScreens DS1.0","nexusFileVersion":"1","nexusFileUploadedAt":1792087767,"pakFileName":"AestheticSFW_SensualLoadingScreens_dS1.0.pak","nexusFileId":133021,"metaUuid":null}
+]},
 "25784":{"nexusModName":"Gravebound Dragon - Netherwing","nexusUploadedBy":"RatioEXP","nexusModId":25784,"paks":[
 {"nexusFileName":"Gravebound Dragon - Netherwing v0.1.24 Playtest","nexusFileVersion":"0.1.24","nexusFileUploadedAt":1791986831,"pakFileName":"NyridiumGraveboundDragon_v0.1.24_EFFECT_SECTIONS_HOTFIX_TEST.pak","nexusFileId":132914,"metaUuid":"74010ab0-298c-48ba-bc97-3a963366597f"}
 ]},
@@ -71761,7 +71765,7 @@
 {"nexusFileName":"HighlightPlus","nexusFileVersion":"1","nexusFileUploadedAt":1792060815,"pakFileName":"HighlightPlus.pak","nexusFileId":132984,"metaUuid":"aad54a95-79d2-42fe-8216-9858cdafbb9d"}
 ]},
 "25807":{"nexusModName":"Wild Magic Mutant","nexusUploadedBy":"ryolacap","nexusModId":25807,"paks":[
-{"nexusFileName":"Wild Magic Mutant V228","nexusFileVersion":"3","nexusFileUploadedAt":1792079778,"pakFileName":"WildMagicMutant_v234_SAFE_AOE_OVERCHARGE.pak","nexusFileId":133011,"metaUuid":null}
+{"nexusFileName":"Wild Magic Mutant V228","nexusFileVersion":"4","nexusFileUploadedAt":1792089363,"pakFileName":"WildMagicMutant_v239_PURPOSE_MECHANICS_AUDIT.pak","nexusFileId":133024,"metaUuid":null}
 ]},
 "25808":{"nexusModName":"HitOrMiss (Better Combat Text)","nexusUploadedBy":"televator","nexusModId":25808,"paks":[
 {"nexusFileName":"HitOrMiss","nexusFileVersion":"1.3.0","nexusFileUploadedAt":1792066336,"pakFileName":"HitOrMiss_a2657a62-e59d-3bbe-c580-3f7f0a20c236.pak","nexusFileId":132991,"metaUuid":null}
@@ -71777,4 +71781,10 @@
 ]},
 "25812":{"nexusModName":"Container Spell Patcher","nexusUploadedBy":"actualsailorcat","nexusModId":25812,"paks":[
 {"nexusFileName":"Container Spell Patcher","nexusFileVersion":"1.00.00","nexusFileUploadedAt":1792080156,"pakFileName":"Container Spell Patcher.pak","nexusFileId":133012,"metaUuid":null}
+]},
+"25814":{"nexusModName":"Path to Apotheosis - Levels 13-20 for DnD 5.5e All-in-One CHS","nexusUploadedBy":"CronusFFF","nexusModId":25814,"paks":[
+{"nexusFileName":"PathToApotheosis CN","nexusFileVersion":"1","nexusFileUploadedAt":1792088606,"pakFileName":"PathToApotheosis_CN.pak","nexusFileId":133022,"metaUuid":null}
+]},
+"25815":{"nexusModName":"Moonlight Sliver Circlet Helm","nexusUploadedBy":"CtrlFr33k","nexusModId":25815,"paks":[
+{"nexusFileName":"Moonlight Sliver Circlet","nexusFileVersion":"1","nexusFileUploadedAt":1792089706,"pakFileName":"Moonlight Sliver Circlet.pak","nexusFileId":133026,"metaUuid":null}
 ]}}
