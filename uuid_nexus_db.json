@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-10-15T04:52:06.417558+00:00","total_mods":18179},
+{"_meta":{"last_run":"2026-10-15T05:52:36.812744+00:00","total_mods":18181},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -6098,10 +6098,12 @@
 ]},
 "1758":{"nexusModName":"Immersive Loading Screens","nexusUploadedBy":"lexo1000","nexusModId":1758,"paks":[
 {"nexusFileName":"Immersive Loading Screens - No Hints","nexusFileVersion":"1.0","nexusFileUploadedAt":1776612948,"pakFileName":"Immersive Loading Screens - No Hints.pak","nexusFileId":119466,"metaUuid":"039e1fc6-414f-4f83-8916-f21eecd7d77f"},
-{"nexusFileName":"Immersive Loading Screens","nexusFileVersion":"4.6","nexusFileUploadedAt":1791470830,"pakFileName":"Immersive Loading Screens.pak","nexusFileId":132407,"metaUuid":"0b5720b2-ef8c-4c0e-887d-3a2670fbddfe"},
 {"nexusFileName":"Immersive Loading Screens - Vignette","nexusFileVersion":"1.0","nexusFileUploadedAt":1791470852,"pakFileName":"Immersive Loading Screens - Vignette.pak","nexusFileId":132408,"metaUuid":null},
 {"nexusFileName":"Immersive Loading Screens - Main Menu Tweaks","nexusFileVersion":"1.3","nexusFileUploadedAt":1791470893,"pakFileName":"Immersive Loading Screens - Main Menu Tweaks.pak","nexusFileId":132409,"metaUuid":null},
-{"nexusFileName":"Immersive Loading Screens - Lore Hints","nexusFileVersion":"1.24","nexusFileUploadedAt":1791612583,"pakFileName":"Immersive Loading Screens - Lore Hints.pak","nexusFileId":132562,"metaUuid":"e54f5999-2655-4cd9-8881-75fce5886864"}
+{"nexusFileName":"Immersive Loading Screens - Artworks","nexusFileVersion":"4.7","nexusFileUploadedAt":1792041613,"pakFileName":"Immersive Loading Screens - Artworks.pak","nexusFileId":132972,"metaUuid":null},
+{"nexusFileName":"Immersive Loading Screens - Creatures (English)","nexusFileVersion":"4.7","nexusFileUploadedAt":1792041662,"pakFileName":"Immersive Loading Screens - Creatures (English).pak","nexusFileId":132973,"metaUuid":null},
+{"nexusFileName":"Immersive Loading Screens - Creatures (French)","nexusFileVersion":"4.7","nexusFileUploadedAt":1792041680,"pakFileName":"Immersive Loading Screens - Creatures (French).pak","nexusFileId":132974,"metaUuid":null},
+{"nexusFileName":"Immersive Loading Screens - Lore Hints","nexusFileVersion":"1.28","nexusFileUploadedAt":1792041929,"pakFileName":"Immersive Loading Screens - Lore Hints.pak","nexusFileId":132976,"metaUuid":"e54f5999-2655-4cd9-8881-75fce5886864"}
 ]},
 "1759":{"nexusModName":"Previous Looks of Minthara","nexusUploadedBy":"Padme4000","nexusModId":1759,"paks":[
 {"nexusFileName":"EA Minthara Hair Patch 4","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1693580339,"pakFileName":"EA Minthara Hair Patch 4.pak","nexusFileId":12368,"metaUuid":null},
@@ -70832,7 +70834,7 @@
 {"nexusFileName":"Illusion Glasses 1.0.0.4","nexusFileVersion":"1.0.0.4","nexusFileUploadedAt":1790854529,"pakFileName":"VampireDisguiseGlasses_1.0.0.4.pak","nexusFileId":131823,"metaUuid":null}
 ]},
 "25434":{"nexusModName":"Martyr Class (Valda's Spire of Secrets)","nexusUploadedBy":"lenonk75","nexusModId":25434,"paks":[
-{"nexusFileName":"MartyrValdas 1.0.0","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1790795938,"pakFileName":"MartyrValdas.pak","nexusFileId":131773,"metaUuid":"5e80ccd7-a9e5-5157-bbba-a9f52cf38f2f"}
+{"nexusFileName":"MartyrValdas 1.0.1","nexusFileVersion":"1.0.1","nexusFileUploadedAt":1792040649,"pakFileName":"MartyrValdas.pak","nexusFileId":132970,"metaUuid":"5e80ccd7-a9e5-5157-bbba-a9f52cf38f2f"}
 ]},
 "25435":{"nexusModName":"Dawnwalker - Head Preset","nexusUploadedBy":"manuliparoni","nexusModId":25435,"paks":[
 {"nexusFileName":"Dawnwalker Head Preset","nexusFileVersion":"1.1","nexusFileUploadedAt":1790842237,"pakFileName":"Dawnwalker_head.pak","nexusFileId":131816,"metaUuid":"79631059-d00a-46ea-8363-f32288e1786e"}
@@ -71740,4 +71742,10 @@
 ]},
 "25801":{"nexusModName":"BG3 Painel - In-game Cheat Menu (English - PT-BR)","nexusUploadedBy":"rafaeldecampos","nexusModId":25801,"paks":[
 {"nexusFileName":"BG3 Painel 1.2.1 (English - PT-BR)","nexusFileVersion":"1.2.1","nexusFileUploadedAt":1792038171,"pakFileName":"BG3Painel.pak","nexusFileId":132967,"metaUuid":null}
+]},
+"25802":{"nexusModName":"BLACKGUARD","nexusUploadedBy":"Lord0Kastoy089","nexusModId":25802,"paks":[
+{"nexusFileName":"Blackguard V1.0.0","nexusFileVersion":"1","nexusFileUploadedAt":1792040716,"pakFileName":"Blackguard.pak","nexusFileId":132971,"metaUuid":null}
+]},
+"25803":{"nexusModName":"Modular Weapons","nexusUploadedBy":"Digineaux","nexusModId":25803,"paks":[
+{"nexusFileName":"Modular Weapons 1.0.0.8 Playtest","nexusFileVersion":"1.0.0.8","nexusFileUploadedAt":1792041811,"pakFileName":"ModularWeapons.pak","nexusFileId":132975,"metaUuid":null}
 ]}}
