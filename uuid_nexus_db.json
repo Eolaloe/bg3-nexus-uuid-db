@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-10-15T20:52:32.964025+00:00","total_mods":18195},
+{"_meta":{"last_run":"2026-10-15T21:52:35.224365+00:00","total_mods":18197},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -44595,7 +44595,7 @@
 {"nexusFileName":"RandomSpawnGeneratorCHS","nexusFileVersion":"1.0.0.272","nexusFileUploadedAt":1754468696,"pakFileName":"RandomSpawnGeneratorCHS.pak","nexusFileId":100034,"metaUuid":null}
 ]},
 "16040":{"nexusModName":"Justice For Nessa","nexusUploadedBy":"Syrchalis","nexusModId":16040,"paks":[
-{"nexusFileName":"Justice for Nessa","nexusFileVersion":"1.0.16","nexusFileUploadedAt":1750896670,"pakFileName":"Justice_For_Nessa_593b02e9-e8c6-8e0e-f1b5-9487f3182d52.pak","nexusFileId":96631,"metaUuid":"593b02e9-e8c6-8e0e-f1b5-9487f3182d52"}
+{"nexusFileName":"Justice for Nessa","nexusFileVersion":"1.0.17","nexusFileUploadedAt":1792098569,"pakFileName":"Justice_For_Nessa_593b02e9-e8c6-8e0e-f1b5-9487f3182d52.pak","nexusFileId":133037,"metaUuid":"593b02e9-e8c6-8e0e-f1b5-9487f3182d52"}
 ]},
 "16041":{"nexusModName":"Warhammer 40000 Weapons CHS","nexusUploadedBy":"LaundryDragonmaidOfficial","nexusModId":16041,"paks":[
 {"nexusFileName":"W40K_WeaponsCHS","nexusFileVersion":"1.0","nexusFileUploadedAt":1745486250,"pakFileName":"W40K_WeaponsCHS.pak","nexusFileId":90442,"metaUuid":null}
@@ -67971,7 +67971,7 @@
 {"nexusFileName":"Alt Tief Legs","nexusFileVersion":"2","nexusFileUploadedAt":1787644132,"pakFileName":"Alt_Tief_Legs.pak","nexusFileId":128969,"metaUuid":"f4f879ad-341d-437a-a466-4652ceb3fe08"},
 {"nexusFileName":"Alt Tief Legs CharacterCreatorOptions","nexusFileVersion":"2","nexusFileUploadedAt":1787644244,"pakFileName":"Alt_Tief_Legs_CharacterCreatorOptions.pak","nexusFileId":128970,"metaUuid":null}
 ]},
-"24379":{"nexusModName":"Baldur's Gate 3 Traducere Romana (Early Access)","nexusUploadedBy":"Gabrielish","nexusModId":24379,"paks":[
+"24379":{"nexusModName":"Baldur's Gate 3 Traducere Limba Romana (Early Access)","nexusUploadedBy":"Gabrielish","nexusModId":24379,"paks":[
 {"nexusFileName":"Baldur'S Gate 3 Romana V0.8","nexusFileVersion":"0.8","nexusFileUploadedAt":1791928948,"pakFileName":"English.pak","nexusFileId":132870,"metaUuid":null},
 {"nexusFileName":"Baldur'S Gate 3 Romana V0.8","nexusFileVersion":"0.8","nexusFileUploadedAt":1791928948,"pakFileName":"Polyhedron_CombatLog_Inspector_SE.pak","nexusFileId":132870,"metaUuid":null},
 {"nexusFileName":"Baldur'S Gate 3 Romana V0.8","nexusFileVersion":"0.8","nexusFileUploadedAt":1791928948,"pakFileName":"Polyhedron_Romanian_Item_Order.pak","nexusFileId":132870,"metaUuid":null}
@@ -71768,7 +71768,7 @@
 {"nexusFileName":"HighlightPlus","nexusFileVersion":"1","nexusFileUploadedAt":1792060815,"pakFileName":"HighlightPlus.pak","nexusFileId":132984,"metaUuid":"aad54a95-79d2-42fe-8216-9858cdafbb9d"}
 ]},
 "25807":{"nexusModName":"Wild Magic Mutant","nexusUploadedBy":"ryolacap","nexusModId":25807,"paks":[
-{"nexusFileName":"Wild Magic Mutant V228","nexusFileVersion":"4","nexusFileUploadedAt":1792089363,"pakFileName":"WildMagicMutant_v239_PURPOSE_MECHANICS_AUDIT.pak","nexusFileId":133024,"metaUuid":null}
+{"nexusFileName":"Wild Magic Mutant V241","nexusFileVersion":"5","nexusFileUploadedAt":1792100405,"pakFileName":"WildMagicMutant_v241_GENOME_DAMAGE_CONTEXT_FIX.pak","nexusFileId":133040,"metaUuid":null}
 ]},
 "25808":{"nexusModName":"HitOrMiss (Better Combat Text)","nexusUploadedBy":"televator","nexusModId":25808,"paks":[
 {"nexusFileName":"HitOrMiss","nexusFileVersion":"1.3.0","nexusFileUploadedAt":1792066336,"pakFileName":"HitOrMiss_a2657a62-e59d-3bbe-c580-3f7f0a20c236.pak","nexusFileId":132991,"metaUuid":null}
@@ -71793,4 +71793,10 @@
 ]},
 "25817":{"nexusModName":"Spawn Belatex","nexusUploadedBy":"Crimsonia3DArt","nexusModId":25817,"paks":[
 {"nexusFileName":"SpawnBelatex","nexusFileVersion":"1","nexusFileUploadedAt":1792097322,"pakFileName":"SpawnBelatex_f34188c6-3633-a26e-d215-a6015f3d5fcc.pak","nexusFileId":133036,"metaUuid":null}
+]},
+"25818":{"nexusModName":"Academy Leathers","nexusUploadedBy":"SHanson70","nexusModId":25818,"paks":[
+{"nexusFileName":"Academy Leathers","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1792099606,"pakFileName":"AcademyLeathers.pak","nexusFileId":133038,"metaUuid":null}
+]},
+"25819":{"nexusModName":"Auto Sort Inventory","nexusUploadedBy":"AndruC","nexusModId":25819,"paks":[
+{"nexusFileName":"AutoSortInventory 1.0.0.0","nexusFileVersion":"1","nexusFileUploadedAt":1792099929,"pakFileName":"AutoSortInventory.pak","nexusFileId":133039,"metaUuid":null}
 ]}}
