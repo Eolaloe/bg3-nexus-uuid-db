@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-10-15T07:52:10.059011+00:00","total_mods":18181},
+{"_meta":{"last_run":"2026-10-15T08:52:32.384087+00:00","total_mods":18182},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -42624,7 +42624,7 @@
 {"nexusFileName":"Blood Hunter Class PL","nexusFileVersion":"1.12","nexusFileUploadedAt":1741373452,"pakFileName":"Blood_Hunter_PL.pak","nexusFileId":86855,"metaUuid":null}
 ]},
 "15230":{"nexusModName":"Choose Your Stats (CYS)_KOR","nexusUploadedBy":"Ahdarugo","nexusModId":15230,"paks":[
-{"nexusFileName":"Choose Your Stats (CYS)_KOR","nexusFileVersion":"2.0.62","nexusFileUploadedAt":1791857193,"pakFileName":"chooseyourstats_KOR.pak","nexusFileId":132804,"metaUuid":"6068954b-2c76-4375-a3cf-0159686a50a0"}
+{"nexusFileName":"Choose Your Stats (CYS)_KOR","nexusFileVersion":"2.0.63","nexusFileUploadedAt":1792053121,"pakFileName":"chooseyourstats_KOR.pak","nexusFileId":132979,"metaUuid":"6068954b-2c76-4375-a3cf-0159686a50a0"}
 ]},
 "15231":{"nexusModName":"Echo Knight Fighter Subclass_KOR","nexusUploadedBy":"Ahdarugo","nexusModId":15231,"paks":[
 {"nexusFileName":"Echo Knight Fighter Subclass_KOR","nexusFileVersion":"1.3.1","nexusFileUploadedAt":1741289595,"pakFileName":"DEchoKnight_KOR.pak","nexusFileId":86801,"metaUuid":null}
@@ -71748,4 +71748,7 @@
 ]},
 "25803":{"nexusModName":"Modular Weapons","nexusUploadedBy":"Digineaux","nexusModId":25803,"paks":[
 {"nexusFileName":"Modular Weapons 1.0.0.8 Playtest","nexusFileVersion":"1.0.0.8","nexusFileUploadedAt":1792041811,"pakFileName":"ModularWeapons.pak","nexusFileId":132975,"metaUuid":null}
+]},
+"25804":{"nexusModName":"Shared Actions","nexusUploadedBy":"ickadev","nexusModId":25804,"paks":[
+{"nexusFileName":"SharedActions","nexusFileVersion":"1.4.2","nexusFileUploadedAt":1792053693,"pakFileName":"SharedActions.pak","nexusFileId":132980,"metaUuid":null}
 ]}}
