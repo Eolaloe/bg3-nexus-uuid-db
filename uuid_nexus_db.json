@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-10-16T14:52:46.375539+00:00","total_mods":18202},
+{"_meta":{"last_run":"2026-10-16T15:52:40.774859+00:00","total_mods":18202},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -10488,7 +10488,7 @@
 ]},
 "3214":{"nexusModName":"Druid Quality of Life","nexusUploadedBy":"Syrchalis","nexusModId":3214,"paks":[
 {"nexusFileName":"Ritual Wild Shape","nexusFileVersion":"1.0.1","nexusFileUploadedAt":1746869792,"pakFileName":"Ritual_WildShape.pak","nexusFileId":92391,"metaUuid":"ddb30d7b-232a-4a60-9b2c-55332df06ea5"},
-{"nexusFileName":"Druid Quality of Life","nexusFileVersion":"2.5.1","nexusFileUploadedAt":1792102000,"pakFileName":"Druid_QoL_789deb36-e3da-4a5e-b737-eb644cd1dd6a.pak","nexusFileId":133044,"metaUuid":"789deb36-e3da-4a5e-b737-eb644cd1dd6a"}
+{"nexusFileName":"Druid Quality of Life","nexusFileVersion":"2.5.1.4","nexusFileUploadedAt":1792165239,"pakFileName":"Druid_QoL_789deb36-e3da-4a5e-b737-eb644cd1dd6a.pak","nexusFileId":133104,"metaUuid":"789deb36-e3da-4a5e-b737-eb644cd1dd6a"}
 ]},
 "3215":{"nexusModName":"Skeletal Musketeer  Chinese translation","nexusUploadedBy":"changyi5531","nexusModId":3215,"paks":[
 {"nexusFileName":"Skeletal Musketeer Chinese translation","nexusFileVersion":"1.0","nexusFileUploadedAt":1697118763,"pakFileName":"Skeletal Musketeer.pak","nexusFileId":22354,"metaUuid":null}
@@ -48859,8 +48859,8 @@
 "17578":{"nexusModName":"Minthara Oathbreaker Dialog","nexusUploadedBy":"Sinus23","nexusModId":17578,"paks":[
 {"nexusFileName":"Minthara Oathbreaker Dialog","nexusFileVersion":"1.0.0.1","nexusFileUploadedAt":1752493471,"pakFileName":"MintharaOathbreakerDialog_d67b357e-f7d3-bac8-aadc-42044dba9ce5.pak","nexusFileId":98102,"metaUuid":"d67b357e-f7d3-bac8-aadc-42044dba9ce5"}
 ]},
-"17579":{"nexusModName":"Better Selune's Dream","nexusUploadedBy":"koboldJuno","nexusModId":17579,"paks":[
-{"nexusFileName":"Selune's Dream","nexusFileVersion":"1.0","nexusFileUploadedAt":1752501476,"pakFileName":"SeluneDream_02d12e2b-0ca1-d249-8cb0-3320f81d0f56.pak","nexusFileId":98106,"metaUuid":"02d12e2b-0ca1-d249-8cb0-3320f81d0f56"}
+"17579":{"nexusModName":"Better Selune's Dream and Amulet of Selune's Chosen","nexusUploadedBy":"koboldJuno","nexusModId":17579,"paks":[
+{"nexusFileName":"Selune's Dream","nexusFileVersion":"2.0","nexusFileUploadedAt":1792165334,"pakFileName":"SeluneDream_02d12e2b-0ca1-d249-8cb0-3320f81d0f56.pak","nexusFileId":133105,"metaUuid":"02d12e2b-0ca1-d249-8cb0-3320f81d0f56"}
 ]},
 "17580":{"nexusModName":"Astarion Post Ascension Dialogue Fix-KR","nexusUploadedBy":"MshapedHairLoss","nexusModId":17580,"paks":[
 {"nexusFileName":"Astarion Post Ascension Dialogue Fix-KR","nexusFileVersion":"1.0.0.5","nexusFileUploadedAt":1752502508,"pakFileName":"Astarion Post Ascension Dialogue Fix-KR.pak","nexusFileId":98109,"metaUuid":null}
@@ -71728,7 +71728,7 @@
 {"nexusFileName":"ArcaneScholarOfCandlekeep V1.0.0","nexusFileVersion":"1","nexusFileUploadedAt":1792020193,"pakFileName":"ArcaneScholarOfCandlekeep.pak","nexusFileId":132943,"metaUuid":null}
 ]},
 "25798":{"nexusModName":"Sir Acalians Baldur's Gate 3 Feats","nexusUploadedBy":"SirAcalian","nexusModId":25798,"paks":[
-{"nexusFileName":"Sir Acalians Feats","nexusFileVersion":"1.0.0.2","nexusFileUploadedAt":1792066266,"pakFileName":"Sir_Acalians_Feats_7ed945fb-556e-d84f-1ab9-4b58ec8321a5.pak","nexusFileId":132990,"metaUuid":null}
+{"nexusFileName":"Sir Acalians Feats","nexusFileVersion":"1.0.0.3","nexusFileUploadedAt":1792164458,"pakFileName":"Sir_Acalians_Feats_7ed945fb-556e-d84f-1ab9-4b58ec8321a5.pak","nexusFileId":133102,"metaUuid":null}
 ]},
 "25799":{"nexusModName":"Voss Gets a Haircut","nexusUploadedBy":"PocketPauIing","nexusModId":25799,"paks":[
 {"nexusFileName":"VossGoesToTheBarber","nexusFileVersion":"1","nexusFileUploadedAt":1792032110,"pakFileName":"VossGoesToTheBarber_77ca5739-27e2-c5bd-6eb1-6a666d29fc53.pak","nexusFileId":132960,"metaUuid":null}
@@ -71810,4 +71810,7 @@
 ]},
 "25834":{"nexusModName":"Daehwi's Elixir Ward","nexusUploadedBy":"Nyskaya","nexusModId":25834,"paks":[
 {"nexusFileName":"Daehwi's Elixir Ward","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1792160288,"pakFileName":"Nyskaya_ElixirWard.pak","nexusFileId":133094,"metaUuid":null}
+]},
+"25835":{"nexusModName":"Bagception Extended","nexusUploadedBy":"djgLXXII","nexusModId":25835,"paks":[
+{"nexusFileName":"BagceptionExtended","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1792165238,"pakFileName":"BagceptionExtended.pak","nexusFileId":133103,"metaUuid":null}
 ]}}
