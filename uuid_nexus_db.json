@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-10-16T05:52:28.286754+00:00","total_mods":18201},
+{"_meta":{"last_run":"2026-10-16T06:52:23.898773+00:00","total_mods":18203},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -67950,8 +67950,7 @@
 {"nexusFileName":"Noah Better Ai CHS","nexusFileVersion":"1","nexusFileUploadedAt":1786411924,"pakFileName":"Noah_Better_Ai_CHS.pak","nexusFileId":127811,"metaUuid":null}
 ]},
 "24372":{"nexusModName":"Malefica - Light Armor and Camp Clothing","nexusUploadedBy":"khaleesinz","nexusModId":24372,"paks":[
-{"nexusFileName":"Malefica - Light Armor and Camp Clothing","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1786426615,"pakFileName":"MaleficaArmor_khaleesinz_7b8354b2-24ef-18cc-0543-89e2ec5ca045.pak","nexusFileId":127838,"metaUuid":"7b8354b2-24ef-18cc-0543-89e2ec5ca045"},
-{"nexusFileName":"Malefica - Light Armor and Camp Clothing","nexusFileVersion":"1.0.1","nexusFileUploadedAt":1787095565,"pakFileName":"MaleficaArmor_khaleesinz_7b8354b2-24ef-18cc-0543-89e2ec5ca045.pak","nexusFileId":128425,"metaUuid":"7b8354b2-24ef-18cc-0543-89e2ec5ca045"}
+{"nexusFileName":"Malefica - Light Armor and Camp Clothing","nexusFileVersion":"1.0.2","nexusFileUploadedAt":1792132990,"pakFileName":"MaleficaArmor_khaleesinz_7b8354b2-24ef-18cc-0543-89e2ec5ca045.pak","nexusFileId":133066,"metaUuid":"7b8354b2-24ef-18cc-0543-89e2ec5ca045"}
 ]},
 "24374":{"nexusModName":"The Fashionable Monk","nexusUploadedBy":"limebloodexe","nexusModId":24374,"paks":[
 {"nexusFileName":"FashionableMonk","nexusFileVersion":"1","nexusFileUploadedAt":1786428279,"pakFileName":"FashionableMonk_9c6f14d6-cb91-1b40-a980-4de2c92a7661.pak","nexusFileId":127839,"metaUuid":"9c6f14d6-cb91-1b40-a980-4de2c92a7661"}
@@ -71722,6 +71721,9 @@
 "25787":{"nexusModName":"Wave Blade - Standalone Class and Treasure King's Deck","nexusUploadedBy":"RatioEXP","nexusModId":25787,"paks":[
 {"nexusFileName":"Wave Blade v0.1.3 - Rogue Ranger Update - Playtest","nexusFileVersion":"0.1.3","nexusFileUploadedAt":1792009994,"pakFileName":"Nyridium_WaveBlade_v0.1.3_ROGUE_RANGER_DIAGNOSTIC.pak","nexusFileId":132932,"metaUuid":null}
 ]},
+"25789":{"nexusModName":"Companion Default Builds","nexusUploadedBy":"WhiskyTangoFawks","nexusModId":25789,"paks":[
+{"nexusFileName":"Companion Default Builds","nexusFileVersion":"Alpha-1","nexusFileUploadedAt":1792054524,"pakFileName":"AutoBuildCompanions.pak","nexusFileId":132982,"metaUuid":null}
+]},
 "25790":{"nexusModName":"Yoru - Mihawk's Black Blade","nexusUploadedBy":"Andrei9999","nexusModId":25790,"paks":[
 {"nexusFileName":"Yoru Mihawks Black Blade V1.010","nexusFileVersion":"2","nexusFileUploadedAt":1792004595,"pakFileName":"MihawkSword_6577829d-dab6-93a4-d9d3-3ad3f3807544.pak","nexusFileId":132926,"metaUuid":null}
 ]},
@@ -71759,7 +71761,7 @@
 {"nexusFileName":"Modular Weapons ReleaseCandidate.26.10.16","nexusFileVersion":"ReleaseCandidate.26.10.16","nexusFileUploadedAt":1792123690,"pakFileName":"ModularWeapons.pak","nexusFileId":133060,"metaUuid":"a9dc2da6-2d6b-4ef2-9061-7837ee4c4c93"}
 ]},
 "25804":{"nexusModName":"Shared Actions","nexusUploadedBy":"ickadev","nexusModId":25804,"paks":[
-{"nexusFileName":"SharedActions","nexusFileVersion":"1.4.2","nexusFileUploadedAt":1792053693,"pakFileName":"SharedActions.pak","nexusFileId":132980,"metaUuid":"1782fda1-e53f-4002-a69b-6b6d4f4dbd23"}
+{"nexusFileName":"SharedActions","nexusFileVersion":"1.5.0","nexusFileUploadedAt":1792130657,"pakFileName":"SharedActions.pak","nexusFileId":133065,"metaUuid":"1782fda1-e53f-4002-a69b-6b6d4f4dbd23"}
 ]},
 "25805":{"nexusModName":"Weightless Gold","nexusUploadedBy":"ickadev","nexusModId":25805,"paks":[
 {"nexusFileName":"WeightlessGold","nexusFileVersion":"1","nexusFileUploadedAt":1792056467,"pakFileName":"WeightlessGold.pak","nexusFileId":132983,"metaUuid":null}
@@ -71811,4 +71813,7 @@
 ]},
 "25825":{"nexusModName":"Odette's Promise","nexusUploadedBy":"LeilaXel","nexusModId":25825,"paks":[
 {"nexusFileName":"LeilaOdettesPromise","nexusFileVersion":"1","nexusFileUploadedAt":1792109838,"pakFileName":"LeilaOdettesPromise.pak","nexusFileId":133054,"metaUuid":null}
+]},
+"25828":{"nexusModName":"Ring of Twisted Tongues - Cambion Arbiters","nexusUploadedBy":"Lord0Kastoy089","nexusModId":25828,"paks":[
+{"nexusFileName":"RingOfTwistedTongues V1.0.0","nexusFileVersion":"1","nexusFileUploadedAt":1792133324,"pakFileName":"RingOfTwistedTongues.pak","nexusFileId":133067,"metaUuid":null}
 ]}}
