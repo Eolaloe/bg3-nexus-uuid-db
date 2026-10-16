@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-10-16T19:52:25.054385+00:00","total_mods":18207},
+{"_meta":{"last_run":"2026-10-16T20:52:18.420733+00:00","total_mods":18209},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -59963,7 +59963,7 @@
 ]},
 "21344":{"nexusModName":"Prismortalis - A Dark-Fantasy Spellblade","nexusUploadedBy":"nvlliel","nexusModId":21344,"paks":[
 {"nexusFileName":"Prismortalis - Feats Every Two Levels","nexusFileVersion":"1.0.0.1","nexusFileUploadedAt":1784578982,"pakFileName":"PrismortalisFeatsEvery2Levels_a230221a-2a95-a352-bedb-d13b30a5e412.pak","nexusFileId":126094,"metaUuid":null},
-{"nexusFileName":"Prismortalis - A Dark-Fantasy Spellblade","nexusFileVersion":"5.8.2","nexusFileUploadedAt":1792013392,"pakFileName":"Prismortalis_5a28cde7-cff0-e977-dc6d-17244faeaa8c.pak","nexusFileId":132936,"metaUuid":"5a28cde7-cff0-e977-dc6d-17244faeaa8c"}
+{"nexusFileName":"Prismortalis - A Dark-Fantasy Spellblade","nexusFileVersion":"5.8.3","nexusFileUploadedAt":1792181024,"pakFileName":"Prismortalis_5a28cde7-cff0-e977-dc6d-17244faeaa8c.pak","nexusFileId":133126,"metaUuid":"5a28cde7-cff0-e977-dc6d-17244faeaa8c"}
 ]},
 "21345":{"nexusModName":"Marksman - A Gunslinger class for Korean","nexusUploadedBy":"Eolaloe","nexusModId":21345,"paks":[
 {"nexusFileName":"Marksman - A Gunslinger class for Korean","nexusFileVersion":"1.2.1.0","nexusFileUploadedAt":1782326055,"pakFileName":"Marksman_Class_kr.pak","nexusFileId":124220,"metaUuid":null}
@@ -71818,6 +71818,11 @@
 "25832":{"nexusModName":"Mid and Plus-size Dark Wizard Sorceress Outfit","nexusUploadedBy":"Desdimonda","nexusModId":25832,"paks":[
 {"nexusFileName":"Desdi Mid And Plus DW Sorceress","nexusFileVersion":"1","nexusFileUploadedAt":1792153051,"pakFileName":"DesdiMidSizeDWSorceress_43cc7593-d481-3c08-c6df-a976b2045b0c.pak","nexusFileId":133087,"metaUuid":null}
 ]},
+"25833":{"nexusModName":"Flail of Anguish","nexusUploadedBy":"Lyniara","nexusModId":25833,"paks":[
+{"nexusFileName":"Flail of Anguish","nexusFileVersion":"1.0.0.3","nexusFileUploadedAt":1792179798,"pakFileName":"LYRA_LYN_DullahanFlail_1.0.0.3.pak","nexusFileId":133123,"metaUuid":null},
+{"nexusFileName":"Dullahan Armor for Tavs - ADDON","nexusFileVersion":"1","nexusFileUploadedAt":1792179862,"pakFileName":"LYNDullahanArmorForTav.pak","nexusFileId":133124,"metaUuid":null},
+{"nexusFileName":"Flail of Anguish - Tutorial Chest ADDON","nexusFileVersion":"1","nexusFileUploadedAt":1792180481,"pakFileName":"FlailOfAnguish - Tut Chest Addon.pak","nexusFileId":133125,"metaUuid":null}
+]},
 "25834":{"nexusModName":"Daehwi's Elixir Ward","nexusUploadedBy":"Nyskaya","nexusModId":25834,"paks":[
 {"nexusFileName":"Daehwi's Elixir Ward","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1792160288,"pakFileName":"Nyskaya_ElixirWard.pak","nexusFileId":133094,"metaUuid":null}
 ]},
@@ -71829,4 +71834,7 @@
 ]},
 "25837":{"nexusModName":"The Pact Comes With...","nexusUploadedBy":"Dovaal","nexusModId":25837,"paks":[
 {"nexusFileName":"The Pact Comes With...","nexusFileVersion":"1","nexusFileUploadedAt":1792169743,"pakFileName":"ThePactComesWith.pak","nexusFileId":133112,"metaUuid":"823c936c-6760-a1b5-22f1-0872c236a605"}
+]},
+"25838":{"nexusModName":"Respec On Recruit","nexusUploadedBy":"Sw1shyFishy","nexusModId":25838,"paks":[
+{"nexusFileName":"RespecOnRecruit","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1792183506,"pakFileName":"SwishyFishy_RespecOnRecruit.pak","nexusFileId":133127,"metaUuid":null}
 ]}}
