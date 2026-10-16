@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-10-16T13:52:34.885529+00:00","total_mods":18201},
+{"_meta":{"last_run":"2026-10-16T14:52:46.375539+00:00","total_mods":18202},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -6099,11 +6099,11 @@
 "1758":{"nexusModName":"Immersive Loading Screens","nexusUploadedBy":"lexo1000","nexusModId":1758,"paks":[
 {"nexusFileName":"Immersive Loading Screens - No Hints","nexusFileVersion":"1.0","nexusFileUploadedAt":1776612948,"pakFileName":"Immersive Loading Screens - No Hints.pak","nexusFileId":119466,"metaUuid":"039e1fc6-414f-4f83-8916-f21eecd7d77f"},
 {"nexusFileName":"Immersive Loading Screens - Vignette","nexusFileVersion":"1.0","nexusFileUploadedAt":1791470852,"pakFileName":"Immersive Loading Screens - Vignette.pak","nexusFileId":132408,"metaUuid":null},
-{"nexusFileName":"Immersive Loading Screens - Main Menu Tweaks","nexusFileVersion":"1.3","nexusFileUploadedAt":1791470893,"pakFileName":"Immersive Loading Screens - Main Menu Tweaks.pak","nexusFileId":132409,"metaUuid":null},
 {"nexusFileName":"Immersive Loading Screens - Lore Hints","nexusFileVersion":"2.0","nexusFileUploadedAt":1792146852,"pakFileName":"Immersive Loading Screens - Lore Hints.pak","nexusFileId":133079,"metaUuid":"e54f5999-2655-4cd9-8881-75fce5886864"},
 {"nexusFileName":"Immersive Loading Screens - Creatures (French)","nexusFileVersion":"4.8","nexusFileUploadedAt":1792146914,"pakFileName":"Immersive Loading Screens - Creatures (French).pak","nexusFileId":133080,"metaUuid":null},
 {"nexusFileName":"Immersive Loading Screens - Creatures (English)","nexusFileVersion":"4.8","nexusFileUploadedAt":1792146934,"pakFileName":"Immersive Loading Screens - Creatures (English).pak","nexusFileId":133081,"metaUuid":null},
-{"nexusFileName":"Immersive Loading Screens - Artworks","nexusFileVersion":"4.8","nexusFileUploadedAt":1792146948,"pakFileName":"Immersive Loading Screens - Artworks.pak","nexusFileId":133082,"metaUuid":null}
+{"nexusFileName":"Immersive Loading Screens - Artworks","nexusFileVersion":"4.8","nexusFileUploadedAt":1792146948,"pakFileName":"Immersive Loading Screens - Artworks.pak","nexusFileId":133082,"metaUuid":null},
+{"nexusFileName":"Immersive Loading Screens - Main Menu Tweaks","nexusFileVersion":"1.4","nexusFileUploadedAt":1792160476,"pakFileName":"Immersive Loading Screens - Main Menu Tweaks.pak","nexusFileId":133096,"metaUuid":null}
 ]},
 "1759":{"nexusModName":"Previous Looks of Minthara","nexusUploadedBy":"Padme4000","nexusModId":1759,"paks":[
 {"nexusFileName":"EA Minthara Hair Patch 4","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1693580339,"pakFileName":"EA Minthara Hair Patch 4.pak","nexusFileId":12368,"metaUuid":null},
@@ -14201,7 +14201,7 @@
 {"nexusFileName":"Scythe spiritual weapon PAK","nexusFileVersion":"1","nexusFileUploadedAt":1763314632,"pakFileName":"SpiritualWeaponModelReplacer.pak","nexusFileId":107575,"metaUuid":"ed0f7855-4dc5-4f6c-a661-e35de4215f17"}
 ]},
 "4535":{"nexusModName":"Druid Wildshape Items","nexusUploadedBy":"Syrchalis","nexusModId":4535,"paks":[
-{"nexusFileName":"Druid Wildshape Items","nexusFileVersion":"1.7.0","nexusFileUploadedAt":1792103567,"pakFileName":"Druid_Wildshape_Gear_d4d885b7-061d-4ca4-ab2b-77eb0af8555c.pak","nexusFileId":133046,"metaUuid":"d4d885b7-061d-4ca4-ab2b-77eb0af8555c"}
+{"nexusFileName":"Druid Wildshape Items","nexusFileVersion":"1.7.0.2","nexusFileUploadedAt":1792159618,"pakFileName":"Druid_Wildshape_Gear_d4d885b7-061d-4ca4-ab2b-77eb0af8555c.pak","nexusFileId":133092,"metaUuid":"d4d885b7-061d-4ca4-ab2b-77eb0af8555c"}
 ]},
 "4536":{"nexusModName":"(Color Key) Green Screen Droppable Object","nexusUploadedBy":"TheSoggyBurrito","nexusModId":4536,"paks":[
 {"nexusFileName":"Chroma Key Droppable Object","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1701150911,"pakFileName":"Chroma Key Object.pak","nexusFileId":31116,"metaUuid":null}
@@ -35974,7 +35974,7 @@
 ]},
 "12727":{"nexusModName":"DnD 5.5e All-in-One BEYOND","nexusUploadedBy":"yoonmoonsik43","nexusModId":12727,"paks":[
 {"nexusFileName":"dnd2024 - V3 Legacy","nexusFileVersion":"3.4.6.4","nexusFileUploadedAt":1771945305,"pakFileName":"DnD2024_897914ef-5c96-053c-44af-0be823f895fe.pak","nexusFileId":115523,"metaUuid":"897914ef-5c96-053c-44af-0be823f895fe"},
-{"nexusFileName":"DnD 5.5e All-in-One BEYOND","nexusFileVersion":"4.13.9.0","nexusFileUploadedAt":1792074739,"pakFileName":"DnD2024_897914ef-5c96-053c-44af-0be823f895fe.pak","nexusFileId":133004,"metaUuid":"897914ef-5c96-053c-44af-0be823f895fe"}
+{"nexusFileName":"DnD 5.5e All-in-One BEYOND","nexusFileVersion":"4.13.9.1","nexusFileUploadedAt":1792160445,"pakFileName":"DnD2024_897914ef-5c96-053c-44af-0be823f895fe.pak","nexusFileId":133095,"metaUuid":"897914ef-5c96-053c-44af-0be823f895fe"}
 ]},
 "12728":{"nexusModName":"Origin-Themed Headwear KR","nexusUploadedBy":"Soorawang","nexusModId":12728,"paks":[
 {"nexusFileName":"Origin-Themed Headwear KR","nexusFileVersion":"1.0","nexusFileUploadedAt":1727930331,"pakFileName":"OriginHeadwear_kr.pak","nexusFileId":73692,"metaUuid":null}
@@ -63197,7 +63197,7 @@
 {"nexusFileName":"Fatebond","nexusFileVersion":"1.4","nexusFileUploadedAt":1784576306,"pakFileName":"Fatebond.pak","nexusFileId":126087,"metaUuid":"6cfead1f-d54c-4dfb-bc94-05e9fc1e2970"}
 ]},
 "22459":{"nexusModName":"DnD 5.5e All-in-One BEYOND Russian Localization","nexusUploadedBy":"XapcT","nexusModId":22459,"paks":[
-{"nexusFileName":"DnD 5.5e AIO Russian v0.6.12.zip","nexusFileVersion":"0.6.12","nexusFileUploadedAt":1792075666,"pakFileName":"DnD 5.5e AIO Russian.pak","nexusFileId":133005,"metaUuid":"6401e84d-daf2-416d-adeb-99c03a2487a6"}
+{"nexusFileName":"DnD 5.5e AIO Russian v0.6.13.zip","nexusFileVersion":"0.6.13","nexusFileUploadedAt":1792161158,"pakFileName":"DnD 5.5e AIO Russian.pak","nexusFileId":133100,"metaUuid":"6401e84d-daf2-416d-adeb-99c03a2487a6"}
 ]},
 "22460":{"nexusModName":"Elementally Based Gear","nexusUploadedBy":"Useyourrifle","nexusModId":22460,"paks":[
 {"nexusFileName":"Elemental_Gear.7z","nexusFileVersion":"1","nexusFileUploadedAt":1776346340,"pakFileName":"OP_Bow_56032304-f037-e077-f5e7-045d2e03ef1c.pak","nexusFileId":119147,"metaUuid":"56032304-f037-e077-f5e7-045d2e03ef1c"}
@@ -66897,7 +66897,7 @@
 {"nexusFileName":"E33 Clea Head and Hair Preset by aureusco","nexusFileVersion":"1.0.2","nexusFileUploadedAt":1784410731,"pakFileName":"e33_clea_hair_258ddcec-6da4-94-2jjg.pak","nexusFileId":125959,"metaUuid":"a2928544-5b2d-5507-cce2-8477fc268438"}
 ]},
 "23932":{"nexusModName":"Saved by the Slayer (Near-Death Slayer Form Transformation)","nexusUploadedBy":"Sw1shyFishy","nexusModId":23932,"paks":[
-{"nexusFileName":"SwishyFishy SlayerFormSavesYou","nexusFileVersion":"1.0.0.5","nexusFileUploadedAt":1787020194,"pakFileName":"SwishyFishy_SlayerFormSavesYou.pak","nexusFileId":128335,"metaUuid":"7ff7a034-127d-4988-a11a-7215e9cb3b5b"}
+{"nexusFileName":"SlayerFormSavesYou","nexusFileVersion":"1.0.0.6","nexusFileUploadedAt":1792160017,"pakFileName":"SwishyFishy_SlayerFormSavesYou.pak","nexusFileId":133093,"metaUuid":"7ff7a034-127d-4988-a11a-7215e9cb3b5b"}
 ]},
 "23934":{"nexusModName":"Spellstaff","nexusUploadedBy":"qhrals8","nexusModId":23934,"paks":[
 {"nexusFileName":"Spellstaff","nexusFileVersion":"5","nexusFileUploadedAt":1784429918,"pakFileName":"Spellstaff(1.3).pak","nexusFileId":125973,"metaUuid":"7693c114-9edb-4754-0101-bd8051da49af"}
@@ -71421,7 +71421,7 @@
 {"nexusFileName":"ThreeKoboldsInATrenchcoat V1.2.1","nexusFileVersion":"1.2.1","nexusFileUploadedAt":1791607564,"pakFileName":"ThreeKoboldsInATrenchcoat.pak","nexusFileId":132558,"metaUuid":"52c3c16c-764d-400d-b2b9-9844539ccbad"}
 ]},
 "25671":{"nexusModName":"Immersive Item Sizes","nexusUploadedBy":"lexo1000","nexusModId":25671,"paks":[
-{"nexusFileName":"Immersive Item Size","nexusFileVersion":"1.0.9","nexusFileUploadedAt":1792156797,"pakFileName":"Immersive Item Size.pak","nexusFileId":133090,"metaUuid":null}
+{"nexusFileName":"Immersive Item Size","nexusFileVersion":"2.0.0","nexusFileUploadedAt":1792161152,"pakFileName":"Immersive Item Size.pak","nexusFileId":133099,"metaUuid":null}
 ]},
 "25672":{"nexusModName":"Lucky Drop System","nexusUploadedBy":"FFFing","nexusModId":25672,"paks":[
 {"nexusFileName":"LuckyDropSystem","nexusFileVersion":"1.8.0.37","nexusFileUploadedAt":1791646877,"pakFileName":"LuckyLoot.pak","nexusFileId":132591,"metaUuid":"fa4ee91d-4e27-4612-a1da-44d19d8243db"}
@@ -71533,8 +71533,8 @@
 {"nexusFileName":"Nyskaya's Honest Hands","nexusFileVersion":"1.1.1","nexusFileUploadedAt":1792070579,"pakFileName":"Nyskaya_HonestHands.pak","nexusFileId":132998,"metaUuid":"56918848-40d0-453b-89b5-034c2374635e"}
 ]},
 "25723":{"nexusModName":"Nyskaya's Trainer of Haste","nexusUploadedBy":"Nyskaya","nexusModId":25723,"paks":[
-{"nexusFileName":"Nyskaya's Trainer of Haste","nexusFileVersion":"1.1.1","nexusFileUploadedAt":1791813054,"pakFileName":"Nyskaya_TrainerOfHaste.pak","nexusFileId":132752,"metaUuid":"16d9c7a0-01f8-4136-bad3-48ec1ad1ad75"},
-{"nexusFileName":"Trainer of Haste 1.2.0 BETA (Arcane Closet)","nexusFileVersion":"1.2.0-beta","nexusFileUploadedAt":1791813257,"pakFileName":"Nyskaya_TrainerOfHaste.pak","nexusFileId":132753,"metaUuid":"16d9c7a0-01f8-4136-bad3-48ec1ad1ad75"}
+{"nexusFileName":"Nyskaya's Trainer of Haste","nexusFileVersion":"1.3.0","nexusFileUploadedAt":1792160558,"pakFileName":"Nyskaya_TrainerOfHaste.pak","nexusFileId":133097,"metaUuid":"16d9c7a0-01f8-4136-bad3-48ec1ad1ad75"},
+{"nexusFileName":"Trainer of Haste 1.4.0 BETA (Arcane Closet)","nexusFileVersion":"1.4.0-beta","nexusFileUploadedAt":1792160609,"pakFileName":"Nyskaya_TrainerOfHaste.pak","nexusFileId":133098,"metaUuid":"16d9c7a0-01f8-4136-bad3-48ec1ad1ad75"}
 ]},
 "25724":{"nexusModName":"Stack All - One-Key Item Stacking","nexusUploadedBy":"pleymor","nexusModId":25724,"paks":[
 {"nexusFileName":"StackAll","nexusFileVersion":"1.2.0","nexusFileUploadedAt":1792139814,"pakFileName":"StackAll.pak","nexusFileId":133074,"metaUuid":"2e3e8dc7-0383-401f-8b53-47709bf6c5c5"}
@@ -71810,4 +71810,7 @@
 ]},
 "25832":{"nexusModName":"Mid and Plus-size Dark Wizard Sorceress Outfit","nexusUploadedBy":"Desdimonda","nexusModId":25832,"paks":[
 {"nexusFileName":"Desdi Mid And Plus DW Sorceress","nexusFileVersion":"1","nexusFileUploadedAt":1792153051,"pakFileName":"DesdiMidSizeDWSorceress_43cc7593-d481-3c08-c6df-a976b2045b0c.pak","nexusFileId":133087,"metaUuid":null}
+]},
+"25834":{"nexusModName":"Daehwi's Elixir Ward","nexusUploadedBy":"Nyskaya","nexusModId":25834,"paks":[
+{"nexusFileName":"Daehwi's Elixir Ward","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1792160288,"pakFileName":"Nyskaya_ElixirWard.pak","nexusFileId":133094,"metaUuid":null}
 ]}}
