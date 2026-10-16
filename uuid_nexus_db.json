@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-10-16T20:52:18.420733+00:00","total_mods":18209},
+{"_meta":{"last_run":"2026-10-16T21:53:09.966366+00:00","total_mods":18210},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -27333,7 +27333,7 @@
 {"nexusFileName":"Learn Summon Adamantine Golem_CHS","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1715408417,"pakFileName":"SummonAdamantineGolem_CHS.pak","nexusFileId":56678,"metaUuid":null}
 ]},
 "9386":{"nexusModName":"Valkrana's Spellbook - 11 New Necromancy Spells_CHS","nexusUploadedBy":"xxzz8822","nexusModId":9386,"paks":[
-{"nexusFileName":"Valkrana's Spellbook _CHS","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1715409494,"pakFileName":"Valkrana's Spellbook_CHS.pak","nexusFileId":56680,"metaUuid":null}
+{"nexusFileName":"Valkrana's all_CHS","nexusFileVersion":"1.3.9.0","nexusFileUploadedAt":1792185071,"pakFileName":"Valkrana's all_CHS.PAK","nexusFileId":133131,"metaUuid":null}
 ]},
 "9387":{"nexusModName":"Sword Dancer of Eilistraee - Russian Translation","nexusUploadedBy":"MaoMadosaQQ","nexusModId":9387,"paks":[
 {"nexusFileName":"SwordDancerRU","nexusFileVersion":"1.0","nexusFileUploadedAt":1715410727,"pakFileName":"SwordDancerRU.pak","nexusFileId":56683,"metaUuid":null}
@@ -27526,10 +27526,10 @@
 {"nexusFileName":"Storm Herald - Main ITA","nexusFileVersion":"1.0.5","nexusFileUploadedAt":1715675955,"pakFileName":"PathOfTheStormHerald_SCF - ITA.pak","nexusFileId":57065,"metaUuid":null}
 ]},
 "9468":{"nexusModName":"Valkrana's Undead Encounters_CHS","nexusUploadedBy":"xxzz8822","nexusModId":9468,"paks":[
-{"nexusFileName":"Valkrana's Undead Encounters_CHS","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1715676430,"pakFileName":"Valkrana's Undead Encounters_CHS.pak","nexusFileId":57066,"metaUuid":null}
+{"nexusFileName":"Valkrana's all_CHS","nexusFileVersion":"1.3.9.0","nexusFileUploadedAt":1792185101,"pakFileName":"Valkrana's all_CHS.PAK","nexusFileId":133132,"metaUuid":null}
 ]},
 "9471":{"nexusModName":"Valkrana's Skeleton Crew - Random Undead and Feat_CHS","nexusUploadedBy":"xxzz8822","nexusModId":9471,"paks":[
-{"nexusFileName":"Valkrana's Skeleton Crew - Random Undead and Feat_","nexusFileVersion":"1.3.0.0","nexusFileUploadedAt":1719910703,"pakFileName":"Valkrana's Skeleton Crew_CHS.pak","nexusFileId":62794,"metaUuid":null}
+{"nexusFileName":"Valkrana's all_CHS","nexusFileVersion":"1.3.9.0","nexusFileUploadedAt":1792185033,"pakFileName":"Valkrana's all_CHS.PAK","nexusFileId":133130,"metaUuid":null}
 ]},
 "9473":{"nexusModName":"Permanent Speak with Dead","nexusUploadedBy":"MegaCoolBlood","nexusModId":9473,"paks":[
 {"nexusFileName":"Main File","nexusFileVersion":"1.1","nexusFileUploadedAt":1715719484,"pakFileName":"PERMANENT_SPEAK_WITH_DEAD.pak","nexusFileId":57129,"metaUuid":"09a1b3b0-c070-41a5-96bc-0e40f6dde990"}
@@ -65281,7 +65281,7 @@
 {"nexusFileName":"Awakened Morninglord's Morningstar","nexusFileVersion":"1.0.3","nexusFileUploadedAt":1790618463,"pakFileName":"Awakened Morninglord's Morningstar Compatibility Patch.pak","nexusFileId":131664,"metaUuid":"a4bc95d6-d14f-4ce5-8401-222937128234"}
 ]},
 "23247":{"nexusModName":"Advanced Enemy Randomizer","nexusUploadedBy":"celerev","nexusModId":23247,"paks":[
-{"nexusFileName":"AERando","nexusFileVersion":"1.0.2.0","nexusFileUploadedAt":1791695665,"pakFileName":"AERando.pak","nexusFileId":132640,"metaUuid":"1ec28411-fbaf-43ba-ad7b-092aa678c0dc"}
+{"nexusFileName":"AERando","nexusFileVersion":"1.0.2.1","nexusFileUploadedAt":1792187037,"pakFileName":"AERando.pak","nexusFileId":133133,"metaUuid":"1ec28411-fbaf-43ba-ad7b-092aa678c0dc"}
 ]},
 "23248":{"nexusModName":"Sharran Weaponry by AzazeL (WIP)_JP","nexusUploadedBy":"Akazonae36","nexusModId":23248,"paks":[
 {"nexusFileName":"Aza Sharran Weaponry WIP JP","nexusFileVersion":"1","nexusFileUploadedAt":1780802520,"pakFileName":"Aza_Sharran_Weaponry_WIP_JP.pak","nexusFileId":123036,"metaUuid":null}
@@ -71837,4 +71837,7 @@
 ]},
 "25838":{"nexusModName":"Respec On Recruit","nexusUploadedBy":"Sw1shyFishy","nexusModId":25838,"paks":[
 {"nexusFileName":"RespecOnRecruit","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1792183506,"pakFileName":"SwishyFishy_RespecOnRecruit.pak","nexusFileId":133127,"metaUuid":null}
+]},
+"25839":{"nexusModName":"Bhaal's Forgotten Son French Translation","nexusUploadedBy":"Dragonoid2025","nexusModId":25839,"paks":[
+{"nexusFileName":"BhaalsForgottenSon FR","nexusFileVersion":"1","nexusFileUploadedAt":1792184345,"pakFileName":"BhaalsForgottenSon FR.pak","nexusFileId":133128,"metaUuid":null}
 ]}}
