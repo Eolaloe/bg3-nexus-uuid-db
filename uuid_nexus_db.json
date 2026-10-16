@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-10-16T22:52:42.652640+00:00","total_mods":18210},
+{"_meta":{"last_run":"2026-10-16T23:52:38.373084+00:00","total_mods":18211},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -8570,10 +8570,10 @@
 {"nexusFileName":"Sparkle Dice","nexusFileVersion":"1","nexusFileUploadedAt":1791779420,"pakFileName":"SparkleDice.pak","nexusFileId":132721,"metaUuid":null},
 {"nexusFileName":"Crystal Bubble","nexusFileVersion":"1","nexusFileUploadedAt":1791779540,"pakFileName":"CrystalBubble.pak","nexusFileId":132722,"metaUuid":null},
 {"nexusFileName":"Rainbow Dark Crystal","nexusFileVersion":"1","nexusFileUploadedAt":1791779603,"pakFileName":"RainbowDarkCrystal.pak","nexusFileId":132723,"metaUuid":null},
-{"nexusFileName":"Slime Dice (Requested)","nexusFileVersion":"1","nexusFileUploadedAt":1791786879,"pakFileName":"SlimeDice.pak","nexusFileId":132728,"metaUuid":null},
-{"nexusFileName":"Undead Dice (Requested)","nexusFileVersion":"2","nexusFileUploadedAt":1791800073,"pakFileName":"UndeadDiceRedo.pak","nexusFileId":132734,"metaUuid":null},
-{"nexusFileName":"Nebula Two","nexusFileVersion":"1","nexusFileUploadedAt":1791800116,"pakFileName":"NebulaTwo.pak","nexusFileId":132735,"metaUuid":null},
-{"nexusFileName":"Druid Dice","nexusFileVersion":"1","nexusFileUploadedAt":1791837563,"pakFileName":"DruidDice.pak","nexusFileId":132778,"metaUuid":null}
+{"nexusFileName":"Druid Dice","nexusFileVersion":"2","nexusFileUploadedAt":1792191891,"pakFileName":"DruidDice.pak","nexusFileId":133144,"metaUuid":null},
+{"nexusFileName":"Undead Dice (Requested)","nexusFileVersion":"3","nexusFileUploadedAt":1792192236,"pakFileName":"UndeadDiceRedo.pak","nexusFileId":133145,"metaUuid":null},
+{"nexusFileName":"Nebula Two","nexusFileVersion":"2","nexusFileUploadedAt":1792192515,"pakFileName":"NebulaTwo.pak","nexusFileId":133146,"metaUuid":null},
+{"nexusFileName":"Slime Dice (Requested)","nexusFileVersion":"2","nexusFileUploadedAt":1792192778,"pakFileName":"SlimeDice.pak","nexusFileId":133147,"metaUuid":null}
 ]},
 "2610":{"nexusModName":"LuckyUnderwearRussian","nexusUploadedBy":"ulkyome","nexusModId":2610,"paks":[
 {"nexusFileName":"Lucky Underwear Russian","nexusFileVersion":"1","nexusFileUploadedAt":1695538111,"pakFileName":"LuckyRussian.pak","nexusFileId":18272,"metaUuid":null}
@@ -35974,7 +35974,7 @@
 ]},
 "12727":{"nexusModName":"DnD 5.5e All-in-One BEYOND","nexusUploadedBy":"yoonmoonsik43","nexusModId":12727,"paks":[
 {"nexusFileName":"dnd2024 - V3 Legacy","nexusFileVersion":"3.4.6.4","nexusFileUploadedAt":1771945305,"pakFileName":"DnD2024_897914ef-5c96-053c-44af-0be823f895fe.pak","nexusFileId":115523,"metaUuid":"897914ef-5c96-053c-44af-0be823f895fe"},
-{"nexusFileName":"DnD 5.5e All-in-One BEYOND","nexusFileVersion":"4.13.9.3","nexusFileUploadedAt":1792188920,"pakFileName":"DnD2024_897914ef-5c96-053c-44af-0be823f895fe.pak","nexusFileId":133138,"metaUuid":"897914ef-5c96-053c-44af-0be823f895fe"}
+{"nexusFileName":"DnD 5.5e All-in-One BEYOND","nexusFileVersion":"4.13.9.4","nexusFileUploadedAt":1792191065,"pakFileName":"DnD2024_897914ef-5c96-053c-44af-0be823f895fe.pak","nexusFileId":133141,"metaUuid":"897914ef-5c96-053c-44af-0be823f895fe"}
 ]},
 "12728":{"nexusModName":"Origin-Themed Headwear KR","nexusUploadedBy":"Soorawang","nexusModId":12728,"paks":[
 {"nexusFileName":"Origin-Themed Headwear KR","nexusFileVersion":"1.0","nexusFileUploadedAt":1727930331,"pakFileName":"OriginHeadwear_kr.pak","nexusFileId":73692,"metaUuid":null}
@@ -63197,7 +63197,7 @@
 {"nexusFileName":"Fatebond","nexusFileVersion":"1.4","nexusFileUploadedAt":1784576306,"pakFileName":"Fatebond.pak","nexusFileId":126087,"metaUuid":"6cfead1f-d54c-4dfb-bc94-05e9fc1e2970"}
 ]},
 "22459":{"nexusModName":"DnD 5.5e All-in-One BEYOND Russian Localization","nexusUploadedBy":"XapcT","nexusModId":22459,"paks":[
-{"nexusFileName":"DnD 5.5e AIO Russian v0.6.15.zip","nexusFileVersion":"0.6.15","nexusFileUploadedAt":1792189929,"pakFileName":"DnD 5.5e AIO Russian.pak","nexusFileId":133139,"metaUuid":"6401e84d-daf2-416d-adeb-99c03a2487a6"}
+{"nexusFileName":"DnD 5.5e AIO Russian v0.6.16.zip","nexusFileVersion":"0.6.16","nexusFileUploadedAt":1792191725,"pakFileName":"DnD 5.5e AIO Russian.pak","nexusFileId":133143,"metaUuid":"6401e84d-daf2-416d-adeb-99c03a2487a6"}
 ]},
 "22460":{"nexusModName":"Elementally Based Gear","nexusUploadedBy":"Useyourrifle","nexusModId":22460,"paks":[
 {"nexusFileName":"Elemental_Gear.7z","nexusFileVersion":"1","nexusFileUploadedAt":1776346340,"pakFileName":"OP_Bow_56032304-f037-e077-f5e7-045d2e03ef1c.pak","nexusFileId":119147,"metaUuid":"56032304-f037-e077-f5e7-045d2e03ef1c"}
@@ -71840,4 +71840,7 @@
 ]},
 "25839":{"nexusModName":"Bhaal's Forgotten Son French Translation","nexusUploadedBy":"Dragonoid2025","nexusModId":25839,"paks":[
 {"nexusFileName":"BhaalsForgottenSon FR","nexusFileVersion":"1","nexusFileUploadedAt":1792184345,"pakFileName":"BhaalsForgottenSon FR.pak","nexusFileId":133128,"metaUuid":null}
+]},
+"25842":{"nexusModName":"Beautiful Strong Bodies - Traditional Chinese and Simplified Chinese Translation","nexusUploadedBy":"MaxStoKe","nexusModId":25842,"paks":[
+{"nexusFileName":"BeautifulStrongBodies CHT CHS","nexusFileVersion":"1.3b","nexusFileUploadedAt":1792191603,"pakFileName":"BeautifulStrongBodies_CHT_CHS.pak","nexusFileId":133142,"metaUuid":null}
 ]}}
