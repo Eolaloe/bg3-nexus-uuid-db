@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-10-17T21:52:42.344073+00:00","total_mods":18230},
+{"_meta":{"last_run":"2026-10-17T22:52:31.023360+00:00","total_mods":18232},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -11702,7 +11702,7 @@
 {"nexusFileName":"Frosty Faces","nexusFileVersion":"1.3","nexusFileUploadedAt":1700950781,"pakFileName":"MoreHeadPresets.pak","nexusFileId":30492,"metaUuid":"666ff741-531a-4937-9f3c-449750d2d67e"}
 ]},
 "3644":{"nexusModName":"Z Warrior (DBZ)","nexusUploadedBy":"MrTC89","nexusModId":3644,"paks":[
-{"nexusFileName":"Z Warrior 3.4","nexusFileVersion":"3.4","nexusFileUploadedAt":1790834291,"pakFileName":"DBWDragonBallWarrior_3e44b2fa-ec7a-eb8f-d6ec-ffcd8c99dab7.pak","nexusFileId":131808,"metaUuid":"3e44b2fa-ec7a-eb8f-d6ec-ffcd8c99dab7"}
+{"nexusFileName":"Z Warrior 3.5","nexusFileVersion":"3.5","nexusFileUploadedAt":1792275439,"pakFileName":"DBWDragonBallWarrior_3e44b2fa-ec7a-eb8f-d6ec-ffcd8c99dab7.pak","nexusFileId":133233,"metaUuid":"3e44b2fa-ec7a-eb8f-d6ec-ffcd8c99dab7"}
 ]},
 "3645":{"nexusModName":"Shadow Sorcerer - Subclass Ita","nexusUploadedBy":"ogugght","nexusModId":3645,"paks":[
 {"nexusFileName":"Shadow Sorcerer - Subclass Ita","nexusFileVersion":"1.0","nexusFileUploadedAt":1698283873,"pakFileName":"BG3ShadowSorcererIta.pak","nexusFileId":25129,"metaUuid":null}
@@ -71700,7 +71700,7 @@
 {"nexusFileName":"Act Two Expansion   French Translation","nexusFileVersion":"1","nexusFileUploadedAt":1791885918,"pakFileName":"Act Two Expansion - French Translation.pak","nexusFileId":132827,"metaUuid":null}
 ]},
 "25761":{"nexusModName":"Homeless Californian Class","nexusUploadedBy":"themadhattermsr","nexusModId":25761,"paks":[
-{"nexusFileName":"HomelessCalifornian Playtest 2026 10 15 (v0.4.0)","nexusFileVersion":"0.4.0","nexusFileUploadedAt":1792093829,"pakFileName":"HomelessCalifornian.pak","nexusFileId":133030,"metaUuid":null}
+{"nexusFileName":"HomelessCalifornian Playtest 2026 10 17 (v0.4.5)","nexusFileVersion":"0.4.5","nexusFileUploadedAt":1792274283,"pakFileName":"HomelessCalifornian.pak","nexusFileId":133231,"metaUuid":null}
 ]},
 "25762":{"nexusModName":"Jewelcrafting - Gem Sockets","nexusUploadedBy":"SindriBlacksmith","nexusModId":25762,"paks":[
 {"nexusFileName":"Jewelcrafting GemSockets 0.1.0.6","nexusFileVersion":"0.1.0.6","nexusFileUploadedAt":1791913535,"pakFileName":"Jewelcrafting_GemSockets.pak","nexusFileId":132853,"metaUuid":"04c0c993-50ed-4fe8-b5b2-8ae550026fb8"}
@@ -71785,7 +71785,7 @@
 {"nexusFileName":"Modular Weapons ReleaseCandidate.26.10.16","nexusFileVersion":"ReleaseCandidate.26.10.16","nexusFileUploadedAt":1792123690,"pakFileName":"ModularWeapons.pak","nexusFileId":133060,"metaUuid":"a9dc2da6-2d6b-4ef2-9061-7837ee4c4c93"}
 ]},
 "25804":{"nexusModName":"Shared Actions","nexusUploadedBy":"ickadev","nexusModId":25804,"paks":[
-{"nexusFileName":"SharedActions","nexusFileVersion":"1.5.0","nexusFileUploadedAt":1792130657,"pakFileName":"SharedActions.pak","nexusFileId":133065,"metaUuid":"1782fda1-e53f-4002-a69b-6b6d4f4dbd23"}
+{"nexusFileName":"SharedActions","nexusFileVersion":"1.5.1","nexusFileUploadedAt":1792275386,"pakFileName":"SharedActions.pak","nexusFileId":133232,"metaUuid":"1782fda1-e53f-4002-a69b-6b6d4f4dbd23"}
 ]},
 "25805":{"nexusModName":"Weightless Gold","nexusUploadedBy":"ickadev","nexusModId":25805,"paks":[
 {"nexusFileName":"WeightlessGold","nexusFileVersion":"1","nexusFileUploadedAt":1792056467,"pakFileName":"WeightlessGold.pak","nexusFileId":132983,"metaUuid":null}
@@ -71932,5 +71932,11 @@
 {"nexusFileName":"SmootherAndWiserProgressionOfInvocations","nexusFileVersion":"1","nexusFileUploadedAt":1792264572,"pakFileName":"SmootherAndWiserProgressionOfInvocations.pak","nexusFileId":133223,"metaUuid":null}
 ]},
 "25865":{"nexusModName":"Bloody Mouth","nexusUploadedBy":"reereeroi","nexusModId":25865,"paks":[
-{"nexusFileName":"Bloody Mouth 1.0.0.5","nexusFileVersion":"1","nexusFileUploadedAt":1792267631,"pakFileName":"BloodyMouth.pak","nexusFileId":133226,"metaUuid":null}
+{"nexusFileName":"Bloody Mouth 1.0.0.6","nexusFileVersion":"2","nexusFileUploadedAt":1792274028,"pakFileName":"BloodyMouth.pak","nexusFileId":133230,"metaUuid":null}
+]},
+"25866":{"nexusModName":"GrimBasilisk's Arcane Archer Equipment","nexusUploadedBy":"cathie111","nexusModId":25866,"paks":[
+{"nexusFileName":"Arcane Archer Equipment (Beta Test)","nexusFileVersion":"1","nexusFileUploadedAt":1792276676,"pakFileName":"Arcane_Archer_Equipment.pak","nexusFileId":133235,"metaUuid":null}
+]},
+"25867":{"nexusModName":"Partial Respec Russian","nexusUploadedBy":"prlnxe","nexusModId":25867,"paks":[
+{"nexusFileName":"Partial Respec Russian","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1792277177,"pakFileName":"Partial Respec Russian.pak","nexusFileId":133236,"metaUuid":null}
 ]}}
