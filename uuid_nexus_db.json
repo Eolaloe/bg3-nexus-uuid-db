@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-10-17T17:52:44.140902+00:00","total_mods":18228},
+{"_meta":{"last_run":"2026-10-17T18:53:00.328655+00:00","total_mods":18228},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -61693,9 +61693,9 @@
 {"nexusFileName":"Minthara Auto-Knockout - Illithid for Japanese","nexusFileVersion":"1.0.0.7","nexusFileUploadedAt":1776349241,"pakFileName":"Minthara_Auto-KO_Illithid_Persuasion_jp.pak","nexusFileId":119154,"metaUuid":null},
 {"nexusFileName":"Minthara Auto-Knockout - Full Auto for Japanese","nexusFileVersion":"1.0.1.7","nexusFileUploadedAt":1776349259,"pakFileName":"Minthara_Auto-KO_Full_Auto_jp.pak","nexusFileId":119155,"metaUuid":null}
 ]},
-"21906":{"nexusModName":"5rdnd2024 Spell cast rule","nexusUploadedBy":"Ruojo","nexusModId":21906,"paks":[
-{"nexusFileName":"SpellRuleRebalance_2e5ded1f-7228-267d-aa99-c22eb21","nexusFileVersion":"1.0.0.1","nexusFileUploadedAt":1780679030,"pakFileName":"SpellRuleRebalance_2e5ded1f-7228-267d-aa99-c22eb2147450.pak","nexusFileId":122859,"metaUuid":"2e5ded1f-7228-267d-aa99-c22eb2147450"},
-{"nexusFileName":"SpellDriverFeatEnhance","nexusFileVersion":"1.0.0.1","nexusFileUploadedAt":1780679421,"pakFileName":"SpellDriverFeatEnhance.pak","nexusFileId":122861,"metaUuid":"8610929b-6df0-490d-9948-fb35b5efba87"}
+"21906":{"nexusModName":"5rdnd2024 Spell cast rule(One Spell with a Spell Slot per Turn)","nexusUploadedBy":"Ruojo","nexusModId":21906,"paks":[
+{"nexusFileName":"SpellDriverFeatEnhance","nexusFileVersion":"1.0.0.1","nexusFileUploadedAt":1780679421,"pakFileName":"SpellDriverFeatEnhance.pak","nexusFileId":122861,"metaUuid":"8610929b-6df0-490d-9948-fb35b5efba87"},
+{"nexusFileName":"SpellRuleRebalance_2e5ded1f-7228-267d-aa99-c22eb21","nexusFileVersion":"1.0.0.2","nexusFileUploadedAt":1792261208,"pakFileName":"SpellRuleRebalance_2e5ded1f-7228-267d-aa99-c22eb2147450.pak","nexusFileId":133217,"metaUuid":"2e5ded1f-7228-267d-aa99-c22eb2147450"}
 ]},
 "21908":{"nexusModName":"NoRacialRequirementGear for Korean","nexusUploadedBy":"Eolaloe","nexusModId":21908,"paks":[
 {"nexusFileName":"NoRacialRequirementGear for Korean","nexusFileVersion":"1.0.1","nexusFileUploadedAt":1773675912,"pakFileName":"NoRacialRequirementGear_kr.pak","nexusFileId":116857,"metaUuid":null}
@@ -71178,8 +71178,8 @@
 {"nexusFileName":"Balthazar Clone","nexusFileVersion":"1","nexusFileUploadedAt":1791176614,"pakFileName":"Balthazar Clone.pak","nexusFileId":132144,"metaUuid":null}
 ]},
 "25555":{"nexusModName":"Deaded NPC Dialog Restore","nexusUploadedBy":"LeeDawn","nexusModId":25555,"paks":[
-{"nexusFileName":"NpcDialogRestore","nexusFileVersion":"9","nexusFileUploadedAt":1792251302,"pakFileName":"NpcDialogRestore.pak","nexusFileId":133201,"metaUuid":"c4e8b6a1-2d7f-4c93-8b15-6a0e5f3d91cc"},
-{"nexusFileName":"NpcDialogRestore Test","nexusFileVersion":"5","nexusFileUploadedAt":1792251318,"pakFileName":"NpcDialogRestore.pak","nexusFileId":133202,"metaUuid":"c4e8b6a1-2d7f-4c93-8b15-6a0e5f3d91cc"}
+{"nexusFileName":"NpcDialogRestore old","nexusFileVersion":"5","nexusFileUploadedAt":1792251318,"pakFileName":"NpcDialogRestore.pak","nexusFileId":133202,"metaUuid":"c4e8b6a1-2d7f-4c93-8b15-6a0e5f3d91cc"},
+{"nexusFileName":"NpcDialogRestore","nexusFileVersion":"12","nexusFileUploadedAt":1792262943,"pakFileName":"NpcDialogRestore.pak","nexusFileId":133220,"metaUuid":"c4e8b6a1-2d7f-4c93-8b15-6a0e5f3d91cc"}
 ]},
 "25556":{"nexusModName":"Istik Htak'ar - Fighter Subclass","nexusUploadedBy":"mashnear","nexusModId":25556,"paks":[
 {"nexusFileName":"ISTIK V1AW TEST","nexusFileVersion":"1","nexusFileUploadedAt":1791146578,"pakFileName":"ISTIK_V1AW_TEST.pak","nexusFileId":132116,"metaUuid":"10684fb7-1298-4d9e-b97a-c8fb03fcace5"}
@@ -71576,7 +71576,7 @@
 {"nexusFileName":"Trainer of Haste 1.4.0 BETA (Arcane Closet)","nexusFileVersion":"1.4.0-beta","nexusFileUploadedAt":1792160609,"pakFileName":"Nyskaya_TrainerOfHaste.pak","nexusFileId":133098,"metaUuid":"16d9c7a0-01f8-4136-bad3-48ec1ad1ad75"}
 ]},
 "25724":{"nexusModName":"Stack All - One-Key Item Stacking","nexusUploadedBy":"pleymor","nexusModId":25724,"paks":[
-{"nexusFileName":"StackAll","nexusFileVersion":"1.3.0","nexusFileUploadedAt":1792258555,"pakFileName":"StackAll.pak","nexusFileId":133215,"metaUuid":"2e3e8dc7-0383-401f-8b53-47709bf6c5c5"}
+{"nexusFileName":"StackAll","nexusFileVersion":"1.3.1","nexusFileUploadedAt":1792262358,"pakFileName":"StackAll.pak","nexusFileId":133218,"metaUuid":"2e3e8dc7-0383-401f-8b53-47709bf6c5c5"}
 ]},
 "25725":{"nexusModName":"NPCs have Subclasses and Feats (with Sorcerers NPCs) (Russian Translate)","nexusUploadedBy":"SexSux","nexusModId":25725,"paks":[
 {"nexusFileName":"NPCs Have Subclasses   SE RUS","nexusFileVersion":"3.6","nexusFileUploadedAt":1791899985,"pakFileName":"NPCs have Subclasses - SE_RUS.pak","nexusFileId":132842,"metaUuid":null}
