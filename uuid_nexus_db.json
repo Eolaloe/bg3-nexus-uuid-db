@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-10-17T14:52:57.672548+00:00","total_mods":18221},
+{"_meta":{"last_run":"2026-10-17T15:52:37.148669+00:00","total_mods":18222},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -36811,6 +36811,7 @@
 "13022":{"nexusModName":"Minthara's Immersive Redesign by AzazeL (Patch 7-8)","nexusUploadedBy":"AzazeLwasTaken","nexusModId":13022,"paks":[
 {"nexusFileName":"Spawn Vanilla Gear in Camp Chest","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1728839418,"pakFileName":"Addon_MintharaIR_CampChest_231e6fa3-46be-e8fe-5e72-9b4d7ddbcc09.pak","nexusFileId":75206,"metaUuid":"231e6fa3-46be-e8fe-5e72-9b4d7ddbcc09"},
 {"nexusFileName":"Minthara's Immersive Redesign (Vanilla Gear ver.)","nexusFileVersion":"2.0.0.0","nexusFileUploadedAt":1735377028,"pakFileName":"Aza_Minthara_Redesign_OnlyColors.pak","nexusFileId":82957,"metaUuid":null},
+{"nexusFileName":"Mac OS Crash Fix","nexusFileVersion":"2.0.0.0","nexusFileUploadedAt":1735377030,"pakFileName":"Aza_Minthara_Redesign_MacOS_Fix.pak","nexusFileId":82958,"metaUuid":null},
 {"nexusFileName":"Minthara's Immersive Redesign","nexusFileVersion":"1.1","nexusFileUploadedAt":1756752484,"pakFileName":"Aza_Minthara_Redesign_NoTutorialChest.pak","nexusFileId":101871,"metaUuid":"761958a6-5c80-60ba-a050-9d1c80c18e55"},
 {"nexusFileName":"Minthara's Immersive Redesign plus Tutorial Chest","nexusFileVersion":"1.1","nexusFileUploadedAt":1756752533,"pakFileName":"Aza_Minthara_Redesign_WithTutorialChest.pak","nexusFileId":101872,"metaUuid":"761958a6-5c80-60ba-a050-9d1c80c18e55"},
 {"nexusFileName":"Minthara's Immersive Redesign (Only Gear ver.)","nexusFileVersion":"1.1","nexusFileUploadedAt":1756811500,"pakFileName":"Aza_Minthara_Redesign_OnlyGear.pak","nexusFileId":101920,"metaUuid":"761958a6-5c80-60ba-a050-9d1c80c18e55"}
@@ -69644,7 +69645,7 @@
 ]},
 "24932":{"nexusModName":"Arcane Ranger","nexusUploadedBy":"lazyphantom13","nexusModId":24932,"paks":[
 {"nexusFileName":"ArcaneRanger","nexusFileVersion":"6","nexusFileUploadedAt":1789591924,"pakFileName":"ArcaneRanger_b749f1d2-eeef-f9dc-db23-b6d1a53402dd.pak","nexusFileId":130681,"metaUuid":null},
-{"nexusFileName":"ArcaneRanger","nexusFileVersion":"9","nexusFileUploadedAt":1789592169,"pakFileName":"ArcaneRanger_b749f1d2-eeef-f9dc-db23-b6d1a53402dd.pak","nexusFileId":130682,"metaUuid":null}
+{"nexusFileName":"ArcaneRanger","nexusFileVersion":"10","nexusFileUploadedAt":1792252137,"pakFileName":"ArcaneRanger_b749f1d2-eeef-f9dc-db23-b6d1a53402dd.pak","nexusFileId":133203,"metaUuid":null}
 ]},
 "24933":{"nexusModName":"Honour Save Enabler","nexusUploadedBy":"Sai","nexusModId":24933,"paks":[
 {"nexusFileName":"Honour Save Enabler","nexusFileVersion":"1.0","nexusFileUploadedAt":1789081805,"pakFileName":"Honour Save Enabler.pak","nexusFileId":130215,"metaUuid":"ae2874ab-1067-4a9c-8664-1c8146f8b64e"}
@@ -71180,8 +71181,8 @@
 {"nexusFileName":"Balthazar Clone","nexusFileVersion":"1","nexusFileUploadedAt":1791176614,"pakFileName":"Balthazar Clone.pak","nexusFileId":132144,"metaUuid":null}
 ]},
 "25555":{"nexusModName":"Deaded NPC Dialog Restore","nexusUploadedBy":"LeeDawn","nexusModId":25555,"paks":[
-{"nexusFileName":"NpcDialogRestore Test","nexusFileVersion":"4","nexusFileUploadedAt":1792232426,"pakFileName":"NpcDialogRestore.pak","nexusFileId":133173,"metaUuid":"c4e8b6a1-2d7f-4c93-8b15-6a0e5f3d91cc"},
-{"nexusFileName":"NpcDialogRestore","nexusFileVersion":"8","nexusFileUploadedAt":1792232444,"pakFileName":"NpcDialogRestore.pak","nexusFileId":133174,"metaUuid":"c4e8b6a1-2d7f-4c93-8b15-6a0e5f3d91cc"}
+{"nexusFileName":"NpcDialogRestore","nexusFileVersion":"9","nexusFileUploadedAt":1792251302,"pakFileName":"NpcDialogRestore.pak","nexusFileId":133201,"metaUuid":"c4e8b6a1-2d7f-4c93-8b15-6a0e5f3d91cc"},
+{"nexusFileName":"NpcDialogRestore Test","nexusFileVersion":"5","nexusFileUploadedAt":1792251318,"pakFileName":"NpcDialogRestore.pak","nexusFileId":133202,"metaUuid":"c4e8b6a1-2d7f-4c93-8b15-6a0e5f3d91cc"}
 ]},
 "25556":{"nexusModName":"Istik Htak'ar - Fighter Subclass","nexusUploadedBy":"mashnear","nexusModId":25556,"paks":[
 {"nexusFileName":"ISTIK V1AW TEST","nexusFileVersion":"1","nexusFileUploadedAt":1791146578,"pakFileName":"ISTIK_V1AW_TEST.pak","nexusFileId":132116,"metaUuid":"10684fb7-1298-4d9e-b97a-c8fb03fcace5"}
@@ -71799,7 +71800,8 @@
 {"nexusFileName":"Wild Magic Mutant V242","nexusFileVersion":"6","nexusFileUploadedAt":1792154327,"pakFileName":"WildMagicMutant_v242_NATIVE_GENOME_RECHARGE.pak","nexusFileId":133088,"metaUuid":"58dc0a2d-d960-4406-b0d1-131ab8806ff7"}
 ]},
 "25808":{"nexusModName":"HitOrMiss (Better Combat Text)","nexusUploadedBy":"televator","nexusModId":25808,"paks":[
-{"nexusFileName":"HitOrMiss","nexusFileVersion":"1.4.0","nexusFileUploadedAt":1792218552,"pakFileName":"HitOrMiss_a2657a62-e59d-3bbe-c580-3f7f0a20c236.pak","nexusFileId":133162,"metaUuid":"a2657a62-e59d-3bbe-c580-3f7f0a20c236"}
+{"nexusFileName":"HitOrMiss","nexusFileVersion":"1.4.1","nexusFileUploadedAt":1792250206,"pakFileName":"HitOrMiss_a2657a62-e59d-3bbe-c580-3f7f0a20c236.pak","nexusFileId":133198,"metaUuid":"a2657a62-e59d-3bbe-c580-3f7f0a20c236"},
+{"nexusFileName":"HitOrMiss SidebarCompat","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1792250427,"pakFileName":"HitOrMiss_SidebarCompat_a1c1a75c-c175-4442-ae5c-b3389221cadd.pak","nexusFileId":133199,"metaUuid":null}
 ]},
 "25809":{"nexusModName":"Aoman Head Preset","nexusUploadedBy":"Aoman24","nexusModId":25809,"paks":[
 {"nexusFileName":"Aoman Head Preset","nexusFileVersion":"1","nexusFileUploadedAt":1792066923,"pakFileName":"Aoman_Head_Preset.pak","nexusFileId":132992,"metaUuid":null}
@@ -71904,4 +71906,7 @@
 ]},
 "25855":{"nexusModName":"Divine Soul - Sorcerer French Translation","nexusUploadedBy":"Dragonoid2025","nexusModId":25855,"paks":[
 {"nexusFileName":"DivineSoul FR","nexusFileVersion":"1","nexusFileUploadedAt":1792247542,"pakFileName":"DivineSoul FR.pak","nexusFileId":133196,"metaUuid":null}
+]},
+"25857":{"nexusModName":"VossNoCrossbow","nexusUploadedBy":"grunt3","nexusModId":25857,"paks":[
+{"nexusFileName":"VossNoCrossbow","nexusFileVersion":"1","nexusFileUploadedAt":1792251274,"pakFileName":"VossNoCrossbow_8a047742-0249-81d2-0a37-ee7f89e05e93.pak","nexusFileId":133200,"metaUuid":null}
 ]}}
