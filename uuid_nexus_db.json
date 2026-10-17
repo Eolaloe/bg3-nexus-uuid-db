@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-10-17T15:52:37.148669+00:00","total_mods":18222},
+{"_meta":{"last_run":"2026-10-17T16:52:58.622612+00:00","total_mods":18225},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -35974,7 +35974,7 @@
 ]},
 "12727":{"nexusModName":"DnD 5.5e All-in-One BEYOND","nexusUploadedBy":"yoonmoonsik43","nexusModId":12727,"paks":[
 {"nexusFileName":"dnd2024 - V3 Legacy","nexusFileVersion":"3.4.6.4","nexusFileUploadedAt":1771945305,"pakFileName":"DnD2024_897914ef-5c96-053c-44af-0be823f895fe.pak","nexusFileId":115523,"metaUuid":"897914ef-5c96-053c-44af-0be823f895fe"},
-{"nexusFileName":"DnD 5.5e All-in-One BEYOND","nexusFileVersion":"4.13.9.6","nexusFileUploadedAt":1792233735,"pakFileName":"DnD2024_897914ef-5c96-053c-44af-0be823f895fe.pak","nexusFileId":133179,"metaUuid":"897914ef-5c96-053c-44af-0be823f895fe"}
+{"nexusFileName":"DnD 5.5e All-in-One BEYOND","nexusFileVersion":"4.13.9.7","nexusFileUploadedAt":1792253637,"pakFileName":"DnD2024_897914ef-5c96-053c-44af-0be823f895fe.pak","nexusFileId":133206,"metaUuid":"897914ef-5c96-053c-44af-0be823f895fe"}
 ]},
 "12728":{"nexusModName":"Origin-Themed Headwear KR","nexusUploadedBy":"Soorawang","nexusModId":12728,"paks":[
 {"nexusFileName":"Origin-Themed Headwear KR","nexusFileVersion":"1.0","nexusFileUploadedAt":1727930331,"pakFileName":"OriginHeadwear_kr.pak","nexusFileId":73692,"metaUuid":null}
@@ -61347,7 +61347,7 @@
 {"nexusFileName":"The Viltrumite Race - Dagur and Guts Patch","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1774214956,"pakFileName":"The Viltrumite Race - Dagur and Guts Patch.pak","nexusFileId":117291,"metaUuid":"82ba604d-ab03-e9fe-4b57-44fd1a84f44e"},
 {"nexusFileName":"The Viltrumite Race - Unique Tav Patch","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1776196722,"pakFileName":"The Viltrumite Race - Unique Tav Patch.pak","nexusFileId":118994,"metaUuid":"84b99f05-f344-b529-4d98-87cb92ea5551"},
 {"nexusFileName":"The Viltrumite Race","nexusFileVersion":"1.2.2","nexusFileUploadedAt":1790428496,"pakFileName":"The Viltrumite Race.pak","nexusFileId":131444,"metaUuid":"4ba1b7ec-7edb-1e49-42f7-fd9adb6f245b"},
-{"nexusFileName":"The Viltrumite Race - Balanced - BETA","nexusFileVersion":"0.1","nexusFileUploadedAt":1791575930,"pakFileName":"[BETA] The Viltrumite Race - Balanced.pak","nexusFileId":132519,"metaUuid":null}
+{"nexusFileName":"The Viltrumite Race - Balanced - BETA","nexusFileVersion":"0.2","nexusFileUploadedAt":1792254392,"pakFileName":"[BETA] The Viltrumite Race - 'Balanced' Edition.pak","nexusFileId":133207,"metaUuid":null}
 ]},
 "21786":{"nexusModName":"Party Manager for Japanese","nexusUploadedBy":"Eolaloe","nexusModId":21786,"paks":[
 {"nexusFileName":"Party Manager for Japanese","nexusFileVersion":"4.3.8.8","nexusFileUploadedAt":1789651534,"pakFileName":"PartyManager_jp.pak","nexusFileId":130718,"metaUuid":null}
@@ -71907,6 +71907,15 @@
 "25855":{"nexusModName":"Divine Soul - Sorcerer French Translation","nexusUploadedBy":"Dragonoid2025","nexusModId":25855,"paks":[
 {"nexusFileName":"DivineSoul FR","nexusFileVersion":"1","nexusFileUploadedAt":1792247542,"pakFileName":"DivineSoul FR.pak","nexusFileId":133196,"metaUuid":null}
 ]},
+"25856":{"nexusModName":"Iceball","nexusUploadedBy":"ElTucan0","nexusModId":25856,"paks":[
+{"nexusFileName":"Iceball","nexusFileVersion":"0.8","nexusFileUploadedAt":1792255570,"pakFileName":"IceBall.pak","nexusFileId":133209,"metaUuid":null}
+]},
 "25857":{"nexusModName":"VossNoCrossbow","nexusUploadedBy":"grunt3","nexusModId":25857,"paks":[
 {"nexusFileName":"VossNoCrossbow","nexusFileVersion":"1","nexusFileUploadedAt":1792251274,"pakFileName":"VossNoCrossbow_8a047742-0249-81d2-0a37-ee7f89e05e93.pak","nexusFileId":133200,"metaUuid":null}
+]},
+"25858":{"nexusModName":"Aberrant Mind Sorcerer Subclass - PTBR (2026)","nexusUploadedBy":"BarovZx","nexusModId":25858,"paks":[
+{"nexusFileName":"Aberrant Mind PTBR","nexusFileVersion":"02.08.2025","nexusFileUploadedAt":1792252411,"pakFileName":"Aberrant Mind PTBR.pak","nexusFileId":133204,"metaUuid":null}
+]},
+"25859":{"nexusModName":"Shared Actions (Russian Translate)","nexusUploadedBy":"SexSux","nexusModId":25859,"paks":[
+{"nexusFileName":"SharedActions (RUS)","nexusFileVersion":"1.5.0","nexusFileUploadedAt":1792255757,"pakFileName":"SharedActions_RUS.pak","nexusFileId":133210,"metaUuid":null}
 ]}}
