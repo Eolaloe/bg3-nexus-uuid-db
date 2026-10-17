@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-10-17T16:52:58.622612+00:00","total_mods":18225},
+{"_meta":{"last_run":"2026-10-17T17:52:44.140902+00:00","total_mods":18228},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -69812,7 +69812,7 @@
 {"nexusFileName":"bgb Caught Between Two Fires Pose Pack","nexusFileVersion":"1","nexusFileUploadedAt":1789402391,"pakFileName":"bgb_CaughtBetweenTwoFires_pose_pack_56d5197d-acf7-fb6b-af17-ade052671ebf.pak","nexusFileId":130518,"metaUuid":"56d5197d-acf7-fb6b-af17-ade052671ebf"}
 ]},
 "25008":{"nexusModName":"Events","nexusUploadedBy":"Sai","nexusModId":25008,"paks":[
-{"nexusFileName":"Events","nexusFileVersion":"1.9","nexusFileUploadedAt":1792177327,"pakFileName":"Events.pak","nexusFileId":133120,"metaUuid":"5170ec05-4c4d-48ce-a3a8-6440c47c4e50"}
+{"nexusFileName":"Events","nexusFileVersion":"1.10","nexusFileUploadedAt":1792259156,"pakFileName":"Events.pak","nexusFileId":133216,"metaUuid":"5170ec05-4c4d-48ce-a3a8-6440c47c4e50"}
 ]},
 "25009":{"nexusModName":"Expansion_CHS","nexusUploadedBy":"everywherewind","nexusModId":25009,"paks":[
 {"nexusFileName":"Expansion Chs 123d920e 78f0 97 6p0u","nexusFileVersion":"2","nexusFileUploadedAt":1790821630,"pakFileName":"Expansion_CHS_123d920e-78f0-97c9-fab8-3140a0d15ff4.pak","nexusFileId":131804,"metaUuid":null}
@@ -71576,7 +71576,7 @@
 {"nexusFileName":"Trainer of Haste 1.4.0 BETA (Arcane Closet)","nexusFileVersion":"1.4.0-beta","nexusFileUploadedAt":1792160609,"pakFileName":"Nyskaya_TrainerOfHaste.pak","nexusFileId":133098,"metaUuid":"16d9c7a0-01f8-4136-bad3-48ec1ad1ad75"}
 ]},
 "25724":{"nexusModName":"Stack All - One-Key Item Stacking","nexusUploadedBy":"pleymor","nexusModId":25724,"paks":[
-{"nexusFileName":"StackAll","nexusFileVersion":"1.2.0","nexusFileUploadedAt":1792139814,"pakFileName":"StackAll.pak","nexusFileId":133074,"metaUuid":"2e3e8dc7-0383-401f-8b53-47709bf6c5c5"}
+{"nexusFileName":"StackAll","nexusFileVersion":"1.3.0","nexusFileUploadedAt":1792258555,"pakFileName":"StackAll.pak","nexusFileId":133215,"metaUuid":"2e3e8dc7-0383-401f-8b53-47709bf6c5c5"}
 ]},
 "25725":{"nexusModName":"NPCs have Subclasses and Feats (with Sorcerers NPCs) (Russian Translate)","nexusUploadedBy":"SexSux","nexusModId":25725,"paks":[
 {"nexusFileName":"NPCs Have Subclasses   SE RUS","nexusFileVersion":"3.6","nexusFileUploadedAt":1791899985,"pakFileName":"NPCs have Subclasses - SE_RUS.pak","nexusFileId":132842,"metaUuid":null}
@@ -71915,4 +71915,16 @@
 ]},
 "25859":{"nexusModName":"Shared Actions (Russian Translate)","nexusUploadedBy":"SexSux","nexusModId":25859,"paks":[
 {"nexusFileName":"SharedActions (RUS)","nexusFileVersion":"1.5.0","nexusFileUploadedAt":1792255757,"pakFileName":"SharedActions_RUS.pak","nexusFileId":133210,"metaUuid":null}
+]},
+"25860":{"nexusModName":"No Fight Club - Dame Aylin and Camp NPCs Don't Join Fights","nexusUploadedBy":"yoonmoonsik43","nexusModId":25860,"paks":[
+{"nexusFileName":"Nofightclub A034a3b9 A83c 2563 Dxwq","nexusFileVersion":"1","nexusFileUploadedAt":1792256226,"pakFileName":"NoFightClub_a034a3b9-a83c-2563-e77f-217a931fa9dd.pak","nexusFileId":133211,"metaUuid":null}
+]},
+"25861":{"nexusModName":"Dice Roll Text Replacer (Russian Translate)","nexusUploadedBy":"SexSux","nexusModId":25861,"paks":[
+{"nexusFileName":"DiceRollTextReplacer RUS","nexusFileVersion":"1.0","nexusFileUploadedAt":1792257579,"pakFileName":"DiceRollTextReplacer_RUS.pak","nexusFileId":133212,"metaUuid":null}
+]},
+"25862":{"nexusModName":"Aravae Head Preset","nexusUploadedBy":"Aoman24","nexusModId":25862,"paks":[
+{"nexusFileName":"Aravae Head Preset","nexusFileVersion":"1","nexusFileUploadedAt":1792258157,"pakFileName":"Aravae Head Preset.pak","nexusFileId":133213,"metaUuid":null}
+]},
+"25863":{"nexusModName":"Barcus Wroot - Dynamic Appearances (Russian Translate)","nexusUploadedBy":"SexSux","nexusModId":25863,"paks":[
+{"nexusFileName":"Barcus Dynamic Appearances RUS","nexusFileVersion":"1.1.0.5","nexusFileUploadedAt":1792258179,"pakFileName":"Barcus_Dynamic_Appearances_6a7c5c19-191b-3122-905d-5422fdb5cad3_RUS.pak","nexusFileId":133214,"metaUuid":null}
 ]}}
