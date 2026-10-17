@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-10-17T12:52:23.575298+00:00","total_mods":18215},
+{"_meta":{"last_run":"2026-10-17T13:52:58.716649+00:00","total_mods":18219},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -60348,7 +60348,7 @@
 {"nexusFileName":"Dinner With Strahd","nexusFileVersion":"1.2","nexusFileUploadedAt":1789873103,"pakFileName":"PlayingAround2_ea8bf6b8-4ca9-73ff-7534-f7418d7415e9.pak","nexusFileId":130945,"metaUuid":"ea8bf6b8-4ca9-73ff-7534-f7418d7415e9"}
 ]},
 "21486":{"nexusModName":"Realm Builder","nexusUploadedBy":"RingoIp","nexusModId":21486,"paks":[
-{"nexusFileName":"Realm Builder","nexusFileVersion":"1.1.6.0","nexusFileUploadedAt":1783253072,"pakFileName":"Realm Builder.pak","nexusFileId":124938,"metaUuid":"a83e5a7e-8d8e-a333-8f62-ff3dd8671e80"}
+{"nexusFileName":"Realm Builder","nexusFileVersion":"1.1.7.0","nexusFileUploadedAt":1792242802,"pakFileName":"Realm Builder.pak","nexusFileId":133185,"metaUuid":"a83e5a7e-8d8e-a333-8f62-ff3dd8671e80"}
 ]},
 "21488":{"nexusModName":"Boring Dragonborn Scale Colors","nexusUploadedBy":"ereshes","nexusModId":21488,"paks":[
 {"nexusFileName":"DGB Boring Scale Colors","nexusFileVersion":"1.05","nexusFileUploadedAt":1776188983,"pakFileName":"DGB_Boring_Scale_Colors(1.05).pak","nexusFileId":118978,"metaUuid":"8b119e32-c7b5-06a1-0e14-9f3290022127"}
@@ -71487,6 +71487,9 @@
 "25684":{"nexusModName":"Parrying Weapons for HomeBrew","nexusUploadedBy":"Slimezer","nexusModId":25684,"paks":[
 {"nexusFileName":"ParryingWeaponsHomeBrew","nexusFileVersion":"1","nexusFileUploadedAt":1791587658,"pakFileName":"ParryingWeaponsHomeBrew.pak","nexusFileId":132534,"metaUuid":"a451d55c-5684-447d-8c36-26243724a4ba"}
 ]},
+"25685":{"nexusModName":"Circle of Blood Druid Subclass - VN","nexusUploadedBy":"THACHTHACH","nexusModId":25685,"paks":[
+{"nexusFileName":"Circle Of Blood Druid Subclass VN","nexusFileVersion":"2","nexusFileUploadedAt":1792243750,"pakFileName":"Circle of Blood Druid Subclass_VN.pak","nexusFileId":133187,"metaUuid":null}
+]},
 "25686":{"nexusModName":"New SubClass _LoL _ KaiSa the Daughter of the Void - PTBR","nexusUploadedBy":"BarovZx","nexusModId":25686,"paks":[
 {"nexusFileName":"Void Herald PTBR","nexusFileVersion":"30.09.2025","nexusFileUploadedAt":1791592369,"pakFileName":"Void Herald PTBR.pak","nexusFileId":132539,"metaUuid":null}
 ]},
@@ -71527,7 +71530,7 @@
 {"nexusFileName":"Shadowheart's Makeup Remover","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1791660490,"pakFileName":"ROX_EyeShadowHeart.pak","nexusFileId":132608,"metaUuid":null}
 ]},
 "25701":{"nexusModName":"Amonkhet - Ambition Domain - Cleric Subclass_VN","nexusUploadedBy":"THACHTHACH","nexusModId":25701,"paks":[
-{"nexusFileName":"AmbitionDomain VN","nexusFileVersion":"1","nexusFileUploadedAt":1791667594,"pakFileName":"AmbitionDomain_VN.pak","nexusFileId":132614,"metaUuid":null}
+{"nexusFileName":"AmbitionDomain VN","nexusFileVersion":"2","nexusFileUploadedAt":1792243715,"pakFileName":"AmbitionDomain_VN.pak","nexusFileId":133186,"metaUuid":null}
 ]},
 "25702":{"nexusModName":"Partial Respec Fr","nexusUploadedBy":"moonreveur","nexusModId":25702,"paks":[
 {"nexusFileName":"PartialRespec 101 Fr","nexusFileVersion":"1.0.1","nexusFileUploadedAt":1791669609,"pakFileName":"PartialRespec_101_Fr.pak","nexusFileId":132616,"metaUuid":null}
@@ -71597,6 +71600,9 @@
 ]},
 "25734":{"nexusModName":"Baldur's Capsules","nexusUploadedBy":"Omniscye","nexusModId":25734,"paks":[
 {"nexusFileName":"Baldurs Capsules","nexusFileVersion":"1","nexusFileUploadedAt":1791762224,"pakFileName":"Empress_Baldurs_Spheres.pak","nexusFileId":132700,"metaUuid":null}
+]},
+"25736":{"nexusModName":"Mind Domain - Cleric Subclass _ VN","nexusUploadedBy":"THACHTHACH","nexusModId":25736,"paks":[
+{"nexusFileName":"Mind Domain VN","nexusFileVersion":"2","nexusFileUploadedAt":1792243800,"pakFileName":"Mind Domain_VN.pak","nexusFileId":133188,"metaUuid":null}
 ]},
 "25737":{"nexusModName":"The Sunless Citadel - Custom Campaign - CHS","nexusUploadedBy":"LichMasterFang","nexusModId":25737,"paks":[
 {"nexusFileName":"SunlessCitadel CHS","nexusFileVersion":"1","nexusFileUploadedAt":1791762816,"pakFileName":"SunlessCitadel_CHS.pak","nexusFileId":132701,"metaUuid":null}
@@ -71885,4 +71891,10 @@
 ]},
 "25852":{"nexusModName":"Name Randomizer","nexusUploadedBy":"ickadev","nexusModId":25852,"paks":[
 {"nexusFileName":"NameRandomizer 1.0.0","nexusFileVersion":"1","nexusFileUploadedAt":1792239663,"pakFileName":"NameRandomizer.pak","nexusFileId":133183,"metaUuid":null}
+]},
+"25853":{"nexusModName":"Summoner - A Pathfinder Inspired Class","nexusUploadedBy":"SuperVertigo","nexusModId":25853,"paks":[
+{"nexusFileName":"Summoner - A Pathfinder Inspired Class","nexusFileVersion":"1","nexusFileUploadedAt":1792242762,"pakFileName":"SummonerP2E_4842f232-1ce2-fb57-716b-59e1bb5b03dd.pak","nexusFileId":133184,"metaUuid":null}
+]},
+"25854":{"nexusModName":"Amonkhet - Strength Domain - Cleric Subclass_VN","nexusUploadedBy":"THACHTHACH","nexusModId":25854,"paks":[
+{"nexusFileName":"RhonasStrengthDomain VN","nexusFileVersion":"1","nexusFileUploadedAt":1792244178,"pakFileName":"RhonasStrengthDomain_VN.pak","nexusFileId":133189,"metaUuid":null}
 ]}}
