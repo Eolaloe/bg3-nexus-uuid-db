@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-10-18T02:52:35.501873+00:00","total_mods":18234},
+{"_meta":{"last_run":"2026-10-18T03:52:36.143569+00:00","total_mods":18235},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -31003,7 +31003,7 @@
 {"nexusFileName":"Medusae's Hairs","nexusFileVersion":"2.0.01","nexusFileUploadedAt":1736714846,"pakFileName":"Medusae_Hairs.pak","nexusFileId":83968,"metaUuid":"6cc0a5ae-cdbd-4387-a640-79bd877bd89a"}
 ]},
 "10795":{"nexusModName":"Fix Stragglers","nexusUploadedBy":"Volitio","nexusModId":10795,"paks":[
-{"nexusFileName":"Fix Stragglers 1.6.1","nexusFileVersion":"1.6.1","nexusFileUploadedAt":1767215463,"pakFileName":"Fix Stragglers.pak","nexusFileId":110804,"metaUuid":"310ba0c7-374e-4e56-8c42-b7c7ad3a38b0"}
+{"nexusFileName":"Fix Stragglers","nexusFileVersion":"1.7.0","nexusFileUploadedAt":1792295115,"pakFileName":"Fix Stragglers.pak","nexusFileId":133252,"metaUuid":"310ba0c7-374e-4e56-8c42-b7c7ad3a38b0"}
 ]},
 "10796":{"nexusModName":"Suddenly Strong Astarion Begone","nexusUploadedBy":"magnetuning","nexusModId":10796,"paks":[
 {"nexusFileName":"Suddenly Strong Astarion Begone","nexusFileVersion":"1.0.0.1","nexusFileUploadedAt":1745557688,"pakFileName":"MGNTN_StrongAstarionBegone.pak","nexusFileId":90540,"metaUuid":"af9199c3-5e0e-448e-9feb-40388cefcb6b"}
@@ -63722,7 +63722,7 @@
 {"nexusFileName":"The Pugilist_KOR","nexusFileVersion":"1.0.0.19","nexusFileUploadedAt":1782178026,"pakFileName":"ThePugilist_KOR_5ddcbdf6-5c3f-6aaa-763b-b172da021136.pak","nexusFileId":124134,"metaUuid":null}
 ]},
 "22651":{"nexusModName":"Legendary Actions (Custom Honour Mode)","nexusUploadedBy":"Volitio","nexusModId":22651,"paks":[
-{"nexusFileName":"Legendary Actions (Custom Honour Mode) 1.0.0","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1777846660,"pakFileName":"Honor Legendary Actions.pak","nexusFileId":120451,"metaUuid":"39fff522-64ea-47f8-8ec8-7011658b8097"}
+{"nexusFileName":"Legendary Actions (Custom Honour Mode)","nexusFileVersion":"2.0.0","nexusFileUploadedAt":1792295282,"pakFileName":"Honor Legendary Actions.pak","nexusFileId":133253,"metaUuid":"39fff522-64ea-47f8-8ec8-7011658b8097"}
 ]},
 "22655":{"nexusModName":"Hypnotic Gaze Breaks Concentration","nexusUploadedBy":"chizfreak","nexusModId":22655,"paks":[
 {"nexusFileName":"Hypnotic Gaze Breaks Concentration","nexusFileVersion":"1.0","nexusFileUploadedAt":1777631974,"pakFileName":"HypnoticGazeTweak_97e3f380-0c8a-ea21-6bf2-ae39c49480c6.pak","nexusFileId":120284,"metaUuid":"97e3f380-0c8a-ea21-6bf2-ae39c49480c6"}
@@ -71911,7 +71911,7 @@
 {"nexusFileName":"Aberrant Mind PTBR","nexusFileVersion":"02.08.2025","nexusFileUploadedAt":1792252411,"pakFileName":"Aberrant Mind PTBR.pak","nexusFileId":133204,"metaUuid":null}
 ]},
 "25859":{"nexusModName":"Shared Actions (Russian Translate)","nexusUploadedBy":"SexSux","nexusModId":25859,"paks":[
-{"nexusFileName":"SharedActions (RUS)","nexusFileVersion":"1.5.0","nexusFileUploadedAt":1792255757,"pakFileName":"SharedActions_RUS.pak","nexusFileId":133210,"metaUuid":null}
+{"nexusFileName":"SharedActions (RUS)","nexusFileVersion":"1.5.1","nexusFileUploadedAt":1792293493,"pakFileName":"SharedActions_RUS.pak","nexusFileId":133251,"metaUuid":null}
 ]},
 "25860":{"nexusModName":"No Fight Club - Dame Aylin and Camp NPCs Don't Join Fights","nexusUploadedBy":"yoonmoonsik43","nexusModId":25860,"paks":[
 {"nexusFileName":"Nofightclub A034a3b9 A83c 2563 Dxwq","nexusFileVersion":"1","nexusFileUploadedAt":1792256226,"pakFileName":"NoFightClub_a034a3b9-a83c-2563-e77f-217a931fa9dd.pak","nexusFileId":133211,"metaUuid":null}
@@ -71945,4 +71945,8 @@
 ]},
 "25871":{"nexusModName":"Lord Enver Doortash","nexusUploadedBy":"Keileon","nexusModId":25871,"paks":[
 {"nexusFileName":"Lord Enver Doortash","nexusFileVersion":"1","nexusFileUploadedAt":1792288721,"pakFileName":"RR_Doortash.pak","nexusFileId":133248,"metaUuid":null}
+]},
+"25872":{"nexusModName":"Flail of Anguish (Russian Translate)","nexusUploadedBy":"SexSux","nexusModId":25872,"paks":[
+{"nexusFileName":"Flail of Anguish (RUS)","nexusFileVersion":"1.0.0.3","nexusFileUploadedAt":1792293166,"pakFileName":"LYRA_LYN_DullahanFlail_1.0.0.3_RUS.pak","nexusFileId":133249,"metaUuid":null},
+{"nexusFileName":"Dullahan Armor for Tavs - ADDON (RUS)","nexusFileVersion":"1","nexusFileUploadedAt":1792293198,"pakFileName":"LYNDullahanArmorForTav_RUS.pak","nexusFileId":133250,"metaUuid":null}
 ]}}
