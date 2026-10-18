@@ -1,0 +1,446 @@
+[
+  {
+    "pakFileName": "mazzle_lib.pak",
+    "metaUuid": "96bc14a7-733e-4bea-859d-3695d745efc1",
+    "nexusModId": 18231,
+    "nexusFileId": 133028
+  },
+  {
+    "pakFileName": "edh_familiars_patch.pak",
+    "metaUuid": "72bf4eae-e92f-4e60-b700-7a6f0aed0fdd",
+    "nexusModId": 25465,
+    "nexusFileId": 133063
+  },
+  {
+    "pakFileName": "valkrana's spellbook limited lists.pak",
+    "metaUuid": "84ccf67f-ba0d-4413-bb30-a14051f5fd02",
+    "nexusModId": 1258,
+    "nexusFileId": 124614
+  },
+  {
+    "pakFileName": "immersive races.pak",
+    "metaUuid": "0ff202ab-a577-49fe-b400-e421f0047884",
+    "nexusModId": 18754,
+    "nexusFileId": 132224
+  },
+  {
+    "pakFileName": "valkrana's skeleton crew feat.pak",
+    "metaUuid": "d76ff1e5-e09e-4565-a9d2-a035037f6134",
+    "nexusModId": 4496,
+    "nexusFileId": 132798
+  },
+  {
+    "pakFileName": "goon divider - backgrounds.pak",
+    "metaUuid": "b65c9dee-0f3d-48eb-93c8-46d67b161ed8",
+    "nexusModId": 17306,
+    "nexusFileId": 111412
+  },
+  {
+    "pakFileName": "goon divider - barbarian.pak",
+    "metaUuid": "98d07a73-c17c-4213-9552-a44dd3a0b173",
+    "nexusModId": 17306,
+    "nexusFileId": 111412
+  },
+  {
+    "pakFileName": "goon divider - bard.pak",
+    "metaUuid": "f97fd40e-c65a-4376-912c-bd8a99a71952",
+    "nexusModId": 17306,
+    "nexusFileId": 111412
+  },
+  {
+    "pakFileName": "goon divider - bottoms.pak",
+    "metaUuid": "adaf0d39-f797-49cd-a039-4e24b219fca8",
+    "nexusModId": 17306,
+    "nexusFileId": 111412
+  },
+  {
+    "pakFileName": "goon divider - character creation.pak",
+    "metaUuid": "565c6d39-515d-4c5d-8d6f-7afbf6fc3b96",
+    "nexusModId": 17306,
+    "nexusFileId": 111412
+  },
+  {
+    "pakFileName": "goon divider - character visuals.pak",
+    "metaUuid": "b52c2a2a-9403-4ce8-bfa1-b26f4f599776",
+    "nexusModId": 17306,
+    "nexusFileId": 111412
+  },
+  {
+    "pakFileName": "goon divider - class patches.pak",
+    "metaUuid": "49c1ef7d-bf84-4ed5-972e-c164e35b02ed",
+    "nexusModId": 17306,
+    "nexusFileId": 111412
+  },
+  {
+    "pakFileName": "goon divider - cleric.pak",
+    "metaUuid": "8f3c3dd0-bf1b-414d-997e-93975d8cc77f",
+    "nexusModId": 17306,
+    "nexusFileId": 111412
+  },
+  {
+    "pakFileName": "goon divider - consumable.pak",
+    "metaUuid": "77a3ef59-1ebb-4404-ac1b-66c6d577c623",
+    "nexusModId": 17306,
+    "nexusFileId": 111412
+  },
+  {
+    "pakFileName": "goon divider - custom classes.pak",
+    "metaUuid": "7efb2095-fb20-4122-aa97-72be873e3221",
+    "nexusModId": 17306,
+    "nexusFileId": 111412
+  },
+  {
+    "pakFileName": "goon divider - deities.pak",
+    "metaUuid": "54a8b3d5-5821-4350-a772-256dfd35d3de",
+    "nexusModId": 17306,
+    "nexusFileId": 111412
+  },
+  {
+    "pakFileName": "goon divider - dependencies.pak",
+    "metaUuid": "115ef7db-7b44-4f16-83ea-9866f3ae729f",
+    "nexusModId": 17306,
+    "nexusFileId": 111412
+  },
+  {
+    "pakFileName": "goon divider - dialogue edits.pak",
+    "metaUuid": "3cceef9f-768b-4e9d-8501-2fee08af8fa2",
+    "nexusModId": 17306,
+    "nexusFileId": 111412
+  },
+  {
+    "pakFileName": "goon divider - dice.pak",
+    "metaUuid": "97936b93-0393-4de9-b8ca-ff4419ad04e4",
+    "nexusModId": 17306,
+    "nexusFileId": 111412
+  },
+  {
+    "pakFileName": "goon divider - druid.pak",
+    "metaUuid": "8275d2dc-7edd-4c9a-9a0f-1eda9447fe09",
+    "nexusModId": 17306,
+    "nexusFileId": 111412
+  },
+  {
+    "pakFileName": "goon divider - environment edits.pak",
+    "metaUuid": "d52e7db8-17f9-4c35-8c84-8c0c4120bbcb",
+    "nexusModId": 17306,
+    "nexusFileId": 111412
+  },
+  {
+    "pakFileName": "goon divider - equipment.pak",
+    "metaUuid": "69c14ac9-c1d4-43ea-95ef-c9281f4987ae",
+    "nexusModId": 17306,
+    "nexusFileId": 111412
+  },
+  {
+    "pakFileName": "goon divider - expansions.pak",
+    "metaUuid": "675a71b3-a1af-4c3c-a3d7-f33a07395930",
+    "nexusModId": 17306,
+    "nexusFileId": 111412
+  },
+  {
+    "pakFileName": "goon divider - feats.pak",
+    "metaUuid": "e9a8710c-c712-422c-96df-e03d34f6cea7",
+    "nexusModId": 17306,
+    "nexusFileId": 111412
+  },
+  {
+    "pakFileName": "goon divider - fighter.pak",
+    "metaUuid": "4cb32e81-447b-4c07-875d-ace53c835d4c",
+    "nexusModId": 17306,
+    "nexusFileId": 111412
+  },
+  {
+    "pakFileName": "goon divider - foundational overhauls.pak",
+    "metaUuid": "75447359-10e0-48e2-a081-31efa78ec128",
+    "nexusModId": 17306,
+    "nexusFileId": 111412
+  },
+  {
+    "pakFileName": "goon divider - gooner mods.pak",
+    "metaUuid": "fc5b82ef-64b9-41a1-8714-0071dd4f1add",
+    "nexusModId": 17306,
+    "nexusFileId": 111412
+  },
+  {
+    "pakFileName": "goon divider - libraries.pak",
+    "metaUuid": "4b439c28-dca1-455a-831d-a8251856ce97",
+    "nexusModId": 17306,
+    "nexusFileId": 111412
+  },
+  {
+    "pakFileName": "goon divider - monk.pak",
+    "metaUuid": "227d1eed-cd42-4738-8b8e-491f140e3581",
+    "nexusModId": 17306,
+    "nexusFileId": 111412
+  },
+  {
+    "pakFileName": "goon divider - overhauls.pak",
+    "metaUuid": "23defe12-aa88-452a-aa45-d681518347cc",
+    "nexusModId": 17306,
+    "nexusFileId": 111412
+  },
+  {
+    "pakFileName": "goon divider - paladin.pak",
+    "metaUuid": "16e036db-67e2-464e-ba71-06cc89ac78ac",
+    "nexusModId": 17306,
+    "nexusFileId": 111412
+  },
+  {
+    "pakFileName": "goon divider - patches.pak",
+    "metaUuid": "6709e66a-2966-44a5-bd9d-aa5b57738ab4",
+    "nexusModId": 17306,
+    "nexusFileId": 111412
+  },
+  {
+    "pakFileName": "goon divider - photo mode.pak",
+    "metaUuid": "23f93487-d384-40f7-b769-3f405efb2cad",
+    "nexusModId": 17306,
+    "nexusFileId": 111412
+  },
+  {
+    "pakFileName": "goon divider - races.pak",
+    "metaUuid": "6ab628a6-8473-401a-bc4f-bfba038c1e0f",
+    "nexusModId": 17306,
+    "nexusFileId": 111412
+  },
+  {
+    "pakFileName": "goon divider - ranger.pak",
+    "metaUuid": "943bf6cc-849a-4374-aca6-6eeddd6b80e7",
+    "nexusModId": 17306,
+    "nexusFileId": 111412
+  },
+  {
+    "pakFileName": "goon divider - rogue.pak",
+    "metaUuid": "b37abf2c-03ac-49b7-bdbb-217677dd45b1",
+    "nexusModId": 17306,
+    "nexusFileId": 111412
+  },
+  {
+    "pakFileName": "goon divider - script extender.pak",
+    "metaUuid": "346d6b0a-4fb0-4911-9d7e-c4adf7a1c194",
+    "nexusModId": 17306,
+    "nexusFileId": 111412
+  },
+  {
+    "pakFileName": "goon divider - sorcerer.pak",
+    "metaUuid": "53f7b01b-9940-44ec-99f8-3efb19fc0b2e",
+    "nexusModId": 17306,
+    "nexusFileId": 111412
+  },
+  {
+    "pakFileName": "goon divider - spells.pak",
+    "metaUuid": "2f128302-a0ad-4848-aa01-ef4f3b5d289c",
+    "nexusModId": 17306,
+    "nexusFileId": 111412
+  },
+  {
+    "pakFileName": "goon divider - textures.pak",
+    "metaUuid": "c4a71b12-98f1-4c12-943c-f946a3a14688",
+    "nexusModId": 17306,
+    "nexusFileId": 111412
+  },
+  {
+    "pakFileName": "goon divider - treasure table overwrites.pak",
+    "metaUuid": "df51d84e-4f76-43c3-b26e-47b13e25d3b9",
+    "nexusModId": 17306,
+    "nexusFileId": 111412
+  },
+  {
+    "pakFileName": "goon divider - ui overhauls.pak",
+    "metaUuid": "a9af5268-673c-4e27-86bf-b2b8d92f3bed",
+    "nexusModId": 17306,
+    "nexusFileId": 111412
+  },
+  {
+    "pakFileName": "goon divider - user interface.pak",
+    "metaUuid": "aebc61cd-f507-4cbd-8def-56dfdb983dab",
+    "nexusModId": 17306,
+    "nexusFileId": 111412
+  },
+  {
+    "pakFileName": "goon divider - warlock.pak",
+    "metaUuid": "2afad1b9-6302-4e4d-9082-58b85157c9bd",
+    "nexusModId": 17306,
+    "nexusFileId": 111412
+  },
+  {
+    "pakFileName": "goon divider - wizard.pak",
+    "metaUuid": "b434f38c-0ae3-4f16-98f1-ff09bf632040",
+    "nexusModId": 17306,
+    "nexusFileId": 111412
+  },
+  {
+    "pakFileName": "goon sub-divider - barbarian - other.pak",
+    "metaUuid": "f0b14011-5f2e-4a17-8a14-67b5542bbd5e",
+    "nexusModId": 17306,
+    "nexusFileId": 111412
+  },
+  {
+    "pakFileName": "goon sub-divider - barbarian- subclasses.pak",
+    "metaUuid": "bd61a301-d7c5-4c32-a83c-4ce5118d0b9b",
+    "nexusModId": 17306,
+    "nexusFileId": 111412
+  },
+  {
+    "pakFileName": "goon sub-divider - bard - other.pak",
+    "metaUuid": "59c9a85c-19f3-47ff-96a9-8fe12e1fd856",
+    "nexusModId": 17306,
+    "nexusFileId": 111412
+  },
+  {
+    "pakFileName": "goon sub-divider - bard - subclasses.pak",
+    "metaUuid": "f2e3b16a-3f04-4b6e-8401-bd8324c83161",
+    "nexusModId": 17306,
+    "nexusFileId": 111412
+  },
+  {
+    "pakFileName": "goon sub-divider - character creation - accessories.pak",
+    "metaUuid": "cfab726a-7b7c-4d0f-936c-d603366a80f5",
+    "nexusModId": 17306,
+    "nexusFileId": 111412
+  },
+  {
+    "pakFileName": "goon sub-divider - character creation - beards.pak",
+    "metaUuid": "79a7e2cc-5f13-4614-a5c7-220924032c55",
+    "nexusModId": 17306,
+    "nexusFileId": 111412
+  },
+  {
+    "pakFileName": "goon sub-divider - character creation - colours (hair).pak",
+    "metaUuid": "21c553d2-a8a4-4aa4-a693-394286d9e09a",
+    "nexusModId": 17306,
+    "nexusFileId": 111412
+  },
+  {
+    "pakFileName": "goon sub-divider - character creation - colours (skin).pak",
+    "metaUuid": "7fbeb6e9-f0a6-4391-b3ca-735633c733ca",
+    "nexusModId": 17306,
+    "nexusFileId": 111412
+  },
+  {
+    "pakFileName": "goon sub-divider - character creation - colours.pak",
+    "metaUuid": "01dc8eb5-fe1b-4518-8650-5502c9e281c6",
+    "nexusModId": 17306,
+    "nexusFileId": 111412
+  },
+  {
+    "pakFileName": "goon sub-divider - character creation - combos.pak",
+    "metaUuid": "1e04af00-2ae1-4ce6-8987-a614ddd5154a",
+    "nexusModId": 17306,
+    "nexusFileId": 111412
+  },
+  {
+    "pakFileName": "goon sub-divider - character creation - dragonborn.pak",
+    "metaUuid": "563ae15e-830c-4a64-8bbc-1c0f0564b325",
+    "nexusModId": 17306,
+    "nexusFileId": 111412
+  },
+  {
+    "pakFileName": "goon sub-divider - character creation - eyes.pak",
+    "metaUuid": "d996159c-4f02-404b-9024-c67a3bb32052",
+    "nexusModId": 17306,
+    "nexusFileId": 111412
+  },
+  {
+    "pakFileName": "goon sub-divider - character creation - hair mixers.pak",
+    "metaUuid": "6c87c3f8-f3a3-4c3c-a395-7b09f85e5067",
+    "nexusModId": 17306,
+    "nexusFileId": 111412
+  },
+  {
+    "pakFileName": "goon sub-divider - character creation - hair.pak",
+    "metaUuid": "6d9debed-7430-49bd-9183-47539feb6111",
+    "nexusModId": 17306,
+    "nexusFileId": 111412
+  },
+  {
+    "pakFileName": "goon sub-divider - character creation - heads.pak",
+    "metaUuid": "49580d8e-ea64-45aa-8ec9-488b6f9e9dcf",
+    "nexusModId": 17306,
+    "nexusFileId": 111412
+  },
+  {
+    "pakFileName": "goon sub-divider - character creation - horns.pak",
+    "metaUuid": "9b9832c3-3722-4f6b-a08d-7ba17eb99f61",
+    "nexusModId": 17306,
+    "nexusFileId": 111412
+  },
+  {
+    "pakFileName": "goon sub-divider - character creation - makeup.pak",
+    "metaUuid": "358b0366-2ae8-4e1e-bff4-f71eed4d2f81",
+    "nexusModId": 17306,
+    "nexusFileId": 111412
+  },
+  {
+    "pakFileName": "goon sub-divider - character creation - piercings.pak",
+    "metaUuid": "cd746aea-0e54-4ed5-a7e9-f4d7b85de6cc",
+    "nexusModId": 17306,
+    "nexusFileId": 111412
+  },
+  {
+    "pakFileName": "goon sub-divider - character creation - scars.pak",
+    "metaUuid": "a00ebde2-16d7-415f-b4df-ebd8fc2d828b",
+    "nexusModId": 17306,
+    "nexusFileId": 111412
+  },
+  {
+    "pakFileName": "goon sub-divider - character creation - tails.pak",
+    "metaUuid": "821458ca-72d0-4258-9fca-12e581cab3fa",
+    "nexusModId": 17306,
+    "nexusFileId": 111412
+  },
+  {
+    "pakFileName": "goon sub-divider - character creation - utav & kavt.pak",
+    "metaUuid": "755881f2-85fd-45db-8668-d19dae4d79cf",
+    "nexusModId": 17306,
+    "nexusFileId": 111412
+  },
+  {
+    "pakFileName": "goon sub-divider - character visuals - companions.pak",
+    "metaUuid": "2e9a7ac7-ea3e-4175-8bd3-4098201b7fe0",
+    "nexusModId": 17306,
+    "nexusFileId": 111412
+  },
+  {
+    "pakFileName": "goon sub-divider - character visuals - npcs.pak",
+    "metaUuid": "84a5394d-5f5d-4740-acb0-849a263cf7f0",
+    "nexusModId": 17306,
+    "nexusFileId": 111412
+  },
+  {
+    "pakFileName": "goon sub-divider - class patches - spell lists.pak",
+    "metaUuid": "f07ceb9d-875e-4e0a-ad1f-9cf0423616a6",
+    "nexusModId": 17306,
+    "nexusFileId": 111412
+  },
+  {
+    "pakFileName": "goon sub-divider - cleric - other.pak",
+    "metaUuid": "dc094ea5-5004-41c7-af36-95f7150c1925",
+    "nexusModId": 17306,
+    "nexusFileId": 111412
+  },
+  {
+    "pakFileName": "customization compendium.pak",
+    "metaUuid": "a878234d-6415-59bf-9ef2-482cb19cfd72",
+    "nexusModId": 25656,
+    "nexusFileId": 133091
+  },
+  {
+    "pakFileName": "customization compendium - optional.pak",
+    "metaUuid": "2b9a880c-28ed-5733-b5e6-67c36fda08ae",
+    "nexusModId": 25656,
+    "nexusFileId": 132574
+  },
+  {
+    "pakFileName": "arcanetrickerfullcaster.pak",
+    "metaUuid": "a56a2ca2-e71f-4f23-88a7-957014c3dda5",
+    "nexusModId": 3892,
+    "nexusFileId": 92936
+  },
+  {
+    "pakFileName": "allsubclassescombined.pak",
+    "metaUuid": "f0c9ab61-2e56-4b15-a755-36fbc268a29b",
+    "nexusModId": 3892,
+    "nexusFileId": 37682
+  }
+]
