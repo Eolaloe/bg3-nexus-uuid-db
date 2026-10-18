@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-10-18T06:52:00.049986+00:00","total_mods":18235},
+{"_meta":{"last_run":"2026-10-18T07:52:08.462131+00:00","total_mods":18236},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -71272,7 +71272,7 @@
 {"nexusFileName":"Lunas Tender Touch Pose Pack","nexusFileVersion":"1.04","nexusFileUploadedAt":1792080829,"pakFileName":"LPS_Tender_Touch_472fc4d0-3947-ac08-f2c1-5482f4ef74ff.pak","nexusFileId":133015,"metaUuid":"472fc4d0-3947-ac08-f2c1-5482f4ef74ff"}
 ]},
 "25602":{"nexusModName":"Playable Kobolds","nexusUploadedBy":"ElectronicSamurai","nexusModId":25602,"paks":[
-{"nexusFileName":"PlayableKobolds","nexusFileVersion":"1.3.0.2","nexusFileUploadedAt":1791528742,"pakFileName":"PlayableKobolds.pak","nexusFileId":132450,"metaUuid":"b094ba2f-3e4c-5658-824f-d97210a65bb0"}
+{"nexusFileName":"PlayableKobolds","nexusFileVersion":"1.4.0.0","nexusFileUploadedAt":1792308353,"pakFileName":"PlayableKobolds.pak","nexusFileId":133257,"metaUuid":"b094ba2f-3e4c-5658-824f-d97210a65bb0"}
 ]},
 "25603":{"nexusModName":"Among Us Crewmate","nexusUploadedBy":"MonkeyStudChan","nexusModId":25603,"paks":[
 {"nexusFileName":"Among Us Crewmate","nexusFileVersion":"1.0.0.4","nexusFileUploadedAt":1791255601,"pakFileName":"AmongUsSummon_eb7cb2d7-86b2-2dac-b3b8-1706f961da91.pak","nexusFileId":132218,"metaUuid":null}
@@ -71949,4 +71949,7 @@
 "25872":{"nexusModName":"Flail of Anguish (Russian Translate)","nexusUploadedBy":"SexSux","nexusModId":25872,"paks":[
 {"nexusFileName":"Flail of Anguish (RUS)","nexusFileVersion":"1.0.0.3","nexusFileUploadedAt":1792293166,"pakFileName":"LYRA_LYN_DullahanFlail_1.0.0.3_RUS.pak","nexusFileId":133249,"metaUuid":null},
 {"nexusFileName":"Dullahan Armor for Tavs - ADDON (RUS)","nexusFileVersion":"1","nexusFileUploadedAt":1792293198,"pakFileName":"LYNDullahanArmorForTav_RUS.pak","nexusFileId":133250,"metaUuid":null}
+]},
+"25873":{"nexusModName":"Partial Rest Improved","nexusUploadedBy":"NecroticFlame","nexusModId":25873,"paks":[
+{"nexusFileName":"Partial Rest Improved","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1792299337,"pakFileName":"PartialRest_903181c7-b0f3-92e6-37d9-a69ab6ca4493.pak","nexusFileId":133254,"metaUuid":null}
 ]}}
