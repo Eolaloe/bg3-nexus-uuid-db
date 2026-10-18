@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-10-18T00:52:12.418002+00:00","total_mods":18231},
+{"_meta":{"last_run":"2026-10-18T01:52:25.990500+00:00","total_mods":18233},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -39610,10 +39610,10 @@
 {"nexusFileName":"Femme Githyanki Heads","nexusFileVersion":"1","nexusFileUploadedAt":1732772264,"pakFileName":"Femme Githyanki Heads.pak","nexusFileId":80301,"metaUuid":"d202a367-80d9-4e05-a71f-3640e8003134"}
 ]},
 "14032":{"nexusModName":"New Game Plus (NGP)","nexusUploadedBy":"masospaghetti","nexusModId":14032,"paks":[
-{"nexusFileName":"NGP - Part A - Prerelease","nexusFileVersion":"PR1.06","nexusFileUploadedAt":1782082160,"pakFileName":"NewGamePlus.pak","nexusFileId":124031,"metaUuid":"385d83e6-4cf6-4472-afa9-c09868e3014c"},
-{"nexusFileName":"NGP - Part B - Prerelease","nexusFileVersion":"PR1.06","nexusFileUploadedAt":1782449204,"pakFileName":"NGP_756cd4d2-34a7-dc41-cdb5-01a1313e8b66.pak","nexusFileId":124295,"metaUuid":"756cd4d2-34a7-dc41-cdb5-01a1313e8b66"},
 {"nexusFileName":"NGP - Part B","nexusFileVersion":"1.10","nexusFileUploadedAt":1791661635,"pakFileName":"NGP_756cd4d2-34a7-dc41-cdb5-01a1313e8b66.pak","nexusFileId":132610,"metaUuid":"756cd4d2-34a7-dc41-cdb5-01a1313e8b66"},
-{"nexusFileName":"NGP - Part A","nexusFileVersion":"1.10","nexusFileUploadedAt":1791661650,"pakFileName":"NewGamePlus.pak","nexusFileId":132611,"metaUuid":"385d83e6-4cf6-4472-afa9-c09868e3014c"}
+{"nexusFileName":"NGP - Part A","nexusFileVersion":"1.10","nexusFileUploadedAt":1791661650,"pakFileName":"NewGamePlus.pak","nexusFileId":132611,"metaUuid":"385d83e6-4cf6-4472-afa9-c09868e3014c"},
+{"nexusFileName":"NGP - Part A - Prerelease","nexusFileVersion":"PR1.11","nexusFileUploadedAt":1792286733,"pakFileName":"NewGamePlus.pak","nexusFileId":133244,"metaUuid":"385d83e6-4cf6-4472-afa9-c09868e3014c"},
+{"nexusFileName":"NGP - Part B - Prerelease","nexusFileVersion":"PR1.11","nexusFileUploadedAt":1792286928,"pakFileName":"NGP_756cd4d2-34a7-dc41-cdb5-01a1313e8b66.pak","nexusFileId":133245,"metaUuid":"756cd4d2-34a7-dc41-cdb5-01a1313e8b66"}
 ]},
 "14033":{"nexusModName":"The House of Hope Couture - Raphael Korrilla and Yurgir outfits","nexusUploadedBy":"Nikjima","nexusModId":14033,"paks":[
 {"nexusFileName":"The House of Hope Couture","nexusFileVersion":"1.1.0.145","nexusFileUploadedAt":1760392179,"pakFileName":"HouseOfHauteCouture_bd3c3acf-4a0e-ae69-106b-78ba64785ced.pak","nexusFileId":105083,"metaUuid":"bd3c3acf-4a0e-ae69-106b-78ba64785ced"}
@@ -71936,4 +71936,10 @@
 ]},
 "25867":{"nexusModName":"Partial Respec Russian","nexusUploadedBy":"prlnxe","nexusModId":25867,"paks":[
 {"nexusFileName":"Partial Respec Russian","nexusFileVersion":"1.0.0.1","nexusFileUploadedAt":1792281857,"pakFileName":"Partial Respec Russian.pak","nexusFileId":133241,"metaUuid":null}
+]},
+"25869":{"nexusModName":"Modular Armor","nexusUploadedBy":"Digineaux","nexusModId":25869,"paks":[
+{"nexusFileName":"ModularArmor ReleaseCandidate.26.10.18","nexusFileVersion":"ReleaseCandidate.26.10.18","nexusFileUploadedAt":1792286281,"pakFileName":"ModularArmor.pak","nexusFileId":133243,"metaUuid":null}
+]},
+"25870":{"nexusModName":"Rogue Extra Attack at Level 5 (CF)","nexusUploadedBy":"MKlinlin","nexusModId":25870,"paks":[
+{"nexusFileName":"RogueExtraAttack V1.0.0","nexusFileVersion":"1","nexusFileUploadedAt":1792288216,"pakFileName":"RogueExtraAttack.pak","nexusFileId":133247,"metaUuid":null}
 ]}}
