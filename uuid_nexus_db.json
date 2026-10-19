@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-10-19T17:52:42.888371+00:00","total_mods":18255},
+{"_meta":{"last_run":"2026-10-19T18:52:42.998263+00:00","total_mods":18255},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -64296,8 +64296,10 @@
 {"nexusFileName":"MoreFeats CHS","nexusFileVersion":"2","nexusFileUploadedAt":1778945303,"pakFileName":"MoreFeats_CHS.pak","nexusFileId":121382,"metaUuid":null}
 ]},
 "22898":{"nexusModName":"Hit Dice RAW","nexusUploadedBy":"MaxStrengthWizard","nexusModId":22898,"paks":[
-{"nexusFileName":"Hit Dice Durable 5.5e","nexusFileVersion":"1.0.1","nexusFileUploadedAt":1779633452,"pakFileName":"Hit Dice Durable 5.5e.pak","nexusFileId":122051,"metaUuid":null},
-{"nexusFileName":"Hit Dice RAW","nexusFileVersion":"2.4.3","nexusFileUploadedAt":1789132535,"pakFileName":"Hit Dice RAW.pak","nexusFileId":130276,"metaUuid":"cfc8761d-6e10-4b65-925c-44f32f322fd3"}
+{"nexusFileName":"Hit Dice RAW - OG Version","nexusFileVersion":"2.4.3","nexusFileUploadedAt":1789132535,"pakFileName":"Hit Dice RAW.pak","nexusFileId":130276,"metaUuid":"cfc8761d-6e10-4b65-925c-44f32f322fd3"},
+{"nexusFileName":"Hit Dice Durable 5.5e","nexusFileVersion":"1.0.2","nexusFileUploadedAt":1792433819,"pakFileName":"Hit Dice Durable 5.5e.pak","nexusFileId":133375,"metaUuid":null},
+{"nexusFileName":"Hit Dice RAW - No Short Rest Freeze","nexusFileVersion":"2.8.3","nexusFileUploadedAt":1792434024,"pakFileName":"Hit Dice RAW - NoFreeze.pak","nexusFileId":133376,"metaUuid":null},
+{"nexusFileName":"Hit Dice RAW - Faster Casting","nexusFileVersion":"2.8.3","nexusFileUploadedAt":1792434184,"pakFileName":"Hit Dice RAW - Faster Cast.pak","nexusFileId":133377,"metaUuid":null}
 ]},
 "22900":{"nexusModName":"White Ghost Set for Chinese","nexusUploadedBy":"Childe117","nexusModId":22900,"paks":[
 {"nexusFileName":"OBSdmnotft CHS","nexusFileVersion":"1","nexusFileUploadedAt":1778982009,"pakFileName":"OBSdmnotft_CHS.pak","nexusFileId":121407,"metaUuid":null}
@@ -66769,7 +66771,7 @@
 {"nexusFileName":"CorrectCounterspell","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1784063682,"pakFileName":"CorrectCounterspell_3d1b5440-1bf1-45c1-4530-097ca976bf6f.pak","nexusFileId":125655,"metaUuid":"3d1b5440-1bf1-45c1-4530-097ca976bf6f"}
 ]},
 "23881":{"nexusModName":"Best of Hands - Quick Lockpick and Disarm","nexusUploadedBy":"nymphipoo","nexusModId":23881,"paks":[
-{"nexusFileName":"Best of Hands - Quick Lockpick and Disarm","nexusFileVersion":"2.3.2","nexusFileUploadedAt":1790972582,"pakFileName":"BestofHands.pak","nexusFileId":131940,"metaUuid":"8a82593c-28a3-4ed1-8c46-3d9bacff42e1"}
+{"nexusFileName":"Best of Hands - Quick Lockpick and Disarm","nexusFileVersion":"2.4.0","nexusFileUploadedAt":1792433018,"pakFileName":"BestofHands.pak","nexusFileId":133374,"metaUuid":"8a82593c-28a3-4ed1-8c46-3d9bacff42e1"}
 ]},
 "23883":{"nexusModName":"Dynamic Permanent Summons","nexusUploadedBy":"actualsailorcat","nexusModId":23883,"paks":[
 {"nexusFileName":"Dynamic Permanent Summons","nexusFileVersion":"1.00.01","nexusFileUploadedAt":1784135441,"pakFileName":"Dynamic Permanent Summons.pak","nexusFileId":125728,"metaUuid":"e9a6d786-ee7b-4bb1-8122-3783f192ac75"}
@@ -66876,7 +66878,7 @@
 "23909":{"nexusModName":"Noah Combat Behavior Fix","nexusUploadedBy":"iNoah","nexusModId":23909,"paks":[
 {"nexusFileName":"Noah Combat Behavior Fix","nexusFileVersion":"1.5","nexusFileUploadedAt":1785066977,"pakFileName":"Noah_Combat_Behavior_Fix_a7a6f5cd-f443-3ac5-409b-ba15debda15d.pak","nexusFileId":126522,"metaUuid":"a7a6f5cd-f443-3ac5-409b-ba15debda15d"}
 ]},
-"23910":{"nexusModName":"Standalone Shop Window Mod","nexusUploadedBy":"BaiYanYueQWQ","nexusModId":23910,"paks":[
+"23910":{"nexusModName":"Standalone Shop","nexusUploadedBy":"BaiYanYueQWQ","nexusModId":23910,"paks":[
 {"nexusFileName":"Shop","nexusFileVersion":"1.2.0.0","nexusFileUploadedAt":1791243119,"pakFileName":"Shop.pak","nexusFileId":132207,"metaUuid":"a1b2c3d4-e5f6-7890-abcd-ef1234567890"}
 ]},
 "23912":{"nexusModName":"Pocket Traders","nexusUploadedBy":"ForKiramay","nexusModId":23912,"paks":[
