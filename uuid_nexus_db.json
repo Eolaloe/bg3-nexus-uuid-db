@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-10-19T15:54:02.539792+00:00","total_mods":18252},
+{"_meta":{"last_run":"2026-10-19T16:53:10.295651+00:00","total_mods":18255},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -41676,7 +41676,7 @@
 {"nexusFileName":"Feat Rebalance Pack_CHS","nexusFileVersion":"1.0..0.11","nexusFileUploadedAt":1738311383,"pakFileName":"feat rebalance chs.pak","nexusFileId":85083,"metaUuid":null}
 ]},
 "14848":{"nexusModName":"Assimilator","nexusUploadedBy":"hwz002013","nexusModId":14848,"paks":[
-{"nexusFileName":"Assimilator 0.0.3","nexusFileVersion":"0.0.3","nexusFileUploadedAt":1792348792,"pakFileName":"Assimilator 0.0.3.pak","nexusFileId":133309,"metaUuid":null}
+{"nexusFileName":"Assimilator 0.0.4","nexusFileVersion":"0.0.4","nexusFileUploadedAt":1792425751,"pakFileName":"Assimilator 0.0.4.pak","nexusFileId":133369,"metaUuid":null}
 ]},
 "14849":{"nexusModName":"Lightning Surface Damage Boost","nexusUploadedBy":"StorybittenSoul","nexusModId":14849,"paks":[
 {"nexusFileName":"Electric Surface Damage Boost - 1d4","nexusFileVersion":"1.0.0.1","nexusFileUploadedAt":1738340186,"pakFileName":"SurfaceElectrifiedBoost_1d4.pak","nexusFileId":85106,"metaUuid":"73a15dce-67ad-b465-a656-6c212b018301"}
@@ -71739,6 +71739,14 @@
 "25790":{"nexusModName":"Yoru - Mihawk's Black Blade","nexusUploadedBy":"Andrei9999","nexusModId":25790,"paks":[
 {"nexusFileName":"Yoru Mihawks Black Blade V1.020","nexusFileVersion":"3","nexusFileUploadedAt":1792359616,"pakFileName":"MihawkSword.pak","nexusFileId":133325,"metaUuid":null}
 ]},
+"25791":{"nexusModName":"OWY's Modded Body Outfit Repository","nexusUploadedBy":"ObsessedWhyYes","nexusModId":25791,"paks":[
+{"nexusFileName":"The TMTS Wardrobe","nexusFileVersion":"1","nexusFileUploadedAt":1792082826,"pakFileName":"OWYDoesOutfits_TMTSRepository_f0205c1f-dcc2-527f-086a-c5b7ed937b77.pak","nexusFileId":133017,"metaUuid":null},
+{"nexusFileName":"The HIMBO Wardrobe","nexusFileVersion":"1","nexusFileUploadedAt":1792082942,"pakFileName":"OWYDoesOutfits_HIMBORepository_c5e9b7f8-35f2-bf25-2009-4b5ce537b56d.pak","nexusFileId":133018,"metaUuid":null},
+{"nexusFileName":"The SBBF Wardrobe","nexusFileVersion":"1","nexusFileUploadedAt":1792086573,"pakFileName":"OWYDoesOutfits_SBBFRepository_c2b4bb80-0157-c359-96fe-00ca0b9144de.pak","nexusFileId":133020,"metaUuid":null},
+{"nexusFileName":"The Sylus Waist Wardrobe","nexusFileVersion":"1","nexusFileUploadedAt":1792172776,"pakFileName":"OWYDoesOutfits_SylusWaistRepository_85342520-f873-447b-0c60-7fa1488c736a.pak","nexusFileId":133116,"metaUuid":null},
+{"nexusFileName":"The Dad Bod Wardrobe","nexusFileVersion":"1","nexusFileUploadedAt":1792411795,"pakFileName":"OWYDoesOutfits_DadBodRepository_2d96c63f-9fe6-ac52-e79a-3250f2ea5f30.pak","nexusFileId":133352,"metaUuid":null},
+{"nexusFileName":"The Dulcet Body Wardrobe","nexusFileVersion":"1","nexusFileUploadedAt":1792413494,"pakFileName":"OWYDoesOutfits_DulcetRepository_b254c492-76c5-d214-50b6-4f8748e940f4.pak","nexusFileId":133353,"metaUuid":null}
+]},
 "25792":{"nexusModName":"Faerunian Carnival - Russian Translation","nexusUploadedBy":"SNKmod777","nexusModId":25792,"paks":[
 {"nexusFileName":"FaerunianCarnival RU","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1792012525,"pakFileName":"FaerunianCarnival_RU.pak","nexusFileId":132934,"metaUuid":null}
 ]},
@@ -71999,6 +72007,13 @@
 {"nexusFileName":"A Somewhat Cuter Shadowheart C","nexusFileVersion":"1.0C","nexusFileUploadedAt":1792376395,"pakFileName":"ASomewhatCuterShadowheartC.pak","nexusFileId":133335,"metaUuid":null},
 {"nexusFileName":"A Somewhat Cuter Shadowheart B","nexusFileVersion":"1.0B","nexusFileUploadedAt":1792376465,"pakFileName":"ASomewhatCuterShadowheartB.pak","nexusFileId":133336,"metaUuid":null},
 {"nexusFileName":"A Somewhat Cuter Shadowheart A","nexusFileVersion":"1.0A","nexusFileUploadedAt":1792376497,"pakFileName":"ASomewhatCuterShadowheartA.pak","nexusFileId":133337,"metaUuid":null}
+]},
+"25901":{"nexusModName":"Devil May Cry 5 (DMC5) V Clothes","nexusUploadedBy":"KraytClaw","nexusModId":25901,"paks":[
+{"nexusFileName":" VClothes","nexusFileVersion":"1.0","nexusFileUploadedAt":1792411449,"pakFileName":"_VClothes.pak","nexusFileId":133350,"metaUuid":null},
+{"nexusFileName":" VClothesDyable","nexusFileVersion":"1.0","nexusFileUploadedAt":1792411488,"pakFileName":"_VClothesDyable.pak","nexusFileId":133351,"metaUuid":null}
+]},
+"25902":{"nexusModName":"Goodnight Bear Pyjamas","nexusUploadedBy":"ObsessedWhyYes","nexusModId":25902,"paks":[
+{"nexusFileName":"OWY Goodnight Bear Pyjamas","nexusFileVersion":"1","nexusFileUploadedAt":1792414782,"pakFileName":"OWYDoesOutfits_GoodnightBearPyjamas_b8cb6307-680a-5ee5-8967-1e1bb5ee077f.pak","nexusFileId":133354,"metaUuid":null}
 ]},
 "25905":{"nexusModName":"Hugs Kisses And Replayable Romance Scenes Turkish Translation","nexusUploadedBy":"TurkishStorms","nexusModId":25905,"paks":[
 {"nexusFileName":"Hugs Kisses And Replayable Romance Scenes TR","nexusFileVersion":"1","nexusFileUploadedAt":1792418113,"pakFileName":"CBRHugsTR.pak","nexusFileId":133355,"metaUuid":null},
