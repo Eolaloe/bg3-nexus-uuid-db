@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-10-19T22:52:25.329173+00:00","total_mods":18260},
+{"_meta":{"last_run":"2026-10-19T23:52:16.770189+00:00","total_mods":18261},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -52837,6 +52837,9 @@
 {"nexusFileName":"Spiritmaster","nexusFileVersion":"1.0.1.1","nexusFileUploadedAt":1762372046,"pakFileName":"Spiritmaster.pak","nexusFileId":106839,"metaUuid":"ab77997b-6796-4d04-ace5-559c83e52571"}
 ]},
 "19014":{"nexusModName":"Mel Medarda - Hair and Tattoos (Arcane)","nexusUploadedBy":"mouch30","nexusModId":19014,"paks":[
+{"nexusFileName":"UTAV FILES","nexusFileVersion":"1.0","nexusFileUploadedAt":1759766214,"pakFileName":"UniqueTav_Customization.pak","nexusFileId":104469,"metaUuid":null},
+{"nexusFileName":"KAVT FILES","nexusFileVersion":"1.0","nexusFileUploadedAt":1759766543,"pakFileName":"KAZSTRA_UniqueTav_Customization.pak","nexusFileId":104470,"metaUuid":null},
+{"nexusFileName":"CCO FILES","nexusFileVersion":"1.0","nexusFileUploadedAt":1759766654,"pakFileName":"CCO_Customization_Patch.pak","nexusFileId":104472,"metaUuid":null},
 {"nexusFileName":"Mel Medarda's Hair","nexusFileVersion":"1.0","nexusFileUploadedAt":1759766716,"pakFileName":"M30_MelHair.pak","nexusFileId":104473,"metaUuid":"6aa20367-b852-4642-b1c0-83829d34b819"}
 ]},
 "19015":{"nexusModName":"Power Hunger - Story Buffs Enhanced - Russian translation","nexusUploadedBy":"FanLarin","nexusModId":19015,"paks":[
@@ -68891,7 +68894,7 @@
 {"nexusFileName":"Hole","nexusFileVersion":"1","nexusFileUploadedAt":1787576718,"pakFileName":"hole_89cefc0d-a4e9-f20e-b318-216b2386a61d.pak","nexusFileId":128922,"metaUuid":"89cefc0d-a4e9-f20e-b318-216b2386a61d"}
 ]},
 "24614":{"nexusModName":"Sensible Mod Info","nexusUploadedBy":"Nzx","nexusModId":24614,"paks":[
-{"nexusFileName":"Sensible Mod Info","nexusFileVersion":"1.0.6","nexusFileUploadedAt":1788744514,"pakFileName":"Sensible Mod Info.pak","nexusFileId":129916,"metaUuid":"a094bf38-22df-435d-84cd-04f07106caec"}
+{"nexusFileName":"Sensible Mod Info","nexusFileVersion":"1.0.7","nexusFileUploadedAt":1792450544,"pakFileName":"Sensible Mod Info.pak","nexusFileId":133394,"metaUuid":"a094bf38-22df-435d-84cd-04f07106caec"}
 ]},
 "24616":{"nexusModName":"Create More Undead - Russian Translation","nexusUploadedBy":"SNKmod777","nexusModId":24616,"paks":[
 {"nexusFileName":"CreateMoreUndead RU","nexusFileVersion":"1.1.0.7","nexusFileUploadedAt":1787847764,"pakFileName":"CreateMoreUndead_RU.pak","nexusFileId":129161,"metaUuid":null}
@@ -71997,7 +72000,7 @@
 {"nexusFileName":"Garnet - Light Armor and Camp Clothing","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1792357967,"pakFileName":"Garnet_khaleesinz_fd072da5-2b4c-b4c9-82a3-46cd226df895.pak","nexusFileId":133320,"metaUuid":"fd072da5-2b4c-b4c9-82a3-46cd226df895"}
 ]},
 "25893":{"nexusModName":"CHAR's Witching Hour Outfit","nexusUploadedBy":"char","nexusModId":25893,"paks":[
-{"nexusFileName":"CHAR WitchingHour","nexusFileVersion":"1","nexusFileUploadedAt":1792357632,"pakFileName":"CHAR_WitchingHour_c05ea49d-74f6-f5dc-37f4-581a88876060.pak","nexusFileId":133318,"metaUuid":null}
+{"nexusFileName":"CHAR - Witching Hour","nexusFileVersion":"2","nexusFileUploadedAt":1792451152,"pakFileName":"CHAR_WitchingHour_c05ea49d-74f6-f5dc-37f4-581a88876060.pak","nexusFileId":133395,"metaUuid":null}
 ]},
 "25895":{"nexusModName":"Early Access Dream Visitor Restored - Russian Translation","nexusUploadedBy":"elysagain","nexusModId":25895,"paks":[
 {"nexusFileName":"HT EA Daisy RU","nexusFileVersion":"1","nexusFileUploadedAt":1792360975,"pakFileName":"HT_EA_Daisy_RU_298d05bc-c849-47f6-99e4-68f92dd3b920.pak","nexusFileId":133328,"metaUuid":null}
@@ -72047,4 +72050,11 @@
 ]},
 "25910":{"nexusModName":"Strike A Pose","nexusUploadedBy":"rainbow1411","nexusModId":25910,"paks":[
 {"nexusFileName":"StrikeAPose","nexusFileVersion":"1","nexusFileUploadedAt":1792449176,"pakFileName":"StrikeAPose_35b55800-b097-37b8-ed3b-13670106a3fb.pak","nexusFileId":133388,"metaUuid":null}
+]},
+"25912":{"nexusModName":"TRM1 Races Patreon Mod Refits","nexusUploadedBy":"tealrabbit19","nexusModId":25912,"paks":[
+{"nexusFileName":"BW Aristocratic Finery TRM1R","nexusFileVersion":"1","nexusFileUploadedAt":1792450254,"pakFileName":"BW_Aristocratic_Finery_TRM1R.pak","nexusFileId":133389,"metaUuid":null},
+{"nexusFileName":"BW Blacksteel Vice TRM1R","nexusFileVersion":"1","nexusFileUploadedAt":1792450273,"pakFileName":"BW_Blacksteel_Vice_TRM1R.pak","nexusFileId":133390,"metaUuid":null},
+{"nexusFileName":"BW Crimson Rose TRM1R","nexusFileVersion":"1","nexusFileUploadedAt":1792450291,"pakFileName":"BW_Crimson_Rose_TRM1R.pak","nexusFileId":133391,"metaUuid":null},
+{"nexusFileName":"BW Festive Bard TRM1R","nexusFileVersion":"1","nexusFileUploadedAt":1792450318,"pakFileName":"BW_Festive_Bard_TRM1R.pak","nexusFileId":133392,"metaUuid":null},
+{"nexusFileName":"BW Snow White TRM1R","nexusFileVersion":"1","nexusFileUploadedAt":1792450333,"pakFileName":"BW_Snow_White_TRM1R.pak","nexusFileId":133393,"metaUuid":null}
 ]}}
