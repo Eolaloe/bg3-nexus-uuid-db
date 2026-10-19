@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-10-19T21:52:11.824661+00:00","total_mods":18258},
+{"_meta":{"last_run":"2026-10-19T22:52:25.329173+00:00","total_mods":18260},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -62874,7 +62874,7 @@
 {"nexusFileName":"Pyromancer Sorcerer PT-BR","nexusFileVersion":"1.1","nexusFileUploadedAt":1775617938,"pakFileName":"Pyromancer_PTBR.pak","nexusFileId":118410,"metaUuid":"dff28a26-a853-4fa4-8209-7a77a5b9a4e0"}
 ]},
 "22339":{"nexusModName":"Eschaton Domain - Cleric Subclass","nexusUploadedBy":"StuWil","nexusModId":22339,"paks":[
-{"nexusFileName":"Eschaton Cleric Domain","nexusFileVersion":"1.1","nexusFileUploadedAt":1776536195,"pakFileName":"Eschaton_Cleric_Domain.pak","nexusFileId":119387,"metaUuid":"da1ba119-9dad-4f85-8388-77d6c4933ff0"}
+{"nexusFileName":"Eschaton Cleric Domain","nexusFileVersion":"1.2","nexusFileUploadedAt":1792448665,"pakFileName":"Eschaton_Cleric_Domain.pak","nexusFileId":133387,"metaUuid":"da1ba119-9dad-4f85-8388-77d6c4933ff0"}
 ]},
 "22340":{"nexusModName":"Dynamic Enemy Encounters - PTBR","nexusUploadedBy":"TAPAtlas","nexusModId":22340,"paks":[
 {"nexusFileName":"DynamicExtraEncounters - PTBR","nexusFileVersion":"1.0.0.23","nexusFileUploadedAt":1784768659,"pakFileName":"DynamicExtraEncounters - PTBR.pak","nexusFileId":126264,"metaUuid":null}
@@ -71869,6 +71869,9 @@
 "25842":{"nexusModName":"Beautiful Strong Bodies - Traditional Chinese and Simplified Chinese Translation","nexusUploadedBy":"MaxStoKe","nexusModId":25842,"paks":[
 {"nexusFileName":"BeautifulStrongBodies CHT CHS","nexusFileVersion":"1.3b","nexusFileUploadedAt":1792191603,"pakFileName":"BeautifulStrongBodies_CHT_CHS.pak","nexusFileId":133142,"metaUuid":null}
 ]},
+"25843":{"nexusModName":"Mazzle's FOCK (Quiet NPCs)","nexusUploadedBy":"Mazzle23","nexusModId":25843,"paks":[
+{"nexusFileName":"Mazzle FOCK 1.0.0","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1792448616,"pakFileName":"Mazzle_FOCK.pak","nexusFileId":133386,"metaUuid":null}
+]},
 "25844":{"nexusModName":"autoloot MCM","nexusUploadedBy":"Denjielll","nexusModId":25844,"paks":[
 {"nexusFileName":"AutoLoot","nexusFileVersion":"1","nexusFileUploadedAt":1792202267,"pakFileName":"AutoLoot.pak","nexusFileId":133150,"metaUuid":"7dbb4a91-d382-4c82-8bbb-994c2ce9137b"}
 ]},
@@ -72041,4 +72044,7 @@
 ]},
 "25909":{"nexusModName":"Less Gore - Blood Recolors - Purple","nexusUploadedBy":"magnetuning","nexusModId":25909,"paks":[
 {"nexusFileName":"Blood Recolors - Purple","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1792438343,"pakFileName":"MGNTN_BloodRecolors_Urple.pak","nexusFileId":133379,"metaUuid":null}
+]},
+"25910":{"nexusModName":"Strike A Pose","nexusUploadedBy":"rainbow1411","nexusModId":25910,"paks":[
+{"nexusFileName":"StrikeAPose","nexusFileVersion":"1","nexusFileUploadedAt":1792449176,"pakFileName":"StrikeAPose_35b55800-b097-37b8-ed3b-13670106a3fb.pak","nexusFileId":133388,"metaUuid":null}
 ]}}
