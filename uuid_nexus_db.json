@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-10-19T23:52:16.770189+00:00","total_mods":18261},
+{"_meta":{"last_run":"2026-10-20T00:52:39.516578+00:00","total_mods":18262},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -69158,7 +69158,7 @@
 {"nexusFileName":"Appearance Edit Origins (Russian Localization)","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1788160476,"pakFileName":"AppearanceEditOrigins_RU.pak","nexusFileId":129420,"metaUuid":null}
 ]},
 "24723":{"nexusModName":"Heart of Valor","nexusUploadedBy":"swissfred","nexusModId":24723,"paks":[
-{"nexusFileName":"Heart of Valor","nexusFileVersion":"3.0.8.8","nexusFileUploadedAt":1790509729,"pakFileName":"HeartOfValor_9f021983-eaee-d868-3c66-020f327f4c9e.pak","nexusFileId":131512,"metaUuid":"9f021983-eaee-d868-3c66-020f327f4c9e"}
+{"nexusFileName":"Heart of Valor","nexusFileVersion":"3.0.8.10","nexusFileUploadedAt":1792456684,"pakFileName":"HeartOfValor_9f021983-eaee-d868-3c66-020f327f4c9e.pak","nexusFileId":133397,"metaUuid":"9f021983-eaee-d868-3c66-020f327f4c9e"}
 ]},
 "24724":{"nexusModName":"Mod Configuration Menu (Russian Localization)","nexusUploadedBy":"ganeuken","nexusModId":24724,"paks":[
 {"nexusFileName":"Mod Configuration Menu (Russian Localization)","nexusFileVersion":"1.41.0.0","nexusFileUploadedAt":1788760695,"pakFileName":"ModConfigurationMenu_RU.pak","nexusFileId":129934,"metaUuid":null}
@@ -71036,7 +71036,7 @@
 {"nexusFileName":"ArcaneTricksterUnleashed 1.0","nexusFileVersion":"1","nexusFileUploadedAt":1790979557,"pakFileName":"ArcaneTricksterUnleashed.pak","nexusFileId":131946,"metaUuid":"e2bb2b15-dbdb-4bc9-a37e-f716b76afe0f"}
 ]},
 "25503":{"nexusModName":"Shadow Monarch","nexusUploadedBy":"Mowadeep","nexusModId":25503,"paks":[
-{"nexusFileName":"Shadow Monarch hotfix v1.2.0.128","nexusFileVersion":"v1.2.0.128","nexusFileUploadedAt":1791700673,"pakFileName":"ShadowMonarch_ce00b743-83d6-48ca-98f2-ef50fa1abddb.pak","nexusFileId":132643,"metaUuid":"ce00b743-83d6-48ca-98f2-ef50fa1abddb"}
+{"nexusFileName":"ShadowMonarch v1.3.0.0","nexusFileVersion":"1.3","nexusFileUploadedAt":1792456588,"pakFileName":"ShadowMonarch_ce00b743-83d6-48ca-98f2-ef50fa1abddb.pak","nexusFileId":133396,"metaUuid":"ce00b743-83d6-48ca-98f2-ef50fa1abddb"}
 ]},
 "25505":{"nexusModName":"Eve's Eye Collection - EotB Presets","nexusUploadedBy":"moonlitcrimson","nexusModId":25505,"paks":[
 {"nexusFileName":"Aberrant Eyes","nexusFileVersion":"1","nexusFileUploadedAt":1790980415,"pakFileName":"Eve_Aberrant_Eyes.pak","nexusFileId":131949,"metaUuid":null},
@@ -71481,7 +71481,7 @@
 {"nexusFileName":"ParryingWeaponsHomeBrew","nexusFileVersion":"1","nexusFileUploadedAt":1791587658,"pakFileName":"ParryingWeaponsHomeBrew.pak","nexusFileId":132534,"metaUuid":"a451d55c-5684-447d-8c36-26243724a4ba"}
 ]},
 "25685":{"nexusModName":"Circle of Blood Druid Subclass - VN","nexusUploadedBy":"THACHTHACH","nexusModId":25685,"paks":[
-{"nexusFileName":"Circle Of Blood Druid Subclass VN","nexusFileVersion":"3","nexusFileUploadedAt":1792344855,"pakFileName":"Circle of Blood Druid Subclass_VN.pak","nexusFileId":133286,"metaUuid":null}
+{"nexusFileName":"Circle Of Blood Druid Subclass VN","nexusFileVersion":"4","nexusFileUploadedAt":1792457212,"pakFileName":"Circle of Blood Druid Subclass_VN.pak","nexusFileId":133400,"metaUuid":null}
 ]},
 "25686":{"nexusModName":"New SubClass _LoL _ KaiSa the Daughter of the Void - PTBR","nexusUploadedBy":"BarovZx","nexusModId":25686,"paks":[
 {"nexusFileName":"Void Herald PTBR","nexusFileVersion":"30.09.2025","nexusFileUploadedAt":1791592369,"pakFileName":"Void Herald PTBR.pak","nexusFileId":132539,"metaUuid":null}
@@ -72057,4 +72057,7 @@
 {"nexusFileName":"BW Crimson Rose TRM1R","nexusFileVersion":"1","nexusFileUploadedAt":1792450291,"pakFileName":"BW_Crimson_Rose_TRM1R.pak","nexusFileId":133391,"metaUuid":null},
 {"nexusFileName":"BW Festive Bard TRM1R","nexusFileVersion":"1","nexusFileUploadedAt":1792450318,"pakFileName":"BW_Festive_Bard_TRM1R.pak","nexusFileId":133392,"metaUuid":null},
 {"nexusFileName":"BW Snow White TRM1R","nexusFileVersion":"1","nexusFileUploadedAt":1792450333,"pakFileName":"BW_Snow_White_TRM1R.pak","nexusFileId":133393,"metaUuid":null}
+]},
+"25914":{"nexusModName":"Circle of Stormchasers Druid Subclass VN","nexusUploadedBy":"THACHTHACH","nexusModId":25914,"paks":[
+{"nexusFileName":"CircleofWinter VN","nexusFileVersion":"1","nexusFileUploadedAt":1792456889,"pakFileName":"CircleofWinter_VN.pak","nexusFileId":133399,"metaUuid":null}
 ]}}
