@@ -1455,7 +1455,7 @@
 {"nexusFileName":"Standalone - L11 - Improved Extra Attack","nexusFileVersion":"6.10-P7","nexusFileUploadedAt":1727196500,"pakFileName":"Barbarian Unleashed - L11 - Improved Extra Attack.pak","nexusFileId":72494,"metaUuid":"0031e82a-119c-4745-aaca-8000636c17e0"},
 {"nexusFileName":"Standalone - L2 - Extra Feat - Weapon Bound","nexusFileVersion":"6.2-P7","nexusFileUploadedAt":1731872552,"pakFileName":"Barbarian Unleashed - L2 - WB.pak","nexusFileId":79203,"metaUuid":null},
 {"nexusFileName":"Standalone - Wildheart Level 6 - 2 Animal Aspects","nexusFileVersion":"8.0-P8","nexusFileUploadedAt":1747662055,"pakFileName":"Barbarian Unleashed - L6 - Wildheart.pak","nexusFileId":93431,"metaUuid":"6059125c-4618-49c8-b2fd-dd97be700519"},
-{"nexusFileName":"Standalone - L11 - Savage Attacks","nexusFileVersion":"8.11","nexusFileUploadedAt":1771003986,"pakFileName":"Barbarian Unleashed - L11 - Savage Attacks.pak","nexusFileId":114754,"metaUuid":null}
+{"nexusFileName":"Standalone - L11 - Savage Attacks","nexusFileVersion":"8.11","nexusFileUploadedAt":1771003986,"pakFileName":"Barbarian Unleashed - L11 - Savage Attacks.pak","nexusFileId":114754,"metaUuid":"0031e82a-119c-4745-aaca-8000636c17e0"}
 ]},
 "653":{"nexusModName":"Enhanced Leap AoE","nexusUploadedBy":"loktide","nexusModId":653,"paks":[
 {"nexusFileName":"Enhanced Leap AoE NoCombat Version","nexusFileVersion":"1.0","nexusFileUploadedAt":1691443694,"pakFileName":"ELeap_AoE_NoCombat.pak","nexusFileId":5718,"metaUuid":"bad404aa-feed-a0ea-4444-deeeeeeeeeef"},
@@ -1545,7 +1545,7 @@
 {"nexusFileName":"Cleric Unleashed - Minor - No WP - Smite - MC","nexusFileVersion":"10.0-P8","nexusFileUploadedAt":1744814274,"pakFileName":"Cleric Unleashed - Minor - Multiclass - Smite.pak","nexusFileId":89218,"metaUuid":null},
 {"nexusFileName":"Cleric Unleashed - Real Minor - MC","nexusFileVersion":"10.1-P8","nexusFileUploadedAt":1745245295,"pakFileName":"Cleric Unleashed - Real Minor - MC.pak","nexusFileId":90092,"metaUuid":null},
 {"nexusFileName":"Cleric Unleashed - Real Minor - MC - WF","nexusFileVersion":"10.1-P8","nexusFileUploadedAt":1745245333,"pakFileName":"Cleric Unleashed - Real Minor - MC - WF.pak","nexusFileId":90093,"metaUuid":null},
-{"nexusFileName":"Cleric Unleashed - Real Minor - MC - WF - DL","nexusFileVersion":"10.1-P8","nexusFileUploadedAt":1745245388,"pakFileName":"Cleric Unleashed - Real Minor - MC - WF - DL.pak","nexusFileId":90094,"metaUuid":null}
+{"nexusFileName":"Cleric Unleashed - Real Minor - MC - WF - DL","nexusFileVersion":"10.1-P8","nexusFileUploadedAt":1745245388,"pakFileName":"Cleric Unleashed - Real Minor - MC - WF - DL.pak","nexusFileId":90094,"metaUuid":"628077bb-d047-4297-8c36-e9e7de57741e"}
 ]},
 "673":{"nexusModName":"Dream Guardian Clothing Options (Nude - Underwear - Dress)","nexusUploadedBy":"Rugwebyx","nexusModId":673,"paks":[
 {"nexusFileName":"Nude Dream Guardian (Remove all Underwear) as PAK","nexusFileVersion":"1.1","nexusFileUploadedAt":1692286673,"pakFileName":"Nude Dream Guardian (No Underwear).pak","nexusFileId":7990,"metaUuid":"17f76405-d031-4e19-8c8c-05b23d44fc52"},
@@ -2587,7 +2587,7 @@
 {"nexusFileName":"Ranged Lightning Cantrip","nexusFileVersion":"1.2.1","nexusFileUploadedAt":1692192525,"pakFileName":"jolt_main.pak","nexusFileId":7694,"metaUuid":"7aec84ce-af7d-49be-96b3-cedf751138ed"},
 {"nexusFileName":"Ranged Lightning Cantrip - Variant","nexusFileVersion":"1.2.1","nexusFileUploadedAt":1692192684,"pakFileName":"Jolt_variant.pak","nexusFileId":7696,"metaUuid":null},
 {"nexusFileName":"Ranged Lightning Cantrip - Multi","nexusFileVersion":"1.2.2","nexusFileUploadedAt":1692301990,"pakFileName":"Jolt_main_multi.pak","nexusFileId":8052,"metaUuid":"7aec84ce-af7d-49be-96b3-cedf751138ed"},
-{"nexusFileName":"Ranged Lightning Cantrip - Variant Multi","nexusFileVersion":"1.2.2","nexusFileUploadedAt":1692302041,"pakFileName":"Jolt_variant_multi.pak","nexusFileId":8053,"metaUuid":null},
+{"nexusFileName":"Ranged Lightning Cantrip - Variant Multi","nexusFileVersion":"1.2.2","nexusFileUploadedAt":1692302041,"pakFileName":"Jolt_variant_multi.pak","nexusFileId":8053,"metaUuid":"7aec84ce-af7d-49be-96b3-cedf751138ed"},
 {"nexusFileName":"Ranged Lightning Cantrip - Replacer Multi","nexusFileVersion":"1.2.2","nexusFileUploadedAt":1692302078,"pakFileName":"Jolt_replacer_multi.pak","nexusFileId":8054,"metaUuid":null},
 {"nexusFileName":"Ranged Lightning Cantrip - Variant Replacer Multi","nexusFileVersion":"1.2.2","nexusFileUploadedAt":1692302133,"pakFileName":"Jolt_variant_replacer_multi.pak","nexusFileId":8055,"metaUuid":null}
 ]},
@@ -8758,7 +8758,7 @@
 ]},
 "2692":{"nexusModName":"Samurai Shogun (Buffed XGE 5e Samurai)","nexusUploadedBy":"Bonnaventura","nexusModId":2692,"paks":[
 {"nexusFileName":"Shogun Samurai","nexusFileVersion":"1.1","nexusFileUploadedAt":1695854701,"pakFileName":"newshogun.pak","nexusFileId":19025,"metaUuid":"67cbd005-166c-4f76-b822-a19a4a41e610"},
-{"nexusFileName":"Shogun Samurai (Vanilla)","nexusFileVersion":"1.1","nexusFileUploadedAt":1695854721,"pakFileName":"newshogun_vanilla.pak","nexusFileId":19026,"metaUuid":null}
+{"nexusFileName":"Shogun Samurai (Vanilla)","nexusFileVersion":"1.1","nexusFileUploadedAt":1695854721,"pakFileName":"newshogun_vanilla.pak","nexusFileId":19026,"metaUuid":"67cbd005-166c-4f76-b822-a19a4a41e610"}
 ]},
 "2693":{"nexusModName":"Harmonic Dueller as a Scimitar","nexusUploadedBy":"Shoobaru","nexusModId":2693,"paks":[
 {"nexusFileName":"ScimitarHarmonicDueller","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1695785110,"pakFileName":"ScimitarHarmonicDueller.pak","nexusFileId":18846,"metaUuid":null}
@@ -33402,7 +33402,7 @@
 {"nexusFileName":"Cambion's Companion - ISF","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1724707742,"pakFileName":"Cambion's Companion - ISF Only.pak","nexusFileId":68081,"metaUuid":"ec1e5ed0-b244-460c-a7d6-a12ffb7acbbe"},
 {"nexusFileName":"Cambion's Companion - Safe","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1724707816,"pakFileName":"Cambion's Companion - Safe.pak","nexusFileId":68082,"metaUuid":null},
 {"nexusFileName":"Cambion's Companion - Vault","nexusFileVersion":"1.0.0.0","nexusFileUploadedAt":1724707844,"pakFileName":"Cambion's Companion - Vault.pak","nexusFileId":68083,"metaUuid":null},
-{"nexusFileName":"Cambion's Companion - Good Little Thief","nexusFileVersion":"1.0.0.32","nexusFileUploadedAt":1727993028,"pakFileName":"CambionsCompanion - Good Little Thief.pak","nexusFileId":73832,"metaUuid":null}
+{"nexusFileName":"Cambion's Companion - Good Little Thief","nexusFileVersion":"1.0.0.32","nexusFileUploadedAt":1727993028,"pakFileName":"CambionsCompanion - Good Little Thief.pak","nexusFileId":73832,"metaUuid":"8927de59-5149-ad51-4072-83003db2b218"}
 ]},
 "11774":{"nexusModName":"Banana Stool","nexusUploadedBy":"KinntheGreen","nexusModId":11774,"paks":[
 {"nexusFileName":"Banana Stool","nexusFileVersion":"1","nexusFileUploadedAt":1724716193,"pakFileName":"BananaStool.pak","nexusFileId":68087,"metaUuid":null}
@@ -62367,7 +62367,7 @@
 "22173":{"nexusModName":"Blood Sorcery Unleashed","nexusUploadedBy":"silvercrown5150","nexusModId":22173,"paks":[
 {"nexusFileName":"A) Blood Sorcery Unleashed - Balanced","nexusFileVersion":"2","nexusFileUploadedAt":1774857146,"pakFileName":"Blood_Sorcery_Unleashed_BALANCED(No ULC Dependency).pak","nexusFileId":117790,"metaUuid":"659b1f37-1f19-44aa-a545-7793a11a8dba"},
 {"nexusFileName":"B) Blood Sorcery Unleashed - Power Fantasy","nexusFileVersion":"2","nexusFileUploadedAt":1774857241,"pakFileName":"Blood_Sorcery_TRULY_Unleashed(No ULC Dependency).pak","nexusFileId":117791,"metaUuid":"e0dd26f1-943c-48a7-b10b-dd3a1dc7c562"},
-{"nexusFileName":"C) Blood Sorcery Upcast Only","nexusFileVersion":"2","nexusFileUploadedAt":1774857831,"pakFileName":"Blood Sorcery Upcast Only.pak","nexusFileId":117792,"metaUuid":null},
+{"nexusFileName":"C) Blood Sorcery Upcast Only","nexusFileVersion":"2","nexusFileUploadedAt":1774857831,"pakFileName":"Blood Sorcery Upcast Only.pak","nexusFileId":117792,"metaUuid":"14920a82-2385-4320-9a5e-7796d7e9f393"},
 {"nexusFileName":"Blood Sorcery Unleashed BALANCED 1 - 12","nexusFileVersion":"1","nexusFileUploadedAt":1774938010,"pakFileName":"Blood_Sorcery_Unleashed_BALANCED_1-12.pak","nexusFileId":117865,"metaUuid":null},
 {"nexusFileName":"Blood Sorcery TRULY Unleashed 1 - 12","nexusFileVersion":"1","nexusFileUploadedAt":1774938609,"pakFileName":"Blood_Sorcery_TRULY_Unleashed_1-12.pak","nexusFileId":117867,"metaUuid":null}
 ]},
@@ -69304,7 +69304,7 @@
 ]},
 "24825":{"nexusModName":"Sharess' Cuckfighter - Fighter Subclass","nexusUploadedBy":"mashnear","nexusModId":24825,"paks":[
 {"nexusFileName":"CbattleM V1AS","nexusFileVersion":"1","nexusFileUploadedAt":1788610990,"pakFileName":"CbattleM_V1AS_SharessCuckfighter_DART_AmiraCustomDialogueFix.pak","nexusFileId":129756,"metaUuid":"e32ea6cc-51fa-5968-a64e-d092576693a5"},
-{"nexusFileName":"CBattle Enhanced Undressed SCF V1BG 2.0 ","nexusFileVersion":"2.0","nexusFileUploadedAt":1789243819,"pakFileName":"CbattleM_V1BG_TEST_SharessUndress_SharedPulse_LegacyDetachSafety.pak","nexusFileId":130395,"metaUuid":null}
+{"nexusFileName":"CBattle Enhanced Undressed SCF V1BG 2.0 ","nexusFileVersion":"2.0","nexusFileUploadedAt":1789243819,"pakFileName":"CbattleM_V1BG_TEST_SharessUndress_SharedPulse_LegacyDetachSafety.pak","nexusFileId":130395,"metaUuid":"e32ea6cc-51fa-5968-a64e-d092576693a5"}
 ]},
 "24826":{"nexusModName":"Dwayne Johnson head","nexusUploadedBy":"Rafael5500","nexusModId":24826,"paks":[
 {"nexusFileName":"Dwayne Johnson Head","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1788620840,"pakFileName":"Dwayne_Johnson_head_53b3b53c-e1a7-01b8-aa0d-155861797118.pak","nexusFileId":129762,"metaUuid":"53b3b53c-e1a7-01b8-aa0d-155861797118"},
@@ -69910,7 +69910,7 @@
 ]},
 "25073":{"nexusModName":"LichClass-PortedfromPathfinderWrathoftheRighteous","nexusUploadedBy":"LichMasterFang","nexusModId":25073,"paks":[
 {"nexusFileName":"LichClassParty","nexusFileVersion":"2.4","nexusFileUploadedAt":1791637878,"pakFileName":"LichClass.pak","nexusFileId":132579,"metaUuid":null},
-{"nexusFileName":"LichClassSolo","nexusFileVersion":"2.4","nexusFileUploadedAt":1791637891,"pakFileName":"LichClass.pak","nexusFileId":132580,"metaUuid":null}
+{"nexusFileName":"LichClassSolo","nexusFileVersion":"2.4","nexusFileUploadedAt":1791637891,"pakFileName":"LichClass.pak","nexusFileId":132580,"metaUuid":"3ce799b2-d3f9-428a-b371-ef8e983cd20e"}
 ]},
 "25075":{"nexusModName":"Bloodweave Head Preset","nexusUploadedBy":"starlesstides","nexusModId":25075,"paks":[
 {"nexusFileName":"Bloodweave Head Preset","nexusFileVersion":"1","nexusFileUploadedAt":1789650381,"pakFileName":"Starless_Bloodweave_HeadPreset_e78f4334-b999-f0cf-c9d8-d143c9ff7230.pak","nexusFileId":130712,"metaUuid":"e78f4334-b999-f0cf-c9d8-d143c9ff7230"}
@@ -70861,7 +70861,7 @@
 {"nexusFileName":"PKnight Sapphic Pose Pack 1","nexusFileVersion":"1","nexusFileUploadedAt":1791063964,"pakFileName":"PKnight_SapphicPoses1_527cc87a-4d88-8109-2c70-a9ee3d3846d2.pak","nexusFileId":132048,"metaUuid":"527cc87a-4d88-8109-2c70-a9ee3d3846d2"}
 ]},
 "25472":{"nexusModName":"Dragonborn cum","nexusUploadedBy":"benben1205","nexusModId":25472,"paks":[
-{"nexusFileName":"Dgbcum 0209d38b 37af C386 Bdc5 Gek6","nexusFileVersion":"1.0.0.1","nexusFileUploadedAt":1790917911,"pakFileName":"DGBCum_0209d38b-37af-c386-bdc5-9c5d9adb32e6.pak","nexusFileId":131881,"metaUuid":null}
+{"nexusFileName":"Dgbcum 0209d38b 37af C386 Bdc5 Gek6","nexusFileVersion":"1.0.0.1","nexusFileUploadedAt":1790917911,"pakFileName":"DGBCum_0209d38b-37af-c386-bdc5-9c5d9adb32e6.pak","nexusFileId":131881,"metaUuid":"0209d38b-37af-c386-bdc5-9c5d9adb32e6"}
 ]},
 "25473":{"nexusModName":"The Blood Countess - A Sorcerer Subclass - Spanish","nexusUploadedBy":"KaiserSands","nexusModId":25473,"paks":[
 {"nexusFileName":"TheBloodCountess - ES","nexusFileVersion":"3","nexusFileUploadedAt":1790921521,"pakFileName":"TheBloodCountess - ES.pak","nexusFileId":131882,"metaUuid":null}
