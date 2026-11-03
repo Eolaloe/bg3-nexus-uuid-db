@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-11-03T16:53:52.929555+00:00","total_mods":18225},
+{"_meta":{"last_run":"2026-11-03T17:54:18.376843+00:00","total_mods":18225},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -616,9 +616,7 @@
 {"nexusFileName":"Tutorial Chest Summoning - Uninstaller","nexusFileVersion":"2.10.2","nexusFileUploadedAt":1779123106,"pakFileName":"TutorialChestSummoning.pak","nexusFileId":121590,"metaUuid":"505c630c-79fa-49b6-9f21-29a5f2322c2d"},
 {"nexusFileName":"Tutorial Chest Summoning - Temporary","nexusFileVersion":"2.10.2","nexusFileUploadedAt":1779123136,"pakFileName":"TutorialChestSummoning.pak","nexusFileId":121592,"metaUuid":"505c630c-79fa-49b6-9f21-29a5f2322c2d"},
 {"nexusFileName":"Tutorial Chest Summoning - Scriptless","nexusFileVersion":"2.10.2","nexusFileUploadedAt":1779123180,"pakFileName":"TutorialChestSummoning.pak","nexusFileId":121595,"metaUuid":"505c630c-79fa-49b6-9f21-29a5f2322c2d"},
-{"nexusFileName":"Tutorial Chest Summoning - Scriptless No Hide","nexusFileVersion":"2.10.2","nexusFileUploadedAt":1779123193,"pakFileName":"TutorialChestSummoning.pak","nexusFileId":121596,"metaUuid":"505c630c-79fa-49b6-9f21-29a5f2322c2d"},
-{"nexusFileName":"Tutorial Chest Summoning - No Hide","nexusFileVersion":"2.11","nexusFileUploadedAt":1788514415,"pakFileName":"TutorialChestSummoning.pak","nexusFileId":129655,"metaUuid":"505c630c-79fa-49b6-9f21-29a5f2322c2d"},
-{"nexusFileName":"Tutorial Chest Summoning","nexusFileVersion":"2.11","nexusFileUploadedAt":1788514435,"pakFileName":"TutorialChestSummoning.pak","nexusFileId":129656,"metaUuid":"505c630c-79fa-49b6-9f21-29a5f2322c2d"}
+{"nexusFileName":"Tutorial Chest Summoning - Scriptless No Hide","nexusFileVersion":"2.10.2","nexusFileUploadedAt":1779123193,"pakFileName":"TutorialChestSummoning.pak","nexusFileId":121596,"metaUuid":"505c630c-79fa-49b6-9f21-29a5f2322c2d"}
 ]},
 "463":{"nexusModName":"Resurrect NPCs","nexusUploadedBy":"havsglimt","nexusModId":463,"paks":[
 {"nexusFileName":"Resurrect NPCs","nexusFileVersion":"1.3","nexusFileUploadedAt":1717428056,"pakFileName":"ResurrectNPCs.pak","nexusFileId":59784,"metaUuid":"1e60f514-6e1c-44b9-98a8-786abd946f8f"}
@@ -18245,12 +18243,7 @@
 ]},
 "5822":{"nexusModName":"War Caster (2014 and 2024)","nexusUploadedBy":"wesslen","nexusModId":5822,"paks":[
 {"nexusFileName":"API Sample","nexusFileVersion":"1.4","nexusFileUploadedAt":1705498371,"pakFileName":"UAWarCasterSample.pak","nexusFileId":40359,"metaUuid":null},
-{"nexusFileName":"Lenient Rules","nexusFileVersion":"1.5.4","nexusFileUploadedAt":1707635131,"pakFileName":"UAWarCasterLenient.pak","nexusFileId":44187,"metaUuid":"ca739d43-fa9c-478c-b09f-6a1deddeb1f0"},
-{"nexusFileName":"War Caster","nexusFileVersion":"1.16","nexusFileUploadedAt":1784450208,"pakFileName":"UAWarCaster.pak","nexusFileId":125983,"metaUuid":"61a154cf-07a9-42bf-b209-1d562770a520"},
-{"nexusFileName":"More Upcasting","nexusFileVersion":"1.16","nexusFileUploadedAt":1784450238,"pakFileName":"UAWarCasterUpcasting.pak","nexusFileId":125984,"metaUuid":"e797c3b0-f63c-45b7-8e97-cef77e6b1af4"},
-{"nexusFileName":"5e Spells Support","nexusFileVersion":"1.16","nexusFileUploadedAt":1784450265,"pakFileName":"UAWarCaster5eSpells.pak","nexusFileId":125985,"metaUuid":"52fbf3db-552a-4315-a3b5-fb68b440e49a"},
-{"nexusFileName":"Mystra's Spells Support","nexusFileVersion":"1.16","nexusFileUploadedAt":1784450282,"pakFileName":"UAWarCasterMystrasSpells.pak","nexusFileId":125986,"metaUuid":"45e8c601-cba4-432e-85a2-92a2b2018227"},
-{"nexusFileName":"Critical Miss Retaliation","nexusFileVersion":"1.16","nexusFileUploadedAt":1784450490,"pakFileName":"UAWarCasterCriticalMiss.pak","nexusFileId":125987,"metaUuid":"d6fc3aac-4715-46ac-8414-a8aacce8a5eb"}
+{"nexusFileName":"Lenient Rules","nexusFileVersion":"1.5.4","nexusFileUploadedAt":1707635131,"pakFileName":"UAWarCasterLenient.pak","nexusFileId":44187,"metaUuid":"ca739d43-fa9c-478c-b09f-6a1deddeb1f0"}
 ]},
 "5823":{"nexusModName":"d100 Initiative Roll","nexusUploadedBy":"BitterPast","nexusModId":5823,"paks":[
 {"nexusFileName":"d100 Initiative","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1704886117,"pakFileName":"Initiative100.pak","nexusFileId":39131,"metaUuid":null}
