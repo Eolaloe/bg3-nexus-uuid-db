@@ -1,4 +1,4 @@
-{"_meta":{"last_run":"2026-11-03T14:51:48.779229+00:00","total_mods":18224},
+{"_meta":{"last_run":"2026-11-03T15:53:33.490515+00:00","total_mods":18225},
 "2":{"nexusModName":"Higher Quality Minimap Image","nexusUploadedBy":"Creision","nexusModId":2,"paks":[
 {"nexusFileName":"Higher Quality Minimap Image","nexusFileVersion":"2.0.1","nexusFileUploadedAt":1682613625,"pakFileName":"Minimaps.pak","nexusFileId":4450,"metaUuid":null}
 ]},
@@ -9088,6 +9088,10 @@
 {"nexusFileName":"Lightning Finesse Longsword - Ansur's Mercy","nexusFileVersion":"1.0","nexusFileUploadedAt":1697561489,"pakFileName":"AnsursMercyLongswordFinesse.pak","nexusFileId":23644,"metaUuid":null},
 {"nexusFileName":"Lightning Katana - Ansur's Mercy","nexusFileVersion":"1.0","nexusFileUploadedAt":1697563907,"pakFileName":"AnsursMercyKatana.pak","nexusFileId":23647,"metaUuid":null}
 ]},
+"2829":{"nexusModName":"Masc Elf Head 6 for Tieflings","nexusUploadedBy":"jerinski","nexusModId":2829,"paks":[
+{"nexusFileName":"Standalone version 1 (Normal)","nexusFileVersion":"1.2","nexusFileUploadedAt":1696359492,"pakFileName":"jerinski_ELF6x.pak","nexusFileId":20230,"metaUuid":null},
+{"nexusFileName":"Standalone version 2 (for Unique Tav)","nexusFileVersion":"1.2","nexusFileUploadedAt":1696359550,"pakFileName":"jerinski_ELF6x_uniquetav.pak","nexusFileId":20231,"metaUuid":null}
+]},
 "2831":{"nexusModName":"Traduction FR - Helios - la Lumiere du Jour et Asclepios - la Lyre d'Or","nexusUploadedBy":"Keviinn86","nexusModId":2831,"paks":[
 {"nexusFileName":"Apollo's bow and lyre_French","nexusFileVersion":"1.0","nexusFileUploadedAt":1696176630,"pakFileName":"Apollo's bow and lyre_French.pak","nexusFileId":19823,"metaUuid":null}
 ]},
@@ -12997,8 +13001,7 @@
 {"nexusFileName":"Loiru - Custom Heads for Males uTav and EotB","nexusFileVersion":"1.4","nexusFileUploadedAt":1702904625,"pakFileName":"HBP_Loiru.pak","nexusFileId":35022,"metaUuid":"b3762b8f-d994-4bb1-8b5c-479a6758cb29"}
 ]},
 "4163":{"nexusModName":"Jerinski's Alt Hairs","nexusUploadedBy":"jerinski","nexusModId":4163,"paks":[
-{"nexusFileName":"Patch for Firbolg Race","nexusFileVersion":"1.1.0","nexusFileUploadedAt":1724231239,"pakFileName":"jerinski_alt-hairs_firbolg-patch.pak","nexusFileId":67649,"metaUuid":null},
-{"nexusFileName":"Alt Hairs","nexusFileVersion":"2.0.5.31","nexusFileUploadedAt":1790284297,"pakFileName":"Alt-Hairs_0f86b73c-928c-033f-6d2d-abf4f06f462f.pak","nexusFileId":131345,"metaUuid":"0f86b73c-928c-033f-6d2d-abf4f06f462f"}
+{"nexusFileName":"Patch for Firbolg Race","nexusFileVersion":"1.1.0","nexusFileUploadedAt":1724231239,"pakFileName":"jerinski_alt-hairs_firbolg-patch.pak","nexusFileId":67649,"metaUuid":null}
 ]},
 "4164":{"nexusModName":"Whispers of the Divine - Aasimar Race-Chinese translation","nexusUploadedBy":"fuyunai13","nexusModId":4164,"paks":[
 {"nexusFileName":"WotD-AasimarCHS","nexusFileVersion":"1.0","nexusFileUploadedAt":1699793446,"pakFileName":"WotD-AasimarCHS.pak","nexusFileId":28029,"metaUuid":null}
@@ -23970,7 +23973,8 @@
 {"nexusFileName":"Divine Soul Sorcerer (Standalone Class) CHS","nexusFileVersion":"1.3","nexusFileUploadedAt":1711188737,"pakFileName":"DivineSoul CHS.pak","nexusFileId":51133,"metaUuid":null}
 ]},
 "8212":{"nexusModName":"Jerinski's Masc Gith Heads - for Undead Race","nexusUploadedBy":"jerinski","nexusModId":8212,"paks":[
-{"nexusFileName":"Undead Masc Gith Heads","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1711192729,"pakFileName":"jerinski-heads_gith-undead.pak","nexusFileId":51137,"metaUuid":"1c75895a-a16f-43d4-87d7-984546222b83"}
+{"nexusFileName":"Undead Masc Gith Heads","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1711192729,"pakFileName":"jerinski-heads_gith-undead.pak","nexusFileId":51137,"metaUuid":"1c75895a-a16f-43d4-87d7-984546222b83"},
+{"nexusFileName":"Undead Masc Gith Heads - EotB version","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1711192885,"pakFileName":"jerinski-heads_gith-undead_eotb.pak","nexusFileId":51139,"metaUuid":null}
 ]},
 "8216":{"nexusModName":"EnemySpawner","nexusUploadedBy":"0iml","nexusModId":8216,"paks":[
 {"nexusFileName":"EnemySpawner","nexusFileVersion":"0.0.1","nexusFileUploadedAt":1711197869,"pakFileName":"EnemySpawner.pak","nexusFileId":51150,"metaUuid":null}
