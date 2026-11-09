@@ -208,7 +208,7 @@
 "167":{"nexusModName":"Feats Extra","nexusUploadedBy":"lostsoulman","nexusModId":167,"paks":[
 {"nexusFileName":"featsextra_Addon_Valdacil","nexusFileVersion":"1.0","nexusFileUploadedAt":1714990479,"pakFileName":"featsextra_Addon_Valdacil.pak","nexusFileId":56114,"metaUuid":"c82b41d6-a774-4d9c-af7b-5038aa7dbf9d"},
 {"nexusFileName":"featsextra_ORDERFEATS","nexusFileVersion":"1.0","nexusFileUploadedAt":1741335121,"pakFileName":"featsextra_ORDERFEATS.pak","nexusFileId":86827,"metaUuid":"b6eb4bf3-cf5d-42f0-8946-79794c18d5b6"},
-{"nexusFileName":"featsextra_Limit","nexusFileVersion":"1.0","nexusFileUploadedAt":1749011474,"pakFileName":"featsextra_Limit.pak","nexusFileId":95033,"metaUuid":"5c1a2f89-fc53-4b20-b154-ffce743788f2"}
+{"nexusFileName":"featsextra_Limit","nexusFileVersion":"1.0","nexusFileUploadedAt":1749011474,"pakFileName":"featsextra_Limit.pak","nexusFileId":95033,"metaUuid":"0c036a05-f3e4-4422-87bd-eadadf96c161"}
 ]},
 "189":{"nexusModName":"Rogues Extra","nexusUploadedBy":"lostsoulman","nexusModId":189,"paks":[
 {"nexusFileName":"roguesextra","nexusFileVersion":"1.29","nexusFileUploadedAt":1751788855,"pakFileName":"roguesextra.pak","nexusFileId":97457,"metaUuid":"b986a6b0-6755-496c-8ea8-0fbee6b66026"}
@@ -12414,7 +12414,7 @@
 "3938":{"nexusModName":"Feats Every X Levels - Compat Framework Based","nexusUploadedBy":"NellsRelo","nexusModId":3938,"paks":[
 {"nexusFileName":"Feats Every Three Levels","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1699051409,"pakFileName":"CF_FeatEveryThreeLevels.pak","nexusFileId":26723,"metaUuid":null},
 {"nexusFileName":"Feat at Level 2","nexusFileVersion":"1.0.1","nexusFileUploadedAt":1699672215,"pakFileName":"CF_FeatAtLevelTwo.pak","nexusFileId":27821,"metaUuid":null},
-{"nexusFileName":"Feat Every Two Levels","nexusFileVersion":"1.0.2","nexusFileUploadedAt":1699679839,"pakFileName":"CF_FeatEveryTwoLevels.pak","nexusFileId":27828,"metaUuid":null},
+{"nexusFileName":"Feat Every Two Levels","nexusFileVersion":"1.0.2","nexusFileUploadedAt":1699679839,"pakFileName":"CF_FeatEveryTwoLevels.pak","nexusFileId":27828,"metaUuid":"f02131e2-3701-4c36-96de-452a5e7931de"},
 {"nexusFileName":"Feat Every Level","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1699679874,"pakFileName":"CF_FeatEveryLevel.pak","nexusFileId":27829,"metaUuid":"517ef4fc-b4c2-4200-823d-07b09fbf46a6"}
 ]},
 "3939":{"nexusModName":"Echo Knight Fighter Subclass","nexusUploadedBy":"wesslen","nexusModId":3939,"paks":[
@@ -53338,7 +53338,7 @@
 {"nexusFileName":"Poesielibre's Additional natural hair colors","nexusFileVersion":"1.1","nexusFileUploadedAt":1767657932,"pakFileName":"PL_Hair_Colors_b62a8569-a384-60bd-e630-708ca90571cd.pak","nexusFileId":111249,"metaUuid":"b62a8569-a384-60bd-e630-708ca90571cd"}
 ]},
 "19277":{"nexusModName":"Whips Expanded","nexusUploadedBy":"KiwiLifter","nexusModId":19277,"paks":[
-{"nexusFileName":"Whips Expanded Tutorial Chest Version","nexusFileVersion":"2.0","nexusFileUploadedAt":1763949496,"pakFileName":"BetterWhipsExp.pak","nexusFileId":108012,"metaUuid":null},
+{"nexusFileName":"Whips Expanded Tutorial Chest Version","nexusFileVersion":"2.0","nexusFileUploadedAt":1763949496,"pakFileName":"BetterWhipsExp.pak","nexusFileId":108012,"metaUuid":"1b6b5551-92b3-474a-b07b-66202ff400ec"},
 {"nexusFileName":"Whips Expanded","nexusFileVersion":"2.1a","nexusFileUploadedAt":1768098037,"pakFileName":"BetterWhipsExp.pak","nexusFileId":111841,"metaUuid":"1b6b5551-92b3-474a-b07b-66202ff400ec"}
 ]},
 "19278":{"nexusModName":"LABxRAT new RED scale colors","nexusUploadedBy":"LABxRAT","nexusModId":19278,"paks":[
@@ -65918,8 +65918,8 @@
 {"nexusFileName":"CatchMeNewYork","nexusFileVersion":"1","nexusFileUploadedAt":1783094201,"pakFileName":"CatchMeNewYork_3ccf9e37-81ea-f042-1bd0-72ebaa32a534.pak","nexusFileId":124777,"metaUuid":"3ccf9e37-81ea-f042-1bd0-72ebaa32a534"}
 ]},
 "23650":{"nexusModName":"Deus Ex Head Presets","nexusUploadedBy":"Lynstence","nexusModId":23650,"paks":[
-{"nexusFileName":"DXMDMissionAidesHeads","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1783189845,"pakFileName":"DXMDMissionAidesHeads.pak","nexusFileId":124885,"metaUuid":null},
-{"nexusFileName":"DXMDInterpolDuoHeads","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1791593823,"pakFileName":"DXMDInterpolDuoHeads.pak","nexusFileId":132541,"metaUuid":null}
+{"nexusFileName":"DXMDMissionAidesHeads","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1783189845,"pakFileName":"DXMDMissionAidesHeads.pak","nexusFileId":124885,"metaUuid":"4c657618-b694-48b3-b221-4bf01801bab7"},
+{"nexusFileName":"DXMDInterpolDuoHeads","nexusFileVersion":"1.0.0","nexusFileUploadedAt":1791593823,"pakFileName":"DXMDInterpolDuoHeads.pak","nexusFileId":132541,"metaUuid":"753e86f7-3195-4088-9768-99bb14683973"}
 ]},
 "23651":{"nexusModName":"Cazador Szarr Edits  - The Vampire Sovereign","nexusUploadedBy":"PoisonValentineXIII","nexusModId":23651,"paks":[
 {"nexusFileName":"Cazador Szarr Edits - TVS (Black Suit)","nexusFileVersion":"1.0.0.3","nexusFileUploadedAt":1782955499,"pakFileName":"CazadorSilverWingsEdition_59ae62b0-fd80-1309-7de0-fe5b8a2243a5.pak","nexusFileId":124696,"metaUuid":"59ae62b0-fd80-1309-7de0-fe5b8a2243a5"},
