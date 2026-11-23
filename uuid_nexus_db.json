@@ -176,7 +176,7 @@
 "146":{"nexusModName":"LegendaryItems Release Update","nexusUploadedBy":"Oiff","nexusModId":146,"paks":[
 {"nexusFileName":"Legendary Items - Loot Tables","nexusFileVersion":"1.00","nexusFileUploadedAt":1694296524,"pakFileName":"LegendaryItemsLootTables1.pak","nexusFileId":14563,"metaUuid":"e956d624-aaf0-4fc0-8604-9b111a3c55d5"},
 {"nexusFileName":"Legendary Items - Loot Tables (Low drop rate)","nexusFileVersion":"1.0","nexusFileUploadedAt":1695376304,"pakFileName":"LegendaryItemsLootTables3.pak","nexusFileId":17811,"metaUuid":"4b87e705-bd05-4e4f-863b-2b6db932f70a"},
-{"nexusFileName":"Legendary Items - Loot Tables (High drop rate)","nexusFileVersion":"1.0","nexusFileUploadedAt":1695376369,"pakFileName":"LegendaryItemsLootTables2.pak","nexusFileId":17812,"metaUuid":null},
+{"nexusFileName":"Legendary Items - Loot Tables (High drop rate)","nexusFileVersion":"1.0","nexusFileUploadedAt":1695376369,"pakFileName":"LegendaryItemsLootTables2.pak","nexusFileId":17812,"metaUuid":"ea2066b0-31c4-4fad-937d-3dacd5219c8b"},
 {"nexusFileName":"LegendaryItems - No Dark Pact","nexusFileVersion":"1.0","nexusFileUploadedAt":1695376793,"pakFileName":"LegendaryItemsNoDarkPact.pak","nexusFileId":17813,"metaUuid":null},
 {"nexusFileName":"LegendaryItems","nexusFileVersion":"1.46","nexusFileUploadedAt":1695667068,"pakFileName":"LegendaryItems.pak","nexusFileId":18557,"metaUuid":"061529e0-ddab-402e-a3ed-53caf7701290"}
 ]},
@@ -287,7 +287,7 @@
 {"nexusFileName":"Everburn Blade - Cutscene Visibility","nexusFileVersion":"2.0","nexusFileUploadedAt":1692981078,"pakFileName":"EverburnBladeVisible.pak","nexusFileId":10283,"metaUuid":"09dba25e-1dbf-4619-9883-3b33a606bec5"}
 ]},
 "269":{"nexusModName":"Overpowered Rings","nexusUploadedBy":"tepkunset","nexusModId":269,"paks":[
-{"nexusFileName":"Overpowered Rings","nexusFileVersion":"2","nexusFileUploadedAt":1700330734,"pakFileName":"OPRing.pak","nexusFileId":29076,"metaUuid":null}
+{"nexusFileName":"Overpowered Rings","nexusFileVersion":"2","nexusFileUploadedAt":1700330734,"pakFileName":"OPRing.pak","nexusFileId":29076,"metaUuid":"98d7f8f7-1dc2-4375-a623-72321fae78a2"}
 ]},
 "272":{"nexusModName":"Monk and Subclasses","nexusUploadedBy":"Psygrrl88","nexusModId":272,"paks":[
 {"nexusFileName":"jumponceperturn","nexusFileVersion":"1.0","nexusFileUploadedAt":1650105985,"pakFileName":"jumponceperturn.pak","nexusFileId":2870,"metaUuid":null},
@@ -2849,7 +2849,7 @@
 {"nexusFileName":"Spells Enhanced - Haste - A25","nexusFileVersion":"3.0.0","nexusFileUploadedAt":1701980335,"pakFileName":"Spells Enhanced - Haste.pak","nexusFileId":33198,"metaUuid":null}
 ]},
 "1077":{"nexusModName":"Paladins Deity","nexusUploadedBy":"Sapphire","nexusModId":1077,"paks":[
-{"nexusFileName":"Paladins Deity","nexusFileVersion":"1.0","nexusFileUploadedAt":1692304803,"pakFileName":"Paladins Deity.pak","nexusFileId":8063,"metaUuid":null},
+{"nexusFileName":"Paladins Deity","nexusFileVersion":"1.0","nexusFileUploadedAt":1692304803,"pakFileName":"Paladins Deity.pak","nexusFileId":8063,"metaUuid":"057cc8bd-fa3b-4ca7-933f-1291236ff871"},
 {"nexusFileName":"Paladins Deity","nexusFileVersion":"2.0","nexusFileUploadedAt":1744963029,"pakFileName":"PaladinsDeity_3b5dd7f0-63a5-13cf-3b26-c8fe468547b4.pak","nexusFileId":89480,"metaUuid":"3b5dd7f0-63a5-13cf-3b26-c8fe468547b4"}
 ]},
 "1080":{"nexusModName":"Rogue Unchained","nexusUploadedBy":"bendking","nexusModId":1080,"paks":[
@@ -7403,7 +7403,7 @@
 {"nexusFileName":"Better Map 0.85 scale","nexusFileVersion":"1.3.3","nexusFileUploadedAt":1744783017,"pakFileName":"BetterMap_02ffe10e-ac53-8877-a3d5-3098fdbb8f5b.pak","nexusFileId":89112,"metaUuid":"02ffe10e-ac53-8877-a3d5-3098fdbb8f5b"},
 {"nexusFileName":"Better Map 0.85 scale AH On","nexusFileVersion":"1.3.3","nexusFileUploadedAt":1744783103,"pakFileName":"BetterMap85AH_54cd830f-6428-dec2-76ee-24cfcd26ace6.pak","nexusFileId":89113,"metaUuid":"54cd830f-6428-dec2-76ee-24cfcd26ace6"},
 {"nexusFileName":"Better Map 0.7 scale","nexusFileVersion":"1.3.3","nexusFileUploadedAt":1744783202,"pakFileName":"BetterMapSevenZero_8dbfd625-0a4b-90f0-d5a8-467fcab1c9ba.pak","nexusFileId":89115,"metaUuid":"8dbfd625-0a4b-90f0-d5a8-467fcab1c9ba"},
-{"nexusFileName":"Better Map 1.2 scale","nexusFileVersion":"1.3.3","nexusFileUploadedAt":1744783313,"pakFileName":"BetterMapOneTwoZero_50c57a5c-4e0a-a0ec-36b5-57c1faf0f911.pak","nexusFileId":89116,"metaUuid":"b8a896ff-621d-89d5-2fc5-f86f372b102d"}
+{"nexusFileName":"Better Map 1.2 scale","nexusFileVersion":"1.3.3","nexusFileUploadedAt":1744783313,"pakFileName":"BetterMapOneTwoZero_50c57a5c-4e0a-a0ec-36b5-57c1faf0f911.pak","nexusFileId":89116,"metaUuid":"50c57a5c-4e0a-a0ec-36b5-57c1faf0f911"}
 ]},
 "2257":{"nexusModName":"Spells Enhanced - Enlarge Reduce","nexusUploadedBy":"MaskedRPGFan","nexusModId":2257,"paks":[
 {"nexusFileName":"Spells Enhanced - Enlarge Reduce - A","nexusFileVersion":"2.0.0","nexusFileUploadedAt":1698861848,"pakFileName":"Spells Enhanced - Enlarge Reduce.pak","nexusFileId":26244,"metaUuid":null},
@@ -12445,7 +12445,7 @@
 {"nexusFileName":"CondensedLevelSystem - Vanilla XP","nexusFileVersion":"0.4.1","nexusFileUploadedAt":1700792608,"pakFileName":"CondensedLevelSystem_VanillaXP.pak","nexusFileId":30143,"metaUuid":null}
 ]},
 "3949":{"nexusModName":"Cheat Item - Ring","nexusUploadedBy":"romero0309","nexusModId":3949,"paks":[
-{"nexusFileName":"The Enlightened Ring","nexusFileVersion":"1.1","nexusFileUploadedAt":1699949913,"pakFileName":"TheEnlightened.pak","nexusFileId":28367,"metaUuid":null}
+{"nexusFileName":"The Enlightened Ring","nexusFileVersion":"1.1","nexusFileUploadedAt":1699949913,"pakFileName":"TheEnlightened.pak","nexusFileId":28367,"metaUuid":"34a0b91f-212f-4591-8bba-1a493c3c8c23"}
 ]},
 "3951":{"nexusModName":"Ring of Haste Ita","nexusUploadedBy":"ogugght","nexusModId":3951,"paks":[
 {"nexusFileName":"Ring of Haste Ita","nexusFileVersion":"1.1","nexusFileUploadedAt":1699296314,"pakFileName":"Bugbears RingIta.pak","nexusFileId":27126,"metaUuid":null}
@@ -32541,8 +32541,8 @@
 {"nexusFileName":"The Leg Thing - PAK","nexusFileVersion":"1.0.1.1","nexusFileUploadedAt":1745379778,"pakFileName":"MGNTN_TheLegThing.pak","nexusFileId":90315,"metaUuid":"5b653bb7-9b30-405f-a828-41ec71c8d87e"}
 ]},
 "11461":{"nexusModName":"Veenab Library","nexusUploadedBy":"Veenab","nexusModId":11461,"paks":[
-{"nexusFileName":"VBT Resource(3.5.3.1)","nexusFileVersion":"3.5.3.1","nexusFileUploadedAt":1777462124,"pakFileName":"VBT_Resource.pak","nexusFileId":120172,"metaUuid":"c11543b5-10b6-3be8-7322-d8fc739b32d4"},
-{"nexusFileName":"VBT Resource(3.5.3.1)","nexusFileVersion":"3.5.3.1","nexusFileUploadedAt":1777462124,"pakFileName":"VBT_Toolkit_c11543b5-10b6-3be8-7322-d8fc739b32d4.pak","nexusFileId":120172,"metaUuid":"c11543b5-10b6-3be8-7322-d8fc739b32d4"}
+{"nexusFileName":"VBT Resource(3.5.3.1)","nexusFileVersion":"3.5.3.1","nexusFileUploadedAt":1777462124,"pakFileName":"VBT_Resource.pak","nexusFileId":120172,"metaUuid":"02b17e3e-869e-4df4-8416-0e7296017764"},
+{"nexusFileName":"VBT Resource(3.5.3.1)","nexusFileVersion":"3.5.3.1","nexusFileUploadedAt":1777462124,"pakFileName":"VBT_Toolkit_c11543b5-10b6-3be8-7322-d8fc739b32d4.pak","nexusFileId":120172,"metaUuid":"02b17e3e-869e-4df4-8416-0e7296017764"}
 ]},
 "11462":{"nexusModName":"5e Samurai - Russian Translation","nexusUploadedBy":"Hecctus","nexusModId":11462,"paks":[
 {"nexusFileName":"5e Samurai RU","nexusFileVersion":"1.1.2.0","nexusFileUploadedAt":1726841449,"pakFileName":"Samurai5e_RU.pak","nexusFileId":71914,"metaUuid":null}
